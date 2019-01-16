@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source käyttäytymissäännöt
+Tämä projekti on antanut [Microsoft Open Source toimintasäännöt](https://opensource.microsoft.com/codeofconduct/). Lisätietoja Katso [Koodia ja suorittaa usein kysyttyjä Kysymyksiä](https://opensource.microsoft.com/codeofconduct/faq/) tai ota [opencode@microsoft.com](mailto:opencode@microsoft.com) lisäkysymyksiä tai kommentteja.
