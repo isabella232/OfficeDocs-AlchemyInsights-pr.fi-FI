@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: fi-FI
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383249"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Käyttäjien poistaminen](/AlchemyInsights/deleting-users) | muokattu |
 | 1/11/2019 | [Saumaton kertakirjauksen käyttöönotto](/AlchemyInsights/deploy-seamless-single-sign-on) | muokattu |
 | 1/11/2019 | [Yammer poistaa käytöstä](/AlchemyInsights/disable-access-to-yammer) | muokattu |
+
+
+## <a name="week-of-january-14-2019"></a>14. tammikuuta 2019 viikko
+
+
+| Julkaistu |Aiheen otsikko | Muuta |
+|------|------------|--------|
+| 1/14/2019 | Alkemia paikkamerkki | poistettu |
+| 1/14/2019 | Lisää toimialueen Alkemia | poistettu |
+| 1/14/2019 | [Alkemia asuun kotisivu](/AlchemyInsights/index) | muokattu |
+| 1/17/2019 | [sama tiedostonimi on paras [sääntö #-kuvaus]](/AlchemyInsights/1-alchemy-insight-template) | lisätty |
