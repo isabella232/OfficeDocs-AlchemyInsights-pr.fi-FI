@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
 ms.openlocfilehash: cbde9df219deb932e4286318e58b95e3edd9040a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286421"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467940"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>Näyttää Etsi Excelissä ei korvaa CTRL + H
 
