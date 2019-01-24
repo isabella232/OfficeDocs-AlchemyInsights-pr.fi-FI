@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: 9950fb8af79c7689133a226df29c123feefb0254
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286482"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467417"
 ---
 Onko sinulla sisältöä, joka on **säilyttää** **hallussaan** , jota et tunnista? On **selvittää,** missä pito sijaitsee **postilaatikko** ? Pidot ( *pidätys ominaisuuksia* ) voidaan ottaa käyttöön Office 365: ssä seuraavista tavoista: 
   

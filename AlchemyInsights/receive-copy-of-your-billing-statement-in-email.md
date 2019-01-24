@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286406"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467865"
 ---
 Voit halutessasi saada laskutusselvityksen kopion sähköpostiviestin liitteenä. Jos valitset tämän mahdollisuuden, huomioi seuraavat seikat:
   
@@ -22,9 +22,9 @@ Voit halutessasi saada laskutusselvityksen kopion sähköpostiviestin liitteenä
     
 - Näyttöön tulee kaksi erillistä sähköpostit: yksi, joka mahdollistaa laskutustietoja on valmis, ohjeet Kirjaudu hallintakeskukseen, jossa voit tarkastella sitä, että toisen sähköpostin, joka sisältää liitteenä laskutusosoitteen.
     
-Vastaanottaa asiakkaan laskutusosoitteen sähköpostitse:
+Laskutusselvityksen saaminen sähköpostitse
   
-1. [Laskutuksen ilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853212) -sivun Siirry hallintakeskukseen, tai valitse **laskutuksen** \> **laskutuksen ilmoitukset**.
+1. Siirry hallintakeskuksessa [Laskutusilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853212)-sivulle tai valitse **Laskutus** \> **Laskutusilmoitukset**.
     
     Jos sinulla on käytössä Office 365 Germany, siirry tälle [Laskutusilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853213)-sivulle. 
     

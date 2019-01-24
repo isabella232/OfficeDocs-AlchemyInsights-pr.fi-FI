@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
 ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287294"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468160"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Miten muutan maksuista luottokortin laskun?
 
 > [!NOTE]
 > Laskulla maksettava vaihtoehto on käytettävissä vain, jos Office 365 -tilauksesi hinta on tiettyä summaa suurempi (summa vaihtelee palvelun sijainnin mukaan). Suurten summien maksaminen laskulla saattaa edellyttää luottotietojen tarkistusta. Lue lisää artikkelista [Office 365 for Business -tilauksen maksaminen](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). 
   
-1. [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivun Siirry hallintakeskukseen, tai valitse **laskutuksen** \> **tilaukset**.
+1. Siirry hallintakeskuksessa [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivulle tai valitse **Laskutus** \> **Tilaukset**.
     
 2. Valitse tilaus, jota haluat muuttaa. Valitse **Maksutavat**-osassa **Muokkaa maksutietoja**.
     
@@ -34,6 +34,6 @@ ms.locfileid: "28287294"
   
 4. -** Muuttaa maksutapaa ** valintaikkunan ruutuun, valitse **Jatka**.
     
-5. Valitsemalla **OK** voit palata hallintakeskukseen. 
+5. Palaa hallintakeskukseen valitsemalla **OK**. 
     
 
