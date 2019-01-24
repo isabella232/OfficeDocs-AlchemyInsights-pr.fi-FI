@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383249"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454427"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383249"
 ## <a name="week-of-january-07-2019"></a>Viikon 2019 07 tammikuu
 
 
-| Julkaistu |Aiheen otsikko | Muuta |
+| Julkaistu |Aiheen otsikko | Muuta. |
 |------|------------|--------|
 | 1/7/2019 | [Salasanan vaihtaminen](/AlchemyInsights/change-your-password-in-outlook.com) | lisätty |
 | 1/7/2019 | [Postilaatikon käyttöoikeuksien muuttaminen](/AlchemyInsights/changing-permissions-on-a-mailbox) | lisätty |
@@ -207,7 +207,7 @@ ms.locfileid: "29383249"
 | 1/10/2019 | [Musta tausta näkyy tai solun muotoilu ei Näytä oikealta](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | lisätty |
 | 1/10/2019 | [Käyttö on estetty, kun yhdistät aseman SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | lisätty |
 | 1/10/2019 | [Käyttö on estetty, kun tarkastelet työnkulun](/AlchemyInsights/access-denied-when-viewing-a-workflow) | lisätty |
-| 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | lisätty |
+| 1/10/2019 | Access Services | lisätty |
 | 1/10/2019 | [Aktivoi product Key-tunnuksella uusi tilaus](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | lisätty |
 | 1/10/2019 | [Officen aktivoiminen](/AlchemyInsights/activate-office) | lisätty |
 | 1/10/2019 | [Microsoft Office 365: n aseman käyttöoikeuden tilauksen aktivoiminen](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | lisätty |
@@ -218,7 +218,7 @@ ms.locfileid: "29383249"
 | 1/10/2019 | [Lisää tai Poista käyttäjä sähköposti tunnus](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | lisätty |
 | 1/10/2019 | [Lisää vanhenemaisillaan olevan esimaksetun tilauksen istuimet](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | lisätty |
 | 1/10/2019 | [Lisää vanhenemaisillaan olevan esimaksetun tilauksen istuimet](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | lisätty |
-| 1/10/2019 | [Käyttäjien lisääminen Office 365:een](/AlchemyInsights/add-users-to-office-365) | lisätty |
+| 1/10/2019 | Käyttäjien lisääminen Office 365:een | lisätty |
 | 1/10/2019 | [Ulkoisten käyttäjien lisääminen jakeluryhmään?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | lisätty |
 | 1/10/2019 | [Ulkoisten käyttäjien lisääminen](/AlchemyInsights/adding-external-users) | lisätty |
 | 1/10/2019 | [ADFS Federation varmenteen vanhenemisen](/AlchemyInsights/adfs-federation-certificate-expiring) | lisätty |
@@ -272,7 +272,7 @@ ms.locfileid: "29383249"
 | 1/10/2019 | [Muuta, SharePoint Online, toimialuenimi](/AlchemyInsights/change-domain-name-in-sharepoint-online) | lisätty |
 | 1/10/2019 | [Vaihda, miten usein maksaa](/AlchemyInsights/change-how-often-you-pay) | lisätty |
 | 1/10/2019 | [MDM: N viranomainen muuttaa](/AlchemyInsights/change-mdm-authority) | lisätty |
-| 1/10/2019 | [NameServers muuttaminen](/AlchemyInsights/change-nameservers) | lisätty |
+| 1/10/2019 | Change nameservers | lisätty |
 | 1/10/2019 | [Business tallennuskiintiö OneDrive muuttaminen](/AlchemyInsights/change-onedrive-for-business-storage-quota) | lisätty |
 | 1/10/2019 | [Muuta maksutapaa](/AlchemyInsights/change-payment-method) | lisätty |
 | 1/10/2019 | [SharePoint-luettelon tai kirjaston käyttöoikeuksien muuttaminen](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | lisätty |
@@ -504,7 +504,7 @@ ms.locfileid: "29383249"
 | 1/11/2019 | [Musta tausta näkyy tai solun muotoilu ei Näytä oikealta](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | muokattu |
 | 1/11/2019 | [Käyttö on estetty, kun yhdistät aseman SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | muokattu |
 | 1/11/2019 | [Käyttö on estetty, kun tarkastelet työnkulun](/AlchemyInsights/access-denied-when-viewing-a-workflow) | muokattu |
-| 1/11/2019 | [Access Services](/AlchemyInsights/access-services) | muokattu |
+| 1/11/2019 | Access Services | muokattu |
 | 1/11/2019 | [Aktivoi product Key-tunnuksella uusi tilaus](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | muokattu |
 | 1/11/2019 | [Officen aktivoiminen](/AlchemyInsights/activate-office) | muokattu |
 | 1/11/2019 | [Microsoft Office 365: n aseman käyttöoikeuden tilauksen aktivoiminen](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | muokattu |
@@ -515,7 +515,7 @@ ms.locfileid: "29383249"
 | 1/11/2019 | [Lisää tai Poista käyttäjä sähköposti tunnus](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | muokattu |
 | 1/11/2019 | [Lisää vanhenemaisillaan olevan esimaksetun tilauksen istuimet](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | muokattu |
 | 1/11/2019 | [Lisää vanhenemaisillaan olevan esimaksetun tilauksen istuimet](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | muokattu |
-| 1/11/2019 | [Käyttäjien lisääminen Office 365:een](/AlchemyInsights/add-users-to-office-365) | muokattu |
+| 1/11/2019 | Käyttäjien lisääminen Office 365:een | muokattu |
 | 1/11/2019 | [Ulkoisten käyttäjien lisääminen jakeluryhmään?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | muokattu |
 | 1/11/2019 | [Ulkoisten käyttäjien lisääminen](/AlchemyInsights/adding-external-users) | muokattu |
 | 1/11/2019 | [ADFS Federation varmenteen vanhenemisen](/AlchemyInsights/adfs-federation-certificate-expiring) | muokattu |
@@ -569,7 +569,7 @@ ms.locfileid: "29383249"
 | 1/11/2019 | [Muuta, SharePoint Online, toimialuenimi](/AlchemyInsights/change-domain-name-in-sharepoint-online) | muokattu |
 | 1/11/2019 | [Vaihda, miten usein maksaa](/AlchemyInsights/change-how-often-you-pay) | muokattu |
 | 1/11/2019 | [MDM: N viranomainen muuttaa](/AlchemyInsights/change-mdm-authority) | muokattu |
-| 1/11/2019 | [NameServers muuttaminen](/AlchemyInsights/change-nameservers) | muokattu |
+| 1/11/2019 | Change nameservers | muokattu |
 | 1/11/2019 | [Business tallennuskiintiö OneDrive muuttaminen](/AlchemyInsights/change-onedrive-for-business-storage-quota) | muokattu |
 | 1/11/2019 | [Muuta maksutapaa](/AlchemyInsights/change-payment-method) | muokattu |
 | 1/11/2019 | [SharePoint-luettelon tai kirjaston käyttöoikeuksien muuttaminen](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | muokattu |
@@ -637,7 +637,7 @@ ms.locfileid: "29383249"
 ## <a name="week-of-january-14-2019"></a>14. tammikuuta 2019 viikko
 
 
-| Julkaistu |Aiheen otsikko | Muuta |
+| Julkaistu |Aiheen otsikko | Muuta. |
 |------|------------|--------|
 | 1/14/2019 | Alkemia paikkamerkki | poistettu |
 | 1/14/2019 | Lisää toimialueen Alkemia | poistettu |
