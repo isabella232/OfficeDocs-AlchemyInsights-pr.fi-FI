@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
 ms.openlocfilehash: 3dbbaaabf46ae9163ec8bccc9c4bd87f948577f8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287106"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467237"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="37151-102">OneDriven synkronointiongelmien ratkaiseminen</span><span class="sxs-lookup"><span data-stu-id="37151-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="98f6e-102">OneDriven synkronointiongelmien ratkaiseminen</span><span class="sxs-lookup"><span data-stu-id="98f6e-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="37151-103">Tuki- ja palautus-avustaja app avulla voit tunnistaa ja korjata ongelmia, jotka liittyvät OneDrive tiedostojen synkronointi.</span><span class="sxs-lookup"><span data-stu-id="37151-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
+<span data-ttu-id="98f6e-103">Tuki- ja palautus-avustaja app avulla voit tunnistaa ja korjata ongelmia, jotka liittyvät OneDrive tiedostojen synkronointi.</span><span class="sxs-lookup"><span data-stu-id="98f6e-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
   
-<span data-ttu-id="37151-104">[Lataa tuki ja palautus avustaja](https://aka.ms/sara), kirjaudu tilillesi työ tai oppilaitos ja noudata ohjeita sovelluksen vianmääritys liiketoiminnan OneDrive.</span><span class="sxs-lookup"><span data-stu-id="37151-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
+<span data-ttu-id="98f6e-104">[Lataa tuki ja palautus avustaja](https://aka.ms/sara), kirjaudu tilillesi työ tai oppilaitos ja noudata ohjeita sovelluksen vianmääritys liiketoiminnan OneDrive.</span><span class="sxs-lookup"><span data-stu-id="98f6e-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
   
-[<span data-ttu-id="37151-105">Lisää vianmääritysohjeita</span><span class="sxs-lookup"><span data-stu-id="37151-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
+[<span data-ttu-id="98f6e-105">Lisää vianmääritysohjeita</span><span class="sxs-lookup"><span data-stu-id="98f6e-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
   
 
