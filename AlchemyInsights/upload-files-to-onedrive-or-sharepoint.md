@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.openlocfilehash: 80132ae4f18f44929df50370a21eecbacc325eb3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286630"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467211"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Tiedostojen lataaminen OneDrive tai SharePoint
 
@@ -27,6 +27,6 @@ ms.locfileid: "28286630"
 3. Valitse tiedostot ja vetää ne OneDrive tai SharePoint-sijaintiin. Huomautus: Jos käytät Microsoft Edge, Mozilla FireFox tai Google Chrome, voit myös ladata kansio ja kaikki sen tiedostot.
     
 > [!NOTE]
->  Voit ladata tiedostoja jopa 15 Gigatavua. > Koko polku tiedoston (tiedostonimi mukaan lukien) ei voi olla enintään 400 merkkiä pitkä. > Jos haluat ladata yli 100-tiedostot [OneDrive-synkronointi asiakas](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Voit ladata tiedostoja jopa 15 Gigatavua. > koko polku tiedoston (tiedostonimi mukaan lukien) ei voi olla enintään 400 merkkiä pitkä. Jos haluat ladata yli 100-tiedostot [OneDrive-synkronointi asiakas](https://go.microsoft.com/fwlink/?linkid=866427)>. 
   
 

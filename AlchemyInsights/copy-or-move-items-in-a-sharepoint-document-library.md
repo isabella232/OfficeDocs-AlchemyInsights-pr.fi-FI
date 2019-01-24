@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286300"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467283"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopioida tai siirtää SharePoint-asiakirjakirjastoon
 
@@ -37,6 +37,6 @@ Voit kopioida ja siirtää tiedostoja, kansioita ja linkkejä eri paikkoihin asi
 3. Valitse **tähän kopioida** tai **siirtää tähän**.
     
 > [!NOTE]
->  Enintään 500 Megatavua tiedostoja ja kansioita voi kopioida yhdellä kertaa. > Kun kopioit tiedostoja, jotka olet versiohistoria, uusin versio kopioidaan. Kun siirrät tiedostoja, niiden historia on siirretty. 
+>  Enintään 500 Megatavua tiedostoja ja kansioita voi kopioida yhdellä kertaa. > kopioitaessa asiakirjoja, joissa on uusin versio versiohistoria kopioidaan. Kun siirrät tiedostoja, niiden historia on siirretty. 
   
 
