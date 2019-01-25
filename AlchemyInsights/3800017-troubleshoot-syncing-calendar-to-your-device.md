@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: 4415ecbaa264090f2763ad02dcb31d29f2804b23
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286371"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467534"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="196f0-102">Synkronoidaan laitteeseen kalenteriin liittyviä ongelmia</span><span class="sxs-lookup"><span data-stu-id="196f0-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="6b0af-102">Synkronoidaan laitteeseen kalenteriin liittyviä ongelmia</span><span class="sxs-lookup"><span data-stu-id="6b0af-102">Troubleshoot syncing your calendar to your device</span></span>
 
-[<span data-ttu-id="196f0-103">Ei voi synkronoida kalenterin ja yhteystiedot puhelimen tai Tablet PC: n</span><span class="sxs-lookup"><span data-stu-id="196f0-103">Can't sync calendar and contacts with my phone or tablet</span></span>](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
+[<span data-ttu-id="6b0af-103">Ei voi synkronoida kalenterin ja yhteystiedot puhelimen tai Tablet PC: n</span><span class="sxs-lookup"><span data-stu-id="6b0af-103">Can't sync calendar and contacts with my phone or tablet</span></span>](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
   
 
