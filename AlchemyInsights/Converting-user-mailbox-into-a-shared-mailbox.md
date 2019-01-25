@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287375"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29467434"
 ---
 Voit muuntaa käyttäjän postilaatikon jaetun Exchange-postilaatikon vain jos käyttäjällä on Exchange-käyttöoikeus. Kun postilaatikko on muunnettu, sitä edelleen, koska tämä luettelo sisältää jaettujen postilaatikoiden näy aktiivisten käyttäjien luettelossa. Kuitenkin muunnettu postilaatikon tulee myös näkyviin jaettu postilaatikko-luettelosta. 
   
