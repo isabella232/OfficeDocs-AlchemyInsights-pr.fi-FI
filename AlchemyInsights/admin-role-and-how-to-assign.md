@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: c94af74857e34148420c29fafabd48c8af1eca0e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28286901"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498767"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="ec5fc-102">Mitä admin rooleista ja siitä, miten voit liittää ne?</span><span class="sxs-lookup"><span data-stu-id="ec5fc-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="26cf0-102">Mitä admin rooleista ja siitä, miten voit liittää ne?</span><span class="sxs-lookup"><span data-stu-id="26cf0-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="ec5fc-p101">Ilmeisesti sinulla on järjestelmänvalvoja-roolien kysymyksiin. Nämä artikkelit tulisi vastata kaikkiin kysymyksiin.</span><span class="sxs-lookup"><span data-stu-id="ec5fc-p101">Looks like you have some questions about admin roles. These articles should answer all your questions.</span></span>
+<span data-ttu-id="26cf0-p101">Ilmeisesti sinulla on järjestelmänvalvoja-roolien kysymyksiin. Nämä artikkelit tulisi vastata kaikkiin kysymyksiin.</span><span class="sxs-lookup"><span data-stu-id="26cf0-p101">Looks like you have some questions about admin roles. These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="ec5fc-105">Tietoja Office 365 -järjestelmänvalvojan rooleista</span><span class="sxs-lookup"><span data-stu-id="ec5fc-105">About Office 365 admin roles</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [<span data-ttu-id="26cf0-105">Tietoja Office 365 -järjestelmänvalvojan rooleista</span><span class="sxs-lookup"><span data-stu-id="26cf0-105">About Office 365 admin roles</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
     
-- [<span data-ttu-id="ec5fc-106">Järjestelmänvalvoja-roolien määrittäminen</span><span class="sxs-lookup"><span data-stu-id="ec5fc-106">Assign admin roles</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [<span data-ttu-id="26cf0-106">Järjestelmänvalvoja-roolien määrittäminen</span><span class="sxs-lookup"><span data-stu-id="26cf0-106">Assign admin roles</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
     
-<span data-ttu-id="ec5fc-p102">Kysymykseesi ei löydy vastausta? Ei hätää! Tukihenkilö puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.</span><span class="sxs-lookup"><span data-stu-id="ec5fc-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="26cf0-p102">Kysymykseesi ei löydy vastausta? Ei hätää! Tukihenkilö puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.</span><span class="sxs-lookup"><span data-stu-id="26cf0-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
