@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
 ms.openlocfilehash: 19215a8900386093b5f09e69dd943acbfc20d86d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287254"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499235"
 ---
 # <a name="declined-credit-card"></a>Hylätty luottokortti
 
-Jos maksat luottokortilla ja luottokorttisi hylätään, näyttöön tulee sähköpostiviesti, jolloin tiedät, että emme voi käsitellä maksun. Tarkista huolellisesti, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, vanhentumispäivä, nimen, luottokortin ja osoite, kaupunki, osavaltio ja postinumero - näkyvät sellaisina, kuin ne tehdä luottokortin ja luottokortti-tiliotteen. Voit päivittää luottokorttitietoja ja lähettää välittömästi maksu [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla **maksa nyt** -painikkeen avulla. Lisätietoja on kohdassa ”mitä jos luottokortin on vanhentunut ja oma maksu on mennyt due?” [oman Office 365: ssä business tilauksen maksamiseen](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+Jos maksat luottokortilla ja luottokorttisi peruutetaan, saat sähköpostiviestin, jossa ilmoitetaan, ettei maksua voitu käsitellä. Tarkista uudelleen, että luottokorttitiedot - kortin numero, vanhentumispäivä, luottokortin nimi ja osoite, mukaan lukien kaupunki, osavaltio ja postinumero - näkyvät täsmälleen siten kuin ne ovat luottokortissa ja luottokortin tiliotteessa. Voit päivittää luottokortin tiedot ja lähettää maksun heti painamalla [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivun **Maksa nyt** -painiketta. Katso lisätietoja kohdasta "Entä jos luottokorttini on vanhentunut ja maksun määräpäivä on umpeutunut?" artikkelista [Office 365 for Business -tilauksen maksaminen](https://go.microsoft.com/fwlink/p/?linkid=842054).  
   
 Jos saat edelleen hylkäysviestin, ota yhteyttä pankkiisi. On mahdollista, ettei luottokorttia ole aktivoitu. Jos esimerkiksi sait uuden luottokortin hiljattain, sinun täytyy ehkä vielä aktivoida se erikseen. Pankista saat tietoa myös siitä, voidaanko luottokorttia käyttää verkko-ostoksiin, kansainvälisiin ostoksiin tai toistuviin tapahtumiin.  
   
