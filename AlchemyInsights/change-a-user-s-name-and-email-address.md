@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
-ms.openlocfilehash: 79d7b6bb76398dbc41b32af0bbb75edea652c8c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5be4f432d21ab79c7a92d49a44889468d3a801c7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467319"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662072"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Käyttäjän nimen ja sähköpostiosoitteen muuttaminen
 
 Käyttäjän nimen ja sähköpostiosoitteen vaihtaminen on helppoa! Siirry [Aktiivisten käyttäjien](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users) ja valitse käyttäjä, voit muokata niiden tietoja. Voit myös tässä artikkelissa on vaiheittaiset ohjeet: 
   
-Käyttäjänimen ja sähköpostiosoitteen muuttaminen Office 365:ssä
+[Käyttäjänimen ja sähköpostiosoitteen muuttaminen Office 365:ssä](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297?wt.mc_id=change_email_AI.aspx)
   
  **Huomautus**: Jos muutat käyttäjän ensisijainen sähköpostiosoite, niiden vanha sähköpostiosoite edelleen on voimassa vastaanottaa sähköposti (tämä tapahtuu automaattisesti). Myös organisaatiossa on hybridi-tilassa, jos kaikki sähköposti- ja käyttäjän Nimenmuutokset täytyy tehdä paikalliseen Active Directory- ja synkronoida sitten pilven. 
   

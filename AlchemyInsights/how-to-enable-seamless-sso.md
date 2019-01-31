@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468030"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661136"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Saumaton SSO ottaminen käyttöön
 
-Mahdollistavat saumattoman SSO [Azure AD-yhteyden](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)kautta.
+Mahdollistavat saumattoman SSO [Azure AD-yhteyden](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)kautta.
   
-Jos laadit Azure AD Yhdistä uuden asennuksen, valitse [Mukautettu asennuspolku](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Käyttäjän kirjautumisnimi** -sivulla vaihtoehto **Ota käyttöön kertakirjautuminen** . 
+Jos laadit Azure AD Yhdistä uuden asennuksen, valitse [Mukautettu asennuspolku](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Käyttäjän kirjautumisnimi** -sivulla vaihtoehto **Ota käyttöön kertakirjautuminen** . 
   
 Että saumaton SSO otettu oikein:
   
@@ -32,6 +32,6 @@ Että saumaton SSO otettu oikein:
     
 3. Varmista, että saumattomien kertakirjauksen on **käytössä**.
     
-Jos haluat lisätietoja, katso [Azure Active Directory saumattomien kertakirjauksen: Pika-aloitus](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Jos haluat lisätietoja, katso [Azure Active Directory saumattomien kertakirjauksen: Pika-aloitus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

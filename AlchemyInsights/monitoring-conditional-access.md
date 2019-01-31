@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 06307b57475e8828e6d4e5e01625d5100576f12b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f4153f8a87a138d548c133142b0d48a319bd4b71
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467181"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656564"
 ---
 # <a name="monitoring-conditional-access"></a>Ehdollisen käyttöoikeuden valvonta
 
@@ -35,6 +35,6 @@ Kohdennetut ja ehdollisen käyttöoikeuden käyttäjät saavat sähköposti-ilmo
     
 4. Joku on tiettyjä käytännön kohteeksi lisätä ne **luettelossa** . Sen varmistamiseksi, että henkilö on pois käytännöstä, lisää ne **pois** luettelosta. 
     
-Lue lisää: [miten näyttö ehdollisen käyttöoikeuden laitteet](https://docs.microsoft.com/en-us/intune/conditional-access-exchange-monitor)
+Lue lisää: [miten näyttö ehdollisen käyttöoikeuden laitteet](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

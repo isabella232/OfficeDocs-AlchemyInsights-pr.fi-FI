@@ -2,20 +2,22 @@
 title: Ongelmia asennettaessa Office Solutions
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: ff465b9805fb28be21ce2cc9e8cb8a0eecbdee6e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bd698704cca91a64e8044514b57ab397cb2d3377
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467654"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646020"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Ongelmia asennettaessa Office Solutions
+
 
 Kokeile näitä ratkaisuja korjaa Office-virhe:
   
@@ -31,8 +33,8 @@ Kokeile näitä ratkaisuja korjaa Office-virhe:
     
 3. Noudata jäljellä kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulkea avustajan. 
     
-- [Käytä Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx) asentaa Office 
+- [Käytä Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) asentaa Office 
     
-Saat lisätietoja edellä mainittujen ehdotusten: [Kokeile näitä ratkaisuja Office-virheiden korjaamiseen](https://support.office.com/article/54554bb8-aa94-43c7-a685-408dd9868c0b?wt.mc_id=Alchemy_ClientDIA.aspx).
+Saat lisätietoja asennusvirheet [virhesanomat Officen asennuksen yhteydessä](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   
 

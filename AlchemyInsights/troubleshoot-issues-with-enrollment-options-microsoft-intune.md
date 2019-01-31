@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b603f5347313b914d2b2a79ce585ca535d164e8d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e1b3df0aef535bb79531c12d80032ed85f084fb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467158"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657398"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Ongelmia rekisteröinnin asetukset Microsoft Intune
 
 Tarkista ongelman nyt alla luetellut resurssit. Jos nämä resurssit eivät auta, ota yhteyttä tukeen napsauttamalla [tätä](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) ja valitset ”Luo tukipyynnön”. 
   
-- [Tarkista Intune TechNet löytää vastauksia ja ratkaisuja yleisiin ongelmiin](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Tarkista Intune TechNet löytää vastauksia ja ratkaisuja yleisiin ongelmiin](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- [Intune vianmääritys-portaalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista yhteisen rekisteröinti virheitä. Lisätietoja [tämän asiakirjan](https://docs.microsoft.com/en-us/intune/help-desk-operators) tarkasteleminen. 
+- [Intune vianmääritys-portaalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista yhteisen rekisteröinti virheitä. Lisätietoja [tämän asiakirjan](https://docs.microsoft.com/intune/help-desk-operators) tarkasteleminen. 
     
-- Yleisiä virheitä, jotka estävät rekisteröinti ja ratkaisuja jokaiseen luettelo [tämän asiakirjan](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) tarkasteleminen. 
+- Yleisiä virheitä, jotka estävät rekisteröinti ja ratkaisuja jokaiseen luettelo [tämän asiakirjan](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) tarkasteleminen. 
     
-- [Lisätietoja Microsoftin Intune rekisteröinnin asetukset](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [Lisätietoja Microsoftin Intune rekisteröinnin asetukset](https://docs.microsoft.com/intune/enrollment-options).
     
 

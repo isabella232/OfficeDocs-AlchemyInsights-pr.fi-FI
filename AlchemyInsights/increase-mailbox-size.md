@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467186"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661640"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Vaihda postilaatikon kokoa suunnittelee
 
 Jos postilaatikon koko on jo 100 gt Tilaa, on helppo kasvattaa sitä. Toimi tässä tapauksessa [neuvot](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Jos postilaatikon koko on 50 Gigatavua, voit kasvattaa sitä 100 gt: N Siirtyminen [Office 365 Enterprise-E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) tai [Office 365 Enterprise-E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Voit siirtyä eri Office 365-suunnitelman toimet ovat seuraavat:
+Jos postilaatikon koko on 50 Gigatavua, voit kasvattaa sitä 100 gt: N Siirtyminen [Office 365 Enterprise-E3](https://products.office.com/business/office-365-enterprise-e3-business-software) tai [Office 365 Enterprise-E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voit siirtyä eri Office 365-suunnitelman toimet ovat seuraavat:
   
 1. Siirry [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle Office 365-hallintakeskukseen tai valitse **laskutuksen** \> **tilaukset**.
     

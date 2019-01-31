@@ -2,44 +2,28 @@
 title: Aktivoinnin vianmääritys
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Artikkelin alussa erittäin lyhyt esittely (1 virke). Asettaa itse lukijan - eivät ne tähän? Mitä niiden pitäisi tehdä?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498263"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646956"
 ---
-Artikkelin alussa erittäin lyhyt esittely (1 virke). Asettaa itse lukijan - eivät ne tähän? Mitä niiden pitäisi tehdä? 
-  
-1. Saat suoran suorittamaan tehtävän vaiheiden luettelo.
-    
-    Jos sinun täytyy selittää käsite tai hänen on tehtävä valmiiksi kaikki tarvittavat toimet, Lisää vaihe, jossa he tarvitsevat ja käsite tai vaiheet [linkkiä](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) alla nopean yhteenvedon. 
-    
-2. Pidä lyhyt - menettelyjen mieluiten 5 tai vähemmän vaiheita, enintään 8.
-    
-3. Käyttää **käyttöliittymätyyliä** käyttöliittymän osat tai tekstin käyttäjien täytyy syöttää. 
-    
-4. Käytä verbeistä valita, tai syötä toiminnot ja valitse Muotoile valikot **valikko** \> **komento**.
-    
-5. Voit lisätä kuva konteksti (Jos Käyttöliittymä on vaikea paikantaa tai sen tehtävän suorittamiseen tarvittavaa).
-    
-    Suurin leveys: 520 kuvapistettä. Standard teema, ei näytä mitään henkilökohtaisia tietoja ja rajata näyttämään vain mitä on merkitystä. 
-    
-    ![Paikkamerkki - SOC-artikkelin kuvan enimmäisleveys on 520 kuvapistettä](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Jos haluat lisätä video tai kuva, kahden sarakkeen ruudukon välit ja ohjeita vasemmalla ja video tai kuva oikeassa - on [Esimerkki video ruudukon ja ohjeita](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Enintään 500 sanaa artikkeli kohde.
-  
-# <a name="example-article"></a>Esimerkki artiklan
+# <a name="activation-troubleshooting"></a>Aktivoinnin vianmääritys
 
-[Muuta oma kuva](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+**Ohjauspaneelin** \> **Ohjelmat ja toiminnot**, Etsi Office. Näyttöön pitäisi tulla ProPlus Microsoft Office 365: n tai Microsoft Office 365: n liiketoiminnan. Jos näet luettelossa Office-version, Poista tarpeettomat versio. 
   
-
+Jos et voi poistaa Ohjauspaneelista onnistuneesti, avulla [Recovery avustajan tukea ja](https://aka.ms/SARA-OfficeUninstall-Alchemy) Poista tarpeettomat versio. 
+  
+Jos Office ei ole vielä käyttöoikeutta, siirry takaisin **Ohjauspaneelin** \> **Ohjelmat ja toiminnot**. Jäljellä oleva Office-asennus napsauttamalla hiiren kakkospainikkeella, valitse **Muokkaa** (tai muuta) ja valitse sitten **Online korjaus**. Online korjaus voi kestää jonkin aikaa. Sitten Käynnistä Office uudelleen ja kirjaudu sisään käyttäen työsi tai Koulu tili, jos sinua kehotetaan tekemään niin.
+  
+Jos Office ei ole vielä käyttöoikeutta, ladata ja suorittaa [aktivoinnin vianmääritys](https://aka.ms/SARA-OfficeActivation-Alchemy) haavoittuvuuden sisältävän tietokoneen aktivointi korjaamista. 
+  
+Lisätietoja on ohjeaiheessa: [varastettu tuote ja Office activation virheitä](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

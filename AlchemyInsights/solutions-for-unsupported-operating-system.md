@@ -3,35 +3,34 @@ title: Ratkaisuja ”ei ole tuettu käyttöjärjestelmä'
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 5/29/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
-ms.openlocfilehash: a8d1f7a125cb45c75673e9aed451bbaeec40eef6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dfe06ad27b9936f6a00eff41af97fa6a267d3f6d
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467800"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646740"
 ---
-”Ei ole tuettu käyttöjärjestelmä”
-
 # <a name="solutions-for-unsupported-operating-system"></a>Ratkaisut-käyttöjärjestelmään ei tueta ”
 
-Kun yrität asentaa Office 365/2016, saattaa tulla seuraava virhesanoma, jos laite ei täytä [järjestelmävaatimuksia](https://products.office.com/office-system-requirements).
+
+
+Kun yrität asentaa Office 365- **käyttöjärjestelmää ei tueta** -virhesanoma saattaa tulla, jos laite ei täytä [järjestelmävaatimuksia](https://products.office.com/office-system-requirements).
   
- **”Ei ole tuettu käyttöjärjestelmä”**
+Office 365 vaatii:
   
-Office 365/2016 edellyttää:
-  
-PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1: n, Windows Server 2016, R2 Windows Server 2012: n, Windows Server 2012: n tai Windows Server 2008 R2
-  
-TAI
-  
-Mac OS X-10.10
-  
-Jos sai tämän viestin yrittäessäsi asentaa Office matkaviestimen tai Chromebook, katso [asentaminen Office-sovellusten ja email mobiililaitteessa](https://support.office.com/article/7dabb6cb-0046-40b6-81fe-767e0b1f014f?wt.mc_id=Alchemy_ClientDIA.aspx).
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1: n, Windows Server 2016, R2 Windows Server 2012: n, Windows Server 2012: n tai Windows Server 2008 R2
+    
+    TAI
+    
+- Mac OS X-10.10
+    
+Jos sai tämän viestin yrittäessäsi asentaa Office matkaviestimen tai Chromebook, katso [kuinka asennat ja suoritat Microsoft Officen Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   
 

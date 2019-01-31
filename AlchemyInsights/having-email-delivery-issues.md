@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 115df36605aaef400e6d4eeff7070cc2398bd89c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4b95206e9185f386abafd865ff8c4dc5dd5738d1
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500747"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655628"
 ---
 # <a name="having-email-delivery-issues"></a>Email-toimitus ongelmia?
 
@@ -21,7 +21,7 @@ Voimme havaita, että käyttäjät ei voi vastaanottaa sähköpostit lähetetä�
   
 {HealthCheckString}
   
-Toimialue (DNS) asetukset NS ja MX-tietueet eivät ole määritetty oikein Office 365-palvelun sähköpostin toimittamista varten. Yksityiskohtaisia ohjeita voi viitata [päivittää DNS](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) -tietueisiin Office 365: ssä. 
+Toimialue (DNS) asetukset NS ja MX-tietueet eivät ole määritetty oikein Office 365-palvelun sähköpostin toimittamista varten. Yksityiskohtaisia ohjeita voi viitata [päivittää DNS](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) -tietueisiin Office 365: ssä. 
   
 Jotakuta, siirry sivun [toimialueita](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) Office 365-hallintakeskukseen ja Microsoft auttaa sinua sen kanssa. 
   
