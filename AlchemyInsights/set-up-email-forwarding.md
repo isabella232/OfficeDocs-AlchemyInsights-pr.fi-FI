@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 0a5fb7f1d3ee77051d81468369ddc58f4ae31db7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499919"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657824"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Tarkista sähköposti, välittäminen postilaatikon asetukset
 
@@ -26,10 +26,10 @@ On helppo tarkistaa sähköpostin välittäminen sähköpostilaatikon asetukset!
     
 > Jos tämä on jaettu postilaatikko, siirry **ryhmiä** \> **Jaetut postilaatikot** ja valitse jaetun Exchange-postilaatikon ovat huomauttaneet. Sähköpostien lähettäminen edelleen valitsemalla **Muokkaa** . 
     
-Saat lisätietoja [Määritä sähköposti välittäminen Office 365: ssä](https://support.office.com/en-us/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74). 
+Saat lisätietoja [Määritä sähköposti välittäminen Office 365: ssä](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74). 
   
-Voit lähettää käyttäjille ohjeita, niin ne voit määrittää sähköpostin välityksen postilaatikoihinsa, ne osoittavat välittämään [Sähköposti-sähköposti toiseen asiakkaaseen Office 365: ssä ](https://support.office.com/en-us/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Huomaa, että voit toimittaa vain yksi sähköpostiosoite. Jos haluat määrittää tietylle ryhmälle henkilöitä välityksen, luoda jakeluluettelon (ryhmät)-kohdassa Lisää käyttäjiä ja määritä siirto kyseiseen ryhmään.
+Voit lähettää käyttäjille ohjeita, niin ne voit määrittää sähköpostin välityksen postilaatikoihinsa, ne osoittavat välittämään [Sähköposti-sähköposti toiseen asiakkaaseen Office 365: ssä ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Huomaa, että voit toimittaa vain yksi sähköpostiosoite. Jos haluat määrittää tietylle ryhmälle henkilöitä välityksen, luoda jakeluluettelon (ryhmät)-kohdassa Lisää käyttäjiä ja määritä siirto kyseiseen ryhmään.
   
-Onko sinulla työntekijä jättää? Saat suositellut toimet pitäisi [poistaa entisen työntekijän Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) . 
+Onko sinulla työntekijä jättää? Saat suositellut toimet pitäisi [poistaa entisen työntekijän Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) . 
   
 

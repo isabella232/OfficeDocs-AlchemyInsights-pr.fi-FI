@@ -2,29 +2,25 @@
 title: SharePoint-sivuston luominen
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467648"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657500"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint-sivuston luominen
 
-Hallintakeskukseen uuden SharePoint-sivustojen hallinta, siirry nykyisestä SharePoint-hallintakeskukseen, klikkaa ”kokeile nyt” oikeassa yläkulmassa ja valitse aktiiviset sivustot. Uusi SharePoint-hallintakeskukseen, lisätietoja [aloittaa uuden SharePoint-hallintakeskukseen.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Saat sivuston luomisen asetukset [Uusi SharePoint-hallintakeskukseen sivustojen hallinta](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Valitse [ryhmäsivusto](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (joka luodaan Office 365-ryhmä) tai [tietoliikenne-sivuston](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)luomiseen. Voit luoda [perinteisen sivuston](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)tai uuden ryhmäsivuston, joka ei sisällä Office 365-ryhmä, valitse **Muut asetukset**. 
   
-1. Valitse Luo 
-    
-2. Valitse tämä, jos haluat luoda ryhmäsivuston (joka luodaan Office 365-ryhmä) tai Viestimissivusto. Voit luoda perinteisen sivuston tai uuden ryhmäsivuston, joka ei sisällä Office 365-ryhmä, valitse **Muut asetukset**. Katso tiedot uuden sivustomallien [luominen ryhmäsivuston SharePoint Online-](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) ja [SharePoint Online-sivuston tietoliikenne luonti](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).
-  
- **Huomautus:** Et voi luoda uuden sivuston kanssa samaa aiemmin luodun sivuston URL-osoite. Poistettu sivuston ja haluavat käyttää URL-Osoitetta uudelleen, jos on mahdollista sivustoa, jonka haluat käyttää URL-osoite näkyy edelleen **poistaa sivustot.** **Poistetut sivustot**, korosta poistettava pysyvästi sivusto ja valitse **Poista** -painike. 
-  
- **Huomautus:** Voit hallita, kuka voi luoda sivustoja, katso [Hallitse sivuston luominen SharePoint Onlinessa](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Vihjeitä:
+- *Et voi luoda sivuston aiemmin luotuun sivustoon samaa URL-Osoitetta. Poistettu sivuston ja haluavat käyttää URL-Osoitetta uudelleen, jos on mahdollista poistettu sivustosta on **poistettu sivustojen**alle. Voit hallita poistetaan Katso sivustot, [poistaa sivuston](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). PowerShellin sivuston poistaminen kokonaan, on esimerkki [Poista SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet-komennolla.*
+- *Jotkin käyttäjät eivät välttämättä pysty luomaan sivuston. [Hallitse sivuston luominen SharePoint Online-](https://docs.microsoft.com/sharepoint/manage-site-creation)kohdassa.*
+- *On mahdollista, sivusto näkyy odotettua kauemmin **luominen** on jumissa. Jos on kulunut yli 24 tuntia näit tämän ongelman, kirjaudu support ticket. Monissa tapauksissa olemme jo käsittelet ratkaisua. Antakaa meille vähintään 24 tuntia ratkaisua.*
