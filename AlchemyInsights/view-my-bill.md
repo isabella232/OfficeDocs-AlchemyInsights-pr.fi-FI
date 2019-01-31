@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: acc6bc0afed1a1e0fa6e3665b1d266b8f26af577
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467480"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657644"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="efffb-102">Näytä omat bill</span><span class="sxs-lookup"><span data-stu-id="efffb-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="670fa-102">Näytä omat bill</span><span class="sxs-lookup"><span data-stu-id="670fa-102">View my bill</span></span>
 
-1. <span data-ttu-id="efffb-103">Siirry hallintakeskuksessa [Laskut](https://go.microsoft.com/fwlink/p/?linkid=848039)-sivulle tai valitse **Laskutus** \> **Laskut**.</span><span class="sxs-lookup"><span data-stu-id="efffb-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
+1. <span data-ttu-id="670fa-103">[Laskut](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivun Siirry hallintakeskukseen, tai valitse **laskutuksen** \> **laskut**.</span><span class="sxs-lookup"><span data-stu-id="670fa-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
     
-2. <span data-ttu-id="efffb-104">Valitse haluamasi laskun kuukausi ja päivämäärä ja valitse sitten **Näytä**.</span><span class="sxs-lookup"><span data-stu-id="efffb-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="670fa-104">Valitse haluamasi laskun kuukausi ja päivämäärä ja valitse sitten **Näytä**.</span><span class="sxs-lookup"><span data-stu-id="670fa-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
     
-3. <span data-ttu-id="efffb-105">Valitse tilaus ja valitse sitten **Näytä tiedot**.</span><span class="sxs-lookup"><span data-stu-id="efffb-105">Choose an order, and then choose **View Details**.</span></span>
+3. <span data-ttu-id="670fa-105">Valitse tilaus ja valitse sitten **Näytä tiedot**.</span><span class="sxs-lookup"><span data-stu-id="670fa-105">Choose an order, and then choose **View Details**.</span></span>
     
-<span data-ttu-id="efffb-106">Saat lisätietoja [Näytä lasku tai laskun](https://support.office.com/en-us/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span><span class="sxs-lookup"><span data-stu-id="efffb-106">For more information see [View your bill or invoice](https://support.office.com/en-us/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
+<span data-ttu-id="670fa-106">Saat lisätietoja [Näytä lasku tai laskun](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span><span class="sxs-lookup"><span data-stu-id="670fa-106">For more information see [View your bill or invoice](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
   
 

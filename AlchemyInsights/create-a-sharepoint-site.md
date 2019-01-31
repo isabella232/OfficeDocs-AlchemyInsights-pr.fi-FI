@@ -2,29 +2,25 @@
 title: SharePoint-sivuston luominen
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467648"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657500"
 ---
-# <a name="create-a-sharepoint-site"></a><span data-ttu-id="2a79c-102">SharePoint-sivuston luominen</span><span class="sxs-lookup"><span data-stu-id="2a79c-102">Create a SharePoint site</span></span>
+# <a name="create-a-sharepoint-site"></a><span data-ttu-id="9231e-102">SharePoint-sivuston luominen</span><span class="sxs-lookup"><span data-stu-id="9231e-102">Create a SharePoint site</span></span>
 
-<span data-ttu-id="2a79c-p101">Hallintakeskukseen uuden SharePoint-sivustojen hallinta, siirry nykyisestä SharePoint-hallintakeskukseen, klikkaa ”kokeile nyt” oikeassa yläkulmassa ja valitse aktiiviset sivustot. Uusi SharePoint-hallintakeskukseen, lisätietoja [aloittaa uuden SharePoint-hallintakeskukseen.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)</span><span class="sxs-lookup"><span data-stu-id="2a79c-p101">To manage sites in the new SharePoint admin center, go to the current SharePoint admin center, click "Try it now" in the upper right, and then select Active sites. For information about the new SharePoint admin center, see [Get started with the new SharePoint admin center.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)</span></span>
+<span data-ttu-id="9231e-p101">Saat sivuston luomisen asetukset [Uusi SharePoint-hallintakeskukseen sivustojen hallinta](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Valitse [ryhmäsivusto](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (joka luodaan Office 365-ryhmä) tai [tietoliikenne-sivuston](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)luomiseen. Voit luoda [perinteisen sivuston](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)tai uuden ryhmäsivuston, joka ei sisällä Office 365-ryhmä, valitse **Muut asetukset**.</span><span class="sxs-lookup"><span data-stu-id="9231e-p101">See [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation ) for site creation options. Select to create a [team site](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (which will create an Office 365 group) or a [communication site](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). To create a [classic site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site), or a new team site that doesn't include an Office 365 group, click **Other options**.</span></span> 
   
-1. <span data-ttu-id="2a79c-105">Valitse Luo</span><span class="sxs-lookup"><span data-stu-id="2a79c-105">Click **Create**.</span></span> 
-    
-2. <span data-ttu-id="2a79c-p102">Valitse tämä, jos haluat luoda ryhmäsivuston (joka luodaan Office 365-ryhmä) tai Viestimissivusto. Voit luoda perinteisen sivuston tai uuden ryhmäsivuston, joka ei sisällä Office 365-ryhmä, valitse **Muut asetukset**. Katso tiedot uuden sivustomallien [luominen ryhmäsivuston SharePoint Online-](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) ja [SharePoint Online-sivuston tietoliikenne luonti](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).</span><span class="sxs-lookup"><span data-stu-id="2a79c-p102">Select to create a team site (which will create an Office 365 group) or a communication site. To create a classic site, or a new team site that doesn't include an Office 365 group, click **Other options**. For info about the new site templates, see [Create a team site in SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) and [Create a communication site in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).</span></span>
-  
- <span data-ttu-id="2a79c-p103">**Huomautus:** Et voi luoda uuden sivuston kanssa samaa aiemmin luodun sivuston URL-osoite. Poistettu sivuston ja haluavat käyttää URL-Osoitetta uudelleen, jos on mahdollista sivustoa, jonka haluat käyttää URL-osoite näkyy edelleen **poistaa sivustot.** **Poistetut sivustot**, korosta poistettava pysyvästi sivusto ja valitse **Poista** -painike.</span><span class="sxs-lookup"><span data-stu-id="2a79c-p103">**Note:** You cannot create a new site with the same URL of an existing site. If you deleted a site and are wishing to re-use the URL, it's possible the site with the URL you are looking to use is still present in **Deleted sites.** Click **Deleted sites**, highlight the site to permanently delete, and select the **Delete** button.</span></span> 
-  
- <span data-ttu-id="2a79c-112">**Huomautus:** Voit hallita, kuka voi luoda sivustoja, katso [Hallitse sivuston luominen SharePoint Onlinessa](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).</span><span class="sxs-lookup"><span data-stu-id="2a79c-112">**Note:** To manage who can create sites, see [Manage site creation in SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).</span></span>
-    
-
+<span data-ttu-id="9231e-106">Vihjeitä:</span><span class="sxs-lookup"><span data-stu-id="9231e-106">Tips:</span></span>
+- <span data-ttu-id="9231e-107">*Et voi luoda sivuston aiemmin luotuun sivustoon samaa URL-Osoitetta. Poistettu sivuston ja haluavat käyttää URL-Osoitetta uudelleen, jos on mahdollista poistettu sivustosta on **poistettu sivustojen**alle. Voit hallita poistetaan Katso sivustot, [poistaa sivuston](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). PowerShellin sivuston poistaminen kokonaan, on esimerkki [Poista SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet-komennolla.*</span><span class="sxs-lookup"><span data-stu-id="9231e-107">*You cannot create a site with the same URL of an existing site. If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under **Deleted sites**. To manage deleted sites see, [Delete a Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.*</span></span>
+- <span data-ttu-id="9231e-108">*Jotkin käyttäjät eivät välttämättä pysty luomaan sivuston. [Hallitse sivuston luominen SharePoint Online-](https://docs.microsoft.com/sharepoint/manage-site-creation)kohdassa.*</span><span class="sxs-lookup"><span data-stu-id="9231e-108">*Some users may not be able to create a site. See [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*</span></span>
+- <span data-ttu-id="9231e-109">*On mahdollista, sivusto näkyy odotettua kauemmin **luominen** on jumissa. Jos on kulunut yli 24 tuntia näit tämän ongelman, kirjaudu support ticket. Monissa tapauksissa olemme jo käsittelet ratkaisua. Antakaa meille vähintään 24 tuntia ratkaisua.*</span><span class="sxs-lookup"><span data-stu-id="9231e-109">*It's possible the site appears stuck at **Creating** longer than expected. If more than 24 hours have passed since you first saw this issue, please log a support ticket. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.*</span></span>
