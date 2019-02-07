@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
-ms.openlocfilehash: 877f5746ee97fe6ff5b912235974bc5ea0cdc3c3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f93d0f648466f641c457a16e8fc8e69819fde316
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467556"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759565"
 ---
 # <a name="service-incident-in-progress"></a>Palvelu käynnissä tapaus
 
-Saattaa vaikuttaa palvelun vaaratilanteen tai neuvoa, joka on tällä hetkellä tutkimuksen kohteena. Voit tarkistaa viimeisin tila [Palvelun kunto](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) -sivulle. 
+Saattaa vaikuttaa palvelun vaaratilanteen tai neuvoa, joka on tällä hetkellä tutkimuksen kohteena. Voit tarkistaa viimeisin tila [Palvelun kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulle. 
   
 Yksinkertaisuuden vuoksi löydät tämän tapauksen alla yhteenveto:
   
-> **Tapauksen numero:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)
+> **Tapauksen numero:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Vaikuttaa kuvaus: {ImpactDescription}
     

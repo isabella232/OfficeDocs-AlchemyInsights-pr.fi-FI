@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657824"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759454"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Tarkista sähköposti, välittäminen postilaatikon asetukset
 
@@ -30,6 +30,6 @@ Saat lisätietoja [Määritä sähköposti välittäminen Office 365: ssä](http
   
 Voit lähettää käyttäjille ohjeita, niin ne voit määrittää sähköpostin välityksen postilaatikoihinsa, ne osoittavat välittämään [Sähköposti-sähköposti toiseen asiakkaaseen Office 365: ssä ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Huomaa, että voit toimittaa vain yksi sähköpostiosoite. Jos haluat määrittää tietylle ryhmälle henkilöitä välityksen, luoda jakeluluettelon (ryhmät)-kohdassa Lisää käyttäjiä ja määritä siirto kyseiseen ryhmään.
   
-Onko sinulla työntekijä jättää? Saat suositellut toimet pitäisi [poistaa entisen työntekijän Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) . 
+Onko sinulla työntekijä jättää? Saat suositellut toimet pitäisi [poistaa entisen työntekijän Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) . 
   
 
