@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468051"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770650"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Tietoja Outlookissa ja Outlook web-edustajat
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegoinnin Outlookissa ja Outlook web-vianmääritys
 
-Lisätietoja on seuraavissa ohjeaiheissa:
-  
-- **Outlook**: [joku muu sähköpostin ja kalenterin avulla](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook Web**: [valtuuskunnan kalenteri Outlookissa, Web-liiketoiminnan](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Vianmääritys SaRA-työkalulla:**
 
+1. Lataa ja asenna työkalu SaRA täältä
+1. Valitse Outlook, sitten ”Minulla on ongelmia oman kalenterin kanssa”
+1. Sano Kyllä haavoittuvuuden sisältävään tietokoneeseen
+1. Lisää ongelman kohdanneen käyttäjän sähköpostiosoite
+1. Valitse ”Minulla on ongelmia kanssa edustajien oikeudet”
+1. Seuraavan kehotteen, jos henkilö antaa käyttöoikeudet, kirjoita sähköpostiosoite edustajan. Jos olet edustaja olet saanut käyttöoikeudet, kirjoita sähköpostiosoite on henkilö, joka on antanut sinulle oikeudet.
+1. Valitse vaihtoehto, joka sopii parhaiten tilannetta seuraava valikko. 
+1. Seuraava valikosta Valitse käyttöoikeustaso.
+1. Tässä vaiheessa SaRA työkalu suorittaa automaattisia tarkastuksia ja sen tarjota mahdollinen ratkaisu tai vaihtoehtoisesti antaa vianmäärityslokissa, jonka avulla saat lisää vianmääritysohjeita.
+1. Löydät osoitteessa C:\Users\Username\AppData\Local\SaraResults SaRA tulokset kansio lokit
