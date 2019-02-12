@@ -7,17 +7,17 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 257cefce17262a45c689d63a513aa1157be537d6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d02a715a96b3120ca33a347fb84e63ce6848372d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468169"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941469"
 ---
-# <a name="spam-filter-not-working"></a><span data-ttu-id="c043d-102">Roskapostin suodatus ei toimi</span><span class="sxs-lookup"><span data-stu-id="c043d-102">Spam filter not working</span></span>
+# <a name="spam-filter-not-working"></a><span data-ttu-id="0ccf5-102">Roskapostin suodatus ei toimi</span><span class="sxs-lookup"><span data-stu-id="0ccf5-102">Spam filter not working</span></span>
 
-<span data-ttu-id="c043d-p101">Jos uskot, että olet saanut viestin vai tunnistetietojen väärentäminen, huijaus, merkitä roskapostiksi viestin ja sitten **Roskapostin**viesti ja valitse **roskapostiksi** \> **Phishing** merkitä phishing huijaus. Lisätietoja väärinkäyttöä, phishing ja väärentäminen, [Lue tämä](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3). Estää sähköpostiosoitteiden, Lisää osoitteita tai toimialueita Turvalliset lähettäjät-luetteloon tai käyttää roskapostin muut asetukset, valitse **Roskaposti sähköposti asetukset**.</span><span class="sxs-lookup"><span data-stu-id="c043d-p101">If you believe a message you've received is a phishing or spoofing scam, mark the message as junk, then go to **Junk Email**, select the message, and select **Not junk** \> **Phishing** to mark it as a phishing scam. To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3). To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span> 
+<span data-ttu-id="0ccf5-p101">Jos uskot, että olet saanut viestin vai tunnistetietojen väärentäminen, huijaus, merkitä roskapostiksi viestin ja sitten **Roskapostin**viesti ja valitse **roskapostiksi** \> **Phishing** merkitä phishing huijaus. Lisätietoja väärinkäyttöä, phishing ja väärentäminen, [Lue tämä](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3). Estää sähköpostiosoitteiden, Lisää osoitteita tai toimialueita Turvalliset lähettäjät-luetteloon tai käyttää roskapostin muut asetukset, valitse **Roskaposti sähköposti asetukset**.</span><span class="sxs-lookup"><span data-stu-id="0ccf5-p101">If you believe a message you've received is a phishing or spoofing scam, mark the message as junk, then go to **Junk Email**, select the message, and select **Not junk** \> **Phishing** to mark it as a phishing scam. To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3). To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span> 
   
 

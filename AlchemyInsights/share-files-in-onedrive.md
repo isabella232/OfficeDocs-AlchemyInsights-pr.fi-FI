@@ -7,38 +7,38 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: 90b295e5cff3b98b18e6f34d42de3c55b376c6c0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467684"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29913497"
 ---
-# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="0771b-102">-OneDrive jakaminen</span><span class="sxs-lookup"><span data-stu-id="0771b-102">How to share in OneDrive</span></span>
+# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="5c07d-102">-OneDrive jakaminen</span><span class="sxs-lookup"><span data-stu-id="5c07d-102">How to share in OneDrive</span></span>
 
-1. <span data-ttu-id="0771b-103">Siirry OneDrive selaimessa käyttämällä app aloituksen.</span><span class="sxs-lookup"><span data-stu-id="0771b-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
+1. <span data-ttu-id="5c07d-103">Siirry OneDrive selaimessa käyttämällä app aloituksen.</span><span class="sxs-lookup"><span data-stu-id="5c07d-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
     
-2. <span data-ttu-id="0771b-104">Valitse tiedosto tai kansio, jonka haluat jakaa, ja valitse sitten **Jaa**.</span><span class="sxs-lookup"><span data-stu-id="0771b-104">Select the file or folder you want to share, and then select **Share**.</span></span>
+2. <span data-ttu-id="5c07d-104">Valitse tiedosto tai kansio, jonka haluat jakaa, ja valitse sitten **Jaa**.</span><span class="sxs-lookup"><span data-stu-id="5c07d-104">Select the file or folder you want to share, and then select **Share**.</span></span>
     
-3. <span data-ttu-id="0771b-105">(Valinnainen) Jos linkkityyppi ei ole haluamasi, valitse alanuolta napsauttamalla voit valita eri tyyppiä:</span><span class="sxs-lookup"><span data-stu-id="0771b-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+3. <span data-ttu-id="5c07d-105">(Valinnainen) Jos linkkityyppi ei ole haluamasi, valitse alanuolta napsauttamalla voit valita eri tyyppiä:</span><span class="sxs-lookup"><span data-stu-id="5c07d-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="0771b-p101">**Kuka tahansa** avulla käyttää kuka tahansa, joka vastaanottaa tämän linkin, siitä tulee sen suoraan sinulle toimitetaan jonkun. Tähän voi kuulua organisaation ulkopuolelle.</span><span class="sxs-lookup"><span data-stu-id="0771b-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="5c07d-p101">**Kuka tahansa** avulla käyttää kuka tahansa, joka vastaanottaa tämän linkin, siitä tulee sen suoraan sinulle toimitetaan jonkun. Tähän voi kuulua organisaation ulkopuolelle.</span><span class="sxs-lookup"><span data-stu-id="5c07d-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="0771b-108">\*\*Henkilöt \<organisaatiosi\> \*\* antaa kaikille organisaatio-oikeus linkki, ovatko he saavat sen suoraan sinulle tai lähettää jonkun.</span><span class="sxs-lookup"><span data-stu-id="0771b-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="5c07d-108">\*\*Henkilöt \<organisaatiosi\> \*\* antaa kaikille organisaatio-oikeus linkki, ovatko he saavat sen suoraan sinulle tai lähettää jonkun.</span><span class="sxs-lookup"><span data-stu-id="5c07d-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="0771b-p102">**Tietyille henkilöille** oikeuttaa käyttämään vain niille henkilöille, määrität, vaikka muut käyttäjät voivat ehkä käyttää jo. Jos ihmiset välittää jakamiskutsun, vain henkilöt, joilla on jo pääsy kohde voi käyttää linkin.</span><span class="sxs-lookup"><span data-stu-id="0771b-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="5c07d-p102">**Tietyille henkilöille** oikeuttaa käyttämään vain niille henkilöille, määrität, vaikka muut käyttäjät voivat ehkä käyttää jo. Jos ihmiset välittää jakamiskutsun, vain henkilöt, joilla on jo pääsy kohde voi käyttää linkin.</span><span class="sxs-lookup"><span data-stu-id="5c07d-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="0771b-p103">Jos jokin näistä vaihtoehdoista ei ole käytettävissä tai jos haluat toisen linkkityyppi näkyy oletusarvon mukaan, voit muuttaa asetuksiasi yrityksenlaajuisten siirtymällä hallintakeskukseen OneDrive ja **jakaminen** valitsemalla vasemmanpuoleisessa ruudussa. [Lue lisää](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="0771b-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
+    > <span data-ttu-id="5c07d-p103">Jos jokin näistä vaihtoehdoista ei ole käytettävissä tai jos haluat toisen linkkityyppi näkyy oletusarvon mukaan, voit muuttaa asetuksiasi yrityksenlaajuisten siirtymällä hallintakeskukseen OneDrive ja **jakaminen** valitsemalla vasemmanpuoleisessa ruudussa. [Lue lisää](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="5c07d-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
   
-4. <span data-ttu-id="0771b-p104">Oletusarvon mukaan **Salli muokkaus** on käytössä. Jos haluat, että käyttäjät voivat tarkastella vain tiedostoja, poista valintaruudun valinta.</span><span class="sxs-lookup"><span data-stu-id="0771b-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
+4. <span data-ttu-id="5c07d-p104">Oletusarvon mukaan **Salli muokkaus** on käytössä. Jos haluat, että käyttäjät voivat tarkastella vain tiedostoja, poista valintaruudun valinta.</span><span class="sxs-lookup"><span data-stu-id="5c07d-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
     
-5. <span data-ttu-id="0771b-115">Anna henkilöiden nimet, joille haluat jakaa, ja valitse sitten **Lähetä**.</span><span class="sxs-lookup"><span data-stu-id="0771b-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
+5. <span data-ttu-id="5c07d-115">Anna henkilöiden nimet, joille haluat jakaa, ja valitse sitten **Lähetä**.</span><span class="sxs-lookup"><span data-stu-id="5c07d-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
     
-<span data-ttu-id="0771b-116">Lisätietoja</span><span class="sxs-lookup"><span data-stu-id="0771b-116">[Learn more](https://go.microsoft.com/fwlink/?linkid=871861)</span></span>
+[<span data-ttu-id="5c07d-116">Opi lisää</span><span class="sxs-lookup"><span data-stu-id="5c07d-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

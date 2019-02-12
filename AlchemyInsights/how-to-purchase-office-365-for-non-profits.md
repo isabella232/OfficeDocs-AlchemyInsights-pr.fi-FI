@@ -7,19 +7,19 @@ ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 6107918d42cfc7e3c348c06706bee506107855bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c221e3e689cf682bab21ce3db7872b5091fd8606
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467192"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915513"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="36754-102">Ei-voittoa Office 365: n hankkimisesta</span><span class="sxs-lookup"><span data-stu-id="36754-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="41d3f-102">Ei-voittoa Office 365: n hankkimisesta</span><span class="sxs-lookup"><span data-stu-id="41d3f-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="36754-p101">Tarkasteltavana on oikeutettu kuin Microsoft pätevä järjestö. Voi odottaa ottamaan vastaan ilmoituksen käyttöön oikeuttavaa määrittämiseksi ennen kuin kokeilujakso umpeutuu. Sovelluksen tilaa voi seurata [tätä](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="36754-p101">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires. You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
+<span data-ttu-id="41d3f-p101">Tarkasteltavana on oikeutettu kuin Microsoft pätevä järjestö. Voi odottaa ottamaan vastaan ilmoituksen käyttöön oikeuttavaa määrittämiseksi ennen kuin kokeilujakso umpeutuu. Sovelluksen tilaa voi seurata [tätä](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="41d3f-p101">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires. You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
   
 
