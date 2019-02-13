@@ -1,5 +1,5 @@
 ---
-title: Office 365 -yritysversion kokeiluajan pidentäminen
+title: Office 365-kokeiluversion liiketoiminnan laajentaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,18 +7,18 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29467342"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29937833"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Office 365 for Business -kokeiluversion laajentaminen
+# <a name="extend-your-trial-for-office-365-for-business"></a>Office 365-kokeiluversion liiketoiminnan laajentaminen
 
 Jos ei ole vielä laajennettu kokeiluversion ennen koeversion tilaus on päättyy 15 päivän kuluessa, voit laajentaa toisen 30 päivän kokeilujakso. Voit vain tehdä tämän kerran.
   
