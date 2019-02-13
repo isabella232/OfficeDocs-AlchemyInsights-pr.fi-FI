@@ -838,3 +838,57 @@
 | 1/30/2019 | [123-tilin hankkiminen käytöstä Accessissa virhe?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | muokattu |
 | 2/1/2019 | [sama tiedostonimi on paras [sääntö #-kuvaus]](/AlchemyInsights/1-alchemy-insight-template) | muokattu |
 | 2/1/2019 | [Postilaatikon käyttöoikeuksien muuttaminen](/AlchemyInsights/changing-permissions-on-a-mailbox) | muokattu |
+
+
+## <a name="week-of-february-04-2019"></a>Viikko 04. helmikuuta 2019
+
+
+| Julkaistu |Aiheen otsikko | Muuta |
+|------|------------|--------|
+| 2/4/2019 | [Käyttäjien lisääminen Office 365:een](/AlchemyInsights/add-users-to-office-365) | muokattu |
+| 2/6/2019 | [Pidä työntekijän](/AlchemyInsights/employee-leaving) | muokattu |
+| 2/6/2019 | [Admin ottamalla haltuun jollei](/AlchemyInsights/admin-takeover) | muokattu |
+| 2/6/2019 | [Haetaan TenantAccessBlockedException-virhe käytettäessä 127 sähköposti?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | muokattu |
+| 2/6/2019 | [959 Vaihda näyttönimi](/AlchemyInsights/959-change-display-name) | muokattu |
+| 2/6/2019 | [Lisää tai Poista käyttäjä sähköposti tunnus](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | muokattu |
+| 2/6/2019 | Lisää vanhenemaisillaan olevan esimaksetun tilauksen istuimet | poistettu |
+| 2/6/2019 | [Käyttäjien lisääminen Office 365:een](/AlchemyInsights/add-users-to-office-365) | muokattu |
+| 2/6/2019 | [Ulkoisten käyttäjien lisääminen jakeluryhmään?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | muokattu |
+| 2/6/2019 | Admin - Yleiset Office 365: n asetukset ja hallinta | poistettu |
+| 2/6/2019 | Admin - oma käyttäjien, ryhmien ja resurssien hallinta | poistettu |
+| 2/6/2019 | Järjestelmänvalvoja - asennuksen toimialueen ja DNS-asetukset | poistettu |
+| 2/6/2019 | Admin - kirjautuminen ja salasana ongelmia | poistettu |
+| 2/6/2019 | [Office 365-tilauksen peruuttaminen](/AlchemyInsights/cancel-office-365-subscription) | muokattu |
+| 2/6/2019 | [Käyttäjän nimen ja sähköpostiosoitteen muuttaminen](/AlchemyInsights/change-a-user-s-name-and-email-address) | muokattu |
+| 2/6/2019 | Commerce - laskut, maksut, tilaukset ja käyttöoikeuksien hallinta | poistettu |
+| 2/6/2019 | [Tulee TenantAccessBlockedException-virhesanoma käytettäessä sähköposti?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | muokattu |
+| 2/6/2019 | [Email-toimitus ongelmia?](/AlchemyInsights/having-email-delivery-issues-0) | muokattu |
+| 2/6/2019 | [Email-toimitus ongelmia?](/AlchemyInsights/having-email-delivery-issues) | muokattu |
+| 2/6/2019 | [Outlook muodostaa yhteyden saaminen ongelmia?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | muokattu |
+| 2/6/2019 | [Outlook muodostaa yhteyden saaminen ongelmia?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | muokattu |
+| 2/6/2019 | Intune - Lataa, asennus ja Intune | poistettu |
+| 2/6/2019 | [Ongelma Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | muokattu |
+| 2/6/2019 | ODSP | poistettu |
+| 2/6/2019 | Office-asiakas - Excel | poistettu |
+| 2/6/2019 | [Palauta poistetut käyttäjä](/AlchemyInsights/restore-deleted-user) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress-0) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress-1) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress-2) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress-3) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress-4) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress-5) | muokattu |
+| 2/6/2019 | [Palvelu käynnissä tapaus](/AlchemyInsights/service-incident-in-progress) | muokattu |
+| 2/6/2019 | [Projektin määrittäminen](/AlchemyInsights/setting-up-project) | muokattu |
+| 2/6/2019 | Yhteensopivuus toiminnot, kuten arkisto, säilytys, oikeusjutun, eDiscovery ja MDM | poistettu |
+| 2/6/2019 | Officen Offline Installer-ohjelman käyttäminen | poistettu |
+| 2/6/2019 | Yammer - asetukset ja palveluiden Yammer | poistettu |
+| 2/7/2019 | [Excel kaatuu?](/AlchemyInsights/excel-crashing) | muokattu |
+| 2/7/2019 | [Lisääminen tai muokkaaminen VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | muokattu |
+| 2/7/2019 | [Minecraft Edition Office 365-opetus vapaa](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | muokattu |
+| 2/7/2019 | [606 delegoinnin tiedot](/AlchemyInsights/606-information-on-delegation) | muokattu |
+| 2/7/2019 | [Ryhmä ei näy ryhmät-luettelossa.](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | muokattu |
+| 8/2/2019 | [DLP-käytännön vihjeitä ei toimi](/AlchemyInsights/dlp-policy-tips-not-working) | muokattu |
+| 8/2/2019 | [DLP-säännön USA / UK passin numero ei toimi](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | muokattu |
+| 8/2/2019 | [Office 365-opetus vapaa](/AlchemyInsights/office-365-education-for-free) | muokattu |
+| 8/2/2019 | [Edellyttää Microsoft ToDo todistusten](/AlchemyInsights/required-licences-for-microsoft-todo) | muokattu |
+| 8/2/2019 | [Säilytyskäytännöt Keskikaiuttimen Admin ei toimi](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | muokattu |
