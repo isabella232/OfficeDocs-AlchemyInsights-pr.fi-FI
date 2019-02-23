@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919437"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208080"
 ---
 # <a name="compare-office-365-plans"></a>Vertaa suunnitelmat Office 365: ssä
 
@@ -26,7 +26,7 @@ Office 365: n suunnitelmat ovat käytettävissä [business](https://products.off
   
 Jos organisaatiosi on kiinnostunut vertaamalla kaikki suunnitelmat ja hinnoittelu, tarkista [kaikki Office 365-suunnitelmien vertailu](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jos organisaatiossasi on jo ostanut Office 365-suunnitelman ja on kiinnostunut eri suunnitelma voit niin kuin Office 365-hallintakeskukseen Siirry [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)tai valitse **laskutuksen** siirrytään \> **tilaukset**. **Valitsin suunnitelmia** valita tarkastella uusia suunnitelmia, jotka ovat käytettävissä. 
+Jos organisaatiossasi on jo ostanut Office 365-suunnitelman ja on kiinnostunut siirrytään eri suunnitelma voit niin Centeristä Microsoft 365 admin Siirry [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)tai valitse **laskutuksen** \> **tilaukset**. **Valitsin suunnitelmia** valita tarkastella uusia suunnitelmia, jotka ovat käytettävissä. 
   
 Organisaatiosi voi myös sekoitetaan ja vastaa Office 365: n suunnitelmat tarpeiden ja ominaisuuksien käyttäjien vaatimusten täyttämiseksi. Office 365: n hallinnan, [Osto-palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla tai valitse **laskutuksen** \> **Osto palvelut**.
   

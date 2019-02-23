@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 2f96c6ee5d2f58265057641694c0536a42a5faa3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 89e9507141a28422de16455d95b052df77c6545a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905037"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209986"
 ---
 # <a name="having-email-delivery-issues"></a>Email-toimitus ongelmia?
 
@@ -23,7 +23,7 @@ Voimme havaita, että käyttäjät ei voi vastaanottaa sähköpostit lähetetä�
   
 Toimialue (DNS) asetukset NS ja MX-tietueet eivät ole määritetty oikein Office 365-palvelun sähköpostin toimittamista varten. Yksityiskohtaisia ohjeita voi viitata [päivittää DNS](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) -tietueisiin Office 365: ssä. 
   
-Jotakuta, siirry sivun [toimialueita](https://admin.microsoft.com/adminportal/home#/Domains) Office 365-hallintakeskukseen ja Microsoft auttaa sinua sen kanssa. 
+Korjata se siirtymällä hallintakeskukseen Microsoft 365 sivua [toimialueiden](https://admin.microsoft.com/adminportal/home#/Domains) ja Microsoft auttaa sinua sen kanssa. 
   
 Muita yhteisiä ratkaisuja [tarkistaa toimialueet-usein kysytyt kysymykset](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
   

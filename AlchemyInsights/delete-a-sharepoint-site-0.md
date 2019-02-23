@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926277"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210022"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Poista Office 365-ryhmään kuuluvat sivustot:
 
 Kun käyttäjät luovat uuden ryhmäsivuston SharePoint kotoa (tai voit luoda uuden ryhmäsivuston uusi SharePoint-admin center esikatselu) vastaavat Office 365-ryhmä luodaan automaattisesti. Office 365 ryhmän yhteydessä ryhmäsivustoja luodaan myös silloin, kun luot Teams Microsoft Office 365-ryhmän tai joukkueen. Jos haluat poistaa Office 365-ryhmään kuuluu SharePoint-sivustossa, sinun on poistettava Office 365-ryhmä. 
   
-1. Siirry [Office 365-hallintakeskukseen ryhmät-sivulla](https://portal.office.com/adminportal/home#/groups).
+1. Siirry [hallintakeskukseen Microsoft 365 ryhmät-sivulla](https://portal.office.com/adminportal/home#/groups).
     
 2. Valitse ryhmän vieressä oleva valintaruutu.
     

@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941109"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209842"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Käyttöoikeuksia SharePoint-ja OneDrive
 
 Jos organisaation käyttäjä ei voi käyttää SharePoint- tai OneDrive, varmista, että heillä on käyttöoikeus, joka sisältää SharePoint- ja OneDrive. 
   
-1. [Aktiiviset käyttäjät sivulle Office 365-hallintakeskukseen](https://portal.office.com/adminportal/home#/users) ja valitse käyttäjä. 
+1. [Aktiiviset käyttäjät sivulle Microsoft 365 hallintakeskukseen](https://portal.office.com/adminportal/home#/users) ja valitse käyttäjä. 
     
 2. Varmista, että **tuotteen käyttöoikeudet**-kohdasta käyttöoikeudet on määritetty ja **SharePoint Online** on valittuna. 
     

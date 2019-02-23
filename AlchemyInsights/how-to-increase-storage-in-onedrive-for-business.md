@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906405"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207754"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Varastointi OneDrive liiketoiminnan kasvattaminen
 
@@ -27,7 +27,7 @@ Tallennus tilaa tämä asetus koskee kaikkia käyttäjiä, joille ei ole määri
   
 Lisää tallennustilaa-yrityksen OneDrive, valitse Office 365-suunnitelma, joka sisältää **OneDrive liiketoiminta-suunnitelman 2** - tai **Office 365 Enterprise-E3**. 
   
-Suunnitelmiin, Office 365-hallintakeskukseen muuttaa siirtymällä **laskutuksen** \> **tilaukset**ja valitse **Vaihda suunnitelmien.**
+Voit muuttaa suunnitelmat Microsoft 365 admin Centerissä, siirry **Laskutus** \> **tilaukset**ja valitse **vaihtaa suunnitelmia.**
   
 Saat lisätietoja suunnitelmista ja OneDrive siirtyminen Business varastointiin [Siirtyminen eri Office 365-liiketoimintasuunnitelman](https://go.microsoft.com/fwlink/?LinkId=2031117) ja [OneDrive Business-palvelun kuvaus](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 831d5a97b9d6006b63ae5540b8d4505bc5a98fee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918573"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208006"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Luot tai lisäät käyttäjän sähköposti tunnus
 
 On luoda sähköpostin käyttäjän tunnuksen tai lisätä ylimääräisiä sähköpostiosoite? Noudata seuraavia ohjeita!
   
-1. Siirry [käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla Office 365-hallintakeskukseen, tai valitse **käyttäjät** \> **Aktiivisia käyttäjiä**.
+1. Siirry [käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla Microsoft 365 hallintakeskukseen, tai valitse **käyttäjät** \> **Aktiivisia käyttäjiä**.
     
 2. Valitse **Aktiiviset käyttäjät** -sivulla sen henkilön nimi, jota haluat muokata. 
     

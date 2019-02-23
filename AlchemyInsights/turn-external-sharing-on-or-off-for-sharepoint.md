@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b915ff5514711e2ff27b07e35748d53689a486f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935942"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209338"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Ota ulkoisen SharePoint jakamisen käyttöön tai poistaa käytöstä
 
-1. Siirry Office 365-hallintakeskukseen [palvelut &amp; -laajennukset-sivun](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja valitse **sivustot**.
+1. Siirry Microsoft-365-hallintakeskukseen [palvelut &amp; -laajennukset-sivun](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja valitse **sivustot**.
     
 2. Asetuksen käyttöön ottaminen ja käytöstä poistaminen tai valitse jakamisen vaihtoehto, jos se on käytössä.
     
