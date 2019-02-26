@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925521"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244362"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Määritä sähköposti Outlook mobile App
 
-1. Napauta **valikosta**Valitse **Alkuun** jos se on, että ensimmäisen kerran määrittäminen sähköposti mobile Appissa muussa![valikkopainiketta](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) ja napauta sitten **asetukset** \> **Lisää tili** \> **Lisää sähköpostitili**. 
+1. Valitse **Alkuun** , jos se on mobiili Appissa eikä muuten sähköpostin määrittäminen ensimmäistä kertaa, napauta **valikko** ja napauta sitten **asetukset** \> **Lisää tili** \> **Lisää sähköpostitili**. 
     
 2. Kirjoita koko sähköpostiosoitteesi ja napauta **Lisää tili**- tai **Jatka** .
     
