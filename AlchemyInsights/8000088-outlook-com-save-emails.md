@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347404"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376069"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Viestit tallennetaan Outlook.com
 
@@ -29,4 +29,4 @@ Sisältyy Windows 10 Microsoft tulostaa PDF-apuohjelman avulla voit tulostaa suo
 4. Valitse **Tulosta**.
 5. Kirjoita tiedostonimi ja valitse sitten **Tallenna**.
 
-Huomautus: Tämä ei ole suositeltavaa jaetuissa tai julkisissa tietokoneissa kuin muut käyttäjät voisivat päästä tallentaa tietokoneeseen ja Älä poista mitään PDFs.
+**Huomautus:** Tätä ei suositella jaetuissa tai julkisissa tietokoneissa kuin muut käyttäjät voisivat päästä tallentaa tietokoneeseen ja Älä poista mitään PDFs.
