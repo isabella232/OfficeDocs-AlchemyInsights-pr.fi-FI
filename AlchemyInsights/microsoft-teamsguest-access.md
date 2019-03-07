@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941577"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468480"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoftin työryhmät - vierailijoita
 
+Tarvitsetko apua ottaminen käyttöön ja määrittäminen Microsoft Teams vierailijoita-ominaisuus?
 
-Jos haluat ottaa käyttöön tai määrittää Vieras-käyttö-roolin Microsoftin Teams-Meillä on sinulle vaiheittaiset ohjeet opas: [Vieras Access tarkistusluettelo](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Saatat joutua odottamaan jopa 24 tuntia ryhmien kokoonpanomuutokset tulisivat voimaan.
-  
+Toimi seuraavasti:
+
+1. Sallia vierailijoita.
+1. Lisää vierailijat ryhmäsi.
+1. Vierailijan käyttöoikeuksien määrittäminen.
+
+Myös opetusvideoita, Lisätietoja on [Microsoftin työryhmät-vierailijoita](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
