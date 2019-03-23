@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 33ca4e4b31729a1a11cee3d1359cd75286cb1b6a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 93dc59ce44dab51281f0480fe0f401ca22e1f519
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937185"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754894"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Poistetun tiedoston tai kansion palauttaminen
 
@@ -30,6 +30,6 @@ ms.locfileid: "29937185"
     
 Poistetut kohteet säilyvät 93 päivää. Jos etsimäsi kohde ei ole näkyvissä, se on ehkä poistettu Roskakori tämä ja siirtää sivuston Sivustokokoelman roskakori. Tarkista valitsemalla Roskakori alareunassa **toisen vaiheen roskakori** -linkkiä. 
   
-Jos et vieläkään onnistu, Etsi kohde voit etsiä valvontalokin Jos kirjaaminen on käytössä. [Etsiä Office 365-suojauksen valvontalokiin kirjataan &amp; Compliance Centerin](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
+Jos et vieläkään onnistu, Etsi kohde voit etsiä valvontalokin Jos kirjaaminen on käytössä. [Etsiä Office 365-suojauksen valvontalokiin kirjataan &amp; Compliance Centeriin](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
   
 
