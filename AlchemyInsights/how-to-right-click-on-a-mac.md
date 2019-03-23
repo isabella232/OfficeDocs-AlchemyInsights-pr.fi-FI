@@ -1,0 +1,26 @@
+---
+title: 8000063 ohjeita kaksoisnapsauttamiseen Macissa
+ms.author: daeite
+author: daeite
+manager: jackiesm
+ms.date: 9/17/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom: 8000063
+ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
+ms.openlocfilehash: 8af60087f1d11ffa068a16532d34c9990e5eb7d4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: MT
+ms.contentlocale: fi-FI
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30787139"
+---
+# <a name="how-to-right-click-on-a-mac"></a>Ohjeita kaksoisnapsauttamiseen Macissa
+
+Mac-tietokoneissa Napsauta kutsutaan toissijainen tai valitse ohjausobjektin. Jos hiirtä, ohj.alust tai muu syöttölaite ei sisällä hiiren painiketta tai muulla tavalla tehdä hiiren kakkospainikkeella, pitämällä näppäimistön **CTRL-näppäintä** painettuna ja napsauttamalla. 
+  
+Saat lisätietoja Siirry [Apple tukee](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+  
+
