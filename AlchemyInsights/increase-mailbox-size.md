@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208294"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752127"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Vaihda postilaatikon kokoa suunnittelee
 
@@ -34,4 +34,4 @@ Jos postilaatikon koko on 50 Gigatavua, voit kasvattaa sitä 100 gt: N Siirtymin
     
 Lisätietoja Katso [Siirtyminen Office 365: ssä eri suunnitelma](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Jos sinulla [O365 suunnitelma, joka tukee kiinteän arkisto](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), saat myös lisää sähköpostin varastoinnin ottamalla arkisto-postilaatikkoon.  Arkisto-postilaatikon tarjoaa Lisää tallennustilaa ja voit siirtää, kopioida ja Etsi sanomia on ensisijainen ja Arkistoi postilaatikko. Lisätietoja käyttöönotosta arkisto-postilaatikkoon on [arkisto-postilaatikon ottaminen käyttöön](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).

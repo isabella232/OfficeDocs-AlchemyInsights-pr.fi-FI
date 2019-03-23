@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913497"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764617"
 ---
 # <a name="how-to-share-in-onedrive"></a>-OneDrive jakaminen
 
@@ -33,7 +33,7 @@ ms.locfileid: "29913497"
   - **Tietyille henkilöille** oikeuttaa käyttämään vain niille henkilöille, määrität, vaikka muut käyttäjät voivat ehkä käyttää jo. Jos ihmiset välittää jakamiskutsun, vain henkilöt, joilla on jo pääsy kohde voi käyttää linkin. 
     
     > [!NOTE]
-    > Jos jokin näistä vaihtoehdoista ei ole käytettävissä tai jos haluat toisen linkkityyppi näkyy oletusarvon mukaan, voit muuttaa asetuksiasi yrityksenlaajuisten siirtymällä hallintakeskukseen OneDrive ja **jakaminen** valitsemalla vasemmanpuoleisessa ruudussa. [Lue lisää](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Jos jokin näistä vaihtoehdoista ei ole käytettävissä tai jos haluat toisen linkkityyppi näkyy oletusarvon mukaan, voit muuttaa asetuksiasi yrityksenlaajuisten siirtymällä hallintakeskukseen OneDrive ja **jakaminen** valitsemalla vasemmanpuoleisessa ruudussa. [Opi lisää](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Oletusarvon mukaan **Salli muokkaus** on käytössä. Jos haluat, että käyttäjät voivat tarkastella vain tiedostoja, poista valintaruudun valinta. 
     

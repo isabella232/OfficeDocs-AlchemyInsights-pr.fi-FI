@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919689"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752307"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Jaetun postilaatikon kuin sähköpostin lähettäminen
 
-Kun olet luonut jaetun postilaatikon, jotka kuuluvat postilaatikon käyttäjät voivat lähettää sähköpostia jaetun postilaatikon tunnistetiedot (esimerkiksi *info@contoso.com* ). Lisätietoja on kohdassa: 
+Kun olet luonut jaetun postilaatikon, jotka kuuluvat postilaatikon käyttäjät voivat lähettää sähköpostia jaetun postilaatikon tunnistetiedot (esimerkiksi *info@contoso.com* ). Ohjeita on ohjeaiheissa: 
   
 [Jaetun postilaatikon avaaminen ja käyttäminen Outlook 2016:ssa ja Outlook 2013:ssa](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   

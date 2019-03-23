@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 1f43e05b38c4a3240c959ddcda055e17182224c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce624516e0fc34245f23a066276ce0e1d2dd99fb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906081"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756195"
 ---
 # <a name="declined-credit-card"></a>Hylätty luottokortti
 
-Jos maksat luottokortilla ja luottokorttisi hylätään, näyttöön tulee sähköpostiviesti, jolloin tiedät, että emme voi käsitellä maksun. Tarkista huolellisesti, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, vanhentumispäivä, nimen, luottokortin ja osoite, kaupunki, osavaltio ja postinumero - näkyvät sellaisina, kuin ne tehdä luottokortin ja luottokortti-tiliotteen. Voit päivittää luottokorttitietoja ja lähettää välittömästi maksu [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla **maksa nyt** -painikkeen avulla. Lisätietoja on kohdassa ”mitä jos luottokortin on vanhentunut ja oma maksu on mennyt due?” [oman Office 365: ssä business tilauksen maksamiseen](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+Jos maksat tilauksen luottokortilla ja luottokorttisi on hylätty, saat sähköpostitse ilmoituksen siitä, että emme voi käsitellä maksua. Tarkista huolellisesti, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, vanhentumispäivä, nimen, luottokortin ja osoite, kaupunki, osavaltio ja postinumero - näkyvät sellaisina, kuin ne tehdä luottokortin ja luottokortti-tiliotteen. Voit päivittää luottokorttitietoja ja lähettää välittömästi maksu [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla **maksa nyt** -painikkeen avulla. Lisätietoja on kohdassa ”mitä jos luottokortin on vanhentunut ja oma maksu on myöhässä”? - [että Office 365: ssä business tilauksen maksamiseen](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   
 Jos saat edelleen hylkäysviestin, ota yhteyttä pankkiisi. On mahdollista, ettei luottokorttia ole aktivoitu. Jos esimerkiksi sait uuden luottokortin hiljattain, sinun täytyy ehkä vielä aktivoida se erikseen. Pankista saat tietoa myös siitä, voidaanko luottokorttia käyttää verkko-ostoksiin, kansainvälisiin ostoksiin tai toistuviin tapahtumiin.  
   

@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: 6e4ce2a604ebee4d80a8625f45d6d4eab323d63d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: aa1dafada1f55da1b4d561f0facf5307925d37a0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924657"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753387"
 ---
 # <a name="pay-by-invoice"></a>Maksaa lasku
 
 Jos Office 365 -tilauksen hinta ylittää tietyn summan (summa vaihtelee palvelusijainnin mukaan), voit valita maksutavaksi laskulla maksamisen käyttämällä sekkiä tai sähköistä maksujen välitystä. Suurten summien maksaminen laskulla saattaa edellyttää luottotietojen tarkistusta. Mikäli luottotietojen tarkistus vaaditaan, saat ilmoituksen, kun ostat tilauksen. Jos hyväksyt yhteydenotot, saat sähköpostiviestin, jossa on lisätietoja luoton hyväksynnästä. Luottotietojen tarkistukset tehdään yleensä kahden arkipäivän kuluessa.
   
-Jos maksat tilauksesi laskun mukaan, saat sähköpostiviestin, jossa ilmoitetaan, että tiliotteen on valmis tarkastelemaan. Tämä sähköpostiviesti ei sisällä asiakkaan laskutusosoitteen kopio. Kuitenkin voit myös saada [kopion sähköpostitse yhteyttä Laskutusosoitteen](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). Asiakkaan laskutusosoitteen sisältää tietoja maksun että mahdollisuuksia. Anna ostotilausnumero (PO), kun tilauksen tekeminen, jos numero näkyy asiakkaan laskutusosoitteen. Lisätietoja käyttäminen laskutuksen tiliotteiden tarkastelu on [tarkastella lasku tai laskun liiketoiminnan Office 365: ssä](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
+Jos maksat tilauksen laskulla, saat sähköpostiviestin, jossa ilmoitetaan, että laskutusselvitys on valmis tarkasteltavaksi. Sähköpostiviesti ei sisällä laskutusselvityksen kopiota. Kuitenkin voit myös saada [kopion sähköpostitse yhteyttä Laskutusosoitteen](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). Laskutusselvitys sisältää maksuohjeet. Jos annat ostotilauksen (PO) numeron, kun ostat tilauksen, numero näkyy laskutusselvityksessä. Lisätietoja laskutusselvitysten käyttämisestä on artikkelissa [Office 365 for Business -laskun tarkasteleminen](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
   
 Lisätietoja lisätietoja haluavat maksaa laskulla on [maksu tilauksesi business Office 365: ssä](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   
