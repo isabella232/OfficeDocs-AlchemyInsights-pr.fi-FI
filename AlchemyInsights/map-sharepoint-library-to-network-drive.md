@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
-ms.openlocfilehash: 0e10e2ff3e30b3dbf73294c0d5f6165a60fc9cde
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 39a1317e67ef5f73afad902745ce3a7bbb1382cd
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911337"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765337"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="fcbf9-102">SharePoint-kirjaston yhdistäminen verkkoasemaan</span><span class="sxs-lookup"><span data-stu-id="fcbf9-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="c85e2-102">SharePoint-kirjaston yhdistäminen verkkoasemaan</span><span class="sxs-lookup"><span data-stu-id="c85e2-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="fcbf9-p101">Kirjastojen sivuston tiedostoa Resurssienhallinnassa, on suositeltavaa käyttää OneDrive sync client sijaan kirjastojen yhdistäminen verkkoasemiin. Asemien yhdistäminen on vain väliaikainen ratkaisu. Synkronointi-asiakas mahdollistaa tiedostojen käyttäjille silloinkin, kun ne ovat offline-tilassa. Sync client tarjoaa paremman suorituskyvyn, avulla tiedostoja tarvitsematta ladata ne [Tiedostot tarvittaessa](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) ja ei vaadi setup Internet Explorerilla.</span><span class="sxs-lookup"><span data-stu-id="fcbf9-p101">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives. Drive mapping is only a temporary solution. Using the sync client makes the files available to users even when they're offline. The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
+<span data-ttu-id="c85e2-103">Kirjastojen sivuston tiedostoa Resurssienhallinnassa, on suositeltavaa käyttää OneDrive sync client sijaan kirjastojen yhdistäminen verkkoasemiin.</span><span class="sxs-lookup"><span data-stu-id="c85e2-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="c85e2-104">Asemien yhdistäminen on vain väliaikainen ratkaisu.</span><span class="sxs-lookup"><span data-stu-id="c85e2-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="c85e2-105">Synkronointi-asiakas mahdollistaa tiedostojen käyttäjille silloinkin, kun ne ovat offline-tilassa.</span><span class="sxs-lookup"><span data-stu-id="c85e2-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="c85e2-106">Sync client tarjoaa paremman suorituskyvyn, avulla tiedostoja tarvitsematta ladata ne [Tiedostot tarvittaessa](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) ja ei vaadi setup Internet Explorerilla.</span><span class="sxs-lookup"><span data-stu-id="c85e2-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
   
-- [<span data-ttu-id="fcbf9-107">Tiedostojen synkronointi uuden Windows-OneDrive synkronointi asiakkaan kanssa</span><span class="sxs-lookup"><span data-stu-id="fcbf9-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
+- [<span data-ttu-id="c85e2-107">Tiedostojen synkronointi uuden Windows-OneDrive synkronointi asiakkaan kanssa</span><span class="sxs-lookup"><span data-stu-id="c85e2-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
     
-- [<span data-ttu-id="fcbf9-108">Resurssienhallinta-sivuston kirjaston tiedostoja käsittelytapoja</span><span class="sxs-lookup"><span data-stu-id="fcbf9-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
+- [<span data-ttu-id="c85e2-108">Resurssienhallinta-sivuston kirjaston tiedostoja käsittelytapoja</span><span class="sxs-lookup"><span data-stu-id="c85e2-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
     
-- [<span data-ttu-id="fcbf9-109">Asetusten määrittäminen ja vianmääritys yhdistetyt verkkoasemat</span><span class="sxs-lookup"><span data-stu-id="fcbf9-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
+- [<span data-ttu-id="c85e2-109">Asetusten määrittäminen ja vianmääritys yhdistetyt verkkoasemat</span><span class="sxs-lookup"><span data-stu-id="c85e2-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
     
 

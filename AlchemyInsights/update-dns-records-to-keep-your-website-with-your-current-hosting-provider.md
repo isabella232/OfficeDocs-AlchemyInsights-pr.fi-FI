@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 25e430f9249f1e1e42ecdd97bdcf8420131d971c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 319009a15c0de5870dd017a50ccf95453f78ad52
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29910329"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758895"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="e8169-102">DNS-tietueiden päivittäminen sivuston säilyttämiseksi nykyisessä isännöintipalvelussa</span><span class="sxs-lookup"><span data-stu-id="e8169-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="42939-102">DNS-tietueiden päivittäminen sivuston säilyttämiseksi nykyisessä isännöintipalvelussa</span><span class="sxs-lookup"><span data-stu-id="42939-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-<span data-ttu-id="e8169-103">Osana siirto Office 365: n julkisen Web-sivuston toiseen isännöintipalvelu todennäköisesti tarvitset tehdäksesi muutoksia toimialueen tietueet.</span><span class="sxs-lookup"><span data-stu-id="e8169-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
+<span data-ttu-id="42939-103">Osana siirto Office 365: n julkisen Web-sivuston toiseen isännöintipalvelu todennäköisesti tarvitset tehdäksesi muutoksia toimialueen tietueet.</span><span class="sxs-lookup"><span data-stu-id="42939-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
   
-1. <span data-ttu-id="e8169-104">Siirry hallintakeskukseen, **asennuksen** \> **Toimialueet** ja valitse toimialuenimi, jota haluat muuttaa.</span><span class="sxs-lookup"><span data-stu-id="e8169-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span> 
+1. <span data-ttu-id="42939-104">Siirry hallintakeskukseen, **asennuksen** \> **Toimialueet** ja valitse toimialuenimi, jota haluat muuttaa.</span><span class="sxs-lookup"><span data-stu-id="42939-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span> 
     
-2. <span data-ttu-id="e8169-105">Kirjoita Web-sivuston kanssa uuden videopalvelujen tarjoajan palvelimeen yhteyttä, joka Tasaa tiedot.</span><span class="sxs-lookup"><span data-stu-id="e8169-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
+2. <span data-ttu-id="42939-105">Kirjoita Web-sivuston kanssa uuden videopalvelujen tarjoajan palvelimeen yhteyttä, joka Tasaa tiedot.</span><span class="sxs-lookup"><span data-stu-id="42939-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
     
-<span data-ttu-id="e8169-106">Lisätietoja on kohdassa [pitämään sivuston nykyinen videopalveluiden palvelu päivitystä DNS-tietueita](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span><span class="sxs-lookup"><span data-stu-id="e8169-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span></span> 
+<span data-ttu-id="42939-106">Lisätietoja on kohdassa [pitämään sivuston nykyinen videopalveluiden palvelu päivitystä DNS-tietueita](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span><span class="sxs-lookup"><span data-stu-id="42939-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span></span> 
   
-<span data-ttu-id="e8169-107">Katso lisätietoja julkisen sivuston keskeytymisen [SharePoint Online julkisten sivustojen lakkautettava](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="e8169-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span> 
+<span data-ttu-id="42939-107">Katso lisätietoja julkisen sivuston keskeytymisen [SharePoint Online julkisten sivustojen lakkautettava](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="42939-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span> 
   
 

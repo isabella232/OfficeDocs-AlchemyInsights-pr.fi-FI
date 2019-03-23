@@ -1,28 +1,33 @@
 ---
-title: Tulee TenantAccessBlockedException-virhesanoma käytettäessä sähköposti?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: Haetaan TenantAccessBlockedException-virhe käytettäessä 127 sähköposti?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912021"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754251"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="4ffef-102">Tulee TenantAccessBlockedException-virhesanoma käytettäessä sähköposti?</span><span class="sxs-lookup"><span data-stu-id="4ffef-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="fe3bd-102">Tulee TenantAccessBlockedException-virhesanoma käytettäessä sähköposti?</span><span class="sxs-lookup"><span data-stu-id="fe3bd-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="4ffef-p101">On muutamia eri syitä miksi saada virheen sanomalla, että vuokralaisen että käyttö on estetty. Voit yrittää korjata ongelman seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="4ffef-p101">There are a few different reasons why you may get an error saying that access to your tenant is blocked. To fix the problem, you can try the following steps:</span></span>
+<span data-ttu-id="fe3bd-103">On useita eri syitä, miksi tämä virhesanoma saattaa tulla.</span><span class="sxs-lookup"><span data-stu-id="fe3bd-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="fe3bd-104">Esimerkiksi:</span><span class="sxs-lookup"><span data-stu-id="fe3bd-104">For example:</span></span>
   
-- <span data-ttu-id="4ffef-105">Tarkista tilauksesi [tilaukset](https://admin.microsoft.com/adminportal/home#/subscriptions) -sivulla.</span><span class="sxs-lookup"><span data-stu-id="4ffef-105">Check that your subscription is valid on the [Subscriptions](https://admin.microsoft.com/adminportal/home#/subscriptions) page.</span></span> 
+- <span data-ttu-id="fe3bd-105">Varmista, että tilauksesi on voimassa- **laskutuksen** \> **tilaustesi** sivulla Microsoft 365 admin Centerissä ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="fe3bd-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="4ffef-106">Tarkista [Laskutus](https://admin.microsoft.com/adminportal/home#/billoverview) -sivu mille tahansa mennyt laskut tililläsi.</span><span class="sxs-lookup"><span data-stu-id="4ffef-106">Check the [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) page for any past dues on your account.</span></span> 
+- <span data-ttu-id="fe3bd-106">Tarkista, onko kaikki myöhässä olevat ilmoitukset- **laskutuksen** \> **laskut** -sivu Microsoft 365 admin Centerissä ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="fe3bd-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="4ffef-p102">Jos tilisi on nyt, mutta on muuttunut äskettäin, saattaa kestää jonkin aikaa välittää kaikille palvelimille muutokset. Kokeile sitä toisen muutaman minuutin kuluttua ja jos ongelma ei poistu, ota yhteyttä meihin.</span><span class="sxs-lookup"><span data-stu-id="4ffef-p102">If your account is in order now, but has been changed recently, it might take some time for the changes to propagate to all servers. Give it another try in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="fe3bd-107">Jos laskutuksen ja tilausten tilisi on päivitetty äskettäin, saattaa kestää aikaa muutosten levittämiseen.</span><span class="sxs-lookup"><span data-stu-id="fe3bd-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="fe3bd-108">Yritä uudelleen muutaman minuutin kuluttua ja jos ongelma ei poistu, ota yhteyttä meihin.</span><span class="sxs-lookup"><span data-stu-id="fe3bd-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 

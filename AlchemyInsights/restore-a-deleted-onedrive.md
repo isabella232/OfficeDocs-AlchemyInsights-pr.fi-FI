@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 8239f72c41c45b42b467c05e249b284e0a2c1afb
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: cd40d53606d857eee3a02277b7c1266e0e15f28e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208258"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753207"
 ---
-# <a name="restore-a-deleted-onedrive"></a><span data-ttu-id="541ff-102">Palauta poistetut OneDrive</span><span class="sxs-lookup"><span data-stu-id="541ff-102">Restore a deleted OneDrive</span></span>
+# <a name="restore-a-deleted-onedrive"></a><span data-ttu-id="709e8-102">Palauta poistetut OneDrive</span><span class="sxs-lookup"><span data-stu-id="709e8-102">Restore a deleted OneDrive</span></span>
 
-<span data-ttu-id="541ff-p101">Kun poistat käyttäjän, voit käyttää käyttäjän OneDrive kautta Microsoft 365 hallintakeskukseen 30 päivän ajan. Muut käyttäjät voivat edelleen käyttää jaettua sisältöä OneDrive, aika on asetettu OneDrive admin Centerissä. (Lisätietoja asetus kohdassa [OneDrive Poistetut käyttäjät oletus tiedoston säilytyksen](https://go.microsoft.com/fwlink/?linkid=874267).) Tämän määräajan jälkeen 93 päivää on siirretty roskakoriin OneDrive, ja se poistetaan.</span><span class="sxs-lookup"><span data-stu-id="541ff-p101">After you delete a user, you can access the user's OneDrive through the Microsoft 365 admin center for 30 days. Other users can continue to access shared content in the OneDrive for the length of time you've set in the OneDrive admin center. (To learn how to set this, see [Set the default file retention for deleted OneDrive users](https://go.microsoft.com/fwlink/?linkid=874267).) After that time, the OneDrive is moved to the recycle bin for 93 days, and then it's deleted.</span></span>
+<span data-ttu-id="709e8-103">Kun poistat käyttäjän, voit käyttää käyttäjän OneDrive kautta Microsoft 365 hallintakeskukseen 30 päivän ajan.</span><span class="sxs-lookup"><span data-stu-id="709e8-103">After you delete a user, you can access the user's OneDrive through the Microsoft 365 admin center for 30 days.</span></span> <span data-ttu-id="709e8-104">Muut käyttäjät voivat edelleen käyttää jaettua sisältöä OneDrive, aika on asetettu OneDrive admin Centerissä.</span><span class="sxs-lookup"><span data-stu-id="709e8-104">Other users can continue to access shared content in the OneDrive for the length of time you've set in the OneDrive admin center.</span></span> <span data-ttu-id="709e8-105">(Lisätietoja asetus kohdassa [OneDrive Poistetut käyttäjät oletus tiedoston säilytyksen](https://go.microsoft.com/fwlink/?linkid=874267).) Tämän määräajan jälkeen 93 päivää on siirretty roskakoriin OneDrive, ja se poistetaan.</span><span class="sxs-lookup"><span data-stu-id="709e8-105">(To learn how to set this, see [Set the default file retention for deleted OneDrive users](https://go.microsoft.com/fwlink/?linkid=874267).) After that time, the OneDrive is moved to the recycle bin for 93 days, and then it's deleted.</span></span>
   
-<span data-ttu-id="541ff-p102">Kun käyttäjän ei enää näy Microsoft 365 hallintakeskukseen, ensimmäisten 30 päivän jälkeen voit käyttää käyttäjän OneDrive PowerShellin kautta. Saat tiedot, [palauttaa poistettuja OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span><span class="sxs-lookup"><span data-stu-id="541ff-p102">After the initial 30 days, when the deleted user no longer appears in the Microsoft 365 admin center, you can access the user's OneDrive through PowerShell. For info, see [Restore a deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span></span>
+<span data-ttu-id="709e8-106">Kun käyttäjän ei enää näy Microsoft 365 hallintakeskukseen, ensimmäisten 30 päivän jälkeen voit käyttää käyttäjän OneDrive PowerShellin kautta.</span><span class="sxs-lookup"><span data-stu-id="709e8-106">After the initial 30 days, when the deleted user no longer appears in the Microsoft 365 admin center, you can access the user's OneDrive through PowerShell.</span></span> <span data-ttu-id="709e8-107">Saat tiedot, [palauttaa poistettuja OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span><span class="sxs-lookup"><span data-stu-id="709e8-107">For info, see [Restore a deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span></span>
   
 
