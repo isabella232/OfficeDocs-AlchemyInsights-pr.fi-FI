@@ -1,5 +1,5 @@
 ---
-title: Maksutiedot
+title: Maksutietojen päivittäminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404672"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755619"
 ---
-# <a name="update-payment-details"></a>Maksutiedot
+# <a name="update-payment-details"></a>Maksutietojen päivittäminen
 
-1. [Maksutapoja](https://go.microsoft.com/fwlink/p/?linkid=2018806) -sivulla Siirry hallintakeskukseen, tai valitse **laskutuksen** \> **Maksutavat**.
+1. Siirry hallintakeskuksessa [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle tai valitse **Laskutus** \> **Maksutavat**.
     
     > [!NOTE]
-    > Jos kohtaat silmukka, joka lähettää sinulle takaisin Admin kotisivu, ennen kuin muutokset ovat valmiit, kokeile Inprivate- tai Incognito-tilassa. 
+    > Jos päädyt toistuvasti takaisin hallintakeskuksen aloitussivulle ennen päivitysten valmistumista, kokeile InPrivate- tai Incognito-selausta. 
   
 2. Valitse luottokortti, jonka haluat päivittää.
     
     > [!NOTE]
-    > Jos toinen admin lisätty maksutapa, ei voi päivittää luottokortin tai pankkitilin tiedot sitä varten. Jos luottokortin on vanhentumassa ja muut järjestelmänvalvoja ei voi päivittää sitä, voit estää lisäämällä **Lisää maksutapa**valitsemalla toisen luottokortin tai pankkitilin uuden tilauksen palvelun keskeytymisestä. 
+    > Jos maksutapa on organisaatiosi toisen järjestelmänvalvojan lisäämä, et voi päivittää tilauksen luottokortti- tai pankkitilitietoja. Jos kyseinen luottokortti on vanhentumassa ja toinen järjestelmänvalvoja ei voi päivittää tietoja, voit välttää palvelun katkeamisen lisäämällä tilaukseen toisen luottokortin tai uuden pankkitilin. Voit tehdä tämän valitsemalla **Lisää maksutapa**. 
   
-3. **Maksutiedot** -sivulla voit valita **Muokkaa maksutietoja**.
+3. Valitse **Maksutiedot**-sivulla **Muokkaa maksutietoja**. 
     
-4. Tarkista päivitykset ja valitse sitten **Tallenna**.
+4. Tee päivitykset ja valitse sitten **Tallenna**.
     
 5. Jos haluat poistaa tämän maksutavan, valitse **Poista**.
     
-Lisätietoja Katso [Lisää, päivittää tai poistaa luottokortin tai pankkitilin, Office 365 yrityksille](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ja [vianmääritys luottokorttien ja pankkitilien](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Jos haluat lisätietoja, tutustu artikkeleihin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ja [Luottokorttien ja pankkitilien vianmääritys](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

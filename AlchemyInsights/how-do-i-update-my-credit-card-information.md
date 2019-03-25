@@ -1,5 +1,5 @@
 ---
-title: Kuinka oman Luottokorttitietojen päivittäminen?
+title: Miten voin päivittää luottokorttitietoni?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405176"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763825"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Kuinka oman Luottokorttitietojen päivittäminen?
+# <a name="how-do-i-update-my-credit-card-information"></a>Miten voin päivittää luottokorttitietoni?
 
 1. Siirry hallintakeskuksessa [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivulle tai valitse **Laskutus** \> **Tilaukset**.
     
-2. Valitse tilaus, jonka olet ostanut luottokortin tai pankkitilin numero, jonka haluat päivittää, ja valitse sitten **Päivitä maksutietoja**.
+2. Valitse tilaus, jonka ostit päivitettävällä luottokortilla tai pankkitilillä, ja valitse sitten **Päivitä maksutiedot**.
     
 3. Valitse avattavan valikon nuoli **Lisää tai valitse maksutapa** -kohdasta, valitse päivitettävä luottokortti tai pankkitili, ja valitse sitten **Muokkaa tietoja**.
     
@@ -30,6 +30,6 @@ ms.locfileid: "30405176"
     
 5. Näyttöön tulee vahvistusviesti.
     
-Lisätietoja on kohdassa [vianmääritys luottokorttien ja pankkitilien](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Lisätietoja saat artikkelista [Luottokorttien ja pankkitilien vianmääritys](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Miten lisätä luottokortti?
+title: Miten voin lisätä luottokortin?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404600"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762853"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Miten lisätä luottokortti?
+# <a name="how-do-i-add-a-credit-card"></a>Miten voin lisätä luottokortin?
 
 1. Siirry hallintakeskuksessa [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivulle tai valitse **Laskutus** \> **Tilaukset**.
     
@@ -26,6 +26,6 @@ ms.locfileid: "30404600"
     
 3. Valitse avattavan valikon nuoli **Lisää tai valitse maksutapa** -kohdasta ja valitse sitten **Uusi luottokortti** tai **Uusi pankkitili**.
     
-4. Anna uuden luottokortin tai pankkitilin tiedot ja valitse sitten Lähetä.
+4. Anna uuden luottokortin tai pankkitilin tiedot ja valitse sitten Lähetä. 
     
 

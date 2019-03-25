@@ -1,5 +1,5 @@
 ---
-title: SharePoint-tiedostojen synkronoiminen OneDrive synkronointi uuden asiakkaan kanssa
+title: SharePoint-tiedostojen synkronointi OneDrive-synkronointisovelluksen avulla
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469020"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755043"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-tiedostojen synkronoiminen OneDrive synkronointi uuden asiakkaan kanssa
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-tiedostojen synkronointi OneDrive-synkronointisovelluksen avulla
 
-1. Perinteinen SharePoint-hallintakeskukseen, valitsemalla **asetukset**.
+1. Valitse perinteisessä SharePoint-hallintakeskuksessa **Asetukset**.
     
-2. Varmista, että ”OneDrive-synkronointi-painiketta” asetetaan ”Näytä Synkronoi-painiketta”.
+2. Varmista, että OneDriven Synkronoi-painikkeen asetukseksi on määritetty Näytä Synkronoi-painike. 
     
-3. Valitse ”Synkronoi Client for SharePoint” **Käynnistä uusi-työasema**.
+3. Valitse SharePointin synkronointisovellus -asetuksen arvoksi **Käynnistä uusi asiakas**.
     
     > [!NOTE]
-    > Jos tämä vaihtoehto ei näy, organisaation on jo määritetty OneDrive synkronointi uusi asiakas avulla voit synkronoida SharePoint-tiedostot. 
+    > Jos vaihtoehtoa ei ole näkyvissä, organisaatiosi on jo määritetty käyttämään uutta OneDrive-synkronointiohjelmaa SharePoint-tiedostojen synkronoinnissa. 
   
 4. Valitse **OK**.
     
-Saat lisätietoja, [käyttäjät voivat synkronoida SharePoint-tiedostot OneDrive synkronointi uuden asiakkaan kanssa](https://go.microsoft.com/fwlink/?linkid=866433). Antaa käyttäjille ohjeita on ohjeaiheessa [synkronointi SharePoint-tiedostot OneDrive synkronointi uuden asiakkaan kanssa](https://go.microsoft.com/fwlink/?linkid=866427).
+Lisätietoja saat artikkelista [SharePoint-tiedostojen synkronoinnin salliminen käyttäjille uuden OneDrive-synkronointisovelluksen avulla](https://go.microsoft.com/fwlink/?linkid=866433). Käyttäjille annettavat ohjeet saat artikkelista [SharePoint-tiedostojen synkronoinnin salliminen käyttäjille uuden OneDrive-synkronointisovelluksen avulla](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

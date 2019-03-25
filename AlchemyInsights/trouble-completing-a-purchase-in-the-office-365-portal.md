@@ -1,5 +1,5 @@
 ---
-title: Viimeistellään Office 365-portaalin oston ongelmia
+title: Ongelmia oston viimeistelemisessä Office 365 -portaalissa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405140"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754755"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Viimeistellään Office 365-portaalin oston ongelmia
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Ongelmia oston viimeistelemisessä Office 365 -portaalissa
 
-Kun yrität tehdä ostosta, jos olet ollut sinua monta kertaa kirjautua sisään Office 365-portaalin tai näyttöön tulee sanoma, jonka mukaan ongelma löytynyt, paras ensimmäinen vaihe on yrittää selaimen inprivate/incognito-tilassa. Kun olet avannut inprivate/incognito-ikkunassa, siirry [portal.office.com](https://portal.office.com) -sivustoon ja Kirjaudu järjestelmänvalvojan tunnistetiedoilla. Siirry sitten Viimeistele osto. 
+Jos sinua pyydetään oston yhteydessä kirjautumaan Office 365 -portaaliin useasti tai saat ilmoituksen ongelmasta, ensimmäinen asia, jota kannattaa kokeilla, on käyttää selaimen yksityistä selaamista tai incognito-tilaa. Kun olet avannut yksityisen tai incognito-ikkunan, siirry [portal.office.com](https://portal.office.com)-sivustolle ja kirjaudu sisään järjestelmänvalvojan tunnistetiedoilla. Viimeistele sen jälkeen osto. 
   
 
