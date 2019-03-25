@@ -1,5 +1,5 @@
 ---
-title: Toimialueen tarkistaminen
+title: Vahvista toimialue
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404852"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760407"
 ---
-# <a name="trying-to-verify-your-domain"></a><span data-ttu-id="8e683-102">Varmista toimialueen yrittää?</span><span class="sxs-lookup"><span data-stu-id="8e683-102">Trying to verify your domain?</span></span>
+# <a name="trying-to-verify-your-domain"></a><span data-ttu-id="279dc-102">Yritätkö vahvistaa toimialueesi?</span><span class="sxs-lookup"><span data-stu-id="279dc-102">Trying to verify your domain?</span></span>
 
-<span data-ttu-id="8e683-p101">Tarvitset lisää TXT-tietueen toimialueen että registrar vahvistamaan, että omistat toimialueen. Noudata ohjatun Lisää toimialue valitsemalla **asetukset** \> **toimialueen**ja **Toimialueen lisääminen**.</span><span class="sxs-lookup"><span data-stu-id="8e683-p101">You need to add a TXT record to your domain registrar to verify that you own your domain. Follow the Add Domain wizard by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span> 
+<span data-ttu-id="279dc-103">Sinun on lisättävä TXT-tietue toimialuerekisteröijään vahvistukseksi toimialueen omistajuudesta.</span><span class="sxs-lookup"><span data-stu-id="279dc-103">You need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="279dc-104">Noudata ohjattua toimialueen lisäämistoimintoa napsauttamalla **Asetukset** \> **Toimialue** ja valitse sitten **Lisää toimialue**.</span><span class="sxs-lookup"><span data-stu-id="279dc-104">Follow the Add Domain wizard by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span> 
   
-<span data-ttu-id="8e683-p102">Noudata artikkelin Lisää TXT-tietue tarkistamaan toimialueesi. Valitse toimialueesi tarkemmat ohjeet oman toimialueen kirjaajalle.</span><span class="sxs-lookup"><span data-stu-id="8e683-p102">Follow the instructions in the article below to add a TXT record to verify your domain. Select your domain registrar for specific instructions for your domain.</span></span>
+<span data-ttu-id="279dc-105">Vahvista toimialueesi lisäämällä TXT-tietue alla olevassa artikkelissa olevien ohjeiden mukaisesti.</span><span class="sxs-lookup"><span data-stu-id="279dc-105">Follow the instructions in the article below to add a TXT record to verify your domain.</span></span> <span data-ttu-id="279dc-106">Saat toimialuekohtaiset ohjeet valitsemalla toimialuerekisteröijäsi.</span><span class="sxs-lookup"><span data-stu-id="279dc-106">Select your domain registrar for specific instructions for your domain.</span></span>
   
-[<span data-ttu-id="8e683-107">DNS-tietueiden luominen Office 365: ssä</span><span class="sxs-lookup"><span data-stu-id="8e683-107">Create DNS records for Office 365</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+<span data-ttu-id="279dc-107">[DNS-tietueiden luominen Office 365:tä varten](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)</span><span class="sxs-lookup"><span data-stu-id="279dc-107">[](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)Create DNS records at TransIP for Office 365</span></span>
   
 
