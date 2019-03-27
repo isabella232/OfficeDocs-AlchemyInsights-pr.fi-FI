@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208438"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767029"
 ---
 # <a name="change-a-users-email-address"></a>Käyttäjän sähköpostiosoitteen muuttaminen
 
@@ -30,11 +30,11 @@ Henkilön sähköpostiosoitteen vaihtaminen on helppoa! Noudata seuraavia ohjeit
     
 4. **Tunnus** -ruutuun kirjoita uusi sähköpostiosoite ja valitse sitten **Lisää**.
     
-    **Tärkeää**: Jos näyttöön tulee virhesanoma ” **parametria ei löydy, joka vastaa parametrin nimeä ' EmailAddresses**” se tarkoittaa, että se kestää hieman kauemmin loppuun Jos olet äskettäin lisännyt yhden oman vuokralaisen tai mukautetun toimialueen määrittäminen Office 365: ssä . Asennus voi kestää jopa 4 tuntia. Odota hetki, jolloin asennusprosessi on aika loppuun, ja yritä sitten uudelleen. Jos ongelma jatkuu, Soita tuen ja he tehdä täydellinen synkronointi puolestasi.
+    **TÄRKEÄÄ**: Jos näyttöön tulee virheilmoitus " **Ei löydy parametria, joka vastaa parametrin nimeä EmailAddresses**", tämä tarkoittaa, että Office 365:ltä kestää hieman kauemmin määrittää vuokraaja, tai mukautettu toimialue, jos lisäsit sellaisen äskettäin. Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota, kunnes määritysprosessi valmistuu, ja yritä sitten uudelleen. Jos ongelma jatkuu, soita tukeen, joka voi suorittaa täydellisen synkronoinnin puolestasi.
     
     Jos näyttöön tulee virhesanoma ” **Olemme pahoillamme, käyttäjä ei voi muokata. Tarkistaa käyttäjätiedot ja yritä uudelleen**”se tarkoittaa et Office 365: n yleinen järjestelmänvalvoja- ja sinulla ei ole oikeuksia muuttaa käyttäjän nimeä.
     
-5. Valitse **Määritä ensisijaiseksi** sähköpostiosoite, jonka haluat määrittää kyseisen henkilön ensisijainen sähköpostiosoite. Jos tilauksesi ostanut GoDaddy on iin niiden hallintakonsolin Määritä ensisijainen sähköpostiosoite. 
+5. Valitse **Määritä ensisijaiseksi** sen sähköpostiosoitteen kohdalla, jonka haluat määrittää henkilön ensisijaiseksi sähköpostiosoitteeksi. Jos tilauksesi ostanut GoDaddy on iin niiden hallintakonsolin Määritä ensisijainen sähköpostiosoite. 
     
 6. Valitse **Tallenna**, sitten **Sulje**, ja olet valmis!
     

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208006"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767317"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Luot tai lisäät käyttäjän sähköposti tunnus
 
@@ -28,7 +28,7 @@ On luoda sähköpostin käyttäjän tunnuksen tai lisätä ylimääräisiä säh
     
 3. Valitse oikealta **Käyttäjänimi/Sähköpostitunnukset**-rivillä **Muokkaa**.
     
-4. **Tunnus** -ruutuun kirjoita uusi sähköpostiosoite ja valitse sitten **Lisää**. Jos olet ostanut tilauksen GoDaddy tai toisen kumppanin, uuden tunnuksen määrittäminen ensisijaiseksi, täytyy mennä GoDaddy/kumppanin hallintakonsoliin. 
+4. **Tunnus** -ruutuun kirjoita uusi sähköpostiosoite ja valitse sitten **Lisää**. Jos ostit tilauksen GoDaddyltä tai toiselta kumppanilta, uuden tunnuksen määrittäminen ensisijaiseksi on tehtävä GoDaddyn tai kumppanin hallintakonsolissa. 
     
     **TÄRKEÄÄ**: Jos näyttöön tulee virheilmoitus " **Ei löydy parametria, joka vastaa parametrin nimeä EmailAddresses**", tämä tarkoittaa, että Office 365:ltä kestää hieman kauemmin määrittää vuokraaja, tai mukautettu toimialue, jos lisäsit sellaisen äskettäin. Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen. Jos ongelma jatkuu, soita tukeen, jotta tuki suorittaa täydellisen synkronoinnin puolestasi.
     
