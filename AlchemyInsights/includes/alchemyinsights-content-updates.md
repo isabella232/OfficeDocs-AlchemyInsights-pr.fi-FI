@@ -37,8 +37,8 @@
 | 3/4/2019 | [Sähköpostin siirtäminen IMAP](/AlchemyInsights/migrate-email-from-imap) | muokattu |
 | 3/4/2019 | [Maksutavat](/AlchemyInsights/payment-options) | muokattu |
 | 3/4/2019 | [Suositellut suoritettavista toimista, jos asiakas on saanut tartunnan.](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | muokattu |
-| 3/4/2019 | [Lähettäjä estetty liian paljon roskapostia](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | muokattu |
-| 3/4/2019 | [Lähettää tukipyyntöjä Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | muokattu |
+| 3/4/2019 | [Lähettäjä estetty liiallisen roskapostin lähettämisen vuoksi](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | muokattu |
+| 3/4/2019 | [Dynamics 365 -tukipyyntöjen lähettäminen](/AlchemyInsights/submit-dynamics-365-support-requests) | muokattu |
 | 3/4/2019 | [Toimialue on jo käytössä](/AlchemyInsights/the-domain-is-already-in-use) | muokattu |
 | 3/4/2019 | [Ongelmia oston viimeistelemisessä Office 365 -portaalissa](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | muokattu |
 | 3/4/2019 | [DNS-tietueiden päivittäminen](/AlchemyInsights/update-dns-records-0) | muokattu |
@@ -56,7 +56,7 @@
 | 3/6/2019 | [Onko sinulla asiallisia viestejä merkitä roskapostiksi?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | muokattu |
 | 3/6/2019 | [Ota käyttöön Microsoftin työryhmät](/AlchemyInsights/enable-microsoft-teams) | muokattu |
 | 3/6/2019 | [On käytössä, opiskelijoiden ryhmiä?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | muokattu |
-| 3/6/2019 | [Tilauksen aktivoiminen](/AlchemyInsights/how-to-reactivate-a-subscription) | muokattu |
+| 3/6/2019 | [Tilauksen aktivoiminen uudelleen](/AlchemyInsights/how-to-reactivate-a-subscription) | muokattu |
 | 3/6/2019 | Käyttöönoton Intune App - 991 säännön tunnus | poistettu |
 | 3/6/2019 | [Ongelma Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | muokattu |
 | 3/6/2019 | [Microsoftin työryhmät - vierailijoita](/AlchemyInsights/microsoft-teamsguest-access) | muokattu |
@@ -329,7 +329,7 @@
 | 3/22/2019 | [Ei-voittoa Office 365: n hankkimisesta](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | muokattu |
 | 3/22/2019 | [Ei-voittoa Office 365: n hankkimisesta](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | muokattu |
 | 3/22/2019 | [Ei-voittoa Office 365: n hankkimisesta](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | muokattu |
-| 3/22/2019 | [Tilauksen aktivoiminen](/AlchemyInsights/how-to-reactivate-a-subscription) | muokattu |
+| 3/22/2019 | [Tilauksen aktivoiminen uudelleen](/AlchemyInsights/how-to-reactivate-a-subscription) | muokattu |
 | 3/22/2019 | [Miten aktivoida ja hallita uudistaminen](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | muokattu |
 | 3/22/2019 | [8000033 miten vastata tai välitä viestit Outlook.com-Beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | nimetty uudelleen |
 | 3/22/2019 | [8000063 ohjeita kaksoisnapsauttamiseen Macissa](/AlchemyInsights/how-to-right-click-on-a-mac) | nimetty uudelleen |
@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-PerForm-eDiscovery-and-Content-searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | nimetty uudelleen |
 
 
-## <a name="week-of-february-18-2019"></a>Viikko 18. helmikuuta 2019
+## <a name="week-of-march-25-2019"></a>Viikko 25. maaliskuuta 2019
 
 
 | Julkaistu |Aiheen otsikko | Muuta |
 |------|------------|--------|
-| 2/19/2019 | [Sai 'Parametria ei löydy' virhe?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | muokattu |
-| 2/19/2019 | [Sähköposti siirretään Office 365: ssä](/AlchemyInsights/move-email-to-office-365) | muokattu |
-| 2/19/2019 | [Palauta poistettu postilaatikko](/AlchemyInsights/restore-deleted-mailbox) | muokattu |
-| 2/21/2019 | [Asentaminen Mac Office-portaalista](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | nimetty uudelleen |
-| 2/22/2019 | [1 048 5.7.750 palvelu ei ole käytettävissä. Asiakas voi lähettää rekisteröimätön toimialueista](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | muokattu |
-| 2/22/2019 | [Ei kelpaa-käyttöoikeusvirhe haettaessa Outlookin web-125?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | muokattu |
-| 2/22/2019 | [Haetaan postilaatikon 126 ei löydy virhe Accessissa?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | muokattu |
-| 2/22/2019 | [Haetaan TenantAccessBlockedException-virhe käytettäessä 127 sähköposti?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | muokattu |
-| 2/22/2019 | [TenantAccessBlockedException-Virhe haettaessa käytettäessä 128 sähköposti?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | muokattu |
-| 2/22/2019 | [Ryhmän tai jakeluluettelon luominen 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | muokattu |
-| 2/22/2019 | [912 Configure Focused Saapuneet kaikille organisaation](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | muokattu |
-| 2/22/2019 | [Toimialueen poistaminen](/AlchemyInsights/remove-domain) | muokattu |
-| 2/22/2019 | [Ryhmän lisääminen SharePoint-sivustoon](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | muokattu |
-| 2/22/2019 | [Lisää toinen sähköpostialias.](/AlchemyInsights/add-another-email-alias) | muokattu |
-| 2/22/2019 | [Yhteystietojen lisääminen ryhmään: O365](/AlchemyInsights/add-contacts-to-o365-group) | muokattu |
-| 2/22/2019 | [Muuta UPN](/AlchemyInsights/change-upn) | muokattu |
-| 2/22/2019 | [Yleisen kansion käyttöoikeuksien muuttaminen](/AlchemyInsights/changing-public-folder-permissions) | muokattu |
-| 2/22/2019 | [Jaetun postilaatikon toisena käyttäjänä lähettämisen toiminnan muuttaminen](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | muokattu |
-| 2/22/2019 | [AAD identiteetin synkronoinnin tilan tarkistaminen](/AlchemyInsights/check-aad-identity-sync-status) | muokattu |
-| 2/22/2019 | [Vertaa suunnitelmat Office 365: ssä](/AlchemyInsights/compare-office-365-plans) | muokattu |
-| 2/22/2019 | [Perinteinen sivuston luominen](/AlchemyInsights/create-a-classic-site) | muokattu |
-| 2/22/2019 | [SharePoint Online-sivuston luominen](/AlchemyInsights/create-a-site-in-sharepoint-online) | muokattu |
-| 2/22/2019 | [Yleisten kansioiden luominen](/AlchemyInsights/creating-public-folders) | muokattu |
-| 2/22/2019 | [SharePoint-sivuston poistaminen](/AlchemyInsights/delete-a-sharepoint-site-0) | muokattu |
-| 2/22/2019 | [Antaa käyttäjille ja SharePoint-OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | muokattu |
-| 2/22/2019 | [Sai 'Parametria ei löydy' virhe?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | muokattu |
-| 2/22/2019 | [Email-toimitus ongelmia?](/AlchemyInsights/having-email-delivery-issues-0) | muokattu |
-| 2/22/2019 | [Email-toimitus ongelmia?](/AlchemyInsights/having-email-delivery-issues) | muokattu |
-| 2/22/2019 | [Outlook muodostaa yhteyden saaminen ongelmia?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | muokattu |
-| 2/22/2019 | [Outlook muodostaa yhteyden saaminen ongelmia?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | muokattu |
-| 2/22/2019 | [Mac-käyttäjiä Office käyttöoikeuksien määrittäminen](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | muokattu |
-| 2/22/2019 | [Osta käyttöoikeuksia Office 365: ssä business tilauksesi miten](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | muokattu |
-| 2/22/2019 | [Varastointi OneDrive liiketoiminnan kasvattaminen](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | muokattu |
-| 2/22/2019 | [Tilauksen aktivoiminen](/AlchemyInsights/how-to-reactivate-a-subscription) | muokattu |
-| 2/22/2019 | [Postilaatikon kokoa Enterprise SKU-tietoja varten](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | muokattu |
-| 2/22/2019 | [Postilaatikon kokoa SMB SKU-tietoja varten](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | muokattu |
-| 2/22/2019 | [Postilaatikon koon suurentaminen](/AlchemyInsights/increase-mailbox-size) | muokattu |
-| 2/22/2019 | [Ongelma Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | muokattu |
-| 2/22/2019 | [Synkronoitu Käyttäjätilien hallinta](/AlchemyInsights/manage-synchronized-user-accounts) | muokattu |
-| 2/22/2019 | [OneDrive ja SharePoint-käyttö ja toiminta](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | muokattu |
-| 2/22/2019 | [Aktivoi tilaus](/AlchemyInsights/reactivate-a-subscription) | muokattu |
-| 2/22/2019 | [Palauta poistetut OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | muokattu |
-| 2/22/2019 | [Palauta Office 365: n nimikeryhmä käyttämällä Exchange-hallintakeskukseen](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | muokattu |
-| 2/22/2019 | [O365 Business Essentials-tilauksen määrittäminen](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | muokattu |
-| 2/22/2019 | [Ulkoisten käyttäjien kanssa ei toimi](/AlchemyInsights/sharing-with-external-users-isn-t-working) | muokattu |
-| 2/22/2019 | [Yritetään löytää kokeiluversio?](/AlchemyInsights/trying-to-find-a-trial) | muokattu |
-| 2/22/2019 | [Ota ulkoisen SharePoint jakamisen käyttöön tai poistaa käytöstä](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | muokattu |
-| 2/22/2019 | [Ota ulkoisen SharePoint jakamisen käyttöön tai poistaa käytöstä](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | muokattu |
-| 2/22/2019 | [Käyttäjäoikeudet](/AlchemyInsights/user-permissions) | muokattu |
-| 2/22/2019 | [Milloin Laskutus lause luodaan?](/AlchemyInsights/when-is-the-billing-statement-generated) | muokattu |
-| 2/22/2019 | [Miten voidaan varmistaa toimialueesi Office 365: n kanssa](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | muokattu |
+| 3/25/2019 | [Outlook.com-Muuta kieli](/AlchemyInsights/outlook-com-change-language) | muokattu |
+| 3/27/2019 | [SharePoint-sivuston poistaminen](/AlchemyInsights/delete-a-sharepoint-site) | muokattu |
+| 3/28/2019 | Rajoittaa perinteistä SharePoint Online | lisätty |
+| 3/28/2019 | [Ei voi lisätä oletusarvon 2010 hyväksynnän työnkulku](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | muokattu |
+| 3/28/2019 | [Rajoittaa perinteistä SharePoint Online](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | nimetty uudelleen |
 
 
 ## <a name="week-of-february-25-2019"></a>Viikko 25. helmikuuta 2019
