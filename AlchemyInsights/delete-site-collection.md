@@ -1,5 +1,5 @@
 ---
-title: Poista sivustokokoelma
+title: Sivuston poistaminen
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757527"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747559"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>Poista SharePoint-sivustokokoelma
+# <a name="delete-a-sharepoint-site"></a>SharePoint-sivuston poistaminen
 
-1. Valitse perinteinen SharePoint hallintakeskukseen, sivuston kokoelmat-sivulla sivustokokoelman vieressä oleva valintaruutu.
+1. Valitse uuden SharePoint hallintakeskukseen, sivustot-sivulla poistettavan sivuston vieressä oleva valintaruutu.
     
-2. Valitse sivustokokoelmat-välilehdestä **Poista**.
+2. Valitse nauha-työkaluriviltä **Poista**.
     
 

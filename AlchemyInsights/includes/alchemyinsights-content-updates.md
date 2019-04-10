@@ -370,7 +370,7 @@
 | 3/22/2019 | [Hallitse omia bill ja maksut](/AlchemyInsights/manage-my-bill-and-payments) | muokattu |
 | 3/22/2019 | [Hallita oma lasku](/AlchemyInsights/manage-my-bill) | muokattu |
 | 3/22/2019 | [Synkronoitu Käyttäjätilien hallinta](/AlchemyInsights/manage-synchronized-user-accounts) | muokattu |
-| 3/22/2019 | [Hallitse, kuka voi luoda Office 365: n ryhmät](/AlchemyInsights/manage-who-can-create-office-365-groups) | muokattu |
+| 3/22/2019 | [Office 365 -ryhmien luontioikeuksien hallinta](/AlchemyInsights/manage-who-can-create-office-365-groups) | muokattu |
 | 3/22/2019 | [Hallitse SharePoint- tai OneDrive-tallennustilaa](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | muokattu |
 | 3/22/2019 | [SharePoint-kirjaston yhdistäminen verkkoasemaan](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | muokattu |
 | 3/22/2019 | [SharePoint-kirjaston yhdistäminen verkkoasemaan](/AlchemyInsights/map-sharepoint-library-to-network-drive) | muokattu |
@@ -484,55 +484,23 @@
 | 3/28/2019 | [Rajoittaa perinteistä SharePoint Online](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | nimetty uudelleen |
 
 
-## <a name="week-of-february-25-2019"></a>Viikko 25. helmikuuta 2019
+## <a name="week-of-april-01-2019"></a>Viikon 01 huhtikuu-2019
 
 
 | Julkaistu |Aiheen otsikko | Muuta |
 |------|------------|--------|
-| 2/25/2019 | [1800014 Hae-app tuki Outlook mobile app](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | muokattu |
-| 2/25/2019 | [1800014 määrittäminen sähköpostin Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | muokattu |
-| 2/25/2019 | [8000001 liittyvät Saapuneet-kansion poistaminen käytöstä](/AlchemyInsights/8000001-turn-off-focused-inbox) | muokattu |
-| 2/25/2019 | [8000009 Luo kansio Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000012 Outlook.com yhteystietojen poistaminen](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000013 Outlook.com-Muuta fontti](/AlchemyInsights/8000013-change-font-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000014 miten muuttaa kieli Outlook.com-](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000015 estäminen tai salliminen lähettäjät](/AlchemyInsights/8000015-block-or-unblock-senders) | muokattu |
-| 2/25/2019 | [8000015 vastaanottaa sähköposti-Estetyt lähettäjät Outlook.com-](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000029 käsittelevät Outlook.com-phishing](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000029 käsittelevät Outlook.com-spam](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000029 Roskapostin ja tietojenkalasteluhyökkäysten käsittely Outlook.comissa](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000033 miten vastata tai välitä viestit Outlook.com-Beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | muokattu |
-| 2/25/2019 | [8000034 Lukukuittaukset Outlook.com-](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000036 muuttaa sähköpostiosoitteessasi Outlook.com-](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000046 Tulosta sähköposti ja Outlook.com-kalenterit](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000047 miten Luo sähköpostin allekirjoitus on Outlook.com-](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | muokattu |
-| 2/25/2019 | [Outlook.com tiedostojen 8000052 liittäminen](/AlchemyInsights/8000052-attach-files-in-outlook-com) | muokattu |
-| 2/25/2019 | [8000059 miten muuttaa teema-toiminto (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | muokattu |
-| 2/25/2019 | [Suositellut suoritettavista toimista, jos asiakas on saanut tartunnan.](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | muokattu |
-| 2/26/2019 | [Palauttaa poistetun Office 365-ryhmän](/AlchemyInsights/restore-a-deleted-office-365-group) | muokattu |
-| 2/26/2019 | [9000215 Outlook.com-tilaukset](/AlchemyInsights/9000215-outlook-com-subscriptions) | lisätty |
-| 2/27/2019 | [9000199 Outlook.com PST-tiedostoja](/AlchemyInsights/9000199-outlook-com-read-pst-files) | lisätty |
-| 2/27/2019 | [9000202 Outlook.com-asetukset](/AlchemyInsights/9000202-outlook-com-options) | lisätty |
-| 2/27/2019 | [9000203 Outlook.com-suodattimet](/AlchemyInsights/9000203-outlook-com-filters) | lisätty |
-| 2/28/2019 | [8000036 Outlook.com profile pic/nimen muuttaminen](/AlchemyInsights/8000036-6-outlook-com-update-profile) | lisätty |
-| 2/28/2019 | [8000049 puuttuu Outlook.com Skype-kuvake](/AlchemyInsights/8000049-2-outlook-com-skype-button) | lisätty |
-| 2/28/2019 | [Tallenna Outlook.com-sähköposti 8000088](/AlchemyInsights/8000088-outlook-com-save-emails) | lisätty |
-| 2/28/2019 | [9000071 ei voi kirjoittaa @-merkin Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | lisätty |
-| 2/28/2019 | [9000193 Kumoa Siirrä tai poista Outlook.com-](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | lisätty |
-| 2/28/2019 | [9000198 Outlook.com-kalenterin beetaversio](/AlchemyInsights/9000198-outlook-com-calendar-beta) | lisätty |
-| 3/1/2019 | [8000035 pyytää palauttamaan Outlook.com beta-classic Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | lisätty |
-| 3/1/2019 | [8000035 miten vanhan uuden Outlook.com näköiseksi](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | lisätty |
-| 3/1/2019 | [8000043-POP-, IMAP- ja SMTP-asetukset Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | lisätty |
-| 3/1/2019 | [8000090 Outlook.com-Valitse kaikki](/AlchemyInsights/8000090-outlook-com-select-all) | lisätty |
-| 3/1/2019 | [8000091 Outlook.com reagoivat pop-upit](/AlchemyInsights/8000091-outlook-com-react-pop-up) | lisätty |
-| 3/1/2019 | [8000092 Outlook.com Näytä viestin lähde](/AlchemyInsights/8000092-outlook-com-view-message-source) | lisätty |
-| 3/1/2019 | [8000093 yhteydessä Outlook.com-tilin käyttöoikeudet](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | lisätty |
-| 3/1/2019 | [1800009Outlook Mac-app Support (tuki)](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | muokattu |
-| 3/1/2019 | [8000057 Outlook.com turvallista linkit](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | muokattu |
-| 3/1/2019 | [9000232 Outlook.com-osoitteisto](/AlchemyInsights/9000232-outlook-com-address-book) | lisätty |
-| 3/1/2019 | [9000233 Outlook.com PIN-koodi](/AlchemyInsights/9000233-outlook-com-pin) | lisätty |
-| 3/1/2019 | [9000234 Outlook.com-palvelimen sisäinen virhe](/AlchemyInsights/9000234-outlook-com-internal-server-error) | lisätty |
-| 3/1/2019 | [9000236 Outlook.com-tilin lisääminen](/AlchemyInsights/9000236-outlook-com-add-account) | lisätty |
-| 3/1/2019 | [9000238 Outlook.com Lisää alias](/AlchemyInsights/9000238-outlook-com-add-alias) | lisätty |
-| 3/1/2019 | [9000239 Outlook.com-välitys](/AlchemyInsights/9000239-outlook-com-forwarding) | lisätty |
-| 3/1/2019 | [9000240 Outlook.com-vastaukset](/AlchemyInsights/9000240-outlook-com-replies) | lisätty |
+| 4/1/2019 | [ATP Office 365: n käyttöön SharePoint ja Microsoft-ryhmien OneDrive](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | lisätty |
+| 4/1/2019 | [Advanced Threat Protection (ATP)-asetukset Office 365-palveluun](/AlchemyInsights/office-365-atp-setup) | lisätty |
+| 4/1/2019 | [9000071 ei voi kirjoittaa @-merkin Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | nimetty uudelleen |
+| 4/1/2019 | [Office 365 -ryhmän palauttaminen Exchange-hallintakeskuksessa](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | muokattu |
+| 4/1/2019 | [Ongelmia kanssa Office 365 Advanced Threat Protection (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | lisätty |
+| 4/2/2019 | Luokittelu otsikot Office 365: ssä | lisätty |
+| 4/2/2019 | Tietojen menetyksen estäminen (DLP) yleiskatsaus | lisätty |
+| 4/2/2019 | Työpöydän app for SharePoint | lisätty |
+| 4/2/2019 | Pääsivuston sivuston rajat ja rajoitukset | lisätty |
+| 4/2/2019 | OneDrive: Puuttuu tiedostoja tai kansioita | lisätty |
+| 4/2/2019 | Sivuston tai luettelon tallentaminen mallina | lisätty |
+| 4/2/2019 | SharePoint-keskitin sivustot yleiskatsaus | lisätty |
+| 4/2/2019 | Sivuston ja sisällön rakenne poistaa | lisätty |
+| 4/2/2019 | Vianmääritys virhe 404 Tiedostoa ei löydy | lisätty |
+| 4/3/2019 | [Virhekoodi 550 5.7.705 käyttö estetty, vuokralaisen on ylittänyt raja-arvon](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | muokattu |

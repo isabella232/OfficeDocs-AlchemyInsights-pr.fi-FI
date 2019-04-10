@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754647"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747991"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Poista Office 365-ryhmään kuuluvat sivustot:
 
-Kun käyttäjät luovat uuden ryhmäsivuston SharePoint kotoa (tai voit luoda uuden ryhmäsivuston uusi SharePoint-admin center esikatselu) vastaavat Office 365-ryhmä luodaan automaattisesti. Office 365 ryhmän yhteydessä ryhmäsivustoja luodaan myös silloin, kun luot Teams Microsoft Office 365-ryhmän tai joukkueen. Jos haluat poistaa Office 365-ryhmään kuuluu SharePoint-sivustossa, sinun on poistettava Office 365-ryhmä. 
+Kun käyttäjät luovat uuden ryhmäsivuston SharePoint kotoa tai voit luoda uuden ryhmäsivuston uusi SharePoint-hallintakeskukseen, vastaavat Office 365-ryhmä luodaan automaattisesti. Office 365 ryhmän yhteydessä ryhmäsivustoja luodaan myös silloin, kun luot Teams Microsoft Office 365-ryhmän tai joukkueen. Jos haluat poistaa Office 365-ryhmään kuuluu SharePoint-sivustossa, sinun on poistettava Office 365-ryhmä. 
   
 1. Siirry [hallintakeskukseen Microsoft 365 ryhmät-sivulla](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Huomautus: Jos poistat ryhmän, voi olla viive ennen kuin sivusto poistetaan Sha
   
 **Poista SharePoint-sivustokokoelmaa:**
 
-Perinteinen sivustokokoelman poistaminen:
+Sivuston poistaminen:
   
-1. Valitse klassinen SharePoint hallintakeskukseen, sivuston kokoelmat-sivulla sivustokokoelman viereinen **valintaruutu** . 
+1. Valitse uuden SharePoint hallintakeskukseen, sivustot-sivulla poistettavan sivuston vieressä **valintaruutu** . 
     
-2. Valitse sivustokokoelmat-välilehden **poistaa.**
+2. Valitse työkaluriviltä valintanauhan **poistaa.**
     
 **Vahingossa poistettu sivuston?**
 

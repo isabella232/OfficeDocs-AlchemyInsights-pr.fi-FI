@@ -1,5 +1,5 @@
 ---
-title: Poistetun sivustokokoelman palauttaminen
+title: Palauta poistettu sivusto
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 1f9a66daf7bee43291b785b6260aec8725ee782f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 0cf10a3a0effc1774d8a07c5d0be96384362c175
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753783"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747775"
 ---
-# <a name="restore-a-deleted-site-collection"></a>Poistetun sivustokokoelman palauttaminen
+# <a name="restore-a-deleted-site"></a>Palauta poistettu sivusto
 
-Järjestelmänvalvojan poistaa sivustokokoelman classic, kun se sijoitetaan sivustokokoelman roskakoriin, jossa se pidetään 93 päivää ennen kuin se poistetaan pysyvästi. Voit palauttaa sivustokokoelman seuraavasti:
+Kun järjestelmänvalvojan poistaa sivuston, se sijoitetaan sivustokokoelman roskakoriin, jossa se pidetään 93 päivää ennen kuin se poistetaan pysyvästi. Palauta sivusto:
   
-1. Valitse klassinen SharePoint-hallintakeskukseen nauhan **Roskakoriin** . 
+1. Valitse uuden SharePoint-hallintakeskukseen nauhan **Roskakoriin** . 
     
 2. Valitse valintaruutu, jonka haluat palauttaa sivustokokoelman.
     
 3. Valitse **Palauta poistetut kohteet**.
     
-Voit palauttaa poistetun Viestimissivusto, uusi SharePoint-admin center esikatselu. Muussa tapauksessa sinun on käytettävä PowerShell. Jos haluat palauttaa sivuston, joka kuuluu Office 365-ryhmään, sinun on palautettava ryhmän Exchange admin Centerissä. Ryhmiä voidaan palauttaa 30 päivän ajan sen jälkeen, kun ne ovat poistettu.
+Voit palauttaa poistetun Viestimissivusto, uusi SharePoint-hallintakeskukseen. Muussa tapauksessa sinun on käytettävä Microsoft PowerShell. Jos haluat palauttaa sivuston, joka kuuluu Office 365-ryhmään, sinun on palautettava ryhmän Exchange admin Centerissä. Ryhmiä voidaan palauttaa 30 päivän ajan sen jälkeen, kun ne ovat poistettu.
   
 
