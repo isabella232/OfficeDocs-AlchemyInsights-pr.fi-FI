@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1047
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 6d91b5e89ae6f6b8ef1f15809c39bc7365bc1596
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 907f74c5a20a45ef8bf111de5f7671485e189e91
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776569"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859605"
 ---
 # <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 käyttö kielletty, liikenne ei hyväksytä tässä IP-
 
 Tämä virhe ilmenee, kun lähetät sähköpostia tunnettu, alhainen maine IP-osoitteet, joita käytetään yleensä uusia asiakkaita.
-  
-Jos sinun on lähetettävä sähköposti nämä IP-osoitteet, ennen kuin voit ostaa käyttöoikeuksia, ota yhteyttä tukeen pyytää poikkeusta kunnes olet voi ostaa käyttöoikeuksia.
-  
 
+Jos sinun on lähetettävä sähköposti nämä IP-osoitteet, ennen kuin voit ostaa käyttöoikeuksia, ota yhteyttä tukeen pyytää poikkeusta kunnes olet voi ostaa käyttöoikeuksia.

@@ -10,25 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f44ed42906b85e63f1f694813f54710906969904
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772439"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859137"
 ---
 # <a name="winsock-error-10061"></a>WINSOCK-virhe 10061
 
 Tämä virhekoodi tarkoittaa sitä, että Office 365 ei voinut muodostaa TCP socket (yhteys) tavoite isännän kanssa. Tämän virheen Todennäköisin syy on ongelma palomuurin määrityksissä. Voit korjata ongelman, tarkista nämä asetukset:
-  
-- Tietoja [Office 365: n URL-osoitteet ja IP-osoitealueita](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) palomuurin asetusten tarkistaminen
-    
-- Jos virhe liittyy, Exchange Online Protection (EOP), sinun olisi aiemmin ilmoitettu muutos [Exchange Online Protection IP-osoitteet](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
-    
-- Varmista, että Internet-palveluntarjoajan (ISP) Estä portti.
-    
-- Tarkista smart isäntä- ja palvelimen asetukset yhdistimet.
-    
-Huomaa, että Office 365 ei estä *saapuvat* yhteydet tällä tavalla. 
-  
 
+- Tietoja [Office 365: n URL-osoitteet ja IP-osoitealueita](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) palomuurin asetusten tarkistaminen
+
+- Jos virhe liittyy, Exchange Online Protection (EOP), sinun olisi aiemmin ilmoitettu muutos [Exchange Online Protection IP-osoitteet](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+
+- Varmista, että Internet-palveluntarjoajan (ISP) Estä portti.
+
+- Tarkista smart isäntä- ja palvelimen asetukset yhdistimet.
+
+Huomaa, että Office 365 ei estä *saapuvat* yhteydet tällä tavalla.

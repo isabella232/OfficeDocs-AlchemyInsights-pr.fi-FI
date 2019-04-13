@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 718
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: f6354a3f4fb21c6afdf8eeacfef04b35221c0b6c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 02777d2c576ac79983d6df13a0f78a1b86dec038
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773839"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859497"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Lisää ulkoiset sähköpostiosoitteet jakeluluetteloon
 
 Ensinnäkin tarvitset organisaatiossa ulkoinen sähköpostiosoite yhteyshenkilön luominen. Sitten voit lisätä yhteyshenkilön jakeluryhmä. Lisätietoja on ohjeaiheessa [jakeluryhmän ulkoisten käyttäjien lisääminen?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
-  
-Jos Ulkoiset käyttäjät voivat lähettää viestejä jakeluryhmään, varmista ryhmä on määritetty hyväksymään ulkoisten lähettäjien lähettämät viestit. Lisätietoja [toimituksen johto](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
-  
 
+Jos Ulkoiset käyttäjät voivat lähettää viestejä jakeluryhmään, varmista ryhmä on määritetty hyväksymään ulkoisten lähettäjien lähettämät viestit. Lisätietoja [toimituksen johto](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
