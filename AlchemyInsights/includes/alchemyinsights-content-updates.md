@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>04 maaliskuu 2019 viikko
-
-
-| Julkaistu |Aiheen otsikko | Muuta |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com-Palauta poistetut sähköposti | lisätty |
-| 3/4/2019 | [8000034 Lukukuittaukset Outlook.com-](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | muokattu |
-| 3/4/2019 | [8000047 miten Luo sähköpostin allekirjoitus on Outlook.com-](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | muokattu |
-| 3/4/2019 | [8000086 Outlook.com Lisää kuva](/AlchemyInsights/80000860-outlook-com-insert-image) | lisätty |
-| 3/4/2019 | [8000087 Outlook.com-pikanäppäimet](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | lisätty |
-| 3/4/2019 | [Tallenna Outlook.com-sähköposti 8000088](/AlchemyInsights/8000088-outlook-com-save-emails) | muokattu |
-| 3/4/2019 | [8000089 Outlook.com turvallista lähettäjät](/AlchemyInsights/8000089-outlook-com-safe-senders) | lisätty |
-| 3/4/2019 | 8000011 Outlook.com-Palauta poistetut sähköposti | poistettu |
-| 3/4/2019 | 1575-PowerApps ja suunnitella laajennus Microsoft Flow | lisätty |
-| 3/4/2019 | [Vaihda toimialuetta Office 365-ryhmän](/AlchemyInsights/change-domain-for-group) | nimetty uudelleen |
-| 3/4/2019 | [1575-PowerApps ja suunnitella laajennus Microsoft Flow](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | nimetty uudelleen |
-| 3/4/2019 | [Useaan tekijään perustuvan todennuksen ottaminen käyttöön](/AlchemyInsights/enable-multifactor-authentication) | muokattu |
-| 3/4/2019 | [8000054 Outlook.com tallennustilan raja on ylitetty](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | lisätty |
-| 3/4/2019 | [423 Organisaation tietoturva – vaaraan joutunut sähköpostitili](/AlchemyInsights/423-org-securityemailaccountcompromised) | muokattu |
-| 3/4/2019 | [8000029 Roskapostin ja tietojenkalasteluhyökkäysten käsittely Outlook.comissa](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | muokattu |
-| 3/4/2019 | [Toimialueen poistaminen](/AlchemyInsights/remove-domain) | muokattu |
-| 3/4/2019 | [Käyttäjien lisääminen Office 365:een](/AlchemyInsights/add-users-to-office-365) | muokattu |
-| 3/4/2019 | [Saatko liikaa roskapostia tai kalastella postilaatikon?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | muokattu |
-| 3/4/2019 | [Nimipalvelimen vaihtaminen](/AlchemyInsights/change-nameservers) | muokattu |
-| 3/4/2019 | [Luo PowerApps apps](/AlchemyInsights/create-apps-in-powerapps) | muokattu |
-| 3/4/2019 | [Siirtymispäivämäärää siirtämisiä Office 365: ssä](/AlchemyInsights/cutover-migrations-to-office-365) | muokattu |
-| 3/4/2019 | [Email-toimitus ongelmia?](/AlchemyInsights/having-email-delivery-issues-0) | muokattu |
-| 3/4/2019 | [Email-toimitus ongelmia?](/AlchemyInsights/having-email-delivery-issues) | muokattu |
-| 3/4/2019 | [Miten voin lisätä luottokortin?](/AlchemyInsights/how-do-i-add-a-credit-card) | muokattu |
-| 3/4/2019 | [Miten voin päivittää luottokorttitietoni?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | muokattu |
-| 3/4/2019 | [Officen asentaminen](/AlchemyInsights/how-to-install-office) | muokattu |
-| 3/4/2019 | [Sähköpostin siirtäminen IMAP](/AlchemyInsights/migrate-email-from-imap) | muokattu |
-| 3/4/2019 | [Maksutavat](/AlchemyInsights/payment-options) | muokattu |
-| 3/4/2019 | [Suositellut suoritettavista toimista, jos asiakas on saanut tartunnan.](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | muokattu |
-| 3/4/2019 | [Lähettäjä estetty liiallisen roskapostin lähettämisen vuoksi](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | muokattu |
-| 3/4/2019 | [Dynamics 365 -tukipyyntöjen lähettäminen](/AlchemyInsights/submit-dynamics-365-support-requests) | muokattu |
-| 3/4/2019 | [Toimialue on jo käytössä](/AlchemyInsights/the-domain-is-already-in-use) | muokattu |
-| 3/4/2019 | [Ongelmia oston viimeistelemisessä Office 365 -portaalissa](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | muokattu |
-| 3/4/2019 | [DNS-tietueiden päivittäminen](/AlchemyInsights/update-dns-records-0) | muokattu |
-| 3/4/2019 | [DNS-tietueiden päivittäminen](/AlchemyInsights/update-dns-records) | muokattu |
-| 3/4/2019 | [Maksutietojen päivittäminen](/AlchemyInsights/update-payment-details) | muokattu |
-| 3/4/2019 | [Vahvista toimialue](/AlchemyInsights/verify-domain) | muokattu |
-| 3/4/2019 | [Useat sähköpostiosoitteet välityksen määrittäminen](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | muokattu |
-| 3/4/2019 | [Ratkaiseminen ”ei hyväksytyt toimialueen” virhe](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | muokattu |
-| 3/6/2019 | [1581 Jaetun postilaatikon avaaminen ja käyttäminen Outlookin verkkoversiossa](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | muokattu |
-| 3/6/2019 | [Ryhmien vuorot](/AlchemyInsights/1686-teams-shifts) | lisätty |
-| 3/6/2019 | [1703 Tarvitaan tietoa Teamsista ja Polycom-puhelimista](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | lisätty |
-| 3/6/2019 | [PS ryhmät moduulin asentaminen ja viittaus](/AlchemyInsights/1787-teams-ps-module-install-ref) | lisätty |
-| 3/6/2019 | [615 Erilaisia jakamistapoja ja niiden ottaminen käyttöön.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | muokattu |
-| 3/6/2019 | [Freemium ryhmät](/AlchemyInsights/997-teams-freemium) | lisätty |
-| 3/6/2019 | [Onko sinulla asiallisia viestejä merkitä roskapostiksi?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | muokattu |
-| 3/6/2019 | [Ota käyttöön Microsoftin työryhmät](/AlchemyInsights/enable-microsoft-teams) | muokattu |
-| 3/6/2019 | [On käytössä, opiskelijoiden ryhmiä?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | muokattu |
-| 3/6/2019 | [Tilauksen aktivoiminen uudelleen](/AlchemyInsights/how-to-reactivate-a-subscription) | muokattu |
-| 3/6/2019 | Käyttöönoton Intune App - 991 säännön tunnus | poistettu |
-| 3/6/2019 | [Ongelma Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | muokattu |
-| 3/6/2019 | [Microsoftin työryhmät - vierailijoita](/AlchemyInsights/microsoft-teamsguest-access) | muokattu |
-| 3/6/2019 | [Microsoftin työryhmät - poistetun ryhmäsivuston palauttaminen](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | muokattu |
-| 3/6/2019 | [Sähköpostin välittäminen Office 365:n kautta](/AlchemyInsights/relay-email-through-office-365) | muokattu |
-| 3/6/2019 | [SharePoint-tiedostojen synkronointi OneDrive-synkronointisovelluksen avulla](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | muokattu |
-| 3/6/2019 | [Microsoftin Teams täyden version päivittäminen](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | muokattu |
-| 3/7/2019 | [8000064 Outlook.com-sähköposti ei voi synkronoida - espanja](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | lisätty |
-| 3/7/2019 | [8000065 Outlook.com roskaposti spam spammi - espanja](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | lisätty |
-| 3/7/2019 | [8000066 - hakkeroitu säännön 1 - Outlook.com - espanja](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | lisätty |
-| 3/7/2019 | [8000066 - säännön 2 - Outlook.com hakkeroitu - espanja](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | lisätty |
-| 3/7/2019 | [8000067 - Outlook.com Sulje tili - espanja](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | lisätty |
-| 3/7/2019 | [8000068 - Outlook.com Lisää tili - espanja](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | lisätty |
-| 3/7/2019 | [8000069 - Outlook.com Torju lähettäjän viestit - espanja](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | lisätty |
-| 3/7/2019 | [8000070 - Outlook.com-kirjautuminen ei onnistu - espanja](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | lisätty |
-| 3/7/2019 | [Palauta poistetut käyttäjä](/AlchemyInsights/restore-deleted-user) | muokattu |
-| 3/8/2019 | 8000043-POP-, IMAP- ja SMTP-asetukset Outlook.com | poistettu |
-| 3/8/2019 | [8000043-POP-, IMAP- ja SMTP-asetukset Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | nimetty uudelleen |
-| 3/8/2019 | [8000071 Outlook.com korjaus sähköpostin synkronointi - Ranska](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | lisätty |
-| 3/8/2019 | [8000072 Outlook.com-Roskaposti - Ranska](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | lisätty |
-| 3/8/2019 | [8000073 Outlook.com-tili on hakkeroitu - Ranska](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | lisätty |
-| 3/8/2019 | [8000074 Outlook.com Sulje tili - Ranska](/AlchemyInsights/8000074-outlook-com-close-account-french) | lisätty |
-| 3/8/2019 | [8000075 Outlook.com - Vaihda salasana-Ranska](/AlchemyInsights/8000075-outlook-com-change-password-french) | lisätty |
-| 3/8/2019 | [8000076 Outlook.com Torju lähettäjän viestit - Ranska](/AlchemyInsights/8000076-outlook-com-block-sender-french) | lisätty |
-
-
 ## <a name="week-of-march-11-2019"></a>Viikko 11. maaliskuuta 2019
 
 
@@ -370,7 +290,7 @@
 | 3/22/2019 | [Hallitse omia bill ja maksut](/AlchemyInsights/manage-my-bill-and-payments) | muokattu |
 | 3/22/2019 | [Hallita oma lasku](/AlchemyInsights/manage-my-bill) | muokattu |
 | 3/22/2019 | [Synkronoitu Käyttäjätilien hallinta](/AlchemyInsights/manage-synchronized-user-accounts) | muokattu |
-| 3/22/2019 | [Office 365 -ryhmien luontioikeuksien hallinta](/AlchemyInsights/manage-who-can-create-office-365-groups) | muokattu |
+| 3/22/2019 | [Hallitse, kuka voi luoda Office 365: n ryhmät](/AlchemyInsights/manage-who-can-create-office-365-groups) | muokattu |
 | 3/22/2019 | [Hallitse SharePoint- tai OneDrive-tallennustilaa](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | muokattu |
 | 3/22/2019 | [SharePoint-kirjaston yhdistäminen verkkoasemaan](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | muokattu |
 | 3/22/2019 | [SharePoint-kirjaston yhdistäminen verkkoasemaan](/AlchemyInsights/map-sharepoint-library-to-network-drive) | muokattu |
@@ -492,7 +412,7 @@
 | 4/1/2019 | [ATP Office 365: n käyttöön SharePoint ja Microsoft-ryhmien OneDrive](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | lisätty |
 | 4/1/2019 | [Advanced Threat Protection (ATP)-asetukset Office 365-palveluun](/AlchemyInsights/office-365-atp-setup) | lisätty |
 | 4/1/2019 | [9000071 ei voi kirjoittaa @-merkin Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | nimetty uudelleen |
-| 4/1/2019 | [Office 365 -ryhmän palauttaminen Exchange-hallintakeskuksessa](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | muokattu |
+| 4/1/2019 | [Palauta Office 365: n nimikeryhmä käyttämällä Exchange-hallintakeskukseen](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | muokattu |
 | 4/1/2019 | [Ongelmia kanssa Office 365 Advanced Threat Protection (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | lisätty |
 | 4/2/2019 | Luokittelu otsikot Office 365: ssä | lisätty |
 | 4/2/2019 | Tietojen menetyksen estäminen (DLP) yleiskatsaus | lisätty |
@@ -504,3 +424,109 @@
 | 4/2/2019 | Sivuston ja sisällön rakenne poistaa | lisätty |
 | 4/2/2019 | Vianmääritys virhe 404 Tiedostoa ei löydy | lisätty |
 | 4/3/2019 | [Virhekoodi 550 5.7.705 käyttö estetty, vuokralaisen on ylittänyt raja-arvon](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | muokattu |
+
+
+## <a name="week-of-april-08-2019"></a>Viikon 08 huhtikuu-2019
+
+
+| Julkaistu |Aiheen otsikko | Muuta |
+|------|------------|--------|
+| 9/4/2019 | [Siirtää sähköpostiviestejä postilaatikon arkisto](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | muokattu |
+| 9/4/2019 | [Jakaa Nimetön](/AlchemyInsights/anonymous-sharing) | muokattu |
+| 9/4/2019 | [Tarkista useita tiedostoja kerralla](/AlchemyInsights/check-in-several-files-at-once) | muokattu |
+| 9/4/2019 | [Ryhmä muodostaa perinteinen SharePoint-ryhmäsivusto](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | muokattu |
+| 9/4/2019 | [SharePoint Online-sivuston luominen](/AlchemyInsights/create-a-site-in-sharepoint-online) | muokattu |
+| 9/4/2019 | [Sivuston luominen](/AlchemyInsights/create-a-site) | nimetty uudelleen |
+| 9/4/2019 | [SharePoint-sivuston poistaminen](/AlchemyInsights/delete-a-sharepoint-site-0) | muokattu |
+| 9/4/2019 | [Sivuston poistaminen](/AlchemyInsights/delete-site-collection) | muokattu |
+| 9/4/2019 | [Näyttöön tulee virhesanoma, kun tiedostojen jakaminen](/AlchemyInsights/error-message-when-sharing-files) | muokattu |
+| 9/4/2019 | [Ulkoinen jakaminen ryhmäsivuston kanssa](/AlchemyInsights/external-sharing-with-a-team-site) | muokattu |
+| 9/4/2019 | [SharePoint Online Termisäilön käyttäminen](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | muokattu |
+| 9/4/2019 | [Hallitse SharePoint Online-haku sanastot](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | muokattu |
+| 9/4/2019 | [Hallitse SharePoint- tai OneDrive-tallennustilaa](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | muokattu |
+| 9/4/2019 | [Palauta poistettu sivusto](/AlchemyInsights/restore-a-deleted-site-collection) | muokattu |
+| 9/4/2019 | [Palauta poistetut alisivusto](/AlchemyInsights/restore-a-deleted-subsite) | muokattu |
+| 9/4/2019 | [Jakaa tiedoston tai kansion SharePoint ja OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | muokattu |
+| 9/4/2019 | [SharePoint-muistiin](/AlchemyInsights/sharepoint-storage) | muokattu |
+| 9/4/2019 | [Ulkoisten käyttäjien kanssa ei toimi](/AlchemyInsights/sharing-with-external-users-isn-t-working) | muokattu |
+| 9/4/2019 | [SharePoint-tiedostojen synkronointi OneDrive-synkronointisovelluksen avulla](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | muokattu |
+| 9/4/2019 | [Ota ulkoisen jakamisen käyttöön tai poistaa käytöstä sivuston](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | muokattu |
+| 9/4/2019 | [Ota ulkoisen SharePoint jakamisen käyttöön tai poistaa käytöstä](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | muokattu |
+| 9/4/2019 | [Ota ulkoisen SharePoint jakamisen käyttöön tai poistaa käytöstä](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | muokattu |
+| 9/4/2019 | Vianmääritys virhe 404 Tiedostoa ei löydy | muokattu |
+| 9/4/2019 | [Käyttö estetty Project Web App-sivusto](/AlchemyInsights/access-denied-to-a-project-online-site) | lisätty |
+| 9/4/2019 | [Project Online on vain luku-tilassa](/AlchemyInsights/project-online-is-in-a-read-only-state) | lisätty |
+| 9/4/2019 | [Project Web App ei ole SharePoint-sivustokokoelma](/AlchemyInsights/project-web-app-missing-from-site-collection) | lisätty |
+| 12/4/2019 | [1 048 5.7.750 palvelu ei ole käytettävissä. Asiakas voi lähettää rekisteröimätön toimialueista](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | muokattu |
+| 12/4/2019 | [Lisää sähköpostiosoite lisääminen jakeluluetteloon 713](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | muokattu |
+| 12/4/2019 | [718 lisääminen ulkoiset yhteystiedot / organisaatio ja jakeluluettelon kotini ulkopuoliset henkilöt](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | muokattu |
+| 12/4/2019 | [714 Allowing Ulkoiset lähettäjät sähköpostin jakeluluetteloita](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | muokattu |
+| 12/4/2019 | [717 Allowing käyttäjät voivat lähettää sähköpostia jakeluluetteloon](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | muokattu |
+| 12/4/2019 | [1049 roskapostinesto 4.5.3 liian monta vastaanottajaa (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | muokattu |
+| 12/4/2019 | [1051 roskapostinesto-4.7.500 käyttö on estetty, yritä myöhemmin uudelleen](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | muokattu |
+| 12/4/2019 | [1050 roskapostinesto 4.7.500 palvelin on varattu. Yritä myöhemmin uudelleen [XXX.XXX.XXX.XXX]-](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | muokattu |
+| 12/4/2019 | [1047 roskapostinesto-550 5.7.708 palvelu ei ole käytettävissä. Käyttö estetty, ei hyväksytä tässä IP-liikenne](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | muokattu |
+| 12/4/2019 | [500 app salasanat](/AlchemyInsights/app-passwords) | muokattu |
+| 12/4/2019 | [726 Blocking sähköposti välittäminen](/AlchemyInsights/blocking-email-forwarding) | muokattu |
+| 12/4/2019 | [763 käyttäjien estäminen Exchange Online PowerShellin käyttö](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | muokattu |
+| 12/4/2019 | [608 kalenteritietoja hybridi-asetukset](/AlchemyInsights/calendar-information-on-hybrid-setups) | muokattu |
+| 12/4/2019 | [613 kalenterin julkaisemisen tiedot](/AlchemyInsights/calendar-publishing-information) | muokattu |
+| 12/4/2019 | [618 kalenterin jakamisen käytännön](/AlchemyInsights/calendar-sharing-policy) | muokattu |
+| 12/4/2019 | [398 kalenteri - varaaminen](/AlchemyInsights/calendarbooking) | muokattu |
+| 12/4/2019 | [399 kalenteri - edustaja](/AlchemyInsights/calendardelegate) | muokattu |
+| 12/4/2019 | [400 kalenteri - FreeBusy](/AlchemyInsights/calendarfreebusy) | muokattu |
+| 12/4/2019 | [402 kalenteri - O365Groups](/AlchemyInsights/calendaro365groups) | muokattu |
+| 12/4/2019 | [1081 kalenteri - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | muokattu |
+| 12/4/2019 | [912 Configure Focused Saapuneet kaikille organisaation](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | muokattu |
+| 12/4/2019 | [761 yhteyden muodostaminen Exchange Online-PowerShell MFA ollessa käytössä.](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | muokattu |
+| 12/4/2019 | [760 yhteyden muodostaminen Exchange Online-PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | muokattu |
+| 12/4/2019 | [Jakeluluettelon muuntaminen Office 365-ryhmän 712](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | muokattu |
+| 12/4/2019 | [Ryhmän tai jakeluluettelon luominen 711](/AlchemyInsights/creating-a-distribution-list-or-group) | muokattu |
+| 12/4/2019 | [744 luominen käyttäjille, kun organisaatio on hybridi-tilassa](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | muokattu |
+| 12/4/2019 | [743 luominen käyttäjät](/AlchemyInsights/creating-users-without-a-license) | muokattu |
+| 12/4/2019 | [1065 EOP heikentämisestä lähtevien IP osoite rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | muokattu |
+| 12/4/2019 | [1314 uudet monistaa objektin korjaus](/AlchemyInsights/duplicate-object-remediation) | muokattu |
+| 12/4/2019 | [934 käyttöön POP- ja IMAP-tileistä](/AlchemyInsights/enable-pop-and-imap-accounts) | muokattu |
+| 12/4/2019 | [Virhekoodi 550 5.7.501 käyttö estetty väärinkäytön roskapostin havaittu](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | muokattu |
+| 12/4/2019 | [Virhekoodi 550 5.7.705 käyttö estetty, vuokralaisen on ylittänyt raja-arvon](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | muokattu |
+| 12/4/2019 | [Haetaan postilaatikon 126 ei löydy virhe Accessissa?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | muokattu |
+| 12/4/2019 | [Haetaan TenantAccessBlockedException-virhe käytettäessä 127 sähköposti?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | muokattu |
+| 12/4/2019 | [646 AADConnect määrittämisestä](/AlchemyInsights/how-to-configure-aadconnect) | muokattu |
+| 12/4/2019 | [955 MFA määrittämisestä](/AlchemyInsights/how-to-configure-mfa) | muokattu |
+| 12/4/2019 | [614 miten luoda ja hallita postilaatikoiden huoneen](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | muokattu |
+| 12/4/2019 | [401 hybridi - FreeBusy](/AlchemyInsights/hybridfreebusy) | muokattu |
+| 12/4/2019 | [929 deflectTransport sääntöjä Saapuneet-kansion säännöt](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | muokattu |
+| 12/4/2019 | [922 Saapuneet-kansion säännöt](/AlchemyInsights/inbox-rules) | muokattu |
+| 12/4/2019 | [Suurenna EWS rajoitin rajoittaa sähköpostin siirtoa varten](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | lisätty |
+| 12/4/2019 | [1264 IP on estetty liian paljon roskapostia (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | muokattu |
+| 12/4/2019 | [Kun käyttäjä on ongelmia lähettämistä 322 ongelmat](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | muokattu |
+| 12/4/2019 | [321 ongelmat, kun käyttäjä ei ole vastaanottaa sähköposti](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | muokattu |
+| 12/4/2019 | [323 viivästykset sähköposti ongelmia](/AlchemyInsights/issues-with-delays-in-email) | muokattu |
+| 12/4/2019 | [324 email(s) menossa väärään kohteeseen liittyvät ongelmat](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | muokattu |
+| 12/4/2019 | [898 lisätietoja ulkoisilla jakamisen asetukset](/AlchemyInsights/learn-about-external-calendar-sharing-options) | muokattu |
+| 12/4/2019 | [617 lisätietoja ulkoinen jakamisen asetukset](/AlchemyInsights/learn-about-external-sharing-options) | muokattu |
+| 12/4/2019 | [610 lisätietoja Office 365: n ryhmät](/AlchemyInsights/learn-about-office-365-groups) | muokattu |
+| 12/4/2019 | [612 oppia miten kalenterit ja Yleiset kansiot](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | muokattu |
+| 12/4/2019 | [Opi 603 esityslistan asetusten säätäminen](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | muokattu |
+| 12/4/2019 | [Sähköpostialias ensisijainen sähköpostiosoite käyttäjän tekemistä 723](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | muokattu |
+| 12/4/2019 | [597 Microsoft varaukset App](/AlchemyInsights/microsoft-bookings-app) | muokattu |
+| 12/4/2019 | [973 säännön siirtäminen StalledDueTo *](/AlchemyInsights/migration-stalleddueto-rule) | muokattu |
+| 12/4/2019 | [1581 Jaetun postilaatikon avaaminen ja käyttäminen Outlookin verkkoversiossa](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | muokattu |
+| 12/4/2019 | [423 Organisaation tietoturva – vaaraan joutunut sähköpostitili](/AlchemyInsights/org-securityemailaccountcompromised) | muokattu |
+| 12/4/2019 | [424 Org tietoturva - roskapostin väärä positiivinen](/AlchemyInsights/org-securityspam-false-positive) | muokattu |
+| 12/4/2019 | [1332 OWA - Saapuneet-kansion sääntöjen ei suoriteta postilaatikkoon](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | muokattu |
+| 12/4/2019 | [182, suorita vianmääritys SaRA &amp; todennuksen Outlook-ongelmien ratkaiseminen](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | muokattu |
+| 12/4/2019 | [412 käytännön Virhe jaettaessa kalenteri](/AlchemyInsights/policy-error-when-sharing-calendar) | muokattu |
+| 12/4/2019 | [408-RBA](/AlchemyInsights/rba) | muokattu |
+| 12/4/2019 | [1336 RecoverableItems kansio on täynnä](/AlchemyInsights/recoverableitems-folder-is-full) | muokattu |
+| 12/4/2019 | [1374 ratkaista kaksi postilaatikoihin howto](/AlchemyInsights/resolve-two-mailboxes-howto) | muokattu |
+| 12/4/2019 | [924 rajat](/AlchemyInsights/rule-limits) | muokattu |
+| 12/4/2019 | [414 hakuja, päivittää](/AlchemyInsights/search-experience-updated) | muokattu |
+| 12/4/2019 | [902 (synkronointivirheet objektien kaksoisarvot vuoksi)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | muokattu |
+| 12/4/2019 | [Estänyt Spamhaus kokeiluversio Office 365-vuokralaisen](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | muokattu |
+| 12/4/2019 | [Aktiivinen Saapuneet-asiakkaassa 911 käytöstä](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | muokattu |
+| 12/4/2019 | [615 Erilaisia jakamistapoja ja niiden ottaminen käyttöön.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | muokattu |
+| 12/4/2019 | [413 ymmärtäminen esityslista sähköposti](/AlchemyInsights/understanding-agenda-mail) | muokattu |
+| 12/4/2019 | [932 päivittämistä AADConnect](/AlchemyInsights/upgrading-aadconnect) | muokattu |
+| 12/4/2019 | [725 mobiililaitteen käyttäminen sähköpostialias](/AlchemyInsights/using-email-alias-on-mobile-device) | muokattu |
+| 12/4/2019 | [1554 Winsock-virhe 10061](/AlchemyInsights/winsock-error-10061) | muokattu |

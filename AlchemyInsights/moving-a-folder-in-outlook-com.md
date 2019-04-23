@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000062
 ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
-ms.openlocfilehash: 39d4db1f4ce0ca8ad8c742f04ae40a1d599b9993
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: f0fce8670921128f1bbd405d00f91ac4119e25c1
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785774"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903481"
 ---
 # <a name="moving-a-folder-in-outlookcom"></a>Outlook.com-kansion siirtäminen
 
 Voit vetää uuden paikan Outlook.com-kansion Suosikit-hierarkiassa tai voit **siirtää** vaihtoehdon classic Outlook.com pikavalikosta. 
   
-Voit järjestää **Suosikit**-kansiot uudelleen, mutta ei voi järjestää uudelleen tai tehdä ylimmän tason kansion alikansio Outlook.com-Beta. Jos teet vahingossa siirtää niin, että se tulee alikansion ylimmän tason kansiota, Luo uusi kansio ja kaikki sähköpostin kopioiminen uuteen ylimmän tason kansioon alikansio. 
+Voit järjestää **Suosikit**-kansiot uudelleen, mutta ei voi järjestää uudelleen tai tehdä ylimmän tason kansion alikansio Outlook.com-Beta. Jos vahingossa tee alikansioon, tai siirtää ylimmän tason kansion alikansioon tulee, Luo uusi kansio ja kopioi kaikki sähköposti uuteen ylimmän tason kansioon alikansio. 
   
 Lue lisää siitä, miten [siirtää tai nimetä uudelleen kansio Outlook.com](https://support.office.com/article/c9c66fed-8a7c-426a-afc6-0d46a72080fb).
   
