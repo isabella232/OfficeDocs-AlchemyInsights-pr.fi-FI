@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788049"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903410"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="7ec19-102">Miten kirjautua sisään, tai Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7ec19-102">How to sign in to or out of Outlook.com</span></span>
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="8804a-102">Miten kirjautua sisään, tai Outlook.com</span><span class="sxs-lookup"><span data-stu-id="8804a-102">How to sign in to or out of Outlook.com</span></span>
 
-<span data-ttu-id="7ec19-103">Jos kirjautuminen ei onnistu, että Outlook.com, Hotmail, MSN tai Live sähköposti tilin tai tiedä miten kirjautua sisään tai ulos, [Tässä on joitakin ratkaisuja](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="7ec19-103">If can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
+<span data-ttu-id="8804a-103">Jos et voi kirjautua sisään oman Outlook.com-sähköposti Hotmail, MSN tai Live tilin tai tiedä miten kirjautua sisään tai ulos, [Tässä on joitakin ratkaisuja](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="8804a-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
   
-<span data-ttu-id="7ec19-104">Katso Jos olet edelleen on ongelmia kirjautumisessa, [Kun et voi kirjautua sisään Microsoft-tililläsi](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="7ec19-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="8804a-104">Katso Jos olet edelleen on ongelmia kirjautumisessa, [Kun et voi kirjautua sisään Microsoft-tililläsi](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="8804a-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
   
 
