@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
 ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404492"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374213"
 ---
 # <a name="got-a-parameter-cannot-be-found-error"></a>Sai 'Parametria ei löydy' virhe?
 
 Jos näyttöön tulee virhesanoma **-parametria ei löydy, joka vastaa parametrin nimi ' EmailAddresses ”**, se tarkoittaa, että se kestää hieman kauemmin loppuun Jos olet äskettäin lisännyt yhden oman vuokralaisen tai mukautetun toimialueen määrittäminen Office 365: ssä. 
   
-Asennus voi kestää jopa 4 tuntia. Odota hetki, jolloin asennusprosessi on aika loppuun, ja yritä sitten uudelleen.
+Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen.
   
 

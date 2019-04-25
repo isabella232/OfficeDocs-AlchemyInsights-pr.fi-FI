@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: fa366278bf6d41f08eea1a77817c902a945c5a3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917997"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388232"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Saat sähköpostitse kopion asiakkaan laskutusosoitteen
 Voit halutessasi saada laskutusselvityksen kopion sähköpostiviestin liitteenä. Jos valitset tämän mahdollisuuden, huomioi seuraavat seikat:
@@ -30,6 +30,6 @@ Vastaanottaa asiakkaan laskutusosoitteen sähköpostitse:
     
     Jos sinulla on käytössä Office 365 Germany, siirry tälle [Laskutusilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853213)-sivulle. 
     
-2. Kohdassa **haluat vastaanottaa sähköpostiviestin liitteenä tiliotteen?**, vaihtaa Ota **käyttöön**. Voit lopettaa laskutuksen lauseen sähköpostit vastaanottamisen milloin tahansa siirtymällä Ota **pois**.
+2. Valitse **Haluatko saada laskutusselvityksen sähköpostiviestin liitteenä?** -kohdan tilaksi **Käytössä**. Voit lopettaa laskutusselvityssähköpostien vastaanottamisen milloin tahansa vaihtamalla tilaksi **Ei käytössä**.
     
 
