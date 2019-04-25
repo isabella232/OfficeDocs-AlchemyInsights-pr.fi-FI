@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000039
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
 ms.openlocfilehash: 950a020eebccb1b95e0b7fd9e52be588c8824831
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786089"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419389"
 ---
-# <a name="outlookcom-account-hacked"></a><span data-ttu-id="94346-102">Outlook.com-tili on hakkeroitu</span><span class="sxs-lookup"><span data-stu-id="94346-102">Outlook.com account hacked</span></span>
+# <a name="outlookcom-account-hacked"></a><span data-ttu-id="7b020-102">Outlook.com-tili on hakkeroitu</span><span class="sxs-lookup"><span data-stu-id="7b020-102">Outlook.com account hacked</span></span>
 
-<span data-ttu-id="94346-103">Jos tilisi on ollut hakkeroitu, noudata [Outlook.com Oma-tili on ollut hakkeroitu](https://go.microsoft.com/fwlink/p/?linkid=874366) palauttamaan tilisi.</span><span class="sxs-lookup"><span data-stu-id="94346-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366) to recover your account.</span></span> 
+<span data-ttu-id="7b020-103">Jos tilisi on ollut hakkeroitu, noudata [Outlook.com Oma-tili on ollut hakkeroitu](https://go.microsoft.com/fwlink/p/?linkid=874366) palauttamaan tilisi.</span><span class="sxs-lookup"><span data-stu-id="7b020-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366) to recover your account.</span></span> 
   
-<span data-ttu-id="94346-104">Lisätietoja [Advanced Outlook.com security Office 365-tilaajille](https://go.microsoft.com/fwlink/p/?linkid=874368).</span><span class="sxs-lookup"><span data-stu-id="94346-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=874368).</span></span>
+<span data-ttu-id="7b020-104">Lisätietoja [Advanced Outlook.com security Office 365-tilaajille](https://go.microsoft.com/fwlink/p/?linkid=874368).</span><span class="sxs-lookup"><span data-stu-id="7b020-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=874368).</span></span>
   
 

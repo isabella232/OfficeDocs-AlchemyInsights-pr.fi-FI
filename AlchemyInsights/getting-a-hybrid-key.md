@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
 ms.openlocfilehash: c9b28dd1a8a7e4ac2b38a95868461e2f1d137f1d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934953"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400786"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="e7851-102">Haetaan hybridi vaihtoavain</span><span class="sxs-lookup"><span data-stu-id="e7851-102">Getting an Exchange hybrid key</span></span>
+# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="c5b77-102">Haetaan hybridi vaihtoavain</span><span class="sxs-lookup"><span data-stu-id="c5b77-102">Getting an Exchange hybrid key</span></span>
 
-<span data-ttu-id="e7851-p101">Muodostaa paikallisen organisaation Exchange Online Office 365: ssä, jos haluat määrittää vähintään yhden paikallisen organisaation Exchange server. Tätä palvelinta käytetään luoda hybridi, joka yhdistää paikallisen Exchange-organisaation Exchange Onlinen käyttöönoton. Saadaksesi tämän palvelimen avaimen hybridi noudattamalla [Exchange hybridi product key distribution ohjattu](http://aka.ms/hybridkey)kello.</span><span class="sxs-lookup"><span data-stu-id="e7851-p101">To connect your on-premises organization to Exchange Online in Office 365, you need to set up at least one Exchange server in your on-premises organization. This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online. To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](http://aka.ms/hybridkey).</span></span>
+<span data-ttu-id="c5b77-103">Muodostaa paikallisen organisaation Exchange Online Office 365: ssä, jos haluat määrittää vähintään yhden paikallisen organisaation Exchange server.</span><span class="sxs-lookup"><span data-stu-id="c5b77-103">To connect your on-premises organization to Exchange Online in Office 365, you need to set up at least one Exchange server in your on-premises organization.</span></span> <span data-ttu-id="c5b77-104">Tätä palvelinta käytetään luoda hybridi, joka yhdistää paikallisen Exchange-organisaation Exchange Onlinen käyttöönoton.</span><span class="sxs-lookup"><span data-stu-id="c5b77-104">This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online.</span></span> <span data-ttu-id="c5b77-105">Saadaksesi tämän palvelimen avaimen hybridi noudattamalla [Exchange hybridi product key distribution ohjattu](http://aka.ms/hybridkey)kello.</span><span class="sxs-lookup"><span data-stu-id="c5b77-105">To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](http://aka.ms/hybridkey).</span></span>
   
 
