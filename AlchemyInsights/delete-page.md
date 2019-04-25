@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c46c757e-d2e6-46e9-95b2-5b47bb4bd572
 ms.openlocfilehash: 2bb3d677cc35040363f6806d95cbe0c41b25f6cc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30765481"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405150"
 ---
-# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="491e1-102">SharePoint-sivun poistaminen</span><span class="sxs-lookup"><span data-stu-id="491e1-102">Delete a SharePoint page</span></span>
+# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="257e7-102">SharePoint-sivun poistaminen</span><span class="sxs-lookup"><span data-stu-id="257e7-102">Delete a SharePoint page</span></span>
 
-1. <span data-ttu-id="491e1-103">Siirry sivustoon, jossa sivu on.</span><span class="sxs-lookup"><span data-stu-id="491e1-103">Go to the site where the page is.</span></span>
+1. <span data-ttu-id="257e7-103">Siirry sivustoon, jossa sivu on.</span><span class="sxs-lookup"><span data-stu-id="257e7-103">Go to the site where the page is.</span></span>
     
-2. <span data-ttu-id="491e1-104">Valitse vasemmalla puolella **Sivuston sisältöä**.</span><span class="sxs-lookup"><span data-stu-id="491e1-104">On the left side, click **Site Contents**.</span></span>
+2. <span data-ttu-id="257e7-104">Valitse vasemmalla puolella **Sivuston sisältöä**.</span><span class="sxs-lookup"><span data-stu-id="257e7-104">On the left side, click **Site Contents**.</span></span>
     
-3. <span data-ttu-id="491e1-105">Sivuston sisältö-sivun vasemmassa reunassa valitsemalla **sivut**.</span><span class="sxs-lookup"><span data-stu-id="491e1-105">On the left side of the Site Contents page, click **Pages**.</span></span>
+3. <span data-ttu-id="257e7-105">Sivuston sisältö-sivun vasemmassa reunassa valitsemalla **sivut**.</span><span class="sxs-lookup"><span data-stu-id="257e7-105">On the left side of the Site Contents page, click **Pages**.</span></span>
     
-4. <span data-ttu-id="491e1-106">Valitse sivu ja valitse sitten kolme pistettä (...), sivun oikealla puolella.</span><span class="sxs-lookup"><span data-stu-id="491e1-106">Select the page, and then click the ellipses (...) to the right of the page.</span></span>
+4. <span data-ttu-id="257e7-106">Valitse sivu ja valitse sitten kolme pistettä (...), sivun oikealla puolella.</span><span class="sxs-lookup"><span data-stu-id="257e7-106">Select the page, and then click the ellipses (...) to the right of the page.</span></span>
     
-5. <span data-ttu-id="491e1-107">Valitse **Poista**.</span><span class="sxs-lookup"><span data-stu-id="491e1-107">Click **Delete**.</span></span>
+5. <span data-ttu-id="257e7-107">Valitse **Poista**.</span><span class="sxs-lookup"><span data-stu-id="257e7-107">Click **Delete**.</span></span>
     
 

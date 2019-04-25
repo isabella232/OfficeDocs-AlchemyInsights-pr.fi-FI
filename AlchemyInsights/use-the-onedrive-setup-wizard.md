@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
 ms.openlocfilehash: cdf966f1eedf5240c6fa46b71e95a0554b76951f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756411"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423414"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="9709e-102">OneDrive määrittäminen</span><span class="sxs-lookup"><span data-stu-id="9709e-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="8f41c-102">OneDrive määrittäminen</span><span class="sxs-lookup"><span data-stu-id="8f41c-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="9709e-103">Voit määrittää OneDrive nopeasti organisaatiosi [käyttää ohjattua asennuksen OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="9709e-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="8f41c-103">Voit määrittää OneDrive nopeasti organisaatiosi [käyttää ohjattua asennuksen OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="8f41c-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 
