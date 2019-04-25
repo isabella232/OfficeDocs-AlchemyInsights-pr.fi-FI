@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913461"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394593"
 ---
-# <a name="change-intune-mdm-authority"></a><span data-ttu-id="1c341-102">Muuta Intune MDM viranomaisen</span><span class="sxs-lookup"><span data-stu-id="1c341-102">Change Intune MDM authority</span></span>
+# <a name="change-intune-mdm-authority"></a><span data-ttu-id="cfc24-102">Muuta Intune MDM viranomaisen</span><span class="sxs-lookup"><span data-stu-id="cfc24-102">Change Intune MDM authority</span></span>
 
-<span data-ttu-id="1c341-p101">Voit muuttaa MDM-viranomaisen ei tarvitse avata tukipyynnön. Katso ohjeet seuraavat asiakirjat:</span><span class="sxs-lookup"><span data-stu-id="1c341-p101">You can change your MDM authority without opening a support case. See the following documents for instructions:</span></span>
+<span data-ttu-id="cfc24-103">Voit muuttaa MDM-viranomaisen ei tarvitse avata tukipyynnön.</span><span class="sxs-lookup"><span data-stu-id="cfc24-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="cfc24-104">Katso ohjeet seuraavat asiakirjat:</span><span class="sxs-lookup"><span data-stu-id="cfc24-104">See the following documents for instructions:</span></span>
   
-- [<span data-ttu-id="1c341-105">MDM viranomaisen Configuration Manager muuttaa Intune erillinen</span><span class="sxs-lookup"><span data-stu-id="1c341-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [<span data-ttu-id="cfc24-105">MDM viranomaisen Configuration Manager muuttaa Intune erillinen</span><span class="sxs-lookup"><span data-stu-id="cfc24-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [<span data-ttu-id="1c341-106">Muuta MDM viranomaisen Intune erillisen kokoonpanon hallinta</span><span class="sxs-lookup"><span data-stu-id="1c341-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [<span data-ttu-id="cfc24-106">Muuta MDM viranomaisen Intune erillisen kokoonpanon hallinta</span><span class="sxs-lookup"><span data-stu-id="cfc24-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- <span data-ttu-id="1c341-107">**MDM viranomaisen yhteistoimintaskenaarioissa**</span><span class="sxs-lookup"><span data-stu-id="1c341-107">**MDM Authority Co-Existence**</span></span>
+ <span data-ttu-id="cfc24-107">**MDM viranomaisen yhteistoimintaskenaarioissa**</span><span class="sxs-lookup"><span data-stu-id="cfc24-107">**MDM Authority Co-Existence**</span></span>
   
-- <span data-ttu-id="1c341-108">Sinulla on aktiivinen MDM sekä viranomaisten samanaikaisesti Jos sinulla on jo käytössä Office 365 MDM mutta yritetään Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="1c341-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
+- <span data-ttu-id="cfc24-108">Sinulla on aktiivinen MDM sekä viranomaisten samanaikaisesti Jos sinulla on jo käytössä Office 365 MDM mutta yritetään Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="cfc24-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
     
-- <span data-ttu-id="1c341-109">Järjestelmänvalvojat, joilla on jo aktiivinen O365 MDM yksinkertaisesti merkitä Intune MDM aktiiviseksi Azure-portaalista.</span><span class="sxs-lookup"><span data-stu-id="1c341-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
+- <span data-ttu-id="cfc24-109">Järjestelmänvalvojat, joilla on jo aktiivinen O365 MDM yksinkertaisesti merkitä Intune MDM aktiiviseksi Azure-portaalista.</span><span class="sxs-lookup"><span data-stu-id="cfc24-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
     
-- <span data-ttu-id="1c341-110">Jos olet Intune MDM, mutta haluat käyttää Office 365-MDM: Avaa lipun alla ja tuen agentti auttaa ottaa tämän puolestasi.</span><span class="sxs-lookup"><span data-stu-id="1c341-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
+- <span data-ttu-id="cfc24-110">Jos olet Intune MDM, mutta haluat käyttää Office 365-MDM: Avaa lipun alla ja tuen agentti auttaa ottaa tämän puolestasi.</span><span class="sxs-lookup"><span data-stu-id="cfc24-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
     
 

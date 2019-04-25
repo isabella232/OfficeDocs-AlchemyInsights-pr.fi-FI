@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 24bb0e8a1ad5b1ef33c57b1bcb5bed939009749c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766489"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32377809"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a><span data-ttu-id="548a2-102">Ulkoisten käyttäjien OneDrive tai SharePoint-tiedoston tai kansion jakaminen</span><span class="sxs-lookup"><span data-stu-id="548a2-102">Share a OneDrive or SharePoint file or folder with external users</span></span>
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a><span data-ttu-id="9cff1-102">Ulkoisten käyttäjien OneDrive tai SharePoint-tiedoston tai kansion jakaminen</span><span class="sxs-lookup"><span data-stu-id="9cff1-102">Share a OneDrive or SharePoint file or folder with external users</span></span>
 
-1. <span data-ttu-id="548a2-103">Siirry selaimessa, tiedosto tai kansio, jonka haluat jakaa, valitse se ja valitse sitten **Jaa**.</span><span class="sxs-lookup"><span data-stu-id="548a2-103">In a browser, go to the file or folder you want to share, select it, and then click **Share**.</span></span>
+1. <span data-ttu-id="9cff1-103">Siirry selaimessa, tiedosto tai kansio, jonka haluat jakaa, valitse se ja valitse sitten **Jaa**.</span><span class="sxs-lookup"><span data-stu-id="9cff1-103">In a browser, go to the file or folder you want to share, select it, and then click **Share**.</span></span>
     
-2. <span data-ttu-id="548a2-104">Valitse Lähetä linkki-valintaikkunassa alanuolta napsauttamalla voit muuttaa linkkiä.</span><span class="sxs-lookup"><span data-stu-id="548a2-104">In the Send link dialog box, click the down arrow to change the type of link.</span></span>
+2. <span data-ttu-id="9cff1-104">Valitse Lähetä linkki-valintaikkunassa alanuolta napsauttamalla voit muuttaa linkkiä.</span><span class="sxs-lookup"><span data-stu-id="9cff1-104">In the Send link dialog box, click the down arrow to change the type of link.</span></span>
     
-3. <span data-ttu-id="548a2-105">Määritä-kohdassa **, haluatko käyttää tätä linkkiä**, valitse **Kaikki,** Jos haluat, että vastaanottajat voivat jakaa linkin tai antaa **muiden** käyttää vain niille henkilöille.</span><span class="sxs-lookup"><span data-stu-id="548a2-105">Under **Who would you like this link to work for**, select **Anyone** if you want the recipients to be able to share the link or **Specific people** to give access only to the people you specify.</span></span> 
+3. <span data-ttu-id="9cff1-105">Määritä-kohdassa **, haluatko käyttää tätä linkkiä**, valitse **Kaikki,** Jos haluat, että vastaanottajat voivat jakaa linkin tai antaa **muiden** käyttää vain niille henkilöille.</span><span class="sxs-lookup"><span data-stu-id="9cff1-105">Under **Who would you like this link to work for**, select **Anyone** if you want the recipients to be able to share the link or **Specific people** to give access only to the people you specify.</span></span> 
     
-    <span data-ttu-id="548a2-106">Jos nämä vaihtoehdot eivät ole käytettävissä, sinun on Varmista, että olet sallitaan organisaation ja sivustokokoelman.</span><span class="sxs-lookup"><span data-stu-id="548a2-106">If these options aren't available, you need to make sure they're allowed for your organization and for the site collection.</span></span> <span data-ttu-id="548a2-107">Voit tehdä tämän, on [ottaa ulkoiset jakamisen käyttöön tai poistaa käytöstä SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="548a2-107">To do this, see [Turn external sharing on or off for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).</span></span>
+    <span data-ttu-id="9cff1-106">Jos nämä vaihtoehdot eivät ole käytettävissä, sinun on Varmista, että olet sallitaan organisaation ja sivustokokoelman.</span><span class="sxs-lookup"><span data-stu-id="9cff1-106">If these options aren't available, you need to make sure they're allowed for your organization and for the site collection.</span></span> <span data-ttu-id="9cff1-107">Voit tehdä tämän, on [ottaa ulkoiset jakamisen käyttöön tai poistaa käytöstä SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="9cff1-107">To do this, see [Turn external sharing on or off for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).</span></span>
     
-4. <span data-ttu-id="548a2-108">Valitse **Käytä**.</span><span class="sxs-lookup"><span data-stu-id="548a2-108">Click **Apply**.</span></span>
+4. <span data-ttu-id="9cff1-108">Valitse **Käytä**.</span><span class="sxs-lookup"><span data-stu-id="9cff1-108">Click **Apply**.</span></span>
     
-5. <span data-ttu-id="548a2-109">Anna henkilöiden nimet, joille haluat jakaa, ja valitse sitten **Lähetä**.</span><span class="sxs-lookup"><span data-stu-id="548a2-109">Enter the names of the people you want to share with, and then click **Send**.</span></span>
+5. <span data-ttu-id="9cff1-109">Anna henkilöiden nimet, joille haluat jakaa, ja valitse sitten **Lähetä**.</span><span class="sxs-lookup"><span data-stu-id="9cff1-109">Enter the names of the people you want to share with, and then click **Send**.</span></span>
     
 
