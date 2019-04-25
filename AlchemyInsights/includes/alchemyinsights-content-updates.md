@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Viikko 11. maaliskuuta 2019
-
-
-| Julkaistu |Aiheen otsikko | Muuta |
-|------|------------|--------|
-| 3/12/2019 | 8000054 ladattaessa ei Outlook.com-Saapuneet | lisätty |
-| 3/12/2019 | [8000078 ladattaessa ei Outlook.com-Saapuneet](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | nimetty uudelleen |
-| 3/12/2019 | [8000078 ladattaessa ei Outlook.com-Saapuneet](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | muokattu |
-| 3/13/2019 | [Sähköpostin välittäminen Office 365:n kautta](/AlchemyInsights/relay-email-through-office-365) | muokattu |
-| 3/14/2019 | [sama tiedostonimi on paras [sääntö #-kuvaus]](/AlchemyInsights/1-alchemy-insight-template) | muokattu |
-| 3/14/2019 | [Postilaatikon koon suurentaminen](/AlchemyInsights/increase-mailbox-size) | muokattu |
-| 3/15/2019 | [Työpöydän Outlook-peruutus- tai korvaa sähköpostiviestin](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | lisätty |
-
-
 ## <a name="week-of-march-18-2019"></a>Viikko 18. maaliskuuta 2019
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [932 päivittämistä AADConnect](/AlchemyInsights/upgrading-aadconnect) | muokattu |
 | 12/4/2019 | [725 mobiililaitteen käyttäminen sähköpostialias](/AlchemyInsights/using-email-alias-on-mobile-device) | muokattu |
 | 12/4/2019 | [1554 Winsock-virhe 10061](/AlchemyInsights/winsock-error-10061) | muokattu |
+
+
+## <a name="week-of-april-15-2019"></a>15. huhtikuuta 2019 viikko
+
+
+| Julkaistu |Aiheen otsikko | Muuta |
+|------|------------|--------|
+| 4/15/2019 | [Alkemia - diagnosoida ja Outlookin yhteysongelmien ratkaiseminen](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | muokattu |
+| 4/15/2019 | [Alkemia - Luo Outlook-profiili](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | muokattu |
+| 4/15/2019 | [DLP on ehkä mukautettu tyyppi](/AlchemyInsights/dlp-might-need-custom-type) | lisätty |
+| 4/15/2019 | [DLP ei toimi odotetulla tavalla](/AlchemyInsights/dlp-not-working-as-expected) | muokattu |
+| 4/15/2019 | [DLP-käytännön vihjeitä ei toimi](/AlchemyInsights/dlp-policy-tips-not-working) | muokattu |
+| 4/15/2019 | [Virhe Outlook.com 550](/AlchemyInsights/outlook-com-error-550) | lisätty |
+| 4/15/2019 | [Outlook.com yli kiintiön](/AlchemyInsights/outlook-com-over-quota) | lisätty |
+| 4/15/2019 | [Poista Outlook.com-Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | lisätty |
+| 4/15/2019 | [Poista Outlook.com-Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | lisätty |
+| 4/15/2019 | [182, suorita vianmääritys SaRA &amp; todennuksen Outlook-ongelmien ratkaiseminen](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | muokattu |
+| 4/16/2019 | [9000233 Outlook.com PIN-koodi](/AlchemyInsights/outlook-com-pin) | muokattu |
+| 4/16/2019 | [Poista Outlook.com-Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | muokattu |
+| 4/16/2019 | [Tallenna Outlook.com-sähköposti 8000088](/AlchemyInsights/outlook-com-save-emails) | muokattu |
+| 4/16/2019 | [Outlook.com tiedostojen 8000052 liittäminen](/AlchemyInsights/attach-files-in-outlook-com) | muokattu |
+| 4/16/2019 | [8000015 estäminen tai salliminen lähettäjät](/AlchemyInsights/block-or-unblock-senders) | muokattu |
+| 4/16/2019 | [8000014 miten muuttaa kieli Outlook.com-](/AlchemyInsights/how-to-change-language-in-outlook-com) | muokattu |
+| 4/16/2019 | [8000059 miten asettelun muuttaminen](/AlchemyInsights/how-to-change-your-layout) | muokattu |
+| 4/16/2019 | [8000033 miten vastata tai välitä viestit Outlook.com-Beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | muokattu |
+| 4/16/2019 | [8000055 miten Kirjaudu sisään, tai Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | muokattu |
+| 4/16/2019 | [8000062 Outlook.com-kansion siirtäminen](/AlchemyInsights/moving-a-folder-in-outlook-com) | muokattu |
+| 4/16/2019 | [Käytä herkkyys otsikot](/AlchemyInsights/auto-apply-sensitivity-labels) | lisätty |
+| 4/16/2019 | [Herkkyys otsikot eivät näy](/AlchemyInsights/sensitivity-labels-not-appearing) | lisätty |
+| 4/16/2019 | [Uusi pidätys otsikot automaattisesti](/AlchemyInsights/new-retention-labels-created-automatically) | lisätty |
+| 4/16/2019 | [SharePoint- ja OneDrive valvonta](/AlchemyInsights/classic-sharepoint-audit-log-reports) | lisätty |
+| 4/16/2019 | [Seurantalokien poistaminen viestin tapahtumien selvittäminen](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | lisätty |
+| 4/16/2019 | [Määritä ulkoisen sähköpostin välityksen seurantalokeja postilaatikoita](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | lisätty |
+| 4/16/2019 | [Määritä Saapuneet-kansion säännön toimintaa seurantalokeja](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | lisätty |
+| 4/16/2019 | [IP-osoite ja seurantalokeja asiakkaan tunnistaminen](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | lisätty |
+| 4/16/2019 | [Korjaa .pst-tiedostoa ennen tuontia](/AlchemyInsights/repair-pst-before-importing) | lisätty |
+| 4/16/2019 | [Perinteinen SharePoint Valvontalokiraportit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | lisätty |
+| 4/16/2019 | [Perinteinen SharePoint Valvontalokiraportit](/AlchemyInsights/classic-sharepoint-audit-log-reports) | muokattu |
+| 4/16/2019 | [Määritä ulkoisen sähköpostin välityksen seurantalokeja postilaatikoita](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | muokattu |
+| 4/16/2019 | [Määritä Saapuneet-kansion säännön toimintaa seurantalokeja](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | muokattu |
+| 4/16/2019 | [Perinteinen SharePoint Valvontalokiraportit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | muokattu |
+| 4/17/2019 | [Korjaa sähköpostin toimitus ongelmat postijärjestelmän käynnistämät yleisiin kansioihin](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | lisätty |
+| 4/17/2019 | [Ryhmien vuorot](/AlchemyInsights/teams-shifts) | muokattu |
+| 4/18/2019 | [8000011 Palauta poistetut sähköposti Outlook.com-](/AlchemyInsights/recover-deleted-email-in-outlook-com) | muokattu |

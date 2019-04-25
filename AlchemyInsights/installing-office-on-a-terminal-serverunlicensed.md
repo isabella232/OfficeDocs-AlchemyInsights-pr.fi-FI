@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918971"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410119"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Päätepalvelimen asennuksen
 
@@ -25,9 +25,9 @@ Voidaan ottaa käyttöön Office 365 ProPlus Windows-palvelimen käyttämällä 
     
 Jos haluat asentaa Office 365 ProPlus RDS Office 365-portaalista ** *asennuksesta oletusasetuksia käyttäen* **, toimi seuraavasti: 
   
-1. Tarkista, mitä sinulla on Office 365-suunnitelma. [Tietoja siitä, miten](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Tarkista, mitä sinulla on Office 365-suunnitelma. [Lue lisätietoja siitä, miten](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Jos tarpeen, siirry eri Office 365: ssä. [Tietoja siitä, miten](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Jos tarpeen, siirry eri Office 365: ssä. [Lue lisätietoja siitä, miten](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Jos RDS-palvelimeen, joka käyttää Office 365-suunnitelmat on jo asennettu Office, poista sen asennus. Esimerkiksi siirtymällä Ohjauspaneelin \> Poista ohjelman asennus. Asennuksen poisto käyttämällä [Microsoftin tuotetukeen ja palautus avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy) , jos ongelmia käytössä. 
     
