@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: 8000033
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
 ms.openlocfilehash: 99b945f3115a4909d304255997d22a038575caff
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903517"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416742"
 ---
-# <a name="how-to-reply-to-or-forward-messages"></a><span data-ttu-id="8813c-102">Välittää viestiä tai vastata</span><span class="sxs-lookup"><span data-stu-id="8813c-102">How to reply to or forward messages</span></span>
+# <a name="how-to-reply-to-or-forward-messages"></a><span data-ttu-id="51435-102">Välittää viestiä tai vastata</span><span class="sxs-lookup"><span data-stu-id="51435-102">How to reply to or forward messages</span></span>
 
-<span data-ttu-id="8813c-103">Valitse vasemmalle nuolta tai oikeaa nuolta aukeaman vastauksen Mutkaisten Kaksoisnuoli vasemmalle kaaria vastaa kaikille viestiruudun oikeassa yläkulmassa tai eteenpäin.</span><span class="sxs-lookup"><span data-stu-id="8813c-103">At the top right corner of the message pane, select the left curving arrow, left curving double arrow or right facing arrow to Reply, Reply all, or Forward.</span></span> 
+<span data-ttu-id="51435-103">Valitse vasemmalle nuolta tai oikeaa nuolta aukeaman vastauksen Mutkaisten Kaksoisnuoli vasemmalle kaaria vastaa kaikille viestiruudun oikeassa yläkulmassa tai eteenpäin.</span><span class="sxs-lookup"><span data-stu-id="51435-103">At the top right corner of the message pane, select the left curving arrow, left curving double arrow or right facing arrow to Reply, Reply all, or Forward.</span></span> 
   
-<span data-ttu-id="8813c-104">Lisätietoja [Luo, vastata](https://go.microsoft.com/fwlink/p/?linkid=873141)ja välittää sähköpostiviestejä Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="8813c-104">Learn more about how to [Create, reply to, or forward email messages in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).</span></span>
+<span data-ttu-id="51435-104">Lisätietoja [Luo, vastata](https://go.microsoft.com/fwlink/p/?linkid=873141)ja välittää sähköpostiviestejä Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="51435-104">Learn more about how to [Create, reply to, or forward email messages in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).</span></span>
   
 
