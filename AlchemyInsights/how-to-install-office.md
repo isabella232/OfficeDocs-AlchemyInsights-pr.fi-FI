@@ -1,5 +1,5 @@
 ---
-title: Officen asentaminen
+title: Officen asennusohjeet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.openlocfilehash: 05e1f1e27d77ebf621fda557346692a75befd284
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405104"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417351"
 ---
-# <a name="how-to-install-office"></a>Officen asentaminen
+# <a name="how-to-install-office"></a>Officen asennusohjeet
 
 
-Jos haluat asentaa Office client apps, varmistaa liiketoiminnan tilauksesi kuten Office 365: n Business Premium Business Office 365: n tai Office 365-koulutus.
+Jos haluat asentaa Office-asiakassovelluksia, varmista, että sinulla on Business-tilaus, kuten Office 365 Business Premium, Office 365 Business tai Office 365 Education.
   
-*Huomautus: [Office Home and Business-2016](https://products.office.com/home-and-business) on [kotona Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) -tuotteen ja eivät kuulu yrityksen tilaus. Tietyt Visio- tai Project-ohjeet [Asentaa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) - tai [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*HUOMAUTUS:[ Office Home & Business 2016](https://products.office.com/home-and-business) on [kotikäyttöön tarkoitettu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) tuote eikä kuulu Business-tilauksiin. Saat tarkat Visiota ja Projectia koskevat ohjeet artikkeleista [Vision asentaminen](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Projectin asentaminen](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
-Luo käyttäjätilit ja lisää toimialueen. Varmista, että käyttäjällä [määritetty käyttöoikeus](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
+Luo käyttäjätilit ja lisää toimialueesi. Varmista, että käyttäjällä on [käyttöoikeudet](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
-Jokaisella käyttäjällä on:
-1. Siirry yritysportaalin sivu: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
-2. Jos ei ole jo kirjautunut, kirjaudu työaikaa tai oppilaitos tilinsä.
-3. Valitse Office-kohdasta kieli. Valitse **Lisäasetukset** ja valitse 32-bittinen versio tai 64-bittinen versio. 
-4. Valitse **Asenna**.
+Kunkin käyttäjän täytyy:
+1. Siirtyä portaalisivulle: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+2. Kirjautua sisään työpaikan tai oppilaitoksen tilillä, jos käyttäjä ei ole jo kirjautunut.
+3. Valita kieli Office-kohdassa. Valita **Lisäasetukset** 32- tai 64-bittisen version valitsemiseksi. 
+4. Valita **Asenna**.
     
-Yksityiskohtaiset ohjeet ja ratkaista ongelman Officen asennuksen yhteydessä, on: [Lataa ja asenna tai asenna PC tai Mac Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Saat yksityiskohtaiset ohjeet sekä vianmääritysohjeet Officen asentamiseen artikkelista [Officen lataaminen ja asentaminen tai uudelleenasentaminen PC- tai Mac-tietokoneeseen](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
     
