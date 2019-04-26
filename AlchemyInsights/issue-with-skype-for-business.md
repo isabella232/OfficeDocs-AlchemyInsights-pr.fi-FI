@@ -1,5 +1,5 @@
 ---
-title: Ongelma Skype for Business?
+title: Onko Skype for Businessin käytössä ongelma?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468444"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409903"
 ---
-# <a name="issue-with-skype-for-business"></a>Ongelma Skype for Business?
+# <a name="issue-with-skype-for-business"></a>Onko Skype for Businessin käytössä ongelma?
 
-Olemme havaitsi, että seuraavat toimialueet % on ongelmia, jotka saattavat estää toimimasta oikein Skype for Business:
+Olemme havainneet, että seuraavilla toimialueilla on ongelmia, jotka saattavat estää Skype for Businessin oikean toiminnan:
   
 {HealthCheckString}
   
-Toimialue (DNS) asetukset NS-, CNAME- ja SRV-tietueita ei ole määritetty oikein, Skype for Business. Yksityiskohtaisia ohjeita voi viitata [päivittää DNS](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) -tietueisiin Office 365: ssä. 
+Toimialueasetuksien (DNS) NS-, CNAME- ja SRV-tietueita ei ole määritetty oikein Skype for Businessille. Tarkat ohjeet ovat artikkelissa [DNS-tietueiden päivittäminen Office 365:ssä](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Korjata se siirtymällä hallintakeskukseen Microsoft 365 sivua [toimialueiden](https://admin.microsoft.com/adminportal/home#/Domains) ja Microsoft auttaa sinua sen kanssa. 
+Voit korjata ongelman siirtymällä Microsoft 365 -hallintakeskuksen [Toimialueet](https://admin.microsoft.com/adminportal/home#/Domains)-sivulle, niin autamme sinua. 
   
-Jos sinulla on ongelmia, jotka ovat organisaation ulkopuolisten käyttäjien kanssa, voit viitata [määrittää ulkoisen viestinnän Business Online Skype](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) yksityiskohtaiset ohjeet. 
+Jos sinulla on ongelmia organisaatiosi ulkopuolisten käyttäjien kanssa viestimisessä, voit katsoa tarkat ohjeet artikkelista [Skype for Business Onlinen ulkoisen tietoliikenteen määrittäminen](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx). 
   
-Muita yhteisiä ratkaisuja [tarkistaa toimialueet-usein kysytyt kysymykset](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
+Katso muita yleisiä ratkaisuja [toimialueiden usein kysytyistä kysymyksistä](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 
