@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401181"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867935"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="ec681-102">Etsi ongelmia korjata muodostamalla pikahaku-Kuvasto</span><span class="sxs-lookup"><span data-stu-id="ec681-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="d505b-102">Etsi ongelmia</span><span class="sxs-lookup"><span data-stu-id="d505b-102">Troubleshoot search issues</span></span>
 
-1. <span data-ttu-id="ec681-103">Sulje Outlook ja Avaa **Ohjauspaneeli**.</span><span class="sxs-lookup"><span data-stu-id="ec681-103">Close Outlook and open **Control Panel**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="ec681-104">Tarvitset käyttämäsi Office-version, napsauta **Käynnistä** -painiketta ja napsauta **Käynnistä** -valikosta **Ohjauspaneeli**.</span><span class="sxs-lookup"><span data-stu-id="ec681-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
-  
-2. <span data-ttu-id="ec681-105">Toimi seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="ec681-105">Do one of the following:</span></span>
-    
-  - <span data-ttu-id="ec681-106">Valitse **Indeksointipalvelun asetukset**.</span><span class="sxs-lookup"><span data-stu-id="ec681-106">Choose **Indexing Options**.</span></span>
-    
-  - <span data-ttu-id="ec681-107">Kirjoita **Etsi** -ruutuun *indeksointi* ja valitse sitten **Indeksointiasetukset**.</span><span class="sxs-lookup"><span data-stu-id="ec681-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
-    
-3. <span data-ttu-id="ec681-108">**Indeksoidut sijainnit** -valintaikkunassa **Muuta valittuja sijainteja**, valitse muokattava sijainti-valintaruutu ja valitse sitten **OK**.</span><span class="sxs-lookup"><span data-stu-id="ec681-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
-    
-4. <span data-ttu-id="ec681-109">**Lisäasetukset** -valintaikkunan **Indeksin asetukset** -välilehdestä **vianmääritys**Valitse **Muodosta uudelleen**.</span><span class="sxs-lookup"><span data-stu-id="ec681-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="ec681-110">**Indeksin muodostaminen uudelleen** valintaikkunan näkyviin tulee varoitus, joka ”indeksi saattaa kestää kauan loppuun”.</span><span class="sxs-lookup"><span data-stu-id="ec681-110">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete."</span></span> <span data-ttu-id="ec681-111">Valitse **OK** aloittaaksesi indeksi muodostetaan uudelleen.</span><span class="sxs-lookup"><span data-stu-id="ec681-111">Choose **OK** to start rebuilding the index.</span></span> 
-  
-<span data-ttu-id="ec681-112">Saat lisätietoja tunnetusta ongelmasta [ei POP/IMAP-tilien tulokset](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="ec681-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
-  
+<span data-ttu-id="d505b-103">Jos sinulla on ongelmia haku, katso linkit alla ohjeen vianmääritys.</span><span class="sxs-lookup"><span data-stu-id="d505b-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
 
+<span data-ttu-id="d505b-104">Nämä ovat yleisimmät ongelmat ja on hyvä paikka aloittaa:</span><span class="sxs-lookup"><span data-stu-id="d505b-104">These are the most common issues, and are a good place to start:</span></span>
+- [<span data-ttu-id="d505b-105">Outlook-haku ei palauta mitään tuloksia</span><span class="sxs-lookup"><span data-stu-id="d505b-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="d505b-106">Outlook haku palauttaa tulokset puutteellisia</span><span class="sxs-lookup"><span data-stu-id="d505b-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="d505b-107">Outlook-haku ei löydä vanhat sähköpostit</span><span class="sxs-lookup"><span data-stu-id="d505b-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+<span data-ttu-id="d505b-108">Täältä löytyvät vähemmän yleisiä ongelmia, jotka liittyvät mahdolliset ratkaisut:</span><span class="sxs-lookup"><span data-stu-id="d505b-108">Possible solutions for less common problems can be found here:</span></span>
+- [<span data-ttu-id="d505b-109">Vain Outlook-2016: Etsi-välilehti ole käytettävissä</span><span class="sxs-lookup"><span data-stu-id="d505b-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="d505b-110">Jaetun postilaatikon: Hakutulokset ongelmia</span><span class="sxs-lookup"><span data-stu-id="d505b-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="d505b-111">Virhe: Suorituskyky liiketoiminnot, miten Outlook määritetään ongelman takia</span><span class="sxs-lookup"><span data-stu-id="d505b-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="d505b-112">Hakukansiot Näytä odottamaton PersonMetadata kohteet, joiden aihe ei ole</span><span class="sxs-lookup"><span data-stu-id="d505b-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
