@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401181"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867935"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Etsi ongelmia korjata muodostamalla pikahaku-Kuvasto
+# <a name="troubleshoot-search-issues"></a>Etsi ongelmia
 
-1. Sulje Outlook ja Avaa **Ohjauspaneeli**.
-    
-    > [!NOTE]
-    > Tarvitset käyttämäsi Office-version, napsauta **Käynnistä** -painiketta ja napsauta **Käynnistä** -valikosta **Ohjauspaneeli**. 
-  
-2. Toimi seuraavasti:
-    
-  - Valitse **Indeksointipalvelun asetukset**.
-    
-  - Kirjoita **Etsi** -ruutuun *indeksointi* ja valitse sitten **Indeksointiasetukset**.
-    
-3. **Indeksoidut sijainnit** -valintaikkunassa **Muuta valittuja sijainteja**, valitse muokattava sijainti-valintaruutu ja valitse sitten **OK**.
-    
-4. **Lisäasetukset** -valintaikkunan **Indeksin asetukset** -välilehdestä **vianmääritys**Valitse **Muodosta uudelleen**.
-    
-    > [!NOTE]
-    > **Indeksin muodostaminen uudelleen** valintaikkunan näkyviin tulee varoitus, joka ”indeksi saattaa kestää kauan loppuun”. Valitse **OK** aloittaaksesi indeksi muodostetaan uudelleen. 
-  
-Saat lisätietoja tunnetusta ongelmasta [ei POP/IMAP-tilien tulokset](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Jos sinulla on ongelmia haku, katso linkit alla ohjeen vianmääritys.
 
+Nämä ovat yleisimmät ongelmat ja on hyvä paikka aloittaa:
+- [Outlook-haku ei palauta mitään tuloksia](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook haku palauttaa tulokset puutteellisia](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook-haku ei löydä vanhat sähköpostit](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Täältä löytyvät vähemmän yleisiä ongelmia, jotka liittyvät mahdolliset ratkaisut:
+- [Vain Outlook-2016: Etsi-välilehti ole käytettävissä](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Jaetun postilaatikon: Hakutulokset ongelmia](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Virhe: Suorituskyky liiketoiminnot, miten Outlook määritetään ongelman takia](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Hakukansiot Näytä odottamaton PersonMetadata kohteet, joiden aihe ei ole](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
