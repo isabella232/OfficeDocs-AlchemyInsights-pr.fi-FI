@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422172"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761756"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Rajoittaa perinteistä SharePoint Online
 
-Joissakin organisaatioissa on vielä Classic-tilassa kokemus. Kun ei aiota poistaa porrastetusti perinteistä, alkaen huhtikuun 1,2019, se ei ole enää mahdollista rajoittaa koko organisaation (vuokraaja) luetteloiden ja kirjastojen perinteistä.
+Joissakin organisaatioissa on vielä Classic-tilassa kokemus. Kun ei aiota poistaa porrastetusti perinteistä, ei enää voi rajoittaa koko organisaation (vuokraaja) luetteloiden ja kirjastojen perinteistä.
 
 Admin on hallita yksittäisten luetteloiden ja kirjastojen avulla rakeinen Yllättävät valitsimia, joita annamme seuraavilla tasoilla classic-tilassa seuraavista vaihtoehdoista:
 
@@ -28,6 +28,6 @@ Admin on hallita yksittäisten luetteloiden ja kirjastojen avulla rakeinen Yllä
 
 Lisäksi luetteloita, jotka käyttävät tiettyjä ominaisuuksia ja mukautukset, joita ei tueta Moderni edelleen olla automaattisesti siirtynyt perinteistä.
 
-Huhtikuun 1 luetteloita ja kirjastoja, jotka ovat perinteistä johdosta vuokralaisen ei sisälly automaattisesti hallinnoidaan taso ja sivustotasolla.
+1. huhtikuuta 2019, käytöstä vuokralaisen tason prosessi alkaa Moderni luettelon säännöksen ja kirjastojen käynnistää ja jatkaa – 31. toukokuuta 2019.  Luetteloita ja kirjastoja, jotka ovat perinteistä johdosta vuokralaisen ei sisälly automaattisesti siirtää, Moderni.
 
-Jos tarvitset perinteistä Katso lisätietoja tähän ja PnP Powershell ohjeet tähän, joka kuvataan asetukset ja työkaluja avulla voit nyt valmistautua poistaminen palveltava taso ei sisälly huhtikuun 1.
+Jos tarvitset perinteistä Katso lisätietoja [tähän](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) ja PnP Powershell-Ohje [tähän](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , jotka kuvaavat vaihtoehdot ja työkalujen avulla voit nyt käyttää perinteistä kokemus.
