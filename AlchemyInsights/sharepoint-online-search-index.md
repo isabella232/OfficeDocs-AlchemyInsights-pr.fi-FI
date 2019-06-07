@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c2960093bb1cfb649c26528c9f671e6d720ff237
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736050"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758763"
 ---
 # <a name="search-in-sharepoint-online"></a>SharePoint Search Online
 
 Sisältö on indeksoitu ja lisätä käyttäjät löytävät mitä he etsiä SharePoint Online-hakuindeksi. Sisältöä selataan automaattisesti (selaamisen aikataulua ei voi muuttaa) indeksoinnin ennalta määritetyn aikataulun mukaan. Verkkohakuri luurin ja sisältöä, joka on muuttunut edellisen selaamisen jälkeen ja päivittää indeksin. Jotta sisältöä selataan ja indeksi päivittyy, noudata alla olevia ohjeita.
 
-Varmista, että sisältö löytyy tekemällä sivuston sisältöä etsittävän. Lisätietoja Katso [voi etsiä tietoja sivuston sisällön käyttöön](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable).
+Varmista, että sisältö löytyy tekemällä sivuston sisältöä etsittävän. Lisätietoja Katso [voi etsiä tietoja sivuston sisällön käyttöön](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
 Hallitun ominaisuuden ovat muuttuneet tai ovat muuttuneet yhdistäminen, selata ja hallita ominaisuudet sivuston on selattu uudelleen, ennen kuin muutokset näkyvät etsinnän indeksin. 
 
 Muutokset tehdään haun rakenteeksi, ja ei ole todellinen sivuston, koska verkkohakuri ei automaattisesti uudelleen indeksoi sivuston. 
 
-Saat lisätietoja, [Pyydä Läpikäymiselle ja indeksoinnille sivuston kirjasto tai luettelo uudelleen manuaalisesti](https://docs.microsoft.com/en-us/sharepoint/crawl-site-conten).
+Saat lisätietoja, [Pyydä Läpikäymiselle ja indeksoinnille sivuston kirjasto tai luettelo uudelleen manuaalisesti](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
  Odota vähintään 24 tunnin hidas indeksoinnin ja koko indeksoi Nähdäksesi Jos jatkuvat edelleen ongelma. 
 
