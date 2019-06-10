@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412477"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769892"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Vaihda postilaatikon kokoa suunnittelee
 
@@ -34,4 +34,4 @@ Jos postilaatikon koko on 50 Gigatavua, voit kasvattaa sitä 100 gt: N Siirtymin
     
 Lisätietoja Katso [Siirtyminen Office 365: ssä eri suunnitelma](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Jos sinulla [O365 suunnitelma, joka tukee kiinteän arkisto](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), saat myös lisää sähköpostin varastoinnin ottamalla arkisto-postilaatikkoon.  Arkisto-postilaatikon tarjoaa Lisää tallennustilaa ja voit siirtää, kopioida ja Etsi sanomia on ensisijainen ja Arkistoi postilaatikko. Lisätietoja käyttöönotosta arkisto-postilaatikkoon on [arkisto-postilaatikon ottaminen käyttöön](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Jos sinulla [O365 suunnitelma, joka tukee kiinteän arkisto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), saat myös lisää sähköpostin varastoinnin ottamalla arkisto-postilaatikkoon.  Arkisto-postilaatikon tarjoaa Lisää tallennustilaa ja voit siirtää, kopioida ja Etsi sanomia on ensisijainen ja Arkistoi postilaatikko. Lisätietoja käyttöönotosta arkisto-postilaatikkoon on [arkisto-postilaatikon ottaminen käyttöön](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

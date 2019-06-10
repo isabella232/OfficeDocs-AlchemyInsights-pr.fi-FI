@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408716"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769540"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Käytä herkkyys otsikot
 
@@ -25,7 +25,7 @@ Herkkyys otsikoiden käyttöä automaattisesti poistaa opettaa käyttäjille mit
 Tarrat automaattisesti käyttöön seuraavat vaaditaan:
 
 - Tietoja suojauksen P2 Azure tilaus
-- [Ladata ja asentaa tietojen suojaaminen Azure energiatehokkuusmerkintöjä Clientin yhtenäinen](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Ladata ja asentaa tietojen suojaaminen Azure energiatehokkuusmerkintöjä Clientin yhtenäinen](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Olemme olet käsittelemässä alkuperäinen tuki, joka ei edellytä Azure tietojen suojaaminen energiatehokkuusmerkintöjä asiakas yhtenäinen tulevaisuudessa.
 
@@ -33,5 +33,5 @@ Tällä hetkellä vain Windows tukee yhtenäistä energiatehokkuusmerkintöjä a
 
 Saat lisätietoja herkkyys ja käyttämällä niitä automaattisesti sisältöä:
 
-- [Yleiskatsaus herkkyys otsikot](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Käytä herkkyys otsikon sisältö automaattisesti](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Yleiskatsaus herkkyys otsikot](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Käytä herkkyys otsikon sisältö automaattisesti](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

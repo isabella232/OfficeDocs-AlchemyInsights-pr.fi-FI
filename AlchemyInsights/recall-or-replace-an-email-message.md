@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096486"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770806"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Peruuttaa tai korvata sähköpostiviestin
 
@@ -36,7 +36,7 @@ Lisätietoja mukaan lukien peruutuksen tarkistaminen on ohjeaiheessa [peruuttami
 
 ***Etsi ja poista viestejä organisaation*** Voit hakea ja poistaa viestejä organisaation, se on helpoin Jos olet yleinen admin. Jos et ole yleinen järjestelmänvalvoja, tili on lisättävä eDiscovery hallinta-rooliryhmän tai yhteensopivuuden haun hallinnan roolin. Jos haluat poistaa viestejä, tarvitset liittyä organisaation hallinta-rooliryhmän tai etsintä- ja poisto-hallinnan roolin. Näiden roolien oikeudet määritetään [Tietoturvakeskuksen & noudattamista](https://protection.office.com/).
 
-1. Voit etsiä poistettavan viestin [luominen on etsiä](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) .
-2. [Suojauksen & Compliance Centeriin PowerShell muodostaa](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. Voit etsiä poistettavan viestin [luominen on etsiä](https://docs.microsoft.com/office365/securitycompliance/content-search) .
+2. [Suojauksen & Compliance Centeriin PowerShell muodostaa](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Jos käytät MFA-kohdassa [Muodosta yhteys Office 365: n suojauksen & Compliance Centerin PowerShell monitasoisen todennuksen avulla](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Jos käytät MFA-kohdassa [Muodosta yhteys Office 365: n suojauksen & Compliance Centerin PowerShell monitasoisen todennuksen avulla](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

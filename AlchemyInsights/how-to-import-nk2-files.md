@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630013"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770244"
 ---
 # <a name="how-to-import-nk2-files"></a>Miten .nk2-tiedostot tuodaan 
 
@@ -37,4 +37,4 @@ Kun olet tuonut .nk2-tiedoston, tiedoston sisältö yhdistetään aiemmin tallen
 
 **Huomautus**: .nk2-tiedosto nimetään uudelleen käyttäen .old-tiedostotunnistetta kun seuraavan kerran käynnistät Outlook 2013 tai Outlook 2016, Outlook-2019 Outlook Office 365. Jos haluat tuoda .nk2-tiedoston uudelleen, poista ensin .old-tiedostotunnistetta.
 
-Lisätietoja [tuonti- tai kopioida automaattisen täydennyksen luettelon toiseen tietokoneeseen](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Lisätietoja [tuonti- tai kopioida automaattisen täydennyksen luettelon toiseen tietokoneeseen](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
