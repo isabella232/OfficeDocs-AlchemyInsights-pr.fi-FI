@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643372"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273594"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="13b74-102">Miten Kirjaudu ulos Outlook web-sivulla</span><span class="sxs-lookup"><span data-stu-id="13b74-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="25a05-102">Miten Kirjaudu ulos Outlook web-sivulla</span><span class="sxs-lookup"><span data-stu-id="25a05-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="13b74-103">Valitse nimi tai kuvan oikeaan yläkulmaan.</span><span class="sxs-lookup"><span data-stu-id="13b74-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="13b74-104">Jos et näe kuvaa näytön yläreunaan, tarkista Jos mainosten esto on käytössä.</span><span class="sxs-lookup"><span data-stu-id="13b74-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="13b74-105">Joskus tämä estää kuvan näyttäminen.</span><span class="sxs-lookup"><span data-stu-id="13b74-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="13b74-106">Valitse **Kirjaudu ulos**.</span><span class="sxs-lookup"><span data-stu-id="13b74-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="13b74-107">Lopettaa työsi automaattisesti sisään tai tilin Koulu-valintaruudun valinta, **Pysy kirjautuneena ‑valintaruudut** sivulla, johon kirjoitat salasanan.</span><span class="sxs-lookup"><span data-stu-id="13b74-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="13b74-108">Lisätietoja Katso [Outlook web-sivulla tai voit kirjautua sisään](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="13b74-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="25a05-103">Kirjautua ulos Outlook web-nimen tai kuvan oikeassa yläkulmassa ja valitse **Kirjaudu ulos**.</span><span class="sxs-lookup"><span data-stu-id="25a05-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="25a05-104">Voit lopettaa automaattisesti kirjautua tilillesi työ tai oppilaitos:</span><span class="sxs-lookup"><span data-stu-id="25a05-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="25a05-105">Valitse nimi tai kuva ja valitse **Kirjaudu ulos**.</span><span class="sxs-lookup"><span data-stu-id="25a05-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="25a05-106">Siirry [Outlook.office.com](https://outlook.office.com/) ja valitse **Käytä toista tiliä**.</span><span class="sxs-lookup"><span data-stu-id="25a05-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="25a05-107">Kirjaudu sisään sähköpostiosoite, jota haluat käyttää.</span><span class="sxs-lookup"><span data-stu-id="25a05-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="25a05-108">Lisätietoja Katso [Outlook web-sivulla tai voit kirjautua sisään](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="25a05-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
