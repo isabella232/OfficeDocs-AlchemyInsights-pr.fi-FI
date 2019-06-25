@@ -1,35 +1,33 @@
 ---
-title: 8000035 miten vanhan uuden Outlook.com näköiseksi
+title: Miten tehdään vanhan uuden Outlook.com näköiseksi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409399"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117610"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Miten vanha versio uusi Outlook.com näköiseksi
 
-Seuraavassa on joitakin asetuksia ja tehdä uusi Outlook.com näköiseksi vanhan version voit muuttaa näkymiä.
+Tehdä uuden Outlook.com näköiseksi vanhan version voit muuttaa joitakin asetuksia ovat seuraavat:
 
-1. Valitse vaihde kuvaketta Avaa asetukset sivun yläosassa.
-2. Valitse haluamasi **Teema**.
-3. Muuta **keskustelu Näytä** **uusimmat viestit ylimpänä**.
-4. **Piilota** **Lukuruutu** muuta.
-5. Siirry **Saapuneet Focused** **käytöstä**.
-6. Vaihda **kuvan lähettäjä** **käytöstä**. 
-7. Siirry **päivämäärään mennessä Ryhmitä viestit** **käytöstä**. 
-8. Siirry **liitetiedostojen esikatselu** **käytöstä**. 
-9. Siirry **viestin teksti** **käytössä**.
+1. Siirry [Asettelu-asetuksia](https://outlook.live.com/mail/options/mail/layout).
+1. Valitse **Focused Saapuneet-kansion** **viestit ei lajitella**.
+1. Valitse **viesti organisaation** **uusimmat viestit ylimpänä**.
+1. Valitse **kuvan lähettäjä** **Lähettäjä kuvat eivät näy**.
+1. Valitse **lukuruudun** **Piilota lukuruutu**.
+1. Valitse **Näytä teksti** **viestin teksti**.
+1. Valitse **sisäinen Esikatselukuvat** **eivät näy viestiluettelossa liitteet**.
 
-Huomautus: Nämä ovat vain joitakin suositeltuja asetuksia, jotka ovat lähinnä mahdollisen asettelun Outlook.com perinteistä versiota. Se kuitenkin riippuu asetukset haluamiksesi.
-
-Mail-asetusten muuttaminen siten, että Saapuneet-kansiosi näyttää ja toimii, miten se voi nähdä [uuden sähköpostin käyttökokemusta Outlook.com-Mukauta](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Mail-asetusten muuttaminen siten, että Saapuneet-kansiosi näyttää ja toimii kuin haluat sen, katso [postilaatikkoon Outlook.com ja uuden Outlook web-ulkoasun muuttaminen](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
