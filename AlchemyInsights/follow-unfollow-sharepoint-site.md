@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119756"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222737"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Seuranta- tai YK-seuraa SharePoint-sivustoon
 
@@ -23,4 +23,4 @@ Katso video seurata [SharePoint-sivuston](https://support.office.com/en-us/artic
 
 Jos ei noudata tai YK-seuraa sivuston ja tulokset eivät ole odotetusta tuntuu, katso Jos ongelma liittyy yksittäisen käyttäjän tai kaikkien käyttäjien organisaation sisällä. Jos kaikki käyttäjät ongelma voi olla palvelun tilapäinen ongelma. 
 
-Tarkista [Palvelun terveyden Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)Nähdäksesi Jos organisaatiosi iskuja.
+Tarkista [Palvelun terveyden Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Nähdäksesi Jos organisaatiosi iskuja.
