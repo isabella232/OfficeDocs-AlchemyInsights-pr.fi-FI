@@ -2,23 +2,26 @@
 title: Outlook.com turvallista linkit
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 4/30/2019
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000057
+ms.custom:
+- "961"
+- "962"
+- "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: 7425603800bd9c2245e1c7c6752de0949adbc3d7
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.openlocfilehash: d675959e178ae3716fc27be4751cc8d41a3c3b08
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510141"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372438"
 ---
-# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a><span data-ttu-id="54a88-102">Suojauksen lisäasetukset Outlook.com Office 365-tilaajille</span><span class="sxs-lookup"><span data-stu-id="54a88-102">Advanced Outlook.com security for Office 365 subscribers</span></span>
+# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a><span data-ttu-id="0f512-102">Suojauksen lisäasetukset Outlook.com Office 365-tilaajille</span><span class="sxs-lookup"><span data-stu-id="0f512-102">Advanced Outlook.com security for Office 365 subscribers</span></span>
 
-<span data-ttu-id="54a88-103">Kaikki Outlook.com käyttäjät hyötyvät roskapostin ja haittaohjelmistojen suodatus.</span><span class="sxs-lookup"><span data-stu-id="54a88-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="54a88-104">Home Office 365: n ja Office 365: n omat tilaajien Outlook.com suorittaa viestien ylimääräinen seulonta, liitteitä ja linkkejä.</span><span class="sxs-lookup"><span data-stu-id="54a88-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of the attachments and links in messages you receive.</span></span> <span data-ttu-id="54a88-105">Lue lisää [Advanced Outlook.com security Office 365-tilaajille](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).</span><span class="sxs-lookup"><span data-stu-id="54a88-105">Read more about [Advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).</span></span>
+<span data-ttu-id="0f512-103">Kaikki Outlook.com käyttäjät hyötyvät roskapostin ja haittaohjelmistojen suodatus.</span><span class="sxs-lookup"><span data-stu-id="0f512-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="0f512-104">Home Office 365: n ja Office 365: n omat tilaajien Outlook.com suorittaa viestien ylimääräinen seulonta, liitteitä ja linkkejä.</span><span class="sxs-lookup"><span data-stu-id="0f512-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="0f512-105">Jos haluat lisätietoja, lue [Advanced Outlook.com security Office 365-tilaajille](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).</span><span class="sxs-lookup"><span data-stu-id="0f512-105">To learn more, read [Advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).</span></span>
 
-<span data-ttu-id="54a88-106">Voit ottaa käyttöön tai poistaa käytöstä turvallisesti linkkejä, siirry [Premium-suojausasetukset](https://outlook.live.com/mail/options/premium/security).</span><span class="sxs-lookup"><span data-stu-id="54a88-106">To turn on or turn off Safe Links, go to your [Premium Security Settings](https://outlook.live.com/mail/options/premium/security).</span></span>
+<span data-ttu-id="0f512-106">Voit ottaa käyttöön tai poistaa käytöstä turvallisesti linkit, siirry [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (**asetukset** > **Premium** > **Security**).</span><span class="sxs-lookup"><span data-stu-id="0f512-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (**Settings** > **Premium** > **Security**).</span></span>

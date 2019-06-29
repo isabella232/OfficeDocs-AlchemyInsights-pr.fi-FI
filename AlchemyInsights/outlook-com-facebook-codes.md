@@ -9,19 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000338
-ms.openlocfilehash: d68a58d142aa4398d8d797741e7f1594a06dc9ce
-ms.sourcegitcommit: 1f3c9a60b041cc26c09fbc6485b92a8e44f500d6
+ms.custom:
+- "1967"
+- "9000338"
+ms.openlocfilehash: 9d0d863bdf30986e6ac86fbd786ec881a2e0e18a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33527398"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375102"
 ---
-# <a name="not-receiving-facebook-codes"></a><span data-ttu-id="34ab6-102">Facebook koodit ei vastaanota</span><span class="sxs-lookup"><span data-stu-id="34ab6-102">Not receiving Facebook codes</span></span>
+# <a name="not-receiving-facebook-codes"></a><span data-ttu-id="93ac5-102">Facebook koodit ei vastaanota</span><span class="sxs-lookup"><span data-stu-id="93ac5-102">Not receiving Facebook codes</span></span>
 
-<span data-ttu-id="34ab6-103">Jos olet pyytänyt uuden salasanan Facebook mutta saanut salasanan vaihdetun:</span><span class="sxs-lookup"><span data-stu-id="34ab6-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
+<span data-ttu-id="93ac5-103">Jos olet pyytänyt uuden salasanan Facebook mutta saanut salasanan vaihdetun:</span><span class="sxs-lookup"><span data-stu-id="93ac5-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
 
-- <span data-ttu-id="34ab6-104">Tarkista [Roskaposti tai Roskaposti-kansioon](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="34ab6-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
-- <span data-ttu-id="34ab6-105">Yritä [palauttaa Facebook salasana uudelleen](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span><span class="sxs-lookup"><span data-stu-id="34ab6-105">Try to [reset your Facebook password again](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span></span>
+- <span data-ttu-id="93ac5-104">Tarkista [Roskaposti tai Roskaposti-kansioon](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="93ac5-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
+- <span data-ttu-id="93ac5-105">Yritä [palauttaa Facebook salasana uudelleen](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span><span class="sxs-lookup"><span data-stu-id="93ac5-105">Try to [reset your Facebook password again](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span></span>
 
-<span data-ttu-id="34ab6-106">Jos salasanasi ei voi palauttaa, koska ei voi käyttää-tilisi sähköpostiosoite tai matkapuhelinnumero, kokeile [Facebook's salasanan palauttaminen vihjeitä](https://www.facebook.com/help/218815984812734).</span><span class="sxs-lookup"><span data-stu-id="34ab6-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://www.facebook.com/help/218815984812734).</span></span>
+<span data-ttu-id="93ac5-106">Jos salasanasi ei voi palauttaa, koska ei voi käyttää-tilisi sähköpostiosoite tai matkapuhelinnumero, kokeile [Facebook's salasanan palauttaminen vihjeitä](https://www.facebook.com/help/218815984812734).</span><span class="sxs-lookup"><span data-stu-id="93ac5-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://www.facebook.com/help/218815984812734).</span></span>
