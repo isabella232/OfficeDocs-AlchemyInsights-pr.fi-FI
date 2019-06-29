@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419012"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375246"
 ---
-# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="3fb20-102">Virhe 550 tai 553 Outlook.com-</span><span class="sxs-lookup"><span data-stu-id="3fb20-102">Error 550/553 in Outlook.com</span></span>
+# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="b446f-102">Virhe 550 tai 553 Outlook.com-</span><span class="sxs-lookup"><span data-stu-id="b446f-102">Error 550/553 in Outlook.com</span></span>
 
-<span data-ttu-id="3fb20-103">Kun olet matkoilla ja Lähetä sähköposti käyttämällä Outlook.com yhteydessä tililtä, sähköpostiviesti saattaa palauttaa 550 tai 553 tai virhesanoma sanoma.</span><span class="sxs-lookup"><span data-stu-id="3fb20-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
-1. <span data-ttu-id="3fb20-104">Tarkasta osoitteesta oletus on sama kuin toimialuenimi sähköposti [sähköpostin synkronointiasetuksia](https://go.microsoft.com/fwlink/?linkid=2031283) .</span><span class="sxs-lookup"><span data-stu-id="3fb20-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) to ensure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="3fb20-105">Jos sinulla on oma sähköposti toimialueen mukaan, muuttaa osoitteeseen outlook.com/live.com/hotmail.com.</span><span class="sxs-lookup"><span data-stu-id="3fb20-105">If you have your own email domain included, change it to your outlook.com/live.com/hotmail.com address.</span></span>
-2. <span data-ttu-id="3fb20-106">Tarkista, että [yhdistetty tilin asetukset](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) Varmista todennus on käytössä.</span><span class="sxs-lookup"><span data-stu-id="3fb20-106">Check your [connected account settings](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) to ensure you have authentication enabled.</span></span>
+<span data-ttu-id="b446f-103">Kun olet matkoilla ja Lähetä sähköposti käyttämällä Outlook.com yhteydessä tililtä, sähköpostiviesti saattaa palauttaa 550 tai 553 tai virhesanoma sanoma.</span><span class="sxs-lookup"><span data-stu-id="b446f-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
+
+1. <span data-ttu-id="b446f-104">Tarkista [sähköpostin synkronointiasetuksia](https://go.microsoft.com/fwlink/?linkid=2031283) **asetuksia** > **Näytä kaikki Outlookin asetukset** > **Mail** > **sähköpostin synkronointi**.</span><span class="sxs-lookup"><span data-stu-id="b446f-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) at **Settings** > **View all Outlook settings** > **Mail** > **Sync email**.</span></span>
+1. <span data-ttu-id="b446f-105">Varmista, että oletus-osoite on sama kuin toimialueen sähköpostinimi.</span><span class="sxs-lookup"><span data-stu-id="b446f-105">Make sure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="b446f-106">Jos sinulla on oma sähköposti toimialueen mukaan, muuttaa outlook.com, osoite hotmail.com tai live.com.</span><span class="sxs-lookup"><span data-stu-id="b446f-106">If you have your own email domain included, change it to your outlook.com, live.com, or hotmail.com address.</span></span>
