@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770806"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356594"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Peruuttaa tai korvata sähköpostiviestin
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770806"
 - Jos tietokone on järjestelmänvalvojan, voit **peruuttaminen viestien PowerShell käyttämällä käyttäjien puolesta**. Ei voi peruuttaa viestien hallintakeskukseen. Vieritä alas ”Hae ja poista viestejä organisaation” lisätietoja.
 
 ***Peruuttaa tai korvata lähettämäsi sähköpostiviesti***
+
 1. Valitse kansioruudusta Outlook-ikkunan vasemmassa reunassa Lähetetyt-kansioon.
 2. Avaa viesti, jonka haluat peruuttaa. Avaa viesti kaksoisnapsauttamalla. Valitsemalla viesti niin se näkyy lukuruudussa ei salli viestin peruuttaminen.
 3. Valitse viesti-välilehdestä **Toiminnot** > **Peruuta viesti**.
 4. Valitse **poistaa viestin lukemattomat kopiot** tai **poistaa viestin lukemattomat kopiot ja korvata uudella viestillä**ja valitse sitten **OK**.
 5. Jos lähetät korvaavan viestin, viestin ja valitsemalla sitten **Lähetä**.
-6. Onnistuminen tai epäonnistuminen on viesti on riippuvainen vastaanottajan Outlook-asetuksista. 
+6. Onnistuminen tai epäonnistuminen on viesti on riippuvainen vastaanottajan Outlook-asetuksista.
 
 Lisätietoja mukaan lukien peruutuksen tarkistaminen on ohjeaiheessa [peruuttaminen tai korvaaminen, jotka olet lähettänyt sähköpostiviestin](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

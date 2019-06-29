@@ -6,21 +6,23 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000257
+ms.custom:
+- "1849"
+- "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 16d519802535ccf6e5d50e1111911f0a34392961
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418119"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376342"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Postilaatikkoon Outlook.com ulkoasun muuttaminen
 
 Voit muuttaa viestin luettelosta ja lukeminen Outlook.com-ruudussa.
 
-- Viesti-ikkunan asettelun muuttaminen pyydykset kuvaketta Avaa **asetukset**sivun yläosassa ja valitse vaihtoehto kohdasta **Lukuruudun**.
-- Voit ryhmittää viestit keskustelun mukaan, pyydykset kuvaketta Avaa **asetukset**sivun yläosassa ja valitse**keskustelu-näkymän**kohteessa.
-- Kohdistettu Saapuneet-kansion ottaminen käyttöön ja poistaminen käytöstä, pyydykset kuvaketta Avaa **asetukset**sivun yläosassa ja siirtää vieressä **Liittyvät Saapuneet-kansion** Ota käyttöön tai poista se käytöstä.
+- Viesti-ikkunan asettelun muuttamiseen [lukuruudun](https://outlook.live.com/mail/options/mail/layout/readingPane) asetusten avaaminen
 - Voit muuttaa miten sähköpostiviestit lajitellaan, viestiluettelon alkuun valitsemalla **Suodatin** > **Lajittele** ja valitse, kuinka haluat lajitella sähköpostiviestit.
+- Jos haluat ryhmitellä viestit keskustelun mukaan, Avaa [viesti](https://outlook.live.com/mail/options/mail/layout/conversations) organisaatioasetukset.
+- Kohdistettu Saapuneet-kansion ottaminen käyttöön ja poistaminen käytöstä, Avaa [Asettelu](https://outlook.live.com/mail/options/mail/layout/focused) -asetukset.

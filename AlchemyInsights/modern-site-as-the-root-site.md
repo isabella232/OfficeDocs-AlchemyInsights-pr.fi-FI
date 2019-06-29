@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057703"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379638"
 ---
 # <a name="modern-site-as-root-site"></a>Kuin pääsivusto nykyaikaisia sivusto
 
-[Target-Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) asiakkaat voivat nyt saada niiden SharePoint-vuokralaisen classic pääsivusto, nykyaikaisen viestinnän sivuston kokemus.
+Tällä hetkellä esikatselu saadun palautteen perusteella olemme päättäneet lykätä ominaisuus käyttöön Viestimissivusto ensisijaisesta kuin toteuttaa. Voimme anteeksi vaivaa ja kommunikoi Message Center kautta uusi aikataulu, kun se on käytettävissä.
 
-Tämä ominaisuus voidaan ottaa käyttöön suorittamalla yksinkertainen PowerShell-cmdlet-komennolla. PowerShell-command(s) onnistuneen toteuttamisen pääsivusto on uusi viestintä-sivuston kotisivun. Lisätietoja PowerShellin cmdlet-komennolla ja ominaisuus vaatimukset ovat käytettävissä artikkelin [Ota-SPOCommSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps). 
+Tällä hetkellä viestinnän sivustoja ei voi ottaa kuin pääsivusto.
 
-Olemme olla vähitellen liikkuvan, tämä off oletusarvoisesti aikaisin toukokuussa 2019, kohdistettu versio asiakkaille ja ulos koonnissa on käytettävissä maailmanlaajuisesti 2019 kesäkuun loppuun mennessä. Lisätietoja [Message Center](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) for muita uusia ominaisuuksia on Moderni edelleen. 
-
-**Tärkeää**: Älä poista perinteinen pääsivusto luoda Nykyaikainen Viestimissivusto. Microsoft ei tue. Ensisijaisen säilön poistaminen tekee kaikki SharePoint-sivustot organisaation kaikkien käyttäjien käytettävissä ennen kuin palauttaa sivuston tai luoda uuden sivuston samaan URL-osoitteeseen. 
- 
- 
+**Tärkeää**: Älä poista perinteinen pääsivusto luoda Nykyaikainen Viestimissivusto. Microsoft ei tue. Ensisijaisen säilön poistaminen tekee kaikki SharePoint-sivustot organisaation kaikkien käyttäjien käytettävissä ennen kuin palauttaa sivuston tai luoda uuden sivuston samaan URL-osoitteeseen.

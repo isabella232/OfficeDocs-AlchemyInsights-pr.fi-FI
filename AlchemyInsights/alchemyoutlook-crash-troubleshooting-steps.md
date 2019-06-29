@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883124"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357566"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlookin kaatua vianmäärityksen vaiheet
 
@@ -25,10 +27,9 @@ Jos sinulla on ongelmia Outlook työpöydän kaatua, Aloita noudattamalla 3 alla
   
 Vaihe 1: Tutkia mahdollisia ongelmia apuohjelmia.
   
-Vaihe 2: Korjaa Outlook ja suoritat [palauttamisen avustajan tuki ja työkalu Outlook käynnistysvirheitä](https://aka.ms/SaRA-OutlookWontStart) haavoittuvuuden sisältävään tietokoneeseen. 
+Vaihe 2: Korjaa Outlook ja suoritat [palauttamisen avustajan tuki ja työkalu Outlook käynnistysvirheitä](https://aka.ms/SaRA-OutlookWontStart) haavoittuvuuden sisältävään tietokoneeseen.
   
-Vaihe 3: Luo uusi Outlook-profiili tai suoritat [Outlookin profiili tool](https://aka.ms/SaRA-OutlookSetupProfile) haavoittuvuuden sisältävään tietokoneeseen. 
+Vaihe 3: Luo uusi Outlook-profiili tai suoritat [Outlookin profiili tool](https://aka.ms/SaRA-OutlookSetupProfile) haavoittuvuuden sisältävään tietokoneeseen.
   
 Jos yllä olevat vaiheet eivät toimi päivityksen asentamisen jälkeen on ilmennyt ongelma, joudut ehkä Palauta aiempi koontiversio. Katso [palauttaminen aiempaan Office 2013 tai 2016 napsauttamalla Office-asennuksesta](https://support.microsoft.com/help/2770432).
   
-
