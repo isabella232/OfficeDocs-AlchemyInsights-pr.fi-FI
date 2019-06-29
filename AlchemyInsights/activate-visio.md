@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883158"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358898"
 ---
 # <a name="activate-visio"></a>Vision aktivoiminen
 
@@ -27,8 +27,8 @@ Ennen kuin käyttäjä voi asentaa ja aktivoida työpöydän Visio työpöydän 
 
 Vision aktivoiminen:
 
-1. [Asenna Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) Jos ei ole jo asennettu.
-2. Kun asennus on valmis, Avaa Visio. Monissa tapauksissa sovelluksen aktivoituu automaattisesti ja voit aloittaa käytön heti Visio. Jos ohjelma pyytää kirjautumaan, muista kirjautua sisään saman työn tai koulun tili, joka oli osoitettu lisenssiä Visio. 
+1. Asenna Visio [Oma tili-portal](https://portal.office.com/account#installs) -Jos ei ole jo asennettu. Lisätietoja on [Asennettava Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Kun asennus on valmis, Avaa Visio-sovellus. Visio todennäköisesti aktivoivat automaattisesti ja voit aloittaa käytön heti. Jos näin ei ole, saattaa pyytää kirjautumaan sisään. Muista kirjautua sisään saman työn tai koulun tili, joka oli osoitettu lisenssiä Visio. Noudata ohjeita, jatka aktivointia. 
 
 Suorita aktivointi ongelmia [aktivoinnin vianmääritys](https://aka.ms/SARA-OfficeActivation-Alchemy) kohdanneessa tietokoneessa.
 
