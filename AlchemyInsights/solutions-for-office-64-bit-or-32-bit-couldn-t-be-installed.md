@@ -10,35 +10,34 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "905"
+- "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 7d72d902e933313082e725d3e467f77a7ec8ae5b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5e99c654b970dbbc3eaa81b0888ffe7b9bfac4cd
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391670"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368042"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="06f36-102">Ratkaisuja on ”Office (64-bittinen tai 32-bittinen) ei voi asentaa</span><span class="sxs-lookup"><span data-stu-id="06f36-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="e7997-102">Ratkaisuja on ”Office (64-bittinen tai 32-bittinen) ei voi asentaa</span><span class="sxs-lookup"><span data-stu-id="e7997-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
 
-
-
-<span data-ttu-id="06f36-103">”Office (64-bittinen tai 32-bittinen) ei asennettu”-virhe ilmenee, koska et voi sekoittaa Officen 64-bittinen ja 32-bittiset versiot.</span><span class="sxs-lookup"><span data-stu-id="06f36-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
+<span data-ttu-id="e7997-103">”Office (64-bittinen tai 32-bittinen) ei asennettu”-virhe ilmenee, koska et voi sekoittaa Officen 64-bittinen ja 32-bittiset versiot.</span><span class="sxs-lookup"><span data-stu-id="e7997-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
   
-<span data-ttu-id="06f36-104">Korjata virheen ja siirtyminen 32-bittinen ja 64-bittinen, tee seuraavat toimet tässä järjestyksessä.</span><span class="sxs-lookup"><span data-stu-id="06f36-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
+<span data-ttu-id="e7997-104">Korjata virheen ja siirtyminen 32-bittinen ja 64-bittinen, tee seuraavat toimet tässä järjestyksessä.</span><span class="sxs-lookup"><span data-stu-id="e7997-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
   
-1. <span data-ttu-id="06f36-105">Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="06f36-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
-    
-1. <span data-ttu-id="06f36-106">Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="06f36-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
-    
-2. <span data-ttu-id="06f36-107">Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.</span><span class="sxs-lookup"><span data-stu-id="06f36-107">Continue going through screens and restart your computer when prompted.</span></span>
-    
-    <span data-ttu-id="06f36-108">Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.</span><span class="sxs-lookup"><span data-stu-id="06f36-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
-    
-3. <span data-ttu-id="06f36-109">Noudata jäljellä kehotteita ja oikea 32-bittinen vai 64-bittinen versio ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="06f36-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span> 
-    
-    <span data-ttu-id="06f36-110">Noudata [Asenna Office PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="06f36-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
-    
-<span data-ttu-id="06f36-111">Lisätietoja Katso [”Office (64-bittinen tai 32-bittinen) ei voi asentaa” virhe, kun yritän asentaa](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="06f36-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
-  
+1. <span data-ttu-id="e7997-105">Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e7997-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
+1. <span data-ttu-id="e7997-106">Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="e7997-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+
+2. <span data-ttu-id="e7997-107">Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.</span><span class="sxs-lookup"><span data-stu-id="e7997-107">Continue going through screens and restart your computer when prompted.</span></span>
+
+    <span data-ttu-id="e7997-108">Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.</span><span class="sxs-lookup"><span data-stu-id="e7997-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+
+3. <span data-ttu-id="e7997-109">Noudata jäljellä kehotteita ja oikea 32-bittinen vai 64-bittinen versio ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="e7997-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span>
+
+    <span data-ttu-id="e7997-110">Noudata [Asenna Office PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e7997-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
+
+<span data-ttu-id="e7997-111">Lisätietoja Katso [”Office (64-bittinen tai 32-bittinen) ei voi asentaa” virhe, kun yritän asentaa](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e7997-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
+  
