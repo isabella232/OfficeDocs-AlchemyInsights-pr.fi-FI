@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419012"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375246"
 ---
 # <a name="error-550553-in-outlookcom"></a>Virhe 550 tai 553 Outlook.com-
 
 Kun olet matkoilla ja Lähetä sähköposti käyttämällä Outlook.com yhteydessä tililtä, sähköpostiviesti saattaa palauttaa 550 tai 553 tai virhesanoma sanoma.
-1. Tarkasta osoitteesta oletus on sama kuin toimialuenimi sähköposti [sähköpostin synkronointiasetuksia](https://go.microsoft.com/fwlink/?linkid=2031283) . Jos sinulla on oma sähköposti toimialueen mukaan, muuttaa osoitteeseen outlook.com/live.com/hotmail.com.
-2. Tarkista, että [yhdistetty tilin asetukset](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) Varmista todennus on käytössä.
+
+1. Tarkista [sähköpostin synkronointiasetuksia](https://go.microsoft.com/fwlink/?linkid=2031283) **asetuksia** > **Näytä kaikki Outlookin asetukset** > **Mail** > **sähköpostin synkronointi**.
+1. Varmista, että oletus-osoite on sama kuin toimialueen sähköpostinimi. Jos sinulla on oma sähköposti toimialueen mukaan, muuttaa outlook.com, osoite hotmail.com tai live.com.
