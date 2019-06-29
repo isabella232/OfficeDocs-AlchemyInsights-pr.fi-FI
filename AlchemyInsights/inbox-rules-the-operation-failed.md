@@ -9,20 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "1800021"
 - "1544"
-ms.openlocfilehash: 1a57499c77cd64ec93bf48703cc4d7c51d1ce77b
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+- "1800021"
+ms.openlocfilehash: 5ac1d37cf353a86bc729832efe55a8ce815b68bd
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770068"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382734"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a><span data-ttu-id="975ab-102">Säännöt ja ilmoitukset-virhe: ”toiminto epäonnistui”</span><span class="sxs-lookup"><span data-stu-id="975ab-102">Rules and Alerts error: "The Operation failed"</span></span>
+# <a name="rules-and-alerts-error-the-operation-failed"></a><span data-ttu-id="e71e9-102">Säännöt ja ilmoitukset-virhe: ”toiminto epäonnistui”</span><span class="sxs-lookup"><span data-stu-id="e71e9-102">Rules and Alerts error: "The Operation failed"</span></span>
 
-<span data-ttu-id="975ab-103">Seuraavien päivitysten asentamisen jälkeen, näyttöön saattaa tulla virhe Saapuneet-kansion säännöt:</span><span class="sxs-lookup"><span data-stu-id="975ab-103">You may see an Inbox rules error after installing the following updates:</span></span>
-- [<span data-ttu-id="975ab-104">Outlook-2016: Marraskuun tietoturvapäivitys kt</span><span class="sxs-lookup"><span data-stu-id="975ab-104">Outlook 2016: November Security Update KB</span></span>](https://support.microsoft.com/help/4461506)
-- [<span data-ttu-id="975ab-105">Outlook-2013: Marraskuun tietoturvapäivitys kt</span><span class="sxs-lookup"><span data-stu-id="975ab-105">Outlook 2013: November Security Update KB</span></span>](https://support.microsoft.com/help/4461486)
-- [<span data-ttu-id="975ab-106">Outlook 2010: Marraskuun tietoturvapäivitys kt</span><span class="sxs-lookup"><span data-stu-id="975ab-106">Outlook 2010: November Security Update KB</span></span>](https://support.microsoft.com/help/4461585) 
+<span data-ttu-id="e71e9-103">Seuraavien päivitysten asentamisen jälkeen, näyttöön saattaa tulla virhe Saapuneet-kansion säännöt:</span><span class="sxs-lookup"><span data-stu-id="e71e9-103">You may see an Inbox rules error after installing the following updates:</span></span>
 
-<span data-ttu-id="975ab-107">Näet, tämä tunnettu ongelma Outlook virhe [käy viimeisin tila: ”toiminto epäonnistui...” Hallitse sääntöjä & ilmoitukset valittaessa](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span><span class="sxs-lookup"><span data-stu-id="975ab-107">You can see the latest status of this known issue by visiting [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span></span>
+- [<span data-ttu-id="e71e9-104">Outlook-2016: Marraskuun tietoturvapäivitys kt</span><span class="sxs-lookup"><span data-stu-id="e71e9-104">Outlook 2016: November Security Update KB</span></span>](https://support.microsoft.com/help/4461506)
+- [<span data-ttu-id="e71e9-105">Outlook-2013: Marraskuun tietoturvapäivitys kt</span><span class="sxs-lookup"><span data-stu-id="e71e9-105">Outlook 2013: November Security Update KB</span></span>](https://support.microsoft.com/help/4461486)
+- [<span data-ttu-id="e71e9-106">Outlook 2010: Marraskuun tietoturvapäivitys kt</span><span class="sxs-lookup"><span data-stu-id="e71e9-106">Outlook 2010: November Security Update KB</span></span>](https://support.microsoft.com/help/4461585)
+
+<span data-ttu-id="e71e9-107">Näet, tämä tunnettu ongelma Outlook virhe [käy viimeisin tila: ”toiminto epäonnistui...” Hallitse sääntöjä & ilmoitukset valittaessa](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span><span class="sxs-lookup"><span data-stu-id="e71e9-107">You can see the latest status of this known issue by visiting [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span></span>
