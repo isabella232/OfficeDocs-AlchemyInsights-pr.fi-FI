@@ -9,19 +9,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1647"
+- "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770314"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389682"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP on ehkä mukautettu tyyppi
 
 Tietojen menetyksen estäminen (DLP) käytännön voit tunnistaa ja suojaa organisaatiosi luottamukselliset tiedot. Joissakin tilanteissa saatat joutua luoda omia **mukautettuja** luottamuksellisia tietoja organisaation tietojen suojaamiseksi.
 
-Esimerkiksi organisaation täytyy ehkä tunnistaa ja suojata työntekijätunnusten tai muita tietoja muodossa joitakin erityisiä että org. Jos näin on, katso lisätietoja seuraavista artikkeleista. 
+Esimerkiksi organisaation täytyy ehkä tunnistaa ja suojata työntekijätunnusten tai muita tietoja muodossa joitakin erityisiä että org. Jos näin on, katso lisätietoja seuraavista artikkeleista.
   
  **Mukauttaa valmiin luottamuksellisten tietojen tyyppi**
   
@@ -29,10 +32,8 @@ Jos sisäinen luottamuksellisten tietojen tyyppi tarpeittesi kanssa muutaman twe
   
  **Luo mukautettu luottamuksellisten tietojen tyyppi**
   
-Mutta jos täytyy tunnistaa ja suojaa arkaluonteisia tietoja erilaisella kokonaan, voit [luoda mukautetun luottamuksellisten tietojen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) suojaus & Compliance Centerin käyttöliittymässä. 
+Mutta jos täytyy tunnistaa ja suojaa arkaluonteisia tietoja erilaisella kokonaan, voit [luoda mukautetun luottamuksellisten tietojen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) suojaus & Compliance Centerin käyttöliittymässä.
   
 **Luoda mukautettuja luottamuksellisten tietojen suojaus & Compliance Centerin PowerShell-**
 
 Lopuksi, jos Käyttöliittymä ei tarjoa kaikki tarvittavat asetukset, voit [luoda mukautetun arkaluontoisten tietojen suojaus & Compliance Centerin PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Alkaen XML-tiedostoon, voit käyttää jokaisen asetuksen.
-
-    
