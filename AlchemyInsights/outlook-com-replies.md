@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392375"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372546"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com vastaaminen
 
 Jos haluat vastata yhden viestin kerrallaan:
 
-1. Valitse viestiluettelosta, viesti, jonka haluat välittää.
+1. Valitse viestiluettelosta, viesti, johon haluat vastata.
 2. Ylhäällä oikealla puolella viestin ruudussa Valitse nuoli **vastaa** tai **vastaa kaikille** -nuolia.
 3. Kirjoita viesti ja valitse **Lähetä**.
 
 Voit vastata kaikkiin viesteihin automaattisesti:
 
-1. Avaa [automaattisen vastauksen asetuksia](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. **Asetukset** > **Näytä kaikki Outlookin asetukset** > **Mail** > Avaa [automaattisen vastauksen asetuksia](https://outlook.live.com/mail/options/mail/automaticReplies)**Automaattiset vastaukset** .
 2. Valitse **Ota käyttöön automaattiset vastaukset** .
 3. **Lähetä vastauksia vain ajanjakson aikana** -valintaruudun avulla voit:
     - Lähetä vastauksia vain, kun valitset. Jos et määritä ajanjakso, automaattisen vastauksen säilyy kunnes poistat sen käytöstä.

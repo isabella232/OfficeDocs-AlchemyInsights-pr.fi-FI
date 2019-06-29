@@ -1,34 +1,29 @@
 ---
-title: Outlook.com roskapostia ja roskapostin
+title: Roskapostia ja roskapostin Outlook.com-arvon alentumista
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373529"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372006"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Roskapostia ja roskapostin Outlook.com-sähköposti
+# <a name="mark-email-messages-as-junk"></a>Sähköpostiviestien merkitseminen roskapostiksi
 
-Voit merkitä sähköpostiviestin roskapostia tai spam:
+Voit merkitä viestin Roskaposti-tai spam, valitse viesti viestiluettelosta ja valitse **roskapostin** > **roskapostia**.
 
-1. Valitse viesti tai viestit viestiluettelosta.
-1. Valitse viestiluettelosta edellä **roskapostin** > **roskapostia**.
+Jos haluat estää kaikki viestit tiettyyn sähköpostiosoitteeseen, valitse viesti tai viestit viestiluettelosta ja valitse sitten **Roskaposti** > **lohko**.
 
-**Huomautus:** Jos huomaat, että sähköpostiviestin ei ole roskapostia, valitse viesti uudelleen (se on roskapostisuodatin Roskaposti-kansiossa) ja valitse **roskapostiksi** > **roskapostiksi**. Sähköposti roskaposti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.  [Lisätietoja siitä, kuinka voit säilyttää roskapostia ja roskapostin Saapuneet Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Jos merkitset viestin roskapostiksi vahingossa, valitse [roskapostisuodatin Roskaposti-kansiossa](https://outlook.live.com/mail/junkemail) viesti ja valitse **roskapostiksi** > **roskapostiksi**. (*Huomautus:* sähköposti roskaposti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.)
 
-Jos haluat estää kaikki viestit erityisiä sähköpostiosoitteet tai toimialueet:
-
-1. Valitse viesti tai viestit viestiluettelosta ja valitse sitten **Roskaposti** > **lohkon** > **OK**. (Sähköpostin on avattu uuteen ikkunaan, jos **lohko** -komento näkyy ikkunan yläosassa.)
-1. Avaa [Roskaposti sähköpostiasetukset](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)ja valitse **Lisää**, kirjoita sähköpostiosoite tai toimialue, jonka haluat torjua > **Tallenna**.
-1. [Roskapostin sähköposti suodattimet](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption)voit valita Luota vain sähköposti-osoitteet turvallisten lähettäjien ja toimialueiden luetteloon ja Turvalliset postituslistat.
-
-[Lue lisää siitä, miten voit estää tai sallia lähettäjät Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Jos haluat lisätietoja, lue [Merkitse sähköpostin roskapostin tai lohkon Kirjoita Outlook.com lähettäjiksi](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

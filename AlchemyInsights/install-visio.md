@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914104"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381870"
 ---
 # <a name="install-visio"></a>Asenna Visio
 
 Visio myydään erillisenä sovelluksena joten jos sinulla ei ole sitä vielä, [ostaa tai kokeile Visiota](https://products.office.com/visio). 
 
-Jos Visio Online suunnitella 2 tilauksen, käyttäjät eivät näe vaihtoehto asentaa Visio **asentaa oman** [tilin oma portaali](https://portal.office.com/account#installs) , ellei sinulla [osoitettu lisenssiä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Huomautus**: Visio Online suunnitelman 1 ei sisällä työpöydän versio Visio, joten ei asennus on mahdollinen.
 
-Katso tarkemmat ohjeet lataamalla ja asentamalla Visio [Asentaa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Jos Visio Online suunnitella 2 tilauksen, sinun tulee [määrittää käyttöoikeuden](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) käyttäjälle tai niitä ei ole vaihtoehto asentaa [Oma tili-portaalin](https://portal.office.com/account#installs) **omien asennusten** Visio. 
 
-Jos sinulla on kelvollinen tilauskäyttöoikeus/ja levy ongelmia asennuksen aikana käynnissä, yritä asentaa Vision avulla [tukea ja palautus avustaja](https://aka.ms/SaRA-VisioSetupScenario).
+Non-volyymikäyttöoikeussopimuksen versiot Visio Standard- tai Visio Professional liittyvät Microsoft-tilit ja ei voi hallita hallintakeskukseen. Jos haluat asentaa näitä versioita, käyttäjien on kirjauduttava, [account.microsoft.com](https://account.microsoft.com) liittyvät tämän Vision version Microsoft-tilillä.
+
+Lisätietoja on [Asennettava Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ja Vision version noudattamalla.
 
 Lisätietoja:<br>
 [Visio käyttöönotto-opas](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
