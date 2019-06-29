@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632077"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373662"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Sähköposti ja tallennustilan kiintiön Outlook.com-
 
@@ -24,4 +26,6 @@ Vähentää roskapostin Outlook.com on päivittäin sähköpostin lähettämisen
 
 **Varastoinnin rajoitukset**
 
-Jos Saapuneet-kansiosi on täynnä, et voi lähettää tai vastaanottaa viestejä, ja voit Lähetä sähköpostia lähettävät henkilöt saavat näyttöön virhesanoman, että Saapuneet-kansiosi on täynnä. Voit [nähdä, kuinka paljon tallennustilaa olet käyttänyt](https://go.microsoft.com/fwlink/?linkid=2052089)tai voit [opetella postilaatikon tilaa](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Jos Saapuneet-kansiosi on täynnä, et voi lähettää tai vastaanottaa viestejä, ja voit Lähetä sähköpostia lähettävät henkilöt saavat näyttöön virhesanoman, että Saapuneet-kansiosi on täynnä. Näet, kuinka paljon tallennustilaa on käytettävissä siirtymällä [ **asetukset** > **Näytä kaikki Outlookin asetukset** > **yleisen**> varastoinnin](https://outlook.live.com/mail/options/general/storage), voit myös [opetella postilaatikon tilaa](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Jos sinulla on Premium tili, voit tarkastella tallennustilaa siirtymällä [ **asetukset** > **Näytä kaikki Outlookin asetukset** > **Premium**> toimintojen](https://outlook.live.com/mail/options/premium/features).

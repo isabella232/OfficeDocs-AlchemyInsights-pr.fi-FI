@@ -1,26 +1,34 @@
 ---
-title: Outlook.com stop viestit Roskaposti-kansioon siirtyminen
+title: Stop viestit Outlook.com sähköposti Roskaposti-kansioon siirtyminen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373241"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371790"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Lopeta sähköposti Roskaposti-kansion viestien
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Stop viestit sähköposti Roskaposti-kansioon siirtyminen
 
-Jos huomaat, että roskapostisuodatin Roskaposti-kansioosi sähköpostiviestin ei roskapostia tai roskapostin:
+Jos huomaat, että roskapostisuodatin Roskaposti-kansioosi sähköpostiviestin ei ole roskapostia:
 
-1. Avaa [Sähköposti Roskaposti-kansio](https://outlook.live.com/mail/junkemail) ja valitse viesti. (Sähköposti roskaposti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.)
+1. Avaa [Sähköposti Roskaposti-kansioon](https://outlook.live.com/mail/junkemail).
+1. Valitse viesti. (*Huomautus:* sähköposti roskaposti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.)
 1. Valitse viestiluettelosta edellä **roskapostiksi** > **roskapostiksi**.
+
+Jos haluat estää kaikki viestit lähettäjän sähköposti Roskaposti-kansioon siirtyminen, Lisää lähettäjä turvallisten lähettäjien luetteloon:
+
 1. Avaa [Roskaposti sähköpostiasetukset](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Kirjoita sähköpostiosoite tai toimialue, jonka haluat lisätä **Turvalliset lähettäjät**-kohdasta ja valitse **Lisää**. Sähköposti osoitteet tai toimialueiden turvallisten lähettäjien luettelo ei saada siirretty sähköposti Roskaposti-kansioon.
+1. **Turvallisten lähettäjien ja toimialueiden**Valitse **Lisää**, kirjoita sähköpostiosoite tai toimialue, jonka haluat lisätä ja valitse **Tallenna**.
+
+Jos haluat lisätietoja, lue [Merkitse sähköpostin roskapostin tai lohkon Kirjoita Outlook.com lähettäjiksi](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
