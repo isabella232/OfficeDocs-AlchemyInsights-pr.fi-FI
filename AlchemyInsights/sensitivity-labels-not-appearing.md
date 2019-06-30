@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770771"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355730"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Herkkyys otsikot eivät näy
 
@@ -25,8 +28,7 @@ Jos määritit herkkyys tarrat, mutta ne eivät näy Office-sovellukset, tarkist
 - Herkkyys otsikko on [julkaistu](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) käyttäjät ja ryhmät, jotka haluat vahvistaa.
 
 - Varmista, että käyttäjä käyttää app, joka tukee herkkyys otsikot - Katso [asiakirjan otsikot herkkyys](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
- 
- 
+
 - Jos olet [otsikot Azure tietojen suojaaminen siirron](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), on otettava huomioon näkökohdat lueteltu [Tässä](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Tietojen menetyksen estäminen (DLP) tuki: tällä hetkellä vain säilytys otsikoita voi käyttää ehtona DLP käytäntöjä.  Herkkyys otsikot DLP käytännön tukea ei ole vielä käytettävissä, mutta olemme olet käsittelemässä.

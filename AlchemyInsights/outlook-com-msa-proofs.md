@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA-luonnosten
+title: Koevedokset Outlook.com MSA
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392336"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373878"
 ---
 # <a name="security-info-and-security-codes"></a>Suojaustiedot ja turvakoodista
 
-1. Kirjaudu sisään tiliisi Microsoft [tietoturvan perusteet](https://account.microsoft.com/security) sivu. 
-    
-2. Valitse **Päivitä tiedot**. 
-    
-3. Voit pyytää sinua kirjoittamaan suojauskoodi, jatka. Jos sinulla ei ole pääsyä vaihtoehtoinen sähköpostiosoite tai puhelinnumero, valita **minkä tahansa näistä ei ole** ja noudata ohjeita korvata oman suojaustiedot. 
-    
-4. Valitse **suojaustiedot Lisää** sitten ohjeiden mukaan uusi sähköpostiosoite tai puhelinnumero. 
-    
-5. Security code olemme lähettää uusi sähköposti tai puhelin numero. Anna kyseisen suojauskoodi ja valitse **Seuraava**. Uuteen suojaus-info tulee näkyviin luetteloon. 
-    
-6. Valitse **Poista** jollekin, jonka haluat poistaa. 
-    
-7. Jos haluat päivittää suojaustiedot, jonka voimme lähettää ilmoituksia, **muuttaa ilmoitusten asetuksia** valitsemalla ja poista valinta valintaruutu varten yhdessä enää halua vastaanottaa ilmoituksia, elleivät ne ole tärkeitä. 
-    
-Lue lisää [suojaustiedot ja turvakoodista](https://support.microsoft.com/help/12428/).
-  
+Voit lisätä tilin suojaustiedot:
 
+1. Kirjaudu sisään [tietoturvan perusteet](https://account.microsoft.com/security) Microsoft-tililläsi.
+1. Valitse **Suojaus-yhteystiedot**.
+1. Valitse **Lisää suojaustiedot** ja ohjeiden mukaan puhelin numero ja sähköposti osoite.
+1. Näyttöön tulee suojauskoodi, puhelin numero ja sähköposti osoite. Olet saanut **Lisää suojaustiedot** -ikkunassa suojauskoodi ja valitse **Seuraava**.
+
+Jos haluat poistaa puhelin numero ja sähköposti osoite, valitse sen vieressä **Poista** .
+
+Jos haluat muuttaa puhelinnumeron tai sähköpostiosoitteen saa suojausvaroituksen, valitse **Työpöytäilmoituksen asetukset**.
+
+Lue lisätietoja [Microsoft tilin tietoja- ja turvakoodista](https://support.microsoft.com/help/12428/).

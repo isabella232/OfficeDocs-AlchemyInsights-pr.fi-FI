@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762077"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370384"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Palautettavat kohteet-kansio on täynnä
 
@@ -31,7 +33,7 @@ Kun palautettavat kohteet-kansion enimmäiskoko, postilaatikko-toiminto vaikutta
 
 - Postilaatikot, joilla valvoa kirjaaminen on otettu käyttöön postilaatikon postilaatikko ei ole valvonnan tapahtumat voidaan tallentaa tarkastuksia palautettavat kohteet-kansion alikansioon.
 
-Postilaatikot, jotka eivät ole estetty, järjestelmänvalvojat voivat käyttää `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komento Exchange Online PowerShell poistaa kohteita palautettavat kohteet-kansiossa. Lisätietoja on seuraavissa artikkeleissa: 
+Postilaatikot, jotka eivät ole estetty, järjestelmänvalvojat voivat käyttää `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komento Exchange Online PowerShell poistaa kohteita palautettavat kohteet-kansiossa. Lisätietoja on seuraavissa artikkeleissa:
 
 - [Etsi ja poista viestejä](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
