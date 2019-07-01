@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "428"
+- "1500016"
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 471958c764ddeb4e4600005b6d9e6772423e29ac
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390223"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366134"
 ---
 # <a name="update-payment-details"></a>Maksutietojen päivittäminen
 
 1. Siirry hallintakeskuksessa [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle tai valitse **Laskutus** \> **Maksutavat**.
-    
+
     > [!NOTE]
-    > Jos päädyt toistuvasti takaisin hallintakeskuksen aloitussivulle ennen päivitysten valmistumista, kokeile InPrivate- tai Incognito-selausta. 
+    > Jos päädyt toistuvasti takaisin hallintakeskuksen aloitussivulle ennen päivitysten valmistumista, kokeile InPrivate- tai Incognito-selausta.
   
 2. Valitse luottokortti, jonka haluat päivittää.
-    
+
     > [!NOTE]
-    > Jos maksutapa on organisaatiosi toisen järjestelmänvalvojan lisäämä, et voi päivittää tilauksen luottokortti- tai pankkitilitietoja. Jos kyseinen luottokortti on vanhentumassa ja toinen järjestelmänvalvoja ei voi päivittää tietoja, voit välttää palvelun katkeamisen lisäämällä tilaukseen toisen luottokortin tai uuden pankkitilin. Voit tehdä tämän valitsemalla **Lisää maksutapa**. 
+    > Jos maksutapa on organisaatiosi toisen järjestelmänvalvojan lisäämä, et voi päivittää tilauksen luottokortti- tai pankkitilitietoja. Jos kyseinen luottokortti on vanhentumassa ja toinen järjestelmänvalvoja ei voi päivittää tietoja, voit välttää palvelun katkeamisen lisäämällä tilaukseen toisen luottokortin tai uuden pankkitilin. Voit tehdä tämän valitsemalla **Lisää maksutapa**.
   
 3. Valitse **Maksutiedot**-sivulla **Muokkaa maksutietoja**. 
-    
-4. Tee päivitykset ja valitse sitten **Tallenna**.
-    
-5. Jos haluat poistaa tämän maksutavan, valitse **Poista**.
-    
-Jos haluat lisätietoja, tutustu artikkeleihin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ja [Luottokorttien ja pankkitilien vianmääritys](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
 
+4. Tee päivitykset ja valitse sitten **Tallenna**.
+
+5. Jos haluat poistaa tämän maksutavan, valitse **Poista**.
+
+Jos haluat lisätietoja, tutustu artikkeleihin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ja [Luottokorttien ja pankkitilien vianmääritys](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
