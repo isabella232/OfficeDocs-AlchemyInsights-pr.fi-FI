@@ -12,17 +12,35 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2f575c71f23aff781f3126ccac2ba066cfd87a5e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 80625a2d3a10c1316dc369db344bb077aeb548b0
+ms.sourcegitcommit: 23f4af808f08643cc7d356dd4abc1d079c28e6dc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368906"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35411845"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Valvontalokit SharePoint- ja OneDrive
 
-- Valvontaloki käyttöön SharePoint-tai OneDrive vaaditaan lisämäärityksiä.
+**SharePoint ja OneDrive Moderni yhtenäistetyn seuranta lokit-yhteensopivuus**
 
-- SharePoint- ja OneDrive tukevat seuraavat tarkastetut toimet: [tiedosto ja sivun](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities), [kansion toimintaa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities), [jakaminen ja käytön pyytää toimintaa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities), [synkronoinnin toimintaa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)ja [Sivustonhallinta toiminnan](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities).
+- [Ottaa käyttöön ja poistaa käytöstä yhdistetyn valvontalokin](https://docs.microsoft.com/en-us/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
+Muita määrityksiä ei vaadita SharePoint- tai OneDrive.
+
+- Valvontaloki haun avulla voit tarkistaa toiminnan tiedostot, kansiot, käyttäjät, käyttöoikeudet:
+
+    - [Tiedosto- ja aktiviteetit](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Kansion tehtävät](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Pyynnön aktiviteettien jakaminen ja käyttö](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Synkronoinnin toimintaa](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Sivuston hallinnan tehtävät](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 - Saat lisätietoja tietoja näiden tapahtumien palauttamisesta, [Etsi valvontaloki](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+
+**Perinteinen SharePoint-valvonta**
+
+- [Tarkastella ja ottaa käyttöön SharePoint classic seurantalokeja](https://support.office.com/en-us/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+
+Kunkin sivustokokoelman kohti käyttöön valvonnan tarve. 
+
+**Huomautus**: suosittelemme, että käytät lokit Moderni Unified valvoa paremmin ja kehittyneitä valvonta vaihtoehtoja kuin nämä perinteiset seurantalokeja.
+
