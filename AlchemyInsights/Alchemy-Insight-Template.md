@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
-ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
+ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35786410"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800042"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Edellyttää Alkemia otsikon H1, H2 ja eivät toimi.
 Parhaita käytäntöjä ja ohjeita Alkemia authoring:
@@ -38,5 +38,3 @@ Parhaita käytäntöjä ja ohjeita Alkemia authoring:
 Ja tämä on todella jo hieman liian pitkä. Paras käytäntö on noin 400 merkkiä---
 
 Kun sisältösi on valmiina, erotettu elävään oksaan. Siirry [portal Alkemia kumppani](https://alchemyportal.azurewebsites.net) , ja kirjoita URL-osoite-kenttään tiedoston nimi. 
-
-
