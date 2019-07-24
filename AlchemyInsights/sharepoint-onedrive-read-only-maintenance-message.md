@@ -1,7 +1,7 @@
 ---
-title: Haetaan TenantAccessBlockedException-virhe käytettäessä 127 sähköposti?
-ms.author: kirks
-author: Techwriter40
+title: Vain luku-ylläpito tulee näyttöön, kun yrität käyttää SharePoint- tai OneDrive
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736400"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840512"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Vain luku-ylläpito tulee näyttöön, kun yrität käyttää SharePoint- tai OneDrive
 
-Käyttäjät saattavat saada lukuoikeudet ylläpito viestin, kun yrität käyttää SharePoint- tai OneDrive.
+Käyttäjät saattavat saada **Ylläpito vain luku -** viestin, kun yrität käyttää SharePoint- tai OneDrive.  Jos näin on, tarkista, onko aktiivisen ylläpidon käynnistämien että vuokralaisen siirtymällä [viestikeskuksesta](https://portal.office.com/adminportal/home#/MessageCenter). Varmista myös, että [Terveyden huollon](https://portal.office.com/adminportal/home#/servicehealth) koontinäytön tiedotteiden ja tapahtumat, jotka on määrä tarkistaa.
 
-Tarkista, onko aktiivisen ylläpidon käynnistämien että vuokralaisen siirtymällä [viestikeskuksesta](https://portal.office.com/adminportal/home#/MessageCenter). Varmista lopuksi, käyt tiedotteiden ja tapahtumat, jotka on määrä tarkistaa[Palvelun kunto](https://portal.office.com/adminportal/home#/servicehealth) -sivulle.
-
-Jos ole Message Center tai palvelun terveyden Dashboard on mainita mitään tietoja nykyisen Kunnossapito, että vuokralaisen, ongelma saattaa johtua selaimen välimuisti ongelma.
+Jos ole Message Center- tai terveyden huollon dashboard on mainita mitään tietoja nykyisen Kunnossapito, että vuokralaisen, ongelma saattaa johtua selaimen välimuisti ongelma.
 
 Yritä tyhjentää selaimen välimuisti ennen sivuston navigointi.
 
-- Siirry selaimessa Microsoft Edge entistä asetukset
+1. Microsoft Edge-selaimessa Valitse **asetukset**ja valitse sitten **Tietosuoja- ja**.
+2. Valitse **Poista selaaminen**, **Valitse mitä haluat poistaa**.
+3. **Evästeet ja tallennetun Web-sivun tiedot**ja valitse **Poista**.
 
-- Poista selaaminen-kohdassa valinta valita Poista.
-- Evästeet ja tallennetun Web-sivun tiedot-valintaruutu ja valitse Poista.
+>[!Note] 
+> Nämä vaiheet saattavat vaihdella muissa selaimissa, kuten Mozilla Firefox tai Google Chrome.
 
-**Huomautus**: nämä vaiheet saattavat vaihdella muissa selaimissa, kuten Firefox tai Chrome.
-
+>[!Note] 
+> Avaa uusi InPrivate-ikkunassa SharePoint-sivuston tai OneDrive olisi toinen vaihtoehto.
