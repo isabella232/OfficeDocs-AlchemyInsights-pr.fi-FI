@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132720"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903935"
 ---
 # <a name="edit-a-read-only-file"></a>Vain luku-tiedoston muokkaaminen
 
@@ -25,7 +25,7 @@ Sen sijaan, että jos valitset otsikon, **Avaa valikko** (kolme pistettä) ja va
 
 Huomautus:
 
-- Jos haluat käyttää asiakirjoja avoinna muokkaamista varten Office Online-sivustossa, kun napsautat otsikkoa, voit tehdä sen (niin kauan kuin sinulla on oikeus muuttaa asiakirjakirjaston asetuksia) voit määrittää kirjastoon.
+- Jos haluat käyttää tiedostoja avata muokattavaksi Office kun napsautat otsikkoa, voit tehdä sen (niin kauan kuin sinulla on oikeus muuttaa asiakirjakirjaston asetuksia) voit määrittää kirjastoon.
 
 - Jos kirjastot poistuminen, pakollisia sarakkeita tai kun vain käyttäjät, jotka voivat muokata asetuksia versio SharePoint-asiakirjakirjasto, nämä kohteet synkronoidaan vain luku-muodossa.
 
