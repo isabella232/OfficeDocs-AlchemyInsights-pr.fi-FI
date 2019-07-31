@@ -12,20 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: cf18afc7c2ab07b3318a9c79ad657a83810e5a42
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: 7687f6cb4a2e71a68edc762e69ccee2994e60c6f
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475463"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941101"
 ---
 # <a name="more-info-about-dlp-issues"></a>Lisätietoja ongelmista DLP
 
-DLP-käytännön kanssa tunnistaa, valvoa ja suojaamaan arkaluontoisia tietoja automaattisesti Office 365: n välillä. 
+DLP-käytännön kanssa tunnistaa, valvoa ja suojaamaan arkaluontoisia tietoja automaattisesti Office 365: n välillä.
 
 Käy näitä linkkejä saat lisätietoja:
 
 - [Yleiskatsaus tietojen menetyksen estäminen](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
+- [Etsi mitä luottamuksellisten tietojen tyypit](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Luo mukautettu luottamuksellisten tietojen tyyppi](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Näytä käytännön vinkkejä ja sähköposti-ilmoitusten lähettäminen](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
 - [Suojaa tiedostot SharePoint Online selitteitä pidätys ja DLP](https://docs.microsoft.com/en-us/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP- ja Microsoftin työryhmät](https://docs.microsoft.com/en-us/office365/securitycompliance/dlp-microsoft-teams)
 
