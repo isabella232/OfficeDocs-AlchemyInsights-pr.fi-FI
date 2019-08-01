@@ -12,15 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: 16ca62f924b9f253e30d90f1f147570151cdf787
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 25d48e964d2669243eb4d44c773606d7142f2853
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373734"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36048993"
 ---
-# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="df18d-102">Miten asetukset löytyy Outlook.com-asetukset</span><span class="sxs-lookup"><span data-stu-id="df18d-102">How to find options in Outlook.com settings</span></span>
+# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="7c8cf-102">Miten asetukset löytyy Outlook.com-asetukset</span><span class="sxs-lookup"><span data-stu-id="7c8cf-102">How to find options in Outlook.com settings</span></span>
 
-<span data-ttu-id="df18d-103">Valitse sivun yläosassa pyydykset kuvaketta asetukset.</span><span class="sxs-lookup"><span data-stu-id="df18d-103">At the top of the page, select the gear icon to open Settings.</span></span> <span data-ttu-id="df18d-104">Valitse Asetukset-ruudun alaosasta [**Näytä kaikki Outlookin asetukset**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="df18d-104">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
+<span data-ttu-id="7c8cf-103">Valitse sivun yläosassa pyydykset kuvaketta</span><span class="sxs-lookup"><span data-stu-id="7c8cf-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="7c8cf-104">Avaa asetukset.</span><span class="sxs-lookup"><span data-stu-id="7c8cf-104">to open Settings.</span></span> <span data-ttu-id="7c8cf-105">Valitse Asetukset-ruudun alaosasta [**Näytä kaikki Outlookin asetukset**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="7c8cf-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
 
-<span data-ttu-id="df18d-105">Tämä toiminto näyttää, General, sähköposti, kalenteri, ja (tarvittaessa) ja Premium asetukset.</span><span class="sxs-lookup"><span data-stu-id="df18d-105">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>
+<span data-ttu-id="7c8cf-106">Tämä toiminto näyttää, General, sähköposti, kalenteri, ja (tarvittaessa) ja Premium asetukset.</span><span class="sxs-lookup"><span data-stu-id="7c8cf-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>
