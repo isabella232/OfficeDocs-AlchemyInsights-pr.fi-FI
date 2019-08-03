@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: 64e2349a329bee570685034ca4bab9988c71182f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cc177c7616da1a784bd72bf9648beb4f84f6139b
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374094"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595215"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Roskapostin lähettäjä LinkedIn väitti liittyvät ongelmat
 
@@ -25,4 +25,4 @@ Olemme tietoisia siitä, että jotkut käyttäjät saavat roskapostin, joka väi
 
 On suositeltavaa käyttää Saapuneet-kansion sääntö suodattaa nämä sähköpostit.
 
-Saat lisätietoja, lue [Outlook.com Saapuneet-kansion sääntöjen](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d)käyttäminen.
+Saat lisätietoja, lue [Outlook.com Saapuneet-kansion sääntöjen](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)käyttäminen.
