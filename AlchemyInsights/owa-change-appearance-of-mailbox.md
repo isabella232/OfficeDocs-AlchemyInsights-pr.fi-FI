@@ -9,18 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 8cce6e27c2120389ca4b3778139528afa6f341e4
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934007"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171338"
 ---
 # <a name="change-the-look-of-your-mailbox"></a>Postilaatikon ulkoasun muuttaminen
 
 Voit muuttaa luettelon ja lukeminen viestiruudun ulkoasua niin, että se näyttää ja toimii haluamallasi tavalla. Valitse näytetäänkö viestit yksitellen tai keskusteluja, uusien viestien näkyvän ylä-tai alareunaan ja viestiä.
 
-1. Valitse vaihde kuvaketta Avaa Asetukset-ruutu sivun yläreunassa.
+1. Valitse vaihde-kuvake <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ Avaa Asetukset-ruutu sivun yläreunassa.
 1. Valitse liittyvä Saapuneet-kansion asetukset, Näytä tiheys, keskustelu-näkymän ja lukuruudun.
 1. Viestiluettelon yläpuolella, valitse **Suodatin** > voit valita, miten haluat lajitella sähköpostiviestit**Lajitteluperuste** .
 
