@@ -1,33 +1,35 @@
 ---
-title: Tiedostojen lataaminen OneDrive tai SharePoint
-ms.author: kirks
-author: Techwriter40
+title: Lataa tai Lataa estää tiedostojen OneDrive tai SharePoint
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: bbde5e3c7d46206602def27cc9ac577e34d2da49
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom:
+- "1788"
+- "9000213"
+ms.openlocfilehash: a89d887448e2692e63b555f56428e119b11a72c7
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759603"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232588"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Lataa tiedostoja ja kansioita SharePoint-tai OneDrive
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Lataa tai Lataa estää tiedostojen OneDrive tai SharePoint
 
 Voit ladata tiedostoja ja kansioita SharePoint online OneDrive tai tietokoneeseen vain muutamalla napsautuksella. Lisätietoja tiedostojen lataamisesta nopeudet ja rajoittava ladattavat kohteet käy alla olevia linkkejä.
 
 - [Lataa tiedostoja ja kansioita SharePoint-tai OneDrive](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [Lohkon lataaminen on Azure AD ehdollisen käyttöoikeuden](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Estää käyttäjiä lataamasta sisältöä sivustosta](https://support.office.com/article/Prevent-users-from-downloading-content-from-a-site-e17bf52b-fa5d-41cf-9eb0-d3812542424e)
 
 - [Suurenna Lataa ja lataa nopeus](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
 - [OneDrive synkronointiin liittyvien ongelmien korjaaminen](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [Rajaa hakua sisällön SharePoint-asiakirjakirjastojen määrittäminen Sisältöoikeuksien hallintakäytäntöjä](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [Lataa Business OneDrive](https://onedrive.live.com/about/download/)
 
