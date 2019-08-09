@@ -1,9 +1,9 @@
 ---
 title: SharePoint Onlinen Avaa Resurssienhallinnassa -ongelmien määritys
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803035"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270705"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Onlinen Avaa Resurssienhallinnassa -ongelmien määritys
 
@@ -31,9 +31,9 @@ Jos päätät käyttää resurssienhallintanäkymää uuden OneDrive-synkronoint
 
 > [!Note]  
 > **Avaa Resurssienhallinnassa** -painike ei näy uudessa kirjastokäyttökokemuksessa. Valitse oikean yläkulman avattava **Näytä**-valikko (avattavan valikon nimi muuttuu käyttämäsi näkymän mukaan) ja valitse sitten **Näytä Resurssienhallinnassa**.
-
+>
  >SharePointin Avaa Resurssienhallinnassa -toiminto käyttää ActiveX-komponentteja, joten sitä tuetaan vain Internet Explorer -versioissa 10 ja 11. Avaa Resurssienhallinnassa -komento ei toimi Windowsissa Microsoft Edgessä, Google Chromessa tai Mozilla Firefoxissa eikä Mac-käyttöympäristössä. Tämän vuoksi Resurssienhallintanäkymä-vaihtoehto voi näkyä harmaana.
-
+>
 > - [Miksi SharePoint-valintanauhan painikkeet eivät ole käytettävissä tai näkyvät harmaana?](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 
