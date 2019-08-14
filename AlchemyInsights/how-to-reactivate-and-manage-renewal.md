@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383526"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389933"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Miten aktivoida ja hallita toistuva Laskutus
 
 Ilmeisesti sinulla on tilaus, joka on vanhentunut. Jos haluat aktivoida sen, tässä miten.
   
-1. [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivun Siirry hallintakeskukseen, tai siirry **laskutuksen** \> **tilaukset**.
+1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
 
 2. Valitse tilaus, joka on **vanhentunut** tai **poistettu käytöstä**.
 
@@ -36,11 +36,10 @@ Ilmeisesti sinulla on tilaus, joka on vanhentunut. Jos haluat aktivoida sen, tä
 
 Kuukausittain tai vuosittain laskutuksen hallinta siirtyä **Toistuva Laskutus** käytössä tai poissa käytöstä.
   
-1. [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivun Siirry hallintakeskukseen, tai siirry **laskutuksen** \> **tilaukset**.
+1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
 
 2. Valitse ylläpitosopimus, jolle haluat hallita toistuva laskutus.
 
 3. Vaihda **Toistuva Laskutus** -Ota **käyttöön** tai **poistaa käytöstä**.
 
-Lisätietoja on ohjeaiheessa: [Toistuva tilauksen laskutuksen hallinta](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Saat lisätietoja, [Ota toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
