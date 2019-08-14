@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 545d39d9ea83acfc2e5def49ac3877edbc8275de
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32395506"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386151"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Office 365-tilauksesi peruuttamista?
 
 Valitettavasti nähdä sinut go, mutta tässä on vaihtoehdot voit peruuttaa tilauksen:
   
 - Jos olet kokeiluversion asiakkaan, ei ole mitään peruuttamiseksi. Koeversion tilaus päättyy automaattisesti, ellet lisää maksutapa.
-    
-- Jos sinulla on vähemmän kuin 25 määritetyt käyttöoikeudet, voit peruuttaa tilauksen verkossa. Siirry [laskutuksen](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **tilaukset**ja valitse sitten **Lisää toimintoja** \> **Peruuta tilaus**.
-    
-- Jos sinulla on enemmän kuin 25 määritetyt käyttöoikeudet, voit poistaa käyttäjien kunnes on vähemmän kuin 25 tai tukihenkilö voi puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
-    
-- Saat lisätietoja tilauksen peruuttaminen tai yksityiskohtaiset ohjeet, katso [Peruuta Office 365 yrityksille](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
-    
 
+- Jos sinulla on vähemmän kuin 25 määritetyt käyttöoikeudet, voit peruuttaa tilauksen verkossa. Siirry **laskutuksen** \> [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)ja valitse sitten **Lisää toimintoja** \> **Peruuta tilaus**.
+
+- Jos sinulla on enemmän kuin 25 määritetyt käyttöoikeudet, voit poistaa käyttäjien kunnes on vähemmän kuin 25 tai tukihenkilö voi puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
+
+- Lisätietoja tilauksen peruuttaminen, tai vaiheittaiset ohjeet on ohjeaiheessa [peruuttaa tilauksesi](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).

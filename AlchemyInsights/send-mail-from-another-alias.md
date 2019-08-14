@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 73ea8fe0ba9ab6398af269f8fb99b8c8dc61a866
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369482"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388381"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Lähetä sähköposti alias tai toissijainen osoite
 
@@ -26,4 +26,4 @@ Office 365 tue alias tai sähköpostiosoite, toissijainen sähköposti lähettä
   
 - [Voit luoda jaetun postilaatikon](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Voit myös lukea [jaetun postilaatikon luominen](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9) artikkelin joka kertoo kaiken tarvittavan tietää jaettujen postilaatikoiden, mukaan lukien niiden käyttämisestä.
+Voit myös lukea [jaetun postilaatikon luominen](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) artikkelin joka kertoo kaiken tarvittavan tietää jaettujen postilaatikoiden, mukaan lukien niiden käyttämisestä.

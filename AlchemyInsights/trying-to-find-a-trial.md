@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366746"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387841"
 ---
 # <a name="trying-to-find-a-trial"></a>Yritetään löytää kokeiluversio?
 
-Jos haluat yrittää löytää käytettävissä ylläpitosopimusten luettelo kokeiluversio Microsoft 365 admin Centerissä uuden palvelun.
+Jos haluat yrittää löytää käytettävissä ylläpitosopimusten luettelo kokeiluversio admin Centerissä uuden palvelun.
   
-1. Siirry sivulle [Palvelujen ostojen](https://go.microsoft.com/fwlink/p/?linkid=868433) tai valitse **laskutuksen** \> **Osto palvelut**.
+1. Hallintakeskukseen, siirry **laskutuksen** \> [Palveluiden osto](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
 
 2. Etsi tilaus, joka täyttää tarpeesi hiiri kohteen päälle, ja valitse **Aloita ilmainen kokeiluversio**.
 

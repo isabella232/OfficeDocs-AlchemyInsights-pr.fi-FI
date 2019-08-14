@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359762"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386941"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365-tilauksesi peruutetaan?
 
 Valitettavasti nähdä sinut go!
   
-Organisaatiotiedot perustuvat, uskomme kaikkien nykyisten tilausten on oltava alle 25 istuimet. Voit peruuttaa tilauksen verkossa, siirry [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle tai siirry **laskutuksen** \> **tilauksia**, valitse **Lisää toimintoja** \> **Peruuta tilaus**.
+Organisaatiotiedot perustuvat, uskomme kaikkien nykyisten tilausten on oltava alle 25 istuimet. Voit peruuttaa tilauksen verkossa, siirry **laskutuksen** \> [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulle ja valitse **Lisää toimintoja** \> **Peruuta tilaus**.
   
-Lisätietoja tilauksen peruuttaminen tai vaiheittaisia ohjeita, lue tämä artikkeli: [Peruuta Office 365 yrityksille](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+Lisätietoja tilauksen peruuttaminen tai vaiheittaisia ohjeita, lue tämä artikkeli: [Peruuta tilaus](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

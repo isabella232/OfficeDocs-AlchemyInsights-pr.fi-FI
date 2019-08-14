@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: ef09b8d69c41e4060bb948b0681f4a6543c74cc1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360662"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387049"
 ---
 # <a name="buy-additional-licenses"></a>Osta lisää käyttöoikeuksia
 
-1. Siirry hallintakeskuksessa [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivulle tai valitse **Laskutus** \> **Tilaukset**.
+1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
 
 2. **Tilaukset** -sivulla tilaus, johon haluat lisätä käyttöoikeuksia, valitse ja valitse sitten **Lisää tai poista käyttöoikeudet**.
 
-    [Entä jos Lisää tai poista-linkki ei näy?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [Entä jos Lisää tai poista-linkki ei näy?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
 3. Kirjoita käyttöoikeuksia, joita tarvitaan tämän tilauksen kokonaismäärä **yhteensä käyttöoikeudet** -ruutuun ja valitse **Lähetä** \> **Sulje**. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja tarvitset vielä viisi lisää, kirjoita tähän luku 105.
 
     > [!NOTE]
     > Jos olet maksanut tilauksen luottokortilla tai pankkisiirrolla, ostamasi käyttöoikeudet ovat käytettävissä heti, kun olet saanut tilausvahvistuksen. Jos maksat laskulla, joudut mahdollisesti odottamaan luottotietojen tarkistusta, ennen kuin uudet käyttöoikeudet ovat käytettävissä.
   
- **Lisää resursseja**
-  
-- [Osta käyttöoikeuksia Office-365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+**Lisää resursseja**
 
-- [Määritä käyttöoikeuksia käyttäjille Office 365 yrityksille](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Määritä käyttöoikeuksia käyttäjille Office 365 yrityksille](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+
+Käytät uusia hallintakeskukseen? Katso uudet toimet [ostaa oman Office 365: ssä business tilauksen käyttöoikeuksia](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
