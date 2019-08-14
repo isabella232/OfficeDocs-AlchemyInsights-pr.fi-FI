@@ -13,19 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: e4f0c153d6e3bbd7a5b27d15090e8b98345318aa
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378846"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389465"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="cd9a6-102">Hanki ilmainen Office 365 koko Koulu</span><span class="sxs-lookup"><span data-stu-id="cd9a6-102">Get Office 365 free for your entire school</span></span>
+# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="31f35-102">Hanki ilmainen Office 365 koko Koulu</span><span class="sxs-lookup"><span data-stu-id="31f35-102">Get Office 365 free for your entire school</span></span>
 
-<span data-ttu-id="cd9a6-103">Parantaa luokkahuoneen ja koulun yhteistyö vapaa productivity Tools-työkalujen kanssa.</span><span class="sxs-lookup"><span data-stu-id="cd9a6-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="cd9a6-104">Haluat Varmista, että voit hyödyntää näitä tarjouksia akkreditoitujen akateeminen laitos.</span><span class="sxs-lookup"><span data-stu-id="cd9a6-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="31f35-103">Parantaa luokkahuoneen ja koulun yhteistyö vapaa productivity Tools-työkalujen kanssa.</span><span class="sxs-lookup"><span data-stu-id="31f35-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="31f35-104">Haluat Varmista, että voit hyödyntää näitä tarjouksia akkreditoitujen akateeminen laitos.</span><span class="sxs-lookup"><span data-stu-id="31f35-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="cd9a6-105">Tutustu koulutus suunnitelmat</span><span class="sxs-lookup"><span data-stu-id="cd9a6-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="31f35-105">Tutustu koulutus suunnitelmat</span><span class="sxs-lookup"><span data-stu-id="31f35-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="cd9a6-106">Koulutus Office 365: n aloittaminen</span><span class="sxs-lookup"><span data-stu-id="cd9a6-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
-
-- [<span data-ttu-id="cd9a6-107">Vertaa kaikki Office 365-suunnitelmat</span><span class="sxs-lookup"><span data-stu-id="cd9a6-107">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="31f35-106">Vertaa kaikki Office 365-suunnitelmat</span><span class="sxs-lookup"><span data-stu-id="31f35-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
