@@ -13,14 +13,13 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: e8cb3097a1c2298208565dc82d97cb052c2d1ac7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363022"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386509"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="f6871-102">Luottorajan tarkistus tilapyyntö</span><span class="sxs-lookup"><span data-stu-id="f6871-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="18ad2-102">Luottorajan tarkistus tilapyyntö</span><span class="sxs-lookup"><span data-stu-id="18ad2-102">Credit check status request</span></span>
 
-<span data-ttu-id="f6871-103">Tilauksesi on odottavat luoton tarkistus.</span><span class="sxs-lookup"><span data-stu-id="f6871-103">Your order is pending credit verification.</span></span> <span data-ttu-id="f6871-104">Tämä on yleensä valmis alle 24 tunnin aikana, mutta se voi kestää jopa 48 tuntia.</span><span class="sxs-lookup"><span data-stu-id="f6871-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="f6871-105">Kun asennus on valmis, tilauksen tilaksi vaihtuu Odottava aktiivinen ja palvelut ovat käytettävissä.</span><span class="sxs-lookup"><span data-stu-id="f6871-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
-  
+<span data-ttu-id="18ad2-103">Tilauksesi on odottavat luoton tarkistus.</span><span class="sxs-lookup"><span data-stu-id="18ad2-103">Your order is pending credit verification.</span></span> <span data-ttu-id="18ad2-104">Tämä on yleensä valmis alle 24 tunnin aikana, mutta se voi kestää jopa 48 tuntia.</span><span class="sxs-lookup"><span data-stu-id="18ad2-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="18ad2-105">Kun asennus on valmis, tilauksen tilaksi vaihtuu Odottava aktiivinen ja palvelut ovat käytettävissä.</span><span class="sxs-lookup"><span data-stu-id="18ad2-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
