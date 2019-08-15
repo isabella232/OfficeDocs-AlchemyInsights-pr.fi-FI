@@ -3,28 +3,53 @@ title: Lisätietoja tietoja säilytyskäytäntöjä
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448832"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404835"
 ---
 # <a name="more-info-about-retention-policies"></a>Lisätietoja tietoja säilytyskäytäntöjä
 
-Varten Useimmissa organisaatioissa, ja monimutkaisuuden tietonsa yhä enemmän päivittäin - sähköposti, asiakirjoja, pikaviestejä ja enemmän.
-On tärkeää tehokkaasti hallintaan tai jotka koskevat tiedot ja säilytyskäytäntö voi auttaa sinua saavuttamaan nämä tavoitteet. Lisätietoja säilytyskäytännöt käy näitä linkkejä:
+Varten Useimmissa organisaatioissa, ja monimutkaisuuden tietonsa yhä enemmän päivittäin - sähköposti, asiakirjoja, pikaviestejä ja enemmän. On tärkeää tehokkaasti hallintaan tai jotka koskevat tiedot ja säilytyskäytäntö voi auttaa sinua saavuttamaan nämä tavoitteet. Lisätietoja säilytyskäytännöt käy näitä linkkejä:
 
-- [Säilytyskäytännöt yleiskatsaus](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a>A)-Security and Compliance Centeriin
 
-- [Pidätys tunnisteet ja säilytyskäytäntöjä](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- Siirry suojaus- ja > tietojen hallinnon > pidätys
+  - Katso [Tämä](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) artikla
 
-- [Käytetään säilytyskäytäntöä koko organisaation tai tiettyjen sijaintien](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- Siirry suojaus- ja > eDiscovery> kehittyneitä eDiscovery 
+  - Katso [Tämä](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) artikla
 
-- [Exchange-Admin Centerissä äskettäin luodun tai päivitetyn säilytyskäytännöt soveltavat ei postilaatikoihin](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- Siirry suojaus ja yhteensopivuus > luokittelut > pidätys
+  - Lue seuraavat artikkelit
+    - [Herkkyys otsikot](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [Otsikot yleistä](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a>B) vanha eDiscovery käytännöt
+
+- Katso [Tämä](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikla
+
+## <a name="c-site-closure-and-deletion-policies"></a>C) sivuston sulkemiseen ja poiston käytännöt
+
+- Katso [Tämä](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikla  
+
+## <a name="d-information-rights-management-irm"></a>D) information Rights Management (IRM)
+
+- Lue seuraavat artikkelit
+  - [Sisältöoikeuksien hallinnan käyttöön luettelossa tai kirjastossa](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Sisältöoikeuksien hallinnan esittely](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> Microsoft suosittelee siirtymistä suojaus ja yhteensopivuus käytäntöjä, jos käytössäsi on edelleen vanha eDiscovery tai IRM tai sivuston sulkemiseen ja poiston käytännöt.

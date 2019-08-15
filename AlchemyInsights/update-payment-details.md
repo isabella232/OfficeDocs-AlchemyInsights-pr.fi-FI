@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903695"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387745"
 ---
 # <a name="update-payment-details"></a>Maksutietojen päivittäminen
 
-1. Siirry hallintakeskuksessa [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle tai valitse **Laskutus** \> **Maksutavat**.
+1. Siirry hallintakeskuksessa **Laskutus** \> [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle.
 
     > [!NOTE]
     > Jos päädyt toistuvasti takaisin hallintakeskuksen aloitussivulle ennen päivitysten valmistumista, kokeile InPrivate- tai Incognito-selausta.
@@ -37,4 +37,4 @@ ms.locfileid: "35903695"
 
 5. Jos haluat poistaa tämän maksutavan, valitse **Poista**.
 
-Jos haluat lisätietoja, tutustu artikkeleihin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ja [Luottokorttien ja pankkitilien vianmääritys](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Jos haluat lisätietoja, tutustu artikkeleihin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/fi-FI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ja [Luottokorttien ja pankkitilien vianmääritys](https://docs.microsoft.com/fi-FI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
