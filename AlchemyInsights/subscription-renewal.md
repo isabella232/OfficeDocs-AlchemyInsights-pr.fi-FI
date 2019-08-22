@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388177"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501362"
 ---
 # <a name="subscription-recurring-billing"></a>Toistuva tilaus-Laskutus
 
-Jos haluat tietää, milloin kuukausittain tai vuosittain tilaus laskutetaan (Jos **Toistuva Laskutus** on käytössä) tai päättyy (Jos **Toistuva Laskutus** ei ole käytössä):
+Jos haluat tietää, kun yhteyttä kuukausittain tai vuosittain Office 365-tilaus laskutetaan (Jos **Toistuva Laskutus** on käytössä) tai päättyy (Jos **Toistuva Laskutus** ei ole käytössä):
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
+1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-2. Valitse tilaus, jonka haluat tietää enemmän.
+2. Tilaus, jonka haluat tietää enemmän, **Laskutus**, alla on **Renews-** tai **Expiring-** päivämäärä.
 
-3. Tilauksen kortin oikeassa reunassa on tietoja tilauksen tilan, asetuksen **Toistuva Laskutus** ja laskutuksen tai voimassaolon päättymistä seuraava päivämäärä.
+4. Jos haluat muuttaa, valitse **Muokkaa** ja **Toistuva Laskutus** asetukset-ruudussa, valitse **Poista käytöstä** , poista se käytöstä. Jos toistuva laskutus ei ole jo käytössä, valitse **kuukausittain** tai **kerran** käyttöön.
 
-4. Jatkamaan palvelun mennyt tänä vaihtaa **Toistuva Laskutus asetukset** Ota **käyttöön**. Tila näkyy tilauksen seuraavaan laskutuspäivämäärän.
-
-5. Palvelun pysäyttäminen tänä päivänä, siirry **Toistuva Laskutus** -tai poistaa **käytöstä**. Tila näkyy kuvauspäivämäärän tilaus vanhenee.
-
-Käytät uusia hallintakeskukseen? Saat uusia vaiheita, [Ota toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Saat lisätietoja, [Ota toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

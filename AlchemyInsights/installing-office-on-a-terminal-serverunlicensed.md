@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381726"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498412"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Päätepalvelimen asennuksen
 
@@ -26,7 +26,7 @@ Voidaan ottaa käyttöön Office 365 ProPlus Windows-palvelimen käyttämällä 
 
 - On otettava käyttöön [jaettu tietokone aktivoiminen](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jos haluat asentaa Office 365 ProPlus RDS Office 365-portaalista ** *asennuksesta oletusasetuksia käyttäen* **, toimi seuraavasti:
+Jos haluat asentaa Office 365 ProPlus RDS-Office 365-portaalin, ***joka käyttää oletusarvoisesti asennuksen asetuksia***, toimi seuraavasti:
   
 1. Tarkista, mitä sinulla on Office 365-suunnitelma. [Lue lisätietoja siitä, miten](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Jos haluat asentaa Office 365 ProPlus RDS Office 365-portaalista ** *asennuksest
 
 4. RDS-palvelimen kirjautuminen järjestelmänvalvojana ja [Asenna Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)Office 365-portaaliin.
 
-5. Kun Office asennetaan, ** *ei avata tai kirjautua sisään* ** minkä tahansa Office-sovelluksiin.
+5. Kun Office on asennettu, ***Älä avaa tai kirjautua sisään*** Office-sovelluksia.
 
 6. RDS-palvelimen käyttöön jaetun tietokoneen aktivointi muokkaamalla rekisteriä seuraavasti:
 
@@ -46,7 +46,7 @@ Jos haluat asentaa Office 365 ProPlus RDS Office 365-portaalista ** *asennuksest
 
 3. Registry Editor Lisää merkkijonoarvo on **SharedComputerLicensing** , joka on asetettu 1 kohdassa HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. RDS-palvelimeen ** *käyttäjä kirjautua* ** ja [Varmista, että jaetun tietokoneen aktivointi on käytössä Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS-palvelin, ***Kirjaudu loppukäyttäjälle*** ja [että jaetun tietokoneen aktivointi on otettu käyttöön Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Lisätietoja edellytykset, asennusohjeita ja ohjeita mukautettujen asennusten avulla Office Deployment Tool-työkalua on [Ottaa käyttöön Office 365 ProPlus Etätyöpöytäpalveluiden avulla](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

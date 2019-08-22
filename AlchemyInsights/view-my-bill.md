@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387742"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506116"
 ---
 # <a name="view-my-bill"></a>Näytä omat bill
 
-1. Hallintakeskukseen, siirry **laskutuksen** \> [laskut](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivu.
+1. Microsoft 365 hallintakeskukseen, siirry **laskutuksen** \> [laskut & maksut](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivulta.
 
-2. Valitse haluamasi laskun kuukausi ja päivämäärä ja valitse sitten **Näytä**.
+2. Valitse päivämäärävälin avattavasta luettelosta ja valitse sitten haluamaasi järjestykseen.
 
-3. Valitse tilaus ja valitse sitten **Näytä tiedot**.
-
-Saat lisätietoja [Näytä lasku tai laskun](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Saat lisätietoja [Näytä lasku tai laskun](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

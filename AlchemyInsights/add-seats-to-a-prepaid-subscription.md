@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385609"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495028"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Lisää vanhenemaisillaan olevan esimaksetun tilauksen istuimet
 
-1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
+Ennakkoon Office 365: n käyttöoikeuksia myönnetään sinulle 25-merkkinen aakkosnumeerinen koodi. Kun olet ostanut tarvitset käyttöoikeudet, voit lisätä ne tilauksesi. 
 
-2. Valitse ennakkoon maksettu tilaus, jotka haluat lisätä käyttäjiä.
+1. Siirry hallintakeskukseen, **Laskutus**, > [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-3. Valitse **Lisää toimintoja** -valikosta **Uudista tai käyttöoikeuden tunnus ja lisätä**.
+2. Etsi tilaus, johon haluat lisätä käyttöoikeuksia. Valitse avattavasta **Lisää toimintoja** ja valitse sitten **Uudista tai käyttöoikeuden tunnus ja lisätä**.
 
-4. Valitse **Uusi ja käyttämätön product key-tunnus** . (Jos tämä tilaus on luotu jälleenmyyjällä hankittu product Key-tunnuksella, joudut ehkä lisätä käyttäjien kanssa muiden maksutapojen.)
+3. - **Uusi tai lisätä käyttöoikeuksia** sivu, käytä **uusia ja käyttämättömiä product Key-tunnusta**ja valitse sitten **Seuraava**.
 
-5. Valitse **Seuraava**.
+4. Kirjoita product key-tunnus ja valitse sitten **Seuraava**.
 
-6. Kirjoita product key-tunnus ja valitse sitten **Seuraava**.
+    > [!NOTE]
+    > Jos sinulla on useampi kuin yksi product Key-tunnusta, voit valita **toisen product key-tunnuksen lisääminen** niiden kirjoittamisesta.
 
-7. Valitsemalla vaihtoehdon voit lisätä käyttäjiä, valitse **Seuraava**ja valitse sitten **Redeem**.
+5. Voit lisätä käyttäjiä tilaus ja valitse **Seuraava**.
 
-Käytät uusia hallintakeskukseen? Saat uusia vaiheita, [lisätä käyttöoikeuksia tai laajentaa tilaus maksetaan product key-tunnuksen avulla](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Tarkistaa tilaustietosi ja valitse sitten **Redeem**.
+
+Katso lisätietoja, [lisätä käyttöoikeuksia tai laajentaa tilaus maksetaan product key-tunnuksen avulla](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

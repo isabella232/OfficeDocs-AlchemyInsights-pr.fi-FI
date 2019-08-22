@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390293"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523148"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Oman luottokorttitietojen poistaminen
 
-1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
+1. Microsoft 365 hallintakeskukseen, siirry **laskutuksen** \> [maksutapoja](https://go.microsoft.com/fwlink/p/?linkid=2018806) -sivulla.
 
-2. Valitse mikä tahansa tilaus ja valitse sitten **Päivitä maksutiedot**.
+2. Valitse luottokortin tai pankkitilin poistaa **maksutapoja** -sivulla.
 
-3. Valitse avattavan valikon nuoli **Lisää tai valitse maksutapa** -kohdasta, valitse poistettava luottokortti tai pankkitili ja valitse sitten **Poista**.
-
-4. Poista luottokortti tai pankkitili valitsemalla uudelleen **Poista**.
+3. Jos haluat poistaa luottokortin tai pankkitilin, valitse **Poista maksutapa.**
 
 > [!NOTE]
-> Voit poistaa luottokortin tai pankkitilin, jos sinulla ei ole avointa saldoa luottokortilla tai pankkitilillä ja jos et käytä sitä aktivoidun tilauksen maksamiseen.
+> Et voi poistaa luottokorttia tai pankkitiliä, jos sitä käytetään nykyisin tilauksen maksamiseen.
 
-Käytät uusia hallintakeskukseen? Katso [Lisää, päivittää tai poistaa luottokortin tai pankkitilin, Office 365 yrityksille](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)uusia vaiheita.
+4. **Poista maksutapa** -ruudussa Valitse **Poista**.
+
+Lisätietoja [Lisää-, Päivitä tai poista luottokortin tai pankkitilin, for business Office 365: ssä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
