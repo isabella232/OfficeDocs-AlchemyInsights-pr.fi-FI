@@ -12,23 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271699"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512877"
 ---
 # <a name="disable-onedrive"></a>Poista OneDrive käytöstä
 
 Voit poistaa OneDrive ja sen palvelut yrityksesi tarpeiden mukaan seuraavilla tavoilla:
 
 [Linkityksen, piilottaa tai poistaa sovelluksen OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[sallii vain tiettyjen organisaatioiden synkronoidaan](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-[OneDrive käytöstä sivuston luomisen joidenkin käyttäjien](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-[Control käyttää SharePoint Online-ja OneDrive verkkosijainnin perusteella](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[oman OneDrive synkronointi käytöstä](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[yhteyksien hallinta Windows-laitteiden OneDrive ja muut palvelut](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+
+[Salli vain tiettyjen organisaatioiden synkronointi](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[Joidenkin käyttäjien OneDrive sivuston luomisen käytöstä.](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[SharePoint Onlinen ja OneDriven tietojen käytön hallitseminen verkkosijainnin perusteella](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+[Omat OneDrive synkronoinnin poistaminen käytöstä](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[Yhteyksien hallinta Windows-laitteiden OneDrive ja muut palvelut](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

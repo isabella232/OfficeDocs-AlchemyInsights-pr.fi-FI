@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166077"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511497"
 ---
-# <a name="see-your-own-email-address"></a>Katso omaa sähköpostiosoitetta
+# <a name="see-your-own-outlookcom-email-address"></a>Katso Outlook.com omaa sähköpostiosoitetta
 
 Saat sähköpostia lähetettäessä käytetään oletusarvon sähköpostiosoite, siirry [sähköpostin synkronointiasetuksia](https://outlook.live.com/mail/options/mail/accounts) ja katso kohta **Aseta oletusarvo-osoitteesta**.
 
