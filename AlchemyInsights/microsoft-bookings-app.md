@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380286"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544896"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="f25c4-102">Microsoft varaukset app</span><span class="sxs-lookup"><span data-stu-id="f25c4-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="910db-102">Microsoft varaukset app</span><span class="sxs-lookup"><span data-stu-id="910db-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="f25c4-103">Uudet varaukset app vianmäärityksestä, artikkeleissa [varaukset](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="f25c4-103">For troubleshooting issues in the new Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="910db-103">Microsoft Bookings on ajoitus app, jonka avulla voit seurata oman varaukset, henkilöstön ja asiakkaiden tapaaminen.</span><span class="sxs-lookup"><span data-stu-id="910db-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="910db-104">Tietoja tai varaukset app vianmääritys [varaukset](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)artikkeleissa.</span><span class="sxs-lookup"><span data-stu-id="910db-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
