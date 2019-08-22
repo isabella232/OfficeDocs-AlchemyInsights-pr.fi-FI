@@ -12,14 +12,14 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: f2c30a51fde2d09320350a4a03b0e7cb6a85412d
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: f8de9ceaa7d249f187a5e96b2c728440e0e434b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35746226"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546120"
 ---
-# <a name="move-a-folder"></a>Siirrä kansio
+# <a name="move-a-folder-in-outlookcom"></a>Siirrä kansio Outlook.com-
 
 Voit järjestää **Suosikit**-kansiot uudelleen, mutta et voi järjestää kansioihin, **kansiot** tai Luo alikansio kansio. Jos vahingossa siirtää kansion toiseen kansioon, Luo uusi kansio ja kopioi kaikki sähköposti uuteen kansioon alikansio.
   

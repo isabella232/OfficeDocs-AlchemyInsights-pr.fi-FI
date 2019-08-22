@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420121"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533222"
 ---
 # <a name="trying-to-verify-your-domain"></a>Yritätkö vahvistaa toimialueesi?
 
-Sinun on lisättävä TXT-tietue toimialuerekisteröijään vahvistukseksi toimialueen omistajuudesta. Noudata ohjattua toimialueen lisäämistoimintoa napsauttamalla **Asetukset** \> **Toimialue** ja valitse sitten **Lisää toimialue**. 
+Sinun on lisättävä TXT-tietue toimialuerekisteröijään vahvistukseksi toimialueen omistajuudesta. Noudata ohjatun uuden toimialueen Microsoft 365 admin Centerissä **asetukset** siirtymällä \> **Toimialueet**ja **Lisää toimialueeseen**. 
   
 Vahvista toimialueesi lisäämällä TXT-tietue alla olevassa artikkelissa olevien ohjeiden mukaisesti. Saat toimialuekohtaiset ohjeet valitsemalla toimialuerekisteröijäsi.
   
