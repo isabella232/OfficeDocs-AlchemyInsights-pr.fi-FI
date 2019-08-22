@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: d8be2a6d0c8a86fbcc86fb32c4150df28bb97ee6
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606682"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542099"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="264ba-102">Voit peruuttaa apps ohjelmisto-kuin--service</span><span class="sxs-lookup"><span data-stu-id="264ba-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="8fe31-102">Voit peruuttaa apps ohjelmisto-kuin--service</span><span class="sxs-lookup"><span data-stu-id="8fe31-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="264ba-103">Siirry **laskutuksen** > [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla ja valitse **sovellukset** -välilehti.</span><span class="sxs-lookup"><span data-stu-id="264ba-103">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="8fe31-103">Microsoft 365 admin Centerissä, **Laskutus**, > [& tuotteet palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla ja valitse **sovellukset** -välilehti.</span><span class="sxs-lookup"><span data-stu-id="8fe31-103">In the Microsoft 365 admin center, to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="264ba-104">Etsi ja valitse sovellus, jota haluat hallita.</span><span class="sxs-lookup"><span data-stu-id="264ba-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="8fe31-104">Etsi ja valitse sovellus, jota haluat hallita.</span><span class="sxs-lookup"><span data-stu-id="8fe31-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="264ba-105">Valitse **asetukset-& toiminnot**, **Peruuta tilaus**.</span><span class="sxs-lookup"><span data-stu-id="264ba-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="8fe31-105">Valitse **asetukset-& toiminnot**, **Peruuta tilaus**.</span><span class="sxs-lookup"><span data-stu-id="8fe31-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
