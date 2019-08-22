@@ -12,22 +12,22 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 58e43416a86dd3fb478dbb89e3ea3a8953a01c2f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d317791c4710453abe0a6eaa4f3e8a5b907c9cf5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385225"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542050"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Osta käyttöoikeuksia Office 365: ssä business tilauksesi miten
 
 Kun määrität käyttöoikeuksia Office 365: ssä käyttäjät, saatat tarvitse ostaa lisäkäyttöoikeuksia. Toimi seuraavasti:
   
-- Siirry [tilaukset]( https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle Microsoft-365-hallintakeskukseen tai valitse **laskutuksen** \> **tilaukset**.
+1.  Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-- Valitse **Tilaukset**-sivulla tilaus, johon haluat lisätä käyttöoikeuksia, ja valitse sitten **Lisää tai poista käyttöoikeuksia**.
+2. Etsi tilaus, johon haluat lisätä käyttöoikeuksia ja valitse sitten **Lisää tai poista käyttöoikeudet**.
 
-- Kirjoita tätä tilausta varten tarvittava käyttöoikeuksien määrä **Käyttöoikeuksia yhteensä** -ruutuun ja valitse **Lähetä** \> **Sulje**. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja tarvitset vielä viisi lisää, kirjoita tähän luku 105.
+3. Kirjoita **yhteensä käyttöoikeudet** -ruudusta, että tilausta varten ja valitse sitten **Lähetä muuttaa**käyttöoikeuksien yhteismäärä. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja tarvitset vielä viisi lisää, kirjoita tähän luku 105.
 
-Lisätietoja: [ostaa oman Office 365: ssä business tilauksen käyttöoikeuksia](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+Lisätietoja [ostaa oman Office 365: ssä business tilauksen käyttöoikeuksia](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1).
   

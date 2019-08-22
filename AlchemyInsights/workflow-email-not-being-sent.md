@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270669"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530867"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Työnkulun sähköposti ei lähetetä
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Työnkulun sähköposti lähetetään ei ole SharePoint-luettelossa tai kirjastossa
 
 1. Kaikki käyttäjät tai vain tietyille käyttäjille ei lähetetä sähköposti-työnkulkuja tai nähdä virhe **sähköpostiviestiä ei voi lähettää. Varmista, että sähköpostiviestillä on kelvollinen vastaanottaja**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270669"
     - Jos käyttäjä ole ryhmän käyttöoikeudet, varmista, että sähköpostiosoite on oikein.
     - Jos käyttäjät sähköpostiosoitetta ei ole määritetty tässä, Luo malli-ilmoitus, joka pakottaa käyttäjätilin synkronointi käyttäjän profiilit SharePoint-sivustokokoelman käyttäjälle.
  
-2. Työnkulut-sähköposti lähetetään sivustokokoelman järjestelmänvalvojat, mutta ei muiden käyttäjien ja tulla seuraava virhe **kiellettyä HTTP <spam> <spam> ** <spam> <spam>.
+2. Työnkulut-sähköposti lähetetään sivustokokoelman järjestelmänvalvojat, mutta ei muiden käyttäjien ja tulla seuraava virhe **kiellettyä HTTP <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    On [Estetty, kun lähetetty sähköpostiviesti on ryhmitelty](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    On [Estetty, kun lähetät sähköpostia SharePoint-ryhmään](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Tarkista myös sivustokokoelman ominaisuuden **käyttöoikeus on rajoitettu käyttöoikeus lockdown tilassa** ei ole aktiivinen.
 

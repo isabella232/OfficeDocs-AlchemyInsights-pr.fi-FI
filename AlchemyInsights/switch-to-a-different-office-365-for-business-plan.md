@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388174"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534164"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Siirry eri Office-365 for Business suunnitelma
 
-Kun liiketoimintasi muuttuu tai tarvitsee lisää Office 365: n ominaisuuksia, voit vaihtaa suunnitelmia.
+Jos liiketoimintasi muuttuu, tai tarvitsevat Lisää Office 365: n ominaisuuksia, voit päivittää uuden suunnitelman.
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
+1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-2. **Valitsin suunnitelmia** valita tarkastella uusia suunnitelmia, jotka ovat käytettävissä.
+2. Valitse tilaus, jonka haluat päivittää.
 
-3. Valitse uusi kokonaiskustannuksia kuukaudessa suunnitelma. Muista lukea avaimen tiedot ja valitse **Seuraava** ulos.
+3. Tilauksen tiedot-sivu Valitse **Päivitä**.
 
-Kaikissa tilanteissa ei tue suunnitelmien Siirry-painiketta. Joissakin tapauksissa voit ehkä vaihtaa suunnitelmia manuaalisesti.
-  
-**Suunnitelmien Siirry** -painike ei ole käytettävissä, jos olet yrittää [vaihtaa suunnitelmia manuaalisesti](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) tai tukihenkilö puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
-  
-Käytät uusia hallintakeskukseen? Katso uudet vaiheet [päivittää eri](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Löytää suunnitelma, jonka haluat päivittää, ja valitse **Päivitä** -painiketta.
+
+5. Määrän käyttöoikeuksia, joita tarvitaan, valitse, haluatko maksaa kuukausittain tai koko vuoden ja sitten valitsemalla **Poistuminen**.
+   
+Lisätietoja [päivityksen eri suunnitelma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
