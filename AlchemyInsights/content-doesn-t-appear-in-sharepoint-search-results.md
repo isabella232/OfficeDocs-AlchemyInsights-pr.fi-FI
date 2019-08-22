@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363800"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517028"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sisältö ei näy hakutuloksissa SharePoint
 
@@ -28,7 +28,7 @@ Suorita seuraavat vianmääritysvaiheet, kun odotettu sisältö ei näy etsinnä
 
 3. Varmista, että sivun, tiedoston tai mukautetun sivun asettelu julkaistaan **pääversio.** Vaiheen 3- [haku ei palauta kaikkia tuloksia SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Varmista, että käyttäjällä on **oikeudet** tarkastella sisältöä. Ohjeiden [ymmärtäminen käyttöoikeustasoja SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Varmista, että käyttäjällä on **oikeudet** tarkastella sisältöä. Ohjeiden [ymmärtäminen käyttöoikeustasoja SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Jos haku rakennetta on muutettu lisäämällä uusi hallittu ominaisuus, hallitun ominaisuuden muokkaamalla tai poistamalla sitten pyytää hallitun ominaisuuden indeksointi ja indeksoida uudelleen vaaditaan. **Indeksoi** sisältö [manuaalisesti pyytää Läpikäymiselle ja indeksoinnille uudelleen sivuston kirjasto tai luettelo](https://docs.microsoft.com/sharepoint/crawl-site-content)-ohjeiden mukaan. Tämä saattaa kestää jonkin aikaa, odota 24 tuntia, ennen kuin tarkistat tulokset uudelleen.
 

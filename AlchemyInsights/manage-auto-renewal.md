@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389789"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542435"
 ---
 # <a name="manage-recurring-billing"></a>Toistuva laskutuksen hallinta
 
-Voit hallita toistuva Laskutus, Vaihda **Toistuva Laskutus** , käyttöön tai poistaa käytöstä.
+Poista toistuva Laskutus käyttöön tai poistaa käytöstä Microsoft 365 admin Centerissä.
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
+1. Siirry **laskutuksen** > [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulta.
 
-2. Valitse ylläpitosopimus, jolle haluat hallita toistuva laskutus.
+2. Valitse **Laskutus**, **Renews-** tai **Expiring-** kohdasta **Muokkaa**.
 
-3. Vaihda **Toistuva Laskutus** -Ota **käyttöön** tai **poistaa käytöstä**.
+3. **Toistuva Laskutus asetukset** -ruudussa Valitse **Toistuva Laskutus käytöstä** voit poistaa sen käytöstä. Jos **Toistuva Laskutus** ei ole jo käytössä, valitse **kuukausittain** tai **kerran** käyttöön.
 
-Saat lisätietoja, [Ota toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Valitse **Lähetä muuttaa**.
+
+Saat lisätietoja, [Ota toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

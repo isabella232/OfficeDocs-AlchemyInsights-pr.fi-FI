@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383094"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539098"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Tunnistaa, kun postilaatikoita ulkoisen sähköpostin edelleenlähetys on määritetty
 
-Kun käyttäjä määrittää postilaatikkoon ulkoisen sähköpostin edelleenlähetys, toimintaa tarkistetaan osana **Set-Mailbox** -cmdlet-komennolla. Voit tarkastella tehtävän tarkastuksen lokista etsintää käyttämällä suojauksen & Compliance Centeriin.
+Kun Office 365-käyttäjä määrittää postilaatikkoon ulkoisen sähköpostin edelleenlähetys, toimintaa tarkistetaan osana **Set-Mailbox** -cmdlet-komennolla. Voit tarkastella tehtävän tarkastuksen lokista etsintää käyttämällä suojauksen & Compliance Centeriin.
 
-1. Kirjautua [Office 365-suojauksen & Compliance Centeriin](https://protection.office.com/)
+1. Kirjautua sisään [Office 365 & noudattamista Tietoturvakeskus](https://protection.office.com/).
 
-2. **Etsi ja tutkimus** ja valitse **Valvo lokista etsintää**.
+2. Siirry **Etsinnän** > **Audit log** etsintäsivun.
 
 3. Valitse **aloituspäivä** - ja **päättymispäivä** -kenttiin päivämääräalue. Sinun ei tarvitse määrittää käyttäjänimi. Tarkista tulokset **kaikista** **aktiviteetit** -kentässä on määritetty.
 

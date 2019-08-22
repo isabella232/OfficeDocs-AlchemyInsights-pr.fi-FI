@@ -10,13 +10,15 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 5b1da07d0f255fc12af5eadbcb89ea53273537c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32365463"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496413"
 ---
+# <a name="change-your-password-in-outlook"></a>Outlook-salasanan vaihtaminen
+
 Jos olet unohtanut salasanasi, siirry [Microsoft-tilin salasanan sivulle](https://go.microsoft.com/fwlink/p/?linkid=841909). Muussa tapauksessa noudata seuraavia ohjeita.
   
 1. Valitse nimi tai profiilin kuvan oikeassa yläkulmassa ja valitse **Näytä tili**.

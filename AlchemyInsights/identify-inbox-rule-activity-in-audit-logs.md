@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383022"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539162"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Määritä Saapuneet-kansion säännön toimintaa seurantalokeja
 
-Suojauksen & Compliance Centeriin audit log haun avulla voit tarkastella Saapuneet-kansion säännön tapahtumat (luominen, muokkaaminen ja poistaminen Saapuneet-kansion sääntöjä).
+Compliance Centerin Office 365 Security-& valvonta kirjaa haun avulla voit tarkastella Saapuneet-kansion säännön tapahtumat (luominen, muokkaaminen ja poistaminen Saapuneet-kansion sääntöjä).
 
-1. Kirjautua [Office 365-suojauksen & Compliance Centeriin](https://protection.office.com/)
+1. Kirjautua sisään [Office 365 & noudattamista Tietoturvakeskus](https://protection.office.com/).
 
-2. **Etsi ja tutkimus** ja valitse **Valvo lokista etsintää**.
+2. Siirry **Etsinnän** > **Audit log** etsintäsivun.
 
 3. Valitse **aloituspäivä** - ja **päättymispäivä** -kenttiin päivämääräalue.
 
