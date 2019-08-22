@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364010"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516668"
 ---
-# <a name="control-creation-of-o365-groups"></a>Ohjausobjektin O365-ryhmien luominen
+# <a name="control-creation-of-office-365-groups"></a>Ohjausobjektin luominen Office 365: n ryhmät
 
-Oletusarvon mukaan kaikki yrityksen käyttäjät voivat O365 ryhmien luomiseen. Tarvittaessa pystyt muuttaa ja delegoida oikeuden luoda joukko ihmisiä yrityksessäsi ryhmien O365. Huomaa, että tällä on vaikutusta O365 tahansa palvelusta (esimerkiksi Outlook, Tiimit, suunnittelija ja niin edelleen) ryhmien luomisen.
+Oletusarvon mukaan yrityksen sisällä ‑käyttäjät eivät voi luoda ryhmiä. Tarvittaessa pystyt muuttaa ja delegoida oikeuden luoda ryhmiä ihmisiä yrityksen joukkoon. Huomaa, että tällä on vaikutusta luomisen ryhmien kaikki Office 365-palvelusta (esimerkiksi Outlook, Tiimit, suunnittelija ja niin edelleen).
   
 Ohjeet: [kuka voi luoda Office 365-ryhmien hallinta](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
