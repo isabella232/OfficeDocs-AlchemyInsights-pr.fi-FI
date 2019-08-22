@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397931"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505828"
 ---
 # <a name="outlook-search-not-indexing"></a>Indeksointi ei ole Outlook-haku
 
 Olemme tietoisia Outlook haku ongelmat liittyvät viimeisimmät tietoturvapäivitykset Windows.
   
-Etsittäessä Outlookin, voit saada tämän virheen: ** jotain lähteen ja hakua ei voi suorittaa **, tai **hakutulokset voivat olla puutteelliset, koska kohteiden indeksointi on kesken**. Fix julkaistiin Windows valinnaisena päivityksenä. Asenna se vastaa näet ongelma-Windows-versio: 
+Etsittäessä Outlookin, näyttöön voi tulla jokin näistä virheistä: **jotain lähteen ja hakua ei voi suorittaa**tai **hakutulokset voivat olla puutteelliset, koska kohteiden indeksointi on kesken**. Fix julkaistiin Windows valinnaisena päivityksenä. Asenna se vastaa näet ongelma-Windows-versio: 
   
 > [Windows 7 - 27. kesäkuuta 2017 päivittäminen](https://support.microsoft.com/kb/4022168.aspx)
     
