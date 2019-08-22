@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403672"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527468"
 ---
 # <a name="enable-multi-factor-authentication"></a>Monitasoisen todennuksen ottaminen käyttöön
 
-1. Siirry **käyttäjät** \> **Aktiiviset käyttäjät**
+Ota käyttöön Microsoft 365 admin Centerissä monitasoisen todennuksen seuraavasti:
+
+1. Siirry **käyttäjät** \> **Aktiiviset käyttäjät** -sivulla.
     
-2. **Lisää** \> **asennus Azure monitasoisen todennuksen**. 
+2. Valitse sivun yläosassa **monitasoisen todennuksen**. 
     
-3. Etsi käyttäjä tai käyttäjät, jotka haluat ottaa käyttöön MFA. Jotta voit tarkastella kaikkia käyttäjiä, saatat joutua muuttamaan monitasoisen todennuksen tilaa näkymän yläosassa.
+3. Etsi käyttäjä tai käyttäjät, jotka haluat ottaa käyttöön monitasoisen todennuksen. Jos haluat nähdä kaikki käyttäjät, saatat joutua muuttamaan yläreunassa **monitasoisen todennuksen tilan** suodatus.
     
-4. Tarkista valintaruutu, jonka haluat ottaa käyttöön käyttäjien.
+4. Valitse valintaruutu, jonka haluat ottaa käyttöön käyttäjien.
     
-5.  Oikean käyttäjän tiedot-ruudusta-kohdassa **Pikatoiminnot** sinun Ota Katso ja käyttäjäasetusten hallinta. Valitse **Ota käyttöön**. 
+5.  Valitse **Ota käyttöön**oikean käyttäjän tiedot-ruudussa-kohdassa **Pikatoiminnot**. 
     
-6. -Valintaikkunassa, joka avautuu, **Valitse monitasoisen todennuksen käyttöön**. 
+6. Valintaikkunassa, joka avautuu Valitse **monitasoisen todennuksen käyttöön**. 
     
 
