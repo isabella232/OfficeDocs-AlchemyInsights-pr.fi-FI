@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
-ms.openlocfilehash: 11211c168cbfb9d65e9ff8c510cdb183b416e349
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0f2203eefaf52a1445fc4eb72a887aac78be1d5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396107"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505504"
 ---
-# <a name="calendar-permissions"></a><span data-ttu-id="6c1aa-102">Kalenterin käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="6c1aa-102">Calendar permissions</span></span>
+# <a name="calendar-permissions"></a><span data-ttu-id="3fd3f-102">Kalenterin käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="3fd3f-102">Calendar permissions</span></span>
 
-<span data-ttu-id="6c1aa-103">Jos sinulla on ongelmia kalenterin tai muut kalenterit, käytä [Microsoftin tuotetukeen ja Office 365: n hallinnan palautuminen](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="6c1aa-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="3fd3f-103">Jos sinulla on ongelmia kalenterin tai muut kalenterit, käytä [Microsoftin tuotetukeen ja Office 365: n hallinnan palautuminen](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="3fd3f-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="6c1aa-104">Saat lisätietoja kokoustyötilan on [jakaa Outlook-kalenterin muiden kanssa](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="6c1aa-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
+<span data-ttu-id="3fd3f-104">Saat lisätietoja kokoustyötilan on [jakaa Outlook-kalenterin muiden kanssa](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="3fd3f-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
   
 

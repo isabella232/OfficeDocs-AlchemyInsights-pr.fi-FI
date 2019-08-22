@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 87b42d343fc93304254bf55bca03083c2f75bab6
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065634"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518792"
 ---
-# <a name="change-your-profile-name"></a><span data-ttu-id="a426b-102">Muuta profiilinimi</span><span class="sxs-lookup"><span data-stu-id="a426b-102">Change your profile name</span></span>
+# <a name="change-your-profile-name"></a><span data-ttu-id="f0203-102">Muuta profiilinimi</span><span class="sxs-lookup"><span data-stu-id="f0203-102">Change your profile name</span></span>
 
-1. <span data-ttu-id="a426b-103">Siirry [Microsoftin oma tili info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="a426b-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="f0203-103">Siirry [Microsoftin oma tili info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="f0203-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
     
-2. <span data-ttu-id="a426b-104">Valitse **Muokkaa nimi**.</span><span class="sxs-lookup"><span data-stu-id="a426b-104">Select **Edit name**.</span></span> 
+2. <span data-ttu-id="f0203-104">Valitse **Muokkaa nimi**.</span><span class="sxs-lookup"><span data-stu-id="f0203-104">Select **Edit name**.</span></span> 
     
-3. <span data-ttu-id="a426b-105">Anna etu- ja Sukunimi ja valitse **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="a426b-105">Enter a first name and last name, and select **Save**.</span></span> 
+3. <span data-ttu-id="f0203-105">Anna etu- ja Sukunimi ja valitse **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="f0203-105">Enter a first name and last name, and select **Save**.</span></span> 
     
-<span data-ttu-id="a426b-106">Odota 24 tuntia muutokset tulevat voimaan profiilinimi.</span><span class="sxs-lookup"><span data-stu-id="a426b-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
+<span data-ttu-id="f0203-106">Odota 24 tuntia muutokset tulevat voimaan profiilinimi.</span><span class="sxs-lookup"><span data-stu-id="f0203-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
   
-<span data-ttu-id="a426b-107">Lisätietoja on kohdassa [profiilin valokuvan tai Outlook.com nimen muuttaminen](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="a426b-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
+<span data-ttu-id="f0203-107">Lisätietoja on kohdassa [profiilin valokuvan tai Outlook.com nimen muuttaminen](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="f0203-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
   
 
