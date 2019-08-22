@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387237"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519667"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365-tilauksesi peruutetaan?
 
@@ -30,4 +30,4 @@ Valitettavasti nähdä sinut go, mutta tässä on vaihtoehdot voit peruuttaa til
 
 - Jos sinulla on enemmän kuin 25 määritetyt käyttöoikeudet, voit poistaa käyttäjien kunnes on vähemmän kuin 25 tai tukihenkilö voi puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
 
-- Lisätietoja tilauksen peruuttaminen, tai vaiheittaiset ohjeet on ohjeaiheessa [peruuttaa tilauksesi](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Lisätietoja tilauksen peruuttaminen, tai vaiheittaiset ohjeet on ohjeaiheessa [peruuttaa tilauksesi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364649"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516740"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Luo SharePoint-pääsivusto
 
@@ -27,7 +27,7 @@ ms.locfileid: "35364649"
 3. Kirjoita näyttönimi pääsivusto ja määrittää yksittäisiä käyttäjiä tai suojausryhmiä, jotka haluat sallia sivustot liitetään keskittimeen.
 
     > [!NOTE]
-    >  Suosittelemme, että valitset Viestimissivusto tai ryhmäsivuston, joka käyttää uutta mallia. Jos käytät perinteistä työryhmäsivusto, keskitin siirtyminen näkyy Moderni sivuilla ja keskittimen asetukset näkyvät vain Moderni sivuilla. sivustot, jotka on jo liitetty toiseen keskittimeen > ei voi rekisteröidä keskitettyyn sivustoon.
+    >  Suosittelemme, että valitset Viestimissivusto tai ryhmäsivuston, joka käyttää uutta mallia. Jos käytät perinteistä työryhmäsivusto, keskitin siirtyminen näkyy Moderni sivuilla ja keskittimen asetukset näkyvät vain Moderni sivuilla. Sivustot, jotka on jo liitetty toiseen keskittimeen ei voi rekisteröidä keskitettyyn sivustoon.
   
 [Lisätietoja sivustojen keskitin](https://go.microsoft.com/fwlink/?linkid=869149)
   
