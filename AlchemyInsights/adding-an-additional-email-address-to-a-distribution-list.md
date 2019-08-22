@@ -13,21 +13,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 1ab653b16ce964692f5536f0f1ea774727535dfc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358178"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494776"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a><span data-ttu-id="1146a-102">Lisää jakeluryhmän sähköpostiosoite</span><span class="sxs-lookup"><span data-stu-id="1146a-102">Add an email address for a distribution group</span></span>
+# <a name="add-an-email-address-for-a-distribution-group"></a><span data-ttu-id="4de8d-102">Lisää jakeluryhmän sähköpostiosoite</span><span class="sxs-lookup"><span data-stu-id="4de8d-102">Add an email address for a distribution group</span></span>
 
-<span data-ttu-id="1146a-103">Jos haluat lisätä aiemmin luodun jakeluryhmän s-postiosoitteet, toimi seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="1146a-103">To add email addresses for an existing distribution group, follow these steps:</span></span>
+<span data-ttu-id="4de8d-103">Jos haluat lisätä aiemmin luodun jakeluryhmän s-postiosoitteet, toimi seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="4de8d-103">To add email addresses for an existing distribution group, follow these steps:</span></span>
 
-1. <span data-ttu-id="1146a-104">Siirry [hallintakeskukseen Exchange](https://outlook.office365.com/ecp/) **vastaanottajien** \> **ryhmät**.</span><span class="sxs-lookup"><span data-stu-id="1146a-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
+1. <span data-ttu-id="4de8d-104">Siirry [hallintakeskukseen Exchange](https://outlook.office365.com/ecp/) **vastaanottajien** \> **ryhmät**.</span><span class="sxs-lookup"><span data-stu-id="4de8d-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
 
-2. <span data-ttu-id="1146a-105">Valitse muokattava jakeluryhmä ja valitse sitten **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="1146a-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
+2. <span data-ttu-id="4de8d-105">Valitse muokattava jakeluryhmä ja valitse sitten **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="4de8d-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
 
-3. <span data-ttu-id="1146a-106">Siirry ryhmän ominaisuudet- **Sähköpostin asetukset** -välilehteä ja lisää sähköpostiosoitteet.</span><span class="sxs-lookup"><span data-stu-id="1146a-106">In the properties of the group, go to the **Email options** tab to add email addresses.</span></span> 
+3. <span data-ttu-id="4de8d-106">Siirry ryhmän ominaisuudet- **Sähköpostin asetukset** -välilehteä ja lisää sähköpostiosoitteet.</span><span class="sxs-lookup"><span data-stu-id="4de8d-106">In the properties of the group, go to the **Email options** tab to add email addresses.</span></span> 
 
-<span data-ttu-id="1146a-107">Lisätietoja [Sähköpostin asetukset](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span><span class="sxs-lookup"><span data-stu-id="1146a-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span></span>
+<span data-ttu-id="4de8d-107">Lisätietoja [Sähköpostin asetukset](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span><span class="sxs-lookup"><span data-stu-id="4de8d-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span></span>
