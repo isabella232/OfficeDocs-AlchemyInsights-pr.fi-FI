@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115592"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513680"
 ---
-# <a name="delete-a-sharepoint-site"></a>SharePoint-sivuston poistaminen
-**Poista hallintakeskukseen uuden SharePoint-sivustoja** Voit poistaa sekä perinteinen että Moderni sivustojen avulla uusi SharePoint-hallintakeskukseen. Valitse **aktiiviset sivustot**, sivusto ja valitse sitten **Poista**. [Näytä ja palauttaminen poistaa hallintakeskukseen uuden SharePoint-sivustoja](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)Valitse **sivustoja**. Lisätietoja Katso [hallintakeskukseen uuden SharePoint-sivuston poistaminen](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Hallintakeskukseen uuden SharePoint-sivuston poistaminen
+
+Voit poistaa sekä perinteinen että Moderni sivustojen avulla uusi SharePoint-hallintakeskukseen. Valitse **aktiiviset sivustot**, sivusto ja valitse sitten **Poista**. [Näytä ja palauttaminen poistaa hallintakeskukseen uuden SharePoint-sivustoja](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)Valitse **sivustoja**. Lisätietoja Katso [hallintakeskukseen uuden SharePoint-sivuston poistaminen](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Tärkeää:** Jos sivusto on osa säilytyskäytäntö, ei voi yrittää poistaa sen, ennen kuin sivusto poistetaan [Security &amp; käytännön noudattamista hallintakeskukseen](https://protection.office.com/?rfr=AdminCenter#/homepage). Saat lisätietoja [Yleistä säilytyskäytäntöjä](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 

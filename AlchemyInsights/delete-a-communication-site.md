@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405805"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514121"
 ---
 # <a name="delete-a-communication-site"></a>Viestintä-sivuston poistaminen
 
@@ -25,14 +25,12 @@ Voit poistaa Viestimissivusto tekemällä seuraavat toimet:
   
 3. **Sivuston tietoja**, valitse Poista **Tämä sivusto**ja valitse sitten **Poista**. 
   
-Järjestelmänvalvojat voit myös poistaa Viestimissivusto Moderni Admin Centerin seuraavasti: 
+Järjestelmänvalvojat voit myös poistaa Viestimissivusto uusi admin Centerin seuraavasti: 
   
-1. Kokeile uutta hallintakeskukseen klikkaamalla **kokeile nyt** -painiketta oikeassa yläkulmassa. 
+1. Valitse **aktiiviset sivustot** vasemmalla puolella. 
   
-2. Valitse **aktiiviset sivustot**. 
+2. Valitse poistettava sivusto vieressä ja yläreunan valikosta **Poista** -vaihtoehto tulee näkyviin. 
   
-3. Valitse poistettava sivusto vieressä ja yläreunan valikosta **Poista** -vaihtoehto tulee näkyviin. 
-  
- **Huomautus:** Jos haluat poistaa pysyvästi sivuston tietoliikenne (poistetaan roskakorista) avulla voit käyttää uudelleen sivuston URL-osoite, niin [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) arvioida Roskakori ja [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) voit poistaa sivuston roskakorista. 
+ **Huomautus:** Jos haluat poistaa pysyvästi sivuston tietoliikenne (poistetaan roskakorista) niin voit käyttää uudelleen sivuston URL-osoite, Roskakori- ja [Poista-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) , jos haluat poistaa sivuston roskakori arvioi [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) avulla. 
   
 

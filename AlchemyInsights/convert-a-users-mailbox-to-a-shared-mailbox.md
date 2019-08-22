@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516164"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Käyttäjän postilaatikon muuntaminen jaetuksi postilaatikoksi
 
-Kun muunnat käyttäjän postilaatikon jaetuksi postilaatikoksi, kaikki sähköpostit ja kalenteri säilytetään. Nyt ne kuitenkin ovat jaetussa postilaatikossa, jossa yhden henkilön sijasta useammat henkilöt pääsevät käsiksi niihin. Myöhemmin voit muuntaa jaetun postilaatikon takaisin käyttäjän postilaatikkoon (yksityinen).
+Kun muunnat yksittäisen käyttäjän postilaatikko jaetusta postilaatikosta, kaikki olemassa olevat sähköpostin ja kalenterikohteet säilyvät jaetun postilaatikon, jossa useat henkilöt voivat käyttää. Voit myös muuntaa jaetun postilaatikon käyttäjän postilaatikkoon (yksityinen) takaisin.
   
-[Lisätietoja...](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[Opi lisää...](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   
