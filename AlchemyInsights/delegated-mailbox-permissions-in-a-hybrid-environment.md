@@ -12,14 +12,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 3f5bac5c8382fccf8526a34e7b1e487c2b515789
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bb2b82ab82ae8caaf14bf6fecc9c9f3ebd8f6797
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363110"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514292"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="55f77-102">Delegoitu postilaatikon käyttöoikeudet hybridi-ympäristössä</span><span class="sxs-lookup"><span data-stu-id="55f77-102">Delegated mailbox permissions in a hybrid environment</span></span>
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="cdbb7-102">Delegoitu postilaatikon käyttöoikeudet hybridi-ympäristössä</span><span class="sxs-lookup"><span data-stu-id="cdbb7-102">Delegated mailbox permissions in a hybrid environment</span></span>
 
-<span data-ttu-id="55f77-103">Exchangen paikallisen organisaation asennettuna olevan version joudut ehkä määrittämään delegoitujen postilaatikon käyttöoikeudet organisaation tiloissa ja Office 365: ssä Exchange Onlinen välillä joitakin ylimääräisiä toimenpiteitä.</span><span class="sxs-lookup"><span data-stu-id="55f77-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="55f77-104">Saat lisätietoja delegoidut oikeudet määrittäminen [Tukemaan delegoitujen postilaatikon käyttöoikeudet hybridi käyttöönoton määrittäminen Exchange](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)Tutustu.</span><span class="sxs-lookup"><span data-stu-id="55f77-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="cdbb7-103">Exchangen paikallisen organisaation asennettuna olevan version joudut ehkä määrittämään delegoitujen postilaatikon käyttöoikeudet organisaation tiloissa ja Office 365: ssä Exchange Onlinen välillä joitakin ylimääräisiä toimenpiteitä.</span><span class="sxs-lookup"><span data-stu-id="cdbb7-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="cdbb7-104">Saat lisätietoja delegoidut oikeudet määrittäminen [Tukemaan delegoitujen postilaatikon käyttöoikeudet hybridi käyttöönoton määrittäminen Exchange](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)Tutustu.</span><span class="sxs-lookup"><span data-stu-id="cdbb7-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
   

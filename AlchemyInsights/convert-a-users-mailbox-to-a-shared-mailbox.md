@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516164"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="a0d10-102">Käyttäjän postilaatikon muuntaminen jaetuksi postilaatikoksi</span><span class="sxs-lookup"><span data-stu-id="a0d10-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="e9c6d-102">Käyttäjän postilaatikon muuntaminen jaetuksi postilaatikoksi</span><span class="sxs-lookup"><span data-stu-id="e9c6d-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="a0d10-103">Kun muunnat käyttäjän postilaatikon jaetuksi postilaatikoksi, kaikki sähköpostit ja kalenteri säilytetään.</span><span class="sxs-lookup"><span data-stu-id="a0d10-103">When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained.</span></span> <span data-ttu-id="a0d10-104">Nyt ne kuitenkin ovat jaetussa postilaatikossa, jossa yhden henkilön sijasta useammat henkilöt pääsevät käsiksi niihin.</span><span class="sxs-lookup"><span data-stu-id="a0d10-104">Only now it's in a shared mailbox where several people will be able to access it instead of one person.</span></span> <span data-ttu-id="a0d10-105">Myöhemmin voit muuntaa jaetun postilaatikon takaisin käyttäjän postilaatikkoon (yksityinen).</span><span class="sxs-lookup"><span data-stu-id="a0d10-105">At a later date, you can convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="e9c6d-103">Kun muunnat yksittäisen käyttäjän postilaatikko jaetusta postilaatikosta, kaikki olemassa olevat sähköpostin ja kalenterikohteet säilyvät jaetun postilaatikon, jossa useat henkilöt voivat käyttää.</span><span class="sxs-lookup"><span data-stu-id="e9c6d-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="e9c6d-104">Voit myös muuntaa jaetun postilaatikon käyttäjän postilaatikkoon (yksityinen) takaisin.</span><span class="sxs-lookup"><span data-stu-id="e9c6d-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-[<span data-ttu-id="a0d10-106">Lisätietoja...</span><span class="sxs-lookup"><span data-stu-id="a0d10-106">Read more...</span></span>](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[<span data-ttu-id="e9c6d-105">Opi lisää...</span><span class="sxs-lookup"><span data-stu-id="e9c6d-105">Learn more...</span></span>](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   
