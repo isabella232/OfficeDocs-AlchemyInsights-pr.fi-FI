@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385361"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522500"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Mac-käyttäjiä Office käyttöoikeuksien määrittäminen
 
-- [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla Microsoft 365 hallintakeskukseen, tai valitse **käyttäjät** \> **aktiivisia käyttäjiä**.
+1. Siirry hallintakeskukseen, **käyttäjien** \> [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla.
 
-- Valitse sen käyttäjän nimen vieressä oleva valintaruutu, jolle haluat määrittää käyttöoikeuden.
+2. Valitse käyttäjä, jolle haluat määrittää, muuttaa tai poistaa käyttöoikeuden nimi.
 
-- Valitse oikealta **Tuotteen käyttöoikeudet** -rivillä **Muokkaa**.
+3. Valitse **käyttöoikeuksien ja Apps** -välilehdessä käyttöoikeudet, jotka haluat määrittää tälle käyttäjälle.
 
-- **Tuotteen käyttöoikeuden**s-ruudussa Siirry **-** sijainti, jonka haluat määrittää tälle käyttäjälle käyttöoikeus Ota.
+    Oletusarvoisesti kaikki kyseiseen käyttöoikeuteen liittyvät palvelut määritetään käyttäjälle automaattisesti. Jos haluat rajoittaa käyttäjän käytettävissä oleviin palveluihin, poista valintaruudun valinta, jos palveluita, joita et halua, että käyttäjällä on.
 
-- Valitse **Tuotteen käyttöoikeudet** -ruudun alaosassa **Tallenna** \> **Sulje** \> **Sulje**.
+4. Ruudun alaosassa Valitse **Tallenna muutokset**.
 
 Lisätietoja: [Office 365 for business käyttäjien käyttöoikeuksien määrittäminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

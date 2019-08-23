@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356594"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553429"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Peruuttaa tai korvata sähköpostiviestin
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Peruuttaa tai korvata sähköpostiviestin Office 365: ssä
 
 - Voit **vain palauttaa viestit, jotka lähetetään organisaation henkilöt**. Jos viesti lähetettiin Gmail-osoite, esimerkiksi et pysty peruuttamaan sen.
 - Voit **vain peruutus kulku 2016 Outlook PC**. Jos käyttäjä lähettää viestin käyttäen Mac Outlook tai Outlook Web, se ei voi peruuttaa.
 - Jos tietokone on järjestelmänvalvojan, voit **peruuttaminen viestien PowerShell käyttämällä käyttäjien puolesta**. Ei voi peruuttaa viestien hallintakeskukseen. Vieritä alas ”Hae ja poista viestejä organisaation” lisätietoja.
 
-***Peruuttaa tai korvata lähettämäsi sähköpostiviesti***
+**Peruuttaa tai korvata lähettämäsi sähköpostiviesti**
 
 1. Valitse kansioruudusta Outlook-ikkunan vasemmassa reunassa Lähetetyt-kansioon.
 2. Avaa viesti, jonka haluat peruuttaa. Avaa viesti kaksoisnapsauttamalla. Valitsemalla viesti niin se näkyy lukuruudussa ei salli viestin peruuttaminen.

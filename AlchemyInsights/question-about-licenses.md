@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388453"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553573"
 ---
-# <a name="question-about-licenses"></a>Kysymys lisensseistä
+# <a name="questions-about-your-office-365-license"></a>Kysyttävää Office 365 käyttöoikeuden
 
 Jos haluat tietää, kuinka monta olet ostanut käyttöoikeutta tai ylläpitosopimustapahtumia määritetään kuinka monta käyttöoikeutta:
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.
+1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-2. Valitse tilaus, jos haluat tietää enemmän.
+2. Haluat tietää enemmän tilauksen nimeä näet määrä maksat käyttöoikeuksia ja paljonko on määritettävä käytettävissä.
 
-3. Kortin tilauksen vasemmalla puolella on lisätietoja käyttöoikeuksista:
-
-  - **Ostettu** määrä on maksat License-käyttöoikeuksien lukumäärä.
-
-  - **Vastuuhenkilö** on määritetty käyttäjälle käyttöoikeuksien määrää.
-
-4. Jos haluat lisätä enemmän käyttöoikeuksia tai jos olet liian monet, valitse **Lisää tai poista käyttöoikeudet** säätää ostettu.
+Jos haluat lisätä enemmän käyttöoikeuksia tai jos olet liian monet, valitse **Lisää tai poista käyttöoikeudet** säätää ostettu.

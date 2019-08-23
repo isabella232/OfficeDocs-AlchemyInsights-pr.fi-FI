@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444769"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555230"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisällön etsimistä ja eDiscovery-hakujen suorittaminen
 
@@ -32,6 +32,6 @@ Sisällön haku Security & Compliance Centerin etsiä nopeasti sähköposti post
 4. Syötä pakolliset hakuehdot avainsanoja ja sisällön sijainneissa.  
 5. Valitse **& Suorita Tallenna** haku nimen, käynnistä se ja Esikatsele tuloksia.
 
-Yksityiskohtaiset ohjeet sisällön haut, tulokset viedään ja eDiscovery tapauksissa tallentamaan tietoja, luodaan on [Sisällön haku](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) - ja [eDiscovery tapauksissa](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Yksityiskohtaiset ohjeet sisällön haut, tulokset viedään ja eDiscovery tapauksissa tallentamaan tietoja, luodaan on [Sisällön haku](https://docs.microsoft.com/office365/securitycompliance/content-search) - ja [eDiscovery tapauksissa](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Ymmärrät olla tietoinen sisällöstä etsiminen tarkastelemalla sen [vaatimukset ja rajoitukset](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) ja [tutkii osittain Indeksoidut kohteet](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja muiden tuloksia.
+Ymmärrät olla tietoinen sisällöstä etsiminen tarkastelemalla sen [vaatimukset ja rajoitukset](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ja [tutkii osittain Indeksoidut kohteet](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ja muiden tuloksia.
