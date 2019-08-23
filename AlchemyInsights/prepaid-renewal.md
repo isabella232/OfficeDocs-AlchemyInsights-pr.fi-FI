@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388597"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554618"
 ---
-# <a name="prepaid-renewal"></a><span data-ttu-id="e49d2-102">Ennakkoon uudistaminen</span><span class="sxs-lookup"><span data-stu-id="e49d2-102">Prepaid renewal</span></span>
+# <a name="prepaid-office-365-renewal"></a><span data-ttu-id="952ee-102">Ennakkoon Office 365: n uudistaminen</span><span class="sxs-lookup"><span data-stu-id="952ee-102">Prepaid Office 365 renewal</span></span>
 
-1. <span data-ttu-id="e49d2-103">Hallintakeskukseen, siirry **laskutuksen** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla.</span><span class="sxs-lookup"><span data-stu-id="e49d2-103">In the Admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="952ee-103">Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.</span><span class="sxs-lookup"><span data-stu-id="952ee-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="e49d2-104">Valitse haluat laajentaa, valitse **Laajenna**sitten ennakkoon maksettu tilaus.</span><span class="sxs-lookup"><span data-stu-id="e49d2-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
+2. <span data-ttu-id="952ee-104">Etsi tilaus, jonka haluat laajentaa.</span><span class="sxs-lookup"><span data-stu-id="952ee-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="952ee-105">**Laskutus** -osassa Valitse **Laajenna päättymispäivä**.</span><span class="sxs-lookup"><span data-stu-id="952ee-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="e49d2-105">Valitsemalla vaihtoehdon saat **Product Key-tunnus**.</span><span class="sxs-lookup"><span data-stu-id="e49d2-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="e49d2-106">(Jos tämä oli ostanut jälleenmyyjällä product key-on ehkä mahdollisuus laajentaa muiden maksutapojen kanssa.)</span><span class="sxs-lookup"><span data-stu-id="e49d2-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
+3. <span data-ttu-id="952ee-106">Ruudussa **Laajenna tilauksen** **käyttö uudet ja käyttämättömät product key-tunnuksen**, valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="952ee-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="e49d2-107">Kirjoita product key-tunnus.</span><span class="sxs-lookup"><span data-stu-id="e49d2-107">Enter the product key.</span></span>
+4. <span data-ttu-id="952ee-107">Kirjoita product key-tunnus ja valitse sitten **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="952ee-107">Enter the product key, then select **Next**.</span></span>
 
-5. <span data-ttu-id="e49d2-108">Varmista, että tiedot ovat oikein ja valitse sitten **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="e49d2-108">Make sure the information is correct, then choose **Next**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="952ee-108">Jos sinulla on useampi kuin yksi product Key-tunnusta, voit valita **toisen product key-tunnuksen lisääminen** niiden kirjoittamisesta.</span><span class="sxs-lookup"><span data-stu-id="952ee-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-6. <span data-ttu-id="e49d2-109">Valitse valintanappi laajentaa aiemmat käyttöoikeutesi päättymispäivä ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="e49d2-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
+5. <span data-ttu-id="952ee-109">Tarkistaa tilaustietosi ja valitse sitten **Redeem**.</span><span class="sxs-lookup"><span data-stu-id="952ee-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="e49d2-110">Käytät uusia hallintakeskukseen?</span><span class="sxs-lookup"><span data-stu-id="e49d2-110">Are you using the new admin center?</span></span> <span data-ttu-id="e49d2-111">Saat uusia vaiheita, [lisätä käyttöoikeuksia tai laajentaa tilaus maksetaan product key-tunnuksen avulla](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="e49d2-111">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="952ee-110">Katso lisätietoja, [lisätä käyttöoikeuksia tai laajentaa tilaus maksetaan product key-tunnuksen avulla](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="952ee-110">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

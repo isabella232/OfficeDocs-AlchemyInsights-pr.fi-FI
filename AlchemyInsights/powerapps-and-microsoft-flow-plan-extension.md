@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2ed0157aff72c42a63898b03cdf8bd5ea3f980a5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371187"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554710"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="e831b-102">PowerApps ja Microsoft Flow suunnitelman tunniste</span><span class="sxs-lookup"><span data-stu-id="e831b-102">PowerApps and Microsoft Flow plan extension</span></span>
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="3a3a7-102">PowerApps ja Microsoft Flow suunnitelman tunniste</span><span class="sxs-lookup"><span data-stu-id="3a3a7-102">PowerApps and Microsoft Flow plan extension</span></span>
 
-<span data-ttu-id="e831b-103">Jos aiot pyytää suunnitelman laajennus **Microsoft virtauksen** tai **PowerApps** ja että vuokralaisen on jo aktiiviset käyttäjät on jokin seuraavista ominaisuuksista, ei ole tarpeen tuen pyyntö tiedostoon.</span><span class="sxs-lookup"><span data-stu-id="e831b-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
+<span data-ttu-id="3a3a7-103">Jos aiot pyytää suunnitelman laajennus **Microsoft virtauksen** tai **PowerApps** ja että vuokralaisen on jo aktiiviset käyttäjät on jokin seuraavista ominaisuuksista, ei ole tarpeen tuen pyyntö tiedostoon.</span><span class="sxs-lookup"><span data-stu-id="3a3a7-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
 
-- <span data-ttu-id="e831b-104">Luominen ja mukautettuja yhdistämistoimintoja PowerApps ja Microsoftin Flow julkistaminen</span><span class="sxs-lookup"><span data-stu-id="e831b-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
-- <span data-ttu-id="e831b-105">Mukautetut HTTP-toiminnot integroitu työnkulku SharePoint- ja OneDrive ulkopuolella</span><span class="sxs-lookup"><span data-stu-id="e831b-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
-- <span data-ttu-id="e831b-106">Paikalliseen data-yhdyskäytävän kautta paikalliseen tietojen integrointi</span><span class="sxs-lookup"><span data-stu-id="e831b-106">Integration of on-premises data through the on-premises  data gateway</span></span>
+- <span data-ttu-id="3a3a7-104">Luominen ja mukautettuja yhdistämistoimintoja PowerApps ja Microsoftin Flow julkistaminen</span><span class="sxs-lookup"><span data-stu-id="3a3a7-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
+- <span data-ttu-id="3a3a7-105">Mukautetut HTTP-toiminnot integroitu työnkulku SharePoint- ja OneDrive ulkopuolella</span><span class="sxs-lookup"><span data-stu-id="3a3a7-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
+- <span data-ttu-id="3a3a7-106">Paikalliseen data-yhdyskäytävän kautta paikalliseen tietojen integrointi</span><span class="sxs-lookup"><span data-stu-id="3a3a7-106">Integration of on-premises data through the on-premises  data gateway</span></span>
 
-<span data-ttu-id="e831b-107">Asiakkaiden on aktiivisia käyttäjiä näiden ominaisuuksien saat automaattisen laajennuksen 31. tammikuuta 2020 saakka tai toimikautensa aiemmin Office 365-tilauksesi voimassaolon, kumpi on pidempi.</span><span class="sxs-lookup"><span data-stu-id="e831b-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>
+<span data-ttu-id="3a3a7-107">Asiakkaiden on aktiivisia käyttäjiä näiden ominaisuuksien saat automaattisen laajennuksen 31. tammikuuta 2020 saakka tai toimikautensa aiemmin Office 365-tilauksesi voimassaolon, kumpi on pidempi.</span><span class="sxs-lookup"><span data-stu-id="3a3a7-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>

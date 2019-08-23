@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Jos sinulla on ongelmia kirjautua Skype for Business, voit suorittaa vianmäärityksen tuen ja palautus avustaja (SaRA). Tämän työkalun avulla voit automaattisesti diagnosoida ja korjata alueen ongelmista, joihin Sign Skype for Business.
-ms.openlocfilehash: a081cc87071e678eb70531249da84c1fc0443717
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3e2273040f9c990f00e2323e9b24c033f03197af
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372665"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554402"
 ---
-<span data-ttu-id="beda6-104">Jos sinulla on ongelmia kirjautua Skype for Business, voit suorittaa vianmäärityksen tuen ja palautus avustaja (SaRA).</span><span class="sxs-lookup"><span data-stu-id="beda6-104">If you're having trouble signing in to Skype for Business, you can troubleshoot with Support and Recovery Assistant (SaRA).</span></span> <span data-ttu-id="beda6-105">Tämän työkalun avulla voit automaattisesti diagnosoida ja korjata alueen ongelmista, joihin Sign Skype for Business.</span><span class="sxs-lookup"><span data-stu-id="beda6-105">This tool helps you automatically diagnose and fix a range of known issues involving sign-on for Skype for Business.</span></span>
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="a37fb-104">Ongelmia kirjautumisessa Skype Microsoftin liiketoiminnan</span><span class="sxs-lookup"><span data-stu-id="a37fb-104">Problems Signing in to Microsoft Skype for Business</span></span>
+
+<span data-ttu-id="a37fb-105">Jos sinulla on ongelmia kirjautua Skype for Business, voit suorittaa vianmäärityksen tuen ja palautus avustaja (SaRA).</span><span class="sxs-lookup"><span data-stu-id="a37fb-105">If you're having trouble signing in to Skype for Business, you can troubleshoot with Support and Recovery Assistant (SaRA).</span></span> <span data-ttu-id="a37fb-106">Tämän työkalun avulla voit automaattisesti diagnosoida ja korjata alueen ongelmista, joihin Sign Skype for Business.</span><span class="sxs-lookup"><span data-stu-id="a37fb-106">This tool helps you automatically diagnose and fix a range of known issues involving sign-on for Skype for Business.</span></span>
   
-<span data-ttu-id="beda6-106">[Voit lukea lisää osoitteessa tästä linkistä](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span><span class="sxs-lookup"><span data-stu-id="beda6-106">[You can learn more at this link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span></span>
+<span data-ttu-id="a37fb-107">[Voit lukea lisää osoitteessa tästä linkistä](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span><span class="sxs-lookup"><span data-stu-id="a37fb-107">[You can learn more at this link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span></span>
   
 
