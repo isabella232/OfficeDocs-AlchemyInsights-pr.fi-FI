@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355370"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549936"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Tarkista sähköposti, välittäminen postilaatikon asetukset
 
-On helppo tarkistaa sähköpostin välittäminen sähköpostilaatikon asetukset! Noudata seuraavia ohjeita.
+On helppo tarkistaa sähköpostin välittäminen asetuksia Office 365-postilaatikko! Noudata seuraavia ohjeita.
   
-> Jos käyttäjän postilaatikon, siirry **käyttäjät** \> **Aktiiviset käyttäjät** ja valitse joka on postilaatikko, ovat huomauttaneet. Valitse sähköpostiasetukset, **Muokkaa** sähköpostin edelleenlähetys.
+> Jos käyttäjän postilaatikon, siirry **käyttäjät** \> **Aktiiviset käyttäjät** ja valitse joka on postilaatikko, ovat huomauttaneet. Valitse **Sähköposti** -välilehdessä **Hallitse emaill välittäminen**.
     
-> Jos tämä on jaettu postilaatikko, siirry **ryhmiä** \> **Jaetut postilaatikot** ja valitse jaetun Exchange-postilaatikon ovat huomauttaneet. Sähköpostien lähettäminen edelleen valitsemalla **Muokkaa** .
+> Jos tämä on jaettu postilaatikko, siirry **ryhmiä** \> **Jaetut postilaatikot** ja valitse jaetun Exchange-postilaatikon ovat huomauttaneet. Sähköpostien lähettäminen edelleen muokata **muokata** .
 
 Saat lisätietoja [Määritä sähköposti välittäminen Office 365: ssä](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
