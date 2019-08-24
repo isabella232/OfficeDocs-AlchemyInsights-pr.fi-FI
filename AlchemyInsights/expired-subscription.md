@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526676"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575585"
 ---
 # <a name="expired-subscription"></a>Vanhentunut tilaus
 
@@ -28,14 +28,22 @@ Siltä, että sinulla on yksi tai useampi vanhentuneita tilauksia. Jos haluat ja
   
 1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-2. Valitse tilaus voidaan aktivoida uudelleen.
+2. Etsi tilaus, jonka haluat aktivoida uudelleen. Valitse **Laskutus** -kohdassa **uudelleen**.
 
-3. Valitse **Laskutus** -osan **uudelleen**.
+Jos et **Aktivoi** toiminnon, kutsu ja Uudista tilauksesi.
 
-Lisätietoja [aktivoida tilauksesi uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+3. Vahvista maksutiedot. Voit päivittää olemassa olevat maksutiedot tähän. Kun olet kirjoittanut maksutapasi, valitse **Aktivoi**.
+
+On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [aktivoida tilauksesi uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Tee uusi ostotilaus**
   
 1. Hallintakeskukseen, siirry **laskutuksen** \> [palveluiden osto](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
 
 2. Valitse tilaus, jonka haluat ostaa, ja valitse sitten **Osta**.
+
+3. Anna haluamasi käyttöoikeuksien määrä ja valitse maksutapa (kuukausittain tai vuosittain). Valitse, haluatko määrittää automaattisesti käyttöoikeudet kaikille käyttäjille, joilla ei ole tällä hetkellä käyttöoikeuksia. Valitse **Kuittaa ulos**.
+
+4. Tekemällä vaiheet loppuun uloskuittaus.
+
+On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [ostaa toinen tilaus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

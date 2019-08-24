@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840512"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620720"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Vain luku-ylläpito tulee näyttöön, kun yrität käyttää SharePoint- tai OneDrive
 
-Käyttäjät saattavat saada **Ylläpito vain luku -** viestin, kun yrität käyttää SharePoint- tai OneDrive.  Jos näin on, tarkista, onko aktiivisen ylläpidon käynnistämien että vuokralaisen siirtymällä [viestikeskuksesta](https://portal.office.com/adminportal/home#/MessageCenter). Varmista myös, että [Terveyden huollon](https://portal.office.com/adminportal/home#/servicehealth) koontinäytön tiedotteiden ja tapahtumat, jotka on määrä tarkistaa.
+Käyttäjät saattavat saada **Ylläpito vain luku -** viestin, kun yrität käyttää SharePoint- tai OneDrive seuraavissa tilanteissa. 
 
-Jos ole Message Center- tai terveyden huollon dashboard on mainita mitään tietoja nykyisen Kunnossapito, että vuokralaisen, ongelma saattaa johtua selaimen välimuisti ongelma.
+-   Suunniteltu tai aktiivinen huoltotoimet.  Tarkista ne siirtymällä [Message Center](https://portal.office.com/adminportal/home#/messagecenter).
+-   Suuren prioriteetin aktiivisen palvelun ajankohta, joka on esiintyvä. Tarkista siirtymällä [Terveyden huollon](https://portal.office.com/adminportal/home#/servicehealth)tiedotteiden ja tapahtumat.
+-   Pieni auto kenties recovery skenaario, joka saattaa toimi koska odottamattomia tapahtumia palvelimissa, jotka saattavat kestää alle 30 minuuttia tai niin. 
+    
+    On Message Center ei ole tai palvelu terveyden kirjaa nämä pienet saantotiedot mutta pitäisi olla takaisin normaaliksi on hyvin pian.
+
+Vain muutamia kertoja olemme havaitaan jokin edellä mainitut kolme tilanteita on ollut syy, ja palvelu on palautettu mutta käyttäjien selaimen välimuisti ei ole vielä tyhjennetty.
 
 Yritä tyhjentää selaimen välimuisti ennen sivuston navigointi.
 

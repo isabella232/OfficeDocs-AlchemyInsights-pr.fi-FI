@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518036"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575945"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Osta käyttöoikeuksia Office 365: ssä
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518036"
 
     > [!NOTE]
     > Jos olet maksanut tilauksen luottokortilla tai pankkisiirrolla, ostamasi käyttöoikeudet ovat käytettävissä heti, kun olet saanut tilausvahvistuksen. Jos maksat laskulla, joudut mahdollisesti odottamaan luottotietojen tarkistusta, ennen kuin uudet käyttöoikeudet ovat käytettävissä.
-  
+
+On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [ostaa oman Office 365: ssä business tilauksen käyttöoikeuksia](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Lisää resursseja**
 
 - [Määritä käyttöoikeuksia käyttäjille Office 365 yrityksille](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Lisätietoja [ostaa oman Office 365: ssä business tilauksen käyttöoikeuksia](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
