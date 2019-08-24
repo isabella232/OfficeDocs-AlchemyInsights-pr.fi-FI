@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518504"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575751"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="02400-102">Office 365-tilauksesi peruutetaan?</span><span class="sxs-lookup"><span data-stu-id="02400-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="ca6a6-102">Office 365-tilauksesi peruutetaan?</span><span class="sxs-lookup"><span data-stu-id="ca6a6-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="02400-103">Valitettavasti nähdä sinut go!</span><span class="sxs-lookup"><span data-stu-id="02400-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="ca6a6-103">Valitettavasti nähdä sinut go!</span><span class="sxs-lookup"><span data-stu-id="ca6a6-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="02400-104">Organisaatiotiedot perustuvat, uskomme kaikkien nykyisten tilausten on oltava alle 25 istuimet.</span><span class="sxs-lookup"><span data-stu-id="02400-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="02400-105">Voit peruuttaa tilauksen verkossa, siirry **laskutuksen** \> [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulle ja valitse **Lisää toimintoja** \> **Peruuta tilaus**.</span><span class="sxs-lookup"><span data-stu-id="02400-105">To cancel your subscription online, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="ca6a6-104">Organisaatiotiedot perustuvat, uskomme kaikkien nykyisten tilausten on oltava alle 25 istuimet.</span><span class="sxs-lookup"><span data-stu-id="ca6a6-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="ca6a6-105">Voit peruuttaa tilauksen verkossa, siirry **laskutuksen** \> [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulta.</span><span class="sxs-lookup"><span data-stu-id="ca6a6-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="ca6a6-106">Valitse **asetukset & toiminnot** -kohdassa **tilauksen peruuttaminen**.</span><span class="sxs-lookup"><span data-stu-id="ca6a6-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="02400-106">Lisätietoja tilauksen peruuttaminen tai vaiheittaisia ohjeita, lue tämä artikkeli: [Peruuta tilaus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="02400-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+<span data-ttu-id="ca6a6-107">On käytössä vanha hallintakeskukseen?</span><span class="sxs-lookup"><span data-stu-id="ca6a6-107">Are you using the old admin center?</span></span> <span data-ttu-id="ca6a6-108">Vanhoja ohjeita tai lisätietoja Katso [peruuttaa tilauksesi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="ca6a6-108">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>

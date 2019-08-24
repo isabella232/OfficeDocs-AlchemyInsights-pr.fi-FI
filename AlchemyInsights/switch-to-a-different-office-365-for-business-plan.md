@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534164"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575981"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="83fd2-102">Siirry eri Office-365 for Business suunnitelma</span><span class="sxs-lookup"><span data-stu-id="83fd2-102">Switch to a different Office 365 for Business Plan</span></span>
+# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="8885c-102">Siirry eri Office-365 for Business suunnitelma</span><span class="sxs-lookup"><span data-stu-id="8885c-102">Switch to a different Office 365 for Business Plan</span></span>
 
-<span data-ttu-id="83fd2-103">Jos liiketoimintasi muuttuu, tai tarvitsevat Lisää Office 365: n ominaisuuksia, voit päivittää uuden suunnitelman.</span><span class="sxs-lookup"><span data-stu-id="83fd2-103">When your business changes, or you need more Office 365 features, you can upgrade to a new plan.</span></span>
+<span data-ttu-id="8885c-103">Jos liiketoimintasi muuttuu, tai tarvitsevat Lisää Office 365: n ominaisuuksia, voit päivittää uuden suunnitelman.</span><span class="sxs-lookup"><span data-stu-id="8885c-103">When your business changes, or you need more Office 365 features, you can upgrade to a new plan.</span></span>
   
-1. <span data-ttu-id="83fd2-104">Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.</span><span class="sxs-lookup"><span data-stu-id="83fd2-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="8885c-104">Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.</span><span class="sxs-lookup"><span data-stu-id="8885c-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="83fd2-105">Valitse tilaus, jonka haluat päivittää.</span><span class="sxs-lookup"><span data-stu-id="83fd2-105">Select the subscription that you want to upgrade.</span></span>
+2. <span data-ttu-id="8885c-105">Valitse tilaus, jonka haluat päivittää.</span><span class="sxs-lookup"><span data-stu-id="8885c-105">Select the subscription that you want to upgrade.</span></span>
 
-3. <span data-ttu-id="83fd2-106">Tilauksen tiedot-sivu Valitse **Päivitä**.</span><span class="sxs-lookup"><span data-stu-id="83fd2-106">On the subscription details page, select **Upgrade**.</span></span>
+3. <span data-ttu-id="8885c-106">Tilauksen tiedot-sivu Valitse **Päivitä**.</span><span class="sxs-lookup"><span data-stu-id="8885c-106">On the subscription details page, select **Upgrade**.</span></span>
 
-4. <span data-ttu-id="83fd2-107">Löytää suunnitelma, jonka haluat päivittää, ja valitse **Päivitä** -painiketta.</span><span class="sxs-lookup"><span data-stu-id="83fd2-107">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
+4. <span data-ttu-id="8885c-107">Löytää suunnitelma, jonka haluat päivittää, ja valitse **Päivitä** -painiketta.</span><span class="sxs-lookup"><span data-stu-id="8885c-107">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
 
-5. <span data-ttu-id="83fd2-108">Määrän käyttöoikeuksia, joita tarvitaan, valitse, haluatko maksaa kuukausittain tai koko vuoden ja sitten valitsemalla **Poistuminen**.</span><span class="sxs-lookup"><span data-stu-id="83fd2-108">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
+5. <span data-ttu-id="8885c-108">Määrän käyttöoikeuksia, joita tarvitaan, valitse, haluatko maksaa kuukausittain tai koko vuoden ja sitten valitsemalla **Poistuminen**.</span><span class="sxs-lookup"><span data-stu-id="8885c-108">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
    
-<span data-ttu-id="83fd2-109">Lisätietoja [päivityksen eri suunnitelma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="83fd2-109">For more information, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>  
+<span data-ttu-id="8885c-109">On käytössä vanha hallintakeskukseen?</span><span class="sxs-lookup"><span data-stu-id="8885c-109">Are you using the old admin center?</span></span> <span data-ttu-id="8885c-110">Vanhoja ohjeita tai lisätietoja Katso [päivittäminen eri suunnitelma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="8885c-110">For old steps, or to learn more, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>  
