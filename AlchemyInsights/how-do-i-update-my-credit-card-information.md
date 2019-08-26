@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388993"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522788"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Miten voin päivittää luottokorttitietoni?
 
-1. Siirry hallintakeskuksen **Laskutus** \> [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivulle.
+1. Siirry Microsoft 365 -hallintakeskuksessa **Laskutus** \> [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=842054)-sivulle.
 
-2. Valitse tilaus, jonka ostit päivitettävällä luottokortilla tai pankkitilillä, ja valitse sitten **Päivitä maksutiedot**.
+2. Valitse **Maksutavat**-sivulla päivitettävä luottokortti tai pankkitili.
 
-3. Valitse avattavan valikon nuoli **Lisää tai valitse maksutapa** -kohdasta, valitse päivitettävä luottokortti tai pankkitili, ja valitse sitten **Muokkaa tietoja**.
+3. Jos haluat muuttaa luottokortti- tai pankkitilitietoja, valitse **Muokkaa maksutietoja**.
 
-4. Päivitä haluamasi luottokortti- tai pankkitilitiedot (luottokortissa tai pankkitilillä oleva nimi, laskutusosoite, puhelinnumero tai vanhentumispäivä) ja valitse sitten **Lähetä**.
+> [!NOTE]
+> Jos tilaus on organisaatiosi toisen järjestelmänvalvojan ostama, et voi päivittää tilauksen luottokortti- tai pankkitilitietoja. Jos kyseinen luottokortti on vanhentumassa ja toinen järjestelmänvalvoja ei voi päivittää tietoja, voit välttää palvelun katkeamisen lisäämällä tilaukseen toisen luottokortin tai uuden pankkitilin.
 
-5. Näyttöön tulee vahvistusviesti.
+4. Päivitä haluamasi luottokortti- tai pankkitilitiedot (luottokortissa tai pankkitilillä oleva nimi, laskutusosoite, puhelinnumero tai vanhentumispäivä) ja valitse sitten **Tallenna** > **Valmis**.
 
-Lisätietoja saat artikkelista [Luottokorttien ja pankkitilien vianmääritys](https://docs.microsoft.com/fi-FI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Käytätkö uutta hallintakeskusta? Katso [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/fi-FI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Katso lisätietoja kohdasta [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

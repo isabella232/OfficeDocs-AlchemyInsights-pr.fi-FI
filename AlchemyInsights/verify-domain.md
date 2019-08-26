@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423100"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506171"
 ---
 # <a name="trying-to-verify-your-domain"></a>Yritätkö vahvistaa toimialueesi?
 
-Sinun on lisättävä TXT-tietue toimialuerekisteröijään vahvistukseksi toimialueen omistajuudesta. Noudata ohjattua toimialueen lisäämistoimintoa napsauttamalla **Asetukset** \> **Toimialue** ja valitse sitten **Lisää toimialue**. 
+Sinun on lisättävä TXT-tietue toimialuerekisteröijään vahvistukseksi toimialueen omistajuudesta. Noudata ohjattua Uusi toimialue -toimintoa Microsoft 365 -hallintakeskuksessa valitsemalla **Asennus** \> **Toimialueet** ja **Lisää toimialue**. 
   
 Vahvista toimialueesi lisäämällä TXT-tietue alla olevassa artikkelissa olevien ohjeiden mukaisesti. Saat toimialuekohtaiset ohjeet valitsemalla toimialuerekisteröijäsi.
   
