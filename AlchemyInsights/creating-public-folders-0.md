@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514868"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631789"
 ---
 # <a name="creating-public-folders"></a>Yleisten kansioiden luominen
 
 Ennen kuin käyttäjät voivat käyttää Office 365: ssä yleisiä kansioita, sinun on luoda vähintään yksi yleiseen kansioon postilaatikkoon. Luominen:
   
-1. O365-portaalin vasemmassa siirtymisruudussa-valikon avulla, siirry **Admin keskukset** \> **Exchange**.
+1. Microsoft 365 hallintakeskukseen, siirry **Admin keskittää** \> **Exchange**.
 
 2. Siirry **yleisiin kansioihin** \> **yleisen kansion postilaatikot**ja valitse sitten **Lisää**.
 
