@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544582"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666909"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="18781-102">Sähköposti siirretään Office 365: ssä G Suite</span><span class="sxs-lookup"><span data-stu-id="18781-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="8d75c-102">Sähköposti siirretään Office 365: ssä G Suite</span><span class="sxs-lookup"><span data-stu-id="8d75c-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="18781-103">Siirtää sähköpostin G Suite Office 365: ssä, käytä meidän siirtymistyökaluja sähköposti, kalenteri ja yhteystiedot: [Suorita siirto G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="18781-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="8d75c-103">Siirtää sähköpostin G Suite Office 365-käyttää meidän siirtymistyökaluja siirretään sähköposti, kalenteri ja yhteystiedot: [Suorita siirto G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="8d75c-103">To migrate email from G Suite to Office 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   

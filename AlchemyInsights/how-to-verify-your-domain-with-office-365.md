@@ -2,7 +2,6 @@
 title: 'Miten voidaan varmistaa toimialueesi Office 365: n kanssa'
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539530"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664065"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="afe64-102">Miten voidaan varmistaa toimialueesi Office 365: n kanssa</span><span class="sxs-lookup"><span data-stu-id="afe64-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="9c29c-102">Miten voidaan varmistaa toimialueesi Office 365: n kanssa</span><span class="sxs-lookup"><span data-stu-id="9c29c-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="afe64-103">Tarvitset lisää TXT-tietueen toimialueen että registrar vahvistamaan, että omistat toimialueen.</span><span class="sxs-lookup"><span data-stu-id="afe64-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="afe64-104">Noudata [ohjatun Lisää toimialue](https://portal.office.com/adminportal/home#/Domains) ensin valitsemalla **asetukset** \> **toimialueen**ja **Toimialueen lisääminen**.</span><span class="sxs-lookup"><span data-stu-id="afe64-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
+<span data-ttu-id="9c29c-103">Voit tarkistaa toimialueen, tarvitset lisää TXT-tietueen toimialueen että registrar vahvistamaan, että omistat toimialueen.</span><span class="sxs-lookup"><span data-stu-id="9c29c-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="9c29c-104">Noudata [ohjatun Lisää toimialue](https://portal.office.com/adminportal/home#/Domains) valitsemalla **asetukset** ensin \> **Domaisn**ja **Lisää toimialueeseen**.</span><span class="sxs-lookup"><span data-stu-id="9c29c-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domaisn**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="afe64-105">Lisää TXT-tietue tarkistamaan toimialueesi [osoitteessa tahansa DNS Office 365 videopalvelujen tarjoajan luoda DNS-tietueet](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ohjeiden mukaan.</span><span class="sxs-lookup"><span data-stu-id="afe64-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="9c29c-105">Lisää TXT-tietue tarkistamaan toimialueesi [osoitteessa tahansa DNS Office 365 videopalvelujen tarjoajan luoda DNS-tietueet](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ohjeiden mukaan.</span><span class="sxs-lookup"><span data-stu-id="9c29c-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
   
