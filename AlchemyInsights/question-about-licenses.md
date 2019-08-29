@@ -13,12 +13,12 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553573"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666657"
 ---
 # <a name="questions-about-your-office-365-license"></a>Kysyttävää Office 365 käyttöoikeuden
 
@@ -26,6 +26,6 @@ Jos haluat tietää, kuinka monta olet ostanut käyttöoikeutta tai ylläpitosop
   
 1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
-2. Haluat tietää enemmän tilauksen nimeä näet määrä maksat käyttöoikeuksia ja paljonko on määritettävä käytettävissä.
+2. Etsi tilaus, jonka haluat tietää enemmän. Näet määrä maksat käyttöoikeuksia ja paljonko on määritettävä käytettävissä.
 
 Jos haluat lisätä enemmän käyttöoikeuksia tai jos olet liian monet, valitse **Lisää tai poista käyttöoikeudet** säätää ostettu.

@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494812"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660897"
 ---
 # <a name="setup-email-accounts"></a>Asennus sähköpostitilejä
 
-1. Valitse Outlookin **Tiedosto** \> **Lisää tili**.
+1. Valitse Outlookin **Tiedosto** > **Info** > **Lisää tili**.
 
 2. Kirjoita sähköpostiosoitteesi ja valitse sitten **Yhdistä**.
 
-3. Kirjoita salasanasi ja valitse sitten **OK**.
+3. Anna salasanasi ja valitse sitten **OK**.
 
 4. Toistamalla näitä vaiheita voit lisätä useita tilejä.
 
     > [!NOTE]
-    > Jotkin sähköpostitilejä, kuten Gmail, Yahoo ja iCloud, edellyttää, että kaksisuuntainen todennuksen määrittäminen Outlookin avulla voit lähettää ja vastaanottaa sähköpostia. Saat lisätietoja [Outlookin sähköpostin tilin lisääminen](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx).
+    > Jotkin sähköpostitilejä, kuten Gmail, Yahoo ja iCloud, edellyttää, että kaksisuuntainen todennuksen määrittäminen Outlookin avulla voit lähettää ja vastaanottaa sähköpostia. Saat lisätietoja [Outlookin sähköpostin tilin lisääminen](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

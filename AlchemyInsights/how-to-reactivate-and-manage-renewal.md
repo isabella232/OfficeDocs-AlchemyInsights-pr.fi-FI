@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574539"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663957"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Miten aktivoida ja hallita toistuva Laskutus
 
@@ -32,7 +32,7 @@ Ilmeisesti sinulla on tilaus, joka on vanhentunut. Jos haluat aktivoida sen, tä
 
 3. Vahvista maksutiedot. Voit päivittää olemassa olevat maksutiedot tähän. Kun olet kirjoittanut maksutapasi, valitse **Aktivoi**.
 
-On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [aktivoida tilauksesi uudelleen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lisätietoja on ohjeaiheessa [aktivoida tilauksesi uudelleen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Kuukausittain tai vuosittain laskutuksen hallinta siirtyä **Toistuva Laskutus** käytössä tai poissa käytöstä.
   
@@ -46,4 +46,4 @@ Kuukausittain tai vuosittain laskutuksen hallinta siirtyä **Toistuva Laskutus**
 
 5. Valitse **Lähetä muuttaa**.
 
-On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [Oletusaloitusnäkymän toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Jos haluat lisätietoja, katso [Oletusaloitusnäkymän toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

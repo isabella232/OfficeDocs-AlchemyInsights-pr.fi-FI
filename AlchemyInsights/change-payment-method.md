@@ -3,7 +3,6 @@ title: Muuta maksutapaa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519224"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665337"
 ---
 # <a name="change-payment-method"></a>Muuta maksutapaa
 
-Voit tarkistaa maksutapa, joka on määritetty Microsoft 365 hallintakeskukseen. Valitse tilaus, jonka haluat tarkistaa. **Laskutus**-kohdassa näkyy tilauksen, joka on määritetty maksutapa. 
+Voit tarkistaa ja muuttaa maksutapaa, joka on määritetty Microsoft 365 hallintakeskukseen. Valitse tilaus, jonka haluat tarkistaa. **Laskutus**-kohdassa näkyy tilauksen, joka on määritetty maksutapa. 
   
 1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
 
@@ -30,4 +29,4 @@ Voit tarkistaa maksutapa, joka on määritetty Microsoft 365 hallintakeskukseen.
 
 3. Viimeistele muutos ohjeiden mukaisesti.
 
-Vaiheittaiset ohjeet ovat ohjeaiheessa: [Office 365 for business maksutavan muutos](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [Office 365 yrityksille maksutavan muuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

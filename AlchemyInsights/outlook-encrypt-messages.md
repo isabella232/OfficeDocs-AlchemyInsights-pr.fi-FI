@@ -3,21 +3,28 @@ title: S/MIME-Outlook Web
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511568"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666837"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Salaa sähköpostiviestejä Outlookissa
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Office 365: n viestin salaus perustuu Microsoftin Azure Rights Management (Azure RMS) joka on osa Azure tietojen suojaaminen. Jos tilauksesi sisältää Azure Rights Management tai Azure tietojen suojaaminen Rights Management-palvelu <strong style="mso-bidi-font-weight: normal;">ei tarvitse tehdä mitään toimia manuaalisesti käyttöön otettavat tai Aktivoi</strong> .</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Asiakaspalautteen perusteella olemme enää olla otetaan käyttöön salaa automaattisesti lähtevän sähköpostin että vuokralaisen arkaluontoisten tietojen tyypin joka sisältää oletusarvoisesti mail Exchange työnkulkusäännöt. &nbsp; Olemme sen sijaan tarjoaa yksityiskohtaiset ohjeet, miten voit tehdä sen itsellesi. &nbsp;Lisätietoja siitä, miten salata arkaluontoisia tietoja, liikenteen säännön luominen on tässä <a href="https://aka.ms/OmeEtr">artikkelissa</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;&nbsp; &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">, Jos käytät Outlook Web (aiemmalta nimeltään <strong style="mso-bidi-font-weight: normal;">OWA</strong>): luodessasi sähköpostiviestin valitsemalla <strong>Suojaa</strong> Accessissa. Tämä koskee oletusarvoisesti &lsquo;ei välitetä eteenpäin&rsquo; käyttöoikeudet. <strong>Muuta käyttöoikeuksia</strong> ja valitse <strong>Salaa</strong> vain viestin salauksessa.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; &nbsp; Jos <strong style="mso-bidi-font-weight: normal;">Outlook-asiakas</strong>: Jos haluat lähettää salatun viestin 2013 tai 2016 Outlook tai Outlook-2016 Mac, valitse asetukset &agrave; käyttöoikeudet, valitse suojaus-asetus on.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; <strong style="mso-bidi-font-weight: normal;">Salaa automaattisesti kaikki sähköposti</strong> lähetetään tietyille vastaanottajille tai kumppani ulkoiset organisaatiot, sinun on luotava mail transport virtaussäännön Exchange Admin Centerissä. Yksityiskohtaiset ohjeet on tässä <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">artikkelissa tukevat</a></span></span></li> </ul>
+Office 365: n viestin salaus perustuu Microsoftin Azure Rights Management (Azure RMS), joka on osa Azure tietojen suojaaminen. Jos tilauksesi sisältää Azure Rights Management tai Azure tietojen suojaaminen Rights Management-palvelu **ei tarvitse tehdä mitään toimia manuaalisesti käyttöön otettavat tai Aktivoi** .
+
+Asiakaspalautteen perusteella olemme enää olla otetaan käyttöön salaa automaattisesti lähtevän sähköpostin että vuokralaisen arkaluontoisten tietojen tyypin joka sisältää oletusarvoisesti mail Exchange työnkulkusäännöt. Olemme sen sijaan tarjoaa yksityiskohtaiset ohjeet, miten voit tehdä sen itsellesi. Lisätietoja tärkeiden tietojen salaamiseen liikenteen säännön luominen Lue [tämä artikkeli](https://aka.ms/OmeEtr).
+
+- Jos käytät Outlook Web (aiemmalta nimeltään **OWA**): luodessasi sähköpostiviestin valitsemalla **Suojaa** Accessissa. Tämä koskee oikeuksia ”ei välitä tehdä”. Valitse **Muuta käyttöoikeuksia** ja valitse **Salaa** vain salata viestin.
+
+- Jos **Outlook-asiakas**: Jos haluat lähettää salatun viestin 2013 tai 2016 Outlook tai Outlook-2016 Mac, valitse **asetukset** > **käyttöoikeudet**ja valitse suojaus-asetus on.
+
+- **Salaa automaattisesti kaikki sähköposti** lähetetään tietyille vastaanottajille tai kumppani ulkoiset organisaatiot joudut luomaan mail transport virtaussäännön Exchange Admin Centerissä. Yksityiskohtaiset ohjeet [tuen tässä](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)artikkelissa.
 

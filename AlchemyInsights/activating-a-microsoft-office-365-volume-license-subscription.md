@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574467"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661185"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Microsoft Office 365: n aseman käyttöoikeuden tilauksen aktivoiminen
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574467"
 
 4. Aktivointi sähköposti sisältää kaksi vaihtoehtoa: **Rekisteröidy**tai **Kirjaudu sisään**. Jos olet aiemmin luonut kokeiluversio, valitse **Kirjaudu sisään**. Jos sinulla ei vielä ole Office 365-vuokralaisen, valitse **Rekisteröidy**.
 
-5. Kirjaudu Office 365: ssä ([https://portal.office.com](https://portal.office.com)) aiemmin Office 365-yhteyttä käyttämällä. Kun olet onnistuneesti kirjautunut sisään, näyttöön tulee toinen email vahvistamalla osto.
+5. Kirjautuminen hallintakeskukseen Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) käytetään käyttäjän Office 365: ssä järjestelmänvalvojan käyttöoikeuksin. Kun olet onnistuneesti kirjautunut sisään, näyttöön tulee toinen email vahvistamalla osto.
 
 6. Kun olet kirjautunut, voit siirtyä **laskutuksen** \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulta Office 365 ostettujen tilausten aktivoituvat sisällä että vuokralaisen. (Voit myös valita **tilaus** -välilehdessä, voit tarkastella tietoja tarkistetaan, että tilauksesi on talletettu VLSC.)

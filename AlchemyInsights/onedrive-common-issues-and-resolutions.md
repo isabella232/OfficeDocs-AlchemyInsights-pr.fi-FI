@@ -1,9 +1,8 @@
 ---
-title: OneDrive yleisiä ongelmia ja ratkaisuja
+title: OneDriven yhteiset ongelmat ja ratkaisut
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/7/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +11,20 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 88804e84f8bc3155abdf90e1c9961806367299d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffd92db8c2ff810e1cc12dae3cf9a5cb559a8f9d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543742"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660861"
 ---
-# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive yleisiä ongelmia ja ratkaisuja
+# <a name="onedrive-common-issues-and-resolutions"></a>OneDriven yhteiset ongelmat ja ratkaisut
 
-Ilmeisesti jossa kysytään OneDrive tietoja. Voidaksemme auttaa antaa paremman vastauksen Jos olet lyhyesti Muotoile kysymys kanssa yksi tai kaksi lauseita, jotka kuvaavat ongelmaasi - mukaan lukien ominaisuuksia, jne...  
+Seuraavassa on joitakin usein kysyttyjä OneDrive-ongelmia koskevia aiheita:
 
-Sillä välin tässä on joitakin usein pyydetty aiheita:
+- **Määritä OneDriven synkronointi**: [Synkronoi OneDrive for Business-tiedostot](https://go.microsoft.com/fwlink/?linkid=533375) tai [Synkronoi SharePoint-tiedostot](https://go.microsoft.com/fwlink/?linkid=871666) Windowsin OneDrive-synkronointi ohjelman kanssa.  Macin käyttäminen? Voit [synkronoida tiedostoja myös OneDriven](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) kanssa.
 
-- **Asennuksen OneDrive synkronoinnin**: [synkronoinnin Business-tiedostoille oman OneDrive](https://go.microsoft.com/fwlink/?linkid=533375) tai OneDrive synkronointi-asiakasohjelman Windows [Synkronoi tiedostoja SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) .  Käytä Mac? [Tiedostojen synkronoiminen OneDrive kanssa](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) ja se voi.
-
-- **OneDrive synkronointiin liittyviä ongelmia**: Jos OneDrive ei ole synkronoinnin tiedostoja odotetulla tavalla, voit Windowsin [OneDrive synkronoinnin ongelmien vianmääritys](https://go.microsoft.com/fwlink/?linkid=866431) . Käytä Mac? Voit [synkronointi ongelmia](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&rs=en-US&ad=US) sen myös.
-- **OneDrive rajoitukset**: tutustu [rajoitukset](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , jotka koskevat tiedostonimet ja tiedostojen synkronointi OneDrive kanssa.
-- **OneDrive varastointi**: Katso [tietyille käyttäjille OneDrive-tallennustilan muuttaminen](https://docs.microsoft.com/onedrive/change-user-storage) tai [hallita oman OneDrive Business varastointiin](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **Seurantalokien**: Katso, miten voit tarkistaa tiedostot, kansiot, käyttäjiä tai oikeudet toiminnan [valvonnan loki haun](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) . 
+- **OneDriven synkronointiin liittyviä ongelmia**: Jos OneDrive ei synkronoi tiedostoja odottamasi tavoin, voit tehdä Windowsin [OneDrive-synkronointi ongelmien vian määrityksen](https://go.microsoft.com/fwlink/?linkid=866431) . Macin käyttäminen? Voit myös tehdä [vian määrityksen synkronointi ongelmiin](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&rs=en-US&ad=US) .
+- **OneDrive-rajoitukset**: Lue tietoja [rajoituksista ja rajoituksista](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , jotka koskevat tiedostojen nimiä ja tiedosto tyyppejä, kun synkronoit OneDriven kanssa.
+- **OneDrive-tallennus**tila: Katso, miten voit [muuttaa tietyn käyttäjän OneDrive-tallennus tilaa](https://docs.microsoft.com/onedrive/change-user-storage) tai [hallita OneDrive for Business-tallennusta](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
+- **Valvonta lokit**: Katso, miten voit tarkistaa [valvonta lokin haun](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) avulla tiedostojen, kansioiden, käyttäjien tai käyttö oikeuksien toiminnan. 

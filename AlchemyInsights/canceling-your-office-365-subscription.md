@@ -3,7 +3,6 @@ title: Office 365-tilauksesi peruutetaan?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519667"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665433"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365-tilauksesi peruutetaan?
 
-Valitettavasti nähdä sinut go, mutta tässä on vaihtoehdot voit peruuttaa tilauksen:
+Raportoimme pahoillani nähdä sinut Siirry, mutta jos haluat peruuttaa tilauksen, tässä ovat vaihtoehdot:
   
 - Jos olet kokeiluversion asiakkaan, ei ole mitään peruuttamiseksi. Koeversion tilaus päättyy automaattisesti, ellet lisää maksutapa.
 
-- Jos sinulla on vähemmän kuin 25 määritetyt käyttöoikeudet, voit peruuttaa tilauksen verkossa. Siirry **laskutuksen** \> [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulle ja valitse sitten **Lisää toimintoja** \> **Peruuta tilaus**.
+- Jos sinulla on vähemmän kuin 25 määritetyt käyttöoikeudet, voit peruuttaa tilauksen verkossa. Siirry **laskutuksen** \> [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulta. Valitse **asetukset & toiminnot** -kohdassa **tilauksen peruuttaminen**.
 
 - Jos sinulla on enemmän kuin 25 määritetyt käyttöoikeudet, voit poistaa käyttäjien kunnes on vähemmän kuin 25 tai tukihenkilö voi puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
 
-- Lisätietoja tilauksen peruuttaminen, tai vaiheittaiset ohjeet on ohjeaiheessa [peruuttaa tilauksesi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Lisätietoja on kohdassa [tilauksen peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

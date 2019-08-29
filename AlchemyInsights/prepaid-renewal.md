@@ -1,5 +1,5 @@
 ---
-title: Ennakkoon uudistaminen
+title: Ennakkoon maksettu uusiminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554618"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666693"
 ---
-# <a name="prepaid-office-365-renewal"></a>Ennakkoon Office 365: n uudistaminen
+# <a name="prepaid-office-365-renewal"></a>Prepaid Office 365 uusiminen
 
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Siirry hallinta keskukseen, **laskutus** \> [tuotteet _amp_ Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
 
-2. Etsi tilaus, jonka haluat laajentaa. **Laskutus** -osassa Valitse **Laajenna päättymispäivä**.
+2. Etsi tilaus, jonka haluat laajentaa. Valitse **laskutus** -osiosta **Jatka päättymis päivää**.
 
-3. Ruudussa **Laajenna tilauksen** **käyttö uudet ja käyttämättömät product key-tunnuksen**, valitse **Seuraava**.
+3. Valitse **Laajenna tilausta** -ruudussa **Käytä uutta ja käyttämätöntä Product Key-tunnusta ja**valitse sitten **Seuraava**.
 
-4. Kirjoita product key-tunnus ja valitse sitten **Seuraava**.
+4. Anna Product Key-tunnus ja valitse **Seuraava**.
 
 > [!NOTE]
-> Jos sinulla on useampi kuin yksi product Key-tunnusta, voit valita **toisen product key-tunnuksen lisääminen** niiden kirjoittamisesta.
+> Jos sinulla on useampi kuin yksi Product Key-tunnus, voit syöttää ne valitsemalla **Lisää toinen Product Key** -tunnus.
 
-5. Tarkistaa tilaustietosi ja valitse sitten **Redeem**.
+5. Tarkista tilauksesi tiedot ja valitse sitten **Lunasta**.
 
-Katso lisätietoja, [lisätä käyttöoikeuksia tai laajentaa tilaus maksetaan product key-tunnuksen avulla](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Lisä tietoja [on kohdassa Lisää käyttö oikeuksia tai Laajenna tilaus, joka on maksettu Product Key-tunnuksen käyttämisestä](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

@@ -1,9 +1,8 @@
 ---
-title: 606 delegoinnin tiedot
+title: 606 valtuus kuntaa koskevat tiedot
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499096"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661725"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegoinnin Outlookissa ja Outlook web-vianmääritys
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlookin ja Outlookin Web-sivuston delegoinnin vian määritys
 
-**Vianmääritys SaRA-työkalulla:**
+**Vian etsintä SaRA-työkalulla:**
 
-1. Lataa ja asenna työkalu SaRA täältä
-1. Valitse Outlook, sitten ”Minulla on ongelmia oman kalenterin kanssa”
-1. Sano Kyllä haavoittuvuuden sisältävään tietokoneeseen
-1. Lisää ongelman kohdanneen käyttäjän sähköpostiosoite
-1. Valitse ”Minulla on ongelmia kanssa edustajien oikeudet”
-1. Seuraavan kehotteen, jos henkilö antaa käyttöoikeudet, kirjoita sähköpostiosoite edustajan. Jos olet edustaja olet saanut käyttöoikeudet, kirjoita sähköpostiosoite on henkilö, joka on antanut sinulle oikeudet.
-1. Valitse vaihtoehto, joka sopii parhaiten tilannetta seuraava valikko.
-1. Seuraava valikosta Valitse käyttöoikeustaso.
-1. Tässä vaiheessa SaRA työkalu suorittaa automaattisia tarkastuksia ja sen tarjota mahdollinen ratkaisu tai vaihtoehtoisesti antaa vianmäärityslokissa, jonka avulla saat lisää vianmääritysohjeita.
-1. Löydät osoitteessa C:\Users\Username\AppData\Local\SaraResults SaRA tulokset kansio lokit
+1. Lataa ja asenna SaRA Tool [täällä](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Valitse **Outlook**, sitten **minulla on ongelmia kalenterini kanssa**.
+1. Sano **Kyllä** haavoittuvuuden sisälolevalle koneelle.
+1. Lisää haavoittuvuuden sisältävän käyttäjän Sähkö posti osoite.
+1. Valitse **minulla on ongelmia edustajan käyttö oikeuksien kanssa**.
+1. Jos olet seuraavan kehotteen mukaan henkilö, joka antaa oikeudet, Kirjoita edustajan Sähkö posti osoite. Jos sait käyttö oikeudet ja olet edustaja, anna sen henkilön Sähkö posti osoite, joka antoi sinulle oikeudet.
+1. Valitse seuraavassa valikossa vaihto ehto, joka sopii skenaariosi.
+1. Valitse seuraavassa valikossa käyttö oikeus taso.
+1. Tässä vaiheessa SaRA Tool suorittaa automaattisia tarkastuksia, ja se antaa sinulle mahdollisen resoluution tai vaihtoehtoisesti antaa diagnostiikka lokin, jota voidaan käyttää lisä vian määritykseen.
+1. Voit etsiä lokit SaRA Results-kansiosta, joka sijaitsee osoitteessa C:\Users\Username\AppData\Local\SaraResults.

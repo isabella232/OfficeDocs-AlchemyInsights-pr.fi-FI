@@ -3,7 +3,6 @@ title: Valvontalokin ottaminen käyttöön ja haku
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527720"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665073"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Käyttöön ja etsiä valvontaloki
+
+**Office 365**
 
 Etsi Office 365: n valvontalokin, toimi [seuraavasti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Etsi Office 365: n valvontalokin, toimi [seuraavasti](https://docs.microsoft.com
 
 - Exchange-järjestelmänvalvojan tehtäviä valvotaan oletusarvon mukaan.
 
-- Olemme parhaillaan käyttöön postilaatikon valvonta oletusarvoisesti Office 365: ssä. Siihen asti voit valvoa tai organisaation kaikkia postilaatikoita yksittäisen postilaatikon, lue [tämä artikkeli](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Postilaatikon valvonta on oletusarvon mukaan käytössä Office 365: ssä. Saat lisätietoja Lue [tämä artikkeli](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365-ryhmän postilaatikot ja yleiseen kansioon Exchange Online-postilaatikot eivät tue valvontaloki.
 
