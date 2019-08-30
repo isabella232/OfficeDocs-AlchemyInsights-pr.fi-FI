@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b12540bbd7e7e3524f259736fec440b712289754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575645"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664461"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Miten voin lisätä luottokortin?
 
@@ -30,4 +30,4 @@ ms.locfileid: "36575645"
 
 4. Anna uuden luottokortin tai pankkitilin tiedot ja valitse sitten **Tallenna**.
 
-Käytätkö vielä vanhaa hallintakeskusta? Lue aiemmat toimintaohjeet ja lisätietoja artikkelissa [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Katso lisätietoja artikkelista [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

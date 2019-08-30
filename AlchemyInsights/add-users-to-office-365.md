@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903070"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660681"
 ---
 # <a name="add-a-user-to-office-365"></a>Käyttäjän lisääminen Office 365:een
 
-Voit lisätä käyttäjän Office 365:een noudattamalla näitä ohjeita:
-  
-1. Siirry kohtaan [Aktiiviset käyttäjät](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (tai valitse vasemmasta siirtymisvalikosta **Käyttäjät** \> **Aktiiviset käyttäjät**).
+1. Siirry Microsoft 365 -hallintakeskuksessa kohtaan **Käyttäjät** >  [ Aktiiviset käyttäjät](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Napsauta **Lisää käyttäjä**.
 
-3. Täytä käyttäjän tiedot. Kun olet valmis, valitse **Lisää**.
+3. Täytä käyttäjän tiedot. Kun olet valmis, valitse **Viimeistele lisääminen**.
 
-[Lisätietoja...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Käytätkö vielä vanhaa hallintakeskusta? Lue aiemmat toimintaohjeet ja lisätietoja artikkelissa [Käyttäjien lisääminen Office 365:een yksitellen tai joukkona](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   
