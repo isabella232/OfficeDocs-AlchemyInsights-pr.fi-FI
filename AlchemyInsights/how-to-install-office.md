@@ -3,7 +3,6 @@ title: Officen asennusohjeet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,18 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 8283183eb4f151711180dd4aebc187cb7be42fe0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540250"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663865"
 ---
 # <a name="how-to-install-office"></a>Officen asennusohjeet
 
 Jos haluat asentaa Office-asiakassovelluksia, varmista, että sinulla on Business-tilaus, kuten Office 365 Business Premium, Office 365 Business tai Office 365 Education.
   
-*HUOMAUTUS:[ Office Home & Business 2016](https://products.office.com/home-and-business) on [kotikäyttöön tarkoitettu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) tuote eikä kuulu Business-tilauksiin. Saat tarkat Visiota ja Projectia koskevat ohjeet artikkeleista [Vision asentaminen](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Projectin asentaminen](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+*HUOMAUTUS:[ Office Home & Business](https://products.office.com/home-and-business) on [kotikäyttöön tarkoitettu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) tuote eikä kuulu Business-tilauksiin. Saat tarkat Visiota tai Projectia koskevat ohjeet artikkeleista [Vision asentaminen](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Projectin asentaminen](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
 Luo käyttäjätilit ja lisää toimialueesi. Varmista, että käyttäjällä on [käyttöoikeudet](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
 
