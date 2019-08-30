@@ -1,5 +1,5 @@
 ---
-title: Ongelmia oston viimeistelemisessä Office 365 -portaalissa
+title: Ongelmia oston viimeistelemisessä Microsoft 365 -hallintakeskuksessa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f343b5b8fc5361b845095667a46e609591f33a6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507232"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665865"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="b2aab-102">Ongelmia oston viimeistelemisessä Office 365 -portaalissa</span><span class="sxs-lookup"><span data-stu-id="b2aab-102">Trouble completing a purchase in the Office 365 portal</span></span>
+# <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a><span data-ttu-id="b1ba9-102">Ongelmia oston viimeistelemisessä Microsoft 365 -hallintakeskuksessa</span><span class="sxs-lookup"><span data-stu-id="b1ba9-102">Trouble completing a purchase in the Microsoft 365 admin center</span></span>
 
-<span data-ttu-id="b2aab-103">Jos sinua pyydetään oston yhteydessä kirjautumaan Microsoft 365 -hallintakeskukseen useasti tai saat ilmoituksen ongelmasta, ensimmäinen asia, jota kannattaa kokeilla, on käyttää selaimen yksityistä selaamista tai incognito-tilaa.</span><span class="sxs-lookup"><span data-stu-id="b2aab-103">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode.</span></span> <span data-ttu-id="b2aab-104">Kun olet avannut yksityisen tai incognito-ikkunan, siirry [portal.office.com](https://portal.office.com)-sivustolle ja kirjaudu sisään järjestelmänvalvojan tunnistetiedoilla.</span><span class="sxs-lookup"><span data-stu-id="b2aab-104">After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials.</span></span> <span data-ttu-id="b2aab-105">Viimeistele sen jälkeen osto.</span><span class="sxs-lookup"><span data-stu-id="b2aab-105">Then proceed to complete your purchase.</span></span>
+<span data-ttu-id="b1ba9-103">Jos sinua pyydetään oston yhteydessä kirjautumaan Microsoft 365 -hallintakeskukseen useasti tai saat ilmoituksen ongelmasta, ensimmäinen asia, jota kannattaa kokeilla, on käyttää selaimen yksityistä selaamista tai incognito-tilaa.</span><span class="sxs-lookup"><span data-stu-id="b1ba9-103">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode.</span></span> <span data-ttu-id="b1ba9-104">Kun olet avannut yksityisen tai incognito-ikkunan, siirry [admin.microsoft.com](https://admin.microsoft.com)-sivustolle ja kirjaudu sisään järjestelmänvalvojan tunnistetiedoilla.</span><span class="sxs-lookup"><span data-stu-id="b1ba9-104">After opening an inprivate/incognito window, go to the [portal.office.com](https://admin.microsoft.com) site and log in with your admin credentials.</span></span> <span data-ttu-id="b1ba9-105">Viimeistele sen jälkeen osto.</span><span class="sxs-lookup"><span data-stu-id="b1ba9-105">Then proceed to complete your purchase.</span></span>
