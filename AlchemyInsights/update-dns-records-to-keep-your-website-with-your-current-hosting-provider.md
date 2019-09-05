@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 7ca04d81dd4ca2e094b5ac14a2949ffa3a88e987
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532904"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742262"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS-tietueiden päivittäminen sivuston säilyttämiseksi nykyisessä isännöintipalvelussa
 
-Osana siirto Office 365: n julkisen Web-sivuston toiseen isännöintipalvelu todennäköisesti tarvitset tehdäksesi muutoksia toimialueen tietueet.
+Osana prosessia siirtäessä Office 365 julkinen verkkosivusto toiselle palveluntarjoajalle, sinun on todennäköisesti tehtävä muutoksia toimi alue tietueisiin.
   
-1. Siirry hallintakeskukseen, **asennuksen** \> **Toimialueet** ja valitse toimialuenimi, jota haluat muuttaa.
+1. Valitse hallinta keskuksessa **Asetukset** \> - **toimi alueet** ja toimi alueen nimi, jota haluat muuttaa.
 
-2. Kirjoita Web-sivuston kanssa uuden videopalvelujen tarjoajan palvelimeen yhteyttä, joka Tasaa tiedot.
+2. Syötä verkkosivustoosi liittyvät tiedot uuden isännöinti palvelun tarjoajan kanssa.
 
-Lisätietoja on kohdassa [pitämään sivuston nykyinen videopalveluiden palvelu päivitystä DNS-tietueita](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).
+Lisä tietoja [on artikkelissa DNS-tietueiden päivittäminen, jotta voit pitää sivustosi nykyisen isännöinti palvelun tarjoajan kanssa](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-Katso lisätietoja julkisen sivuston keskeytymisen [SharePoint Online julkisten sivustojen lakkautettava](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).
+Jos haluat lisä tietoja julkisen sivuston keskeyttämisen lopettamisesta, katso [SharePoint Onlinen julkisten sivustojen](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)lopettaminen.

@@ -1,5 +1,5 @@
 ---
-title: Virhekoodi 550 5.7.501 käyttö estetty väärinkäytön roskapostin havaittu
+title: Virhe koodi 550 5.7.501 käyttö estetty, roska postin väärinkäyttö havaittu
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527164"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740138"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>Käyttö estetty 550 5.7.501, väärinkäyttö roskapostin havaittu
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 käyttö estetty, roska postin väärinkäyttö havaittu
 
-Yleensä tämä sanoma tulee näyttöön, kun käyttäjät lähettävät sähköpostiviestejä käyttämällä alkuperäisen IP-osoitteista *. onmicrosoft.com* , joka määritetään uuden vuokralaisen Office 365-toimialueeseen. Helpoin tapa ratkaista tämä ongelma on:
+Yleensä tämä sanoma tulee näyttöön, kun käyttäjät lähettävät Sähkö posti viestejä IP-osoitteista käyttäen alkuperäistä *. onmicrosoft.com* -toimi aluetta, joka on määritetty uusille vuokralaisten toimistolle 365. Helpoin tapa ratkaista tämä ongelma on:
 
-1. [Lisää toimialue että vuokralaisen](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).
+1. [Lisää toimi alue vuokraajaan](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. Uuden mukautetun toimialueen [ensisijaista sähköpostiosoitetta käyttäjien muuttaa](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) lisäämäsi.
+2. [Vaihda käyttäjän ensisijainen Sähkö posti osoite](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) juuri lisäämäsi uuden mukautetun verkko tunnuksen kohdalle.

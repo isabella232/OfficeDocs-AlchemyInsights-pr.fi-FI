@@ -1,5 +1,5 @@
 ---
-title: 1081 kalenteri - RBA CatchAll
+title: 1081 kalenteri-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505864"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737618"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Voit luoda ja hallita tilaa postilaatikot
+# <a name="create-and-manage-room-mailboxes"></a>Huone posti laatikoiden luominen ja hallinta
 
-Voit luoda ja muokata huoneen postilaatikot, katso [Luo ja ylläpitää postilaatikoita huoneen](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Jos haluat luoda ja muokata huoneen posti laatikoita, katso [huone posti laatikoiden luominen ja hallinta](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Lisätietoja huoneiden ja laitteiden postilaatikot (tunnetaan myös nimellä resurssipostilaatikoita) on [tilat ja laitteet-postilaatikoita](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).
+Lisä tietoja huone-ja varuste posti laatikoista (tunnetaan myös nimellä resurssi posti laatikot) on kohdassa [huone-ja varuste posti laatikot](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).
