@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661545"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739058"
 ---
 # <a name="issue-with-skype-for-business"></a>Onko Skype for Businessin käytössä ongelma?
 
@@ -23,11 +23,10 @@ Olemme havainneet, että seuraavilla toimialueilla on ongelmia, jotka saattavat 
   
 {HealthCheckString}
   
-Toimialueasetuksien (DNS) NS-, CNAME- ja SRV-tietueita ei ole määritetty oikein Skype for Businessille. Tarkat ohjeet ovat artikkelissa [DNS-tietueiden päivittäminen Office 365:ssä](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Toimialueasetuksien (DNS) NS-, CNAME- ja SRV-tietueita ei ole määritetty oikein Skype for Businessille. Katso tarkemmat ohjeet artikkelissa [DNS-tietueiden luominen missä tahansa DNS-isännöintipalvelussa Office 365:tä varten](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Voit korjata ongelman siirtymällä Microsoft 365 -hallintakeskuksen [Toimialueet](https://admin.microsoft.com/adminportal/home#/Domains)-sivulle, niin autamme sinua.
   
 Jos sinulla on ongelmia organisaatiosi ulkopuolisten käyttäjien kanssa viestimisessä, voit katsoa tarkat ohjeet artikkelista [Skype for Business Onlinen ulkoisen tietoliikenteen määrittäminen](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx).
-  
-Katso muita yleisiä ratkaisuja [toimialueiden usein kysytyistä kysymyksistä](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
+
   
