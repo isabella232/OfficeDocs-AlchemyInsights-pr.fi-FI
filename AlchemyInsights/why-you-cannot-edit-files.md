@@ -1,6 +1,6 @@
 ---
-title: Tiedostot ovat lukittuina muokkaamista varten
-ms.author: kirks
+title: Tiedostot on lukittu muokkaamista varten
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558218"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748357"
 ---
-# <a name="why-cant-i-edit-files"></a><span data-ttu-id="ae32a-102">Miksi tiedostoja ei voi muokata?</span><span class="sxs-lookup"><span data-stu-id="ae32a-102">Why can't I edit files?</span></span>
+# <a name="why-cant-i-edit-files"></a><span data-ttu-id="6ab77-102">Miksi tiedostoja ei voi muokata?</span><span class="sxs-lookup"><span data-stu-id="6ab77-102">Why can't I edit files?</span></span>
 
-<span data-ttu-id="ae32a-103">Jos asiakirja, työkirja tai esitys on lukittu muokkaamista varten, ei voi avata Windowsin työpöydän sovelluksia voi olla tiedostoa muokataan jo joku, että ne ei ole kuitattu ulos. Näytämme nopeasti joitakin syitä, [Miksi et ehkä voi muokata tiedostoa](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="ae32a-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="6ab77-103">Jos asia kirja, laskenta taulukko tai esitys on lukittu muokkausta varten eikä sitä voi avata Windowsin työpöytä sovelluksissa, voi olla, että joku muu on jo muokannut tiedostoa tai että tiedosto on kuitattu ulos. Katsotaanpa nopeasti joitakin syitä [, miksi et ehkä voi muokata tiedostoa](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="6ab77-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
 
-<span data-ttu-id="ae32a-104">Kirjastoissa on **uloskuittauksen, tarvitaan** tai **vahvistus** sarakkeet ja metatietojen tai kun **Luonnoskohteen suojaus** määritetään joko **vain käyttäjät, jotka voivat muokata** tai **vain käyttäjät, jotka voivat hyväksyä kohteita** Version asetuksissa kirjasto:</span><span class="sxs-lookup"><span data-stu-id="ae32a-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
+<span data-ttu-id="6ab77-104">Jos sinulla on kirjastoja, joissa on **kassalle, pakollinen** tai **vahvistus** sarakkeet tai metatiedot, tai kun **luonnos kohteen suojaus** on asetettu joko **vain käyttäjille, jotka voivat muokata** tai **vain käyttäjät, jotka voivat hyväksyä kohteita** versio asetukset Kirjasto:</span><span class="sxs-lookup"><span data-stu-id="6ab77-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
 
-- <span data-ttu-id="ae32a-105">Nämä kohteet synkronoidaan SharePoint-asiakirjakirjastojen vain luku-muodossa.</span><span class="sxs-lookup"><span data-stu-id="ae32a-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
+- <span data-ttu-id="6ab77-105">SharePoint-asiakirja kirjastoissa nämä kohteet synkronoidaan vain luku-muodossa.</span><span class="sxs-lookup"><span data-stu-id="6ab77-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
 
-- <span data-ttu-id="ae32a-106">OneDrive kirjastojen OneDrive näkyy lukkokuvake (OneDrive-tiedoston lukittu kuvake) synkronointi vieressä tilaa ja käyttäjä eivät pysty synkronoimaan kirjasto, kunnes mainitut asetukset on poistettu.</span><span class="sxs-lookup"><span data-stu-id="ae32a-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
+- <span data-ttu-id="6ab77-106">OneDrive-kirjastoille OneDrive näyttää lukko kuvakkeen (OneDrive-tiedosto lukittu kuvake) synkronoinnin tilan vieressä ja käyttäjä ei voi synkronoida kirjastoa, ennen kuin mainitut asetukset on poistettu.</span><span class="sxs-lookup"><span data-stu-id="6ab77-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
 
-<span data-ttu-id="ae32a-107">Saat lisätietoja lukittuja tiedostoja Word-tai Excel-viitata artikkeleita alla.</span><span class="sxs-lookup"><span data-stu-id="ae32a-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
+<span data-ttu-id="6ab77-107">Jos haluat lisä tietoja Wordin tai Excelin lukitusta tiedostoista, Katso alla olevat artikkelit.</span><span class="sxs-lookup"><span data-stu-id="6ab77-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
 
-- [<span data-ttu-id="ae32a-108">Excel-tiedosto on lukittu muokkaamista varten</span><span class="sxs-lookup"><span data-stu-id="ae32a-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [<span data-ttu-id="6ab77-108">Toinen käyttäjä on lukinnut Excel-tiedoston muokkausta varten</span><span class="sxs-lookup"><span data-stu-id="6ab77-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [<span data-ttu-id="ae32a-109">Word-tiedosto on lukittu muokkaamista varten</span><span class="sxs-lookup"><span data-stu-id="ae32a-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [<span data-ttu-id="6ab77-109">Toinen käyttäjä on lukinnut Word-tiedoston muokkausta varten</span><span class="sxs-lookup"><span data-stu-id="6ab77-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

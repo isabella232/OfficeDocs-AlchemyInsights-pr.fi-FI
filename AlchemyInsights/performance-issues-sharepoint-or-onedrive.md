@@ -1,6 +1,6 @@
 ---
-title: Suorituskyvyn ongelmat-SharePoint- tai OneDrive
-ms.author: kirks
+title: Suorituskyky ongelmat-SharePoint tai OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666729"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752713"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="a4fd2-102">SharePoint- tai OneDrive on hidas, ei ole käytettävissä tai useita käyttäjiä</span><span class="sxs-lookup"><span data-stu-id="a4fd2-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="7ce1e-102">SharePoint tai OneDrive hidas, ei käytettävissä tai ei saatavilla useille käyttäjille</span><span class="sxs-lookup"><span data-stu-id="7ce1e-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
 
-<span data-ttu-id="a4fd2-103">SharePoint- tai OneDrive voi olla hidas, ei ole käytettävissä tai ei ole käytettävissä seuraavista syistä:</span><span class="sxs-lookup"><span data-stu-id="a4fd2-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
+<span data-ttu-id="7ce1e-103">SharePoint tai OneDrive voi olla hidas, ei käytettävissä tai se on poissa käytöstä useista syistä:</span><span class="sxs-lookup"><span data-stu-id="7ce1e-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
   
-- <span data-ttu-id="a4fd2-104">Jos SharePoint- tai OneDrive-sivusto on hidasta tai viivästynyt useita käyttäjiä, saattaa olla väliaikaista palvelua ongelma jossa käyttäjät kohdata ajoittaiset viiveet tai siirtyminen virheitä käsiteltäessä SharePoint-sivustoon tai OneDrive sisältöön.</span><span class="sxs-lookup"><span data-stu-id="a4fd2-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="a4fd2-105">Tarkista [palvelun terveyden dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Nähdäksesi Jos organisaatiosi iskuja.</span><span class="sxs-lookup"><span data-stu-id="a4fd2-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+- <span data-ttu-id="7ce1e-104">Jos SharePoint-tai OneDrive-sivustosi on hidas tai viivästynyt useille käyttäjille, saattaa olla tilapäinen palvelu ongelma, jossa käyttäjät kokevat ajoittaisia viiveitä tai siirtymis virheitä SharePoint-sivustoja tai OneDrive-sisältöä käytettäessä.</span><span class="sxs-lookup"><span data-stu-id="7ce1e-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="7ce1e-105">Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiossasi vaikutusta.</span><span class="sxs-lookup"><span data-stu-id="7ce1e-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
   
-- <span data-ttu-id="a4fd2-106">Jos kohtaat **perinteistä** SharePoint-sivuston tai sivun suorituskyky on hidas, käytä [sivulla diagnostiikkatyökalu](https://aka.ms/perftool) voi analysoida sivut.</span><span class="sxs-lookup"><span data-stu-id="a4fd2-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
+- <span data-ttu-id="7ce1e-106">Jos suoritus kyky on hidas **perinteisen** SharePoint-sivuston tai-sivun avulla, analysoi sivut [sivun diagnostiikka työkalulla](https://aka.ms/perftool) .</span><span class="sxs-lookup"><span data-stu-id="7ce1e-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
   
-- <span data-ttu-id="a4fd2-107">Jos kohtaat yleinen suorituskyky on hidas, tutustu tämän artikkelin alaosan resurssit: [Johdatus suorituskyvyn säätäminen SharePoint online](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="a4fd2-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
+- <span data-ttu-id="7ce1e-107">Jos kohtaat edelleen yleistä hidasta suoritus kykyä, Lue tämän artikkelin alaosassa olevat resurssit: [johdanto SharePoint Onlinen suoritus kyvyn säätöön](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="7ce1e-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
   

@@ -1,6 +1,6 @@
 ---
-title: Muuta, SharePoint Online, toimialuenimi
-ms.author: kirks
+title: Muuta toimi alueen nimi SharePoint Onlinessa
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519188"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747637"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="e323e-102">Muuta, SharePoint Online, toimialuenimi</span><span class="sxs-lookup"><span data-stu-id="e323e-102">Change domain name in SharePoint Online</span></span>
+# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="fea47-102">Muuta toimi alueen nimi SharePoint Onlinessa</span><span class="sxs-lookup"><span data-stu-id="fea47-102">Change domain name in SharePoint Online</span></span>
 
-<span data-ttu-id="e323e-103">Valitettavasti se ei ole mahdollista muuttaa SharePoint Online Office 365-organisaatiosi verkkotunnuksen.</span><span class="sxs-lookup"><span data-stu-id="e323e-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="e323e-104">Jos organisaatiosi nimi muuttuu ”Contoso” ”Fourth Coffee”, et voi muuttaa contoso.sharepoint.com ja fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="e323e-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
+<span data-ttu-id="fea47-103">Office 365 ei valitettavasti voi muuttaa organisaatiosi SharePoint Online-toimi alue nimeä.</span><span class="sxs-lookup"><span data-stu-id="fea47-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="fea47-104">Jos organisaatiosi nimi muuttuu esimerkiksi "contoso"-tilaksi "neljäs kahvi", et voi muuttaa contoso.sharepoint.com-fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="fea47-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
   
-<span data-ttu-id="e323e-105">Käyttämään toimialueen nimeä fourthcoffee.sharepoint.com, sinun on ostettava uusi Office 365-tilaus ja siirtää kaikki sähköposti, tiedostoja ja muita tietoja, jotka haluat säilyttää uuden tilauksen.</span><span class="sxs-lookup"><span data-stu-id="e323e-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
+<span data-ttu-id="fea47-105">Jos haluat käyttää verkko tunnusta fourthcoffee.sharepoint.com, sinun on hankittava uusi Office 365-tilaus ja siirrettävä kaikki sähkö posti, tiedostot ja muut tiedot, jotka haluat säilyttää uudelle tila ukselle.</span><span class="sxs-lookup"><span data-stu-id="fea47-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
   
- <span data-ttu-id="e323e-106">**Huomautus**: esimerkiksi, jos haluat muuttaa sivuston nimeä https://contoso.sharepoint.com/sites/sample1 , https://contoso.sharepoint.com/sites/sample2, luoda uuden sivuston ja Siirrä kaikkea sisältöä vanhasta sivustosta uuteen.</span><span class="sxs-lookup"><span data-stu-id="e323e-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
+ <span data-ttu-id="fea47-106">**Huomautus**: Jos haluat esimerkiksi muuttaa sivuston https://contoso.sharepoint.com/sites/sample1 nimen- https://contoso.sharepoint.com/sites/sample2, luo uusi sivusto-ja siirrä sitten kaikki vanhan sivuston sisältö uuteen.</span><span class="sxs-lookup"><span data-stu-id="fea47-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
   
-<span data-ttu-id="e323e-107">Katso tiedot siirretään kohteita, asiakirjakirjastojen [siirtämään tai kopioimaan kohteita SharePoint-asiakirjakirjastosta](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="e323e-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
+<span data-ttu-id="fea47-107">Lisä tietoja kohteiden siirtämisestä asiakirja kirjastoissa [on kohdassa kohteiden siirtäminen tai kopioiminen SharePoint-asiakirja kirjastosta](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="fea47-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
   

@@ -1,46 +1,46 @@
 ---
-title: Sivuston tai luettelon tallentaminen mallina
-ms.author: kirks
+title: Tallenna sivusto tai luettelo mallina
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551628"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752029"
 ---
-# <a name="save-site-or-list-as-a-template"></a><span data-ttu-id="72db5-102">Sivuston tai luettelon tallentaminen mallina</span><span class="sxs-lookup"><span data-stu-id="72db5-102">Save site or list as a template</span></span>
+# <a name="save-site-or-list-as-a-template"></a><span data-ttu-id="3bf5d-102">Tallenna sivusto tai luettelo mallina</span><span class="sxs-lookup"><span data-stu-id="3bf5d-102">Save site or list as a template</span></span>
 
-<span data-ttu-id="72db5-103">SharePoint-sivustomallit ovat suunniteltu tiettyä liiketoiminnan tarvetta valmiista määritelmiä.</span><span class="sxs-lookup"><span data-stu-id="72db5-103">SharePoint site templates are prebuilt definitions designed around a particular business need.</span></span> <span data-ttu-id="72db5-104">Lisätietoja [käyttäminen voit luoda SharePoint-sivustoja sekä erilaisia malleja](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span><span class="sxs-lookup"><span data-stu-id="72db5-104">For more information, see [Using templates to create different kinds of SharePoint sites](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span></span>
+<span data-ttu-id="3bf5d-103">SharePoint-Sivustomallit ovat ennalta rakennettuja määritelmiä, jotka on suunniteltu tietyn liiketoiminta tarpeen ympärille.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-103">SharePoint site templates are prebuilt definitions designed around a particular business need.</span></span> <span data-ttu-id="3bf5d-104">Lisä tietoja on kohdassa [mallien käyttäminen erilaisten SharePoint-sivustojen luomiseen](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span><span class="sxs-lookup"><span data-stu-id="3bf5d-104">For more information, see [Using templates to create different kinds of SharePoint sites](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span></span>
 
-<span data-ttu-id="72db5-105">Seuraavassa on joitakin yleisiä ongelmia ja ratkaisuja koskevat tallentaa sivuston tai luettelon mallina SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="72db5-105">Here are some common issues/solutions regarding Saving a Site or List as a template in SharePoint Online.</span></span>
+<span data-ttu-id="3bf5d-105">Seuraavassa on joitain yleisiä ongelmia/ratkaisuja, jotka liittyvät sivuston tai luettelon tallentamiseen SharePoint Onlinen mallina.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-105">Here are some common issues/solutions regarding Saving a Site or List as a template in SharePoint Online.</span></span>
 
-<span data-ttu-id="72db5-106">**Sivustosta/luettelosta Tallenna malli-painike on ei ole käytettävissä tai puuttuu**.</span><span class="sxs-lookup"><span data-stu-id="72db5-106">**Save site/list template button is not available or missing**.</span></span> 
+<span data-ttu-id="3bf5d-106">**Tallenna sivusto/luettelo malli-painike ei ole käytettävissä tai puuttuu**.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-106">**Save site/list template button is not available or missing**.</span></span> 
 
-- <span data-ttu-id="72db5-107">Mukautetun komentosarjan avulla on järjestelmänvalvojien käyttöön malliominaisuudet.</span><span class="sxs-lookup"><span data-stu-id="72db5-107">Administrators will need to Allow Custom Script to enable the template features.</span></span> <span data-ttu-id="72db5-108">Saat yksityiskohtaisia ohjeita ja esimerkkejä huomioon otettavia seikkoja [Salli tai estä mukautetun komentosarjan](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span><span class="sxs-lookup"><span data-stu-id="72db5-108">For detailed steps, examples and considerations see [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span></span>
-
-
-- <span data-ttu-id="72db5-109">Tallenna malli-komento sivustoa ei tueta ja julkaiseminen SharePoint Server-infrastruktuuria käyttävien sivustojen käytössä saattaa ilmetä häiriöitä.</span><span class="sxs-lookup"><span data-stu-id="72db5-109">The Save site as template command is not supported and can cause problems on sites that use the SharePoint Server Publishing Infrastructure.</span></span>
+- <span data-ttu-id="3bf5d-107">Järjestelmänvalvojien on sallittava mukautetun komento sarjan mallin ominaisuuksien ottaminen käyttöön.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-107">Administrators will need to Allow Custom Script to enable the template features.</span></span> <span data-ttu-id="3bf5d-108">Yksityiskohtaisia ohjeita, esimerkkejä ja huomioitavia seikkoja on kohdassa [mukautetun komento sarjan salliminen tai estäminen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span><span class="sxs-lookup"><span data-stu-id="3bf5d-108">For detailed steps, examples and considerations see [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span></span>
 
 
-<span data-ttu-id="72db5-110">**Sivustomalli ei voi luoda tai ei toimi oikein**</span><span class="sxs-lookup"><span data-stu-id="72db5-110">**The site template cannot be created or does not work correctly**</span></span>
-
-- <span data-ttu-id="72db5-111">Malli ei ehkä ole [ominaisuus](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ja ei aktivoida.</span><span class="sxs-lookup"><span data-stu-id="72db5-111">The template may be missing a [feature](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) and won’t activate.</span></span> <span data-ttu-id="72db5-112">Jos ominaisuus ei ole käytettävissä nykyisen sivustokokoelman aktivoida, ei voi luoda sivuston sivustomallin avulla.</span><span class="sxs-lookup"><span data-stu-id="72db5-112">If the feature is not available to activate in the current site collection, you cannot use the site template to create a site.</span></span>
+- <span data-ttu-id="3bf5d-109">Tallenna sivusto mallina-komentoa ei tueta, ja se voi aiheuttaa ongelmia sivustoissa, jotka käyttävät SharePoint Serverin Julkaisusinfrastruktuuria.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-109">The Save site as template command is not supported and can cause problems on sites that use the SharePoint Server Publishing Infrastructure.</span></span>
 
 
-- <span data-ttu-id="72db5-113">Tarkista Jos luetteloita tai kirjastoja enintään 5000 kohteet [Luettelon luettelonäkymän raja](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) tämän sivustomallin luominen voidaan torjua.</span><span class="sxs-lookup"><span data-stu-id="72db5-113">Check to see if any lists or libraries exceed the [List View Limit Threshold](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) of 5000 items as this can block creation of a site template.</span></span>
+<span data-ttu-id="3bf5d-110">**Sivustomallia ei voi luoda tai se ei toimi oikein**</span><span class="sxs-lookup"><span data-stu-id="3bf5d-110">**The site template cannot be created or does not work correctly**</span></span>
+
+- <span data-ttu-id="3bf5d-111">Mallista saattaa puuttua [ominaisuus](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) , eikä se aktivoida.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-111">The template may be missing a [feature](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) and won’t activate.</span></span> <span data-ttu-id="3bf5d-112">Jos ominaisuus ei ole käytettävissä nykyisessä sivustokokoelmassa, et voi käyttää sivustomallia sivuston luomiseen.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-112">If the feature is not available to activate in the current site collection, you cannot use the site template to create a site.</span></span>
 
 
-- <span data-ttu-id="72db5-114">Sivusto käyttää liikaa resursseja ja näin ollen sivustomalli on enemmän kuin sallitut 50 megatavun (Mt).</span><span class="sxs-lookup"><span data-stu-id="72db5-114">The site may be using too many resources and therefore the site template exceeds the 50 megabyte (MB) limit.</span></span>
+- <span data-ttu-id="3bf5d-113">Tarkista, ylittyessä luettelot tai kirjastot, jotka ylittävät [luettelo näkymän raja-arvon](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000, koska tämä voi estää sivustomallin luomisen.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-113">Check to see if any lists or libraries exceed the [List View Limit Threshold](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) of 5000 items as this can block creation of a site template.</span></span>
 
 
-- <span data-ttu-id="72db5-115">Ongelmia luettelon, joka sisältää hakusarakkeen tietojen näyttämisen.</span><span class="sxs-lookup"><span data-stu-id="72db5-115">There are problems displaying data from a list that uses a lookup column.</span></span> <span data-ttu-id="72db5-116">Lisätietoja [mallin luoma luettelo ei näytä tietoja SharePoint Online-luettelosta oikea valinta](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).</span><span class="sxs-lookup"><span data-stu-id="72db5-116">For more information, see [Template-generated list doesn’t display data from the correct lookup list in SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).</span></span>
+- <span data-ttu-id="3bf5d-114">Sivusto saattaa käyttää liikaa resursseja, joten sivustomalli ylittää 50 Mega tavun (Mt) rajan.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-114">The site may be using too many resources and therefore the site template exceeds the 50 megabyte (MB) limit.</span></span>
 
 
-<span data-ttu-id="72db5-117">Yleisiä ongelmia ja ratkaisuja tarkempia tietoja varten Ota viittaus [sivustomallien luominen ja käyttäminen](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span><span class="sxs-lookup"><span data-stu-id="72db5-117">For more detailed information on common problems and solutions please reference, [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span></span>
+- <span data-ttu-id="3bf5d-115">Haku saraketta käyttävän luettelon tietojen näyttämiseen liittyy ongelmia.</span><span class="sxs-lookup"><span data-stu-id="3bf5d-115">There are problems displaying data from a list that uses a lookup column.</span></span> <span data-ttu-id="3bf5d-116">Lisä tietoja on kohdassa [mallin luoma luettelo ei Näytä tietoja oikeasta haku luettelosta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span><span class="sxs-lookup"><span data-stu-id="3bf5d-116">For more information, see [Template-generated list doesn’t display data from the correct lookup list in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span></span>
+
+
+<span data-ttu-id="3bf5d-117">Tarkempia tietoja yleisistä ongelmista ja ratkaisuista saat Ohje kirjasta, [luoda ja käyttää sivustomalleja](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span><span class="sxs-lookup"><span data-stu-id="3bf5d-117">For more detailed information on common problems and solutions please reference, [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span></span>
 
