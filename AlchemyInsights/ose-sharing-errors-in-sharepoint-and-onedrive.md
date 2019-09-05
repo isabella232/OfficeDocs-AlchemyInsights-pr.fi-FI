@@ -1,6 +1,6 @@
 ---
-title: OSE jakaminen virheet SharePoint- ja OneDrive
-ms.author: kirks
+title: OSE jakaa virheitä SharePointissa ja OneDrivessa
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543130"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752965"
 ---
-# <a name="ose-sharing-errors"></a>OSE jakaminen virheet
+# <a name="ose-sharing-errors"></a>OSE:N jakamis virheet
 
-Artikkelissa käsitellään eri virheitä, joita voi esiintyä, kun jaat tiedostoja tai kansioita SharePoint Online-tai OneDrive varten Business Office 365: ssä. Sinun on oltava Globaali tai SharePoint-admin jotta korjata nämä virheet. Jos et ole järjestelmänvalvoja, ota yhteyttä help-Deskiin ja antaa heille virhekoodia.
+Artikkelissa käsitellään eri virheitä, joita saatat kohdata, kun jaat tiedostoja tai kansioita SharePoint Onlinesta tai OneDrive for Businessista Office 365: ssa. Sinun on oltava organisaatiosi yleinen tai SharePointin järjestelmänvalvoja, jotta voit korjata nämä virheet. Jos et ole järjestelmänvalvoja, ota yhteyttä tuki palveluun ja anna heille virhe koodi.
 
-Saat lisätietoja OSE virhekoodit [jakaminen SharePoint ja OneDrive virheiden](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Lisä tietoja OSE:N virhe koodeista on artikkelissa [virheiden jakaminen SharePointissa ja OneDrivessa](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

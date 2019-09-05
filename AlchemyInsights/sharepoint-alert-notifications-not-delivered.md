@@ -1,5 +1,5 @@
 ---
-title: SharePoint-ilmoitukset ei lähetetty
+title: SharePoint-ilmoitus ilmoituksia ei toimitettu
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504460"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744638"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-ilmoitukset ei lähetetty
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-ilmoitus ilmoituksia ei toimitettu
 
-Tarkista ROSKAPOSTI-kansion sähköpostin, kuin joskus ilmoitukset välttämättä siirry.
+Tarkista sähkö postisi roska posti kansio, sillä joskus hälytykset saattavat mennä sinne.
 
-Onko **kaikki ilmoitukset ei toimiteta** tai jos **yksittäisen hälytyksen** tietyn tiedoston tai kirjastosta ei toimiteta.
+Selvitä, onko **kaikkia hälytyksiä toimitettu** tai onko tietyn tiedoston tai kirjaston **yksittäistä ilmoitusta** toimitettu.
 
-- **Yksittäisiä hälytyksiä ei tapahdu**: yksittäisen hälytyksen tietyn tiedoston tai kirjastosta ole annettu, voit yrittää poistaa ja luo se uudelleen. Katso uudelleen ilmoituksen [hallinta-, tarkasteleminen tai poistaminen SharePoint-ilmoituksia](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) .
-- **Kaikki ilmoitukset toimitetaan ei**: Jos kaikki tiedostot tai kirjastojen useita hälytyksiä ei tapahdu, käy [terveyden huollon dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) etsimään tiedotteiden/tapahtumat, joka on esiintyvä SharePoint tai tunnustetun pörssin kanssa. SharePoint-ilmoituksen ominaisuus tai viivästykset sähköpostit Exchange kautta voi olla ongelma. Lisäksi on tärkeää ottaa huomioon muu sähköposti toimitetaan, ja jos ei, ongelma on todennäköisesti viiveitä Exchangen kanssa.
+- **Yksittäisiä hälytyksiä ei toimiteta**: jos tietystä tiedostosta tai kirjastosta ei toimiteta yksittäistä ilmoitusta, voit yrittää poistaa sen ja luoda sen uudelleen. Katso [SharePoint-ilmoitusten hallinta, tarkasteleminen tai poistaminen](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) , jos haluat luoda hälytyksen uudelleen.
+- **Kaikkia hälytyksiä ei toimiteta**: Jos kaikkia ilmoituksia useista tiedostoista tai kirjastoista ei toimiteta, käy [palvelun kunnon koonti näytössä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ja tarkista, onko SharePointissa tai exchangeissa mahdollisesti esiintyviä neuvoja tai tapahtumia. Ongelma saattaa olla SharePoint-hälytys ominaisuudella tai viivästyttää sähkö posteja Exchangen kautta. On myös tärkeää huomata, onko muita Sähkö posti viestin toimitetaan, ja jos ei, ongelma on todennäköisesti vaihto viivästyksiä.
 
-Hälytykset-usein kysytyt kysymykset:
+Usein kysytyt kysymykset hälytyksistä:
 
-- Ei ole mahdollista lähettää hälytyksiä jakeluryhmän, vain tietoturvan ja O365-ryhmät ovat tuettuja.
-- Et voi mukauttaa ilmoitus sähköpostimalleja; Sinun on käytettävä Microsoftin FLOW tai SharePoint Designer työnkulun niiden saavuttamiseksi.
+- Ilmoituksia ei voi lähettää jakelu ryhmälle, vain suojaus-ja O365-ryhmiä tuetaan.
+- Et voi mukauttaa hälytys Sähkö posti malleja; sinun on käytettävä Microsoft FLOW-tai SharePoint Designer-työn kulkua näiden tavoitteiden saavuttamiseksi.
 
-Lisätietoja:
+Lisä tietoja:
 
-- **Ilmoitusten asetukset**: Katso lisätietoja ilmoitusten määrittäminen [luo hälytyksen saat ilmoituksen, kun SharePoint-tiedosto tai kansio muuttuu](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Vianmääritys-hälytykset**: Saat lisätietoja ilmoitusten [käyttäjät ole saanut ilmoitukset SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Advanced O365 ilmoitus yhteensopivuuskäytäntöihin**: Saat lisätietoja määrittämisestä näiden ilmoitusten [Yhteensopivuuskäytäntöihin hälytyksen](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint ja OneDrive valvottavat lokit**: Saat lisätietoja siitä, miten hakea näiden tapahtumien [haku valvontalokin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Advanced Threat Protection lähettämät ilmoitukset**: Katso [ATP SharePoint-ja OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Tietojen menetyksen estäminen lähettämien ilmoitusten käytännöt**: Katso [sähköposti-ilmoitusten DLP käytäntöjä](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Hälytyksen asetukset**: lisä tietoja hälytysten määrittämisestä on kohdassa [Luo ilmoitus, jos haluat saada ilmoituksen, kun tiedosto tai kansio muuttuu SharePointissa](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Hälytysten vian määritys**: lisä tietoja hälytysten vian määrityksestä on kohdassa [käyttäjät eivät saa SharePoint Online Alert-ilmoituksia](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Advanced O365 yhteensopivuuden hälytys käytännöt**: lisä tietoja näiden ilmoitusten määrittämisestä on artikkelissa [yhteensopivuuden hälytys käytännöt](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **SharePointin ja OneDriven valvonta lokit**: lisä tietoja näiden tapahtumien noutamista on kohdassa [Etsi valvonta lokista](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Kehittyneiden uhkien torjunta-ilmoitusten lähettämät hälytykset**: Katso [ATP SharePointille ja OneDriveen](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Tietojen menetyksen estämisen käytännöt lähettämät hälytykset**: Katso [Sähkö posti-ilmoitukset DLP-käytännöistä](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-## <a name="related-topics"></a>Aiheeseen liittyviä
+## <a name="related-topics"></a>Aiheeseen liittyviä ohjeita
 
-Jos haluat kokeilla Microsoft SharePoint Online-Flow?
+Haluatko kokeilla Microsoft Flow'ta SharePoint Onlinessa?
 
-- [Luo työnkulku](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Luo työn kulku](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint- ja](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint ja Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

@@ -1,6 +1,6 @@
 ---
-title: Vianmääritys viestit on estetty
-ms.author: kirks
+title: Käyttö estetty-sanomien vian määritys
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 0a885e15d54c9337711f2528628789dfcb903264
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e6fdc6fbf745d1702bf1a7b3474ac82f6662305
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503524"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751273"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Käyttö estetty viestit Admin Centerissä Sharepoint/OneDrive liittyviä ongelmia
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>SharePoint/OneDrive-hallinta keskuksen käyttö estetty-viestien vian määritys
 
-Jos saat käyttö estetty-sanoman, kun he yrittävät selata Sharepoint-/ OneDrive-hallintakeskukseen, varmista, että et [Määritä käyttöoikeus käyttäjälle](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Jos käyttäjällä on käyttöoikeus, sinun olisi myös Varmista, että [määritetty järjestelmänvalvoja-rooli](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , voivat käyttää admin-keskukset ovat.
+Jos saat käyttö estetty-sanoman yritettäessä selata SharePoint/OneDrive-hallinta keskukseen, varmista, että määrität [käyttäjälle](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)käyttö oikeuden. Jos käyttäjällä on käyttö oikeus, Varmista myös, että heille on [määritetty järjestelmänvalvojan rooli](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , joka voi käyttää hallinta keskuksia.
 
-Tämä ongelma voi ilmetä myös, kun käyttäjä poistetaan ja luodaan uudelleen sama käyttäjätunnus (UPN) kanssa. Uusi tili on luotu käyttämällä eri PUID (yksilöllisen Passport-tunnus)-arvoa. Kun käyttäjä yrittää käyttää sivustokokoelman tai niiden OneDrive, käyttäjällä on virheellinen PUID. Toinen tilanne liittyy directory-synkronointia Active Directoryn organisaatioyksikössä (OU). Jos käyttäjät ovat jo kirjautuneena SharePoint-ovat siirretään eri OU ja SharePointin kanssa resynced, he saattavat kohdata tämän ongelman.
+Tämä ongelma voi ilmetä myös, kun käyttäjä poistetaan ja luodaan uudelleen samalla käyttäjä nimellä (UPN). Uusi tili luodaan käyttämällä eri PUID (Passport Unique ID)-arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai OneDrivea, käyttäjällä on väärä PUID-tunnus. Toinen skenaario koskee hakemiston synkronointia Active Directory-organisaatio yksikön (OU) kanssa. Jos käyttäjät ovat jo kirjauduneet sisään SharePointiin ja ne siirretään toiseen kohteeseen ja synkronoidaan SharePointin kanssa, ongelma saattaa ilmetä.
 
-Voit ratkaista tämän ongelman, Palauta alkuperäiset UPN kanssa artikkelin, [Palauta Office 365-käyttäjä](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+Voit ratkaista tämän ongelman palauttamalla alkuperäisen käyttäjä tieto järjestelmän artikkelin ohjeiden mukaisesti, [palauttamalla käyttäjän Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
 
-Huomautus: Jos OneDrive tai SharePoint-Admin center ei ole aikaisemmin olleet tekemisissä useiden käyttäjien käytettävissä, saattaa olla väliaikaista palvelua ongelma.  [Tarkista palvelun terveyden dashboard](https://portal.office.com/adminportal/home#/servicehealth).
+Huomautus: Jos OneDrive tai SharePointin hallinta keskus ei ole usean sellaisen käyttäjän käytettävissä, joilla on aiemmin ollut käyttö oikeus, kyseessä voi olla tilapäinen palvelu ongelma.  [Tarkista palvelun kunnon koonti näyttö](https://portal.office.com/adminportal/home#/servicehealth).
 
 

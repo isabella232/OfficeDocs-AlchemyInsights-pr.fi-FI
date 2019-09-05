@@ -1,6 +1,6 @@
 ---
-title: Ei voi lisätä oletusarvon 2010 hyväksynnän työnkulku
-ms.author: kirks
+title: Oletus arvoista 2010-hyväksynnän työn kulkua ei voi lisätä
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493782"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747673"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Ei voi lisätä oletusarvon 2010 hyväksynnän työnkulku
+# <a name="cant-add-default-2010-approval-workflow"></a>Oletus arvoista 2010-hyväksynnän työn kulkua ei voi lisätä
 
-Microsoft SharePoint-sivustokokoelman luetteloon tai kirjastoon voi lisätä yleisesti Uudelleenkäytettävä työnkulku (kuten ”hyväksyminen - SharePoint 2010”). Hyväksymistyönkulku saattaa puuttua. Voit ratkaista tämän ongelman, viittaavat [yleisesti Uudelleenkäytettävä työnkulku SharePoint-luetteloon tai kirjastoon ei voi lisätä](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+Microsoft SharePoint-sivustokokoelmassa ei voi lisätä yleisesti uudelleenkäytettävää työn kulkua (kuten "hyväksyntä-SharePoint 2010") luetteloon tai kirjastoon. Hyväksynnän työn kulku saattaa puuttua. Voit ratkaista tämän ongelman lisä tietoja kohdasta [ei voi lisätä yleisesti uudelleenkäytettävää työn kulkua SharePoint-luetteloon tai-kirjastoon](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Saat lisätietoja tietoja työnkulun hyväksyntöjä [tietoja hyväksynnän työnkulut](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Lisä tietoja työn kulun hyväksynnöistä on kohdassa [Kaikki hyväksynnän työn kulut](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Lisätietoja [Moderni työnkulun hyväksyntöjä](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Lue lisää [modernista hyväksynnässä Flow'ssa](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

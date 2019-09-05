@@ -1,6 +1,6 @@
 ---
 title: Vain luku-tiedoston muokkaaminen
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528116"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756097"
 ---
 # <a name="edit-a-read-only-file"></a>Vain luku-tiedoston muokkaaminen
 
-Saatat huomata, että kun avaat tiedostoja, avaamista vain luku-muodossa. Joissakin tapauksissa tämä on suojauksen, kuten kun avaat tiedostoja Internetistä ja muina aikoina, se johtua, joka voi muuttaa asetusta. [Miksi Avaa tiedoston vain luku-](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) artikkelissa kerrottu joissakin tilanteissa, jossa tiedosto avataan vain luku-tilassa ja voit muuttaa joitakin toimia.
+Saatat huomata, että kun avaat tiedostoja, ne avautuvat vain luku-muodossa. Joissakin tapa uksissa tämä on lisä suojausta, esimerkiksi kun avaat tiedostoja Inter netistä, ja toisinaan se voi johtua asetuksesta, jota voidaan muuttaa. Artikkelissa, [miksi tiedosto on avattu vain luku](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) -tilassa, hahmotellaan joitain skenaarioita, joissa tiedosto avaa vain luku-tilan ja joitakin vaiheita, joihin voit ryhtyä muuttamaan sitä.
 
-Tässä on avaaminen office-tiedostojen muokkaamista varten.
+Näin avaat Office-tiedostoja muokkausta varten.
 
-Sen sijaan, että jos valitset otsikon, **Avaa valikko** (kolme pistettä) ja valitse sitten **Muokkaa**.
+Napsauta asia kirjan otsikon sijasta **Avaa valikko** (kolme pistettä) ja valitse sitten **Muokkaa**.
 
-Huomautus:
+Muistiinpanoja:
 
-- Jos haluat käyttää tiedostoja avata muokattavaksi Office kun napsautat otsikkoa, voit tehdä sen (niin kauan kuin sinulla on oikeus muuttaa asiakirjakirjaston asetuksia) voit määrittää kirjastoon.
+- Jos haluat mieluummin, että asia kirjat ovat avoinna muokattavaksi Officessa, kun napsautat otsikkoa, voit määrittää kirjaston tekemään sen (kunhan sinulla on oikeus muuttaa kirjaston asetuksia).
 
-- Jos kirjastot poistuminen, pakollisia sarakkeita tai kun vain käyttäjät, jotka voivat muokata asetuksia versio SharePoint-asiakirjakirjasto, nämä kohteet synkronoidaan vain luku-muodossa.
+- Jos sinulla on kirjastoja, joissa on kassa, pakolliset sarakkeet tai vain käyttäjät, jotka voivat muokata SharePoint-asiakirja kirjaston versio asetuksia, nämä kohteet synkronoidaan vain luku-muodossa.
 
-- Office-asiakirja avataan suojatussa näkymässä vaikka ”Open Office-asiakirjojen luku-/ kirjoitusmuodossa selattaessa”-käytäntöasetus käyttöön. Saat lisätietoja, lue tämä [artikkelin.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Office-asia kirja avautuu suojatussa näkymässä, vaikka "Avaa Office-asia kirjat luetaan/kirjoitetaan selaamisen aikana"-käytäntö asetuksen avulla. Katso lisä tietoja tästä [artikkelista.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

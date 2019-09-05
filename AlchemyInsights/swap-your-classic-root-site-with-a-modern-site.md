@@ -1,5 +1,5 @@
 ---
-title: Vaihda Classic pääkansio sivuston Moderni sivusto
+title: Vaihda perinteinen pääsivusto modernilla sivustolla
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501076"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749257"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Vaihda Classic pääkansio sivuston Moderni sivusto
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Vaihda perinteinen pääsivusto modernilla sivustolla
 
-Jos ympäristösi on määritetty ennen huhtikuuta 2019, voit muuttaa päätason sivustossa Moderni sivustoon käyttämällä Microsoft PowerShell:
+Jos ympäristösi on määritetty ennen huhtikuun 2019, voit muuttaa pääsivuston nykyaikaiseen sivustoon Microsoft PowerShellin avulla:
 
-- Jos sinulla on toinen sivusto, jota haluat käyttää oman pääsivusto, jonka korvaava (swap) pääkansio sivuston. 
-    - [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) avulla sivuston toisen sivuston kanssa vaihdettava tallennettaessa alkuperäiseen sivustoon. Sekä ryhmän (ei yhteyttä ryhmään) ja tiedonannon sivustojen käytettävissä. 
+- Jos sinulla on eri sivusto, jota haluat käyttää pääsivustoosi, voit korvata [(swap) pääsivuston](https://docs.microsoft.com/sharepoint/modern-root-site) sen kanssa. 
+    - Käytä [Kutsu-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) , jos haluat vaihtaa sivuston sijainnin toisen sivuston kanssa arkistoitaessa alkuperäistä sivustoa. Käytettävissä sekä ryhmäsivustoon (ei yhdistetty ryhmään) että viestintä sivustoon. 
 
-- Lisäominaisuuksia se esitellään pian, joka mahdollistaa sivuston sisällön avulla pitää, mutta sivusto muuntaminen Viestimissivusto. 
+- Pian otetaan käyttöön lisä ominaisuuksia, joiden avulla voit jatkaa sivuston sisällön käyttämistä, mutta muuntaa olemassa olevan sivuston viestintä sivustoksi. 
 >[!Important]
->Näitä toimintoja toteutetaan vielä vähitellen. Tarkista päivitykset Office 365 Message Center jatkaa. 
+>Nämä ominaisuudet otetaan käyttöön vähitellen. Jatka Office 365-Message Center-päivitysten tarkistaminen. 
 
-## <a name="known-issues-with-swapping-sites"></a>Tunnettuja ongelmia vaihtamisen sivustot
+## <a name="known-issues-with-swapping-sites"></a>Sivustojen vaihtamisen tunnetut ongelmat
 
-- Kohdesivuston saattaa palauttaa (HTTP 404) ”ei löydy” virhe lyhyen ajan kuluessa.
-- Sisältöä täytyy päivittää hakuindeksin tehdään uudelleen. On manuaalinen vaihe, ei pakollinen – tämä tehdään automaattisesti.
-- Mitään riippuvainen ”staattinen” linkkejä (kuten tiedoston synkronointiin ja OneNote-tiedostoja) on korjattava manuaalisesti.
-- Jos lähde on organisaation uutissivuston, Päivitä URL-osoite.Näyttöön tulee luettelo sivustoja organisaatiota koskevia uutisia.
-- Project Server-sivustoja on ehkä tarkistettava sen varmistamiseksi, että ne liittyvät yhä oikein.
+- Kohde sivusto saattaa palauttaa virheen "ei löytynyt" (HTTP 404), joka on lyhyt ajan jakso.
+- Sisältö on indeksoida uudelleen, jotta haku indeksi voidaan päivittää. Manuaalista vaihetta ei tarvita-tämä tapahtuu automaattisesti.
+- Kaikki, jotka ovat riippuvaisia "staattisista" linkeistä (kuten tiedostojen synkronointi ja OneNote-tiedostot), on korjattava manuaalisesti.
+- Jos lähdesivusto oli organisaation uutisivusto, Päivitä URL-osoite.Hanki luettelo kaikista organisaation uutis sivustoista.
+- Project Server-sivustot on ehkä validoitava sen varmistamiseksi, että ne liittyvät edelleen oikein.
 
 
 

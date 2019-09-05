@@ -1,6 +1,6 @@
 ---
-title: Uloskuittauksen hylkääminen
-ms.author: kirks
+title: Hylkää uloskuittaus
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ca494779e43ac84f5243d69ab579d8bc919be5f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512672"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755629"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Asiakirjakirjaston Uloskuittauksen hylkääminen
+# <a name="discard-a-check-out-from-a-document-library"></a>Uloskuittaus hylätään asiakirja kirjastosta
 
-1. Napsauta hiiren kakkospainikkeella tiedostoa haluat hylätä uloskuittauksen.
+1. Napsauta hiiren kakkos painikkeella tiedostoa, jonka uloskuittauksen haluat hylätä.
     
 2. Valitse **Lisää**ja valitse sitten **Hylkää uloskuittaus**. 
     
-3. -Valintaikkunassa valitse **Hylkää uloskuittaus** , tyhjennä valintaruutu. 
+3. Valitse valinta ikkunasta **Hylkää** uloskuittaus. 
     
-Katso Lisää kysyttävää kuitataan sisään- ja uloskuittaus, [eniten kysymyksiin sisäänkuittaus, uloskuittaus ja versiot](https://go.microsoft.com/fwlink/?linkid=2018786).
+Lisä tietoja sisään-ja uloskuittaukset-kohdasta on kohdassa [uloskuittauksia, kuittauksia ja versioita koskevat Suosituimmat kysymykset](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

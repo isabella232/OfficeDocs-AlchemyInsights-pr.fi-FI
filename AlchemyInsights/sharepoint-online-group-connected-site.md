@@ -1,6 +1,6 @@
 ---
 title: Ryhmän lisääminen SharePoint-sivustoon
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507844"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750517"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Kun yhdistetty SharePoint Online-sivustojen luomista tai ryhmän ongelmat
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Ongelmia luotaessa tai ryhmittäessä yhdistettyjä sivustoja SharePoint Onlinessa
 
-Jakautuvat yleisten ongelmien yhteydessä luominen tai luominen uudelleen ryhmän sivusto havainnut pari.
+Ryhmän yhdistettyä sivustoa luotaessa tai luotaessa uudelleen on ilmennyt muutamia yleisiä ongelmia.
 
- Jos olet poistanut ryhmän ja sen yhteydessä sivuston ja haluat luoda toisen sivuston kanssa samaa URL-Osoitetta, sinun on poistaa pysyvästi Edellinen sivusto.
+ Jos olet poistanut ryhmän ja sen yhdistetyn sivuston ja haluat luoda toisen sivuston, jolla on sama URL-osoite, sinun on poistettava edellinen sivusto pysyvästi.
 
-Lataa [SPO-hallintaliittymä](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+Lataa [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
 
- Katso lisätietoja aloittaminen powershell [aloittaminen SharePoint Online-hallintaliittymä](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+ Lisä tietoja PowerShellin käytön aloittamisesta on Ohje aiheessa [SharePointin online-hallinta liittymän käytön](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) aloittaminen
 
-Sivuston poistaminen poistaa sivustot käyttämällä [Poista-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) powershell-komentosovelmalla.
+Poista sivusto poistetut sivustot käyttämällä [Poista-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell cmdlet.
 
-Jos luot ryhmän yhteydessä sivuston ja samaa tunnusta toiselle ryhmälle on jo varoituksen, tarkista [Office 365-hallintakeskukseen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)olemassa olevat ryhmät. Määritetty ratkaise ongelmaa, poista aiemmin luotu ryhmä, jos ei enää tarvita tai luo sivuston, jossa toinen alias.
+Jos olet luomassa ryhmä liitettyä sivustoa ja saat varoituksen, toinen samanniminen ryhmä on jo olemassa, Tarkista nykyiset ryhmät [Office 365-sivustosta hallinta keskuksesta](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Voit ratkaista ongelman poistamalla aiemmin luodun ryhmän, jos sitä ei enää tarvita, tai luomalla sivuston, jossa on eri alias määritetty.
 
-Voit luoda ja käyttää SharePointin kanssa nykyaikaisen ryhmille eri tavoin.
+On olemassa erilaisia tapoja luoda ja käyttää nykyaikaisia SharePoint-ryhmiä.
 
-Voit muodostaa yhteyden Office 365-ryhmän aiemmin luotuihin sivustoihin. Lisätietoja Katso [yhteyden Office 365-ryhmälle, käyttämällä SharePoint-käyttäjä ineterface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+Voit yhdistää aiemmin luotuja sivustoja Office 365-ryhmään. Lisä tietoja on Ohje aiheessa [Office 365-ryhmän yhdistäminen SharePoint-käyttäjän Interface-toiminnolla](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
 
-Office 365-ryhmän yhteydessä sivuston luominen, sinun on luoda ryhmäsivuston. Saat lisätietoja, [Luo SharePoint-ryhmäsivuston](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
+Jos haluat luoda Office 365-ryhmään liitetyn sivuston, sinun on luotava Ryhmäsivusto. Lisä tietoja on kohdassa [ryhmäsivuston luominen SharePointissa](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
 

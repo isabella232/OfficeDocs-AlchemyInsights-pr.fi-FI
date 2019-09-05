@@ -1,6 +1,6 @@
 ---
-title: Korjaa virhe 0x8004de40 OneDrive
-ms.author: kirks
+title: Korjaa 0x8004de40-virhe OneDrivessa
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525056"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755845"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Korjaa virhe 0x8004de40 OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Korjaa 0x8004de40-virhe OneDrivessa
 
-Jos näyttöön tulee virhesanoma 0x8004de40 OneDrive kanssa:
+Jos näyttöön tulee virhe 0x8004de40 OneDrivessa:
 
-- Uudelleenkäynnistystä tietokonetta yhdistettynä Acitve Directory-toimialueeseen.
-- Jos uudelleenkäynnistys ei korjaa ongelmaa, eroa ja liittyä Azure AD: stä laitteeseen. 
+- Käynnistä haavoittuvuuden sisältävät tieto kone uudelleen, kun olet muodostanut yhteyden Acitve-hakemisto toimi alueeseen.
+- Jos uudelleenkäynnistys ei korjaa ongelmaa, avaa laitteen liitos ja liitä se uudelleen Azure ADISTA. 
 
-**Huomautus**: näiden vaiheiden aikana on oltava yrityksen verkossa. Älä suorita nämä vaiheet, kun et pysty muodostamaan yhteyttä yrityksen infrastruktuurin (esimerkiksi matkoilla). 
+**Huomautus**: sinun pitäisi olla yrityksen verkossa, kun suoritat näitä vaiheita. Älä tee näitä vaiheita, kun et pysty muodostamaan yhteyttä yrityksen infrastruktuuriin (esimerkiksi matkoilla). 
 
-- Avaa järjestelmänvalvojan oikeuksin suoritettava komentokehote. 
-- Avaa järjestelmänvalvojan oikeuksin suoritettava komentokehote, napsauta - **Käynnistä-painiketta**hiiren kakkospainikkeella **Komentorivi**ja valitsemalla **Suorita järjestelmänvalvojana**.
-- Kirjoita *dsregcmd /leave* ja paina **Enter**-näppäintä.
-- Kun asennus on valmis, kirjoita *dsregcmd /join* ja paina **Enter**.
-- Kun olet valmis, sulje komentokehote.
-- Käynnistä tietokone uudelleen ja kirjaudu järjestelmään OneDrive.
+- Avaa laajennettu komento kehote. 
+- Voit avata järjestelmänvalvojan oikeuksin suoritettavan komento kehotteen valitsemalla- **Käynnistä**, napsauttamalla hiiren kakkos painikkeella **komento kehote**-kohtaa ja valitsemalla sitten **Suorita järjestelmänvalvojana**.
+- Kirjoita *dsregcmd/Leave* ja paina **ENTER**.
+- Kun olet valmis, kirjoita *dsregcmd/Join* ja paina **ENTER**.
+- Kun olet valmis, sulje komento kehote.
+- Käynnistä tieto kone uudelleen ja Kirjaudu sisään OneDriveen.

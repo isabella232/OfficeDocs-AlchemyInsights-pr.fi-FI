@@ -1,5 +1,5 @@
 ---
-Title: Päivitä Internet-liitin ei toimi oikein
+title: Päivittäminen Web Connectorin avulla ei toimi oikein
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753286"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748897"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Päivitä Internet-liitin ei toimi oikein
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Päivittäminen Web Connectorin avulla ei toimi oikein
 
-Jos sinulla web connector-komentosarjan, joka käyttää [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) -funktiota ja 2016, marraskuu 18th, kun olet päivittänyt dataset tai raportti on Käytä yhdyskäytävää, jotta päivitys toimii oikein.
+Jos sinulla on Web Connector-komento sarja, joka käyttää [Web. Page](https://msdn.microsoft.com/library/mt260924.aspx) -funktiota ja olet päivittänyt tieto joukkosi tai raporttisi marraskuun 18th, 2016 jälkeen, sinun on käytettävä yhdyskäytävää, jotta päivitys toimisi oikein.
 
-Lisätietoja:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Lisä tietoja:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

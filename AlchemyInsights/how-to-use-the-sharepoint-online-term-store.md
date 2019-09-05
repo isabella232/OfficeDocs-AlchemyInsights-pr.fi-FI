@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online Termisäilön käyttäminen
-ms.author: kirks
+title: SharePoint Online-termi säilön käyttäminen
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539638"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754837"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online Termisäilön käyttäminen
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>SharePoint Online-termi säilön käyttäminen
 
-Termisäilö on käytettävissä Office 365: n yleinen järjestelmänvalvoja, SharePoint-järjestelmänvalvojan ja termi myymälän valvojat ja löydät uuden SharePoint Online hallintakeskukseen.
+Termi säilö on Office 365 Global admin-, SharePoint admin-ja Term Store-järjestelmänvalvojien käytettävissä, ja se löytyy uudesta SharePoint Online-hallinta keskuksesta.
   
-Katso lisätietoja luokituksen sisällä SharePoint Online-ja SharePoint Online Termisäilö on [Johdatus Hallitut metatiedot](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Lisä tietoja SharePoint Online-termi säilön ja taksonomian käyttämisestä SharePoint Onlinen sisällä on kohdassa [johdotettu metatiedot](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Jos sinulla on ongelma ei näy tai näy ajoittain, on suositeltavaa odottaa 24 tuntia ja kirjaudu sitten tukipyynnön Jos ongelma toistuu. Vaikka 24 tuntia voi olla pitkä aika, välimuistia ongelma voi olla tai on ehkä jo toimi ratkaisua tähän ongelmaan.
+Jos sinulla on ongelma, jonka ehdot eivät näy tai näy ajoittain, Suosittelemme odottamaan 24 tuntia ja sitten kirjata tuki pyynnön, jos ongelma jatkuu. Vaikka 24 tuntia voi olla pitkä aika, voi olla väli muisti ongelma tai saatamme jo työskennellä ratkaisun ongelmaan.
   

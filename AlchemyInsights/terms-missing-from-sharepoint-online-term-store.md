@@ -1,6 +1,6 @@
 ---
-title: Puuttuu SharePoint Online Termisäilön termien
-ms.author: kirks
+title: SharePoint Online-termi säilöstä puuttuvat termit
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500824"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749149"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Puuttuu SharePoint Online Termisäilön termien
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online-termi säilöstä puuttuvat termit
 
-Termit SharePoint Online haluat nähdä Termisäilö ei tule tai ovat ajoittain näy.
+SharePoint Online-termi säilön ehdot, joita odotat, eivät näy tai ne näkyvät ajoittain.
   
-Jos on kulunut yli 24 tuntia näit tämän ongelman, kirjaudu tukipyynnön. Ymmärrämme, että 24 tunnin lakkaavan kuin pitkään aikaan. Monissa tapauksissa olemme jo käsittelet ratkaisu niin antakaa meille vähintään 24 tuntia.
+Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaa tuki tapaus. Ymmärrämme, että 24 tuntia voi tuntua pitkän aikaa. Monissa tapa uksissa olemme jo tekemässä ratkaisua, joten antakaa meille vähintään 24 tuntia.
   

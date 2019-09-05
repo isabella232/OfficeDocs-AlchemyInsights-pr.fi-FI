@@ -1,6 +1,6 @@
 ---
-title: Näyttöön tulee virhesanoma, kun tiedostojen jakaminen
-ms.author: kirks
+title: Virhe sanoma tiedostoja jaettaessa
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527288"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755953"
 ---
-# <a name="error-messages-when-sharing"></a>Kun jaat virhesanomat
+# <a name="error-messages-when-sharing"></a>Virhe sanomat jaettaessa
 
-Jos näyttöön tulee virhesanoma yritettäessä jakaminen ulkoinen käyttäjä, todennäköisesti ulkoisen jakaminen ei ole käytössä tai jakaminen on määritetty Salli jakaminen käyttäjän taso yrittää.
+Jos näyttöön tulee virhe sanoma, kun yrität jakaa ulkoisen käyttäjän kanssa, todennäköisesti ulkoinen jakaminen ei ole käytössä tai jakaminen on määritetty sallimaan käyttäjän yrittämän jakamisen taso.
   
-Uusi SharePoint-hallintakeskukseen valitsemalla vasemman ruudun **jakamisen** . Valitse taso, jakaminen, haluatko sallia. Varmista, että ulkoinen jakaminen on otettu käyttöön sivustossa. 
+Valitse uudessa SharePointin hallinta keskuksessa **jako** vasemmassa ruudussa. Valitse jakamisen taso, jonka haluat sallia. Varmista, että ulkoinen jakaminen on käytössä sivustolla. 
   
-Jos yrität kirjautua sisään käyttäjä saa virhesanoman, kokeile seuraavia toimia:
+Jos käyttäjä yrittää kirja utua, saa virhe sanoman, kokeile seuraavia vaiheita:
   
-- Varmista, että käyttäjä on hyväksynyt jakamiskutsun, joka on lähetetty.
+- Varmista, että käyttäjä on hyväksynyt lähetetyn jakamis kutsun.
     
-- Varmista, että käyttäjä hyväksyy kutsun, joilla on sähköpostiosoite, joka on lähetetty.
+- Varmista, että käyttäjä hyväksyy kutsun Sähkö posti osoitteella, johon se lähetettiin.
     
 

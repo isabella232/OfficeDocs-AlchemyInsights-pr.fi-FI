@@ -1,6 +1,6 @@
 ---
-title: Outlook.com-asetukset
-ms.author: kirks
+title: Outlook.com asetukset
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535388"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752893"
 ---
-# <a name="settings-in-outlookcom"></a>Outlook.com-asetukset
+# <a name="settings-in-outlookcom"></a>Asetukset Outlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jos vastaanottaja on organisaation sisäisiä tai ulkoisia, ja jos ne käyttävät Office 365 tai Outlook.com-sähköpostitili, seuraavien asiakkaiden ei tarvitse tehdä mitään erityistä Avaa viesti: <strong>2016 Outlookin, Outlook web-tai Outlook Web App-</strong> <strong>Outlook mobile app</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Edustajat</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">käyttäjille, että suojattu sähköpostiviesti on lähetetty, ei voi avata suojatut viestit. Vain alkuperäinen (henkilö, joka on suojattu sähköpostiviesti lähetettiin) vastaanottajat voivat tarkastella tietoja sähköpostissa.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jos vastaanottaja on eri internet-palveluntarjoajan ja he ovat&nbsp;ei voi avata viestin ja näet &lsquo;rpmsg&rsquo; liite, neuvoo uudelleen noudattamalla seuraavia ohjeita:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Valitse <strong style="mso-bidi-font-weight: normal;">luku</strong> viestin.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ohjataan sivulle, jossa ne pitäisi valita &lsquo; <strong style="mso-bidi-font-weight: normal;">kirjautua sisään kerran tunnuskoodi</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kertakäyttöisiä PIN-koodi lähetetään samaan sähköpostiosoitteeseen. Syötä koodi selaimen ikkunassa ja valitse <strong style="mso-bidi-font-weight: normal;">Jatka</strong> , jos haluat lukea viestisi.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jos et pysty salattuihin viesteihin toisesta Office 365-organisaatiolta, noudattamalla ratkaisu tässä <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">artiklassa</span></a> määriteltyjen.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jos vastaanottajan postilaatikko on <strong>Yahoo tai Gmail </strong> <span style="mso-bidi-font-weight: bold;">Noudata ohjeita</span> tämän <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">artikkelin</span></a>.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Suojaa koskevat käytännöt vain <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">tunnettuja tiedostomuotoja</span></a>. PDF- ja OneDrive Business-liitteelle ei tue salausta.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jaetut postilaatikot</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">ei voi avata tällä hetkellä kaikki asiakkaan avulla salattuja viestejä.</span></li> </ul>
+Jos vastaanottaja on organisaatiosi sisäinen tai ulkoinen ja jos hän käyttää Office 365-tai Outlook.com-Sähkö posti tiliä, seuraavien asiakkaiden ei tarvitse tehdä mitään erityistä viestin avaamiseen: **outlook 2016, Outlook Webissä/Outlook Web Appissa, Outlook-mobiilisovellus**
+
+Suojattuja viestejä ei voi avata sellaisten käyttäjien **edustajien** toimesta, joille suojattu Sähkö posti lähetettiin. Vain alkuperäiset vastaanottajat (henkilö, jolla suojattu Sähkö posti lähetettiin) voivat tarkastella Sähkö posti viestin tietoja.
+
+- Jos vastaanottaja on eri Internet-palveluntarjoajalla ja hän&nbsp;ei voi avata viestiä ja nähdä rpmsg-liitteen, noudata alla olevia ohjeita:
+    - Valitse **Lue** viesti.
+    - Ne ohjataan sivulle, jossa heidän tulisi valita **Kirjaudu sisään kerta koodi koodilla**.
+    - Samaan Sähkö posti osoitteeseen lähetetään kertakäyttöinen pääsy koodi. Kirjoita koodi selain ikkunaan ja valitse **Jatka** , jos haluat lukea viestisi.
+- Jos et voi salata viestejä toisesta Office 365-organisaatiosta, noudata tässä [artikkelissa](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)määritettyjä ratkaisu vaiheita.
+- Jos vastaanottajan posti laatikko on **Yahoo tai Gmail**, noudata tässä [artikkelissa](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)annettuja ohjeita</span> .
+- Suojaus käytännöt koskevat vain [tunnettuja tiedosto muotoja](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Salausta ei tueta PDF-ja OneDrive for Business-liite tiedostoilla.
+- Jaetut posti laatikot **eivät voi avata salattuja sanomia tällä hetkellä minkään asiakkaan kautta**. 

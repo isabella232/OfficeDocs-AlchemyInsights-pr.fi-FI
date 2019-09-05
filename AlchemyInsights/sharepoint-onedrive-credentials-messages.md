@@ -1,6 +1,6 @@
 ---
-title: Avaa SharePoint-kirjaston tiedoston Resurssienhallinnassa
-ms.author: kirks
+title: SharePoint-kirjaston avaaminen Resurssienhallinnassa
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 12d895b6a9fdd9bc14b858d171acb8dccb1b6b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d33e0ad6903d960320578d3e3b2b5224d07a9574
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507988"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751021"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Tunnistetietojen viestit SharePoint- tai OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Tunniste tieto sanomat SharePointissa tai OneDrivessa
 
-Saattaa ajoittain on pyytää Office SharePoint Online-tai OneDrive tunnistetietoja kun yrität avata tiedostoja.
+Office voi ajoittain pyytää käyttäjiä antamaan tunniste tiedot SharePoint Onlineen tai OneDriveen yrittäessään avata dokumentteja.
 
-Seuraavassa on joitakin esimerkkejä tunnistetietojen viestit:
+Seuraavassa on esimerkkejä tunniste tieto viesteistä:
 
-- Kirjaudu sisään organisatoriset
+- Kirjaudu sisään organisaatio tilillä
 
-- Tunnistetiedot tarvitaan
+- Tunniste tiedot ovat pakollisia
 
-- Ei voi muodostaa juuri nyt, Tarkista verkkoyhteys
+- Emme voi muodostaa yhteyttä juuri nyt, tarkista verkko yhteys
 
-Jos näitä oireita esiintyy, kokeile sijaitsee [tämän artikkelin](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)ohjeiden mukaisesti.
+Jos kohtaat näitä oireita, kokeile [tässä artikkelissa](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)olevia ohjeita.
 
-Myös jos käytät kertakirjautumisen (SSO) tarkistamiseen, tutustu [tämän artikkelin](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) sen sijaan.
+Vaihtoehtoisesti, jos todentamiseen käytetään kertakirjautumista (SSO), Lue [Tämä artikkeli](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) sen sijaan.
 

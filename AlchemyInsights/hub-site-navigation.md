@@ -1,23 +1,23 @@
 ---
-title: Pääsivuston sivuston rajat ja rajoitukset
-ms.author: kirks
+title: Keskitin sivuston rajoitukset ja rajoitukset
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: 0704d846bc30f2773298fb40631be915c88b964d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5bf96213a6ebed97facca81426f31175f57462d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539314"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754549"
 ---
-# <a name="sharepoint-hub-site-navigation"></a>SharePoint-pääsivuston sivuston siirtymistoimintojen
+# <a name="sharepoint-hub-site-navigation"></a>SharePoint Hub-sivuston navigointi
 
-Ylimpänä pääsivusto ja liittyvät sivustot, sivuston navigointi, edellä on keskitin sivustojen siirtymispalkkiin. Pääsivuston sivuston omistaja voi mukauttaa [Siirtymistyökalurivi](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
+Keskitin sivuston ja kaikkien siihen liittyvien sivustojen yläosassa sivuston siirtymis palkissa on keskitin sivuston siirtymis palkki. Jos olet Hub-sivuston omistaja, voit mukauttaa [siirtymis palkkia](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
 
-**Huomautus:** On suositeltavaa Viestimissivusto tai ryhmäsivuston mallilla Nykyaikainen hub-sivustoksi. Jos käytät perinteistä työryhmäsivusto, keskitin siirtyminen näkyy vain Moderni sivuilla ja Moderni sivulla näkyy vain pääsivuston sivuston asetukset. 
+**Huom:** On suositeltavaa valita viestintä-sivusto tai ryhmäsivusto, joka käyttää modernia mallia keskitin sivustoosi. Jos käytät klassista ryhmäsivustoa, keskitin navigointi näkyy vain nykyaikaisilla sivuilla, ja keskitin sivuston asetukset näkyvät vain nykyaikaisella sivulla. 
 
 

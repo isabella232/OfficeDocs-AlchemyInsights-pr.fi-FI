@@ -1,6 +1,6 @@
 ---
 title: Ulkoinen jakaminen ryhmäsivuston kanssa
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525962"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755881"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Ulkoinen jakaminen ryhmäsivuston kanssa
 
-Ulkoisen käyttäjän ryhmäsivustoja jakaminen käyttöön seuraavasti: 
+Voit ottaa ulkoisten käyttäjien jakamisen käyttöön ryhmä sivustoissa seuraavasti: 
   
-1. Valitse uuden SharePoint-hallintakeskukseen **aktiiviset sivustot**.
+1. Valitse uusi SharePoint-hallinta keskus-kohdasta **Aktiiviset sivustot**.
   
-2. Valitse sivusto, joka sisältää **Ryhmäsivusto** -malliin. 
+2. Valitse sivusto, jolla on **ryhmäsivustomalli** . 
   
-3. Valitse **jakaminen** -painiketta yläreunan valikosta. 
+3. Valitse **jako** painike ylävalikosta. 
   
- **Huomautus**: oletusarvon mukaan Moderni ryhmäsivuston luomisen yhteydessä jaetulle ulkoinen asetetaan uudet ja olemassa olevat Ulkoiset käyttäjät. 
+ **Huomautus**: kun nykyaikainen ryhmäsivusto luodaan, ulkoisen jakamisen asetukseksi määritetään oletusarvoisesti uudet ja nykyiset ulkoiset käyttäjät. 
   
- **Huomautus:** Jos olet valinnut useamman kuin yhden sivuston, **jakaminen** -painike näkyy ei käytössä. Valitse vain yksi sivustosta. 
+ **Huom:** Jos valittuna on useampi kuin yksi toimi paikka, **jakamis** painike näkyy poissa käytöstä. Valitse vain yksi sivusto. 
   
 

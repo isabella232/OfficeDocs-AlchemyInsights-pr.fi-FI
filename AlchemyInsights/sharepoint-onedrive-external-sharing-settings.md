@@ -1,6 +1,6 @@
 ---
-title: Ota ulkoisen SharePoint jakamisen käyttöön tai poistaa käytöstä
-ms.author: kirks
+title: Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä SharePointissa
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507880"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750913"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varoitus: organisaation käytäntöjä ei salli jakamista käyttäjien kanssa
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varoitus viesti: organisaatiosi käytännöt eivät anna sinun jakaa näitä käyttäjiä
 
-Käyttäjät saattavat kohdata varoitussanoma, kun yrität jakaa organisaation ulkoisten käyttäjien kanssa. Viesti on **organisaation käytännöt eivät salli jakaminen näiden käyttäjien kanssa. Siirry Office 365-hallintakeskukseen ulkoisen jakamiseen, jotta se**. Tämä tapahtuu usein yritetään jakaa ulkoisten käyttäjien kanssa tai uusien ulkoisten käyttäjien kanssa ensimmäistä kertaa.
+Käyttäjille saattaa ilmetä varoitus sanoma, kun yritetään jakaa organisaatiosi ulkoisten käyttäjien kanssa. Viesti on **organisaatiosi käytännöt eivät salli jakaa näiden käyttäjien kanssa. Ota se käyttöön siirtymällä kohtaan ulkoinen jakaminen Office 365-hallinta keskuksessa**. Tämä tapahtuu usein ensimmäisen kerran, kun yritetään jakaa ulkoisten käyttäjien kanssa tai jakaa uusien ulkoisten käyttäjien kanssa.
 
-Tarkista organisaation **SharePoint ja OneDrive ulkoisten jakamisen asetukset** .
+Tarkista organisaatiosi **SharePoint-ja OneDrive-ulkoiset jakamis asetukset** .
 
-1. Valitse yhteys [365 hallintakeskukseen Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**.
-3. Valitse ulkoisen jakamisen asetuksia Nähdäksesi **jakaminen** .
+1. Valitse [Microsoft 365-hallinta keskuksessa](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**.
+3. Voit tarkastella ulkoisia jakamis asetuksia valitsemalla **jakaminen** .
 
-Tarkista **ulkoisen jakamisen asetukset** tietyn sivuston.
+Tarkista tietyn sivuston **ulkoiset jakamis asetukset** .
 
-1. Valitse yhteys [365 hallintakeskukseen Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**.
-2. Valitse **aktiiviset sivustot** Nähdäksesi saatavilla olevat sivustot.
-3. Valitse sivusto, jonka haluat tarkistaa, ja valitse **jakaminen** -painiketta, joka näkyy valikkorivillä, voit tarkistaa sivuston asetukset.
+1. Valitse [Microsoft 365-hallinta keskuksessa](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**.
+2. Valitse **Aktiiviset sivustot** nähdäksesi käytettävissä olevat sivustot.
+3. Valitse tarkistettava sivusto ja vahvista sitten sivuston asetukset valitsemalla **jako** painike, joka näkyy valikko palkissa.
 
-Lisätietoja [ulkoisen jakamisen yleiskuvaus](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Lisä tietoja on kohdassa [ulkoisen jakamisen yleiskuvaus](https://docs.microsoft.com/sharepoint/external-sharing-overview).
