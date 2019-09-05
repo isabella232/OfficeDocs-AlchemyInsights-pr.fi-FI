@@ -1,5 +1,5 @@
 ---
-title: Määritä sähköpostien lähettäminen edelleen
+title: Sähkö postin edelleenlähetyksen määrittäminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3d7b246c7b1463f02e5386207fcb5a3a1d14811e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f3763840185e03b3a75ca2adc33cb685d6236738
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666225"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741146"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Tarkista sähköposti, välittäminen postilaatikon asetukset
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Posti laatikon sähkö postin edelleenlähetysasetusten tarkistaminen
 
-On helppo tarkistaa sähköpostin välittäminen Office 365-postilaatikon asetukset. Noudata seuraavia ohjeita.
+Office 365-posti laatikon sähkö postin edelleenlähetysasetusten tarkistaminen on helppoa. Seuraa vain näitä vaiheita.
   
-> Jos käyttäjän postilaatikon, siirry **käyttäjät** \> **Aktiiviset käyttäjät** ja valitse joka on postilaatikko, ovat huomauttaneet. Valitse **Sähköposti** -välilehdessä **Hallitse emaill välittäminen**.
+> Jos kyseessä on käyttäjän posti laatikko, siirry **käyttäjät** \> **aktiiviset käyttäjät** -kohtaan ja valitse lähettämä posti laatikko. Valitse **Mail** -väli lehdeltä **Hallitse posti-edelleenlähetys**.
     
-> Jos tämä on jaettu postilaatikko, siirry **ryhmiä** \> **Jaetut postilaatikot** ja valitse jaetun Exchange-postilaatikon ovat huomauttaneet. Valitse **Muokkaa** sähköpostin edelleenlähetys.
+> Jos kyseessä on jaettu posti laatikko, siirry kohtaan **ryhmät** \> **Jaetut posti laatikot** ja valitse edelleenlähettämä jaettu posti laatikko. Valitse **Muokkaa** sähkö postin edelleenlähettämistä varten.
 
-On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [määrittäminen sähköpostin välittäminen Office 365: ssä](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
+Oletko käyttänyt vanhaa hallinta keskusta? Jos haluat lisä tietoja vanhoista vaiheista, katso [sähkö postin edelleenlähetyksen määrittäminen Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)-tieto koneessa.
   
-Voit lähettää käyttäjille ohjeita, niin ne voit määrittää sähköpostin välityksen postilaatikoihinsa, ne osoittavat välittämään [Sähköposti-sähköposti toiseen asiakkaaseen Office 365: ssä](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Huomaa, että voit välittää vain yksi sähköpostiosoite. Jos haluat määrittää tietylle ryhmälle henkilöitä välityksen, luoda jakeluluettelon (ryhmät)-kohdassa Lisää käyttäjiä ja määritä siirto kyseiseen ryhmään.
+Lähettää ohjeita käyttäjille, jotta he voivat määrittää sähkö postin edelleenlähetyksen omissa posti laatikoissa, osoita niitä [välittämään sähkö postia Office 365 toiselle Sähkö posti tilille](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Huomaa, että voit lähettää vain yhden Sähkö posti osoitteen. Jos sinun on määritettävä edelleenlähetys käyttäjä ryhmälle, luo jakelu luettelo (ryhmät-kohdassa), Lisää käyttäjät siihen ja määritä sitten edelleenlähetys kyseiseen ryhmään.
   
-Onko sinulla työntekijä jättää? Katso suositeltuja [Poista entinen työntekijä-Office 365: ssä](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) .
+Onko sinulla työn tekijä poistumatta? Katso suositeltujen vaiheiden [poistaminen entinen työn tekijä Office 365-palvelusta](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .
   

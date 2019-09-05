@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660789"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737870"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Ulkoisten käyttäjien lisääminen jakelu ryhmään
 
@@ -38,7 +38,7 @@ Ulkoisen yhteys tiedon lisääminen jakelu ryhmään (DG) on kaksivaiheinen pros
     
     5. Valitse edellisessä vaiheessa luomasi Sähkö posti yhteys henkilö ja valitse sitten **Tallenna**.
     
-Jos seuraavat toimet ulkoisten käyttäjien ei voi lähettää sähkö posteja DG tai eivät saa sähkö posteja siitä, se voisi olla, että DG on merkitty sallimaan vain sähkö postit sisäisille käyttäjille. Voit tarkistaa tämän kokoonpanon ja korjata sen [noudattamalla ohjeita.](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+Jos seuraavat toimet ulkoisten käyttäjien ei voi lähettää sähkö posteja DG tai eivät saa sähkö posteja siitä, se voisi olla, että DG on merkitty sallimaan vain sähkö postit sisäisille käyttäjille. Voit tarkistaa tämän kokoonpanon ja korjata sen [noudattamalla ohjeita.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)
   
  **Huom:** Näitä ohjeita ei sovelleta, jos ryhmäsi tyyppi on "Office 365 Group" eikä "jakelu ryhmä". Tällöin voit lisätä ulkoisen käyttäjän suoraan ryhmään Outlookista. Lisä tietoja Office 365-ryhmistä sekä ohjeet ulkoisten vieraiden lisäämisestä löytyvät [tästä artikkelista](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

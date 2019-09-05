@@ -1,5 +1,5 @@
 ---
-title: Valvojan roolissa ja määrittäminen
+title: Järjestelmänvalvojan rooli ja määrittäminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493913"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737078"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Mitä admin rooleista ja siitä, miten voit liittää ne?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Mitä ovat järjestelmänvalvojan roolit ja miten määrität ne?
 
-Ilmeisesti sinulla on järjestelmänvalvoja-roolien kysymyksiin. Nämä artikkelit tulisi vastata kaikkiin kysymyksiin.
+Näyttää siltä, että sinulla on kysyttävää järjestelmänvalvojan rooleista. Näissä artikkeleissa on vastattava kaikkiin kysymyksiisi.
   
-- [Tietoja Office 365 -järjestelmänvalvojan rooleista](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Tietoja järjestelmänvalvojan rooleista](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Järjestelmänvalvoja-roolien määrittäminen](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Määritä järjestelmänvalvojan roolit](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Kysymykseesi ei löydy vastausta? Ei hätää! Tukihenkilö puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
+Etkö vastannut kysymykseesi? Ei hätää! Käytä "Soita meille"-vaihto ehtoa, jos haluat keskustella tuki insinöörin kanssa.
   

@@ -1,5 +1,5 @@
 ---
-title: Kaksi eri omistajien välillä postilaatikoiden siirtäminen
+title: Posti laatikoiden siirtäminen kahden eri vuokralaisten välillä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544644"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734450"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Kaksi eri omistajien välillä postilaatikoiden siirtäminen
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Posti laatikoiden siirtäminen kahden eri vuokralaisten välillä
 
-Joudut ehkä siirtää postilaatikoita kaksi eri omistajien välillä Office 365: ssä, kun sulautumista organisaatioon. Näitä siirtoja tulee huolellisesti suunniteltuja. Lue seuraavat ohjeet:
+Sinun on ehkä siirrettävä posti laatikoita kahden eri vuokralaisten välillä Office 365-organisaatiossa, esimerkiksi silloin, kun on olemassa organisaatio fuusioita. Nämä muutto liikkeet on suunniteltava huolellisesti. Lue seuraavat ohjeet:
   
-[Postilaatikoiden siirtäminen toiseen yksi Office 365-vuokralaisen](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Posti laatikoiden siirtäminen yhdestä Office 365-vuokrasta toiseen](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

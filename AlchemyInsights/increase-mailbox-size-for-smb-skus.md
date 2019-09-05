@@ -1,5 +1,5 @@
 ---
-title: Postilaatikon kokoa SMB SKU-tietoja varten
+title: Lisää SMB-SKU-posti laatikon kokoa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499276"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739238"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Vaihda postilaatikon kokoa suunnittelee
+# <a name="switch-plans-to-increase-mailbox-size"></a>Vaihda suunnitelmat posti laatikon koon lisäämiseksi
 
-Jos postilaatikon koko on 50 Gigatavua, [Office 365 Enterprise-E3](https://products.office.com/business/office-365-enterprise-e3-business-software) tai [Office 365 Enterprise-E5](https://products.office.com/business/office-365-enterprise-e5-business-software)vaihtamalla paranee postilaatikon kokoa 100 gigatavua. Voit siirtyä eri Office 365-suunnitelman toimet ovat seuraavat:
+Jos posti laatikon koko on 50 Giga tavua, voit suurentaa posti laatikon kokoa 100 Giga tavua siirtymällä [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) -tai [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)-kokoon. Voit siirtyä toiseen Office 365-suunnitelmaan seuraavasti:
   
-1. Siirry [tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle Microsoft-365-hallintakeskukseen tai valitse **laskutuksen** \> **tilaukset**.
+1. Siirry Microsoft 365-hallinta keskukseen [tila ukset](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle tai valitse **laskutus** \> **tilaukset**.
     
-2. **Valitsin suunnitelmia** valita tarkastella uusia suunnitelmia, jotka ovat käytettävissä. 
+2. Valitse **Vaihda suunnitelmia** nähdäksesi luettelon uusista suunnitelmista, jotka ovat käytettävissä. 
     
-3. Valitse uusi kokonaiskustannuksia kuukaudessa suunnitelma. Muista lukea **tiedot**, ja valitse sitten **Seuraava** ulos. 
+3. Valitse suunnitelma nähdäksesi uudet kokonaiskustannukset kuukaudessa. Muista lukea **keskeiset tiedot**ja valitse sitten **Seuraava** . 
     
-4. Kun lopetat poistuminen, Office 365 kestää muutaman minuutin valitsin lukkoon. Voit aloittaa uuden tilauksen heti.
+4. Kun lopetat Kassalle siirtymisen, Office 365 vie muutaman minuutin kytkimen viimeistelyä varten. Voit aloittaa uuden tilauksesi käyttämisen heti.
     
-Lisätietoja Katso [Siirtyminen Office 365: ssä eri suunnitelma](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Lisä tietoja [on kohdassa siirtyminen toiseen Office 365-suunnitelmaan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

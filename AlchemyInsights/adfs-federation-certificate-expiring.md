@@ -1,5 +1,5 @@
 ---
-title: ADFS Federation varmenteen vanhenemisen
+title: ADFS Federation-sertifikaatti vanhenemassa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499888"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737186"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS Federation varmenteen vanhenemisen
+# <a name="adfs-federation-certificate-expiring"></a>ADFS Federation-sertifikaatti vanhenemassa
 
-Voit ratkaista tämän ongelman seuraavasti:
+Voit ratkaista tämän ongelman tekemällä seuraavat toimet:
   
-1. Asenna Microsoftin Azure Active Directory moduuli varten Windows PowerShell tietokoneeseen (Jos moduulia ei ole asennettu). Voit tehdä tämän Siirry [Hallitse Azure AD Windows PowerShellin avulla](https://aka.ms/aadposh).
+1. Asenna Microsoft Azure Active Directory Module for Windows PowerShell tieto koneeseen (jos moduulia ei ole jo asennettu). Voit tehdä tämän siirtymällä [Azure AD:n hallintaan Windows PowerShellin avulla](https://aka.ms/aadposh).
 
-2. Ohjeiden mukaisesti ”skenaario 1: AD FS-tunnussanoman allekirjoituksen sertifikaatti on vanhentunut” [Virhe ”virhe sivuston” liitetty käyttäjä kirjautuu sisään Office 365 ja Azure, Intune kun AD FS](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)-osassa.
+2. Noudata "skenaario 1: AD FS Token-allekirjoitus varmenne vanhentunut"-osion ohjeita " [sivuston käyttämisessä"-virhe AD FS:ssä, kun Federated User kirjautuu Office 365-, Azure-tai Intune-käyttäjäksi](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. [Kuinka päivittää tai korjata liitetty toimialue Office 365 ja Azure, Intune asetukset](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)noudattamalla.
+3. Noudata [Office 365-, Azure-tai Intune-tieto koneessa olevan Federated Domain-asetusten päivittäminen tai korjaaminen](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)-ohjeita.
 
-    Lisätietoja Federation varmenteiden uusiminen, katso [Uusi Office 365 ja Azure Active Directory federation sertifikaatteja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Lisä tietoja yhdistämisen varmenteiden uusimisesta [on artikkelissa Office 365: in ja Azure Active Directoryn yhdistämisen varmenteiden uusiminen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

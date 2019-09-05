@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497030"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734918"
 ---
 # <a name="managing-yammer-users"></a>Yammer-käyttäjien hallinta
 
-1. Saat tietoja Yammer käyttäjien hallinta Office 365- [käyttäjät Yammer hallita koko niiden elinkaari Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Sisältää tiedot:
+1. Lisä tietoja Yammer-käyttäjien Hallin nasta Office 365-tieto koneesta on artikkelissa [Yammer-käyttäjien hallinta office 365-palvelusta](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Tämä sisältää seuraavat tiedot:
 
   - Käyttäjän luominen
 
   - Käyttäjien poistaminen
 
-  - Yammer-käyttäjien hallinta Office 365: ssä
+  - Yammer-käyttäjien hallinta Office 365-palvelusta
 
-2. Lue [Lisää, torjua tai poistaa käyttäjiä Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) tietoja käyttäjien hallinta siirtyy Yammer-hallintakonsoli. Tämä sisältää:
+2. Lisä tietoja käyttäjien Hallin nasta Yammerin hallinta konsolista on artikkelissa [Yammerin käyttäjien lisääminen, estäminen tai poistaminen](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . Tämä sisältää:
 
-  - Kutsut tai poistamalla käyttäjiä
+  - Käyttäjien kutsuminen tai poistaminen
 
-  - Houkutteleva vierailevat käyttäjät
+  - Vierailleen käyttäjien kutsuminen
 
-  - Luettelon käyttäjälle
+  - Käyttäjä luettelon vieminen
 
-3. Tietoja lisäämällä, poistamalla ja ulkoisten käyttäjien hallinta Katso [Lisää ulkoisen viestinnän osallistujien Yammer-verkkoon](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Lisä tietoja ulkoisten käyttäjien lisäämisestä, poistamisesta ja Hallin nasta on kohdassa [ulkoisten viesti osallistujien lisääminen Yammer-verkkoon](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

@@ -1,5 +1,5 @@
 ---
-title: Verkon siirto
+title: Verkon siirtäminen
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538454"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734702"
 ---
-# <a name="network-migration"></a>Verkon siirto
+# <a name="network-migration"></a>Verkon siirtäminen
 
-O365-vuokralaisen on mahdollisesti liitetty useita Yammer verkkoihin 1 omistaja: monet verkkojen kokoonpanon. 16. lokakuuta 2018 alkaen Yammer ei enää tue useita yhden Office 365-vuokralaisen liittyvät Yammer-verkkoja. Voit suorittaa verkon siirto saada ensisijainen kokoonpano 1:1.
+O365-vuokraaja liittyy mahdollisesti useisiin Yammer-verkkoihin 1 vuokralainen: Monet verkot kokoonpano. Loka kuun 16, 2018, Yammer ei enää tue useita Yammer-verkkoja, jotka liittyvät yhteen Office 365-vuokraajaan. Voit suorittaa verkko siirron, jotta pääset Preferred 1:1-kokoonpanoon.
   
-- Saat oman vuokralaisen liittyvien verkkojen luettelon kirjautua järjestelmänvalvojana Office 365: n yleinen Yammer ja **Verkko Admin**, sitten **Verkon siirron**selaamalla. Valitse **Seuraava**.
+- Voit tarkastella vuokraajaan liittyvien verkkojen luetteloa kirjautumalla Yammeriin Office 365 Global Administrator-käyttäjänä ja selaamalla verkon **ylläpitäjään**ja valitsemalla sitten **verkko siirto**. Valitse **Seuraava**.
 
-- Näet vaihe 2 / 3 listalla useita verkkoja, jos sinulla on useita O365-vuokralaisen liittyvät Yammer-verkkoja.
+- Jos näet useita verkkoja, jotka on lueteltu 3: ssa vaiheessa 2, sinulla on useita Yammer-verkkoja, jotka liittyvät O365-vuokraajaan.
 
-- 1:1 kokoonpanossa kokoonpanon korjatakseen edelleen verkon Migration Tool-työkalun avulla.
+- Jos haluat korjata kokoonpanon 1:1-konfiguraatiolle, jatka verkon siirto työkalun käyttämistä.
 
-- Saat lisätietoja verkon siirron [verkon siirto: yhdistää useita Yammer-verkkojen](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Lisä tietoja verkon siirtymistään on kohdassa [verkko siirto: useiden Yammer-verkkojen konsolidointi](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Huomaa:
+Huomaathan:
   
-- **Verkon siirto siirtää vain aktiiviset ja odottavat käyttäjiä.** Aktiivisia käyttäjiä ja käyttäjien tietoja, kuten nimen ja profiili kuva siirretään myös. Verkon sisältöä, ryhmiä, ei siirretä.
+- **Verkon siirtäminen siirtää vain aktiiviset ja odottavat käyttäjät.** Aktiivisten käyttäjien ohella myös käyttäjien tiedot, kuten nimi ja profiili kuva, siirtyvät. Verkko sisältöä, mukaan lukien ryhmiä, ei siirretä.
 
-- **Verkon siirto ei voi kumota.** Et kuitenkaan pysty käyttämään toissijaista verkon ja sen sisällön siirron jälkeen. Ennen kuin pidät siirron, haluat siis suunnitella huolellisesti.
+- **Verkko siirtoa ei voi kumota.** Et voi käyttää tytär yhtiön verkkoa ja sen sisältöä siirron jälkeen. Joten ennen kuin harkitsemme siirtymistä, haluat suunnitella huolellisesti.

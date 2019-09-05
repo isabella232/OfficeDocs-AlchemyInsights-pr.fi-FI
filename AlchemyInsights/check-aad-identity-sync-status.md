@@ -1,5 +1,5 @@
 ---
-title: AAD identiteetin synkronoinnin tilan tarkistaminen
+title: Tarkista AAD-identiteetin synkronoinnin tila
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520556"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738518"
 ---
-# <a name="check-aad-identity-sync-status"></a>AAD identiteetin synkronoinnin tilan tarkistaminen
+# <a name="check-aad-identity-sync-status"></a>Tarkista AAD-identiteetin synkronoinnin tila
 
-Tarkistuksen synkronoinnin tila on helppoa:
+Synkronoinnin tilan tarkistaminen on helppoa:
   
-- Kirjaudu sisään Microsoft 365 hallintakeskukseen ja valitse **DirSync tila** kotisivulla.
+- Kirjaudu sisään Microsoft 365-hallinta keskukseen ja valitse koti sivulla **DirSync-tila** .
 
-- Vaihtoehtoisesti voit siirtyä käyttäjät \> aktiivisia käyttäjiä ja aktiiviset käyttäjät-sivulla, valitse yksi \> Directory-synkronointi.
+- Vaihtoehtoisesti voit siirtyä käyttäjät \> aktiiviset käyttäjät, ja aktiiviset käyttäjät-sivulla, valitse Lisää \> hakemiston synkronointi.
 
-- Valitse hakemiston synkronointi-ruudussa Siirry DirSync hallinta.
+- Valitse hakemiston synkronointi-ruudussa Siirry DirSync-hallintaan.
 
-Jos on vikaa directory-synkronointi-virheet näkyvät tällä sivulla. Saat lisätietoja eri virheitä saattaa esiintyä [directory synkronointivirheitä määrittäminen Office 365: ssä](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Jos hakemiston synkronoinnissa on ongelma, virheet näkyvät tällä sivulla. Saat lisä tietoja eri virheistä, joita saatat kohdata, kohdasta [hakemiston synkronointi virheiden tarkasteleminen Office 365-palvelussa](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

@@ -1,5 +1,5 @@
 ---
-title: Ota käyttöön arkistointi-postilaatikko
+title: Arkistoinnin posti laatikon ottaminen käyttöön
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665119"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736286"
 ---
-# <a name="enable-an-archive-mailbox"></a>Ota käyttöön arkistointi-postilaatikko
+# <a name="enable-an-archive-mailbox"></a>Arkistoinnin posti laatikon ottaminen käyttöön
 
-Arkistoi postilaatikot (kutsutaan myös *Online-arkistot*) Office 365: ssä tarjoavat käyttäjille, joilla on muita email varastointi. Käyttäjät voivat siirtää tai kopioida kohteita postilaatikon arkiston ja järjestelmänvalvojat voit luoda Arkistokäytäntö, jossa nimikkeitä arkistoida postilaatikoita siirretään automaattisesti.
+Arkistoi posti laatikot Office 365 (kutsutaan myös *online-arkistot*) antaa käyttäjille ylimääräisiä email varastointi. Käyttäjät voivat siirtää tai kopioida kohteita Arkisto posti laatikkoon, ja järjestelmänvalvojat voivat luoda Arkisto käytännön, joka siirtää kohteet automaattisesti arkistoon posti laatikoihin.
   
-Tähän on arkisto-postilaatikon luominen:
+Voit luoda Arkisto posti laatikon näin:
   
 1. Siirry osoitteeseen [https://protection.office.com](https://protection.office.com).
 
-2. Kirjaudu Office 365: n Järjestelmänvalvoja-tilin avulla.
+2. Kirjaudu sisään Office 365-tiliisi käyttämällä järjestelmänvalvojan tiliä.
 
-3. Vakuuden vasemmalla puolella &amp; Compliance Centeriin valitsemalla **tiedot hallinnon** \> **arkisto**.
+3. Valitse tieto turvan &amp; yhteensopivuus keskuksen vasemmasta ruudusta **tietojen hallinta** \> **Arkisto**.
 
-4. Valitse käyttäjä, jonka haluat ottaa käyttöön arkisto-postilaatikon.
+4. Valitse käyttäjä, jonka Arkisto posti laatikon haluat ottaa käyttöön.
 
-5. Tietoruudussa oikealla valitsemalla **Ota käyttöön** ja valitse sitten **Kyllä** varoitussanoman niin, Arkistoi postilaatikko.
+5. Valitse oikealla olevassa tieto ruudussa **Ota käyttöön** ja ota Arkisto posti laatikko käyttöön valitsemalla varoitus viestissä **Kyllä** .
 
-Voit myös bulk-ottaa sen käyttöön arkistoida postilaatikoita ( **VAIHTO** - tai **Ctrl** -näppäimen avulla) useat käyttäjät valitsemalla ja valitsemalla sitten tiedot-ruudussa **käyttöön** .
+Voit myös ottaa Arkisto posti laatikot käyttöön kerralla valitsemalla useita käyttäjiä (käyttämällä **vaihto** -tai **CTRL** -näppäimiä) ja valitsemalla sitten tieto ruudusta **Ota käyttöön** .
   
 Lisätietoja on seuraavissa artikkeleissa:
   
-- [Ota käyttöön Arkistoi postilaatikot Office 365: ssä](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Ota Arkisto posti laatikot käyttöön Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Määrittää arkistoinnin ja poistamisen käytännön Office 365: ssä](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Arkisto-ja poisto käytännön määrittäminen Office 365-sovelluksen kautta](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

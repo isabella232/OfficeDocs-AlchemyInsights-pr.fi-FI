@@ -1,5 +1,5 @@
 ---
-title: 959 Vaihda näyttönimi
+title: 959 muuta näyttö nimi
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519800"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736718"
 ---
-# <a name="change-your-display-name"></a>Vaihda näyttönimeä
+# <a name="change-your-display-name"></a>Näyttö nimen vaihtaminen
   
-Jos haluat muuttaa näyttönimeäsi Outlookin, toimi seuraavasti.
+Voit muuttaa näyttö nimeäsi Outlookissa seuraavasti.
   
-1. **Outlookissa, valitse** \> **Asetusten** \> **Tilin asetukset**.
+1. Valitse Outlookissa **tiedosto** \> **tilin asetukset** \> **.**
 
-2. Sähköpostitili ja valitse sitten **Muuta**.
+2. Valitse Sähkö posti tili ja valitse sitten **Muuta**.
 
     > [!NOTE]
-    > Voit muuttaa näyttönimeäsi ei näy, jos käytät luultavasti Microsoft Exchange-sähköpostitili. Sinun on tässä tapauksessa yhteyttä järjestelmänvalvojaan, jos haluat muuttaa näyttönimeäsi. On [muuttaa käyttäjänimi ja sähköpostiosoite Office 365: ssä](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Jos et näe vaihto ehtoa muuttaa näyttö nimeäsi, käytät luultavasti Microsoft Exchangen Sähkö posti tiliä. Tässä tapa uksessa sinun on otettava yhteyttä järjestelmänvalvojaan, jotta voit muuttaa näyttö nimeäsi. Katso [käyttäjä nimen ja Sähkö posti osoitteen muuttaminen Office 365-käyttö liittymässä](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Kun olet muuttanut näyttönimi, valitse **OK** , jos haluat tallentaa tekemäsi muutokset. Saattaa kestää muutaman tunnin muutokset koko organisaation mukaisiksi.
+3. Kun olet muuttanut näyttö nimeäsi, Tallenna tekemäsi muutokset valitsemalla **OK** . Muutosten heijastamista koko organisaatiossa voi kestää muutaman tunnin.
 
-Lisätietoja [nimen, sähköpostin vastaanottajat näkevät muutoksen](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Lisä tietoja on kohdassa [Muuta sähkö postin vastaanottajien näyttämä näyttö nimi](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

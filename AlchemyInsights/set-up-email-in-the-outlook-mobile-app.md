@@ -1,5 +1,5 @@
 ---
-title: 1800014 määrittäminen sähköpostin Outlook mobile app
+title: 1800014 sähkö postin määrittäminen Outlook Mobile-sovelluksessa
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509177"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734162"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Määritä sähköposti Outlook mobile App
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Sähkö postin määrittäminen Outlook Mobile-sovelluksessa
 
-1. Valitse **Aloita** on sähköposti mobile App ylös ensimmäisen kerran asetusta. Muuten, napauta **valikko** ja sitten **asetukset** \> **Lisää tili** \> **Lisää sähköpostitili**.
+1. Valitse **Aloita** , jos määrität sähkö postia ensimmäistä kertaa mobiilisovelluksessa. Napauta muussa tapa uksessa **valikko** ja sitten **Asetukset** \> **Lisää tili** \> **Lisää Sähkö posti tili**.
 
-2. Kirjoita koko sähköpostiosoitteesi ja napauta **Lisää tili**- tai **Jatka** .
+2. Anna koko Sähkö posti osoitteesi ja napauta **Jatka** tai **Lisää tili**.
 
-3. Sähköposti salasana ja napauta **Kirjaudu sisään** tai **Seuraava**.
+3. Anna Sähkö posti tilisi sala sana ja napauta **Kirjaudu** sisään tai **Seuraava**.
 
-4. Jos käytössä on [monitasoisen todennuksen](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , tarkistaa menetelmällä määritetään (6-numeroinen koodi, puhelu tai Microsoftin Authenticator app).
+4. Jos [usean tekijän todennus](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) on käytössä, tarkista käyttämällä menetelmää, jonka olet määrittänyt (6-numeroinen koodi, puhelu tai Microsoft Authenticator-sovellus).
 
-5. Jos muita IT admin käytännöt ovat paikoillaan, napauta **Aktivoi** ne.
+5. Jos muita IT-järjestelmänvalvojan käytäntöjä on käytössä, ota ne käyttöön napauttamalla **Aktivoi** .
 
-6. Outlook voi pyytää lupaa käyttää kalenteria, yhteystietoja ja muita tietoja. Valitse **Kyllä** , tai **sallia**.
+6. Outlook saattaa pyytää kalenterin, yhteys tietojen ja muiden tietojen käyttö oikeutta. Valitse **Kyllä** tai **Salli**.
 
-Saat yksityiskohtaiset ohjeet [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) tai [iOS Outlookin](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) määrittäminen.
+Hanki yksityiskohtaiset ohjeet [Outlook for Androidin](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) tai [Outlookin iOS:n](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) käyttöön täältä.
   
  **Tarvitsetko apua?**
   
-- [Sähköpostin asetukset Mobile liittyviä ongelmia](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Sähkö postin asennus ohjelman vian määritys mobiililaitteella](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Outlook-iOS ja Android app-ohjeita](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [IOS:n ja Androidin Outlookin sovellusapu](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

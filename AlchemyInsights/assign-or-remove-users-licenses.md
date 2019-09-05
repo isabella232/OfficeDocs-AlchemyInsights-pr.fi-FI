@@ -1,5 +1,5 @@
 ---
-title: Liitä tai poista käyttäjien käyttöoikeudet
+title: Käyttäjien käyttö oikeuksien määrittäminen tai poistaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574431"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736970"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Liitä tai poista käyttäjien käyttöoikeudet
+# <a name="assign-or-remove-users-licenses"></a>Käyttäjien käyttö oikeuksien määrittäminen tai poistaminen
 
-Järjestelmänvalvojana voit muuttaa käyttäjien käyttöoikeuksia tarpeen. Artikkelit alla kerrotaan, miten voit hallita käyttäjien käyttöoikeudet, mukaan lukien:
+Järjestelmänvalvojana voit muuttaa käyttäjien käyttö oikeuksia tarpeen mukaan. Alla olevissa artikkeleissa näytetään, miten voit hallinnoida käyttäjien lisenssejä, kuten:
   
-- [Käyttöoikeuksien määrittäminen käyttäjille Office 365 for Businessissa](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Käyttöoikeuksien määrittäminen käyttäjille Office 365 for Businessissa](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Määrityksen käyttöoikeuksien poistaminen käyttäjiltä Office 365 yrityksille](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Poista käyttö oikeuksien määritys käyttäjiltä Office 365 for Business](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Kysymykseesi ei löydy vastausta? Ei hätää! ”Apua”-painikkeen avulla voit puhua tukihenkilö.
+Etkö vastannut kysymykseesi? Ei hätää! Käytä "Tarvitsetko apua"-painiketta puhuaksemme tuki teknikko.

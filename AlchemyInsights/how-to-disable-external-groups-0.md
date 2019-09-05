@@ -1,5 +1,5 @@
 ---
-title: Ulkoinen ryhmien poistaminen käytöstä
+title: Ulkoisten ryhmien poistaminen käytöstä
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541214"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739562"
 ---
-# <a name="how-to-disable-external-groups"></a>Ulkoinen ryhmien poistaminen käytöstä
+# <a name="how-to-disable-external-groups"></a>Ulkoisten ryhmien poistaminen käytöstä
 
-Ulkoiset käyttäjät voivat käyttää verkkoa, Yammer-kolmella tavalla.
+Ulkoiset käyttäjät voivat käyttää verkkoa Yammerissa neljällä tavalla.
   
-1. **Vierailijat** - Yammer järjestelmänvalvojat voivat kutsua yhteyshenkilöitä, ulkoisten toimialueiden kotiverkon käyttäjät. Nämä käyttäjät näkevät kaikki yrityksen syötteen ja voit liittyä verkkoihin sekä muihin ryhmiin.
+1. **Vieraasi käyttäjät** -Yammerin järjestelmänvalvojat voivat kutsua yhteys tietoja ulkoisista verkko tunnuksista koti verkon käyttäjiksi. Nämä käyttäjät näkevät kaikki yrityksen syötteen ja voivat liittyä myös muihin verkostojen ryhmiin.
 
-2. **Ulkoisten käyttäjien ulkoisen ryhmässä** - ulkoinen ryhmät Ulkoiset käyttäjät. Ulkoisen käyttäjän käyttöoikeus soveltamisala rajoittuu ulkoisen ryhmä. Ulkoinen ryhmät voidaan kutsua vain Yammer-verkoissa, joissa käyttäjät voivat osallistua ulkoisen keskustelujen yhteystiedot.
+2. Ulkoiset käyttäjät ulkopuolisessa **ryhmässä** -ulkoiset ryhmät sallivat ulkoiset käyttäjät. Ulkoisen käyttäjän käyttö oikeus rajoittuu ulkoiseen ryhmään. Ulkoisten ryhmien avulla voit kutsua vain Yammer-verkkojen yhteys tietoja, joiden avulla käyttäjät voivat osallistua ulkoisiin keskusteluihin.
 
-3. **Ulkoisten käyttäjien sisäisen ryhmän keskustelussa Yammer** - tämän vaihtoehdon avulla ulkoiset osallistujat lisätään tietyssä keskustelussa. Ulkoiset osallistujat voivat osallistua vain keskusteluja, ne on erikseen kutsuttu, ja keskusteluun-liitteet. Hän käyttää näiden keskustelujen kautta Yammer Saapuneet (verkossa). Niillä ei ole pääsyä verkkoon loput.
+3. **Ulkoiset käyttäjät Yammer-keskustelussa sisäisessä ryhmässä** -Tämä vaihto ehto sallii ulkoisten osallistujien lisäämisen tiettyyn keskusteluun. Ulkoiset osallistujat voivat osallistua keskusteluihin vain, jos heidät on nimenomaisesti kutsuttu ja mihin tahansa kyseisen keskustelun liitteisiin. He pääsevät käsiksi näihin keskusteluihin Yammer-posti laatikon kautta (verkostonsa kautta). Heillä ei ole pääsyä muuhun verkkoon.
 
-4. **Ulkoiset verkot** - tämän vaihtoehdon avulla voit kutsua ulkoinen verkko, joka vahvistaa verkon järjestelmänvalvojat voivat luoda ulkoisia käyttäjiä. Tämä vaihtoehto soveltuu parhaiten yhteisöjen ulkoisen isäntänä.
+4. **Ulkoiset verkot** -tämän vaihto ehdon avulla voit kutsua ulkoisia käyttäjiä ulkoiseen verkkoon, jonka ylläpitäjät voivat luoda verkossasi. Tämä vaihto ehto soveltuu parhaiten ulkoisten yhteisöjen isännöintiin.
 
-Saat lisätietoja Lue [Lisää ulkoisen viestinnän osallistujien Yammer keskusteluihin](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) ja [Ulkoisen viestinnän FAQ (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Lisä tietoja on kohdassa [ulkoisten viestien osallistujien lisääminen Yammer-keskusteluihin](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) ja [ulkoisten viestien usein kysyttyihin kysymyksiin (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

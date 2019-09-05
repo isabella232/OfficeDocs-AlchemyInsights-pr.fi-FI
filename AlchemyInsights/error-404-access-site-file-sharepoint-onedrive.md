@@ -1,5 +1,5 @@
 ---
-title: '404 virhe: Tiedostoa ei löydy'
+title: 'Virhe 404: tiedostoa ei löydy'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527396"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740210"
 ---
-# <a name="error-404-file-not-found"></a>404 virhe: Tiedostoa ei löydy
+# <a name="error-404-file-not-found"></a>Virhe 404: tiedostoa ei löydy
 
-**404 virhe: tiedostoa ei löydy** vastaanotetaan, kun käyttäjät yrittävät käyttää sivustoa tai SharePoint-tai OneDrive. Usein syynä on sivuston tai tiedoston tai ryhmän aloittaminen nimetty uudelleen, siirretty tai poistettu.
-Käyttäjien ilmenee virhe yritettäessä käyttää sivustokokoelman päätason ja se on poistettu.
+**Virhe 404: tiedostoa ei löydy** vastaanotetaan, kun käyttäjät yrittävät käyttää sivustoa tai tiedostoa SharePointissa tai OneDrivessa. Syynä on usein se, että sivusto tai tiedosto tai ryhmä saa uudelleennimetyn, siirretyn tai poistetun ryhmän.
+Käyttäjät kokevat virheen yrittäessään käyttää pääsivustokokoelmaa, ja ne on poistettu.
 
-Seuraavat voi auttaa tämän ongelman ratkaisemiseksi:
-- [Näytä ja palauttaminen poistaa hallintakeskukseen uuden SharePoint-sivustojen](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): Moderni sivustojen (tietoliikenne, ryhmän yhteydessä, tai muihin sivustoihin), jotka ovat esikatselu uusi admin Centerissä.
-- [SharePoint-sivuston Roskakorin kohteiden palauttaminen](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Voit korjata tiedoston (tai jonkin muun kohteen), joka on nimetty uudelleen, siirretty tai poistettu Siirry OneDrive- tai SharePoint-sivustoon ja Näytä kierrätys varastopaikan-sivuston sisältöä.
-- [Etsiä Office 365-suojauksen valvontalokiin kirjataan &amp; Compliance Centerin](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): Etsi valvontalokin (Jos kirjaaminen on käytössä), jos et vieläkään onnistu, Etsi kohde.
+Seuraavat seikat voivat auttaa ratkaisemaan tämän ongelman:
+- [Näytä ja Palauta poistetut sivustot uudessa SharePoint-hallinta keskuksessa](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): nykyaikaisissa sivustoissa (viestintä, ryhmä-yhdistetty tai muut sivustot), jotka ovat uudessa hallinta keskuksen esikatselussa.
+- [SharePoint-sivuston roska korin kohteiden palauttaminen](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Jos haluat ratkaista tiedoston (tai muun kohteen), joka on nimetty uudelleen, siirretty tai poistettu, siirry SharePoint-tai OneDrive-sivustoon ja Näytä roska kori sivuston sisällöstä.
+- [Etsi valvonta lokista suoja uksen &amp; yhteensopivuus keskus](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): Hae valvonta lokista (jos kirjaaminen on käytössä), jos et vieläkään löydä kohdetta.
