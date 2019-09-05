@@ -1,5 +1,5 @@
 ---
-title: Määritä salasanojen ei vanhene
+title: Sala sanojen asettaminen vanhenemaan koskaan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b74e12a2618ff34d27886eb6b8cf628f689307b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550080"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741110"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="d91aa-102">Määritä salasanojen ei vanhene</span><span class="sxs-lookup"><span data-stu-id="d91aa-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="922dd-102">Sala sanojen asettaminen vanhenemaan koskaan</span><span class="sxs-lookup"><span data-stu-id="922dd-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="d91aa-103">Määrittää salasanoja ei vanhene [suojauksen &amp; yksityisyyden](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="d91aa-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="d91aa-104">Napsauta ”Muokkaa” vieressä Salasanakäytäntö ja siirry liukusäädin ”käytössä”.</span><span class="sxs-lookup"><span data-stu-id="d91aa-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
+<span data-ttu-id="922dd-103">Määritä Sala sanat, jotta [tieto suoja &amp; ](https://portal.office.com/adminportal/home#/settings/security)ei vanhene koskaan.</span><span class="sxs-lookup"><span data-stu-id="922dd-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="922dd-104">Klikkaa "Muokkaa" salasana käytännön vierestä ja käännä liuku säädintä "on".</span><span class="sxs-lookup"><span data-stu-id="922dd-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
   
-<span data-ttu-id="d91aa-105">Lisätietoja Katso: [asettaa salasanan Vanhenemiskäytäntö organisaatiolle](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="d91aa-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
+<span data-ttu-id="922dd-105">Tarkempia tietoja on kohdassa [organisaation Sala sanan vanhenemis käytännön määrittäminen](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).</span><span class="sxs-lookup"><span data-stu-id="922dd-105">For more detailed information see: [Set the password expiration policy for your organization](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).</span></span>
   
 
