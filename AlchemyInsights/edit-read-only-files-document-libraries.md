@@ -1,6 +1,6 @@
 ---
 title: Vain luku-tiedoston muokkaaminen
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528116"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756097"
 ---
-# <a name="edit-a-read-only-file"></a><span data-ttu-id="eb153-102">Vain luku-tiedoston muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="eb153-102">Edit a read-only file</span></span>
+# <a name="edit-a-read-only-file"></a><span data-ttu-id="9eb2e-102">Vain luku-tiedoston muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="9eb2e-102">Edit a read-only file</span></span>
 
-<span data-ttu-id="eb153-103">Saatat huomata, että kun avaat tiedostoja, avaamista vain luku-muodossa.</span><span class="sxs-lookup"><span data-stu-id="eb153-103">You may find that when you are opening files, they open as read-only.</span></span> <span data-ttu-id="eb153-104">Joissakin tapauksissa tämä on suojauksen, kuten kun avaat tiedostoja Internetistä ja muina aikoina, se johtua, joka voi muuttaa asetusta.</span><span class="sxs-lookup"><span data-stu-id="eb153-104">In some cases, this is for added security, such as when you are opening files from the internet, and other times, it can be due to a setting that can be changed.</span></span> <span data-ttu-id="eb153-105">[Miksi Avaa tiedoston vain luku-](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) artikkelissa kerrottu joissakin tilanteissa, jossa tiedosto avataan vain luku-tilassa ja voit muuttaa joitakin toimia.</span><span class="sxs-lookup"><span data-stu-id="eb153-105">In the article [Why did my file open in read only](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) we outline some scenarios where a file opens read-only and some steps you can take to change that.</span></span>
+<span data-ttu-id="9eb2e-103">Saatat huomata, että kun avaat tiedostoja, ne avautuvat vain luku-muodossa.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-103">You may find that when you are opening files, they open as read-only.</span></span> <span data-ttu-id="9eb2e-104">Joissakin tapa uksissa tämä on lisä suojausta, esimerkiksi kun avaat tiedostoja Inter netistä, ja toisinaan se voi johtua asetuksesta, jota voidaan muuttaa.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-104">In some cases, this is for added security, such as when you are opening files from the internet, and other times, it can be due to a setting that can be changed.</span></span> <span data-ttu-id="9eb2e-105">Artikkelissa, [miksi tiedosto on avattu vain luku](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) -tilassa, hahmotellaan joitain skenaarioita, joissa tiedosto avaa vain luku-tilan ja joitakin vaiheita, joihin voit ryhtyä muuttamaan sitä.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-105">In the article [Why did my file open in read only](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) we outline some scenarios where a file opens read-only and some steps you can take to change that.</span></span>
 
-<span data-ttu-id="eb153-106">Tässä on avaaminen office-tiedostojen muokkaamista varten.</span><span class="sxs-lookup"><span data-stu-id="eb153-106">Here's how to open office files for editing.</span></span>
+<span data-ttu-id="9eb2e-106">Näin avaat Office-tiedostoja muokkausta varten.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-106">Here's how to open office files for editing.</span></span>
 
-<span data-ttu-id="eb153-107">Sen sijaan, että jos valitset otsikon, **Avaa valikko** (kolme pistettä) ja valitse sitten **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="eb153-107">Instead of clicking the document title, click **Open Menu** (the three dots), and then click **Edit**.</span></span>
+<span data-ttu-id="9eb2e-107">Napsauta asia kirjan otsikon sijasta **Avaa valikko** (kolme pistettä) ja valitse sitten **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-107">Instead of clicking the document title, click **Open Menu** (the three dots), and then click **Edit**.</span></span>
 
-<span data-ttu-id="eb153-108">Huomautus:</span><span class="sxs-lookup"><span data-stu-id="eb153-108">Notes:</span></span>
+<span data-ttu-id="9eb2e-108">Muistiinpanoja:</span><span class="sxs-lookup"><span data-stu-id="9eb2e-108">Notes:</span></span>
 
-- <span data-ttu-id="eb153-109">Jos haluat käyttää tiedostoja avata muokattavaksi Office kun napsautat otsikkoa, voit tehdä sen (niin kauan kuin sinulla on oikeus muuttaa asiakirjakirjaston asetuksia) voit määrittää kirjastoon.</span><span class="sxs-lookup"><span data-stu-id="eb153-109">If you'd rather have documents open for editing in Office when you click the title, you can set up the library to do that (as long as you have permission to change the library settings).</span></span>
+- <span data-ttu-id="9eb2e-109">Jos haluat mieluummin, että asia kirjat ovat avoinna muokattavaksi Officessa, kun napsautat otsikkoa, voit määrittää kirjaston tekemään sen (kunhan sinulla on oikeus muuttaa kirjaston asetuksia).</span><span class="sxs-lookup"><span data-stu-id="9eb2e-109">If you'd rather have documents open for editing in Office when you click the title, you can set up the library to do that (as long as you have permission to change the library settings).</span></span>
 
-- <span data-ttu-id="eb153-110">Jos kirjastot poistuminen, pakollisia sarakkeita tai kun vain käyttäjät, jotka voivat muokata asetuksia versio SharePoint-asiakirjakirjasto, nämä kohteet synkronoidaan vain luku-muodossa.</span><span class="sxs-lookup"><span data-stu-id="eb153-110">If you have libraries with Checkout, Required columns or when Only users who can edit in Version Settings of a SharePoint document library,these items will be synchronized as read-only.</span></span>
+- <span data-ttu-id="9eb2e-110">Jos sinulla on kirjastoja, joissa on kassa, pakolliset sarakkeet tai vain käyttäjät, jotka voivat muokata SharePoint-asiakirja kirjaston versio asetuksia, nämä kohteet synkronoidaan vain luku-muodossa.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-110">If you have libraries with Checkout, Required columns or when Only users who can edit in Version Settings of a SharePoint document library,these items will be synchronized as read-only.</span></span>
 
-- <span data-ttu-id="eb153-111">Office-asiakirja avataan suojatussa näkymässä vaikka ”Open Office-asiakirjojen luku-/ kirjoitusmuodossa selattaessa”-käytäntöasetus käyttöön.</span><span class="sxs-lookup"><span data-stu-id="eb153-111">An Office document opens in Protected View even though you enable the "Open Office documents as read/write while browsing" policy setting.</span></span> <span data-ttu-id="eb153-112">Saat lisätietoja, lue tämä [artikkelin.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)</span><span class="sxs-lookup"><span data-stu-id="eb153-112">For more information, please refer to this [article.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)</span></span>
+- <span data-ttu-id="9eb2e-111">Office-asia kirja avautuu suojatussa näkymässä, vaikka "Avaa Office-asia kirjat luetaan/kirjoitetaan selaamisen aikana"-käytäntö asetuksen avulla.</span><span class="sxs-lookup"><span data-stu-id="9eb2e-111">An Office document opens in Protected View even though you enable the "Open Office documents as read/write while browsing" policy setting.</span></span> <span data-ttu-id="9eb2e-112">Katso lisä tietoja tästä [artikkelista.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)</span><span class="sxs-lookup"><span data-stu-id="9eb2e-112">For more information, please refer to this [article.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)</span></span>
 

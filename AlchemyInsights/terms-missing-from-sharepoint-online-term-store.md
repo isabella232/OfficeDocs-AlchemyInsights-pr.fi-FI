@@ -1,6 +1,6 @@
 ---
-title: Puuttuu SharePoint Online Termisäilön termien
-ms.author: kirks
+title: SharePoint Online-termi säilöstä puuttuvat termit
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500824"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749149"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a><span data-ttu-id="c73ed-102">Puuttuu SharePoint Online Termisäilön termien</span><span class="sxs-lookup"><span data-stu-id="c73ed-102">Terms missing from SharePoint Online Term Store</span></span>
+# <a name="terms-missing-from-sharepoint-online-term-store"></a><span data-ttu-id="e6c11-102">SharePoint Online-termi säilöstä puuttuvat termit</span><span class="sxs-lookup"><span data-stu-id="e6c11-102">Terms missing from SharePoint Online Term Store</span></span>
 
-<span data-ttu-id="c73ed-103">Termit SharePoint Online haluat nähdä Termisäilö ei tule tai ovat ajoittain näy.</span><span class="sxs-lookup"><span data-stu-id="c73ed-103">The terms in the SharePoint Online Term Store you are expecting to see do not appear or are intermittently appearing.</span></span>
+<span data-ttu-id="e6c11-103">SharePoint Online-termi säilön ehdot, joita odotat, eivät näy tai ne näkyvät ajoittain.</span><span class="sxs-lookup"><span data-stu-id="e6c11-103">The terms in the SharePoint Online Term Store you are expecting to see do not appear or are intermittently appearing.</span></span>
   
-<span data-ttu-id="c73ed-104">Jos on kulunut yli 24 tuntia näit tämän ongelman, kirjaudu tukipyynnön.</span><span class="sxs-lookup"><span data-stu-id="c73ed-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="c73ed-105">Ymmärrämme, että 24 tunnin lakkaavan kuin pitkään aikaan.</span><span class="sxs-lookup"><span data-stu-id="c73ed-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="c73ed-106">Monissa tapauksissa olemme jo käsittelet ratkaisu niin antakaa meille vähintään 24 tuntia.</span><span class="sxs-lookup"><span data-stu-id="c73ed-106">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="e6c11-104">Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaa tuki tapaus.</span><span class="sxs-lookup"><span data-stu-id="e6c11-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="e6c11-105">Ymmärrämme, että 24 tuntia voi tuntua pitkän aikaa.</span><span class="sxs-lookup"><span data-stu-id="e6c11-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="e6c11-106">Monissa tapa uksissa olemme jo tekemässä ratkaisua, joten antakaa meille vähintään 24 tuntia.</span><span class="sxs-lookup"><span data-stu-id="e6c11-106">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   

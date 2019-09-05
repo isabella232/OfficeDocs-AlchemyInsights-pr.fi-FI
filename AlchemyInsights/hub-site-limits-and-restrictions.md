@@ -1,26 +1,26 @@
 ---
-title: Pääsivuston sivuston rajat ja rajoitukset
-ms.author: kirks
+title: Keskitin sivuston rajoitukset ja rajoitukset
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: be714787d426164e9e0d03050c8fe3fc8d858124
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539278"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754693"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="f9dfe-102">SharePoint-keskitin sivuston rajat ja rajoitukset</span><span class="sxs-lookup"><span data-stu-id="f9dfe-102">SharePoint hub site limits and restrictions</span></span>
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="92bb2-102">SharePoint Hub-sivuston rajoitukset ja rajoitukset</span><span class="sxs-lookup"><span data-stu-id="92bb2-102">SharePoint hub site limits and restrictions</span></span>
 
-- <span data-ttu-id="f9dfe-103">On suositeltavaa Viestimissivusto tai ryhmäsivuston, joka käyttää uusi Nykyaikainen malli.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="f9dfe-104">Jos käytät perinteistä työryhmäsivusto, keskitin siirtyminen näkyy Moderni sivuilla ja keskittimen asetukset näkyvät vain Moderni sivuilla.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
+- <span data-ttu-id="92bb2-103">On suositeltavaa valita viestintä-sivusto tai ryhmäsivusto, joka käyttää uutta modernia mallia.</span><span class="sxs-lookup"><span data-stu-id="92bb2-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="92bb2-104">Jos käytät klassista ryhmäsivustoa, keskitin navigointi näkyy vain nykyaikaisilla sivuilla, ja keskitin sivuston asetukset näkyvät vain nykyaikaisilla sivuilla.</span><span class="sxs-lookup"><span data-stu-id="92bb2-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
 
-- <span data-ttu-id="f9dfe-105">Sivustot, jotka on jo liitetty toiseen keskittimeen **ei** voi muuntaa keskitettyyn sivustoon.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span>
+- <span data-ttu-id="92bb2-105">Sivustoja, jotka on jo liitetty toiseen keskittimeen, **ei voi** muuntaa keskitin sivustoiksi.</span><span class="sxs-lookup"><span data-stu-id="92bb2-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span>
 
-- <span data-ttu-id="f9dfe-106">Voit luoda organisaatiollesi hub-sivustojen enintään 100.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="f9dfe-107">Ei ole rajoitettu määrä sivustoja, jotka voidaan liittää keskitettyyn sivustoon.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
+- <span data-ttu-id="92bb2-106">Voit luoda organisaatiollesi enintään 100 Hub-sivustoa.</span><span class="sxs-lookup"><span data-stu-id="92bb2-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="92bb2-107">Keskitin sivustoon liitettyä sivustojen määrää ei ole rajoitettu.</span><span class="sxs-lookup"><span data-stu-id="92bb2-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
 
-- <span data-ttu-id="f9dfe-108">Kun käyttäjät liitetään sivustojensa keskitetystä sivustosta, se ei siis vaikuta tai keskitettyyn sivustoon liittyvien sivustojen käyttöoikeuksia.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-108">When users associate their sites with a hub site, it doesn’t impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="f9dfe-109">On tärkeää, että keskitin liitetään keskittimeen sivustoja sallia kaikille käyttäjille oikeus.</span><span class="sxs-lookup"><span data-stu-id="f9dfe-109">It’s important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
+- <span data-ttu-id="92bb2-108">Kun käyttäjät yhdistävät sivustot Hub-sivustoon, se ei vaikuta joko keskitin sivuston tai siihen liittyvien sivustojen käyttö oikeuksiin.</span><span class="sxs-lookup"><span data-stu-id="92bb2-108">When users associate their sites with a hub site, it doesn’t impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="92bb2-109">On tärkeää varmistaa, että kaikilla käyttäjillä, jotka sallivat sivustojen liittävän keskittimeen, on käyttö oikeus keskittimeen.</span><span class="sxs-lookup"><span data-stu-id="92bb2-109">It’s important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
 
