@@ -1,6 +1,6 @@
 ---
-title: Muuta, SharePoint Online, toimialuenimi
-ms.author: kirks
+title: Muuta toimi alueen nimi SharePoint Onlinessa
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519188"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747637"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Muuta, SharePoint Online, toimialuenimi
+# <a name="change-domain-name-in-sharepoint-online"></a>Muuta toimi alueen nimi SharePoint Onlinessa
 
-Valitettavasti se ei ole mahdollista muuttaa SharePoint Online Office 365-organisaatiosi verkkotunnuksen. Jos organisaatiosi nimi muuttuu ”Contoso” ”Fourth Coffee”, et voi muuttaa contoso.sharepoint.com ja fourthcoffee.sharepoint.com.
+Office 365 ei valitettavasti voi muuttaa organisaatiosi SharePoint Online-toimi alue nimeä. Jos organisaatiosi nimi muuttuu esimerkiksi "contoso"-tilaksi "neljäs kahvi", et voi muuttaa contoso.sharepoint.com-fourthcoffee.sharepoint.com.
   
-Käyttämään toimialueen nimeä fourthcoffee.sharepoint.com, sinun on ostettava uusi Office 365-tilaus ja siirtää kaikki sähköposti, tiedostoja ja muita tietoja, jotka haluat säilyttää uuden tilauksen.
+Jos haluat käyttää verkko tunnusta fourthcoffee.sharepoint.com, sinun on hankittava uusi Office 365-tilaus ja siirrettävä kaikki sähkö posti, tiedostot ja muut tiedot, jotka haluat säilyttää uudelle tila ukselle.
   
- **Huomautus**: esimerkiksi, jos haluat muuttaa sivuston nimeä https://contoso.sharepoint.com/sites/sample1 , https://contoso.sharepoint.com/sites/sample2, luoda uuden sivuston ja Siirrä kaikkea sisältöä vanhasta sivustosta uuteen.
+ **Huomautus**: Jos haluat esimerkiksi muuttaa sivuston https://contoso.sharepoint.com/sites/sample1 nimen- https://contoso.sharepoint.com/sites/sample2, luo uusi sivusto-ja siirrä sitten kaikki vanhan sivuston sisältö uuteen.
   
-Katso tiedot siirretään kohteita, asiakirjakirjastojen [siirtämään tai kopioimaan kohteita SharePoint-asiakirjakirjastosta](https://go.microsoft.com/fwlink/?linkid=2025831).
+Lisä tietoja kohteiden siirtämisestä asiakirja kirjastoissa [on kohdassa kohteiden siirtäminen tai kopioiminen SharePoint-asiakirja kirjastosta](https://go.microsoft.com/fwlink/?linkid=2025831).
   

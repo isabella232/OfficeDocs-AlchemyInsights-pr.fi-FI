@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online-rajoitin
-ms.author: kirks
+title: SharePointin online-rajoitus
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: c7881c0c7331e0aa74fcc439f52157bb75a56160
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9e1400697b1e6435fea78703d2ecadc6733a57f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559838"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751885"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online-rajoitin
+# <a name="sharepoint-online-throttling"></a>SharePointin online-rajoitus
 
-Käyttäjät saattavat saada 503 palvelin on varattu virhe yritettäessä siirtyä SharePoint-sivustossa tai OneDrive. 
+Käyttäjät saattavat saada 503-palvelimen, on varattu-virhe yritettäessä siirtyä SharePoint-tai OneDrive-sivustoihin. 
 
-Tämä virhe voi johtua SharePoint-palvelun rajoittaminen. SharePoint Online käyttää rajoitin ylläpitää optimaalisen suorituskyvyn ja luotettavuuden SharePoint Online-palvelun. Rajoitin rajoittaa määrä käyttäjän toimia tai samanaikainen kutsuja (mukaan komentosarjoja tai koodia) luonnonvarojen liikakäyttö estetään. Jos voit saada rajoitettu aika mukautettua koodia on 99 %.
+Tämä virhe voi johtua rajoittamalla SharePoint-palvelussa. SharePoint Online käyttää rajoituksia SharePoint Online-palvelun optimaalisen suoritus kyvyn ja luotettavuuden ylläpitämiseen. Rajoitus rajoittaa käyttäjän toimien tai samanaikaisten kutsujen (komento sarjojen tai koodien) määrää resurssien liikan käytön estämiseksi. Jos saat throttled, 99% ajasta se johtuu mukautetun koodin.
 
-Lisätietoja rajoittaminen Katso, [Älä rajoitettu tai estetty SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Jos haluat lisä tietoja kuristus kohdasta, [Vältä rajoittumatta tai estetty SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Jos tämä virhe ei vaikuta siihen, rajoitus, voit tarkistaa onko aktiivisen ylläpidon käynnistämien että vuokralaisen siirtymällä [viestikeskuksesta](https://portal.office.com/adminportal/home#/MessageCenter).
+Jos epäilet, että tämä virhe ei liity rajoittamiseen, voit tarkistaa, onko vuokraajassasi aktiivinen ylläpito, siirtymällä [viesti keskukseen](https://portal.office.com/adminportal/home#/MessageCenter).
 
- Varmista lopuksi, käyt tiedotteiden ja tapahtumat, jotka on määrä tarkistaa [Palvelun kunto](https://portal.office.com/adminportal/home#/servicehealth) -sivulle.
+ Varmista lopuksi, että käyt [palvelun kunto](https://portal.office.com/adminportal/home#/servicehealth) -sivulla tarkistaataasi mahdollisesti ilmenneitä neuvoja/tapahtumia.
 

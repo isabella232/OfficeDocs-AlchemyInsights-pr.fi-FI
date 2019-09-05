@@ -1,5 +1,5 @@
 ---
-title: Asennus jumittuu tai noutaa jumissa
+title: Asennus jumittuu tai juuttuu
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498628"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735422"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Officen asennus jumittuu tai noutaa jumissa
+# <a name="office-installation-hangs-or-gets-stuck"></a>Officen asennus jumittuu tai juuttuu
 
-Tietokoneeseen, näyttöön saattaa tulla ongelman verkkoyhteys, virustorjuntaohjelmisto tai Windows Updaten asetuksia. Seuraavassa on joitakin asioita, voit yrittää korjata ongelman.
+Tämä ongelma saattaa ilmetä tieto koneen verkko yhteys-, virustentorjuntaohjelmisto-tai Windows Update-asetusten vuoksi. Tässä on joitain asioita, joita voit yrittää korjata ongelman.
   
-- Käynnistä tietokone uudelleen ja Tarkista Office asennettu
+- Käynnistä tieto kone uudelleen ja tarkista, onko Office asennettu
 
-- Käytä langallista yhteyttä
+- Kiinteän yhteyden käyttäminen
 
-- Jos olet hidas internet-yhteys, asenna Office [Office offline Installer-ohjelman käyttäminen](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Jos käytössäsi on hidas internet-yhteys, asenna Office [käyttämällä Officen offline-asennus ohjelmaa](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Virustentorjuntaohjelmiston poistaminen käytöstä tilapäisesti
+- Virustentorjuntaohjelmiston poistaminen tilapäisesti käytöstä
 
-- Suorita korjaus online Ohjauspaneelista
+- Suorita online-korjaus ohjaus paneelista
 
-- Poista ja asenna Office uudelleen.
+- Officen poistaminen ja asentaminen uudelleen
 
-[Office kestää kauan, voit asentaa](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Officen asennus kestää kauan](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

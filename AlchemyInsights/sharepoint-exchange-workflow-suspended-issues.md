@@ -1,6 +1,6 @@
 ---
-title: Aloittaminen SharePoint Online
-ms.author: kirks
+title: SharePoint Onlinen käytön aloittaminen
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503992"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751669"
 ---
-# <a name="workflows-in-sharepoint"></a>SharePoint-työnkulkuja
+# <a name="workflows-in-sharepoint"></a>Työn kulut SharePointissa
 
-SharePoint-työnkulkuja ei lähetetä sähköpostia, jos organisaation on kohdannut Exchange Onlinen lähettäjän rajat.
+Jos SharePoint-työn kulut eivät lähetä sähkö posteja, organisaatiosi on saattanut kohdata Exchange Online-lähettäjän rajoitukset.
 
-'Työnkulku keskeytetään ”virhesanoma voi tulla näyttöön, jos sinulla on jokin seuraavista:
+"Työn kulku on keskeytetty"-virhe sanoma saattaa ilmetä, jos sinulla on jokin seuraavista kohteista:
 
-- On työnkulun SharePoint Online, joka käyttää SharePoint 2010 tai SharePoint 2013-työnkulun ympäristötyyppi.
+- Sinulla on SharePoint Onlinen työn kulku, joka käyttää SharePoint 2010-tai SharePoint 2013-työn kulku ympäristön tyyppiä.
 
-- Jos haluat lähettää mukautetun sähköpostiviestin käyttäjille yli 200 kertaa, yli 10 000 vastaanottajaa päivässä tai yli 30 minuutissa viestit työnkulku on määritetty.
+- Työn kulku on määritetty lähettämään mukautettu Sähkö posti viesti yli 200 käyttäjälle kerrallaan, yli 10 000 vastaanottajaa päivässä tai yli 30 viestiä minuutissa.
 
-Työnkulun suoritus ei lähetetä sähköpostiviestin ja huomaat virhesanoma tulee näyttöön, kun sisäinen tilaksi määritetään Suspended tai ei voi lähettää vastaanottajalle.
+Kun suoritat työn kulun, sähkö posti viestiä ei lähetetä ja huomaat virhe sanoman, sisäinen tila on asetettu keskeytettäväksi tai vastaanottaja ei voi lähettää vastaanottajalle.
 
-Saat lisätietoja tutustu seuraavassa [artikkelissa](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Katso lisä tietoja seuraavasta [artikkelista](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

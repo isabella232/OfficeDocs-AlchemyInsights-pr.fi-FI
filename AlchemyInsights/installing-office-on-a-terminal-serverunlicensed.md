@@ -1,5 +1,5 @@
 ---
-title: Office asennetaan päätepalvelin - varastettu
+title: Officen asentaminen Terminal Serveriin-käyttö oikeus ei ole lisensoitu
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498412"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735386"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Päätepalvelimen asennuksen
+# <a name="installing-office-on-a-terminal-server"></a>Officen asentaminen pääte palvelimeen
 
-Voidaan ottaa käyttöön Office 365 ProPlus Windows-palvelimen käyttämällä Remote Desktop Services (RDS), nimeltään Terminal Services:
+Jos haluat ottaa Office 365 ProPlusin käyttöön Windows Serverissä käyttämällä Remote Desktop Servicesiä (RDS), aiemmin nimettyjä pääte palveluita:
   
-- Jos sinulla on Office 365-suunnitelma, joka sisältää Office 365 ProPlus, kuten Office 365 Enterprise-E3 tai yrityksen E5. Business Office 365: n ja Office 365: n Business Premium suunnitelmat eivät sisällä Office 365 ProPlus.
+- Sinulla on oltava Office 365-suunnitelma, joka sisältää Office 365 ProPlusin, kuten Office 365 Enterprise E3 tai Enterprise E5. Office 365 Business-ja Office 365 Business Premium-paketit eivät sisällä Office 365 ProPlusia.
 
-- On otettava käyttöön [jaettu tietokone aktivoiminen](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Sinun on otettava käyttöön [jaetun tieto koneen Akti vointi](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jos haluat asentaa Office 365 ProPlus RDS-Office 365-portaalin, ***joka käyttää oletusarvoisesti asennuksen asetuksia***, toimi seuraavasti:
+Jos haluat asentaa Office 365 ProPlus RDS Microsoft 365 hallinta keskukseen, ***joka käyttää asennuksen oletus asetukset***, toimi seuraavasti:
   
-1. Tarkista, mitä sinulla on Office 365-suunnitelma. [Lue lisätietoja siitä, miten](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Tarkista, mitä Office 365-suunnitelma sinulla on. [Lue, miten](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Jos tarpeen, siirry eri Office 365: ssä. [Lue lisätietoja siitä, miten](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Vaihda tarvittaessa toiseen Office 365-suunnitelmaan. [Lue, miten](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Jos RDS-palvelimeen, joka käyttää Office 365-suunnitelmat on jo asennettu Office, poista sen asennus. Esimerkiksi siirtymällä Ohjauspaneelin \> Poista ohjelman asennus. Asennuksen poisto käyttämällä [Microsoftin tuotetukeen ja palautus avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy) , jos ongelmia käytössä.
+3. Jos Office on jo asennettu RDS-palvelimeen muiden Office 365-palvelu pakettien avulla, poista se. Esimerkiksi siirtymällä ohjaus paneeliin \> Poista ohjelma. Poista asennus [Microsoft Support-ja Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) -ohjelman avulla, jos ongelmia ei ole.
 
-4. RDS-palvelimen kirjautuminen järjestelmänvalvojana ja [Asenna Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)Office 365-portaaliin.
+4. Kirjaudu RDS-palvelimella Microsoft 365-hallinta keskukseen järjestelmänvalvojan tilillä ja [Asenna Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Kun Office on asennettu, ***Älä avaa tai kirjautua sisään*** Office-sovelluksia.
+5. Kun Office on asennettu, ***Älä avaa tai Kirjaudu*** mihinkään Office-sovelluksiin.
 
-6. RDS-palvelimen käyttöön jaetun tietokoneen aktivointi muokkaamalla rekisteriä seuraavasti:
+6. Ota käyttöön jaetun tieto koneen Akti vointi RDS-palvelimessa muokkaamalla rekisteriä tekemällä seuraavat toimet:
 
-1. Napsauta näytön vasemmassa alakulmassa olevaa Windows-painiketta ja valitse Suorita. Kirjoita Avaa-ruutuun **regedit**ja valitse OK.
+1. Napsauta hiiren kakkos painikkeella näytön vasemmassa alakulmassa olevaa Windows-painiketta ja valitse Suorita. Kirjoita Avaa-ruutuun **regedit**ja valitse sitten OK.
 
-2. Valitse Kyllä, kun kehotetaan sallimaan Registry Editor tehdä muutoksia laitteen.
+2. Valitse Kyllä, kun sinua pyydetään sallimaan rekisteri editorin tehdä muutoksia laitteeseesi.
 
-3. Registry Editor Lisää merkkijonoarvo on **SharedComputerLicensing** , joka on asetettu 1 kohdassa HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Lisää rekisteri editorissa **Sharedcomputerlicensing** -merkki jono arvo, jonka asetus on 1 kohdassa HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. RDS-palvelin, ***Kirjaudu loppukäyttäjälle*** ja [että jaetun tietokoneen aktivointi on otettu käyttöön Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Kirjaudu sisään RDS-palvelimessa ***loppu käyttäjänä*** ja [Varmista, että Office 365 ProPlusin jaetun tieto koneen Akti vointi on käytössä](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Lisätietoja edellytykset, asennusohjeita ja ohjeita mukautettujen asennusten avulla Office Deployment Tool-työkalua on [Ottaa käyttöön Office 365 ProPlus Etätyöpöytäpalveluiden avulla](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Lisä tietoja edellytyksistä, asennus ohjeista ja ohjeista mukautetuista asennuksista Officen käyttöönotto työkalun avulla on artikkelissa [office 365 ProPlusin käyttöönotto Etätyöpöytäpalvelujen avulla](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Jaetun tietokoneen aktivointi liittyvien virheiden korjaamiseen on [jaetun tietokoneen aktivointi Office 365 ProPlus ongelmien vianmääritys](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Voit korjata jaettuun tieto koneen Akti vointiin liittyviä virheitä kohdasta [Office 365 ProPlusin jaetun tieto koneen Akti voinnin ongelmien vian määritys](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

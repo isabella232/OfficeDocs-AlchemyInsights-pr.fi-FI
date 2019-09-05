@@ -1,5 +1,5 @@
 ---
-title: Määritä Office 365-SPF
+title: Määritä SPF Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebb83c3cced55856963fa1784dd72760838366ca
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496000"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736358"
 ---
-# <a name="set-passwords-to-never-expire"></a>Määritä salasanojen ei vanhene 
+# <a name="set-passwords-to-never-expire"></a>Sala sanojen asettaminen vanhenemaan koskaan 
 
-Voit määrittää kaikkien salasanojen vaihtamisen koskaan Microsoft 365 admin Centerissä, siirry **asetukset** > [Security &amp; yksityisyyden](https://portal.office.com/adminportal/home#/settings/security) sivulla. Valitse **Salasanakäytäntö**vieressä **Muokkaa** ja poista **-** liukusäädintä.
+Jos haluat asettaa kaikki Sala sanat vanhentumaan, siirry Microsoft 365-hallinta keskukseen ja valitse **Asetukset** > -[suoja &amp; uksen tieto](https://portal.office.com/adminportal/home#/settings/security) suoja-sivu. Valitse **salasana käytännön**vierestä **Muokkaa** ja ota **käyttöön-liuku säädin.**
   
-Katso tarkemmat tiedot: [määrittää organisaation salasanan Vanhenemiskäytäntö.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+Tarkempia tietoja on kohdassa [organisaation Sala sanan vanhenemis käytännön määrittäminen.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Määritä salasana ei vanhene tietyille käyttäjille](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[Määritä sala sana, joka ei koskaan vanhene tietyille käyttäjille](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

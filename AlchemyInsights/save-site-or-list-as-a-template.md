@@ -1,46 +1,46 @@
 ---
-title: Sivuston tai luettelon tallentaminen mallina
-ms.author: kirks
+title: Tallenna sivusto tai luettelo mallina
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551628"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752029"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Sivuston tai luettelon tallentaminen mallina
+# <a name="save-site-or-list-as-a-template"></a>Tallenna sivusto tai luettelo mallina
 
-SharePoint-sivustomallit ovat suunniteltu tiettyä liiketoiminnan tarvetta valmiista määritelmiä. Lisätietoja [käyttäminen voit luoda SharePoint-sivustoja sekä erilaisia malleja](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint-Sivustomallit ovat ennalta rakennettuja määritelmiä, jotka on suunniteltu tietyn liiketoiminta tarpeen ympärille. Lisä tietoja on kohdassa [mallien käyttäminen erilaisten SharePoint-sivustojen luomiseen](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Seuraavassa on joitakin yleisiä ongelmia ja ratkaisuja koskevat tallentaa sivuston tai luettelon mallina SharePoint Online.
+Seuraavassa on joitain yleisiä ongelmia/ratkaisuja, jotka liittyvät sivuston tai luettelon tallentamiseen SharePoint Onlinen mallina.
 
-**Sivustosta/luettelosta Tallenna malli-painike on ei ole käytettävissä tai puuttuu**. 
+**Tallenna sivusto/luettelo malli-painike ei ole käytettävissä tai puuttuu**. 
 
-- Mukautetun komentosarjan avulla on järjestelmänvalvojien käyttöön malliominaisuudet. Saat yksityiskohtaisia ohjeita ja esimerkkejä huomioon otettavia seikkoja [Salli tai estä mukautetun komentosarjan](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- Tallenna malli-komento sivustoa ei tueta ja julkaiseminen SharePoint Server-infrastruktuuria käyttävien sivustojen käytössä saattaa ilmetä häiriöitä.
+- Järjestelmänvalvojien on sallittava mukautetun komento sarjan mallin ominaisuuksien ottaminen käyttöön. Yksityiskohtaisia ohjeita, esimerkkejä ja huomioitavia seikkoja on kohdassa [mukautetun komento sarjan salliminen tai estäminen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
 
-**Sivustomalli ei voi luoda tai ei toimi oikein**
-
-- Malli ei ehkä ole [ominaisuus](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ja ei aktivoida. Jos ominaisuus ei ole käytettävissä nykyisen sivustokokoelman aktivoida, ei voi luoda sivuston sivustomallin avulla.
+- Tallenna sivusto mallina-komentoa ei tueta, ja se voi aiheuttaa ongelmia sivustoissa, jotka käyttävät SharePoint Serverin Julkaisusinfrastruktuuria.
 
 
-- Tarkista Jos luetteloita tai kirjastoja enintään 5000 kohteet [Luettelon luettelonäkymän raja](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) tämän sivustomallin luominen voidaan torjua.
+**Sivustomallia ei voi luoda tai se ei toimi oikein**
+
+- Mallista saattaa puuttua [ominaisuus](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) , eikä se aktivoida. Jos ominaisuus ei ole käytettävissä nykyisessä sivustokokoelmassa, et voi käyttää sivustomallia sivuston luomiseen.
 
 
-- Sivusto käyttää liikaa resursseja ja näin ollen sivustomalli on enemmän kuin sallitut 50 megatavun (Mt).
+- Tarkista, ylittyessä luettelot tai kirjastot, jotka ylittävät [luettelo näkymän raja-arvon](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000, koska tämä voi estää sivustomallin luomisen.
 
 
-- Ongelmia luettelon, joka sisältää hakusarakkeen tietojen näyttämisen. Lisätietoja [mallin luoma luettelo ei näytä tietoja SharePoint Online-luettelosta oikea valinta](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Sivusto saattaa käyttää liikaa resursseja, joten sivustomalli ylittää 50 Mega tavun (Mt) rajan.
 
 
-Yleisiä ongelmia ja ratkaisuja tarkempia tietoja varten Ota viittaus [sivustomallien luominen ja käyttäminen](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Haku saraketta käyttävän luettelon tietojen näyttämiseen liittyy ongelmia. Lisä tietoja on kohdassa [mallin luoma luettelo ei Näytä tietoja oikeasta haku luettelosta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Tarkempia tietoja yleisistä ongelmista ja ratkaisuista saat Ohje kirjasta, [luoda ja käyttää sivustomalleja](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

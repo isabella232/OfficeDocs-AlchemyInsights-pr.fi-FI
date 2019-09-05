@@ -1,41 +1,41 @@
 ---
-title: 'OneDrive: Puuttuu tiedostoja tai kansioita'
-ms.author: kirks
+title: 'OneDrive: puuttuvat tiedostot tai kansiot'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521240"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753253"
 ---
-# <a name="onedrive-missing-files-or-folders"></a>OneDrive: Puuttuu tiedostoja tai kansioita
+# <a name="onedrive-missing-files-or-folders"></a>OneDrive: puuttuvat tiedostot tai kansiot
 
-**Tarkista sivuston roskakori**.
+**Tarkista sivuston roska**kori.
 
-- [SharePoint-sivuston Roskakorin kohteiden palauttaminen](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&rs=en-US&ad=US)
-- [Palauta poistetut tiedostot tai kansiot OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
-
-
-**Utilize OneDrive tiedostojen palauttaminen-toiminnon**. 
-
-Jos paljon tiedostoja OneDrive saada poistaa, korvata, vioittunut tai haittaohjelmia tartunnan, edellisen kerran, [OneDrive, tiedostojen palauttaminen](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) -ominaisuuden avulla voit palauttaa että koko OneDrive.
+- [SharePoint-sivuston roska korin kohteiden palauttaminen](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Palauta poistetut tiedostot tai kansiot OneDrivessa](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Käytä valvoa kirjaamisen tai tiedoston toimintaa-ruudussa voit tarkistaa tiedoston versiohistoriaa**.
+**Käytä OneDrive Files Restore-ominaisuutta**. 
 
-Tarkista [Raportit valvoa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) komentosillan [tähän](https://sip.protection.office.com/).
-
-
-[Ruutu toiminnon](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) avulla voit tarkistaa tiedoston versiohistoriaa.
+Jos paljon OneDrive-tiedostoja poistetaan, korvataan, vioittuvat tai tartunnan haitta ohjelmat, voit palauttaa koko OneDriven edelliseen aikaan käyttämällä [OneDrive Files Restore](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) -ominaisuutta.
 
 
-**Tarkista OneDrive synkronointi asiakkaan paikallisessa tietokoneessa**.
+**Tarkista tiedoston historia käyttämällä valvonta Lokiinkirjaamista tai tiedoston aktiviteetti-ruutua**.
 
-Tarkista Jos olet synkronointi tietokoneessa olevat tiedostot käyttämällä asiakkaan OneDrive synkronointi, synkronoida paikallisen kansion sen varmistamiseksi, että se on oikein ladattu. Varmista myös tarkistaa Roskakori paikallisessa tietokoneessa.
+Tarkista [auditointi raportit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) siirtymällä [tähän](https://sip.protection.office.com/).
+
+
+Tarkista tiedoston historia [tiedosto-aktiviteetti ruudun](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) avulla.
+
+
+**Tarkista paikallisen tieto koneen OneDrive-synkronointi asiakas ohjelma**.
+
+Jos synkronoit tieto koneesi tiedostoja OneDriven synkronointi ohjelman avulla, tarkista Paikallinen synkronointi-kansiosta, että se on ladattu oikein. Varmista, että tarkistat myös paikallisen tieto koneen roska korin.
 

@@ -1,6 +1,6 @@
 ---
-title: Virhesanoma, kun Windows Explorer tiedostojen jakaminen
-ms.author: kirks
+title: Virhe sanoma, kun tiedostoja jaetaan Resurssienhallinnasta
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/19/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527252"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755989"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Virhesanoma, kun Windows Explorer tiedostojen jakaminen
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Virhe sanoma, kun tiedostoja jaetaan Resurssienhallinnasta
 
-Kun yrität jakaa Resurssienhallinnassa, näyttöön saattaa tulla seuraava virhesanoma:
+Kun yrität jakaa Resurssienhallinnasta, näyttöön saattaa tulla seuraavankaltainen virhe sanoma:
   
-”Valitettavasti olemme päässeet palvelimeen juuri nyt. Yritä myöhemmin uudelleen ”
+"Anteeksi, emme pääse palvelimelle juuri nyt. Yritä myöhemmin uudelleen "
   
-Voit korjata virheen sanoma, Internet Explorerissa valitsemalla **Työkalut** \> **Internet-asetukset** \> **Lisäasetukset** -välilehti ja poista sitten laajempaa **Älä tallenna salattuja sivuja levylle**-valintaruudun valinta.
+Voit ratkaista virhe sanoman Internet Explorerissa siirtymällä **** \> **Internet-asetukset** \> -sivulle valitsemalla **lisä asetukset** -väli lehden ja poistamalla **Älä tallenna salattuja sivuja levylle**-valinta ruudun valinnan.
   
- **Huomautus**: joudut ehkä käynnistämään selaimen asetus voimaan. Lisätietoja on osoitteessa [”ei voi muodostaa yhteyttä palvelimeen juuri nyt”-virhesanoma, kun tiedostojen jakaminen](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Huomautus**: sinun on ehkä käynnistettävä selaimesi uudelleen, jotta asetus tulee voimaan. Lisä tietoja on kohdassa ["ei tavoita palvelinta juuri nyt"-virhe sanoma jaettaessa tiedostoja](https://go.microsoft.com/fwlink/?linkid=2022914).
   

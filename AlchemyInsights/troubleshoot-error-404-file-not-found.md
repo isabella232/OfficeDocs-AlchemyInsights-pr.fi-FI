@@ -1,32 +1,32 @@
 ---
-title: Vianmääritys virhe 404 Tiedostoa ei löydy
-ms.author: kirks
+title: Virheeseen 404 liittyviä ongelmia, tiedostoa ei löydy
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507268"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749005"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Vianmääritys virhe 404 Tiedostoa ei löydy
+# <a name="troubleshoot-error-404-file-not-found"></a>Virheeseen 404 liittyviä ongelmia, tiedostoa ei löydy
 
-Virhe-404 vastaanotetaan, kun käyttäjät yrittävät käyttää sivustoa tai SharePoint-tai OneDrive. Syynä on usein sivuston tai tiedoston tai ryhmän aloittaminen nimetty uudelleen, siirretty tai poistettu. Esimerkki: käyttäjät kohdata 404 virhe yritettäessä muodostaa yhteys ensisijaisen sivustokokoelman ja se on poistettu.
+Virhe 404 vastaanotetaan, kun käyttäjät yrittävät käyttää sivustoa tai tiedostoa SharePointissa tai OneDrivessa. Syynä on usein se, että sivusto tai tiedosto tai ryhmä saa uudelleennimetyn, siirretyn tai poistetun ryhmän. Esimerkiksi: käyttäjät kokevat 404-virheen yrittäessään käyttää Pääsivustokokoelmaa, ja ne on poistettu.
 
-Voit korjata virheen 404 sivustolle, joka on nimetty uudelleen, siirretty tai poistettu:
+Voit ratkaista uudelleennimetyn, siirretyn tai poistetun sivuston virheen 404:
 
-Classic-sivustoissa, jotka sijaitsevat perinteisessä hallintakeskukseen on [palauttaa poistetun sivustokokoelman](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Klassiset sivustot, jotka esiintyvät klassisessa hallinta keskuksessa, [on kohdassa poistettujen sivustokokoelmaan palauttaminen](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 
-Moderni sivustojen (tietoliikenne, ryhmän yhteydessä, tai muihin sivustoihin), jotka ovat uuden SharePoint-hallintakeskukseen Katso [Näytä ja palauttaminen poistaa hallintakeskukseen uuden SharePoint-sivustoja](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Nykyaikaisissa sivustoissa (viestintä, ryhmä yhteys tai muut sivustot), jotka ovat olemassa uudessa SharePointin hallinta keskuksessa, on kohdassa [uuden SharePoint-hallinta keskuksen poistettujen sivustojen tarkasteleminen ja palauttaminen](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Voit korjata virheen 404 tiedostoa (tai muun kohteen), joka on nimetty uudelleen, siirretty tai poistettu:
+Voit ratkaista uudelleennimetyn, siirretyn tai poistetun tiedoston (tai muun kohteen) virheen 404:
 
-SharePoint- tai OneDrive-sivustosta ja Näytä Roskakori-sivuston sisältöä. Kohdassa [SharePoint-sivuston Roskakorin kohteiden palauttaminen](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Siirry SharePoint-tai OneDrive-sivustoon ja tarkastele roska kori sivuston sisällöstä. Katso, [Palauta kohteet SharePoint-sivuston roska koriin](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Jos et vieläkään onnistu, Etsi kohde voit etsiä valvontalokin Jos kirjaaminen on käytössä ks. [haku tarkastuksen kirjautua Office 365: n suojauksen & Compliance Centeriin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Jos et vieläkään löydä kohdetta, voit etsiä valvonta lokista, jos kirjaaminen on käytössä Katso, [Etsi valvonta lokista Office 365 Security & Compliance Centeristä](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

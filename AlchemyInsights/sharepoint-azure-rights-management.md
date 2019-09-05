@@ -1,34 +1,34 @@
 ---
-title: Kirjoita SharePoint- tai OneDrive käytön rajoittaminen
-ms.author: kirks
+title: Rajoita käyttö oikeuksia SharePointissa tai OneDrivessa
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504208"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751741"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>SharePoint-tiedostojen IRM-suojaus
+# <a name="irm-protection-to-sharepoint-files"></a>IRM-suojaus SharePoint-tiedostoihin
 
 
-IRM-suojausta käytetään sisällä SharePoint Online-tiedostojen luettelon ja kirjaston tasolla. Ennen kuin organisaatio voi käyttää IRM-suojausta, on ensin määritettävä sisältöoikeuksien hallinta. IRM on riippuvainen Azure tietojen suojaus salaa ja määrittää käyttörajoitukset Azure sisältöoikeuksien hallinta huolto. Jotkin Office 365-suunnitelmat ovat Azure sisältöoikeuksien hallinnan, mutta ei kaikkia. 
+IRM-suojausta käytetään SharePoint Onlinen tiedostoissa luettelo-ja kirjasto tasolla. Ennen kuin organisaatiosi voi käyttää IRM-suojausta, sinun on ensin määritettävä oikeuksien hallinta. IRM käyttää Azure Rights Management-palvelua Azure-tietojen suojaamisesta salaamaan ja määrittämään käyttö rajoituksia. Jotkin Office 365-paketit sisältävät Azure Rights Management, mutta eivät kaikki. 
 
 Lisätietoja on ohjeaiheessa:
 
-- [Kuinka Office-sovellukset ja palvelut tukevat Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Miten Office-sovellukset ja-palvelut tukevat Azure Rights Management-sovellusta](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 
-- [Set up hallinta IRM (Information Rights) SharePoint admin Centerissä](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Määritä sisältö oikeuksien hallinta (IRM) SharePointin hallinta keskuksessa](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- [Ota käyttöön sisältöoikeuksien hallinta - SharePoint-asiakirjakirjastoihin ja luetteloihin](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM-Ota käyttöön SharePointin tiedosto kirjastot ja luettelot](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [Officen sisältöoikeuksien hallinta](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Tieto oikeuksien hallinta Officessa](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [Information Rights Management Exchange online-tilassa](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [Tieto oikeuksien hallintaa Exchange Onlinessa](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

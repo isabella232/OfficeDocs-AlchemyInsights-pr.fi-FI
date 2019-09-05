@@ -1,24 +1,21 @@
 ---
-title: Ongelmat OneDrive ja SharePoint-valmistelu
-ms.author: kirks
+title: OneDriven ja SharePointin valmistelu ongelmat
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422365"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752461"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Ongelmat OneDrive ja SharePoint-valmistelu
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>OneDriven ja SharePointin valmistelu ongelmat
 
-Kun käyttäjä lisätään aiemmin Office 365-vuokralaisen, ne saattaa näkyä SharePoint Online- tai OneDrive Business kuvakkeet on merkitty ”Setting up” ennen kuin valmisteluprosessi on suoritettu. Äskettäin luotujen tilien käyttäjien tarvitsee kirjautua sisään Office 365-portaaliin oman tilin ja valitse OneDrive alkavan OneDrive sivustossa tarjoamisen.
+Kun käyttäjä lisätään olemassa olevaan Office 365-vuokraajaan, he saattavat nähdä SharePoint Onlinen tai OneDrive for Business-kuvakkeet, jotka on lueteltu asetukset-kohdassa, kunnes valmistelu prosessi on suoritettu loppuun. Uusille tileille käyttäjien on kirjauduttava sisään Microsoft 365 Admin Centeriin omalla tililleen ja sitten OneDrive-palveluun, jotta voit aloittaa OneDrive-sivuston tarjoamisen manuaalisesti.
   
-Jos on kulunut yli 24 tuntia näit tämän ongelman, kirjaudu tukipyynnön. Monissa tapauksissa olemme jo käsittelet ratkaisua. Antakaa meille vähintään 24 tuntia ratkaisua.
+Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaa tuki tapaus. Monissa tapa uksissa olemme jo tekemässä ratkaisua. Ole hyvä ja anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
   
-

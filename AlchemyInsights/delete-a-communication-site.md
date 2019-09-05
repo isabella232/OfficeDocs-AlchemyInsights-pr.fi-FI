@@ -1,6 +1,6 @@
 ---
-title: Viestintä-sivuston poistaminen
-ms.author: kirks
+title: Viestintä sivuston poistaminen
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 847a340d4d3a05c97fd86f48bf42f7c22859f1b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514121"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747997"
 ---
-# <a name="delete-a-communication-site"></a>Viestintä-sivuston poistaminen
+# <a name="delete-a-communication-site"></a>Viestintä sivuston poistaminen
 
-Voit poistaa Viestimissivusto tekemällä seuraavat toimet: 
+Jos haluat poistaa tieto liikenne sivuston, toimi seuraavasti: 
   
 1. Siirry sivustoon. 
   
-2. Napsauta oikeassa yläkulmassa asetukset-kuvaketta (vaihde). 
+2. Napsauta oikeassa yläkulmassa olevaa asetus kuvaketta (vaihde). 
   
-3. **Sivuston tietoja**, valitse Poista **Tämä sivusto**ja valitse sitten **Poista**. 
+3. Valitse **sivuston tiedot**-kohdasta **Poista tämä sivusto**ja valitse sitten **Poista**. 
   
-Järjestelmänvalvojat voit myös poistaa Viestimissivusto uusi admin Centerin seuraavasti: 
+Järjestelmänvalvojat voivat myös poistaa viestintä sivuston uudesta hallinta keskuksesta noudattamalla seuraavia vaiheita: 
   
-1. Valitse **aktiiviset sivustot** vasemmalla puolella. 
+1. Valitse vasemmalla **Aktiiviset sivustot** . 
   
-2. Valitse poistettava sivusto vieressä ja yläreunan valikosta **Poista** -vaihtoehto tulee näkyviin. 
+2. Valitse poistettavan sivuston vierestä ja ylävalikosta tulee **poisto** vaihtoehto. 
   
- **Huomautus:** Jos haluat poistaa pysyvästi sivuston tietoliikenne (poistetaan roskakorista) niin voit käyttää uudelleen sivuston URL-osoite, Roskakori- ja [Poista-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) , jos haluat poistaa sivuston roskakori arvioi [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) avulla. 
+ **Huom:** Jos haluat poistaa tieto liikenne sivuston pysyvästi (poistamalla sen roska korista), jotta voit käyttää sivuston URL-osoitetta uudelleen, arvioi roska kori ja [Poista-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) poistamalla sivusto roska korista käyttämällä [Get-spodeletedsite](https://aka.ms/Get-SPODeletedSite) -sivustoa. 
   
 

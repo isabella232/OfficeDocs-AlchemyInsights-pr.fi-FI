@@ -1,5 +1,5 @@
 ---
-title: Sähköpostialias ensisijainen sähköpostiosoite käyttäjän tekemistä 723
+title: 723 Sähkö posti-aliaksen tekeminen ensisijaiseksi Sähkö posti osoitteukseksi käyttäjälle
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542374"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735242"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Varmista email tunnuksen käyttäjän ensisijainen osoite
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Sähkö postin aliaksen tekeminen käyttäjän ensisijaiseksi osoitteeksi
 
-Lisätietoja on kohdassa [Lisää toisen käyttäjän sähköpostialias](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).
+Katso ohjeet kohdasta [toisen Sähkö posti tunnuksen lisääminen käyttäjälle](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Huomautus**: Jos organisaatiosi Hybrid-tilassa, sinun on muutettava paikallisen Exchange-organisaation ensisijainen sähköpostiosoite. Lisätietoja [Lisää tai poista sähköposti-osoitteet postilaatikkoon](https://technet.microsoft.com/library/bb123794.aspx).
+**Huomautus**: Jos organisaatiosi on hybridi tilassa, sinun on muutettava paikallisen Exchange-organisaatiosi ensisijaista Sähkö posti osoitetta. Lisä tietoja on kohdassa [Sähkö posti osoitteiden lisääminen tai poistaminen](https://technet.microsoft.com/library/bb123794.aspx).

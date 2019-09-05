@@ -1,5 +1,5 @@
 ---
-title: Postilaatikon käyttöoikeuksien muuttaminen
+title: Posti laatikon käyttö oikeuksien muuttaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661401"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734378"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Postilaatikon käyttöoikeuksien muuttaminen
+# <a name="changing-permissions-on-a-mailbox"></a>Posti laatikon käyttö oikeuksien muuttaminen
 
-Jos käyttäjien täytyy käyttää muiden kuin oman postilaatikot Office 365: ssä, ne on annetaan oikeus käsitellä nämä postilaatikot. Miten määrität käyttöoikeudet määräytyvät postilaatikkoon. Jos käyttäjät tarvitsevat käyttöoikeuden:
+Jos käyttäjät tarvitsevat käyttöönsä muita Office 365-posti laatikoita, heille on annettava käyttö oikeudet kyseisten posti laatikoiden kanssa työskentelyllä. Näiden käyttö oikeuksien määrittäminen määräytyy posti laatikon tyypin mukaan. Jos käyttäjillä on oikeus käyttää:
   
-- Muiden käyttäjien postilaatikoihin - on [antaa postilaatikon käyttöoikeudet Office 365: ssä toiselle käyttäjälle](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Muiden käyttäjien posti laatikot-Katso [Posti laatikon käyttö oikeuksien antaminen toiselle käyttäjälle Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Jaettu postilaatikko - Lue [Lisää tai poista jäseniä jaetusta postilaatikosta](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Jaettu posti laatikko-Katso [jaetun posti laatikon jäsenten lisääminen tai poistaminen](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Jos käyttöoikeudet eivät toimi oikein, kun olet tehnyt edellä mainitut vaiheet, siirry hallintakeskukseen Exchange ja yritä määrittää oikeudet sieltä (katso [Manage permissions vastaanottajille](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Jos käyttö oikeudet eivät toimi oikein edellä mainittujen vaiheiden jälkeen, siirry Exchangen hallinta keskukseen ja yritä määrittää käyttö oikeudet sieltä (Katso [vastaanottajien käyttö oikeuksien hallinta](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

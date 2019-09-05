@@ -1,5 +1,5 @@
 ---
-title: Ulkoinen jakaminen SharePoint Online
+title: Ulkoinen jakaminen SharePoint Onlinessa
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -8,47 +8,47 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504244"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744494"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Ulkoinen jakaminen SharePoint Online
+# <a name="external-sharing-in-sharepoint-online"></a>Ulkoinen jakaminen SharePoint Onlinessa
 
-Jos organisaatiossa työskentelee, joka liittyy asiakirjojen jakaminen tai yhteiskäyttö suoraan toimittajille, asiakkaille tai asiakkaille, niin voit käyttää [ulkoisia ominaisuuksia SharePoint Online jakaminen](https://docs.microsoft.com/sharepoint/external-sharing-overview) sisällön jakaminen ulkopuolisille henkilöille että organisaatio.
+Jos organisaatiosi suorittaa työn, johon liittyy tiedostojen jakaminen tai yhteistyö suoraan toimittajien, asiakkaiden tai asiakkaiden kanssa, voit jakaa sisältöä [SharePoint Onlinen ulkoisten jakamis ominaisuuksien](https://docs.microsoft.com/sharepoint/external-sharing-overview) avulla Organisaatio.
 
-Saat lisätietoja ulkoisten jakaminen käy alla olevia linkkejä.
+Lisä tietoja ulkoisesta jakamisesta on alla olevissa linkeissä.
 
-- [Mikä ulkoinen käyttäjä?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Mikä on ulkopuolinen käyttäjä?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Mitä tapahtuu, kun sivuston tai tiedoston jakaminen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Mitä tapahtuu, kun jaan sivuston tai asia kirjan?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
 - [Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä SharePoint Online -ympäristössä](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Ota ulkoisen jakamisen käyttöön tai poistaa käytöstä sivuston](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä sivustossa](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Sivuston tyyppi kohti jakamisen asetukset](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Oletusarvoiset jakamis asetukset sivustotyyppiä kohden](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 
-- [Käytä Sharepoint Online business-to-business (B2B) ekstranet ratkaisu](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Käytä SharePoint Onlinea Business-to-Business (B2B) ekstranet-ratkaisuna](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [SharePoint-tiedostojen tai kansion jakaminen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint-tiedostojen tai-kansioiden jakaminen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [OneDrive tai SharePoint-tiedostojen tai kansioiden jakamisen lopettaminen tai käyttöoikeuksien muuttaminen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Lopeta OneDriven tai SharePoint-tiedostojen tai-kansioiden jakaminen tai muuta käyttö oikeuksia](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Vierailijoita Microsoftin Teams-](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Vieras käyttö Microsoft Teamsissa](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 
-- [Microsoft Vieras jakaminen Ryhmäkäytäntöasetusten viiteopas (Azure Active Directory, Microsoft 365 ja SharePoint online-tilassa)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
+- [Microsoftin asiakas jaon asetusten viite (Azure Active Directory, Microsoft 365 ja SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
 
 
 
-Vastaanottamisen virheen kanssa ulkoinen käyttäjä? &nbsp;Tarkista alla olevia linkkejä.
+Onko virhe vastaanotettaessa ulkoista käyttäjää? &nbsp;Tarkista alla olevat linkit.
 
-- [Näyttöön tulee virhesanoma, kun ulkoinen käyttäjä hyväksyy SharePoint Online kutsu käyttäen toista tiliä](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Virhe sanoma, kun ulkoinen käyttäjä hyväksyy SharePoint Online-kutsun käyttämällä toista tiliä](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Ei ole käyttöoikeutta jaettuun kansioon](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Jaetun kansion käyttö estetty](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE jakaminen Sharepoint ja OneDrive virheiden](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE jakaa virheitä SharePointissa ja OneDrivessa](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
