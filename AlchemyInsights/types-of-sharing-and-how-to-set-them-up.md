@@ -14,21 +14,21 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 6680b79ec120e28076f3de01818ea27334921a05
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e7dc184adbe1fe6345646850906805e28ac4b781
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558722"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742406"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="0e68e-102">Erilaisia jaettuja Outlook-kalentereita ja niiden ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="0e68e-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="be185-102">Erilaisia jaettuja Outlook-kalentereita ja niiden ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="be185-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="0e68e-103">Jaetun postilaatikon luominen</span><span class="sxs-lookup"><span data-stu-id="0e68e-103">Create a shared mailbox</span></span>](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
+- [<span data-ttu-id="be185-103">Jaetun postilaatikon luominen</span><span class="sxs-lookup"><span data-stu-id="be185-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="0e68e-104">Kokoustilojen ja laitteiden postilaatikot</span><span class="sxs-lookup"><span data-stu-id="0e68e-104">Room and equipment mailboxes</span></span>](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)
+- [<span data-ttu-id="be185-104">Kokoustilojen ja laitteiden postilaatikot</span><span class="sxs-lookup"><span data-stu-id="be185-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="0e68e-105">Kalenteriryhmän luominen</span><span class="sxs-lookup"><span data-stu-id="0e68e-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="be185-105">Kalenteriryhmän luominen</span><span class="sxs-lookup"><span data-stu-id="be185-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="0e68e-106">Outlook-kalenterin jakaminen muiden kanssa</span><span class="sxs-lookup"><span data-stu-id="0e68e-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="be185-106">Outlook-kalenterin jakaminen muiden kanssa</span><span class="sxs-lookup"><span data-stu-id="be185-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="0e68e-107">Jos et näe kalenterin tavoitettavuustietoja muissa kalentereissa tai muut eivät voi nähdä tavoitettavuustietoja omassa kalenterissasi, käytä [Microsoft Office 365:n tuki- ja palautusavustajaa](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="0e68e-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="be185-107">Jos et näe kalenterin tavoitettavuustietoja muissa kalentereissa tai muut eivät voi nähdä tavoitettavuustietoja omassa kalenterissasi, käytä [Microsoft Office 365:n tuki- ja palautusavustajaa](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="be185-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>

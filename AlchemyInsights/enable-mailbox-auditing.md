@@ -1,5 +1,5 @@
 ---
-title: Ottaa postilaatikon valvonnan käyttöön
+title: Ota käyttöön posti laatikon valvonta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527598"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736250"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="89e5d-102">Ottaa postilaatikon valvonnan käyttöön</span><span class="sxs-lookup"><span data-stu-id="89e5d-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="d8559-102">Ota käyttöön posti laatikon valvonta</span><span class="sxs-lookup"><span data-stu-id="d8559-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="89e5d-103">Jos haluat ottaa postilaatikon valvonnan käyttöön joko yksittäisen käyttäjän tai koko organisaation seuraavia cmdlet-komennot on suoritettava etäliittymä Power:</span><span class="sxs-lookup"><span data-stu-id="89e5d-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="d8559-103">Jos haluat ottaa posti laatikon valvonnan käyttöön joko yksittäisessä tai koko organisaatiossa, seuraavat cmdlet-komennot on suoritettava Etävirralla:</span><span class="sxs-lookup"><span data-stu-id="d8559-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="89e5d-104">**Yksittäinen käyttäjä**</span><span class="sxs-lookup"><span data-stu-id="89e5d-104">**Single User**</span></span>
+ <span data-ttu-id="d8559-104">**Yksittäinen käyttäjä**</span><span class="sxs-lookup"><span data-stu-id="d8559-104">**Single User**</span></span>
   
-<span data-ttu-id="89e5d-105">Set-Mailbox - identiteetin ”Jane Dow” - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="89e5d-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="d8559-105">Set-posti laatikko-identiteetti "Jane Dow"-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="d8559-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="89e5d-106">**Organisaatio**</span><span class="sxs-lookup"><span data-stu-id="89e5d-106">**Organization**</span></span>
+ <span data-ttu-id="d8559-106">**Organisaatio**</span><span class="sxs-lookup"><span data-stu-id="d8559-106">**Organization**</span></span>
   
-<span data-ttu-id="89e5d-107">Get-Mailbox - ResultSize Unlimited - suodattaa {RecipientTypeDetails - eq ”UserMailbox”} | $True Set-Mailbox - AuditEnabled</span><span class="sxs-lookup"><span data-stu-id="89e5d-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="d8559-107">Get-posti laatikko-ResultSize Unlimited-suodatin {Vastaanottaenttypedetails-EQ "Userposti laatikko"} | Aseta-posti laatikko-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="d8559-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="89e5d-108">Opi lisää</span><span class="sxs-lookup"><span data-stu-id="89e5d-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[<span data-ttu-id="d8559-108">Opi lisää</span><span class="sxs-lookup"><span data-stu-id="d8559-108">Learn more</span></span>](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

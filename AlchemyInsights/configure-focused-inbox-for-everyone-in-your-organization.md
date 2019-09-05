@@ -1,5 +1,5 @@
 ---
-title: 912 Configure Focused Saapuneet kaikille organisaation
+title: 912 lajitellun Saapuneet-kansion määrittäminen kaikille organisaation käyttäjille
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504712"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738410"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="f39a5-102">Ottaa käyttöön tai poistaa käytöstä liittyvät Saapuneet kaikille</span><span class="sxs-lookup"><span data-stu-id="f39a5-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="8d32a-102">Lajitellun Saapuneet-kansion ottaminen käyttöön tai poistaminen käytöstä kaikille</span><span class="sxs-lookup"><span data-stu-id="8d32a-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="f39a5-103">Lisätietoja on kohdassa [Määritä kohdistettu Saapuneet kaikille organisaation](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="f39a5-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="8d32a-103">Katso ohjeet kohdasta [Määritä keskitetty Saapuneet-kansio kaikille organisaatiosi käyttäjille](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="8d32a-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="f39a5-104">**Huomautus**: Tämä toiminto edellyttää, että Exchange Online-PowerShell.</span><span class="sxs-lookup"><span data-stu-id="f39a5-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="f39a5-105">Haluatko tehdä tämän Microsoft 365 admin Centerissä?</span><span class="sxs-lookup"><span data-stu-id="f39a5-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="f39a5-106">Äänestä tässä.</span><span class="sxs-lookup"><span data-stu-id="f39a5-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="8d32a-104">**Huomautus**: Tämä toiminto vaatii Exchange Online PowerShellin.</span><span class="sxs-lookup"><span data-stu-id="8d32a-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="8d32a-105">Haluatko tehdä tämän sen sijaan Microsoft 365-hallinta keskuksessa?</span><span class="sxs-lookup"><span data-stu-id="8d32a-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="8d32a-106">Äänestä tässä.</span><span class="sxs-lookup"><span data-stu-id="8d32a-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

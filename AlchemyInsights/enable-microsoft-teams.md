@@ -1,5 +1,5 @@
 ---
-title: Ota käyttöön Microsoftin työryhmät
+title: Ota Microsoft teams käyttöön
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527577"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736106"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="8dca8-102">Ottaa käyttöön ja käyttää Microsoftin työryhmät</span><span class="sxs-lookup"><span data-stu-id="8dca8-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="94bff-102">Microsoft teamsin ottaminen käyttöön ja käyttäminen</span><span class="sxs-lookup"><span data-stu-id="94bff-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="8dca8-103">Jos sinulla ei ole pääsyä Microsoftin Teams lainkaan, tutustu [Miten saan käyttämään Microsoftin työryhmät](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="8dca8-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+<span data-ttu-id="94bff-103">Jos sinulla ei ole pääsyä Microsoft Teamsiin ollenkaan, Katso, [Miten saan Microsoft teamsin käyttö oikeudet](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="94bff-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
 
-<span data-ttu-id="8dca8-104">Jos sinulla on jo Microsoft-Teams, ja täytyy tietää, miten voit määrittää ja hallita sitä, katso [Microsoftin työryhmät järjestelmänvalvojan asetukset](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="8dca8-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
+<span data-ttu-id="94bff-104">Jos sinulla on jo Microsoft teams ja haluat tietää, miten voit määrittää ja hallinnoida sitä, katso [Microsoft teams-asetusten hallinta organisaatiossasi](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span><span class="sxs-lookup"><span data-stu-id="94bff-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>

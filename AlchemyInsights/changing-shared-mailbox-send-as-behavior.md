@@ -1,5 +1,5 @@
 ---
-title: Jaetun postilaatikon toisena käyttäjänä lähettämisen toiminnan muuttaminen
+title: Jaetun posti laatikon lähetys käyttäytymisen muuttaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 4d21e638f55bfdd100f5f8a6cf0b48fafe88f76e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520700"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738554"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="ff09b-102">Jaetun postilaatikon toisena käyttäjänä lähettämisen toiminnan muuttaminen</span><span class="sxs-lookup"><span data-stu-id="ff09b-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="bb571-102">Jaetun posti laatikon lähetys käyttäytymisen muuttaminen</span><span class="sxs-lookup"><span data-stu-id="bb571-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="ff09b-p101">Jaetusta postilaatikosta lähetettäviä viestejä ei oletusarvoisesti tallenneta jaetun postilaatikon Lähetetyt-kansioon. Sen sijaan ne tallennetaan viestin lähettäneen henkilön Lähetetyt-kansioon.</span><span class="sxs-lookup"><span data-stu-id="ff09b-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="bb571-p101">Jaetusta postilaatikosta lähetettäviä viestejä ei oletusarvoisesti tallenneta jaetun postilaatikon Lähetetyt-kansioon. Sen sijaan ne tallennetaan viestin lähettäneen henkilön Lähetetyt-kansioon.</span><span class="sxs-lookup"><span data-stu-id="bb571-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="ff09b-105">Jos haluat kaikkien jäsenten on lähetetty sähköposti, Microsoft 365 admin Centerissä, Muokkaa jaettua postilaatikkoa ja valitse **Lähetetyt-kansion** \> **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="ff09b-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="bb571-105">Jos haluat, että kaikki jäsenet näkevät lähetetyn Sähkö posti viestin, Muokkaa jaetun posti laatikon tietoja Microsoft 365-hallinta keskuksessa ja valitse **Lähetetyt kohteet** \> - **muokkaus**.</span><span class="sxs-lookup"><span data-stu-id="bb571-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="ff09b-106">Voit lukea lisää kohdassa [jaetun postilaatikon luominen](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="ff09b-106">To read more, see [Create a shared mailbox](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+<span data-ttu-id="bb571-106">Lisä tietoja [on kohdassa jaetun posti laatikon luominen](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="bb571-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

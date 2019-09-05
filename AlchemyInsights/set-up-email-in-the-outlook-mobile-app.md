@@ -1,5 +1,5 @@
 ---
-title: 1800014 määrittäminen sähköpostin Outlook mobile app
+title: 1800014 sähkö postin määrittäminen Outlook Mobile-sovelluksessa
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509177"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734162"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="9de6d-102">Määritä sähköposti Outlook mobile App</span><span class="sxs-lookup"><span data-stu-id="9de6d-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="284fb-102">Sähkö postin määrittäminen Outlook Mobile-sovelluksessa</span><span class="sxs-lookup"><span data-stu-id="284fb-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="9de6d-103">Valitse **Aloita** on sähköposti mobile App ylös ensimmäisen kerran asetusta.</span><span class="sxs-lookup"><span data-stu-id="9de6d-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="9de6d-104">Muuten, napauta **valikko** ja sitten **asetukset** \> **Lisää tili** \> **Lisää sähköpostitili**.</span><span class="sxs-lookup"><span data-stu-id="9de6d-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="284fb-103">Valitse **Aloita** , jos määrität sähkö postia ensimmäistä kertaa mobiilisovelluksessa.</span><span class="sxs-lookup"><span data-stu-id="284fb-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="284fb-104">Napauta muussa tapa uksessa **valikko** ja sitten **Asetukset** \> **Lisää tili** \> **Lisää Sähkö posti tili**.</span><span class="sxs-lookup"><span data-stu-id="284fb-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="9de6d-105">Kirjoita koko sähköpostiosoitteesi ja napauta **Lisää tili**- tai **Jatka** .</span><span class="sxs-lookup"><span data-stu-id="9de6d-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="284fb-105">Anna koko Sähkö posti osoitteesi ja napauta **Jatka** tai **Lisää tili**.</span><span class="sxs-lookup"><span data-stu-id="284fb-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="9de6d-106">Sähköposti salasana ja napauta **Kirjaudu sisään** tai **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="9de6d-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="284fb-106">Anna Sähkö posti tilisi sala sana ja napauta **Kirjaudu** sisään tai **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="284fb-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="9de6d-107">Jos käytössä on [monitasoisen todennuksen](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , tarkistaa menetelmällä määritetään (6-numeroinen koodi, puhelu tai Microsoftin Authenticator app).</span><span class="sxs-lookup"><span data-stu-id="9de6d-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="284fb-107">Jos [usean tekijän todennus](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) on käytössä, tarkista käyttämällä menetelmää, jonka olet määrittänyt (6-numeroinen koodi, puhelu tai Microsoft Authenticator-sovellus).</span><span class="sxs-lookup"><span data-stu-id="284fb-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="9de6d-108">Jos muita IT admin käytännöt ovat paikoillaan, napauta **Aktivoi** ne.</span><span class="sxs-lookup"><span data-stu-id="9de6d-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="284fb-108">Jos muita IT-järjestelmänvalvojan käytäntöjä on käytössä, ota ne käyttöön napauttamalla **Aktivoi** .</span><span class="sxs-lookup"><span data-stu-id="284fb-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="9de6d-109">Outlook voi pyytää lupaa käyttää kalenteria, yhteystietoja ja muita tietoja.</span><span class="sxs-lookup"><span data-stu-id="9de6d-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="9de6d-110">Valitse **Kyllä** , tai **sallia**.</span><span class="sxs-lookup"><span data-stu-id="9de6d-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="284fb-109">Outlook saattaa pyytää kalenterin, yhteys tietojen ja muiden tietojen käyttö oikeutta.</span><span class="sxs-lookup"><span data-stu-id="284fb-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="284fb-110">Valitse **Kyllä** tai **Salli**.</span><span class="sxs-lookup"><span data-stu-id="284fb-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="9de6d-111">Saat yksityiskohtaiset ohjeet [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) tai [iOS Outlookin](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) määrittäminen.</span><span class="sxs-lookup"><span data-stu-id="9de6d-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="284fb-111">Hanki yksityiskohtaiset ohjeet [Outlook for Androidin](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) tai [Outlookin iOS:n](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) käyttöön täältä.</span><span class="sxs-lookup"><span data-stu-id="284fb-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="9de6d-112">**Tarvitsetko apua?**</span><span class="sxs-lookup"><span data-stu-id="9de6d-112">**Need help?**</span></span>
+ <span data-ttu-id="284fb-112">**Tarvitsetko apua?**</span><span class="sxs-lookup"><span data-stu-id="284fb-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="9de6d-113">Sähköpostin asetukset Mobile liittyviä ongelmia</span><span class="sxs-lookup"><span data-stu-id="9de6d-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="284fb-113">Sähkö postin asennus ohjelman vian määritys mobiililaitteella</span><span class="sxs-lookup"><span data-stu-id="284fb-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="9de6d-114">Outlook-iOS ja Android app-ohjeita</span><span class="sxs-lookup"><span data-stu-id="9de6d-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="284fb-114">IOS:n ja Androidin Outlookin sovellusapu</span><span class="sxs-lookup"><span data-stu-id="284fb-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

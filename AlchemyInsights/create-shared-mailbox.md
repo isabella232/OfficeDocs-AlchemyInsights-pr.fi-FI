@@ -1,5 +1,5 @@
 ---
-title: Jaetun postilaatikon luominen
+title: Jaetun posti laatikon luominen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631794"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740930"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="d7b78-102">Jaetun postilaatikon luominen</span><span class="sxs-lookup"><span data-stu-id="d7b78-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="300a1-102">Jaetun postilaatikon luominen</span><span class="sxs-lookup"><span data-stu-id="300a1-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="d7b78-103">Jaetun postilaatikon antaa useammalle kuin yhdelle henkilölle, lähettää ja vastaanottaa sähköposti tunnus, kuten sales@contoso.com, mutta uusi käyttöoikeus.</span><span class="sxs-lookup"><span data-stu-id="d7b78-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
+<span data-ttu-id="300a1-103">Jaetun posti laatikon avulla useampi kuin yksi henkilö voi lähettää ja vastaanottaa sähkö postia aliakselle, kuten sales@contoso.com, määrittelemättä toista käyttö oikeutta.</span><span class="sxs-lookup"><span data-stu-id="300a1-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
 
-<span data-ttu-id="d7b78-104">Lisätietoja artikkelissa [jaetun postilaatikon luominen](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) vinkkejä ja lisätietoja jaetun postilaatikon käyttäminen.</span><span class="sxs-lookup"><span data-stu-id="d7b78-104">See the article [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) for tips and more info about using a shared mailbox.</span></span> 
+<span data-ttu-id="300a1-104">Katso artikkeli jaetun [Posti laatikon luominen](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) vinkkejä ja lisä tietoja jaetun posti laatikon käyttämisestä.</span><span class="sxs-lookup"><span data-stu-id="300a1-104">See the article [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) for tips and more info about using a shared mailbox.</span></span> 
   
 

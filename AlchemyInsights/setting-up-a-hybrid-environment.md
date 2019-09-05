@@ -1,5 +1,5 @@
 ---
-title: Hybridi-ympäristön määrittäminen
+title: Hybridi ympäristön perustaminen
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509141"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741002"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="e472f-102">Hybridi-ympäristön määrittäminen</span><span class="sxs-lookup"><span data-stu-id="e472f-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="3a9f5-102">Hybridi ympäristön perustaminen</span><span class="sxs-lookup"><span data-stu-id="3a9f5-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="e472f-103">Voit joutua hybridi-ympäristön määrittäminen sallimaan käyttäjien toimivat saumattomasti yhdessä riippumatta siitä, jos niiden tiedot on tallennettu paikalliseen palvelimiin tai Office 365: ssä.</span><span class="sxs-lookup"><span data-stu-id="e472f-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="e472f-104">Saadaksesi yleiskuvan vaihtoehdot, tutustu [Office 365: n integrointi tiloissa ympäristöissä](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="e472f-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="3a9f5-103">Jotta käyttäjät voivat työskennellä saumattomasti keskenään riippumatta siitä, onko heidän tietonsa tallennettu paikallisiin palvelimiin tai Office 365-tieto koneeseen, sinun on ehkä luotava hybridi ympäristö.</span><span class="sxs-lookup"><span data-stu-id="3a9f5-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="3a9f5-104">Jos haluat yleiskatsauksen vaihto ehdoista, tutustu [Office 365-integrointiin paikallisiin ympäristöihin](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="3a9f5-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
