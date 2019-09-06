@@ -1,5 +1,5 @@
 ---
-title: Vianetsinnän asetukset virta - virran käyttöoikeuksien hallinta
+title: Stream-käyttö oikeuksien hallinnan asetusten vian määritys
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559190"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742622"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Stream Microsoftin käyttöoikeuksien hallinta
+# <a name="managing-microsoft-stream-licenses"></a>Microsoft Stream-lisenssien hallinta
 
-**Tärkeää:** Tarvitse olla palveltavien-rooli, jotta voit suorittaa tässä ohjeaiheessa kuvattuja toimintoja.
+**Tärkeää:** Sinun on oltava vuokra ajan järjestelmänvalvojan roolissa, jotta voit suorittaa tässä ohje aiheessa kuvattuja toimintoja.
 
-Sinun on oltava yleisen järjestelmänvalvojan tai Käyttäjähallinta admin. Lisätietoja [Office 365-järjestelmänvalvojan roolit](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Sinun on oltava joko yleinen järjestelmänvalvoja tai käyttäjä hallinnan järjestelmänvalvoja. Lisä tietoja on kohdassa [tietoja järjestelmänvalvojan rooleista](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Voit määrittää [käyttöoikeuksia Office 365: n PowerShellin käyttäjätileille](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Voit määrittää käyttö [oikeuksia käyttäjä tileille Office 365 PowerShellin](https://go.microsoft.com/fwlink/p/?linkid=850410)avulla.

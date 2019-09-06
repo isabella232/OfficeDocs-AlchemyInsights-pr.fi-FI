@@ -1,6 +1,6 @@
 ---
-title: Jakaa Nimetön
-ms.author: kirks
+title: Anonyymi jakaminen
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512456"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747818"
 ---
-# <a name="anonymous-sharing"></a>Jakaa Nimetön
+# <a name="anonymous-sharing"></a>Anonyymi jakaminen
 
- **Ota anonyymi käyttö käyttöön**
+ **Anonyymin käytön salliminen**
   
-Uusi SharePoint-hallintakeskukseen valitsemalla vasemman ruudun **jakamisen** . 
+Valitse uudessa SharePointin hallinta keskuksessa **jako** vasemmassa ruudussa. 
   
-- Valitse seuraava: **Salli todennettu ulkoisten käyttäjien jakaminen ja käyttämällä anonyymin.**
+- Valitse seuraavat: **Salli jakaminen todennetuille ulkoisille käyttäjille ja anonyymin käytön käyttäminen.**
   
-(Vaihtoehtoisesti voit määrittää linkkejä toimenpiteiden voimassaolo päättyy, kun tietty määrä päiviä ja valitse kuinka vastaanottajat voivat käyttää linkkejä.)
+(Vaihtoehtoisesti voit määrittää linkkien vanhenemaan tiettynä päivinä ja valita, miten vastaanottajat voivat käyttää linkkejä.)
     
  **Tiedoston tai kansion jakaminen anonyymisti**
   
-- Valitse tiedosto tai kansio, jonka haluat jakaa, ja valitse sitten **Jaa**. 
+- Valitse jaettava tiedosto tai kansio ja valitse sitten **Jaa**. 
     
-- Kuka haluat käyttää tätä linkkiä? Valitse **kaikkien.**
+- Kenelle pidät tästä linkistä työtä? Napsauta **ketään.**
   
- **Huomautus**: **kenen tahansa** luo linkin, kuka tahansa avulla voit käsitellä asiakirjaa tai kansiota, vaikka niitä ei kirjautunut sisään Office 365-tai OneDrive. Tämän avulla voit jakaa kaikille, sisä- tai ulkopuolella oman yrityksen. Tästä linkistä voi myös välittää ympäri kuka tahansa. 
+ **Huomautus**: **kuka tahansa** luo linkin, jonka avulla kuka tahansa voi käyttää asia kirjaa tai kansiota, vaikka he eivät ole kirjautuneena Office 365-tai OneDrive-palveluun. Käytä tätä, jos haluat jakaa kenen kanssa tahansa yrityksesi sisällä tai sen ulkopuolella. Tämä linkki voidaan välittää myös kaikille. 
     
 

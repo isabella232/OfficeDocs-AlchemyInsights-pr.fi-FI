@@ -1,5 +1,5 @@
 ---
-title: Ehdotuksia 'Varastettu tuote' virheiden ratkaiseminen
+title: Ehdotuksia "Lisensoitumattomia tuotteita" koskevien virheiden ratkaisemiseksi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501040"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743270"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Ehdotuksia ”varastettu tuote” virheiden ratkaiseminen
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Ehdotuksia "Lisensoitumattomia tuotteita" koskevien virheiden ratkaisemiseksi
 
-Varmista tilauksen, jonka avulla käyttöoikeuksia Office 365: n Business tai Business Premium, kuten [on määritetty käyttöoikeus](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deactivate asennus](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) tarkistaa, jos olet ylittänyt asentaa tueta tilauksen numero.
+Varmista, että sinulla on tilaus, joka sallii asiakkaan käyttö oikeudet, kuten Office 365 Business tai Business Premium, ja varmista, että [käyttäjälle on määritetty käyttö oikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Poista asennus käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) ja tarkista, Oletko ylittänyt tilauksesi tukemien asennusten määrän.
   
-Varmistaa käyttäjän kirjautumista on samalle tilille, joka on määritetty käyttöoikeus.
+Varmista, että käyttäjä kirjautumiseen samalla tilillä, jolle on määritetty käyttö oikeus.
   
-Voit suorittaa [aktivoinnin vianmääritys](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Suorita [Akti voinnin vian määritys](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Tarkista, jos tilauksen tila on vanhentunut
+Tarkista, onko tilauksesi tila vanhentunut
   
-Tarkista, tarkista, onko palvelu tunnettuja ongelmia [Office 365 palvelun kunto-sivulle](https://docs.microsoft.com/office365/enterprise/view-service-health) .
+Tarkista [Office 365 Service Health-sivulta](https://docs.microsoft.com/office365/enterprise/view-service-health) , onko palvelussa tunnettuja ongelmia.
   
-[Suorita Office Online korjauspalvelut](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Suorita Officen online-korjaus](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Lisätietoja vianmäärityksen lisäresursseja: [varastettu tuote ja Office activation virheitä](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Lisä vian määritys ratkaisuja on artikkelissa: [lisensoitujen tuote-ja aktivointi virheiden poistaminen Officessa](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

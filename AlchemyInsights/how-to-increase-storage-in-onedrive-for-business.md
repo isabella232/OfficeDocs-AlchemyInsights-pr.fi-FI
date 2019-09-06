@@ -1,6 +1,6 @@
 ---
-title: Varastointi OneDrive liiketoiminnan kasvattaminen
-ms.author: kirks
+title: Miten lisätä tallennus tilaa OneDrive for Businessissa
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540718"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755809"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Varastointi OneDrive liiketoiminnan kasvattaminen
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Miten lisätä tallennus tilaa OneDrive for Businessissa
 
-Voit muuttaa oletusarvon varastointia OneDrive uusille ja olemassa oleville käyttäjille seuraavasti:
+Uusien ja nykyisten OneDrive-käyttäjien oletus tallennus tilan muuttaminen:
   
-- [OneDrive admin Centerin tallennustila](https://admin.onedrive.com/?v=StorageSettings)ja kirjoittamalla sen paikalle uuden luvun GB.
+- Siirry [OneDrive-hallinta keskuksen tallennus sivulle](https://admin.onedrive.com/?v=StorageSettings)ja kirjoita uusi summa Giga tavua.
     
-Tallennus tilaa tämä asetus koskee kaikkia käyttäjiä, joille ei ole määritetty tiettyä varastoinnin rajoitukset. Jos haluat muuttaa tiettyjen käyttäjien tallennustilaa, sinun on käytettävä Microsoft PowerShell. Saat tietoja siitä, kuinka voit tehdä tämän, [muuttaa käyttäjien OneDrive tilaa käyttämällä PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
+Tämä tallennus tila asetus koskee kaikkia käyttäjiä, joille et ole määrittänyt tiettyjä tallennus rajoituksia. Jos haluat muuttaa tiettyjen käyttäjien tallennus tilaa, sinun on käytettävä Microsoft PowerShelliä. Lisä tietoja tästä on kohdassa [käyttäjien OneDrive-tallennus tilan vaihtaminen PowerShellin avulla](https://go.microsoft.com/fwlink/?linkid=866402). 
   
- **Huomautus**: ei ole suunnitelma, joka sisältää rajoittamattoman tallennustilan ilmeisesti. Saat tiedot kunkin suunnitelman mukana toimitettavaa varastointi [OneDrive Business-palvelun kuvaus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **Huomautus**: näyttää siltä, että sinulla ei ole suunnitelmaa, joka sisältää rajoittamattoman tallennuksen. Lisä tietoja kunkin suunnitelman mukana olevasta tallennus tilasta on kohdassa [OneDrive for Business-palvelun kuvaus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Lisää tallennustilaa-yrityksen OneDrive, valitse Office 365-suunnitelma, joka sisältää **OneDrive liiketoiminta-suunnitelman 2** - tai **Office 365 Enterprise-E3**. 
+Jos haluat lisätä tallennus tilaa OneDrive for Businessissa, valitse Office 365-suunnitelma, joka sisältää joko **OneDrive for Business Plan 2-** tai **Office 365 Enterprise E3**-ohjelman. 
   
-Voit muuttaa suunnitelmat Microsoft 365 admin Centerissä, siirry **Laskutus** \> **tilaukset**ja valitse **vaihtaa suunnitelmia.**
+Voit muuttaa suunnitelmia siirtymällä Microsoft 365-hallinta keskukseen **laskutuksen** \> **tila ukset**-kohtaan ja valitsemalla sitten **Vaihda suunnitelmia.**
   
-Saat lisätietoja suunnitelmista ja OneDrive siirtyminen Business varastointiin [Siirtyminen eri Office 365-liiketoimintasuunnitelman](https://go.microsoft.com/fwlink/?LinkId=2031117) ja [OneDrive Business-palvelun kuvaus](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Lisä tietoja pakettien vaihtamisesta ja OneDrive for Business-tallennus tilasta on kohdassa [vaihtaminen toiseen Office 365 for Business-suunnitelmaan](https://go.microsoft.com/fwlink/?LinkId=2031117) ja [OneDrive for Business-palvelun kuvaus](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 
