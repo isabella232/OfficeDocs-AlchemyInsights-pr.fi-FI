@@ -1,27 +1,26 @@
 ---
-title: Ulkoinen kontakti ei voi hyväksyä jako kutsu
+title: Ulkoinen kontakti ei voi hyväksyä jakamis kutsua
 ms.author: efrene
 author: efrene
-ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508492"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744206"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a><span data-ttu-id="08753-102">Ulkoinen kontakti ei voi hyväksyä SharePoint-kutsu</span><span class="sxs-lookup"><span data-stu-id="08753-102">External contact is unable to accept a SharePoint invitation</span></span>
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a><span data-ttu-id="db56f-102">Ulkoinen yhteys henkilö ei voi hyväksyä SharePoint-kutsua</span><span class="sxs-lookup"><span data-stu-id="db56f-102">External contact is unable to accept a SharePoint invitation</span></span>
 
-<span data-ttu-id="08753-103">Jos ulkoisessa ei hyväksy jako kutsu, kokeile vierailevien alla olevia linkkejä.</span><span class="sxs-lookup"><span data-stu-id="08753-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
+<span data-ttu-id="db56f-103">Jos ulkoinen ei voi hyväksyä jakamis kutsua, yritä tutustua alla oleviin linkkeihin.</span><span class="sxs-lookup"><span data-stu-id="db56f-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
 
-- [<span data-ttu-id="08753-104">Näyttöön tulee virhesanoma, kun ulkoinen käyttäjä hyväksyy SharePoint Online kutsu käyttäen toista tiliä</span><span class="sxs-lookup"><span data-stu-id="08753-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [<span data-ttu-id="db56f-104">Virhe sanoma, kun ulkoinen käyttäjä hyväksyy SharePoint Online-kutsun käyttämällä toista tiliä</span><span class="sxs-lookup"><span data-stu-id="db56f-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="08753-105">Ei ole käyttöoikeutta jaettuun kansioon</span><span class="sxs-lookup"><span data-stu-id="08753-105">Access denied to a shared folder</span></span>](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [<span data-ttu-id="db56f-105">Jaetun kansion käyttö estetty</span><span class="sxs-lookup"><span data-stu-id="db56f-105">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [<span data-ttu-id="08753-106">SharePoint ja OneDrive virheiden jakaminen</span><span class="sxs-lookup"><span data-stu-id="08753-106">Sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="db56f-106">Virheiden jakaminen SharePointissa ja OneDrivessa</span><span class="sxs-lookup"><span data-stu-id="db56f-106">Sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

@@ -1,6 +1,6 @@
 ---
-title: Avaa SharePoint-kirjaston tiedoston Resurssienhallinnassa
-ms.author: kirks
+title: SharePoint-kirjaston avaaminen Resurssienhallinnassa
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 43df8ff77c26e7f5068bb99aaef5260b86acb807
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535280"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750841"
 ---
-# <a name="problems-opening-office-files-from-sharepoint"></a><span data-ttu-id="19430-102">Office-tiedostojen avaamista SharePoint-ongelmia</span><span class="sxs-lookup"><span data-stu-id="19430-102">Problems opening Office files from SharePoint</span></span>
+# <a name="problems-opening-office-files-from-sharepoint"></a><span data-ttu-id="148d1-102">Ongelmia Office-tiedostojen avaamisessa SharePointista</span><span class="sxs-lookup"><span data-stu-id="148d1-102">Problems opening Office files from SharePoint</span></span>
 
-<span data-ttu-id="19430-103">Jos sinulla on ongelmia avata Office-tiedostoja ja asiakirjoja SharePoint-paikalliset Office-asiakkaat, tutustu alla olevia linkkejä.</span><span class="sxs-lookup"><span data-stu-id="19430-103">If you have problems opening Office files and documents from SharePoint in your local Office clients, please review the links below.</span></span> 
+<span data-ttu-id="148d1-103">Jos sinulla on ongelmia Office-tiedostojen ja asia kirjojen avaamisessa SharePointista paikallisissa Office-asiakkaissa, Lue alla olevat linkit.</span><span class="sxs-lookup"><span data-stu-id="148d1-103">If you have problems opening Office files and documents from SharePoint in your local Office clients, please review the links below.</span></span> 
 
-- <span data-ttu-id="19430-104">[Tarkista tiedoston rajoitukset sen varmistamiseksi on tuettu](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span><span class="sxs-lookup"><span data-stu-id="19430-104">[Check file limitations to ensure the file is supported](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
+- <span data-ttu-id="148d1-104">[Tarkista tiedoston rajoitukset ja varmista, että tiedosto on tuettu](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span><span class="sxs-lookup"><span data-stu-id="148d1-104">[Check file limitations to ensure the file is supported](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
 
-- <span data-ttu-id="19430-105">[Poista office-tiedostovälimuisti](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="19430-105">[Delete your office document cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span>
+- <span data-ttu-id="148d1-105">[Poista Office-asia kirjan väli muisti](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="148d1-105">[Delete your office document cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span>
 
-- <span data-ttu-id="19430-106">[Suorittaa Korjaa Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="19430-106">[Run a repair on Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+- <span data-ttu-id="148d1-106">[Suorita korjaus Officeen](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="148d1-106">[Run a repair on Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
-<span data-ttu-id="19430-107">Enemmän tietoja tai tiedot viittaavat artikkelissa [SharePoint-kirjastojen tiedostoja avaamalla ongelmien korjaaminen](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span><span class="sxs-lookup"><span data-stu-id="19430-107">For more information or details please reference the article, [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span></span>
+<span data-ttu-id="148d1-107">Lisä tietoja tai tietoja on artikkelissa, [Korjaa ongelmat avaamalla asia kirjoja SharePoint-kirjastoissa](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span><span class="sxs-lookup"><span data-stu-id="148d1-107">For more information or details please reference the article, [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span></span>
 
-<span data-ttu-id="19430-108">**Huomautus**: Jos sinulla on ongelmia avata selaimella tai asiakasohjelman oletusarvon mukaan tiedostot, joudut ehkä muuttamaan kirjaston.</span><span class="sxs-lookup"><span data-stu-id="19430-108">**Note**: If you are having issues with documents opening in the browser or client by default, you may need to change the library setting.</span></span> <span data-ttu-id="19430-109">Voit tehdä tämän siirtymällä kirjastoon ottaa ongelmat > pyydykset kuvaketta oikeassa yläkulmassa > kirjaston asetukset > Lisäasetukset-> tiedostojen avaaminen-selaimessa.</span><span class="sxs-lookup"><span data-stu-id="19430-109">To do this,navigate to the Library having issues > Gear Icon in upper right corner > Library Settings >  Advanced settings > Opening Documents in the Browser.</span></span>
+<span data-ttu-id="148d1-108">**Huomautus**: Jos sinulla on ongelmia selaimessa tai asiakas ohjelmassa avatessasi asia kirjoja, sinun on ehkä muutettava Kirjasto asetusta.</span><span class="sxs-lookup"><span data-stu-id="148d1-108">**Note**: If you are having issues with documents opening in the browser or client by default, you may need to change the library setting.</span></span> <span data-ttu-id="148d1-109">Voit tehdä tämän siirtymällä kirjastoon, jossa on ongelmia > Gear kuvake oikeassa yläkulmassa > Kirjasto asetukset > lisä asetukset > asia kirjojen avaaminen selaimessa.</span><span class="sxs-lookup"><span data-stu-id="148d1-109">To do this,navigate to the Library having issues > Gear Icon in upper right corner > Library Settings >  Advanced settings > Opening Documents in the Browser.</span></span>
 

@@ -1,5 +1,5 @@
 ---
-title: Ehdotuksia 'Varastettu tuote' virheiden ratkaiseminen
+title: Ehdotuksia "Lisensoitumattomia tuotteita" koskevien virheiden ratkaisemiseksi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501040"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743270"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="1b3c8-102">Ehdotuksia ”varastettu tuote” virheiden ratkaiseminen</span><span class="sxs-lookup"><span data-stu-id="1b3c8-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="ceab3-102">Ehdotuksia "Lisensoitumattomia tuotteita" koskevien virheiden ratkaisemiseksi</span><span class="sxs-lookup"><span data-stu-id="ceab3-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="1b3c8-103">Varmista tilauksen, jonka avulla käyttöoikeuksia Office 365: n Business tai Business Premium, kuten [on määritetty käyttöoikeus](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="1b3c8-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="1b3c8-104">[Deactivate asennus](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) tarkistaa, jos olet ylittänyt asentaa tueta tilauksen numero.</span><span class="sxs-lookup"><span data-stu-id="1b3c8-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="ceab3-103">Varmista, että sinulla on tilaus, joka sallii asiakkaan käyttö oikeudet, kuten Office 365 Business tai Business Premium, ja varmista, että [käyttäjälle on määritetty käyttö oikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="ceab3-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="ceab3-104">[Poista asennus käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) ja tarkista, Oletko ylittänyt tilauksesi tukemien asennusten määrän.</span><span class="sxs-lookup"><span data-stu-id="ceab3-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="1b3c8-105">Varmistaa käyttäjän kirjautumista on samalle tilille, joka on määritetty käyttöoikeus.</span><span class="sxs-lookup"><span data-stu-id="1b3c8-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="ceab3-105">Varmista, että käyttäjä kirjautumiseen samalla tilillä, jolle on määritetty käyttö oikeus.</span><span class="sxs-lookup"><span data-stu-id="ceab3-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="1b3c8-106">Voit suorittaa [aktivoinnin vianmääritys](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1b3c8-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="ceab3-106">Suorita [Akti voinnin vian määritys](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ceab3-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="1b3c8-107">Tarkista, jos tilauksen tila on vanhentunut</span><span class="sxs-lookup"><span data-stu-id="1b3c8-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="ceab3-107">Tarkista, onko tilauksesi tila vanhentunut</span><span class="sxs-lookup"><span data-stu-id="ceab3-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="1b3c8-108">Tarkista, tarkista, onko palvelu tunnettuja ongelmia [Office 365 palvelun kunto-sivulle](https://docs.microsoft.com/office365/enterprise/view-service-health) .</span><span class="sxs-lookup"><span data-stu-id="1b3c8-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="ceab3-108">Tarkista [Office 365 Service Health-sivulta](https://docs.microsoft.com/office365/enterprise/view-service-health) , onko palvelussa tunnettuja ongelmia.</span><span class="sxs-lookup"><span data-stu-id="ceab3-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="1b3c8-109">[Suorita Office Online korjauspalvelut](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="1b3c8-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="ceab3-109">[Suorita Officen online-korjaus](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ceab3-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="1b3c8-110">Lisätietoja vianmäärityksen lisäresursseja: [varastettu tuote ja Office activation virheitä](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="1b3c8-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="ceab3-110">Lisä vian määritys ratkaisuja on artikkelissa: [lisensoitujen tuote-ja aktivointi virheiden poistaminen Officessa](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ceab3-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
