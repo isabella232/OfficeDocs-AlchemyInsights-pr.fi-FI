@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546768"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822303"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Vastaanota käyttäen Outlook.com Facebook koodit
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ei saa Facebook-koodeja käyttämällä Outlook.com
 
-Jos olet pyytänyt uuden salasanan Facebook mutta saanut salasanan vaihdetun:
+Jos olet pyytänyt uutta Sala sanaa Facebookilta, mutta et saanut Sala sanan palautus sähkö postia:
 
-- Tarkista [Roskaposti tai Roskaposti-kansioon](https://outlook.live.com/mail/junkemail).
-- Yritä [palauttaa Facebook salasana uudelleen](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Tarkista [roska posti kansiosi](https://outlook.live.com/mail/junkemail).
+- Yritä [nollata Facebook-Sala sanasi uudelleen](https://aka.ms/facebook-password-reset).
 
-Jos salasanasi ei voi palauttaa, koska ei voi käyttää-tilisi sähköpostiosoite tai matkapuhelinnumero, kokeile [Facebook's salasanan palauttaminen vihjeitä](https://www.facebook.com/help/218815984812734).
+Jos et voi nollata Sala sanaasi, koska et voi käyttää tilisi Sähkö posti-tai matka Puhelin numeroa, kokeile [Facebookin Sala sanan palautus vinkkejä](https://aka.ms/facebook-password-help).
