@@ -1,5 +1,5 @@
 ---
-title: 'Miten voidaan varmistaa toimialueesi Office 365: n kanssa'
+title: Toimi alueen tarkistaminen Office 365-ohjelman avulla
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664065"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851717"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Miten voidaan varmistaa toimialueesi Office 365: n kanssa
+# <a name="how-to-verify-your-domain-with-office-365"></a>Toimi alueen tarkistaminen Office 365-ohjelman avulla
 
-Voit tarkistaa toimialueen, tarvitset lisää TXT-tietueen toimialueen että registrar vahvistamaan, että omistat toimialueen. Noudata [ohjatun Lisää toimialue](https://portal.office.com/adminportal/home#/Domains) valitsemalla **asetukset** ensin \> **Domaisn**ja **Lisää toimialueeseen**.
+Vahvista toimi alueesi lisäämällä TXT-tietue toimi alueen rekisteröijälle varmistaaksesi, että omistat toimi alueesi. Noudata ensin [ohjattua toimi alueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> -toimi **alueet**ja **Lisää sitten toimi alue**.
   
-Lisää TXT-tietue tarkistamaan toimialueesi [osoitteessa tahansa DNS Office 365 videopalvelujen tarjoajan luoda DNS-tietueet](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ohjeiden mukaan.
+Noudata ohjeita kohdassa [Luo DNS-tietueita missä tahansa DNS-isännöinti palvelun tarjoajana (Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ) lisätäksesi TXT-tietueen toimi alueesi vahvistamiseksi.
   
