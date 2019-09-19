@@ -1,5 +1,5 @@
 ---
-title: 1800009 outlook for Mac app-tuki
+title: 1800009 Outlookin Mac-sovellusten tuki
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666801"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035752"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>-App Outlook for Mac-tuki
+# <a name="in-app-support-in-outlook-for-mac"></a>In-app tuki Outlook for Mac
 
-Saat tukea-app-Outlook for Mac-ongelmat, Avaa Outlook ja valitse **Ohje** \> **Yhteyshenkilö tukea**. Kirjoita kysymyksesi ja jäsen Outlook for Mac saa ottaa yhteyttä tuotetukiryhmääsi. 
+Jos haluat saada tuen in-App for Outlook for Mac-ongelmat, avaa Outlook ja valitse **apua** \> **Ota yhteyttä tukeen**. Kirjoita kysymyksesi ja Outlookin Mac-tuki tiimin jäsen saa sinuun yhteyttä. 
 
-[Ota Outlook for Mac-tuki](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Lisä tietoja: [Ota yhteyttä tukeen Macin Outlookissa](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
