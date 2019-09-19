@@ -1,5 +1,5 @@
 ---
-title: 1374 ratkaista kaksi postilaatikoihin howto
+title: 1374 ratkaise kaksi posti laatikkoa HOWTO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1374"
+- "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
+ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369842"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026591"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="95fcb-102">Käyttäjällä on kaksi postilaatikoihin</span><span class="sxs-lookup"><span data-stu-id="95fcb-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="e4796-102">Käyttäjällä on kaksi posti laatikkoa</span><span class="sxs-lookup"><span data-stu-id="e4796-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="95fcb-103">Hybridi-Ympäristöt, jotka käyttävät Azure Active Directory muodostaa (AAD yhteyden) tai DirSync vahingossa voi aiheuttaa käyttäjä on kaksi postilaatikot: yksi organisaation tiloissa ja toisen pilven.</span><span class="sxs-lookup"><span data-stu-id="95fcb-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one in the on-premises organization and one in the cloud.</span></span>
+<span data-ttu-id="e4796-103">Azure Active Directory Connectin (AAD Connect) tai DirSync-ohjelman käyttävät hybridi ympäristöt saattavat aiheuttaa käyttäjälle vahingossa kaksi posti laatikkoa: yksi paikallinen ja yksi pilvessä.</span><span class="sxs-lookup"><span data-stu-id="e4796-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="e4796-104">Kummassakin paikassa voidaan luoda kaksinkertainen posti laatikko.</span><span class="sxs-lookup"><span data-stu-id="e4796-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="95fcb-104">Tämän ongelman ratkaisemiseksi on [Pysyvästi Tyhjennä edellisen postilaatikon tiedot](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span><span class="sxs-lookup"><span data-stu-id="95fcb-104">To resolve this issue, see [Permanently Clear Previous Mailbox Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span></span>
+<span data-ttu-id="e4796-105">Lisä tietoja ongelman ratkaisemiseksi on Ohje aiheessa [miten palauttaa, kun posti laatikko on olemassa sekä Exchange Online ja paikallinen](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="e4796-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="e4796-106">Jos haluat lisä tietoja siitä, miten voit välttää tämän jatkossa, katso [käyttäjästä posti laatikko sekä paikallisesti että Exchange Onlinessa. Apua!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span><span class="sxs-lookup"><span data-stu-id="e4796-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
