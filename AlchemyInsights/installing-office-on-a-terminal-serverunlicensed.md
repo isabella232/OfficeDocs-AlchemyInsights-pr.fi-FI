@@ -2,7 +2,6 @@
 title: Officen asentaminen Terminal Serveriin-käyttö oikeus ei ole lisensoitu
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735386"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205406"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Officen asentaminen pääte palvelimeen
 
@@ -26,7 +25,10 @@ Jos haluat ottaa Office 365 ProPlusin käyttöön Windows Serverissä käyttäm�
 
 - Sinun on otettava käyttöön [jaetun tieto koneen Akti vointi](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jos haluat asentaa Office 365 ProPlus RDS Microsoft 365 hallinta keskukseen, ***joka käyttää asennuksen oletus asetukset***, toimi seuraavasti:
+Jos haluat asentaa Office 365 ProPlus RDS Microsoft 365 hallinta keskukseen, ***joka käyttää asennuksen oletus asetukset***, toimi seuraavasti.
+
+> [!TIP]
+> Voit myös ladata ja suorittaa [Microsoftin tuki-ja palautus avustajan](https://aka.ms/SaRA_OfficeSCA_M365Portal) ja asentaa Office 365 ProPlusin jaettuun tieto koneen aktivointi tilaan.
   
 1. Tarkista, mitä Office 365-suunnitelma sinulla on. [Lue, miten](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 

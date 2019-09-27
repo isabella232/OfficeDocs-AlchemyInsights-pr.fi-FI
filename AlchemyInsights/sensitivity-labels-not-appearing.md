@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744818"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207222"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Herkkyys merkinnät eivät näy
 
-Herkkyys tunnisteiden avulla voit luokitella arkaluontoista sisältöä ja suojata sen. Lisä tietoja tästä ominaisuudesta on kohdassa [herkkyys merkintöjen yleiskuvaus](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Herkkyys tunnisteiden avulla voit luokitella arkaluontoista sisältöä ja suojata sen. Ne voidaan luoda Microsoft 365 Compliance Centerissä, Microsoft 365 tieto turva keskuksessa tai Office 365 Security & Compliance Centerissa luokittelu > herkkyys merkintöjen alla. Lisä tietoja tästä ominaisuudesta on kohdassa [herkkyys merkintöjen yleiskuvaus](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Jos olet määrittänyt herkkyys Tunnisteet, mutta ne eivät näy Office-sovelluksissa, tarkista seuraavat seikat:
 
@@ -32,5 +32,10 @@ Jos olet määrittänyt herkkyys Tunnisteet, mutta ne eivät näy Office-sovellu
 - Jos olet [siirtamassa Azure Information Protection-tunnisteita](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), Huomaa [tässä](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)luetellut seikat.
 
 - Tietojen menetyksen estämisen (DLP) tuki: tällä hetkellä vain säilytys tarroja voidaan käyttää ehtona DLP-käytännöissä.  DLP-käytännön herkkyys merkintöjen tuki ei ole vielä saatavilla, mutta työskentelemme sen parissa.
+
+- Kun salaus on otettu käyttöön herkkyys merkinnässä, voit valita joko:
+    - Määritä käyttö oikeudet nyt
+    - Anna käyttäjien määrittää käyttö oikeuksia
+
 
 Lisä tietoja mahdollisista ongelmista [on aiheessa herkkyys otsikoihin liittyvät tunnetut ongelmat](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
