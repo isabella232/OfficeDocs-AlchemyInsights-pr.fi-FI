@@ -1,8 +1,7 @@
 ---
-title: Päivitä ryhmät ohjeet
+title: Teams-päivitys Ohjeet
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533876"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305118"
 ---
-# <a name="upgrade-to-teams"></a>Päivitä ryhmät
+# <a name="microsoft-teams-upgrade"></a>Microsoft teams-päivitys
 
-Löydät vaiheittaiset ohjeet Skype liiketoimintaa siirtymisen Microsoftin Teams [tähän](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Olitpa sitten juuri aloittamassa tiimejä, käytät jo tiimejä Skype for Businessin rinnalla tai olet valmis päivittämään, halu amme varmistaa, että sinulla on kaikki mitä tarvitset siirtyäksesi onnistuneeseen matkalle tiimiin. Lisä tietoja on alla olevissa linkeissä.
+
+[Microsoft teams-päivityksen käytön aloittaminen](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Suunnittele päivitys](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Microsoft teamsin ja Skype for Businessin rinnakkaiselon ymmärtäminen](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Skype for Business Onlinen päivityksen suorittaminen tiimeille](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Päivityksen suorittaminen Skype for Businessista paikalliseen tiimiin](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
