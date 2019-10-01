@@ -1,5 +1,5 @@
 ---
-title: Ryhmien vuorot
+title: Työryhmät vuorot
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1686
-ms.openlocfilehash: fe1d3d099cdd94923d4010b11c12af878f5b0348
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1686"
+- "9000161"
+ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
+ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771303"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37328667"
 ---
-# <a name="using-teams-shifts"></a>Vuorot ryhmien avulla
+# <a name="using-teams-shifts"></a>Ryhmien vuorojen käyttäminen
 
-Vuorot ryhmät-sovellus mahdollistaa nopea ja tehokas ajanhallinta ja viestinnän frontline tiimeille. Sen avulla esimiehet ja työntekijät käyttävät hallita aikatauluja ja pitää yhteyttä niiden mobiililaitteissa.
+Jos haluat lisä tietoja ryhmien siirtymistä, kuten siitä, miten siirryt Microsoft Staffhubista, katso [ryhmien vuorot](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
 
-Lisätietoja enemmän on [siirtää tiimeille](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Saat näkyviin tietoja vuorot hankkiminen ja miten se määritetään.
-
-Jos olet jo ottanut vuoroa, lukea aikataulujen luomisesta saat [aloittaa vuoroa](https://support.office.com/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) .
+Microsoft Staffhub [poistetaan käytöstä 31](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) . joulu kuuta 2019. 
 
