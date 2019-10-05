@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-enable-litigation-Hold
+title: 976-miten-mahdollistaa-oikeuden käynnit-pidä
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540754"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398624"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Postilaatikko asettaa oikeudellinen pitoon
+# <a name="place-a-mailbox-on-legal-hold"></a>Aseta posti laatikko lailliseen pito paikkaan
 
-- Sijoita postilaatikkoon pidossa oikeudellisten toimien tai paikallaan pitämällä, Exchange Online suunnitella 2-käyttöoikeuden [Exchange Online suunnitella 2-käyttöoikeus](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) vaaditaan. Jos postilaatikko on määritetty suunnitella 1-käyttöoikeuden, voit määrittää erillinen Exchange Online arkistoida lisäosien käyttöoikeus [Exchange Online arkistoida lisäkäyttöoikeus](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Jos haluat sijoittaa posti laatikon oikeuden käyntiä varten tai sijoittaa Hold-tilaan, tarvitaan Exchange Online Plan 2-lisenssi [Exchange Online Plan 2-lisenssi](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Jos posti laatikkoon on liitetty Plan 1-lisenssi, voit määrittää erillisen Exchange Online-arkistoinnin lisä käyttö oikeuden [Exchange Online-arkistoinnin lisä käyttö oikeuden](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Jos haluat ottaa käyttöön oikeusjutun pidä yksittäinen käyttäjä, [toimi seuraavasti](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Pidä oikeudenkäyntiä on käytössä, kun postilaatikon koko sisältö säilyy.
+- Voit ottaa oikeus riita-asiat käyttöön yksittäisessä käyttäjän käytössä [seuraavasti.](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold) Kun oikeuden käyntien pito on käytössä, kaikki posti laatikon sisältö säilytetään.
 
-- Jos haluat sijoittaa pito organisaation kaikkia postilaatikoita, voit Office 365-säilytyskäytäntö toimimalla [seuraavien ohjeiden mukaisesti](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Huomaa, että koko organisaation säilytyskäytännöt, uusien käyttäjien delegoidaan automaattisesti käytäntöön.
+- Jos haluat säilyttää kaikkien organisaatiosi posti laatikoiden sisällön, voit käyttää koko [organisaatiota koskevaa Office 365-säilytys käytäntöä](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Huomaa, että organisaation laajuiset säilytys käytännöt, uudet käyttäjät liitetään automaattisesti käytännön.
