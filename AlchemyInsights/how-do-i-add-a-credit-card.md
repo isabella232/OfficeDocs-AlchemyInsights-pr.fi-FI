@@ -20,14 +20,14 @@ ms.contentlocale: fi-FI
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664461"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="d96d1-102">Miten voin lisätä luottokortin?</span><span class="sxs-lookup"><span data-stu-id="d96d1-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="37b52-102">Miten voin lisätä luottokortin?</span><span class="sxs-lookup"><span data-stu-id="37b52-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="d96d1-103">Siirry Microsoft 365 -hallintakeskuksessa **Laskutus** \> [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle.</span><span class="sxs-lookup"><span data-stu-id="d96d1-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="37b52-103">Siirry Microsoft 365 -hallintakeskuksessa **Laskutus** \> [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle.</span><span class="sxs-lookup"><span data-stu-id="37b52-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="d96d1-104">Valitse **Lisää maksutapa**.</span><span class="sxs-lookup"><span data-stu-id="d96d1-104">Select **Add a payment method**.</span></span>
+2. <span data-ttu-id="37b52-104">Valitse **Lisää maksutapa**.</span><span class="sxs-lookup"><span data-stu-id="37b52-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="d96d1-105">Valitse **Maksutavat**-sivulla maksutapa avattavasta valikosta.</span><span class="sxs-lookup"><span data-stu-id="d96d1-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="37b52-105">Valitse **Maksutavat**-sivulla maksutapa avattavasta valikosta.</span><span class="sxs-lookup"><span data-stu-id="37b52-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="d96d1-106">Anna uuden luottokortin tai pankkitilin tiedot ja valitse sitten **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="d96d1-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="37b52-106">Anna uuden luottokortin tai pankkitilin tiedot ja valitse sitten **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="37b52-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="d96d1-107">Katso lisätietoja artikkelista [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="d96d1-107">[](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)Add, update, or remove a credit card or bank account in Office 365 for business</span></span>
+<span data-ttu-id="37b52-107">Katso lisätietoja artikkelista [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="37b52-107">[](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)Add, update, or remove a credit card or bank account in Office 365 for business</span></span>
