@@ -21,14 +21,14 @@ ms.contentlocale: fi-FI
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742406"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="be185-102">Erilaisia jaettuja Outlook-kalentereita ja niiden ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="be185-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="f5a27-102">Erilaisia jaettuja Outlook-kalentereita ja niiden ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="f5a27-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="be185-103">Jaetun postilaatikon luominen</span><span class="sxs-lookup"><span data-stu-id="be185-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="f5a27-103">Jaetun postilaatikon luominen</span><span class="sxs-lookup"><span data-stu-id="f5a27-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="be185-104">Kokoustilojen ja laitteiden postilaatikot</span><span class="sxs-lookup"><span data-stu-id="be185-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="f5a27-104">Kokoustilojen ja laitteiden postilaatikot</span><span class="sxs-lookup"><span data-stu-id="f5a27-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="be185-105">Kalenteriryhmän luominen</span><span class="sxs-lookup"><span data-stu-id="be185-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="f5a27-105">Kalenteriryhmän luominen</span><span class="sxs-lookup"><span data-stu-id="f5a27-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="be185-106">Outlook-kalenterin jakaminen muiden kanssa</span><span class="sxs-lookup"><span data-stu-id="be185-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="f5a27-106">Outlook-kalenterin jakaminen muiden kanssa</span><span class="sxs-lookup"><span data-stu-id="f5a27-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="be185-107">Jos et näe kalenterin tavoitettavuustietoja muissa kalentereissa tai muut eivät voi nähdä tavoitettavuustietoja omassa kalenterissasi, käytä [Microsoft Office 365:n tuki- ja palautusavustajaa](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="be185-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="f5a27-107">Jos et näe kalenterin tavoitettavuustietoja muissa kalentereissa tai muut eivät voi nähdä tavoitettavuustietoja omassa kalenterissasi, käytä [Microsoft Office 365:n tuki- ja palautusavustajaa](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="f5a27-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>

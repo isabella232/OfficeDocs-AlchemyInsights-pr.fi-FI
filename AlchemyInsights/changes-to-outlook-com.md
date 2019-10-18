@@ -17,10 +17,10 @@ ms.contentlocale: fi-FI
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520628"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="483f5-102">Lisätietoja uudesta Outlook.com-versiosta</span><span class="sxs-lookup"><span data-stu-id="483f5-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="a28c5-102">Lisätietoja uudesta Outlook.com-versiosta</span><span class="sxs-lookup"><span data-stu-id="a28c5-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="483f5-103">[Lue lisää](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) muutoksista uudessa Outlook.comissa tai hae tietoja alla olevan ruudun avulla.</span><span class="sxs-lookup"><span data-stu-id="483f5-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="a28c5-103">[Lue lisää](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) muutoksista uudessa Outlook.comissa tai hae tietoja alla olevan ruudun avulla.</span><span class="sxs-lookup"><span data-stu-id="a28c5-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="483f5-104">Katso tulokset vierittämällä alas.</span><span class="sxs-lookup"><span data-stu-id="483f5-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="a28c5-104">Katso tulokset vierittämällä alas.</span><span class="sxs-lookup"><span data-stu-id="a28c5-104">Scroll down to see the results.</span></span>
   
 
