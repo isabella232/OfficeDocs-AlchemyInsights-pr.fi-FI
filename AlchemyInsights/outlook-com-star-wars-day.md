@@ -1,5 +1,5 @@
 ---
-title: Päivän tähti 8000045 sotien
+title: 8000045 Tähtien sota-päivä
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
 ms.openlocfilehash: a1c0f8bf1ea220e5e8d3efc98451abb0fd352c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512083"
 ---
-# <a name="star-wars-day"></a><span data-ttu-id="0ad4b-102">Sotien tähden päivä</span><span class="sxs-lookup"><span data-stu-id="0ad4b-102">Star Wars day</span></span>
+# <a name="star-wars-day"></a><span data-ttu-id="b2069-102">Tähtien sota-päivä</span><span class="sxs-lookup"><span data-stu-id="b2069-102">Star Wars day</span></span>
 
-<span data-ttu-id="0ad4b-103">Hmmm ohjelman olet.</span><span class="sxs-lookup"><span data-stu-id="0ad4b-103">Hmmm, curious you are.</span></span>
+<span data-ttu-id="b2069-103">Hmmm, utelias olet.</span><span class="sxs-lookup"><span data-stu-id="b2069-103">Hmmm, curious you are.</span></span>
 
-<span data-ttu-id="0ad4b-104">Ehkä voima kanssasi.</span><span class="sxs-lookup"><span data-stu-id="0ad4b-104">May the Force be with you.</span></span>
+<span data-ttu-id="b2069-104">Voi voima olla kanssasi.</span><span class="sxs-lookup"><span data-stu-id="b2069-104">May the Force be with you.</span></span>

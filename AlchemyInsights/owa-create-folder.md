@@ -1,5 +1,5 @@
 ---
-title: Luo Outlook web-kansio
+title: Kansion luominen Outlookissa Webissä
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557246"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="1e4d7-102">Luo kansio</span><span class="sxs-lookup"><span data-stu-id="1e4d7-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="1bdf6-102">Kansion luominen</span><span class="sxs-lookup"><span data-stu-id="1bdf6-102">Create a folder</span></span>
 
-1. <span data-ttu-id="1e4d7-103">Valitse **Uusi kansio**Outlookin web-kansio-ruudun alareunassa.</span><span class="sxs-lookup"><span data-stu-id="1e4d7-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="1e4d7-104">Joudut ehkä vierittämään näyttöä haluamaasi kansioon kansioruudussa **Uusi kansio** -painike tulee näyttöön.</span><span class="sxs-lookup"><span data-stu-id="1e4d7-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-1. <span data-ttu-id="1e4d7-105">Kirjoita teksti-ruutuun kansion nimi ja paina sitten Enter.</span><span class="sxs-lookup"><span data-stu-id="1e4d7-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="1bdf6-103">Valitse Outlookin Web-sivuston kansio ruudun alareunasta **Uusi kansio**.</span><span class="sxs-lookup"><span data-stu-id="1bdf6-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="1bdf6-104">Sinun täytyy ehkä vierittää kansio ruutua alaspäin, jotta näet **uuden kansio** painikkeen.</span><span class="sxs-lookup"><span data-stu-id="1bdf6-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+1. <span data-ttu-id="1bdf6-105">Kirjoita kansion nimi teksti ruutuun ja paina ENTER-näppäintä.</span><span class="sxs-lookup"><span data-stu-id="1bdf6-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="1e4d7-106">Lisätietoja on ohjeaiheessa [viestin Outlookissa, web-kansioiden käyttäminen](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="1e4d7-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="1bdf6-106">Lisä tietoja on kohdassa [Outlookin viesti kansioiden käsitteleminen Webissä](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="1bdf6-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
