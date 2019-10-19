@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556526"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="b1d56-102">Outlookin web-kansion poistaminen</span><span class="sxs-lookup"><span data-stu-id="b1d56-102">How to delete a folder in Outlook on the web</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="86f4b-102">Kansion poistaminen Outlookissa Webissä</span><span class="sxs-lookup"><span data-stu-id="86f4b-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="b1d56-103">Napsauta kansioruudussa kansiota tai alikansiota, jonka haluat poistaa.</span><span class="sxs-lookup"><span data-stu-id="b1d56-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="b1d56-104">Valitse **Poista kansio**.</span><span class="sxs-lookup"><span data-stu-id="b1d56-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="b1d56-105">Valitse **OK** Vahvista.</span><span class="sxs-lookup"><span data-stu-id="b1d56-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="86f4b-103">Napsauta kansio ruudussa hiiren kakkos painikkeella kansiota tai alikansio, jonka haluat poistaa.</span><span class="sxs-lookup"><span data-stu-id="86f4b-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="86f4b-104">Valitse **Poista kansio**.</span><span class="sxs-lookup"><span data-stu-id="86f4b-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="86f4b-105">Vahvista valinta valitsemalla **OK** .</span><span class="sxs-lookup"><span data-stu-id="86f4b-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="b1d56-106">Lisätietoja on ohjeaiheessa [viestin Outlookissa, web-kansioiden käyttäminen](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="b1d56-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="86f4b-106">Lisä tietoja on kohdassa [Outlookin viesti kansioiden käsitteleminen Webissä](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="86f4b-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 

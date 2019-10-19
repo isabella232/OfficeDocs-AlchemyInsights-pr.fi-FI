@@ -1,5 +1,5 @@
 ---
-title: Lataa kansio tai tiedostot asiakirjakirjastoon
+title: Kansion tai tiedostojen lataaminen asiakirja kirjastoon
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532616"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="e145e-102">Lataa SharePoint-asiakirjakirjaston tai kansion tiedostot</span><span class="sxs-lookup"><span data-stu-id="e145e-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="24ed3-102">Kansion tai tiedostojen lataaminen SharePoint-asiakirja kirjastoon</span><span class="sxs-lookup"><span data-stu-id="24ed3-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="e145e-103">Jos haluat ladata kansio, sinun on käytettävä Microsoft Edge, Google Chrome ja Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="e145e-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="e145e-104">Ei voi ladata kansioita kokemus perinteinen kirjasto tai Internet Explorer 10 tai 11.</span><span class="sxs-lookup"><span data-stu-id="e145e-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="24ed3-103">Jos haluat ladata kansion, sinun on käytettävä Microsoft Edgeä, Google Chromea tai Mozilla Firefoxia.</span><span class="sxs-lookup"><span data-stu-id="24ed3-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="24ed3-104">Et voi ladata kansioita klassiseen Kirjasto kokemukseen tai käyttää Internet Explorer 10: tä tai 11: tä.</span><span class="sxs-lookup"><span data-stu-id="24ed3-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="e145e-105">Avaa asiakirjakirjasto, johon haluat ladata kansio tai tiedostot.</span><span class="sxs-lookup"><span data-stu-id="e145e-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="24ed3-105">Avaa asiakirja Kirjasto, johon haluat ladata kansion tai tiedostot.</span><span class="sxs-lookup"><span data-stu-id="24ed3-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="e145e-106">Avaa tiedoston Explorer tietokoneeseen ja etsi kansio tai tiedostot, jotka haluat ladata.</span><span class="sxs-lookup"><span data-stu-id="e145e-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="24ed3-106">Avaa Resurssienhallinta tieto koneella ja siirry kansioon tai tiedostoihin, jotka haluat ladata palvelimeen.</span><span class="sxs-lookup"><span data-stu-id="24ed3-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="e145e-107">Vedä kansio tai tiedostot asiakirjakirjastoon.</span><span class="sxs-lookup"><span data-stu-id="e145e-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="e145e-108">Jos et näe niitä, voit ladata näy kirjastossa, Päivitä sivu.</span><span class="sxs-lookup"><span data-stu-id="e145e-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="24ed3-107">Vedä kansio tai tiedostot asiakirja kirjastoon.</span><span class="sxs-lookup"><span data-stu-id="24ed3-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="24ed3-108">Jos et näe lataamiasi kohteita kirjastossa, Päivitä sivu.</span><span class="sxs-lookup"><span data-stu-id="24ed3-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="e145e-109">Jos et halua ladata kohteita vetämällä toiseen, voit käyttää myös **Lataa** -painiketta asiakirjakirjaston kansio tai tiedostot, jotka haluat ladata.</span><span class="sxs-lookup"><span data-stu-id="e145e-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="24ed3-109">Jos et halua ladata kohteita vetämällä niitä Windowsin välillä, voit myös käyttää tiedosto kirjaston **Lataa** -painiketta valitaksesi kansion tai tiedostot, jotka haluat ladata.</span><span class="sxs-lookup"><span data-stu-id="24ed3-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
