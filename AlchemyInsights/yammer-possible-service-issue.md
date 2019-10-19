@@ -1,5 +1,5 @@
 ---
-title: Yammer - mahdollisen palvelun ongelma
+title: Yammer-mahdollinen palvelu ongelma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557822"
 ---
-# <a name="yammer---possible-service-issue"></a><span data-ttu-id="23be6-102">Yammer - mahdollisen palvelun ongelma</span><span class="sxs-lookup"><span data-stu-id="23be6-102">Yammer - possible service issue</span></span>
+# <a name="yammer---possible-service-issue"></a><span data-ttu-id="57f20-102">Yammer-mahdollinen palvelu ongelma</span><span class="sxs-lookup"><span data-stu-id="57f20-102">Yammer - possible service issue</span></span>
 
-<span data-ttu-id="23be6-103">Voi olla väliaikainen ongelma jossa käyttäjät saattavat kohdata virheitä, Yammer käytettäessä.</span><span class="sxs-lookup"><span data-stu-id="23be6-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="23be6-104">Tarkista [Palvelun terveyden Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Nähdäksesi tämä vaikuttaa verkon.</span><span class="sxs-lookup"><span data-stu-id="23be6-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
+<span data-ttu-id="57f20-103">Voi olla tilapäinen ongelma, jossa käyttäjillä saattaa ilmetä virheitä Yammeria käytettäessä.</span><span class="sxs-lookup"><span data-stu-id="57f20-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="57f20-104">Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , vaikuttaako tämä verkkoon.</span><span class="sxs-lookup"><span data-stu-id="57f20-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
