@@ -1,5 +1,5 @@
 ---
-title: Käyttöoikeuspyyntöjen hallinta
+title: Käyttö oikeus pyyntöjen hallinta
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542493"
 ---
-# <a name="manage-access-requests"></a>Käyttöoikeuspyyntöjen hallinta
+# <a name="manage-access-requests"></a>Käyttö oikeus pyyntöjen hallinta
 
-Kun käyttäjä yrittää käyttää SharePoint-kohteen ja käyttöoikeutesi eivät riitä, ne saat sanoman tarvitsemiaan oikeuksia käyttää kohdetta. Käyttäjä voi pyytää access (joissakin tapauksissa tiettyyn kohteeseen tai liittyä ryhmään) ja sivuston omistaja voi hyväksyä tai hylätä pyynnön. Jos henkilö, jolla on sivuston omistaja ei jakaa toisen kanssa sivuston, sivuston omistaja saat myös access-pyynnön uuden käyttäjän. Voit hyväksyä tai hylätä käyttöoikeuspyyntöjä:
+Kun käyttäjä yrittää käyttää SharePointissa olevaa kohdetta ja hänellä ei ole käyttö oikeuksia, hän näkee sanoman, että hän tarvitsee kohteen käyttö oikeuden. Käyttäjä voi pyytää käyttö oikeutta (joissakin tapa uksissa tiettyyn kohteeseen tai liittyä ryhmään), ja sivuston omistaja voi hyväksyä tai hylätä pyynnön. Jos joku, joka ei ole sivuston omistaja, jakaa sivuston toisen henkilön kanssa, sivuston omistaja saa myös uuden käyttäjän käyttö oikeus pyynnön. Käyttö oikeus pyyntöjen hyväksyminen tai hylkääminen:
   
-1. Siirry sivustoon ja napsauta asetukset-kuvaketta oikeassa yläkulmassa **Sivuston asetukset**. (Jos et näe sivuston asetuksia **sivuston käyttöoikeudet**, ja valitse **Lisäasetukset käyttöoikeusasetuksia**. Etsi nauha, jossa on linkki, jota kutsutaan ”Näytä access-pyynnöt ja kutsut”.)
+1. Siirry sivustoon, napsauta oikeassa yläkulmassa olevaa asetukset-kuvaketta ja valitse **sivuston asetukset**. (Jos et näe sivuston asetuksia, valitse **sivuston käyttö oikeudet**ja valitse sitten **käyttö oikeuksien lisä asetukset**. Etsi banneri, jossa on "Näytä käyttö oikeus pyynnöt ja kutsut"-niminen linkki.)
     
-2. **Käyttäjät ja käyttöoikeudet**-kohdasta **käyttöoikeudet pyynnöt ja kutsut**. (Jos ei ole, ei ole käyttöoikeuspyyntöjä tehty.)
+2. Valitse **käyttäjät ja käyttö oikeudet**-kohdasta **käyttö oikeus pyynnöt ja kutsut**. (Jos tämä ei näy, käyttö oikeus pyyntöjä ei ole tehty.)
     
-3. Jos haluat antaa käyttäjälle oikeuden erikseen, valitse **Hyväksy** tai **Hylkää**. Jos haluat valita tietyn käyttöoikeustason, napsauta kolme pistettä (...), henkilön nimen vieressä. Vaihtoehtoisesti Lisää käyttäjä ryhmään, jolla on oikeudet sivustoon. Viestinnän sivustojen ja perinteinen ryhmäsivustoja voit tehdä tämän sivuston asetukset-sivulla. Office 365-ryhmään kuuluvia sivustoja voit lisätä käyttäjän ryhmään.
+3. Jos haluat antaa käyttäjälle oikeudet yksitellen, valitse **Hyväksy** tai **Hylkää**. Jos haluat valita tietyn käyttö oikeus tason, napsauta ensin ellipsiä (...) henkilön nimen vieressä. Voit myös lisätä käyttäjän ryhmään, jolla on sivuston käyttö oikeus. Viestintä sivustoissa ja klassisissa ryhmä sivustoissa voit tehdä tämän sivuston asetukset-sivulla. Office 365-ryhmään kuuluville sivustoille voit lisätä käyttäjän ryhmään.
     
-    [Käyttöoikeuspyyntöjen hallinta](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Käyttö oikeus pyyntöjen hallinta](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Lisätietoja käyttöoikeustasoista tietoja](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Lisä tietoja käyttö oikeus tasoista](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

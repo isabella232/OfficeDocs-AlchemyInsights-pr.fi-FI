@@ -1,5 +1,5 @@
 ---
-title: Yammer - mahdollisen palvelun ongelma
+title: Yammer-mahdollinen palvelu ongelma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557822"
 ---
-# <a name="yammer---possible-service-issue"></a>Yammer - mahdollisen palvelun ongelma
+# <a name="yammer---possible-service-issue"></a>Yammer-mahdollinen palvelu ongelma
 
-Voi olla väliaikainen ongelma jossa käyttäjät saattavat kohdata virheitä, Yammer käytettäessä. Tarkista [Palvelun terveyden Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Nähdäksesi tämä vaikuttaa verkon.
+Voi olla tilapäinen ongelma, jossa käyttäjillä saattaa ilmetä virheitä Yammeria käytettäessä. Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , vaikuttaako tämä verkkoon.

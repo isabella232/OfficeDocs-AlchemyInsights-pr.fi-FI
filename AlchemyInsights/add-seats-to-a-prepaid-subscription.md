@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660969"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Paikkojen lisääminen ennakkoon maksettuun tila ukseen
 
 Ennakkoon maksetut Office 365-lisenssit myönnetään sinulle 25-merkkinen aakkosnumeerinen koodi. Kun olet ostanut tarvitsemasi käyttö oikeudet, voit lisätä ne tilaukseesi. 
 
-1. Siirry hallinta keskukseen, **laskutus** > [tuotteet _amp_ Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+1. Siirry hallinta keskukseen, **laskutus** > [tuotteet-& Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
 
 2. Etsi tilaus, johon haluat lisätä käyttö oikeuksia. Valitse **käyttö oikeudet** -osiossa Lisää **lisenssejä**.
 

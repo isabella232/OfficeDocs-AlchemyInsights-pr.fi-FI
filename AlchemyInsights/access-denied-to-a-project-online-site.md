@@ -1,5 +1,5 @@
 ---
-title: Käyttö estetty Project Web App-sivusto
+title: Project Web App-sivuston käyttö estetty
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661221"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Anna käyttäjille oikeudet projektin Online
+# <a name="give-users-permissions-in-project-online"></a>Project Onlinen käyttö oikeuksien antaminen käyttäjille
 
-Antaa käyttäjille Project Web App-sivuston käyttöoikeus SharePoint-tilassa:
+Project Web App-sivuston käyttö oikeuden antaminen käyttäjille SharePointin käyttö oikeus tilan avulla:
 
-1. Kirjaudu sisään järjestelmänvalvojana Online Project
-2. Valitse Project Web App-kotisivun oikeassa yläkulmassa **Jaa** .
-3. Kirjoita **Jaetun resurssin Project Web App** -valintaikkunassa käyttäjänimi ja antaa käyttää **Kutsua ihmisiä** -ruutuun haluamasi henkilö.
-4. Valitse **Näytä asetukset**ja valitse **Valitse käyttöoikeustaso** -valikosta **Project Web Appissa projektipäälliköt**.
+1. Kirjaudu Project Onlineen järjestelmänvalvojana.
+2. Valitse Project Web App-koti sivulla oikeasta yläkulmasta **Jaa** .
+3. Kirjoita **Jaa projekti-Web-sovellus-** valinta ikkunaan sen henkilön käyttäjä nimi, jolle haluat antaa käyttö oikeudet, **Kutsu henkilöt** -ruudussa.
+4. Valitse **Näytä valinnat**ja valitse **sitten Valitse käyttö oikeus taso** -valikosta **Projekti päälliköt Project Web appille**.
 5. Valitse **Jaa**.
 
-Jos käytät tilaa projektin käyttöoikeudet tai lisätietoja, lue [Lisää ihmisiä Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Jos käytät projektin käyttö oikeus tilaa tai lisä tietoja, katso [henkilöiden lisääminen Project Onlineen](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
