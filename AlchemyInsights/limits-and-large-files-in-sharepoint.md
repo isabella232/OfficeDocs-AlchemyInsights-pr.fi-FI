@@ -1,5 +1,5 @@
 ---
-title: Rajat ja suuria tiedostoja SharePointista
+title: Rajoitukset ja suuret tiedostot SharePointissa
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497584"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Tiedostot, joita ei voi ladata SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Tiedostot, joita ei voi ladata SharePoint Onlineen
 
-Jos SharePoint Online-sivustoon ei lataa tiedoston, varmista, että:
+Jos tiedosto ei lataudu SharePoint Onlineen, varmista, että:
   
-- Se on vähemmän kuin 15 Gigatavua.
+- Se on kooltaan alle 15 Giga tavua.
     
-- Koko polku, tiedostonimi, mukaan lukien on enintään 400 merkkiä.
+- Koko polku (tiedosto nimi mukaan lukien) on alle 400 merkkiä pitkä.
     
-- Tiedostonimi ei sisällä merkkejä ” \* : \< \> ? / \ | ja ei ole [Virheellinen nimien](https://go.microsoft.com/fwlink/?linkid=866430)luettelo.
+- Tiedosto nimessä ei ole merkkejä " \* :? \< \> / \ | ja ei ole luettelossa, jossa [ei ole virheellisiä nimiä](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Jos yrität ladata tiedoston käyttämällä OneDrive työpöydän app on [rajoitukset, kun synkronoit tiedostoja ja kansioita](http://go.microsoft.com/fwlink/p/?LinkID=717734) tai [korjata OneDrive synkronointi ongelmia](https://go.microsoft.com/fwlink/?linkid=866431).
+Jos yrität ladata tiedostoa OneDrive-Työpöytä sovelluksen avulla, katso [rajoitukset ja rajoitukset, kun synkronoit tiedostoja ja kansioita](http://go.microsoft.com/fwlink/p/?LinkID=717734) tai [korjaat OneDriven synkronointi ongelmia](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

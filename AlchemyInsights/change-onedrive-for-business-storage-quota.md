@@ -1,5 +1,5 @@
 ---
-title: Business tallennuskiintiö OneDrive muuttaminen
+title: Muuta OneDrive for Business-tallennus kiintiötä
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519260"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Muuta käyttäjien tallennustilan OneDrive
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>OneDrive-oletus tallennus tilan vaihtaminen käyttäjille
 
-1. Siirry [OneDrive admin Centerin tallennustila](https://admin.onedrive.com/?v=StorageSettings).
+1. Siirry [OneDrive-hallinta keskuksen tallennus sivulle](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Kirjoita ruutuun **oletusarvoisesti varastointi** oletusarvoisesti varastointi summa (gt) ja valitse sitten **Tallenna**.
+2. Kirjoita oletus tallennus tila (GB) oletus **tallennus** ruutuun ja valitse sitten **Tallenna**.
     
-Tallennus tilaa tämä asetus koskee kaikkia käyttäjiä, joille ei ole määritetty tiettyä varastoinnin rajoitukset. Jos haluat muuttaa tiettyjen käyttäjien tallennustilaa, sinun on käytettävä Microsoft PowerShell. Saat tietoja siitä, kuinka voit tehdä tämän, [Muuta käyttäjien OneDrive tilaa käyttämällä PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Tämä tallennus tila asetus koskee kaikkia käyttäjiä, joille et ole määrittänyt tiettyjä tallennus rajoituksia. Jos haluat muuttaa tiettyjen käyttäjien tallennus tilaa, sinun on käytettävä Microsoft PowerShelliä. Lisä tietoja tästä on kohdassa [käyttäjien OneDrive-tallennus tilan vaihtaminen PowerShellin avulla](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

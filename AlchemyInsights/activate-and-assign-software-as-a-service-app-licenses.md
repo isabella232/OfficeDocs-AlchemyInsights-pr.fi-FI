@@ -1,5 +1,5 @@
 ---
-title: Aktivoi ja määritä ohjelmisto-kuin--service-sovelluksen käyttöoikeudet
+title: Software-as-a-Service-sovellusten käyttö oikeuksien Akti voiminen ja määrittäminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385717"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivoi ja määritä ohjelmisto-kuin--service-sovelluksen käyttöoikeudet 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Software-as-a-Service-sovellusten käyttö oikeuksien Akti voiminen ja määrittäminen 
 
-## <a name="to-activate-apps"></a>Aktivoi apps
+## <a name="to-activate-apps"></a>Sovellusten Akti voiminen
 
-1. Hallintakeskukseen, siirry **laskutuksen** > [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla ja valitse **sovellukset** -välilehti.
+1. Siirry hallinta keskuksessa **laskutus** > [tuotteet-& Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle ja valitse **sovellukset** -väli lehti.
 
 2. Etsi ja valitse sovellus, jota haluat hallita.
 
-3. Valitse **käyttöoikeuksien** **tili-virhesanoma tulee näyttöön**.  
+3. Valitse **käyttö oikeudet** **-kohdassa virhe sanomassa Määritä tili**.  
 
-## <a name="to-assign-app-licenses"></a>App-käyttöoikeuksien määrittäminen
+## <a name="to-assign-app-licenses"></a>Sovellus lisenssien määrittäminen
 
-1. Hallintakeskukseen, siirry **laskutuksen** > [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla ja valitse **sovellukset** -välilehti.
+1. Siirry hallinta keskuksessa **laskutus** > [tuotteet-& Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle ja valitse **sovellukset** -väli lehti.
 
 2. Etsi ja valitse sovellus, jota haluat hallita.  
 
-3. **Asetukset & toiminnot**Valitse **hallinta-portaalin julkaisijan**linkkiä.
+3. Valitse **asetukset & toiminnot**-kohdassa **hallittava linkki Publisherin portaalissa**.

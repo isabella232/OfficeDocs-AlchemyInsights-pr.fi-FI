@@ -1,5 +1,5 @@
 ---
-title: Hallitse SharePoint- tai OneDrive-tallennustilaa
+title: Hallitse SharePoint-tai OneDrive-tallennus tilaa
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497080"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Hallitse SharePoint- tai OneDrive-tallennustilaa
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Hallitse SharePoint-tai OneDrive-tallennus tilaa
 
  **SharePoint Online**
   
-Useimmissa organisaatioissa SharePoint-muistiin hallitaan automaattisesti, joten sinun ei tarvitse rajoittaa sivustokokoelman kohti. Voit tarkistaa, kuinka paljon tallennustilaa SharePoint on
+Useimmissa organisaatioissa SharePoint-tallennus tilaa hallitaan automaattisesti, joten sinun ei tarvitse asettaa rajoituksia sivustokokoelmaa kohden. Voit tarkistaa, kuinka paljon SharePoint-tallennus tilaa sinulla on:
   
-- Etsi uusi SharePoint-hallintakeskukseen yläosassa oikealla puolella sivustot-sivun tallennustilaa käytettävissä ja yhteensä.
+- Etsi uusi SharePoint-hallinta keskus sivustot-sivun oikeasta yläkulmasta käytettävissä oleva ja täydellinen tallennus tila.
     
-Saat tietoja siitä, miten lasketaan rajan, [SharePoint Online rajat](https://go.microsoft.com/fwlink/p/?LinkID=856113). Lisätilan ostaminen, katso [Muuta tilauksen tilaa](https://go.microsoft.com/fwlink/?linkid=866428).
+Lisä tietoja rajoituksen laskemisesta on kohdassa [SharePointin online-rajoitukset](https://go.microsoft.com/fwlink/p/?LinkID=856113). Lisä tallennus tilan ostaminen on kohdassa [tila uksen tallennus tilan muuttaminen](https://go.microsoft.com/fwlink/?linkid=866428).
   
  **OneDrive**
   
-Voit muuttaa oletusarvon varastointia OneDrive uusille ja olemassa oleville käyttäjille seuraavasti:
+Uusien ja nykyisten OneDrive-käyttäjien oletus tallennus tilan muuttaminen:
   
-- [OneDrive admin Centerin tallennustila](https://admin.onedrive.com/?v=StorageSettings)ja syötä uusi summa GB.
+- Siirry [OneDrive-hallinta keskuksen tallennus sivulle](https://admin.onedrive.com/?v=StorageSettings)ja anna uusi summa Giga tavua.
     
-Voit tarkistaa, kuinka paljon tallennustilaa käytät omaa OneDrive, katso [hallinta Business varastointiin oman OneDrive](https://go.microsoft.com/fwlink/?linkid=866429). Saat tiedot kunkin suunnitelman mukana toimitettavaa varastointi [OneDrive Business-palvelun kuvaus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Jos haluat tarkistaa, kuinka paljon tallennus tilaa käytät omassa OneDrivessa, katso [OneDrive for Business-tallennus tilan hallinta](https://go.microsoft.com/fwlink/?linkid=866429). Lisä tietoja kunkin suunnitelman mukana olevasta tallennus tilasta on kohdassa [OneDrive for Business-palvelun kuvaus](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

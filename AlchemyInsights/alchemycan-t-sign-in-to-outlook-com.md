@@ -1,5 +1,5 @@
 ---
-title: Alkemia - kirjautuminen ei onnistu Outlook.com
+title: Alchemy-Kirjautuminen Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
 ms.openlocfilehash: 6c13c50e66dc8575c5b1803e83b8842c0481511e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36493948"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Outlook.com iin ei onnistu
+# <a name="cant-sign-in-to-outlookcom"></a>Kirjautuminen Outlook.com-kohteeseen ei onnistu
 
-Jos sinulla on ongelmia kirjautua sisään tiliisi, varmista, että tilisi ei ole vielä ollut käyttämättömänä yli 365 päivää. Käyttämättöminä 365 päivän kuluttua sähköpostiviesti poistetaan eikä sitä voi palauttaa.
+Jos sinulla on ongelmia tilisi kirjautumisessa, varmista, että tilisi ei ole ollut käyttämättömänä yli 365 päivää. Kun 365 päivää käyttä, sähkö postisi poistetaan eikä sitä voi palauttaa.
   
-Tilisi saattaa tilapäisesti estää koska olemme huomannut epätavallista sisään alkaneeksi. Jos tilisi on suljettu, Lue miten [Unblock Outlook.com-tilini](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
+Tilisi saattaa olla tilapäisesti estetty, koska havaitsimme epätavallisen kirjautumisaktiviteetin. Jos tilisi on estetty, Lue ohjeet Outlook.com- [tilin](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx)eston avaamiseen. 
   
-Jos epäilet tilisi Outlook.com on ollut hakkeroitu, katso [Outlook.com Oma-tili on ollut hakkeroitu](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
+Jos epäilet, että Outlook.com-tilisi on hakkeroitu, katso [Outlook.com-tilini on hakkeroitu](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
   
-Jos olet unohtanut tai kadottanut salasanasi, voit [palauttaa salasanasi](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Jos olet unohtanut tai menettänyt Sala sanasi, voit [nollata Sala sanasi](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Lue lisää [Kun et voi kirjautua sisään Microsoft-tililläsi](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Lue lisä tietoja siitä [, milloin et voi kirja utua sisään Microsoft-tiliisi](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
 

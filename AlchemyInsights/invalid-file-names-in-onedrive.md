@@ -1,5 +1,5 @@
 ---
-title: OneDrive virheellisiä tiedostonimiä
+title: Virheelliset tiedosto nimet OneDrivessa
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498196"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Virheellinen OneDrive- ja SharePoint-tiedostojen ja kansioiden nimissä
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Tiedostojen ja kansioiden nimet eivät kelpaa OneDrivessa ja SharePointissa
 
-Nämä merkit eivät ole sallittuja tiedostojen ja kansioiden nimissä ” \* : \< \> ? / \ | 
+Nämä merkit eivät ole sallittuja tiedostojen ja kansioiden nimissä " \* : \< \> ? / \ | 
   
-Joissakin organisaatioissa ei vielä ole tukea ja # % käytössä. Nämä merkit antaa organisaation lisäämisestä on [ja # % tuen ottaminen käyttöön](https://go.microsoft.com/fwlink/?linkid=862611). 
+Joillakin organisaatioilla ei vielä ole tukea #-ja%-käyttöön. Lisä tietoja näiden merkkien sallitaessa organisaatiossasi on kohdassa [#-ja%-tuen ottaminen käyttöön](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Lisätietoja tiedostojen ja kansioiden nimien rajoituksista tietoja](https://go.microsoft.com/fwlink/?linkid=866430)
+[Lisä tietoja tiedostojen ja kansioiden nimien rajoituksista](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

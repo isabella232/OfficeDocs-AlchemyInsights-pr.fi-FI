@@ -1,5 +1,5 @@
 ---
-title: Ehdollisen käyttöoikeuden ja Intune
+title: Ehdollinen pääsy Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,25 +9,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504991"
 ---
-# <a name="conditional-access-with-intune"></a>Ehdollisen käyttöoikeuden ja Intune
+# <a name="conditional-access-with-intune"></a>Ehdollinen pääsy Intune
 
-**Ehdollisen käyttöoikeuden** käyttäminen Intune vaatii 3 vaiheet: 
+**Ehdollisen käytön** käyttäminen Intune-toiminnolla edellyttää 3 vaihetta: 
   
-- Luo **Ehdollisen käyttöoikeuskäytännön** , joka määrittää, mitä resursseja suojataan, ja ehdot on täytettävä käyttämään kyseisiä resursseja. Esimerkiksi laitteen on oltava yhteensopiva ennen yrityksen sähköpostin käyttämistä. 
+- Luo **Ehdollinen käyttö oikeus käytäntö** , joka määrittää, mitä resursseja suojataan ja mitkä ehdot on täytettävä näiden resurssien käyttöä varten. Laitteen on esimerkiksi oltava yhteensopiva ennen yrityksen sähkö postin käyttämistä. 
     
-- Voit määrittää asetukset, jotka on täytettävä, ennen kuin laite yhteensopiva katsotaan **Käytännön noudattamista** luominen. Esimerkiksi laitteen on oltava vähintään 6 numeroa PIN-koodi ennen kuin se katsotaan yhteensopiva. 
+- Luo yhteensopivuus käytäntö määrittääksesi asetukset, joiden on täytyttävä, ennen kuin laite katsotaan **yhteensopivaksi** . Laitteessa on esimerkiksi oltava vähintään 6-merkkinen PIN-tunnus, ennen kuin se katsotaan yhteensopivaksi. 
     
-- Varmistaminen sekä **Yhteensopivuus** ja **Ehdollinen Access käytännöt** kohdennetut haluamasi käyttäjät ryhmiin. Tämä saattaa edellyttää tietyn käyttäjäryhmän luominen Azure Active Directoryssa. 
+- Sekä **yhteensopivuus käytäntöjen** että **ehdollisten käyttö oikeus käytäntöjen** varmistaminen on suunnattu halutulle käyttäjä ryhmille. Tämä saattaa edellyttää tiettyjen käyttäjä ryhmien luomista Azure Active Directoryyn. 
     
 Lue lisää:
   
-- [Ehdollinen Access parhaat käytännöt](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Ehdollisen käytön parhaat käytännöt](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
 - [Ehdollisen käytön aloittaminen](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     

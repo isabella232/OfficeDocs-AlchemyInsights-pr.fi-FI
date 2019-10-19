@@ -1,5 +1,5 @@
 ---
-title: Käyttöoikeustasoja SharePoint Online
+title: SharePoint Onlinen käyttö oikeus tasot
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534884"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Käyttöoikeustasoja SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Onlinen käyttö oikeus tasot
 
-SharePointin mukana toimitetaan joitakin oletuskäyttöoikeustasot, jonka avulla, kuten osallistuja ja Näytä vain. Jos ne eivät vastaa tarpeitasi, voit luoda uusia käyttöoikeustasoja. Se on helpoin seuratakseen oikeudet Jos et muokkaa tai poista Oletustasot ja jos Lisää käyttäjät ryhmiin ja Määritä käyttöoikeustasot näitä ryhmiä ei tarvitse liittää yksittäisten käyttäjien käyttöoikeustasoja.
+SharePointiin sisältyy joitain oletus käyttö oikeus tasoja, joita voit käyttää, kuten vain edistää ja tarkastella. Jos ne eivät vastaa tarpeitasi, voit luoda lisää käyttö oikeus tasoja. On helpointa seurata käyttö oikeuksia, jos et muokkaa tai Poista oletus tasoja, ja jos lisäät henkilöitä ryhmiin ja määrität näille ryhmille käyttö oikeus tasoja sen sijaan, että määrittelet käyttö oikeus tasot yksittäisille käyttäjille.
   
-- [Ymmärtäminen käyttöoikeustasot](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Tietoja käyttö oikeus tasoista](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Miten voit luoda ja muokata käyttöoikeustasoja](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Käyttö oikeus tasojen luominen ja muokkaaminen](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

@@ -1,5 +1,5 @@
 ---
-title: Muuta oman käyttäjätilin tietoja Outlookin web-sivulla
+title: Tili tietojen vaihtaminen Outlookissa Webissä
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510584"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Tilitietojen muuttaminen Outlook web-sivulla
+# <a name="change-account-information-in-outlook-on-the-web"></a>Tilin tietojen muuttaminen Webissä Outlookissa
 
-1. Sivun yläreunassa Valitse nimi tai profiilin kuvan.
+1. Valitse sivun yläreunasta nimesi tai profiili kuvasi.
 1. Valitse **Oma tili**.
 1. Valitse **henkilökohtaiset tiedot**.
-1. Muuttaa tai lisätä tietoja itsestäsi.
+1. Muuta tai lisää tietoja itsestäsi.
 
-*Huomautus:* IT voi antaa tiedot, kuten nimen ja tehtävänimikkeen tai Henkilöstöosasto. Jos haluat päivittää nämä tiedot, ota ne tai että admin.
+*Huom:* Jotkin tiedot, kuten nimesi ja työnimikkeesi, saattavat olla IT-tai henkilöstö hallinto osaston tarjoamia. Jos haluat päivittää nämä tiedot, ota yhteyttä heihin tai järjestelmänvalvojaan.
 
-Lisätietoja on [Outlookin web-valokuva ja tilin tietojen vaihtaminen](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Lisä tietoja on kohdassa [kuva-ja tili tietojen muuttaminen Outlookissa](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

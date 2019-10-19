@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 lomakkeen XML-rakennetta
+title: Dynamics 365-lomakkeen XML-rakenne
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528512"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>WWW-sivu (HTML) web-resurssien rajoitukset
+# <a name="webpage-html-web-resources-limitations"></a>Verkko sivun (HTML) WWW-resurssien rajoitukset
 
-* HTML-WWW-resurssia ei voi sisältää koodia, joka on suoritettava palvelimessa. ASP.NET-sivuja ei voi ladata HTML-WWW-resursseina.
+* HTML-WWW-resurssi ei voi sisältää koodia, joka on suoritettava palvelimessa. ASP.NET-sivuja ei voi ladata HTML-verkko resursseina.
 
-* HTML-WWW-resursseja voi hyväksyä vain muutamalle kyselymerkkijonon parametreja. Lisätietoja: [välittää parametreja HTML-WWW-resurssit](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-WWW-resurssit voivat hyväksyä vain rajoitetun määrän kysely merkki jonon parametreja. Lisä tietoja: [parametrien välittävät HTML-www-resursseihin](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[WWW-sivu (HTML) verkkoresurssit](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Verkko sivun (HTML) www-resurssit](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495208"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Ryhmän lisääminen SharePoint-sivustoon
 
-Jotkin SharePoint-ryhmän sivustot (mukaan lukien Microsoftin Teams luotuja) hallitsee Office 365-ryhmän omistajille. SharePoint-sivustoja ja sisältöä voidaan myös jakaa Office 365-ryhmät ja SharePoint-ryhmien kanssa. SharePoint-ryhmä on joukko käyttäjiä, jotka kaikki on samat oikeudet sivustojen ja sisällön. Perinteinen sivustoja on suositeltavaa käyttää ryhmiä määrittelemään kätevästi samaa käyttöoikeustasoa useille ihmisille kerralla sijaan Palkansaajien oikeudet yhdelle henkilölle kerrallaan.
+Jotkin SharePoint-ryhmäsivustot (mukaan lukien Microsoft Teamsissa luodut) ovat Office 365-ryhmän omistajien hallinnoimia. SharePoint-sivustoja ja-sisältöä voi myös jakaa Office 365-ryhmien ja SharePoint-ryhmien kanssa. SharePoint-ryhmä on joukko käyttäjiä, joilla kaikilla on samat käyttö oikeudet sivustoihin ja sisältöön. Klassisissa sivustoissa suosittelemme, että määrität ryhmät käyttämään samaa käyttö oikeus tasoa kätevästi monille henkilöille kerralla sen sijaan, että määrität käyttö oikeudet yhdelle henkilölle kerrallaan.
   
-Hallita Office 365: n jäsenet:
+Hallitse Office 365-ryhmän jäseniä:
   
-1. Siirry [hallintakeskukseen Microsoft 365 ryhmät-sivulla](https://portal.office.com/adminportal/home#/groups).
+1. Siirry [Microsoft 365-hallinta keskuksen ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).
     
-2. Valitse ryhmä, sen omistajat, ja jäsenet. Voit lisätä tai poistaa henkilöitä, valitse **omistajien** tai **jäsenten** rivillä **Muokkaa** -linkkiä. 
+2. Valitse ryhmä, jos haluat nähdä sen omistajat ja jäsenet. Jos haluat lisätä tai poistaa henkilöitä, napsauta **Muokkaa** -linkkiä **omistajat** -tai **jäsenet** -rivillä. 
     
-Viestimissivusto jakaminen Office 365-ryhmä:
+Viestintä sivuston jakaminen Office 365-ryhmän kanssa:
   
-1. Siirry selaimella sivustoon ja valitse **osuus sivuston** oikeassa yläkulmassa. 
+1. Siirry sivustoon selaimessa ja valitse oikeasta yläkulmasta **Jaa sivusto** . 
     
-2. Kirjoita ryhmänimi ja valitse sitten käyttöoikeustaso (luku, muokkaus tai täydet oikeudet).
+2. Kirjoita ryhmän nimi ja valitse sitten käyttö oikeus taso (luku, muokkaus tai täydet oikeudet).
     
-Perinteinen sivuston käyttäminen SharePoint-ryhmän luominen:
+Luo SharePoint-ryhmä käytettäväksi perinteisen sivuston kanssa:
   
-1. Siirry selaimella sivustoon ja napsauta oikeassa yläkulmassa asetukset-kuvaketta.
+1. Siirry sivustoon selaimessa ja napsauta oikeassa yläkulmassa olevaa asetukset-kuvaketta.
     
-2. **Sivuston**asetukset ja valitse sitten Valitse **käyttäjät ja käyttöoikeudet**- **sivuston käyttöoikeudet**.
+2. Valitse **sivuston asetukset**ja valitse sitten **käyttäjät ja käyttö oikeudet**-kohdasta **sivuston käyttö oikeudet**.
     
-3. Valitse käyttöoikeudet-välilehden **Luo ryhmä**.
+3. Valitse käyttö oikeudet-väli lehdestä **Luo ryhmä**.
     
-[Perinteinen ryhmäsivuston muodostaa ryhmän Office 365: ssä](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Yhdistä klassinen ryhmäsivusto uuteen Office 365-konserniin](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Lisätietoja SharePoint-ryhmien käsitteleminen](https://go.microsoft.com/fwlink/?linkid=874658)
+[Lisä tietoja SharePoint-ryhmien työskentelyllä](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

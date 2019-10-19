@@ -1,5 +1,5 @@
 ---
-title: Delve käyttäjäprofiilien
+title: Hallitse käyttäjä profiileja Delvessa
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497188"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Delve käyttäjäprofiilien
+# <a name="manage-user-profiles-in-delve"></a>Hallitse käyttäjä profiileja Delvessa
 
-Office Delve avulla käyttäjät voivat hallita Office 365-profiiliin. Käyttäjät voivat:
+Office Delven avulla käyttäjät voivat hallita Office 365-käyttäjä profiiliaan. Käyttäjät voivat:
   
-- Voit tarkastella ja päivittää heidän tietojaan
+- Tarkastella ja päivittää tietoja
     
-- Jotkin tiedot yksityisinä
+- Pidä joitakin tietoja yksityisessä
     
-- Muuttaa niiden profiilin tai kannen kuva
+- Profiilin tai kansi kuvan vaihtaminen
     
-- Delve, kieli- ja muodon muuttaminen
+- Delven kielen ja kellon ajan muodon muuttaminen
     
 > [!NOTE]
-> Jos käyttäjä päivittää niiden profiilikuvan ja muutos ei näy SharePoint- tai OneDrive, kysy, avaa web-selain, [Siirry Office.com](https://www.office.com)-Kirjaudu sisään ‑tunnuksella, työnsä tai Koulu tili ja valitse sitten OneDrive tai SharePoint-laatta. Tämä pyytää synkronoimaan Profiilikuva. Käyttäjän on ehkä kokeile näiden vaiheiden yksityinen selaimen version kanssa. 
+> Jos käyttäjä päivitti profiili kuvansa ja muutos ei näy SharePointissa tai OneDrivessa, pyydä heitä avaamaan Verkko selain, [Siirry osoitteeseen Office.com](https://www.office.com), kirjaudu sisään työ-tai koulu tililleen ja napsauta sitten OneDrive-tai SharePoint-ruutua. Tämä tuo näyttöön synkronoinnin profiili kuvan. Käyttäjän on ehkä yritettävä suorittaa nämä vaiheet selaimen yksityisen version kanssa. 
   
-[Lisätietoja päivityksestä Delve profiilit](https://go.microsoft.com/fwlink/?linkid=735070)
+[Lisä tietoja profiilien päivittämisestä Delvessa](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

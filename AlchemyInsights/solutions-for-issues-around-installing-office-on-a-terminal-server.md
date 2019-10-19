@@ -1,5 +1,5 @@
 ---
-title: Ongelmien ympärille asennetaan Terminal Server office Solutions
+title: Ratkaisuja, jotka liittyvät Officen asentamiseen Terminal Serveriin
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501472"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Ongelmien ympärille asennetaan Terminal Server office Solutions
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Ratkaisuja, jotka liittyvät Officen asentamiseen Terminal Serveriin
 
-Käyttää jaetun tietokoneen aktivointi, jos sinulla on Office 365-suunnitelma, joka sisältää Office 365 ProPlus.
+Jaetun tieto koneen Akti voinnin käyttäminen edellyttää Office 365-suunnitelmaa, joka sisältää Office 365 ProPlusin.
   
-- Tarkista, että jaetun tietokoneen aktivointi on käytössä Office 365 ProPlus
+- Varmista, että jaetun tieto koneen Akti vointi on otettu käyttöön Office 365 Proplusissa
     
-- Varmista, että Office 365 ProPlus aktivointi onnistui
+- Tarkista, että Office 365 ProPlusin Akti vointi onnistui
     
-- Tarkista jaetun tietokoneen aktivointi virhesanomat:
+- Jaetun tieto koneen Akti voinnin virhe sanomien tarkistaminen:
     
-  - ”Olemme löytyi tilisi tuotteita ei voi aktivoida Officen jaetut tilanteissa”
+  - "Tililläsi löytyi tuotteita ei voi käyttää Officen aktivoimiseen jaetuissa tieto kone skenaarioissa"
   
-Tämä virhe tarkoittaa, että sinulla ei ole Office 365-suunnitelma, joka sisältää Office 365 ProPlus.
+Tämä virhe tarkoittaa, että sinulla ei ole Office 365-suunnitelmaa, joka sisältää Office 365 ProPlusin.
     
-  - ”Varastettu tuote”
+  - "Ei-lisensoitu tuote"
     
-  - Tarkista, että käyttäjä on määritetty käyttöoikeus, Office 365 ProPlus.
+  - Tarkista, että käyttäjälle on määritetty Office 365 ProPlusin käyttö oikeus.
     
-  - Tarkista, että käyttäjä allekirjoittaa oman käyttäjätilin tulee Office 365: ssä
+  - Tarkista, että käyttäjä kirjautuu sisään hänen käyttäjä tililleen Office 365
     
-  - Tarkista, että jaetun tietokoneen ja Internetin välinen yhteys on.
+  - Tarkista, että jaetun tieto koneen ja Inter netin välillä on yhteys.
     
-Muita vianmääritykseen liittyviä vihjeitä on: [jaetun tietokoneen aktivointi Office 365 ProPlus ongelmien vianmääritys](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Muita vian etsintä vinkkejä on kohdassa [Office 365 ProPlusin jaetun tieto koneen Akti voinnin ongelmien vian määritys](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

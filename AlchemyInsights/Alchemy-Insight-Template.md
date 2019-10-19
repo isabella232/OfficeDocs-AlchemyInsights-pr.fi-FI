@@ -1,5 +1,5 @@
 ---
-title: sama tiedostonimi on paras
+title: sama kuin tiedosto nimi on paras
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800042"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Edellyttää Alkemia otsikon H1, H2 ja eivät toimi.
-Parhaita käytäntöjä ja ohjeita Alkemia authoring:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vaadittu Alchemy header H1, H2's ei toimi.
+Alchemy authoring-sivuston parhaat käytännöt ja ohjeet:
 
-1. **Alkemia asuun kansioihin ei luoda sisäkkäisiä**- se hajottaa url-rakenteen. Näkymä korjataan tämä levy.
-1. **AlchemyInsights** -kansiossa olevat tiedostot pitäisi olla-tilojen yhdysmerkeillä pieniä tiedostonimet. ***how-to-käyttöön-oikeudenkäyntiä-pito***.
-    1. Sisällyttää säännön tunnus tai erääntymisjakauman tunnus [Alkemia kumppani portal](https://alchemyportal.azurewebsites.net) ms.custom-kenttään. ex. ***MS.Custom: 100021***
-1. Käyttää mallin metatietojen loput tämän tiedoston yläosassa.
-1. [Alkemia kumppani portaali](https://alchemyportal.azurewebsites.net)Siirry osioon **Customer Insight-otsikko:** ja käyttö, joka alkavan osoittaa että H1 otsikko insight. 
+1. **Älä tuo Alchemy Insights-tietoja kansioihin**-tämä rikkoo URL-rakenteen. Pyrimme korjaamaan tämän.
+1. **Alchemyinnähtävyydet** -kansiossa olevilla tiedostoilla pitäisi olla pieniä tiedosto nimiä, joissa on yhdysmerkkejä (Spaces ex). ***toiminta ohjeet-oikeuden käynti-pito***.
+    1. Sisällytä säännön tunnus tai kauhan tunnus [Alchemy-kumppani portaalista](https://alchemyportal.azurewebsites.net) MS. Custom-kenttään. Ex. ***MS. Custom: 100021***
+1. Käytä loput metatiedot tämän tiedoston yläosassa mallina.
+1. Siirry [Alchemy-kumppani portaalissa](https://alchemyportal.azurewebsites.net)kohtaan **asiakas tiedon otsikko:** ja käytä sitä lähtö kohtana H1-otsikolla. 
     > [!NOTE]
-    > Alkemia näkemyksistä on oltava vain yksi H1 yläreunassa tai ne lakkaavat toimimasta tuotannossa. H2s ei tehdä, niin Käytä **lihavointia** tai muiden sopimusten kommunikoinnin erillisiä osia.
-1. Täytä seuraavaksi luonnoksesta aines käyttäen Alkemia sääntö-sivun kohdassa asiakkaiden näkemyksistä leipäteksti
-    1. Luettelomerkein varustetut luettelot on hieno
-    1. Numeroitujen luetteloiden liian
-    1. **Lihavointi** ja *kursivointi* on a-ok
-    1. Linkit on aina oltava joko **linkkejä ”web” tai ulkoisen** tai **syvä linkkejä Käyttöliittymän osat**, ei ole sisäisiä linkkejä.
-    1. Kuvat ovat ei tueta virallisesti tällä hetkellä, mutta se on tiekartan.
+    > Alchemy Insights-tiedoissa on oltava vain yksi H1 ylhäällä tai ne hajoavat tuotannossa. H2s Älä Hahmonna myöskään käytä **Lihavoidut** tai muut yleissopimukset, jotka merkitsevät erillisiä osia.
+1. Täytä seuraavaksi leipä teksti käyttämällä Alchemy-sääntö sivun Customer Insights-osan luonnos materiaalia.
+    1. Luettelo merkeillä varustetut luettelot ovat hienoja
+    1. Myös numero idut luettelot
+    1. **Lihavoidut** ja *kursivat* ovat-OK
+    1. Linkkien tulee aina olla joko **"linkit Web-linkkejä"/ulkoisia** tai **syviä linkkejä käyttö liittymän elementteihin**, ei sisäisiin linkkeihin.
+    1. Kuvia ei virallisesti tueta tällä hetkellä, mutta se on etenemis suunnitelmassa.
 
-Ja tämä on todella jo hieman liian pitkä. Paras käytäntö on noin 400 merkkiä---
+Ja tämä on oikeastaan jo hieman liian pitkä aika. Paras käytäntö on noin 400 merkkiä---------------------------------
 
-Kun sisältösi on valmiina, erotettu elävään oksaan. Siirry [portal Alkemia kumppani](https://alchemyportal.azurewebsites.net) , ja kirjoita URL-osoite-kenttään tiedoston nimi. 
+Kun sisältö on valmis, vedä se Live-haaraan. Siirry sitten [Alchemy-kumppani portaaliin](https://alchemyportal.azurewebsites.net) ja kirjoita tiedosto nimi URL-kenttään. 

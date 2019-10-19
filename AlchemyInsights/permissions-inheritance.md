@@ -1,5 +1,5 @@
 ---
-title: Käyttöoikeuksien periytyminen
+title: Käyttö oikeuksien periytyminen
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554942"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint-käyttöoikeuksien periytymisen toiminta
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Miten käyttö oikeuksien periytyminen toimii SharePointissa
 
-SharePoint-oikeudet periytyvät hierarkiassa ylempänä. Niin tiedosto perii käyttöoikeudet sen kansion, jotka perivät käyttöoikeutensa kirjastosta, jotka perivät käyttöoikeutensa sivustosta, jotka perivät käyttöoikeutensa sivustokokoelmasta.
+Oletusarvoisesti SharePointin käyttö oikeudet periytyvät hierarkiassa ylemmiltä. Joten tiedosto perit sen käyttö oikeudet kansiosta, joka perasti käyttö oikeudet kirjastosta, joka peri käyttö oikeudet sivustosta, joka peri käyttö oikeudet sivustokokoelmasta.
   
-Katso [ja muokkaa luettelon tai kirjaston käyttöoikeuksien hallinta](https://go.microsoft.com/fwlink/?linkid=869946)tiedot yksilölliset käyttöoikeudet poistetaan ja palautetaan periytyminen.
+Lisä tietoja yksilöllisten käyttö oikeuksien poistamisesta ja periytymisen palauttamisesta on kohdassa [luettelon tai kirjaston käyttö oikeuksien muokkaaminen ja hallinta](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

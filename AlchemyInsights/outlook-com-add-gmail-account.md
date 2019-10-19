@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Gmail-tilin lisääminen
+title: Lisää Gmail-tili kohteeseen Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538125"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Outlook.com Gmail-tilin lisääminen
+# <a name="add-your-gmail-account-to-outlookcom"></a>Gmail-tilin lisääminen Outlook.com
 
-1. Avaa [sähköpostin synkronoinnin asetukset](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Valitse **tilinpäätöksen yhteydessä**, **Gmail**.
-3. Anna nimi (nimi tulee näkyviin vastaanottajalle kun he saavat sähköpostiviestin lähettäjän).
-4. Valitse, jos Outlook.com olisi tuo sähköpostisi Gmail ja johon tuodut sähköposti tallennetaan.
-5. Valitsemalla **OK** voit siirtyä Googlen kirjautumissivulla.
+1. Avaa [synkronoinnin Sähkö posti asetukset](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Valitse **yhdistetyt tilit**-kohdassa **Gmail**.
+3. Anna näyttö nimi (nimi vastaanottajat näkevät, kun he saavat sinulta Sähkö posti viestin).
+4. Valitse, jos Outlook.com pitäisi tuoda sähkö postisi Gmailista ja missä tuotu Sähkö posti tallennetaan.
+5. Siirry Google Sign-in-sivulle valitsemalla **OK** .
 
-Synkronoinnin yhteydessä tililtä Outlook.com-tilille on yksisuuntainen vain. Sähköpostiviesti lähetettiin Outlook.com avulla Gmail-tilistä ei tule Gmailiin lähetetyt.
+Synkronointi liitetystä tilistä Outlook.com-tiliisi on yksisuuntainen. Gmail-tilistäsi lähetetyt Sähkö posti viestit Outlook.com-sovelluksella eivät näy Gmailin lähetetyistä kohteista.
 
-Voit lähettää sähköpostia Outlook.com-liitetty Gmail-tililtäsi. Luodessasi sähköpostiviestin, **Valitse** ja valitse yhteyttä Gmail-osoite tai [Päivitä oletusarvon mukaisen osoitteesta](https://go.microsoft.com/fwlink/?linkid=875264).
+Voit lähettää sähkö postia Outlook.com liitetystä Gmail-tilistäsi. Kun kirjoitat sähkö postia, **Valitse ja valitse** Gmail-osoitteesi tai [Päivitä oletusarvoinen osoite](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Katso lisätietoja, [Lisää muut email tilisi Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisä tietoja on kohdassa [muiden Sähkö posti tilien lisääminen Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

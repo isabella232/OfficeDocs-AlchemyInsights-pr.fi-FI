@@ -1,5 +1,5 @@
 ---
-title: Luo Outlook web-kansio
+title: Kansion luominen Outlookissa Webissä
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557246"
 ---
-# <a name="create-a-folder"></a>Luo kansio
+# <a name="create-a-folder"></a>Kansion luominen
 
-1. Valitse **Uusi kansio**Outlookin web-kansio-ruudun alareunassa. Joudut ehkä vierittämään näyttöä haluamaasi kansioon kansioruudussa **Uusi kansio** -painike tulee näyttöön.
-1. Kirjoita teksti-ruutuun kansion nimi ja paina sitten Enter.
+1. Valitse Outlookin Web-sivuston kansio ruudun alareunasta **Uusi kansio**. Sinun täytyy ehkä vierittää kansio ruutua alaspäin, jotta näet **uuden kansio** painikkeen.
+1. Kirjoita kansion nimi teksti ruutuun ja paina ENTER-näppäintä.
 
-Lisätietoja on ohjeaiheessa [viestin Outlookissa, web-kansioiden käyttäminen](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Lisä tietoja on kohdassa [Outlookin viesti kansioiden käsitteleminen Webissä](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

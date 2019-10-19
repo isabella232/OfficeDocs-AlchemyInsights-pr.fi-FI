@@ -1,5 +1,5 @@
 ---
-title: MFA liittyvät ongelmat
+title: Makrotaloudellisen rahoitus avun ongelmat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545160"
 ---
-# <a name="issues-with-mfa"></a>MFA liittyvät ongelmat
-On pari asiaa, jotka kannattaa tarkistaa, jos käyttäjiä ei voi kirjautua sisään käyttäen monitasoisen todennuksen (MFA)
+# <a name="issues-with-mfa"></a>Makrotaloudellisen rahoitus avun ongelmat
+On olemassa muutamia asioita tarkistaa, jos käyttäjät eivät voi kirja utua käyttäen Multi-Factor todennus (MFA)
 
-1. Ongelman kohdanneen käyttäjän on ehkä estetty Azure Active Directory Portal. Jos näin on, todennus yrittää kyseisen käyttäjän automaattisesti hylätään. [Noudata tämän artikkelin torjunnan purkamista.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Haavoittuvuuden saanut käyttäjä voidaan estää Azure Active Directory-portaalissa. Tällöin tietyn käyttäjän todennus yritykset estetään automaattisesti. [Voit poistaa eston noudattamalla tämän artikkelin ohjeita.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Jos käyttäjän eston ollut apua tai ei ole estetty käyttäjä voi yrittää palauttaa käyttäjän MFA ja ne menevät läpi Rekisteröi uudelleen. [Noudattamalla tässä artikkelissa olevia ohjeita.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Jos eston käyttäjä ei auta tai käyttäjä ei ole estetty voit yrittää nollata MFA käyttäjälle ja he menevät läpi ilmoittautumisen prosessi uudelleen. [Noudata tämän artikkelin ohjeita.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Jos tämä on ensimmäistä kertaa MFA käytössä ja käyttäjillä ei voi kirjautua sisään selaimet asiakkaita, kuten Outlook, Skype jne, ehkä ADAL (Active Directory Authentication kirjasto) ei ole käytössä tilauksesi O365. Tässä tapauksessa sinun on Exchange Online-Powershell muodostaa yhteyden ja suorittaa tämä cmdlet-komento:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Jos tämä on ensimmäinen kerta, kun otat MFA ja käyttäjät eivät voi kirja utua kuin selaimet asiakkaita, kuten Outlook, Skype jne, ehkä ADAL (Active Directory Authentication Library) ei ole käytössä O365 tilauksesi. Tässä tapa uksessa sinun täytyy muodostaa yhteys Exchange Online PowerShell ja suorita tämä cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $True*

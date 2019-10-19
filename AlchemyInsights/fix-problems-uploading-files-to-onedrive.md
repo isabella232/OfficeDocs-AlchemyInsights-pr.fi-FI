@@ -1,5 +1,5 @@
 ---
-title: Tiedostot ladataan OneDrive ongelmien korjaaminen
+title: Tiedostojen lataamisessa OneDriveen liittyvät ongelmat
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525143"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Tiedostot ladataan OneDrive ongelmien korjaaminen
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Tiedostojen lataamisessa OneDriveen liittyvät ongelmat
 
-Kokeile, ei lataa tiedoston:
+Kokeile tätä, jos tiedosto ei lataudu:
   
-- Nimeä tiedosto uudelleen ja yritä uudelleen. Joidenkin tiedostojen nimet ja merkit tiedostonimet eivät ole sallittuja. 
+- Nimeä tiedosto uudelleen ja yritä uudestaan. Tiedosto nimien joitakin tiedosto nimiä ja merkkejä ei sallita. 
     
-- Jos olet synkronointi tiedoston, siirrä se OneDrive-kansioon (esimerkiksi siirtää sen työpöydälle), ja kun oman OneDrive synkronoinnin tila näkyy ”ajan tasalla”, siirrä se takaisin. 
+- Jos synkronoit tiedoston, siirrä se OneDrive-kansiosta (esimerkiksi siirtämällä se työpöydälle) ja kun OneDrive-synkronoinnin tila näkyy "ajan tasalla", siirrä se takaisin. 
     
-[Lisätietoja vianmäärityksestä](https://go.microsoft.com/fwlink/?linkid=873155)
+[Lisää vian etsintä vinkkejä](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

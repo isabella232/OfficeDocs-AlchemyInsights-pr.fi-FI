@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514023"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Poista Office 365-ryhmään kuuluvat sivustot
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365-ryhmään kuuluvien sivustojen poistaminen
 
-Kun käyttäjät luovat uuden ryhmäsivuston SharePoint kotoa tai voit luoda uuden ryhmäsivuston uusi SharePoint-hallintakeskukseen, vastaavat Office 365-ryhmä luodaan automaattisesti. Office 365 ryhmän yhteydessä ryhmäsivustoja luodaan myös silloin, kun luot Teams Microsoft Office 365-ryhmän tai joukkueen. Jos haluat poistaa Office 365-ryhmään kuuluu SharePoint-sivustossa, sinun on poistettava Office 365-ryhmä. 
+Kun käyttäjät luovat uuden ryhmäsivuston SharePoint Home-sivustosta tai luot uuden ryhmäsivuston uudesta SharePointin hallinta keskuksesta, vastaava Office 365-ryhmä luodaan automaattisesti. Office 365 ryhmä-yhdistetyt ryhmäsivustot luodaan myös, kun luot Office 365-ryhmän tai ryhmän Microsoft Teamsissa. Jos haluat poistaa SharePoint-sivuston, joka kuuluu Office 365-ryhmään, sinun on poistettava Office 365-ryhmä itse. 
   
-1. Siirry [hallintakeskukseen Microsoft 365 ryhmät-sivulla](https://portal.office.com/adminportal/home#/groups).
+1. Siirry [Microsoft 365-hallinta keskuksen ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).
     
-2. Valitse ryhmän vieressä oleva valintaruutu.
+2. Valitse ryhmän vieressä oleva valinta ruutu.
     
 3. Valitse **Poista**.
     
-Huomautus: Jos poistat ryhmän, voi olla viive ennen kuin sivusto poistetaan SharePoint.
+Huomautus: Kun poistat ryhmän, voi olla viive, ennen kuin sivusto poistetaan SharePointista.
   
-**Viestintä- ja perinteinen sivustojen poistaminen:**
+**Poista viestintä sivustoja tai klassisia sivustoja:**
 
 1. Siirry sivustoon.
   
-2. Napsauta oikeassa yläkulmassa **asetukset** -kuvaketta. 
+2. Napsauta oikeassa yläkulmassa olevaa **asetus** kuvaketta. 
   
-3. Valitse **sivuston asetukset**. **Tietoja sivuston** tai **Sivuston toiminnot**-kohdasta Poista **Tämä sivusto**ja valitse sitten **Poista**.
+3. Valitse **sivuston asetukset**. Valitse **sivuston tiedot** -tai **sivuston toiminnot**-kohdasta **Poista tämä sivusto**ja valitse sitten **Poista**.
   
-**Poista SharePoint-sivustokokoelmaa:**
+**Poista SharePoint-sivustokokoelma:**
 
-Sivuston poistaminen:
+Voit poistaa sivuston:
   
-1. Valitse uuden SharePoint hallintakeskukseen, sivustot-sivulla poistettavan sivuston vieressä **valintaruutu** . 
+1. Valitse uuden SharePointin hallinta keskuksen sivustot-sivulta poistettavan sivuston viereinen **valinta ruutu** . 
     
-2. Valitse työkaluriviltä valintanauhan **poistaa.**
+2. Valitse valinta nauhan työkalu riviltä **Poista.**
     
-**Vahingossa poistettu sivuston?**
+**Poistetun sivuston vahingossa?**
 
-Katso [palauttaa poistetun sivustokokoelman](https://go.microsoft.com/fwlink/?linkid=867660).
+Katso [poistetun sivustokokoelman palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

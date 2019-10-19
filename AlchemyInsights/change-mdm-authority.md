@@ -1,5 +1,5 @@
 ---
-title: 'MDM: N viranomainen muuttaa'
+title: Muuta MDM-auktoriteetti
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519296"
 ---
-# <a name="change-intune-mdm-authority"></a>Muuta Intune MDM viranomaisen
+# <a name="change-intune-mdm-authority"></a>Vaihda Intune MDM-auktoriteetti
 
-Voit muuttaa MDM-viranomaisen ei tarvitse avata tukipyynnön. Katso ohjeet seuraavat asiakirjat:
+Voit vaihtaa MDM-viran omaista avaamatta tuki tapausta. Katso seuraavat asia kirjat ohjeita:
   
-- [MDM viranomaisen Configuration Manager muuttaa Intune erillinen](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Vaihda MDM-auktoriteetti kokoonpanon hallinnasta Intunen itsenäiseksi](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Muuta MDM viranomaisen Intune erillisen kokoonpanon hallinta](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Vaihda MDM-viran omainen Intune-palvelusta Configuration Manageriin](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM viranomaisen yhteistoimintaskenaarioissa**
+ **MDM-viran omaisen rinnakkaiselo**
   
-- Sinulla on aktiivinen MDM sekä viranomaisten samanaikaisesti Jos sinulla on jo käytössä Office 365 MDM mutta yritetään Intune MDM.
+- Voit ottaa molemmat MDM-viran omaiset käyttöön samanaikaisesti, jos sinulla on jo Office 365 MDM-käytössä, mutta haluat kokeilla Intune MDM-toimintaa.
     
-- Järjestelmänvalvojat, joilla on jo aktiivinen O365 MDM yksinkertaisesti merkitä Intune MDM aktiiviseksi Azure-portaalista.
+- Järjestelmänvalvojat, joilla on jo O365 MDM-aktiivinen, voivat yksinkertaisesti merkitä Intune MDM:N aktiivi seksi Azure-portaalissa.
     
-- Jos olet Intune MDM, mutta haluat käyttää Office 365-MDM: Avaa lipun alla ja tuen agentti auttaa ottaa tämän puolestasi.
+- Jos sinulla on Intune MDM, mutta haluat käyttää Office 365 MDM: Avaa alla oleva lippu ja tuki agentti auttaa sinua mahdollistamaan tämän.
     
 

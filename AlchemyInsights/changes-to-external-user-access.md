@@ -1,5 +1,5 @@
 ---
-title: Ulkoisen käyttäjän käyttöoikeus voidaan muutoksia
+title: Ulkoisten käyttö oikeus muutosten
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
 ms.openlocfilehash: a136938d3962c0b49a8711b5940ed650c0903c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36520808"
 ---
-# <a name="changes-to-external-user-access"></a>Ulkoisen käyttäjän käyttöoikeus voidaan muutoksia
+# <a name="changes-to-external-user-access"></a>Ulkoisten käyttö oikeus muutosten
 
-23. maaliskuuta 2018 alkaen Ulkoiset käyttäjät enää voi käyttää sisältöä, joka jaettiin kaikille, kaikki todennetut käyttäjät tai kaikkien käyttäjien lomakkeita, vaikka ne on kutsuttu tai valtuutettu ryhmät lisätään. Ulkoiset käyttäjät vain voi käyttää sisältöä, joka on jaettu käyttäjä- tai ryhmät, joihin käyttäjä kuuluu. Jos haluat säilyttää entiset asetuksesi, lue:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+Maaliskuun 23, 2018 alkaen ulkoiset käyttäjät eivät voi enää käyttää sisältöä, joka on jaettu kaikille, kaikille todennetuille käyttäjille tai kaikille lomakkeiden käyttäjille, vaikka heidät olisi kutsuttu tai lisätty valtuutetuille ryhmille. Ulkoiset käyttäjät voivat käyttää vain sisältöä, joka on jaettu käyttäjälle tai ryhmille, joihin käyttäjä kuuluu. Jos haluat säilyttää nykyiset asetuksesi, lue:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

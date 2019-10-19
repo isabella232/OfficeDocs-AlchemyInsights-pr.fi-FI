@@ -1,5 +1,5 @@
 ---
-title: Käyttäjäoikeudet
+title: Käyttö oikeudet
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 5/21/2018
@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531932"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Käyttöoikeuksia SharePoint-ja OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePointin ja OneDriven käyttö oikeudet
 
-Jos organisaation käyttäjä ei voi käyttää SharePoint- tai OneDrive, varmista, että heillä on käyttöoikeus, joka sisältää SharePoint- ja OneDrive. 
+Jos organisaatiosi käyttäjä ei voi käyttää SharePointia tai OneDrivea, varmista, että hänellä on SharePointia ja OneDrivea sisältävä käyttö oikeus. 
   
-1. [Aktiiviset käyttäjät sivulle Microsoft 365 hallintakeskukseen](https://portal.office.com/adminportal/home#/users) ja valitse käyttäjä. 
+1. Siirry [aktiiviset käyttäjät-sivulle Microsoft 365-hallinta keskuksessa](https://portal.office.com/adminportal/home#/users) ja valitse käyttäjä. 
     
-2. Varmista, että **tuotteen käyttöoikeudet**-kohdasta käyttöoikeudet on määritetty ja **SharePoint Online** on valittuna. 
+2. Varmista, että **tuote lisenssit**-kohdassa käyttö oikeus on määritetty ja **SharePoint Online** on valittuna. 
     
- Jos haluat antaa käyttäjälle oikeuden käyttää SharePoint-sivustoa: 
+ SharePoint-sivuston käyttö oikeuden antaminen käyttäjälle: 
   
-1. Avaa sivusto selaimessa.
+1. Avaa sivusto Web-selaimessa.
     
-2. Jos sivusto kuuluu Office 365-ryhmän, napsauta oikeassa yläkulmassa asetukset-kuvaketta ja valitse sitten **sivuston käyttöoikeudet**. Valitse **Henkilöiden kutsuminen**ja valitse sitten Lisää Office 365-ryhmän jäsenet tai jakaa sivuston. 
+2. Jos sivusto kuuluu Office 365-ryhmään, napsauta oikeassa yläkulmassa olevaa asetukset-kuvaketta ja valitse **sivuston käyttö oikeudet**. Valitse **Kutsu ihmisiä**ja valitse sitten Lisää jäseniä Office 365-ryhmään tai Jaa vain sivusto. 
     
-    Viestintä-sivuston Valitse **osuus sivuston** oikeassa yläkulmassa, kirjoita henkilön nimi ja valitse sitten käyttöoikeustaso (luku, muokkaus tai täydet oikeudet). 
+    Jos kyseessä on viestintä sivusto, valitse oikeasta yläkulmasta **Jaa sivusto** , kirjoita henkilön nimi ja valitse sitten käyttö oikeus taso (Lue, muokkaa tai täydet oikeudet). 
     
-    Valitse **Jaa** classic team-sivuston oikeassa yläkulmassa. Kirjoita kaikki jakaa kaikille organisaation tai kutsua henkilön nimi. Valitse **Jaa**.
+    Jos kyseessä on klassinen ryhmäsivusto, valitse oikeasta yläkulmasta **Jaa** . Kirjoita sen henkilön nimi, jonka haluat kutsua, tai kirjoita kaikki, jotka haluat jakaa organisaation kaikkien kanssa. Valitse **Jaa**.
     
 > [!NOTE]
-> Jos olet jäsen sivuston, mutta ei omistusoikeutta, voit kutsua ihmisiä sivuston, mutta Luo access-pyynnön, joka voidaan joko hyväksyä tai sivuston omistaja hylkäsi kutsun. 
+> Jos olet sivuston jäsen mutta et omistaja, voit kutsua ihmisiä sivustoon, mutta kutsusi luo käyttö oikeus pyynnön, jonka sivuston omistaja voi joko hyväksyä tai hylätä. 
   
-[Lisätietoja tiedoston tai kansion jakaminen käyttäjän kanssa](https://go.microsoft.com/fwlink/?linkid=533408)
+[Opi jakamaan tiedosto tai kansio käyttäjän kanssa](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

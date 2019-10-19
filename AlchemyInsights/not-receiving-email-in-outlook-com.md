@@ -1,5 +1,5 @@
 ---
-title: Vastaanota sähköposti Outlook.com-8000037
+title: 8000037 ei saa sähkö postia Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538558"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Sähköpostin vastaanottaminen ei Outlook.com-
+# <a name="not-receiving-mail-in-outlookcom"></a>Ei saa postia Outlook.com
 
-Jos et vastaanota sähköpostia tietyltä lähettäjältä, kuten tiliotteet tai salasana Palauta viestit, tarvitset Ota yhteys lähettäjään ja Ilmoita, että et saa sähköpostia osoitteessa Outlook.com-tili. Katso lähettäjän [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), jossa voit etsiä tietoja parhaista käytännöistä, suositellaan vianmääritys ja linkki yhteyttä tukiryhmäämme lähettäjän.
+Jos et saa tietyn lähettäjän sähkö postia, kuten tili otteita tai Sala sanan palautus viestejä, sinun on otettava yhteyttä lähettäjälle ja tiedettävä, ettet saa sähkö postia Outlook.com-tililläsi. Pyydä lähettäjää [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), jossa he voivat löytää tietoja parhaista käytännöistä, suositella vian määritystä ja linkkiä, jotta voit ottaa yhteyttä lähettäjän tuki tiimiimme.
   
-Jos Outlook.com-tili ei ole sähköpostia lainkaan, katso [Sähköposti korjata Outlook.com-Synkronointiongelmat](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Jos Outlook.com-tilisi ei saa lainkaan sähkö postia, katso [Fix Outlook.com sähkö postin synkronointi ongelmat](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Ulkoisten käyttäjien kanssa ei toimi
+title: Jakaminen ulkoisten käyttäjien kanssa ei toimi
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502228"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint-sisällön jakaminen ulkoisten käyttäjien ongelmien korjaaminen
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint-sisältöä ulkoisten käyttäjien kanssa jakavan ongelman korjaaminen
 
-Varmista, että ulkoinen jakaminen on otettu käyttöön organisaatiossa:
+Varmista, että ulkoinen jakaminen on käytössä organisaatiossa:
   
-1. Siirry [palvelut &amp; apuohjelmia Microsoft 365 admin keskellä sivun](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), ja valitse **sivustot**.
+1. Siirry [ &amp; Palvelut-apuohjelmat-sivulle Microsoft 365-hallinta keskuksessa](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)ja valitse **sivustot**.
     
-2. Varmista, että asetus on poistettu ”käytössä”. Jos ”vain olemassa olevat Ulkoiset käyttäjät” on valittuna, varmista, että ulkoisen käyttäjän tiedot on lueteltu Microsoft 365 admin Centerissä.
+2. Varmista, että asetus on käytössä. Jos valittuna on "vain nykyiset ulkoiset käyttäjät", varmista, että ulkoinen käyttäjä näkyy Microsoft 365-hallinta keskuksessa.
     
-Varmista, että ulkoinen jakamisen pois sivuston. Perinteinen sivustokokoelman:
+Varmista, että ulkoinen jakaminen on käytössä sivustolla. Klassiseen sivustokokoelmaan:
   
-1. Valitse uuden SharePoint-hallintakeskukseen vasemmanpuoleisessa ruudussa **sivustot**.
+1. Valitse uudessa SharePointin hallinta keskuksessa vasemmassa ruudussa **sivustot**.
     
-2. Valitse sivusto tai sivustoja ja valitse valintanauhan **jakaminen**.
+2. Valitse sivusto tai sivustot ja valitse sitten valinta nauhassa **jakaminen**.
     
-Ryhmäsivusto, joka kuuluu Office 365-ryhmään tai Viestimissivusto:
+Office 365-ryhmään kuuluva ryhmäsivusto tai tieto liikenne sivusto:
   
-- Tällaisten sivusto on sama jakamisen määrittäminen organisaation laajuisten asetusten paitsi koko organisaation-asetuksen avulla, jakaa tiedostoja, linkkejä, jotka eivät edellytä sisään. Tässä tapauksessa sivustot sallivat uusien ja olemassa olevien ulkoisten käyttäjille, jotka kirjautua sisään jakaminen. Voit muuttaa asetusta tietyissä sivustoissa, käyttämällä uutta SharePoint-hallintakeskukseen tai PowerShell. [Lue lisää](https://go.microsoft.com/fwlink/?linkid=871863).
+- Näillä uusilla sivustotyypeilla on sama jakamis asetus kuin organisaatiolla-asetuksella, ellei organisaation laajuinen asetus sallii tiedostojen jakamista sellaisten linkkien avulla, jotka eivät vaadi kirjautumista. Tässä tapa uksessa sivustot sallivat jakamisen uusille ja olemassa oleville ulkoisille käyttäjille, jotka kirjautumiseen. Jos haluat muuttaa tiettyjen sivustojen asetuksia, käytä uutta SharePointin hallinta keskusta tai PowerShelliä. [Lue lisää](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Kaikki sivuston ulkoinen jakaminen asetus voi olla rajoittavampi kuin organisaation laajuinen asetus, mutta ei kuitenkaan enempää kuin organisaation laajuinen asetus sallivien. 
+> Ulkoisen jakamisen asetus missä tahansa sivustossa voi olla rajoittavampi kuin koko organisaatiota koskeva asetus, mutta ei enemmän salliva kuin organisaation laajuinen asetus. 
   
 

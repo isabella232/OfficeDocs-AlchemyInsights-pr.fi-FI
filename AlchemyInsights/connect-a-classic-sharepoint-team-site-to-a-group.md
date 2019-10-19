@@ -1,5 +1,5 @@
 ---
-title: Ryhmä muodostaa perinteinen SharePoint-ryhmäsivusto
+title: Perinteisen SharePoint-ryhmäsivuston yhdistäminen ryhmään
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504755"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Perinteinen SharePoint-ryhmäsivustojen muodostaminen uuteen Office 365-ryhmät
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Yhdistä klassiset SharePoint-ryhmäsivustot uusiin Office 365-ryhmiin
 
-Sen arvioimiseksi, onko SharePoint-sivustokokoelmat on valmis muodostamaan yhteyden Office 365-ryhmät, [SharePoint kalastuslaivastoa skanneri työkalu](https://go.microsoft.com/fwlink/?linkid=873066)avulla. Tämän työkalun avulla voit suunnitella sivuston kalastuslaivastoa strategian ulos ja luo perusteellisen raportin, mukaan lukien alueet, joihin pitää kiinnittää huomiota.
+Voit arvioida, ovatko SharePoint-sivustokokoelmat valmiita muodostamaan yhteyden Office 365-ryhmiin, käyttämällä [SharePointin modernisointi-työkalua](https://go.microsoft.com/fwlink/?linkid=873066). Tämä työkalu voi auttaa sinua suunnittelemaan sivustosi modernisointi strategiaa ja luo perusteellisen raportin, mukaan lukien alueet, jotka tarvitsevat huomiota.
   
-Jos haluat sallia sivustokokoelman järjestelmänvalvojien classic työryhmäsivustojen muodostamaan uusia ryhmiä olemme lisäämässä uutta valikkokomentoa, ei tarvitse tehdä mitään. Kuitenkin haluat poistaa tämän asetuksen käytöstä, jos haluat muuttaa oletusasetusta. [Ohjeet](https://go.microsoft.com/fwlink/?linkid=2004316). Huomaa, että Yleinen ja Office 365: ssä SharePoint-järjestelmänvalvojat ovat aina pysty muodostamaan uusia ryhmiä sivustojen PowerShell-komentosovelmalla tai API-Liittymän avulla.
+Jos haluat sallia sivustokokoelman järjestelmänvalvojien yhdistää klassiset ryhmä sivustot uusiin ryhmiin uuteen valikko komentoon, jota lisäämme, sinun ei tarvitse tehdä mitään. Jos kuitenkin haluat poistaa tämän asetuksen käytöstä, sinun on muutettava oletus asetusta. [Ohjeet](https://go.microsoft.com/fwlink/?linkid=2004316). Huomaa, että Office 365:n yleiset ja SharePointin ylläpitäjät voivat aina yhdistää sivustot uusiin ryhmiin PowerShellin cmdlet-komennolla tai API:lla.
   
 
