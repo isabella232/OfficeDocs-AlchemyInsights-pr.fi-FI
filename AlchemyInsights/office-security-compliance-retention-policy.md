@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753757"
 ---
 # <a name="more-info-about-retention-policies"></a>Lisä tietoja säilytys käytännöistä
@@ -26,13 +26,13 @@ Useimmissa organisaatioissa niiden tietojen määrä ja monimutkaisuus lisääv�
 
 ## <a name="a-from-security-and-compliance-center"></a>A) tieto turva-ja yhteensopivuus keskuksesta
 
-- Siirry kohtaan suojaus ja yhteensopivuus > tietojen hallinta > säilyttäminen
+- Siirry tieto turva-ja vaatimustenmukaisuus> tiedon hallinta > säilyttäminen
   - Katso [Tämä](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artikkeli
 
-- Siirry kohtaan suojaus ja yhteensopivuus > eDiscovery> Advanced eDiscovery 
+- Siirry suojaus-ja yhteensopivuus > eDiscovery> Advanced eDiscovery 
   - Katso [Tämä](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artikkeli
 
-- Siirry kohtaan suojaus ja yhteensopivuus >-luokitukset > säilyttäminen
+- Siirry tieto turva-ja vaatimustenmukaisuus> luokitusten > säilyttäminen
   - Katso nämä artikkelit
     - [Herkkyys tarrat](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Otsikoiden yleiskuvaus](https://docs.microsoft.com/office365/securitycompliance/labels)
