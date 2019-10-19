@@ -1,5 +1,5 @@
 ---
-title: Lataa kansio tai tiedostot asiakirjakirjastoon
+title: Kansion tai tiedostojen lataaminen asiakirja kirjastoon
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532616"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Lataa SharePoint-asiakirjakirjaston tai kansion tiedostot
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Kansion tai tiedostojen lataaminen SharePoint-asiakirja kirjastoon
 
-Jos haluat ladata kansio, sinun on käytettävä Microsoft Edge, Google Chrome ja Mozilla FireFox. Ei voi ladata kansioita kokemus perinteinen kirjasto tai Internet Explorer 10 tai 11.
+Jos haluat ladata kansion, sinun on käytettävä Microsoft Edgeä, Google Chromea tai Mozilla Firefoxia. Et voi ladata kansioita klassiseen Kirjasto kokemukseen tai käyttää Internet Explorer 10: tä tai 11: tä.
   
-1. Avaa asiakirjakirjasto, johon haluat ladata kansio tai tiedostot.
+1. Avaa asiakirja Kirjasto, johon haluat ladata kansion tai tiedostot.
     
-2. Avaa tiedoston Explorer tietokoneeseen ja etsi kansio tai tiedostot, jotka haluat ladata.
+2. Avaa Resurssienhallinta tieto koneella ja siirry kansioon tai tiedostoihin, jotka haluat ladata palvelimeen.
     
-3. Vedä kansio tai tiedostot asiakirjakirjastoon. Jos et näe niitä, voit ladata näy kirjastossa, Päivitä sivu. 
+3. Vedä kansio tai tiedostot asiakirja kirjastoon. Jos et näe lataamiasi kohteita kirjastossa, Päivitä sivu. 
     
-Jos et halua ladata kohteita vetämällä toiseen, voit käyttää myös **Lataa** -painiketta asiakirjakirjaston kansio tai tiedostot, jotka haluat ladata. 
+Jos et halua ladata kohteita vetämällä niitä Windowsin välillä, voit myös käyttää tiedosto kirjaston **Lataa** -painiketta valitaksesi kansion tai tiedostot, jotka haluat ladata. 
   
 

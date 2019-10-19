@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-kielen muuttaminen
+title: Kuinka vaihtaa kieltä Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541663"
 ---
-# <a name="change-your-language"></a>Vaihda kieltä
+# <a name="change-your-language"></a>Kielen vaihtaminen
 
-1. Mennä chang Outlookin kielellä, [**kieli- ja aika**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) -asetukset (**asetukset** \> **Näytä kaikki Outlookin asetukset** > **yleisen** > **kieli- ja**).
+1. Jos haluat Chang-kielen Outlookissa, siirry kohtaan [**kieli ja aika**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) -asetukset (**Asetukset** \> **Näytä kaikki Outlookin asetukset** > **Yleinen** > **kieli ja aika**).
 
 2. Valitse kieli.
 
 3. Valitse **Tallenna**.
 
-Jos haluat lisätietoja, katso [Muuta aikavyöhyke- ja kieliasetukset-Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Lisä tietoja on Ohje aiheessa [aika vyöhyke-ja kieli asetusten muuttaminen Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

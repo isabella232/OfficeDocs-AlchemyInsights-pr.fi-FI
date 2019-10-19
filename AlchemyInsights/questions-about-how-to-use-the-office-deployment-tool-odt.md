@@ -1,5 +1,5 @@
 ---
-title: Kysymyksiin siitä, miten voit käyttää Office Deployment Tool (ODT)
+title: Kysymyksiä Officen käyttöönotto työkalun (ODT) käyttämisestä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553537"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Kysymyksiin siitä, miten voit käyttää Office Deployment Tool (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Kysymyksiä Officen käyttöönotto työkalun (ODT) käyttämisestä
 
-Lataa Office Deployment Tool-työkalua [Microsoft Download Centeristä](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Lataa Officen käyttöönotto työkalu [Microsoft Download Centeristä](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Sen jälkeen tiedoston lataamisessa suorittamalla automaattisesti purkautuva suoritettava tiedosto, joka sisältää Office Deployment Tool suoritustiedoston (setup.exe) ja kokoonpano-tiedosto (configuration.xml).
+Kun olet ladannut tiedoston, suorita automaattisesti purkautuva ohjelma tiedosto, joka sisältää Officen käyttöönotto työkalun suoritettavan tiedoston (Setup. exe) ja malli määritys tiedoston (Configuration. xml).
   
- **Voit jättää tai poistaa Office 365 ProPlus tuotteita asiakastietokoneista:**
+ **Voit sulkea Office 365 ProPlus-tuotteet pois asiakas tieto koneista ja poistaa ne:**
   
-Kun asennat Office 365 ProPlus, voit jättää pois tiettyjä tuotteita. Voit tehdä toimet asentaa Officen ODT kanssa, mutta sisällyttää kokoonpanomääritystiedoston ExcludeApp-elementin. Esimerkiksi tämän kokoonpanon tiedoston asentaa Office 365 ProPlus tuotteita kuin Publisher:
+Kun asennat Office 365 ProPlusin, voit sulkea pois tiettyjä tuotteita. Voit tehdä tämän noudattamalla Officen asennus ohjeita ODT:N kanssa, mutta Sisällytä siihen myös Poisdeapp-elementti määritys tiedostossa. Tämä kokoonpano tiedosto asentaa esimerkiksi kaikki Office 365 ProPlus-tuotteet Publisheria lukuun ottamatta:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Kun asennat Office 365 ProPlus, voit jättää pois tiettyjä tuotteita. Voit te
 </Add>
 ```
 
-[Yleisiä tietoja Office Deployment Tool-työkalua](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Officen käyttöönotto työkalun yleiskatsaus](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

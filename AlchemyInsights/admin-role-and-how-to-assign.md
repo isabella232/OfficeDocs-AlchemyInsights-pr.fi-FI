@@ -14,10 +14,10 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737078"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Mitä ovat järjestelmänvalvojan roolit ja miten määrität ne?
@@ -26,7 +26,7 @@ Näyttää siltä, että sinulla on kysyttävää järjestelmänvalvojan rooleis
   
 - [Tietoja järjestelmänvalvojan rooleista](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Määritä järjestelmänvalvojan roolit](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [Järjestelmänvalvojan roolien määrittäminen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
 Etkö vastannut kysymykseesi? Ei hätää! Käytä "Soita meille"-vaihto ehtoa, jos haluat keskustella tuki insinöörin kanssa.
   

@@ -1,5 +1,5 @@
 ---
-title: Toimituksen kertomukset Outlook Web-
+title: Outlookin Web-sivuston toimituksen ulkopuoliset raportit
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557102"
 ---
-# <a name="issues-with-email-delivery"></a>Ongelmia sähköpostin toimitus
+# <a name="issues-with-email-delivery"></a>Sähkö postin toimituksen ongelmat
 
-Kun olet lähettänyt sähköpostiviestin toimittamista ongelma Office 365 lähettää sähköpostiviestin, joka kertoo. Saat sähköposti on toimituksen tilailmoitus, tunnetaan myös nimellä DSN- tai Pomppu viestin. Yleisin kutsutaan toimituksen epäonnistumisen raportti (NDR), joka ilmoittaa, että viestiä ei toimitettu. Toimitusongelma voi johtua jostakin niin yksinkertaisesta syystä kuin sähköpostiosoitteessa olevasta kirjoitusvirheestä. NDRs ovat virhekoodin, joka ilmaisee, miksi Sähköpostiviestiäsi ei ole toimitettu, ratkaisujen avulla voit toimittaa sähköpostin, linkin lisätietoja web ja teknisiä tietoja järjestelmänvalvojille.
+Kun lähettämäsi Sähkö posti viesti on ongelmallinen, Office 365 lähettää sinulle sähkö postia. Vastaanotat Sähkö posti viestin, joka on toimituksen tila ilmoitus, joka tunnetaan myös nimellä DSN tai Bounce-viesti. Yleisin tyyppi on ei-toimitus raportti (NDR), joka kertoo, että viestiä ei toimitettu. Toimitusongelma voi johtua jostakin niin yksinkertaisesta syystä kuin sähköpostiosoitteessa olevasta kirjoitusvirheestä. NDRs-palveluihin sisältyy virhe koodi, joka ilmaisee, miksi sähkö postia ei toimitettu, ratkaisut, joiden avulla saat sähkö postisi perille, linkin Web-lisä tietoihin ja järjestelmänvalvojien tekniset tiedot.
 
-Saat luettelon NDRs ja selvittää, miksi viestiä ei toimitettu, katso [Sähköposti toimituksen epäonnistumisen raportoi Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Jos haluat nähdä luettelon NDRs-raporteista ja selvittää, miksi viestiä ei ole toimitettu, katso [Exchange Onlinen Sähkö posti-ilmoitusten toimittaminen sähköpostitse](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

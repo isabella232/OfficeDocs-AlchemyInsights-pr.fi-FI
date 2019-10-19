@@ -1,5 +1,5 @@
 ---
-title: OneDrive jakaa Ulkoiset käyttäjät
+title: OneDrive-tiedostojen jakaminen ulkoisten käyttäjien kanssa
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549216"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Tiedostojen jakaminen OneDrive kanssa oman organisaation ulkopuolisille henkilöille
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Tiedostojen jakaminen OneDrivessa organisaatiosi ulkopuolisten henkilöiden kanssa
 
-1. Siirry OneDrive selaimessa käyttämällä app aloituksen. 
+1. Siirry OneDriveen Web-selaimessa sovelluksen käynnistys ohjelman avulla. 
     
-2. Valitse tiedosto tai kansio, jonka haluat jakaa, ja valitse sitten **Jaa**. 
+2. Valitse jaettava tiedosto tai kansio ja valitse sitten **Jaa**. 
     
-3. Jos linkkityyppi on ”henkilöt \<organisaation\>”, alaspäin osoittavaa nuolta ja valitse jokin seuraavista: 
+3. Jos linkki tyypiksi on määritetty henkilöt \<organisaatiossasi\>, napsauta alanuolta ja valitse jokin seuraavista: 
     
-  - **Kuka tahansa** avulla käyttää kuka tahansa, joka vastaanottaa tämän linkin, siitä tulee sen suoraan sinulle toimitetaan jonkun. Tähän voi kuulua organisaation ulkopuolelle. 
+  - Kuka **tahansa** antaa pääsyn kenelle tahansa, joka saa tämän linkin, riippumatta siitä, vastaanotetaanko se suoraan sinulta vai välitetäänkö joku muu. Tämä voi sisältää henkilöitä organisaatiosi ulkopuolella. 
     
-  - **Tietyille henkilöille** oikeuttaa käyttämään vain niille henkilöille, määrität, vaikka muut käyttäjät voivat ehkä käyttää jo. Jos ihmiset välittää jakamiskutsun, vain henkilöt, joilla on jo pääsy kohde voi käyttää linkin. 
+  - **Tietyt henkilöt** voivat käyttää vain määrittämiäsi henkilöitä, vaikka muut henkilöt saattavat jo käyttää niitä. Jos ihmiset välittää jakamis kutsun, vain henkilöt, joilla on jo kohteen käyttö oikeus, voivat käyttää linkkiä. 
     
     > [!NOTE]
-    > Jos jokin näistä vaihtoehdoista ei ole käytettävissä tai jos haluat toisen linkkityyppi näkyy oletusarvon mukaan, voit muuttaa asetuksiasi yrityksenlaajuisten siirtymällä hallintakeskukseen OneDrive ja **jakaminen** valitsemalla vasemmanpuoleisessa ruudussa. [Opi lisää](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Jos jokin näistä asetuksista ei ole käytettävissä tai jos haluat, että eri linkki tyyppi näkyy oletusarvoisesti, voit muuttaa koko organisaation asetuksia siirtymällä OneDrive-hallinta keskukseen ja valitsemalla vasemmassa ruudussa **jako** . [Opi lisää](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Oletusarvon mukaan **Salli muokkaus** on käytössä. Jos haluat, että käyttäjät voivat tarkastella vain tiedostoja, poista valintaruudun valinta. 
+4. Oletus arvon mukaan **Salli muokkaus** on käytössä. Jos haluat, että ihmiset vain tarkastelisi tiedostojasi, poista valinta valinta ruudusta. 
     
-5. Syötä nimet sekä henkilöt, haluat jakaa viestin, jos haluat.
+5. Kirjoita niiden henkilöiden nimet, joiden kanssa haluat jakaa, ja viesti, jos haluat.
     
-6. Kun olet valmis, voit lähettää linkin, valitse **Lähetä**. 
+6. Kun olet valmis lähettämään linkin, valitse **Lähetä**. 
     
 [Opi lisää](https://go.microsoft.com/fwlink/?linkid=871861)
   

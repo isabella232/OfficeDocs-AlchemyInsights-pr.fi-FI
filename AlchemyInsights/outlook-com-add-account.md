@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com-tilin lisääminen
+title: 9000236 Outlook.com Lisää tili
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538197"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Lisää muita sähköpostitilejä Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Lisää Muut sähkö posti tilisi Outlook.com
 
-Kun lisäät muita sähköpostitilejä Outlook.com-voit lähettää ja lukea sähköpostiviestejä Outlook.com poistumatta näistä tileistä Outlook.com avulla. Kunkin tilin, voit lisätä Outlook.com kutsutaan yhteydessä tilille.
+Kun lisäät muita Sähkö posti tilejä Outlook.com, voit käyttää Outlook.com lähettää ja lukea Sähkö posti viestejä kyse isistä tileistä poistumatta Outlook.com. Jokaista tiliä, jonka lisäät Outlook.com, kutsutaan yhdisteyksi tiliin.
 
-Huomautus: Synkronoinnin yhteydessä tililtä Outlook.com-tilillesi on vain yksisuuntainen. Yhteydessä käytetään Outlook.com-tililtä lähetetyt sähköposti ei tule yhdistetyn tilin lähetetyt kohteet.
+Huomautus: synkronointi liitetystä tilistä Outlook.com-tiliisi on yksisuuntainen. Liitetystä tilistäsi lähetetty Sähkö posti Outlook.com-toiminnolla ei näy liitetyssä tilissä lähetetyistä kohteista.
 
-Yhdistetyn tilin lisääminen:
+Voit lisätä yhdistetyn tilin:
 
-1. Avaa [sähköpostin synkronoinnin asetukset](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Valitse **tilinpäätöksen yhteydessä**, **Gmail** - tai **muita sähköpostitilejä**.
-3. Muodosta tili-sivu Anna nimi (nimi tulee näkyviin vastaanottajalle kun he saavat sähköpostiviestin lähettäjän) sekä koko sähköpostiosoite ja tilin sähköposti salasana, johon haluat muodostaa Outlook.com-tilillesi.
+1. Avaa [synkronoinnin Sähkö posti asetukset](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Valitse **yhdistetyt tilit**-kohdassa **Gmail** tai **Muut sähkö posti tilit**.
+3. Anna Yhdistä tili-sivulla näyttö nimi (nimi vastaanottajat näkevät, kun he saavat sinulta Sähkö posti viestin) ja Sähkö posti tilin täydellisen Sähkö posti osoitteen ja Sala sanan, jonka haluat yhdistää Outlook.com-tiliisi.
 
-Voit lähettää sähköpostia tahansa tililtä olet muodostanut Outlook.com-tilillesi. Luodessasi sähköpostiviestin **valita** ja valita haluamasi sähköpostiosoite tai [Päivitä oletusarvon mukaisen osoitteesta](https://go.microsoft.com/fwlink/?linkid=875264).
+Voit lähettää sähkö postia miltä tahansa tililtä, jonka olet muodostanut yhteyden Outlook.com-tiliisi. Kun kirjoitat sähkö postia, **Valitse ja valitse** , mitä sähkö posti osoitetta haluat käyttää, tai [Päivitä oletus osoite](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Lisätietoja Lue [Lisää muita email tilisi Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Jos haluat lisä tietoja, Lue lisää [Muut sähkö posti tilit kohteeseen Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Jos haluat luoda uusi sähköpostiosoite, jota käytetään Outlook.com samaa tiliä, lue [Lisää tai poista sähköposti-tunnus](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Jos haluat luoda uuden sähkö posti osoitteen, joka käyttää samaa Outlook.com-tiliä, Lue [Lisää tai poista sähköpostialias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

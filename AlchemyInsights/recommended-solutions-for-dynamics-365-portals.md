@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 portaalien suositellut ratkaisut
+title: Dynamics 365 portaalit suositellut ratkaisut
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553068"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745502"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Suositellut ratkaisut Dynamics 365-portaalit
+# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 portaalit suositellut ratkaisut
 
-* [Näkyvät portaalissa Omat yksityiskohtaiset palvelinvirhe tarkasteleminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Portaalissa näkyvän yksityiskohtaisen palvelin virheen tarkasteleminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Miten Palauta portaali](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Portaalin nollaaminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Miten portaalin palvelimen välimuistin tyhjentäminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Portaalin palvelin puolen väli muistin tyhjentäminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Yleisö ja Dynamics 365-portaalin tyypin muuttaminen](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Dynamics 365-portaalin kohde ryhmän ja tyypin muuttaminen](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Perus portaalin URL-Osoitteen muuttaminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Portaalin perus-URL-osoitteen muuttaminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Määrittäminen yritysportaalin ulkoiset tunnistetietojen toimittaja](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Ulkoisen identiteetin tarjoajan määrittäminen portaalin avulla](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Usein kysyttyjä kysymyksiä](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Oma Dynamics 365-portaalin käytön aloittaminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Dynamics 365-portaalin käytön aloittaminen](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

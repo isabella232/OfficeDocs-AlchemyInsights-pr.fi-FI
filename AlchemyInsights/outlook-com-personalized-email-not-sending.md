@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Mukautettu sähköposti osoite ei ole lähettämisessä tai vastaanottamisessa
+title: Outlook.com henkilökohtainen Sähkö posti osoite ei lähetä tai vastaanottaa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545868"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Omat mukautetut Outlook.com sähköpostiosoite ei ole lähettämisessä tai vastaanottamisessa
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Oma henkilökohtainen Outlook.com-Sähkö posti osoitteesi ei lähetä tai saa
 
-Valitse työkalurivin Avaa premium dashboard diamond-kuvaketta.
+Avaa Premium-koonti näyttö valitsemalla työkalu riviltä timantti kuvake.
 
-Diamond-kuvaketta ei näy Saapuneet-kansiossa (ja nähdä mainoksia), jos se merkitsee Office 365-tilauksesi on vanhentunut. Siirry [https://account.microsoft.com/services](https://account.microsoft.com/services) aktivoida tilauksesi uudelleen, sitten yhdistää toimialueen ohjeiden ”käytön aloittaminen”.
+Jos Saapuneet-kansiossa ei näy timantti kuvaketta (ja näet mainoksia), se tarkoittaa, että Office 365-tilauksesi on vanhentunut.  [https://account.microsoft.com/services](https://account.microsoft.com/services) Aktivoi tilauksesi uudelleen siirtymällä kohtaan ja yhdistä sitten verkko tunnuksesi "aloittaminen"-ohjeiden mukaisesti.
 
-Jos punainen tilarivi ”taiteellisia sähköpostiosoite”-välilehti, toimialueen voi olla vanhentunut.
+Jos "henkilökohtainen Sähkö posti osoite"-väli lehdellä on punainen tila palkki, toimi alueesi on saattanut vanhentua.
 
-Lue vianmäärityksen ohjeita [Office 365: ssä Omat sähköpostiosoitteet](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Lue lisää vian etsintä vaiheista [henkilökohtaista Sähkö posti osoitteista Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy)-tieto koneessa.
