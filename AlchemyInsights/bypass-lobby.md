@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376621"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637774"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Hallitse aulan asetuksia ja osallistumis tasoa
 
-Nämä asetukset ohjaavat sitä, ketkä osallistujat odottavat aulassa ennen kuin heidät otetaan mukaan koko ukseen ja kuinka suuri osallistumis aste he saavat koko uksessa. Voit käyttää PowerShelliä päivittämään Kokous käytäntö asetukset, joita ei ole vielä toteutettu (merkitty "tulossa pian") teams-hallinta keskukseen.  Katso alla esimerkki PowerShell cmdlet, jonka avulla kaikki käyttäjät voivat ohittaa aulan.  
+Jos haluat sallia kaikkien, mukaan lukien Puhelin verkko-, ulkoiset ja anonyymit käyttäjät, ohittaa aulan, voit tehdä sen PowerShellin avulla. Tässä on esimerkki organisaation maailmanlaajuisen koko uksen käytännön muuttamisesta:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Tämä cmdlet-komento edellyttää tällä hetkellä Skype for Business PowerShell-moduulin käyttöä. Jos haluat saada asennus ohjelman käyttämään tätä cmdlet-komentoa, Tutustu käytäntöjen hallintaan PowerShellin kautta.
+
+Voit määrittää uuden käytännön, jota sinun on sitten sovellettava käyttäjiin. Jos muokkaat yleistä käytäntöä, se koskee käyttäjiä automaattisesti. Jos haluat muuttaa käytäntöä, sinun on odotettava vähintään 4 tuntia ja enintään 24 tuntia, jotta käytännöt tulevat voimaan.
+
+Muista tarkistaa alla olevat ohjeet ennen muutosten tekemistä, jotta ymmärrät tarkalleen, mitä tämä sallii.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Tietoja tiimien koko uksen aulan käytännön valvonnasta
 
 - [Henkilöiden automaattinen myöntäjä](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) on järjestäjäkohtainen käytäntö, joka ohjaa sitä, liittytäänkö koko ukseen suoraan vai odotetaanko sitä aulassa, kunnes todennettu käyttäjä on myöntänyt heidät.
 
@@ -30,15 +40,4 @@ Nämä asetukset ohjaavat sitä, ketkä osallistujat odottavat aulassa ennen kui
 
 - [Salli järjestäjien ohittaa aulan asetukset](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**tulossa pian**) on järjestäjäkohtainen käytäntö, joka määrittää, voiko koko uksen järjestäjä ohittaa aulan asetukset, jotka järjestelmänvalvoja asettaa **automaattisesti myöntämään ihmisiä** ja **sallimaan soiton käyttäjiä ohittamaan aulan** , kun he aikatauluttaa uuden koko uksen.
 
-**Huom:** Lue [teams-Kokous käytäntöjen hallinta](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , niin saat yleiskatsauksen Microsoft teams-Kokous käytännöistä. 
-
-
-**PowerShell-esimerkki**
-
-Jos haluat sallia kaikkien, myös ulkoisten tai anonyymien käyttäjien, ohittaa aulan, voit myös käyttää PowerShelliä tämän tehtävän suorittamiseen.  Tässä on esimerkki organisaation maailmanlaajuisen Kokous käytännön muuttamisesta.   
-
-(Muista tarkistaa edellä mainitut ohjeet ennen muutosten tekemistä, jotta ymmärrät tarkalleen, mitä tämä sallii.)
-
-Set-CsTeamsMeetingPolicy-identiteetti Global-Autosisääntulokäyttäjät "kaikki"-AllowPSTNUsersToBypassLobby $True
-
-Lisä tietoja on kohdassa [Set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Huom:** Lue [teams-Kokous käytäntöjen hallinta](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , niin saat yleiskatsauksen Microsoft teams-Kokous käytännöistä.
