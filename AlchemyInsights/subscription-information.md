@@ -1,5 +1,5 @@
 ---
-title: Tilauksen tiedot
+title: Tila uksen tiedot
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501200"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576873"
 ---
-# <a name="subscription-information"></a>Tilauksen tiedot
+# <a name="subscription-information"></a>Tila uksen tiedot
 
-Lisätietoja Office 365: ssä tilausten omistaja, admin Centerissä, siirry **laskutuksen** \> [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulta.
+Lisä tietoja omistamasi tila uksista on **laskutus** \> [tuotteiden & Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
   
-Tärkeitä tietoja kunkin tilauksen:
+Keskeiset tiedot jokaisesta tila uksesta:
   
 - Kunkin tilan
 
-- Ostettujen käyttöoikeuksien
+- Ostetut lisenssit
 
-- Osoitettuja käyttöoikeuksia
+- Määritetyt lisenssit
 
-- Toistuva Laskutus tila
+- Toistuvan laskutuksen tila
 
-- Saldo
+- Tasapaino
 
 - Maksutapa
 
-- Seuraavan laskutuksen tai voimassaolon päättymistä päivämäärä
+- Seuraava laskutus-tai vanhentumis päivä
