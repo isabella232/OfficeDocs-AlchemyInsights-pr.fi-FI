@@ -12,12 +12,12 @@ ms.custom:
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
 ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661509"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="9cfc1-102">Käyttäjällä on ongelmia Sähkö posti viestien lähettämisessä</span><span class="sxs-lookup"><span data-stu-id="9cfc1-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="66a4e-102">Käyttäjällä on ongelmia Sähkö posti viestien lähettämisessä</span><span class="sxs-lookup"><span data-stu-id="66a4e-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="9cfc1-103">Näyttää siltä, että sinulla on posti virta-ongelma.</span><span class="sxs-lookup"><span data-stu-id="9cfc1-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="9cfc1-104">Meillä on diagnostiikkaa, joka auttaa tunnistamaan monia tavallisia sähkö postin virta-ongelmia.</span><span class="sxs-lookup"><span data-stu-id="9cfc1-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="9cfc1-105">Valitse **Suorita diagnostiikka** alla.</span><span class="sxs-lookup"><span data-stu-id="9cfc1-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="66a4e-103">Näyttää siltä, että sinulla on posti virta-ongelma.</span><span class="sxs-lookup"><span data-stu-id="66a4e-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="66a4e-104">Meillä on diagnostiikkaa, joka auttaa tunnistamaan monia tavallisia sähkö postin virta-ongelmia.</span><span class="sxs-lookup"><span data-stu-id="66a4e-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="66a4e-105">Valitse **Suorita diagnostiikka** alla.</span><span class="sxs-lookup"><span data-stu-id="66a4e-105">Click **Run Diagnostics** below.</span></span>

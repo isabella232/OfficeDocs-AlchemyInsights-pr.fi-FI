@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36514023"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="d0d91-102">Office 365-ryhmään kuuluvien sivustojen poistaminen</span><span class="sxs-lookup"><span data-stu-id="d0d91-102">Delete sites that belong to an Office 365 group</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="b6b7b-102">Office 365-ryhmään kuuluvien sivustojen poistaminen</span><span class="sxs-lookup"><span data-stu-id="b6b7b-102">Delete sites that belong to an Office 365 group</span></span>
 
-<span data-ttu-id="d0d91-103">Kun käyttäjät luovat uuden ryhmäsivuston SharePoint Home-sivustosta tai luot uuden ryhmäsivuston uudesta SharePointin hallinta keskuksesta, vastaava Office 365-ryhmä luodaan automaattisesti.</span><span class="sxs-lookup"><span data-stu-id="d0d91-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="d0d91-104">Office 365 ryhmä-yhdistetyt ryhmäsivustot luodaan myös, kun luot Office 365-ryhmän tai ryhmän Microsoft Teamsissa.</span><span class="sxs-lookup"><span data-stu-id="d0d91-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="d0d91-105">Jos haluat poistaa SharePoint-sivuston, joka kuuluu Office 365-ryhmään, sinun on poistettava Office 365-ryhmä itse.</span><span class="sxs-lookup"><span data-stu-id="d0d91-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="b6b7b-103">Kun käyttäjät luovat uuden ryhmäsivuston SharePoint Home-sivustosta tai luot uuden ryhmäsivuston uudesta SharePointin hallinta keskuksesta, vastaava Office 365-ryhmä luodaan automaattisesti.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="b6b7b-104">Office 365 ryhmä-yhdistetyt ryhmäsivustot luodaan myös, kun luot Office 365-ryhmän tai ryhmän Microsoft Teamsissa.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="b6b7b-105">Jos haluat poistaa SharePoint-sivuston, joka kuuluu Office 365-ryhmään, sinun on poistettava Office 365-ryhmä itse.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="d0d91-106">Siirry [Microsoft 365-hallinta keskuksen ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="d0d91-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="b6b7b-106">Siirry [Microsoft 365-hallinta keskuksen ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="b6b7b-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="d0d91-107">Valitse ryhmän vieressä oleva valinta ruutu.</span><span class="sxs-lookup"><span data-stu-id="d0d91-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="b6b7b-107">Valitse ryhmän vieressä oleva valinta ruutu.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="d0d91-108">Valitse **Poista**.</span><span class="sxs-lookup"><span data-stu-id="d0d91-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="b6b7b-108">Valitse **Poista**.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="d0d91-109">Huomautus: Kun poistat ryhmän, voi olla viive, ennen kuin sivusto poistetaan SharePointista.</span><span class="sxs-lookup"><span data-stu-id="d0d91-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="b6b7b-109">Huomautus: Kun poistat ryhmän, voi olla viive, ennen kuin sivusto poistetaan SharePointista.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="d0d91-110">**Poista viestintä sivustoja tai klassisia sivustoja:**</span><span class="sxs-lookup"><span data-stu-id="d0d91-110">**Delete communication sites or classic sites:**</span></span>
+<span data-ttu-id="b6b7b-110">**Poista viestintä sivustoja tai klassisia sivustoja:**</span><span class="sxs-lookup"><span data-stu-id="b6b7b-110">**Delete communication sites or classic sites:**</span></span>
 
-1. <span data-ttu-id="d0d91-111">Siirry sivustoon.</span><span class="sxs-lookup"><span data-stu-id="d0d91-111">Go to the site.</span></span>
+1. <span data-ttu-id="b6b7b-111">Siirry sivustoon.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="d0d91-112">Napsauta oikeassa yläkulmassa olevaa **asetus** kuvaketta.</span><span class="sxs-lookup"><span data-stu-id="d0d91-112">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="b6b7b-112">Napsauta oikeassa yläkulmassa olevaa **asetus** kuvaketta.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-112">Click the **Settings** icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="d0d91-113">Valitse **sivuston asetukset**.</span><span class="sxs-lookup"><span data-stu-id="d0d91-113">Click **Site settings**.</span></span> <span data-ttu-id="d0d91-114">Valitse **sivuston tiedot** -tai **sivuston toiminnot**-kohdasta **Poista tämä sivusto**ja valitse sitten **Poista**.</span><span class="sxs-lookup"><span data-stu-id="d0d91-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="b6b7b-113">Valitse **sivuston asetukset**.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-113">Click **Site settings**.</span></span> <span data-ttu-id="b6b7b-114">Valitse **sivuston tiedot** -tai **sivuston toiminnot**-kohdasta **Poista tämä sivusto**ja valitse sitten **Poista**.</span><span class="sxs-lookup"><span data-stu-id="b6b7b-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="d0d91-115">**Poista SharePoint-sivustokokoelma:**</span><span class="sxs-lookup"><span data-stu-id="d0d91-115">**Delete a SharePoint site collection:**</span></span>
+<span data-ttu-id="b6b7b-115">**Poista SharePoint-sivustokokoelma:**</span><span class="sxs-lookup"><span data-stu-id="b6b7b-115">**Delete a SharePoint site collection:**</span></span>
 
-<span data-ttu-id="d0d91-116">Voit poistaa sivuston:</span><span class="sxs-lookup"><span data-stu-id="d0d91-116">To delete a site:</span></span>
+<span data-ttu-id="b6b7b-116">Voit poistaa sivuston:</span><span class="sxs-lookup"><span data-stu-id="b6b7b-116">To delete a site:</span></span>
   
-1. <span data-ttu-id="d0d91-117">Valitse uuden SharePointin hallinta keskuksen sivustot-sivulta poistettavan sivuston viereinen **valinta ruutu** .</span><span class="sxs-lookup"><span data-stu-id="d0d91-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
+1. <span data-ttu-id="b6b7b-117">Valitse uuden SharePointin hallinta keskuksen sivustot-sivulta poistettavan sivuston viereinen **valinta ruutu** .</span><span class="sxs-lookup"><span data-stu-id="b6b7b-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
     
-2. <span data-ttu-id="d0d91-118">Valitse valinta nauhan työkalu riviltä **Poista.**</span><span class="sxs-lookup"><span data-stu-id="d0d91-118">On the ribbon toolbar, click **Delete.**</span></span>
+2. <span data-ttu-id="b6b7b-118">Valitse valinta nauhan työkalu riviltä **Poista.**</span><span class="sxs-lookup"><span data-stu-id="b6b7b-118">On the ribbon toolbar, click **Delete.**</span></span>
     
-<span data-ttu-id="d0d91-119">**Poistetun sivuston vahingossa?**</span><span class="sxs-lookup"><span data-stu-id="d0d91-119">**Deleted a site by accident?**</span></span>
+<span data-ttu-id="b6b7b-119">**Poistetun sivuston vahingossa?**</span><span class="sxs-lookup"><span data-stu-id="b6b7b-119">**Deleted a site by accident?**</span></span>
 
-<span data-ttu-id="d0d91-120">Katso [poistetun sivustokokoelman palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="d0d91-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="b6b7b-120">Katso [poistetun sivustokokoelman palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="b6b7b-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 
