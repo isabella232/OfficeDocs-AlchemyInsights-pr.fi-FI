@@ -9,26 +9,26 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666549"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36745430"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Suositellut toimet, kun tili on vaarantunut
 
 [VIDEO: Väärinkäytetyn Office 365 -tilin korjaaminen](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Palauta käyttäjän salasana](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) välittömästi. Älä lähetä uutta salasanaa sähköpostitse loppukäyttäjälle.
+1. [Palauta käyttäjän salasana](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) välittömästi. Älä lähetä uutta salasanaa sähköpostitse loppukäyttäjälle.
 
-2. Poista kaikki postilaatikkotasolle määritetyt epäilyttävät [edelleenlähetysosoitteet](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
+2. Poista kaikki postilaatikkotasolle määritetyt epäilyttävät [edelleenlähetysosoitteet](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
 3. Poista kaikki postilaatikkoon määritetyt epäilyttävät [Saapuneet-kansion säännöt](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED).
 
 4. Jos käyttäjää on estetty lähettämästä sähköpostia, [poista esto siirtymällä kohtaan Rajoitetut käyttäjät](https://protection.office.com/?hash=/restrictedusers). Kun esto on poistettu, käyttäjän pitäisi pystyä lähettämään viestejä tunnin kuluessa.
 
-5. Poista käyttäjätili kaikista [ryhmistä, joissa käyttäjällä on järjestelmänvalvojan rooli](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), kunnes olet varma, ettei tili ole enää vaarantunut.
+5. Poista käyttäjätili kaikista [ryhmistä, joissa käyttäjällä on järjestelmänvalvojan rooli](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), kunnes olet varma, ettei tili ole enää vaarantunut.
 
-Artikkelista [Office 365:n tietoturvan parhaat käytännöt](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3) saat lisätietoja siitä, miten voit minimoida tietomurrot ja väärinkäytettyjen tilien mahdollisuuden tulevaisuudessa.
+Artikkelista [Office 365:n tietoturvasuunnitelma](https://docs.microsoft.com//office365/securitycompliance/security-roadmap) saat lisätietoja siitä, miten voit minimoida mahdolliset tietomurrot ja tilien väärinkäytökset tulevaisuudessa.
   
