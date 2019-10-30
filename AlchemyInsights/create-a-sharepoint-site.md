@@ -2,7 +2,6 @@
 title: SharePoint-sivuston luominen
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738194"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769588"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint-sivuston luominen
 
@@ -31,10 +30,10 @@ Voit tarkastella SharePoint-sivuston luomista koskevia tietoja seuraavasti:
 
 
   
-> [! Vinkkejä
-> - Et voi luoda sivustoa, jolla on sama URL-osoite aiemmin luodusta sivustosta. Jos poistit sivuston ja haluat käyttää URL-osoitetta uudelleen, on mahdollista, että poistettu sivusto on edelleen olemassa **Poistetut sivustot**-kohdassa. Jos haluat hallita poistettuja sivustoja, Katso, [Poista sivusto](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Jos haluat poistaa sivuston kokonaan PowerShellin avulla, Katso esimerkki [Poista SPSite-cmdlet-komennosta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Jotkut käyttäjät eivät ehkä voi luoda sivustoa. Katso [sivuston luomisen hallinta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - On mahdollista, että sivusto näyttää juuttuneen **luomaan** odotettua pidempään. Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaudu tuki lippuun. Monissa tapa uksissa olemme jo tekemässä ratkaisua. Ole hyvä ja anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
-> - Jos sinun on luotava uusi ryhmäsivusto, joka ei sisällä Office 365-ryhmää, 
+**Vihjeitä:**
+- Et voi luoda sivustoa, jolla on sama URL-osoite aiemmin luodusta sivustosta. Jos poistit sivuston ja haluat käyttää URL-osoitetta uudelleen, on mahdollista, että poistettu sivusto on edelleen olemassa **Poistetut sivustot**-kohdassa. Jos haluat hallita poistettuja sivustoja, Katso, [Poista sivusto](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Jos haluat poistaa sivuston kokonaan PowerShellin avulla, Katso esimerkki [Poista SPSite-cmdlet-komennosta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Jotkut käyttäjät eivät ehkä voi luoda sivustoa. Katso [sivuston luomisen hallinta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- On mahdollista, että sivusto näyttää juuttuneen **luomaan** odotettua pidempään. Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaudu tuki lippuun. Monissa tapa uksissa olemme jo tekemässä ratkaisua. Ole hyvä ja anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
+- Jos sinun on luotava uusi ryhmäsivusto, joka ei sisällä Office 365-ryhmää, 
 
 

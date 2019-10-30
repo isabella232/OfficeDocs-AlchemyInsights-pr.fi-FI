@@ -1,9 +1,8 @@
 ---
-title: Postilaatikkoon Outlook.com ulkoasun muuttaminen
+title: Outlook.com-posti laatikon ulkoasun muuttaminen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +13,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 612f3ef22dbad3ea4b77b26bb1d2e5d38f70e33f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a537e7e2b6d78948660ad3a98e02d73bfd73a449
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520880"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769696"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Postilaatikon ulkoasun muuttaminen
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Outlookin posti laatikon ulkoasun muuttaminen
 
-Voit muuttaa viestin luettelosta ja lukeminen [asetteluasetukset](https://outlook.live.com/mail/options/mail/layout)-ruudun ulkoasu. Valitse näytetäänkö yksittäisten viestien tai keskustelujen, sähköpostin uusien viestien näkyvän ylä-tai alareunaan ja viestiä.
+Voit muuttaa viesti luettelon ja luku ruudun ulkoasua [asettelu asetuksissa](https://outlook.live.com/mail/options/mail/layout). Valitse, onko sähkö postisi näytettävä yksittäisinä viesteinä tai keskusteluina, jos uudet viestit näkyvät viesti luettelon ylä-tai alaosassa.
   
-Lisätietoja on ohjeaiheessa [postilaatikkoon Outlook.com ulkoasun muuttaminen](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisä tietoja on Ohje aiheessa [Outlook.com-posti laatikon ulkoasun muuttaminen](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
