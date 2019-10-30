@@ -1,9 +1,8 @@
 ---
-title: Mikä on automaattisen tallennuksen
+title: Mikä on AutoSave
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 800267eb910d09fb60be363a811298850367eb1f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387810"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769156"
 ---
-# <a name="what-is-autosave"></a>Mikä on automaattisen tallennuksen?
+# <a name="what-is-autosave"></a>Mikä on AutoSave?
 
-Automaattinen tallennus on uusi ominaisuus, joka on käytettävissä Excel, Word ja PowerPoint Office 365-tilaajille, joka tallentaa tiedoston automaattisesti aina joitakin sekuntia, kun työskentelet. 
+AutoSave on Excel-, Word-ja PowerPoint for Office 365-tilaajien käytettävissä oleva ominaisuus, joka tallentaa tiedostosi automaattisesti, muutaman sekunnin välein, työskentelyn ajan. 
 
-Katso usein kysytyt kysymykset [Mikä on automaattisen tallennuksen?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+Katso usein kysyttyjä kysymyksiä kohdasta [mikä on automaattinen tallennus?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)

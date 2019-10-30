@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754189"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768798"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Ongelman vian määritys-käyttäjää ei löydy hakemistosta
 
-Jos käyttäjät saavat virhe sanoman "käyttäjää ei löydy" hakemistosta. Yritä uudelleen, jos ongelma tyyppi on käyttäjä, joka ei ole kansiossa.
+Jos käyttäjät saavat virhe sanoman "käyttäjää ei löydy" hakemistosta, yritä uudelleen, jos ongelma tyyppi on käyttäjä ei ole hakemistoon.
 
 Seuraavat vaiheet voidaan suorittaa ongelman vian määritystä varten.
 
@@ -29,7 +29,7 @@ Lisä tietoja on Ohje aiheessa [Microsoft-tilin</a> tunnusten hallinta Office 36
 
 Lisää "/_layouts/15/People.aspx/membershipgroupid = 0" (lainaus merkkien sisällä) sivuston URL-osoitteen loppuun. 
 
-Esimerkki: https://_LT_ "contoso">. SharePoint. com/_asettelut/15/People. aspx/membershipGroupId = 0.
+Esimerkki: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Valitse käyttäjä luettelosta.
 

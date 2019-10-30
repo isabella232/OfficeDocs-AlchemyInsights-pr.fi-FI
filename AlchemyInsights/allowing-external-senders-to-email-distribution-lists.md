@@ -1,9 +1,8 @@
 ---
-title: 714 Allowing Ulkoiset lähettäjät sähköpostin jakeluluetteloita
+title: 714 ulkoisten lähettäjien salliminen sähkö postin jakelu luetteloihin
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506548"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768221"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Salli ulkoiset lähettäjät voit lähettää viestit jakeluryhmiin
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Salli ulkoisten lähettäjien lähettää viestejä jakelu ryhmiin
 
-Jos organisaatiosi ulkopuolisia käyttäjiä tulee virheitä, kun ne lähettää sanomia että jakeluryhmiä tai haluat varmistaa, että jakeluryhmät on määritetty vastaanottamaan sähköpostia ulkoisten lähettäjien, toimi seuraavasti:
+Jos organisaatiosi ulkopuoliset käyttäjät saavat virhe sanomia lähettäessään viestejä jakelu ryhmille tai jos haluat varmistaa, että jakelu ryhmät on määritetty vastaanottamaan postia ulkoisilta lähettäjäryhmiltä, toimi seuraavasti:
 
-1. Siirry [Office 365 ‑hallintaportaalissa](https://portal.office.com/adminportal/home#/groups) **ryhmät** -solmua.
+1. Siirry Office 365-hallinta keskukseen **ryhmät** > -[ryhmät](https://portal.office.com/adminportal/home#/groups) -sivulle.  
 
-2. Valitse jakeluryhmä ja ryhmän ominaisuudet Lisää poissa, joka tulee näkyviin, valitse, joka sisältää **Salli ulkoiset lähettäjät**-kohdassa **Muokkaa** .
+2. Valitse jakelu ryhmä ja valitse sitten ryhmän ominaisuudet-ruudusta **Asetukset** -väli lehti.
 
-3. **Muokkaa** Lisää poissa, joka tulee näyttöön, varmista, että **ulkopuolella oman organisaation käyttäjät voivat lähettää sähköpostia tämän jakeluryhmää.** **sijaitsee**, ja valitse sitten **Tallenna**.
+3. Valitse **Salli ulkoisten lähettäjien tehdä sähkö postia tälle ryhmälle**ja valitse sitten **Tallenna**.

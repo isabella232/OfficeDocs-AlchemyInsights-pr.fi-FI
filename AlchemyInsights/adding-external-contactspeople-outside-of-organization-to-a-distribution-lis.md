@@ -1,9 +1,8 @@
 ---
-title: 718 lisääminen ulkoiset yhteystiedot / organisaatio ja jakeluluettelon kotini ulkopuoliset henkilöt
+title: 718 ulkoisten yhteys tietojen/organisaation ulkopuolisten henkilöiden lisääminen jakelu luetteloon
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494560"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766636"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a>Lisää ulkoiset sähköpostiosoitteet jakeluluetteloon
+# <a name="add-external-email-addresses-to-a-distribution-group"></a>Ulkoisten Sähkö posti osoitteiden lisääminen jakelu ryhmään
 
-Ensinnäkin tarvitset organisaatiossa ulkoinen sähköpostiosoite yhteyshenkilön luominen. Sitten voit lisätä yhteyshenkilön jakeluryhmä. Lisätietoja on ohjeaiheessa [jakeluryhmän ulkoisten käyttäjien lisääminen?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
+Ensin sinun on luotava organisaatiosi yhteys tieto ulkoiseen Sähkö posti osoitteeseen. Tämän jälkeen voit lisätä yhteys tiedon jakelu ryhmään. Lisä tietoja on kohdassa [ulkoisten käyttäjien lisääminen jakelu ryhmään?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
 
-Jos Ulkoiset käyttäjät voivat lähettää viestejä jakeluryhmään, varmista ryhmä on määritetty hyväksymään ulkoisten lähettäjien lähettämät viestit. Lisätietoja [toimituksen johto](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
+Jos haluat ulkoisten käyttäjien lähettävän viestejä jakelu ryhmälle, varmista, että ryhmä on määritetty hyväksymään ulkoisten lähettäjien lähettämä Sähkö posti. Lisä tietoja on kohdassa [toimituksen hallinta](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).

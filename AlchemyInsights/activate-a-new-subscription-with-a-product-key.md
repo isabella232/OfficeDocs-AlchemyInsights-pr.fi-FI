@@ -1,9 +1,8 @@
 ---
-title: Aktivoi product Key-tunnuksella uusi tilaus
+title: Aktivoi uusi tilaus Product Key-tunnuksen avulla
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495640"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766384"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivoi product Key-tunnuksella uusi tilaus
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivoi uusi tilaus Product Key-tunnuksen avulla
 
-1. Product key aktivoida uuden tilauksen, siirry [https://office.com/setupkey](https://office.com/setupkey) sivulla.
+1. Jos haluat aktivoida uuden Office 365-tila uksen Product Key-tunnuksen avulla [https://office.com/setupkey](https://office.com/setupkey), siirry osoitteeseen.
 
 2. Anna Office 365 -tuoteavain ja aktivoi tilaus seuraavien ohjeiden mukaisesti. Jos aktivoinnissa ilmenee ongelmia, tutustu [tuoteavaimeen liittyviin yleisiin virheisiin sekä niiden ratkaisuihin](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36736898"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768365"
 ---
 # <a name="become-an-admin"></a>Ryhdy ylläpitäjäksi
 
-Jos haluat olettaa tämän organisaation järjestelmänvalvojan roolin, sinun on otettava vuokralainen haltuunsa.
+Jotta voit ottaa organisaatiosi järjestelmänvalvojan roolin, sinun on otettava Office 365-vuokraaja haltuunsa.
   
 Noudata tämän oppaan ohjeita: [Tee järjestelmänvalvojan Haltuon Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

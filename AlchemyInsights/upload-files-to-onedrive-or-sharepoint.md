@@ -1,5 +1,5 @@
 ---
-title: Tiedostojen lataaminen OneDrive tai SharePoint
+title: Tiedostojen lataaminen OneDriveen tai SharePointiin
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532508"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769876"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Tiedostojen lataaminen OneDrive tai SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Tiedostojen lataaminen OneDriveen tai SharePointiin
 
-1. Siirry sijaintiin, johon haluat ladata tiedostoja web-selaimessa.
+1. Siirry Web-selaimessa sijaintiin, johon haluat ladata tiedostoja.
     
-2. Avaa Resurssienhallinta ja Etsi tiedostot, jonka haluat ladata.
+2. Avaa Resurssienhallinta ja Selaa tiedostoihin, jotka haluat ladata.
     
-3. Valitse tiedostot ja vetää ne OneDrive tai SharePoint-sijaintiin. Huomautus: Jos käytät Microsoft Edge, Mozilla FireFox tai Google Chrome, voit myös ladata kansio ja kaikki sen tiedostot.
+3. Valitse tiedostot ja vedä ne sijaintiin OneDrivessa tai SharePointissa. Huomautus: Jos käytät Microsoft Edge-, Mozilla FireFox-tai Google Chrome-selainta, voit myös ladata kansion ja kaikki sen tiedostot.
     
-> [!NOTE]
->  Voit ladata tiedostoja jopa 15 Gigatavua. > koko polku tiedoston (tiedostonimi mukaan lukien) ei voi olla enintään 400 merkkiä pitkä. Jos haluat ladata yli 100-tiedostot [OneDrive-synkronointi asiakas](https://go.microsoft.com/fwlink/?linkid=866427)>. 
+**Muistiinpanoja:**
+- Voit ladata enintään 15 gt:N kokoisia tiedostoja. 
+- Tiedoston koko polku (tiedosto nimi mukaan lukien) ei voi olla enempää kuin 400 merkkiä pitkä. 
+- Jos sinun on ladattava yli 100 tiedostoa, [Käytä OneDrive Sync Client-ohjelmaa](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

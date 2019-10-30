@@ -1,9 +1,8 @@
 ---
-title: Kysymys lisensseistä
+title: Kysyttävää lisensseistä
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666657"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768617"
 ---
-# <a name="questions-about-your-office-365-license"></a>Kysyttävää Office 365 käyttöoikeuden
+# <a name="questions-about-your-office-365-license"></a>Office 365-lisenssiä koskevat kysymykset
 
-Jos haluat tietää, kuinka monta olet ostanut käyttöoikeutta tai ylläpitosopimustapahtumia määritetään kuinka monta käyttöoikeutta:
+Jos haluat tietää, kuinka monta lisenssiä olet ostanut tai kuinka monta lisenssiä on määritetty tila uksesta:
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Etsi tilaus, jonka haluat tietää enemmän. Näet määrä maksat käyttöoikeuksia ja paljonko on määritettävä käytettävissä.
+2. Etsi tilaus, josta haluat tietää lisää. Voit tarkastella maksavien lisenssien määrää ja määrittää, kuinka monta on käytettävissä.
 
-Jos haluat lisätä enemmän käyttöoikeuksia tai jos olet liian monet, valitse **Lisää tai poista käyttöoikeudet** säätää ostettu.
+Jos haluat lisätä käyttö oikeuksia tai jos sinulla on liikaa, voit muuttaa ostettua summaa valitsemalla **Lisää tai poista käyttö oikeuksia** .
