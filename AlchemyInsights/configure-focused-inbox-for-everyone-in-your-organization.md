@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738410"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="fb160-102">Lajitellun Saapuneet-kansion ottaminen käyttöön tai poistaminen käytöstä kaikille</span><span class="sxs-lookup"><span data-stu-id="fb160-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="6988b-102">Lajitellun Saapuneet-kansion ottaminen käyttöön tai poistaminen käytöstä kaikille</span><span class="sxs-lookup"><span data-stu-id="6988b-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="fb160-103">Katso ohjeet kohdasta [Määritä keskitetty Saapuneet-kansio kaikille organisaatiosi käyttäjille](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="fb160-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="6988b-103">Katso ohjeet kohdasta [Määritä keskitetty Saapuneet-kansio kaikille organisaatiosi käyttäjille](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="6988b-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="fb160-104">**Huomautus**: Tämä toiminto vaatii Exchange Online PowerShellin.</span><span class="sxs-lookup"><span data-stu-id="fb160-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="fb160-105">Haluatko tehdä tämän sen sijaan Microsoft 365-hallinta keskuksessa?</span><span class="sxs-lookup"><span data-stu-id="fb160-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="fb160-106">Äänestä tässä.</span><span class="sxs-lookup"><span data-stu-id="fb160-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="6988b-104">**Huomautus**: Tämä toiminto vaatii Exchange Online PowerShellin.</span><span class="sxs-lookup"><span data-stu-id="6988b-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="6988b-105">Haluatko tehdä tämän sen sijaan Microsoft 365-hallinta keskuksessa?</span><span class="sxs-lookup"><span data-stu-id="6988b-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="6988b-106">Äänestä tässä.</span><span class="sxs-lookup"><span data-stu-id="6988b-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

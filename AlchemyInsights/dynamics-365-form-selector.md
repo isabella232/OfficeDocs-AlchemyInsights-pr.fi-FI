@@ -10,12 +10,12 @@ ms.custom:
 - "1469"
 - "6200014"
 ms.openlocfilehash: f74eb8d366b86878620ae6f038a09feb0128c32e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36528938"
 ---
-# <a name="dynamics-365-form-selector"></a><span data-ttu-id="8c31d-102">Dynamics 365-lomakkeen valitsin</span><span class="sxs-lookup"><span data-stu-id="8c31d-102">Dynamics 365 form selector</span></span>
+# <a name="dynamics-365-form-selector"></a><span data-ttu-id="1f15a-102">Dynamics 365-lomakkeen valitsin</span><span class="sxs-lookup"><span data-stu-id="1f15a-102">Dynamics 365 form selector</span></span>
 
-* [<span data-ttu-id="8c31d-103">Lomakkeen käytön valvonta-selitys</span><span class="sxs-lookup"><span data-stu-id="8c31d-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [<span data-ttu-id="1f15a-103">Lomakkeen käytön valvonta-selitys</span><span class="sxs-lookup"><span data-stu-id="1f15a-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
