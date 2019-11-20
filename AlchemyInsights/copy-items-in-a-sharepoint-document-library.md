@@ -1,5 +1,5 @@
 ---
-title: Kopioi kohteet SharePoint-tiedostokirjastoon
+title: Kohteiden kopioiminen SharePoint-asiakirja kirjastoon
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516354"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711789"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Kopioi kohteet SharePoint-tiedostokirjastoon
+# <a name="copy-items-in-a-sharepoint-document-library"></a>Kohteiden kopioiminen SharePoint-asiakirja kirjastoon
 
-1. Siirry web-selain, tiedostoja, kansioita tai linkkejä, jotka haluat kopioida, ja valitse sitten **Kopioi**.
-
-    > [!NOTE]
-    > **Kopioi** ei ole käytettävissä, jos käytät perinteistä kokemus SharePoint online.
-  
-2. **Valitse kohde**Valitse sijainti, johon haluat kopioida kohteita. Jos kopioimassa toisen sivuston tai alisivuston ja näe sitä luettelossa, valitsemalla **Selaa sivustoja** Nähdäksesi täydellisen luettelon sivustoista, jotka voit kopioida.
+1. Selaa selaimeen tiedostoja, kansioita tai linkkejä, jotka haluat kopioida, ja valitse sitten **Kopioi kohteeseen**.
 
     > [!NOTE]
-    > Jos et näe muiden sivustojen luettelossa, kun kopioit kohteita, kopioimalla sivustoissa ei ole vielä määritetty. Jos haluat ottaa käyttöön, siirry hallintakeskukseen SharePoint asetukset-sivulla ja valitse **OK**.
+    > **Kopiointi** ei ole käytettävissä, jos käytät perinteistä SharePoint Onlinen käyttö kokemusta.
   
-    Luo uusi kansio, kopioi tiedostot, valitse sijainti kansiohierarkia, **Uusi kansio**, kirjoita kansiolle nimi ja napsauttamalla valintamerkkiä Tallenna nimi.
+2. Valitse **Valitse kohde**-kohdasta sijainti, johon haluat kopioida nimikkeet. Jos kopioit toiseen sivustoon tai alisivustoon etkä näe sitä luettelossa, valitse **Selaa sivustoja** nähdäksesi täydellisen luettelon sivustoista, joihin voit kopioida.
 
-3. Valitse **Kopioi tähän**.
+    > [!NOTE]
+    > Jos muita sivustoja ei näy, kun kopioit kohteita, eri sivustoissa ei ole määritetty kopiointia. Voit ottaa sen käyttöön siirtymällä SharePointin hallinta keskuksen asetukset-sivulle ja valitsemalla **OK**.
+  
+    Jos haluat luoda uuden kansion tiedostojen kopioimista varten, valitse sijainti kansio hierarkiasta, valitse **Uusi kansio**, anna kansiolle nimi ja Tallenna nimi napsauttamalla valinta merkkiä.
+
+3. Klikkaa **Kopioi tähän**.
 
 > [!NOTE]
-> Enintään 500 Megatavua tiedostoja ja kansioita voi kopioida yhdellä kertaa. > kun käytät **Kopioi** asiakirjoissa, joissa on uusin versio versiohistoria kopioidaan.
+> Voit kopioida enintään 500 Mega tavua tiedostoja ja kansioita kerralla. > kun käytät **Kopioi** asia kirjoihin, joissa on versio historiaa, vain uusin versio kopioidaan.
   
+Lisätietoja on seuraavissa artikkeleissa:
+
+ - [Tiedostojen siirtäminen tai kopioiminen SharePointissa](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Officen tuki artikkeli)
+ - [Tiedostojen siirtäminen mistä tahansa Office 365-kansiosta](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog article)   
