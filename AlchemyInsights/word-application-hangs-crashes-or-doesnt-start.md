@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026943"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628167"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word kaatuu tai ei reagoi
 
@@ -31,7 +31,7 @@ Jos Word ei käynnisty, kokeile seuraavia:
 1.   Windowsin työpöydällä Sulje Outlook ja avaa Tehtävienhallinta painamalla CTRL + ALT + DEL. 
 2. Jos Word-prosessit ovat käynnissä, valitse **prosessit** -väli lehdestä ne ja valitse **Lopeta tehtävä**. On myös suositeltavaa, että käynnistät uudelleen tyhjentää kaiken muistista.
 
-    Jos Word kaatuu tai jumittuu käynnistyksen aikana, katso [Avaa Office-sovellukset vika sieto tilassa Windows-tieto koneessa](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) käynnistääksesi sen vika sieto tilassa.
+    Jos Word kaatuu tai jumittuu käynnistyksen aikana, katso [Avaa Office-sovellukset vika sieto tilassa Windows-tieto koneessa](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) käynnistääksesi sen vika sieto tilassa.
 
 Jos ongelmia ei vieläkään ole, Katso seuraavat artikkelit: 
 - [Saan "lakkasi toimimasta"-virheen, kun käynnistin Office-sovelluksia tieto koneella](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
