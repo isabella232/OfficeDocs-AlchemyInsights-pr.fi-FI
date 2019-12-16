@@ -1,7 +1,7 @@
 ---
-title: Uusi pidätys otsikot automaattisesti
-ms.author: stephow
-author: stephow-MSFT
+title: Uudet säilytys tarrat luodaan automaattisesti
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522176"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054663"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Uusi pidätys otsikot automaattisesti
+# <a name="new-retention-labels-created-automatically"></a>Uudet säilytys tarrat luodaan automaattisesti
 
-Näyttöön voi tulla [kolme uutta Office 365 pidätys otsikot](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) luodaan automaattisesti organisaatiosi suojaus- tai hallintakeskukseen **selitteitä pidätys** -kohdasta. Otsikoiden nimet ovat:
+Voit nähdä [kolme uutta Office 365-säilytys tarraa](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , jotka on luotu organisaatiossasi automaattisesti **säilytys merkintöjen** alla Security-tai Compliance-hallinta keskuksessa. Tarrojen nimet ovat seuraavat:
 
-- Operatiiviset toimet
-- Liiketoiminnan yleiset
+- Operatiivinen menettely
+- Ainetta Business General
 - Sopimus sopimus
 
-Näin tapahtuu ensimmäistä kertaa, voit valita **Tiedoston suunnitella** Jos ei ole muita pidätys osoitetarrojen luomista. Nämä otsikot luodaan automaattisesti, ja tarvittaessa voidaan poistaa jos niitä ei ole vielä otettu käyttöön sisältöön. Voit poistaa otsikot seuraavasti:
+Tämä tapahtuu, kun valitset **tiedosto suunnitelman** ensimmäisen kerran, jos muita säilytys tarroja ei ole luotu. Nämä tarrat luodaan automaattisesti, ja ne voidaan tarvittaessa poistaa, jos niitä ei ole vielä kohdistettu sisältöön. Tarrojen poistaminen:
 
-1. Valitse Suojaus- tai hallintakeskukseen **luokitukset** > **otsikoiden** > **pidätys** -välilehti.
+1. Valitse Suojaus-tai yhteensopivuus-hallinta keskuksessa **luokitusten** > **tunnisteiden** > **säilyttäminen** -väli lehti.
 
-1. Valitse säilytys otsikot, jotka haluat poistaa > **poistaa tarran** > **Kyllä** poistaa selitteen.
+1. Valitse säilytyksen etiketit, jotka haluat **poistaa >** > Poista etiketti**Kyllä** , jos haluat poistaa tunnisteen.
 
-Suunnitella Tiedostonhallinta voit hallita selitteitä pidätys ja käytännöt organisaation - Lisätietoja on yleistietoja [Tiedostonhallinta suunnitelma](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+File Plan Managerin avulla voit hallita organisaatiosi säilytys merkintöjä ja käytäntöjä-lisä tietoja on kohdassa [tiedosto suunnitelman hallinnan yleiskatsaus](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

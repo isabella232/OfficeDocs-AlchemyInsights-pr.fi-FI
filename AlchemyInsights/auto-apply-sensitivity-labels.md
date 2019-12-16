@@ -1,7 +1,7 @@
 ---
-title: Käytä herkkyys otsikot
-ms.author: stephow
-author: stephow-MSFT
+title: Herkkyys tunnisteiden automaattinen käyttäminen
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517388"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050306"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Käytä herkkyys otsikot
+# <a name="auto-apply-sensitivity-labels"></a>Herkkyys tunnisteiden automaattinen käyttäminen
 
-Herkkyys otsikot voidaan manuaalisesti kohdistaa sisältöä käyttäjät, tai voit määrittää ne kohdistetaan automaattisesti sisältöä.
+Herkkyys tarroja voidaan käyttää manuaalisesti käyttäjien sisältöön, tai voit määrittää, että niitä käytetään automaattisesti sisältöön.
 
-Herkkyys otsikoiden käyttöä automaattisesti poistaa opettaa käyttäjille miten luokitella sisällön ei tarvitse ja ei tarvitse ilmoittaa ne asetukset.
+Herkkyys merkintöjen automaattinen kohdistaminen poistaa tarpeen kouluttaa käyttäjiä siitä, miten luokitella sisältö ja tarve ilmoittaa heille käytäntö kokoonpanoista.
 
-Tarrat automaattisesti käyttöön seuraavat vaaditaan:
+Jos haluat käyttää tunnisteita automaattisesti, seuraavat tiedot ovat pakollisia:
 
-- Tietoja suojauksen P2 Azure tilaus
-- [Ladata ja asentaa tietojen suojaaminen Azure energiatehokkuusmerkintöjä Clientin yhtenäinen](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection P2-tilaus
+- [Lataa ja asenna Azure Information Protection Unified merkintä Client](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Olemme olet käsittelemässä alkuperäinen tuki, joka ei edellytä Azure tietojen suojaaminen energiatehokkuusmerkintöjä asiakas yhtenäinen tulevaisuudessa.
+Työskentelemme alkuperäisellä tuella, joka ei vaadi Azure Information Protection Unified merkintä asiakasta tulevaisuudessa.
 
-Tällä hetkellä vain Windows tukee yhtenäistä energiatehokkuusmerkintöjä asiakas.  Ominaisuutta ei tueta vielä Mac, iOS ja Android.
+Tällä hetkellä vain Windows tukee yhtenäistä merkintä asiakasta.  Ominaisuutta ei ole vielä tuettu Macissa, iOS:ssä ja Androidissa.
 
-Saat lisätietoja herkkyys ja käyttämällä niitä automaattisesti sisältöä:
+Lisä tietoja herkkyys merkinnöistä ja niiden soveltamisesta automaattisesti sisältöön on kohdassa:
 
-- [Yleiskatsaus herkkyys otsikot](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Käytä herkkyys otsikon sisältö automaattisesti](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Herkkyys merkintöjen yleiskuvaus](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Herkkyys merkinnän käyttäminen sisällössä automaattisesti](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

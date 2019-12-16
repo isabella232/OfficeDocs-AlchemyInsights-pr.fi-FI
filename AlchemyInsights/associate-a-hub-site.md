@@ -1,7 +1,7 @@
 ---
-title: Kytke keskitin sivusto
-ms.author: efrene
-author: efrene
+title: Liitä keskitin sivusto
+ms.author: pebaum
+author: pebaum
 ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: ec9b1a8541b1f54f93f38814a402d516788312c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff623699d54700c781d64fb4e0d5df0edb675a37
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517820"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050342"
 ---
-# <a name="associate-a-hub-site"></a>Kytke keskitin sivusto
+# <a name="associate-a-hub-site"></a>Liitä keskitin sivusto
 
-Liitä aiemmin luotuun sivustoon hub-sivustoon, toimi seuraavasti:
+Jos haluat liittää aiemmin luodun sivuston keskitin sivustoon, toimi seuraavasti:
   
-1. Sivuston Valitse **asetukset** (vaihde-kuvaketta oikeassa yläkulmassa) ja valitse sitten **sivuston tietoja**.
+1. Valitse sivustosi **Asetukset** (hammas ratas kuvake oikeassa yläkulmassa) ja valitse sitten **sivuston tiedot**.
 
-2. **Muokkaa sivustotiedot** -paneelin **sivuston Hub-liitäntä** -valikossa valitse pääsivusto, jonka haluat liittää sinut sivuston, ja valitse sitten **Tallenna**. Muuttaa sivuston ulkoasua vastaamaan pääsivusto ja yläreunassa näkyy keskitin sivustojen siirtymispalkkiin.
+2. Valitse **Muokkaa sivuston tietoja** -paneelissa **keskitin sivuston liitos** -valikosta keskitin sivusto, jonka haluat liittää sivustollesi, ja valitse sitten **Tallenna**. Sivustosi ulkoasu muuttuu vastaamaan Hub-sivustoa, ja keskitin sivuston siirtymis palkki tulee näkyviin yläosaan.
 
  > [!Note]
->Jos keskitin sivuston suhteen ei ole olemassa tai ei sivustot on lueteltu siellä hub-sivustoja ei voi ottaa käyttöön tai ehkä ei ole oikeutta liittää sivustoja pääsivusto. Saat lisätietoja järjestelmänvalvojalta.
+>Jos keskitin sivustokytkentä-vaihto ehtoa ei ole tai sivustoja ei ole luettelossa, keskitin sivustot eivät ehkä ole käytössä tai sinulla ei ole oikeuksia liittää sivustoja keskitin sivustoon. Kysy lisä tietoja järjestelmänvalvojalta.
 >
->Ei ole rajoitettu määrä sivustoja, jotka voidaan liittää keskitettyyn sivustoon.
+>Keskitin sivustoon liitettyä sivustojen määrää ei ole rajoitettu.
   
