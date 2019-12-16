@@ -1,36 +1,36 @@
 ---
-title: SharePoint Online-haun rakenteen hallinta
-ms.author: efrene
-author: efrene
+title: Hallitse haku rakennetta SharePoint Onlinessa
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502804"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042960"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>SharePoint Online-haun rakenteen hallinta
+# <a name="manage-search-schema-in-sharepoint-online"></a>Hallitse haku rakennetta SharePoint Onlinessa
 
-Haun rakenteeksi määrittää, mitä käyttäjät voivat etsiä ja miten käyttäjät voivat etsiä siitä miten pystyy esittämään tulokset Etsi WWW-sivustoista. 
+Haku rakenne ohjaa sitä, mitä käyttäjät voivat etsiä, miten käyttäjät voivat etsiä tietoja ja miten voit esittää tulokset haku sivustoilla. 
 
-[Hallitse SharePoint Online-haun rakenteeksi](https://docs.microsoft.com/sharepoint/manage-search-schema) , saat nähdä miten: 
-- Muuta haun rakenteeksi.
-- Hallittujen ominaisuuksien luominen
-- Tietokartan selattu selattuja ominaisuuksia hallittuihin ominaisuuksiin.
+Lisä tietoja on Ohje aiheessa [SharePoint Onlinen haku mallin hallinta](https://docs.microsoft.com/sharepoint/manage-search-schema) : 
+- Muuta etsintä rakennetta.
+- Luo hallitut ominaisuudet.
+- Map selatun kartan indeksi ominaisuudet hallitut ominaisuudet.
 
-Haun rakenteen hallinta tilaamassa seuraavat seikat:
+Huomaa seuraavat seikat, jotka koskevat haku mallin hallintaa:
 
-- Jos näyttöön tulee varoitus ilmoittaa **sovellus on keskeytetty** tehdessään rakenteen muuttaminen, tämä on vain tilapäinen palvelun ylläpito on esiintyvä. 
+- Jos saat varoituksen, jossa ilmoitetaan, **että sovellus on keskeytetty** , kun teet rakenteen muutoksen, tämä on vain väliaikaista, koska palvelun ylläpito tapahtuu. 
 
-    Jos kohtaat edelleen varoitus yli 24 tuntia on kulunut, kirjaudu tukipyynnön.
-- Kun muutat hallittuja ominaisuuksia tai lisätä uusia, muutokset tulevat voimaan vasta, kun on uudelleen selattu sisältö. SharePoint Online-indeksointi tapahtuu automaattisesti määritetyn indeksoinnin aikataulun mukaisesti.
-- Varmista, että muutokset selataan, erityisesti [pyyntöä indeksoidaan uudelleen luettelon tai kirjaston](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) voi 
+    Jos yli 24 tuntia on kulunut ja sinulla on edelleen varoitus, ole hyvä ja kirjaa tuki palvelu pyynnön.
+- Kun hallittuja ominaisuuksia muutetaan tai uusia lisätään, muutokset tulevat voimaan vasta, kun sisältö on indeksoitu uudelleen. SharePoint Onlinessa indeksoinnin tapahtuu automaattisesti määritetyn indeksointi aikataulun perusteella.
+- Jos haluat varmistaa, että tekemäsi muutokset indeksoidaan, voit pyytää erityisesti [luettelon tai kirjaston uudelleenindeksointia.](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Katso [Esittely haun rakenteen](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) yleiskatsaus haun rakenteeksi, 
+Täydellinen yleiskuva haku mallista on kohdassa [haku mallin esittely](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 
