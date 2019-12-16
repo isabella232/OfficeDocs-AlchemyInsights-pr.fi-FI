@@ -1,7 +1,7 @@
 ---
-title: 503 virheettömät rajoitin SharePoint migration
-ms.author: efrene
-author: efrene
+title: SharePoint-siirron rajoitus ja 503-virheet
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503596"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054050"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>503 virheettömät rajoitin SharePoint migration
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint-siirron rajoitus ja 503-virheet
 
-Se näkyy SharePoint online-tilaan siirtyminen ja 503 virheitä. Toimi seuraavasti, niin emme voi auttaa mahdollisimman pian. 
+Näyttää siltä, että olet siirtyssä SharePoint Onlineen ja vastaanotat 503-virheitä. Noudata alla olevia ohjeita, jotta autamme sinua mahdollisimman pian. 
 
-1. Napsauta **Ota yhteyttä tukeen**ja **pyytää uuden palvelun**.
-2. Otsikko ja kuvaus-kohtaan **SharePoint Migration rajoitin 503 kanssa**.
+1. Valitse **Ota yhteyttä tukeen**ja sitten **Uusi palvelu pyyntö**.
+2. Kirjoita otsikon ja kuva uksen kohdalle **SharePointin siirron rajoitin 503**.
 3. Kun lippu on lähetetty, päivitä se seuraavilla tiedoilla:
-    - Paljonko jää siirron (esimerkiksi kuinka monta TBs?).
-    - Aloita maahanmuutto- ja päättymispäivä.
-    - Kuvaa, jossa siirrettävä sisältö, kuten SharePoint-palvelimeen ruutuun, GDrive, jaettuja tiedostoresursseja, jne...
-    - Arvioida määrää rajoittava virheitä (esimerkiksi x kaasuvipu tunnissa?) ja kun ollut säätely tapahtuu.
-    - Mitä siirto työkalua, käytetään (esimerkiksi SPMT tai ShareGate).
+    - Kuinka paljon vasemmalle siirtymistä (esimerkiksi kuinka monta TBs?).
+    - Siirron alkamis-ja päättymis päivä.
+    - Kuvaile, minne olet siirsi sisältöäsi, kuten SharePoint Server, Box, GDrive, jaetut tiedosto resurssit jne.
+    - Arvioiko rajoitus virheiden määrä (esimerkiksi x-kiihdytys tunnissa?) ja milloin kuristus tapahtuu.
+    - Mitä siirto työkalua käytät (esimerkiksi SPMT tai ShareGate).
 
 
