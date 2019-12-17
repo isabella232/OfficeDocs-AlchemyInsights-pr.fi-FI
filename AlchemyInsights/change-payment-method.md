@@ -1,5 +1,5 @@
 ---
-title: Muuta maksutapaa
+title: Maksutavan muuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665337"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068275"
 ---
-# <a name="change-payment-method"></a>Muuta maksutapaa
+# <a name="change-payment-method"></a>Maksutavan muuttaminen
 
-Voit tarkistaa ja muuttaa maksutapaa, joka on määritetty Microsoft 365 hallintakeskukseen. Valitse tilaus, jonka haluat tarkistaa. **Laskutus**-kohdassa näkyy tilauksen, joka on määritetty maksutapa. 
+Voit tarkistaa ja muuttaa maksu tapaa, joka on määritetty Microsoft 365-hallinta keskuksessa. Valitse tilaus, jonka haluat tarkistaa. Tila ukseen määritetty maksu tapa näkyy kohdassa **laskutus**.
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Valitse tilaus, jonka haluat vaihtaa maksutavan maksutavan vieressä **Muokkaa**.
+2. Etsi tilaus, jonka maksu tapaa haluat muuttaa. Valitse maksu tavan vierestä **Muokkaa**.
 
-3. Viimeistele muutos ohjeiden mukaisesti.
+3. Viimeistele muutos noudattamalla näytön ohjeita.
 
-On käytössä vanha hallintakeskukseen? Vanhoja ohjeita tai lisätietoja Katso [Office 365 yrityksille maksutavan muuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Lisä tietoja on kohdassa [Office 365 for Businessin maksu tavan muuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
