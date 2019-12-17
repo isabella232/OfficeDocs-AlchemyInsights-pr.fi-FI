@@ -1,7 +1,7 @@
 ---
-title: OneDrive säilyttäminen ja poistaminen
-ms.author: efrene
-author: efrene
+title: OneDriven säilyttäminen ja poistaminen
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521564"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053330"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive säilyttäminen ja poistaminen
+# <a name="onedrive-retention-and-deletion"></a>OneDriven säilyttäminen ja poistaminen
 
-- Voit [palauttaa poistetut käyttäjät OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse. Ne ovat Roskakori 93 päivää. 
+- Voit [palauttaa poistetut käyttäjät OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse. Ne ovat roska koriin 93 päivää. 
 
-- Katso lisätietoja [tämän artikkelin](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) :
-    - Miten antamaan toisen käyttäjän poistetun käyttäjän OneDrive.
-    - Mitä tapahtuu käyttäjän OneDrive, kun poistat organisaation Office 365-tili.
-    - Miten voit määrittää automaattisen käytön delegointi.
-    - Miten OneDrive poistoprosessi toimii.
+- Lisä tietoja [on tässä artikkelissa](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) :
+    - Miten antaa toiselle käyttäjälle pääsyn poistetun käyttäjän OneDrive.
+    - Mitä tapahtuu käyttäjän OneDriveen, kun poistat käyttäjän Office 365-tilin organisaatiollesi.
+    - Automaattisen käytön delegoinnin määrittäminen.
+    - Miten OneDriven poisto prosessi toimii.
 
-- Security and Compliance Centeriin pidätys ja pidä kiinnostunut?:
-    - [Säilytyskäytännöt OneDrive ja SharePoint-sivustoja varten](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [OneDrive ja SharePoint-sivustojen eDiscovery pito](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Kiinnostaako turvallisuus ja Compliance Center säilyttäminen ja pidä?:
+    - [OneDrive-ja SharePoint-sivustojen säilytys käytännöt](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [eDiscovery pidä OneDrive-ja SharePoint-sivustoissa](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

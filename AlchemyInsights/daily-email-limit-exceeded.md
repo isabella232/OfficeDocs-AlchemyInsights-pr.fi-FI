@@ -1,9 +1,8 @@
 ---
-title: Päivittäinen sähköpostiviesti raja on ylitetty. Työnkulku on pysäytetty.
-ms.author: efrene
-author: efrene
+title: Päivittäinen Sähkö posti raja ylitetty. Työn kulku on keskeytetty.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514446"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053114"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Päivittäinen email raja ylitetty. Työnkulku on pysäytetty.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Päivittäinen Sähkö posti raja ylitetty. Työn kulku on keskeytetty.
 
-Tämä virhe voi vastaanottaa seuraavissa tilanteissa:
+Tämä virhe voidaan vastaanottaa seuraavissa tilanteissa:
 
-- On työnkulun SharePoint Online, joka käyttää SharePoint 2010 tai SharePoint 2013-työnkulun ympäristötyyppi.
-- Jos haluat lähettää mukautetun sähköpostiviestin käyttäjille yli 200 kertaa, yli 10 000 vastaanottajaa päivässä tai yli 30 minuutissa viestit työnkulku on määritetty.
-- Kun suoritat työnkulun, sähköpostiviestiä ei lähetetä ja huomata seuraavia ongelmia:
-    - Työnkulun SharePoint-2013 ympäristö-tyyppiä käyttäen selaamalla **Työnkulun tila** -sivun. Työnkulun tila-sivun **Sisäinen tila** määritetään **Aloitettu**ja näyttää tiedot ilmoitusta **ei voi lähettää vastaanottajalle**.
+- Sinulla on SharePoint Onlinen työn kulku, joka käyttää SharePoint 2010-tai SharePoint 2013-työn kulku ympäristön tyyppiä.
+- Työn kulku on määritetty lähettämään mukautettu Sähkö posti viesti yli 200 käyttäjälle kerrallaan, yli 10 000 vastaanottajaa päivässä tai yli 30 viestiä minuutissa.
+- Kun suoritat työn kulun, sähkö posti viestiä ei lähetetä ja huomaat seuraavan ongelman:
+    - Jos työn kulku käyttää SharePoint 2013-ympäristö tyyppiä, selaat **työn kulun tila** -sivua. Työn kulun tila-sivulla **sisäinen tila** on määritetty **aloiksi**ja tiedot-selite **ei voi lähettää vastaanottajalle**.
 
-Voit kiertää tämän ongelman, Määritä työnkulun lähettämään sähköpostiviestejä [Exchange Onlinen lähettäjän rajoja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)ylittämättä. Esimerkiksi käyttää työnkulun tauon, Lähetä sähköposti Office 365-ryhmän jakeluryhmä tai suojausryhmä sähköpostin käytössä tai lähettää viestin alle 200 vastaanottajalle kerrallaan.
+Voit kiertää tämän ongelman määrittämällä työn kulun lähettämään Sähkö posti viestejä ylittämättä [Exchange Online-lähettäjän rajoja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Voit esimerkiksi käyttää keskeytystä työn kulussa, lähettää sähkö posti viestin Office 365-ryhmään, jakelu ryhmään tai sähkö posti käytössä olevaan suojaus ryhmään tai lähettää sanoman alle 200 vastaanottajalle kerrallaan.
 
 
-Lisätietoja on seuraavassa [artikkelissa](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
+Lisä tietoja on seuraavassa [artikkelissa](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Aiheeseen liittyvät artikkelit
-- [Luo työnkulku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint- ja](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Luo työn kulku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ja Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

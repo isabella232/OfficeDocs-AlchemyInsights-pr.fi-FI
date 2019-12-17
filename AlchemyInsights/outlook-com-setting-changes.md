@@ -1,7 +1,7 @@
 ---
 title: Outlook.com asetukset
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386362"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053258"
 ---
 # <a name="settings-in-outlookcom"></a>Asetukset Outlook.com
 
-Jos vastaanottaja on organisaatiosi sisäinen tai ulkoinen ja jos hän käyttää Office 365-tai Outlook.com-Sähkö posti tiliä, seuraavien asiakkaiden ei tarvitse tehdä mitään erityistä viestin avaamiseen: **outlook 2016, Outlook Webissä/Outlook Web Appissa, Outlook-mobiilisovellus**
+Jos vastaanottaja on organisaatiosi sisäinen tai ulkoinen ja jos hän käyttää Office 365-tai Outlook.com-Sähkö posti tiliä, seuraavien asiakkaiden ei tarvitse tehdä mitään erityistä viestin avaamiseen: **outlook 2016, Outlook Webissä/Outlook Web Appissa, Outlook Mobile App**
 
 Suojattuja viestejä ei voi avata sellaisten käyttäjien **edustajien** toimesta, joille suojattu Sähkö posti lähetettiin. Vain alkuperäiset vastaanottajat (henkilö, jolla suojattu Sähkö posti lähetettiin) voivat tarkastella Sähkö posti viestin tietoja.
 

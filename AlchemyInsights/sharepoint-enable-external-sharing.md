@@ -1,23 +1,23 @@
 ---
 title: Ulkoisen jakamisen ottaminen käyttöön SharePoint Onlinessa
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744422"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051674"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ulkoisen jakamisen ottaminen käyttöön SharePoint Onlinessa
 
-Jos organisaatiosi suorittaa työn, johon liittyy tiedostojen jakaminen tai yhteistyö suoraan toimittajien, asiakkaiden tai asiakkaiden kanssa, voit jakaa sisältöä [SharePoint Onlinen ulkoisten jakamis ominaisuuksien](https://docs.microsoft.com/sharepoint/external-sharing-overview) avulla Organisaatio.
+Jos organisaatiosi suorittaa työn, johon liittyy tiedostojen jakaminen tai yhteistyö suoraan toimittajien, asiakkaiden tai asiakkaiden kanssa, voit jakaa sisältöä organisaatiosi ulkopuolisten henkilöiden kanssa käyttämällä [SharePoint Onlinen ulkoisia jakamis ominaisuuksia](https://docs.microsoft.com/sharepoint/external-sharing-overview) .
 
 Lisä tietoja ulkoisesta jakamisesta (vieraat) saat käymällä alla olevissa linkeissä.
 

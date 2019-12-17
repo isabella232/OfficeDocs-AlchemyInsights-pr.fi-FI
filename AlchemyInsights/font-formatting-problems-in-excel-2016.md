@@ -1,7 +1,7 @@
 ---
-title: Fontin muotoilu ongelmia Excel-2016
-ms.author: dludwig
-author: dludwig
+title: Fontin muotoilu ongelmia Excel 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524624"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051962"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Fontin muotoilu jättämisen aiheuttamista ongelmista Excelissä
+# <a name="font-formatting-problems-in-excel"></a>Fonttien muotoilu ongelmat Excelissä
 
-Excel-2016-fontin muotoilu ei ehkä näy oikein soluun. Näin voi käydä, jos solu sisältää enemmän kuin yhden fontin muotoilu laji. Jos esimerkiksi jotkin merkit ovat Lihavoidut, ja toisia ei Lihavoidut, näkyvät lihavoituna muodossa ei ehkä näy. Tai jos sinulla on erilaisia värillisiä merkkejä samaan soluun, et välttämättä näy oikein värit. Meidän engineering ‑ryhmä on tietoinen tästä ongelmasta ja työskentelee parhaillaan korjausta. Sillä välin Kokeile eri fonttia. Tai yritä välttää käyttämällä useita erilaisia kunnes tämä ongelma on korjattu saman solun muotoilun.
+Excel 2016-ohjelmassa fontin muotoilu ei ehkä näy oikein solussa. Näin voi tapahtua, jos solussa on enemmän kuin yksi fontti muotoilu. Jos esimerkiksi jotkin merkit on lihavoitu ja toisia ei ole lihavoitu, näyttöön ei ehkä tule liha voinnin muotoa. Jos samassa solussa on eri värillisiä merkkejä, värit eivät välttämättä näy oikein. Meidän insinööri tiimimme on tietoinen tästä ongelmasta ja työskentelee parhaillaan korjausta. Yritä sillä välin käyttää toista fonttia. Tai yritä välttää käyttämästä useita erilaisia muotoiluja samassa solussa, kunnes tämä ongelma on korjattu.
   

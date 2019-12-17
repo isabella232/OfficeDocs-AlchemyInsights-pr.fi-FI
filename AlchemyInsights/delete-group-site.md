@@ -1,7 +1,7 @@
 ---
-title: Poista ryhmä-sivusto
-ms.author: kaarins
-author: kaarins
+title: Poista ryhmän sivusto
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513716"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053042"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Poista SharePoint-sivustoa, Office 365-ryhmään kuuluu
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Office 365-ryhmään kuuluvan SharePoint-sivuston poistaminen
 
-Yleiset valvojat ja SharePoint-järjestelmänvalvojat voit nyt poistaa Office 365-ryhmään kuuluvia sivustoja. Näiden sivustojen poistaminen Poista ryhmä ja kaikki sen resursseja, Outlook-postilaatikon kalenteri ja ryhmien kaikki kanavat.
+Yleiset järjestelmänvalvojat ja SharePointin ylläpitäjät voivat nyt poistaa sivustoja, jotka kuuluvat Office 365-ryhmään. Näiden sivustojen poistaminen poistaa ryhmän ja kaikki sen resurssit, kuten Outlookin posti laatikon ja kalenterin sekä kaikki teams-kanavat.
   
 Tärkeää:
 
-- Voit palauttaa poistetun sivustot 93 päivää. Saat lisätietoja tarkastella ja palauttaa poistettuja sivustot. Huomautus poistetaan ryhmiä on palautettava 30 päivän kuluessa.
-- Jos säilytyskäytäntö sivusto kuuluu, ei voi yrittää poistaa sen, ennen kuin sivusto poistetaan [Security &amp; Admin Compliance Centerin](https://protection.office.com/?rfr=AdminCenter#/retention). Saat lisätietoja [Yleistä säilytyskäytäntöjä](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Voit palauttaa poistetut sivustot 93 päivää. Lisä tietoja on kohdassa poistettujen sivustojen tarkasteleminen ja palauttaminen. Huomaa, että poistetut ryhmät on palautettava 30 päivän kuluessa.
+- Jos sivusto on osa säilytys käytäntöä, et välttämättä voi poistaa sitä, ennen kuin sivusto poistetaan [tieto turvan &amp; yhteensopivuuden hallinta keskuksesta](https://protection.office.com/?rfr=AdminCenter#/retention). Lisä tietoja on kohdassa [Yleiskatsaus säilytys käytännöistä](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
   
-[Näytä ja palauttaminen poistaa hallintakeskukseen uuden SharePoint-sivustoja](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)Valitse **sivustoja**. Valitse sivusto, joka on poistettu ja palauttaminen tai poistaminen (joka poistaa pysyvästi sivuston). Voit poistaa aktiivisen-sivuston, valitse **aktiiviset** sivustot, sivusto ja valitse **Poista**. Lisätietoja Katso [hallintakeskukseen uuden SharePoint-sivustojen hallinta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+[Jos haluat tarkastella ja palauttaa poistettuja sivustoja uudessa SharePointin hallinta keskuksessa](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), valitse **Poistetut sivustot**. Valitse poistettava sivusto ja valitse joko Palauta tai Poista (jolloin sivusto poistetaan pysyvästi). Jos haluat poistaa aktiivisen sivuston, valitse **Aktiiviset** sivustot, valitse sivusto ja valitse **Poista**. Lisä tietoja on kohdassa [sivustojen hallinta uudessa SharePointin hallinta keskuksessa](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
