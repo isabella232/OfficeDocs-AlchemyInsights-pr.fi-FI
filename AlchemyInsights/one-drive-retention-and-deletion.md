@@ -1,7 +1,7 @@
 ---
-title: OneDrive säilyttäminen ja poistaminen
-ms.author: efrene
-author: efrene
+title: OneDriven säilyttäminen ja poistaminen
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521564"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053330"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="c9396-102">OneDrive säilyttäminen ja poistaminen</span><span class="sxs-lookup"><span data-stu-id="c9396-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="9a7e0-102">OneDriven säilyttäminen ja poistaminen</span><span class="sxs-lookup"><span data-stu-id="9a7e0-102">OneDrive retention and deletion</span></span>
 
-- <span data-ttu-id="c9396-103">Voit [palauttaa poistetut käyttäjät OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse.</span><span class="sxs-lookup"><span data-stu-id="c9396-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="c9396-104">Ne ovat Roskakori 93 päivää.</span><span class="sxs-lookup"><span data-stu-id="c9396-104">They are in recycle bin for 93 Days.</span></span> 
+- <span data-ttu-id="9a7e0-103">Voit [palauttaa poistetut käyttäjät OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse.</span><span class="sxs-lookup"><span data-stu-id="9a7e0-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="9a7e0-104">Ne ovat roska koriin 93 päivää.</span><span class="sxs-lookup"><span data-stu-id="9a7e0-104">They are in recycle bin for 93 Days.</span></span> 
 
-- <span data-ttu-id="c9396-105">Katso lisätietoja [tämän artikkelin](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) :</span><span class="sxs-lookup"><span data-stu-id="c9396-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
-    - <span data-ttu-id="c9396-106">Miten antamaan toisen käyttäjän poistetun käyttäjän OneDrive.</span><span class="sxs-lookup"><span data-stu-id="c9396-106">How to give another user access to a deleted user's OneDrive.</span></span>
-    - <span data-ttu-id="c9396-107">Mitä tapahtuu käyttäjän OneDrive, kun poistat organisaation Office 365-tili.</span><span class="sxs-lookup"><span data-stu-id="c9396-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
-    - <span data-ttu-id="c9396-108">Miten voit määrittää automaattisen käytön delegointi.</span><span class="sxs-lookup"><span data-stu-id="c9396-108">How to configure automatic access delegation.</span></span>
-    - <span data-ttu-id="c9396-109">Miten OneDrive poistoprosessi toimii.</span><span class="sxs-lookup"><span data-stu-id="c9396-109">How OneDrive deletion process works.</span></span>
+- <span data-ttu-id="9a7e0-105">Lisä tietoja [on tässä artikkelissa](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) :</span><span class="sxs-lookup"><span data-stu-id="9a7e0-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="9a7e0-106">Miten antaa toiselle käyttäjälle pääsyn poistetun käyttäjän OneDrive.</span><span class="sxs-lookup"><span data-stu-id="9a7e0-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="9a7e0-107">Mitä tapahtuu käyttäjän OneDriveen, kun poistat käyttäjän Office 365-tilin organisaatiollesi.</span><span class="sxs-lookup"><span data-stu-id="9a7e0-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="9a7e0-108">Automaattisen käytön delegoinnin määrittäminen.</span><span class="sxs-lookup"><span data-stu-id="9a7e0-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="9a7e0-109">Miten OneDriven poisto prosessi toimii.</span><span class="sxs-lookup"><span data-stu-id="9a7e0-109">How OneDrive deletion process works.</span></span>
 
-- <span data-ttu-id="c9396-110">Security and Compliance Centeriin pidätys ja pidä kiinnostunut?:</span><span class="sxs-lookup"><span data-stu-id="c9396-110">Interested in Security and Compliance Center retention and hold?:</span></span>
-    - [<span data-ttu-id="c9396-111">Säilytyskäytännöt OneDrive ja SharePoint-sivustoja varten</span><span class="sxs-lookup"><span data-stu-id="c9396-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [<span data-ttu-id="c9396-112">OneDrive ja SharePoint-sivustojen eDiscovery pito</span><span class="sxs-lookup"><span data-stu-id="c9396-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- <span data-ttu-id="9a7e0-110">Kiinnostaako turvallisuus ja Compliance Center säilyttäminen ja pidä?:</span><span class="sxs-lookup"><span data-stu-id="9a7e0-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="9a7e0-111">OneDrive-ja SharePoint-sivustojen säilytys käytännöt</span><span class="sxs-lookup"><span data-stu-id="9a7e0-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="9a7e0-112">eDiscovery pidä OneDrive-ja SharePoint-sivustoissa</span><span class="sxs-lookup"><span data-stu-id="9a7e0-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
