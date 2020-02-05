@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049406"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771140"
 ---
 # <a name="why-cant-i-edit-files"></a>Miksi tiedostoja ei voi muokata?
 
-Jos asia kirja, laskenta taulukko tai esitys on lukittu muokkausta varten eikä sitä voi avata Windowsin työpöytä sovelluksissa, voi olla, että joku muu on jo muokannut tiedostoa tai että tiedosto on kuitattu ulos. Katsotaanpa nopeasti joitakin syitä [, miksi et ehkä voi muokata tiedostoa](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Tutustu nopeasti joihinkin syihin, [miksi et ehkä voi muokata tiedostoa](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Jos sinulla on kirjastoja, joissa on **kassalle, pakollinen** tai **kelpoisuus tarkistus** sarakkeet tai metatiedot, tai kun **luonnos kohteen suojaus** on asetettu joko **vain käyttäjille, jotka voivat muokata** tai **vain käyttäjät, jotka voivat hyväksyä kohteita** kirjaston versio asetuksista:
 

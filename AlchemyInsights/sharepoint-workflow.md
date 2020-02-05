@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050918"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770456"
 ---
 # <a name="workflows-in-sharepoint"></a>Työn kulut SharePointissa
 
-SharePoint-työn kulut ovat valmiiksi ohjelmoituja mini-sovelluksia, jotka virtaviivaistavat ja automatisoivat erilaisia liiketoiminta prosesseja. Työn kulut vaihtelevat suunnitelman tai asia kirjan allekirjoitusten, palautteen tai hyväksyntöjen keräämiseksi rutiini menettelyn nykyisen tilan seuraamista varten.
+SharePoint-työn kulut ovat valmiiksi ohjelmoituja sovelluksia, jotka virtaviivaistavat erilaisia liiketoiminta prosesseja. Katso lisä tietoja alla olevasta linkeistä.
 
-Aloittaminen **:** Jos olet juuri aloittamassa SharePoint-työn kulkuja, katso [lisä tietoja kohdasta SharePoint-työn kulkujen esittely](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Käytön aloittaminen
 
-**Microsoft Flow**: Harkitse Microsoft Flow'n käyttämistä perinteisen SharePoint-työn kulku ratkaisujen asemesta. Lisä tietoja on Ohje aiheessa [luettelon tai kirjaston työn kulun luominen SharePoint Online-tai OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01) -palvelussa
+Jos olet juuri aloittamassa SharePoint-työn kulkuja, katso [esittely SharePoint-työn kulkuihin](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Työn kulun vian määritys ja virheen korjaus**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>SharePoint-työn kulun vian määritys ja virheen korjaus
 
-Virheen korjauksen työn kulut muistuttavat aiempia versioita. Lisä tietoja on kohdassa [SharePoint-työn kulkujen virheen korjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Lisä tietoja vian määrityksestä on kohdassa [SharePoint Serverin työn kulun tarkistuksen virheiden vian määritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Katso [SharePoint-työn kulun tarkistus virheiden vian määritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ja [SharePoint-työn kulkujen virheen korjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
+## <a name="power-automate"></a>Power automatisoi
+
+Harkitse [Power automatisoida](https://docs.microsoft.com/power-automate/modern-approvals) -järjestelmän käyttämistä perinteisen SharePoint-työn kulun ratkaisujen sijasta.

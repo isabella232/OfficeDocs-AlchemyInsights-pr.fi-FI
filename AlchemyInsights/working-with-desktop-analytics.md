@@ -1,5 +1,5 @@
 ---
-title: Miten työpöytä Analytics-tilin sulkeminen
+title: Työpöydän Analytics-tilin sulkeminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800316"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771104"
 ---
-# <a name="working-with-desktop-analytics"></a>Analytics työpöydän käyttäminen
+# <a name="working-with-desktop-analytics"></a>Työpöytä analytiikan käsitteleminen
 
-Ilmeisesti pyydät tietoja Analytics työpöydälle. Emme ehkä pysty auttamaan tarkempi vastaus Jos Muotoile kysymys.
+Näyttää siltä, että kysyt Työpöytä analytiikkaa. Saatamme pystyä auttamaan tarkempaa vastausta, jos muotoilla kysymykseesi.
 
-- [Mikä on työpöydän Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Desktop-Analytics ohjeet](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Usein kysyttyjä kysymyksiä](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Työpöydän Analytics liittyviä ongelmia](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Mikä on Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Työpöytä analytiikan määrittäminen](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Usein kysyttyjä kysymyksiä](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Työpöytä analytiikkaan liittyviä ongelmia](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051530"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771176"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Onlinen yhteiset ongelmat ja ratkaisut
 
 Seuraavassa on joitakin usein kysyttyjä SharePoint Online-ongelmien aiheita:
+
+- **Aloittaminen: Luo**SharePoint- [ulkoasun](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) avulla kaunis, tehokas intranet, joka yhdistää työpaikan. Katso [esimerkkejä](https://lookbook.microsoft.com/) ja Hanki [suunnittelu ohjeita](https://spdesign.azurewebsites.net/). Katso SharePoint Onlinen yleisesittely kohdasta [johdanto SharePointiin verkossa](https://docs.microsoft.com/sharepoint/introduction) .
 
 - **Käyttö**oikeudet: [Muodosta käyttö oikeus strategia](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ja [ymmärrä käyttö oikeus tasot](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Seuraavassa on joitakin usein kysyttyjä SharePoint Online-ongelmien aiheita:
 
 - **Nykyaikaistaa SharePoint**: Tarkista [opas modernin SharePoint-kokemuksen](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ja [modernisoi klassiset SharePoint-sivustot](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) aloittaa siirron.
 
-- **Aloittaminen: Opi** [, miten pääset alkuun SharePoint Onlinen kanssa](https://docs.microsoft.com/sharepoint/introduction) sivuston hallinta strategioilla.
+**Huom:** Jos haluat täsmällisen vasta uksen SharePoint-ongelmaan, Muotoile kysymyksesi lyhyesti ja Sisällytä siihen Kaikki näkemäsi virheet tai käyttämäsi ominaisuudet.

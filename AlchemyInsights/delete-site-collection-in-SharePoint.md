@@ -1,5 +1,5 @@
 ---
-title: Poista sivustokokoelma SharePointista
+title: Sivuston poistaminen
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053006"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770384"
 ---
-# <a name="delete-a-site-collection"></a>Sivustokokoelman poistaminen
+# <a name="delete-a-site"></a>Sivuston poistaminen
 
-Kun poistat sivuston (aiemmin nimellä "sivustokokoelman") globaalina tai SharePointin järjestelmänvalvojana Office 365-tieto koneessa, se siirretään sivustokokoelman roska koriin ja säilytetään 93 päivää. 
+Kun poistat sivuston, se siirretään [poistettuihin sivustoihin](https://admin.microsoft.com/sharepoint) ja säilytetään 93 päivää. Voit poistaa sivuston siirtymällä [Aktiiviset sivustot](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)-kohtaan. 
 
 Kun poistat sivuston, kaikki sen sisällä poistetaan mukaan lukien:
 
@@ -26,6 +26,6 @@ Kun poistat sivuston, kaikki sen sisällä poistetaan mukaan lukien:
 - Sivuston asetukset ja historia.
 - Kaikki alisivustot ja niiden sisällöt.
 
-Ilmoita sivuston ylläpitäjille ja alisivuston omistajille ennen sivuston poistamista, jotta he voivat siirtää tietonsa toiseen sijaintiin, ja kertoa käyttäjille myös, milloin sivustot poistetaan. 
+Ilmoita sivuston ylläpitäjille ja mille tahansa alisivuston omistajille ennen sivuston poistamista, jotta he voivat siirtää tietonsa toiseen sijaintiin, ja kertoa käyttäjille myös, milloin sivustot poistetaan.
 
-Lisä tietoja [on kohdassa sivustokokoelman poistaminen](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Lisä tietoja [on kohdassa sivuston poistaminen](https://docs.microsoft.com/sharepoint/delete-site-collection).

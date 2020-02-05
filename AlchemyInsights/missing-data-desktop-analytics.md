@@ -1,5 +1,5 @@
 ---
-title: Soveltuvuuden arvioinnissa ei voi luoda.
+title: Yhteensopivuus arviointia ei voi luoda
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800322"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771068"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Soveltuvuuden arvioinnissa ei voi luoda.
+# <a name="cant-create-a-compatibility-assessment"></a>Yhteensopivuus arviointia ei voi luoda
 
-Kokoonpanon hallinta on määritetty laite, mutta työpöydän Analytics voi luoda soveltuvuuden arvioinnissa. Se ei ole valmis sitä laitteen kokoonpanon (laskenta) tai asentaa apps (varasto).
+Microsoft Endpoint Configuration Manager määritsi laitteen onnistuneesti, mutta Desktop Analytics ei voi luoda yhteensopivuus arviointia. Sillä ei ole täydellistä tieto joukkoa laitteen konfigurointiin (Census) tai asennettuja sovelluksia (inventaario).
 
-Tämä ongelma on usein korjattu automaattisesti kun laite yrittää suorittaa uudelleen. Jos se toistuu, varmista, että laite voi muodostaa yhteyden palveluun. Lisätietoja [päätepisteiden](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) ja [Puuttuvat tiedot](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Tämä ongelma on usein korjattu automaattisesti, kun laite yrittää uudelleen. Jos se jatkuu, varmista, että laite voi kommunikoida palvelun kanssa. Lisä tietoja on kohdassa [Pääte Pisteet](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) ja [puuttuvat tiedot](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
