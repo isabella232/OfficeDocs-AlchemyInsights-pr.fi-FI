@@ -1,5 +1,5 @@
 ---
-title: Noudata SharePoint-sivustoa tai seuraa sitä
+title: SharePoint-sivuston seuraaminen tai sen seuraamisen purkaminen
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611694"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855548"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Noudata SharePoint-sivustoa tai seuraa sitä
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint-sivuston seuraaminen tai sen seuraamisen purkaminen
 
-On useita tapoja etsiä ja seurata sivustoja, uutisia ja sisältöä, jotka kiinnostavat sinua SharePointissa. Näin voit löytää tiedot helposti luettelossasi ja antaa sinun nähdä aktiviteetin SharePointista.
+Jos käyttäjillä on ongelmia Seuraavien tai seuraavien SharePoint-resurssien kanssa, toimi seuraavasti:
 
-Katso video [löytääksesi ja seurataksesi sivustoja ja uutisia](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Jos et pysty seuraamaan sivustoa, uutisia tai sisältöä ja tuntemaan, että tulokset eivät ole odotettuja, katso jos ongelma liittyy yksittäiseen käyttäjään tai kaikkiin organisaatiosi käyttäjiin. Jos kaikki käyttäjät kohtaavat ongelman, tilapäispalvelu-ongelma saattaa olla.
-
-Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiossasi vaikutusta.
+* Pyydä käyttäjää kirjautumaan ulos ja kirjautumaan takaisin SharePointiin ja kokeile samoja ohjeita SharePoint-resurssin seuraamiseksi tai seuraamisen seuraamiseksi.
+* Selvitä, liittyykö ongelma tiettyyn sivustoon vai kaikkiin sivustoihin. Jos ongelma ilmenee tiettyjen sivustojen kanssa, varmista, että Sivuston seuraava sisältö -toiminto on aktiivinen sivuston **sivuston asetuksissa > Sivuston ominaisuuksien hallinta > Sisällön seuraaminen**. Jos ominaisuuden arvo on Aktiivinen, yritä poistaa sivuston ominaisuus käytöstä ja aktivoida se uudelleen.
+* Pyydä käyttäjää kokeilemaan toista Internet-selainta ja tarkistamaan, liittyykö ongelma käyttäjän selaimeen.
+* Jos kaikilla käyttäjillä ja kaikilla sivustoilla on sama ongelma, tarkista [Palvelun kunnon hallintapaneelista,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vaikuttaako organisaatiosi.
