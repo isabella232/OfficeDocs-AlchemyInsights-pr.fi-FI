@@ -1,5 +1,5 @@
 ---
-title: Noudata SharePoint-sivustoa tai seuraa sitä
+title: SharePoint-sivuston seuraaminen tai sen seuraamisen purkaminen
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611694"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855548"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="f7a0f-102">Noudata SharePoint-sivustoa tai seuraa sitä</span><span class="sxs-lookup"><span data-stu-id="f7a0f-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="a5f65-102">SharePoint-sivuston seuraaminen tai sen seuraamisen purkaminen</span><span class="sxs-lookup"><span data-stu-id="a5f65-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="f7a0f-103">On useita tapoja etsiä ja seurata sivustoja, uutisia ja sisältöä, jotka kiinnostavat sinua SharePointissa.</span><span class="sxs-lookup"><span data-stu-id="f7a0f-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="f7a0f-104">Näin voit löytää tiedot helposti luettelossasi ja antaa sinun nähdä aktiviteetin SharePointista.</span><span class="sxs-lookup"><span data-stu-id="f7a0f-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="a5f65-103">Jos käyttäjillä on ongelmia Seuraavien tai seuraavien SharePoint-resurssien kanssa, toimi seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="a5f65-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="f7a0f-105">Katso video [löytääksesi ja seurataksesi sivustoja ja uutisia](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="f7a0f-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="f7a0f-106">Jos et pysty seuraamaan sivustoa, uutisia tai sisältöä ja tuntemaan, että tulokset eivät ole odotettuja, katso jos ongelma liittyy yksittäiseen käyttäjään tai kaikkiin organisaatiosi käyttäjiin.</span><span class="sxs-lookup"><span data-stu-id="f7a0f-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="f7a0f-107">Jos kaikki käyttäjät kohtaavat ongelman, tilapäispalvelu-ongelma saattaa olla.</span><span class="sxs-lookup"><span data-stu-id="f7a0f-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="f7a0f-108">Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiossasi vaikutusta.</span><span class="sxs-lookup"><span data-stu-id="f7a0f-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="a5f65-104">Pyydä käyttäjää kirjautumaan ulos ja kirjautumaan takaisin SharePointiin ja kokeile samoja ohjeita SharePoint-resurssin seuraamiseksi tai seuraamisen seuraamiseksi.</span><span class="sxs-lookup"><span data-stu-id="a5f65-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="a5f65-105">Selvitä, liittyykö ongelma tiettyyn sivustoon vai kaikkiin sivustoihin.</span><span class="sxs-lookup"><span data-stu-id="a5f65-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="a5f65-106">Jos ongelma ilmenee tiettyjen sivustojen kanssa, varmista, että Sivuston seuraava sisältö -toiminto on aktiivinen sivuston **sivuston asetuksissa > Sivuston ominaisuuksien hallinta > Sisällön seuraaminen**.</span><span class="sxs-lookup"><span data-stu-id="a5f65-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="a5f65-107">Jos ominaisuuden arvo on Aktiivinen, yritä poistaa sivuston ominaisuus käytöstä ja aktivoida se uudelleen.</span><span class="sxs-lookup"><span data-stu-id="a5f65-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="a5f65-108">Pyydä käyttäjää kokeilemaan toista Internet-selainta ja tarkistamaan, liittyykö ongelma käyttäjän selaimeen.</span><span class="sxs-lookup"><span data-stu-id="a5f65-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="a5f65-109">Jos kaikilla käyttäjillä ja kaikilla sivustoilla on sama ongelma, tarkista [Palvelun kunnon hallintapaneelista,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vaikuttaako organisaatiosi.</span><span class="sxs-lookup"><span data-stu-id="a5f65-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
