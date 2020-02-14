@@ -1,5 +1,5 @@
 ---
-title: Pyydä järjestelmänvalvojaa ota Microsoft teams käyttöön
+title: Pyydä järjestelmänvalvojaa ottamaan Käyttöön Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328773"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962294"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Et ole kadonnut! Pyydä järjestelmänvalvojaa ota Microsoft teams käyttöön
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jäät paitsi! Pyydä järjestelmänvalvojaa ottamaan Käyttöön Microsoft Teams
 
-Ketkä ovat tiede kuntaa ja henkilöstöä, jotka voivat käyttää tiimejä, mutta oppilaat eivät voi tai ovat F1-lisensoituja käyttäjiä, jotka eivät pysty käyttämään tiimejä?
+Voivatko tiedekunta ja henkilökunta käyttää Teamsia, mutta opiskelijat eivät voi tai eivät voi käyttää F1-lisensoituja käyttäjiäsi?
 
-Tiimit on otettava nimenomaisesti käyttöön opiskelijoille ja F1-lisensseille. Katso ohjeet kohdasta [Office 365 opiskelija-ja palvelu tilit, jotka eivät voi kirja utua Microsoft Teamsiin](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in). 
-
-Saat lisä tietoja siitä, miten voit ottaa tiimisi joukkueet käyttöön [koulutus ryhmien konfiguroiminen](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+Tiimien on oltava nimenomaisesti käytössä opiskelijoille ja F1-lisensseille. Tarkempia ohjeita teamsin ottamisesta käyttöön koulussasi on [Määritä teams for Education -kohdassa](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
