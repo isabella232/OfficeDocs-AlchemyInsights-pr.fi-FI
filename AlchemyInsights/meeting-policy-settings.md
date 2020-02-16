@@ -1,5 +1,5 @@
 ---
-title: Koko uksen käytäntö asetukset
+title: Kokouskäytännön asetukset
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627571"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042841"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Kokous käytäntöjen hallinta Microsoft Teamsissa
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Kokouskäytäntöjen hallinta Microsoft Teamsissa
 
-Kokous käytäntöjä käytetään sellaisten toimintojen hallintaan, jotka ovat osallistujien organisaation käyttäjien aikatauluttamien kokousten osanottajien käytettävissä. Joitakin Kokous käytäntöjen ominaisuuksia ei ehkä ole vielä toteutettu teams-hallinta keskuksessa (nämä on merkitty "tulossa pian" dokumentaatiossa). Tässä tapa uksessa tai jos saat virheen, kuten "emme voi päivittää käytäntöä juuri nyt, mutta kokeilet sitä myöhemmin" Microsoft teams-hallinta keskuksessa, suosittelemme, että luot tai muokkaat teamsin Kokous käytäntöjä PowerShellin avulla. 
+**Huomautus: Käytäntömuutosten voimaantulo käyttäjille voi kestää jopa 24 tuntia.** Et ehkä voi tehdä muutoksia uusiin käytäntöihin välittömästi. odota 4 tuntia ja yritä muokata juuri luotua käytäntöä uudelleen.
 
-Lisä tietoja Kokous käytännöistä on seuraavissa resursseissa:
+Kokouskäytäntöjen avulla hallitaan ominaisuuksia, jotka ovat kokouksen osallistujien käytettävissä organisaation käyttäjien ajoittamien kokousten aikana. Joitakin kokouskäytäntöjen ominaisuuksia ei ehkä ole vielä otettu käyttöön Teams-hallintakeskuksessa (niiden dokumentaatiossa lukee "tulossa pian"). Tässä tapauksessa tai jos saat Microsoft Teams -hallintakeskuksen virheen, kuten "Emme voi päivittää käytäntöä juuri nyt, mutta yritä sitä myöhemmin uudelleen", microsoft suosittelee, että luot tai muokkaat Teamsin kokouskäytäntöjä PowerShellin avulla. 
 
-- Lisä tietoja käytäntöjen luomisesta, muutosten tekemisestä ja käyttäjien määrittämisestä käytäntöön on kohdassa [Kokous käytäntöjen hallinta teamsissa](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Lisätietoja kokouskäytännöistä on seuraavissa resursseissa:
 
-- Jos haluat tehdä käytäntö muutoksia PowerShellin cmdlet-komentojen avulla, katso [teams PowerShell-yleiskatsaus](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Sinun on käytettävä [Skype for Business PowerShell-moduulia](https://www.microsoft.com/download/details.aspx?id=39366) teams-Kokous käytäntöihin. 
-    - Lisä tietoja on [*-csteamsmeetingpolicy cmdlet-ohjeissa](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Lisätietoja käytäntöjen luomisesta, muutosten tekemisestä ja käyttäjien määrittämisestä käytäntöön on kohdassa [Kokouskäytäntöjen hallinta Teamsissa](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-**Huom:** Käytännön muutosten vaikutus käyttäjiin voi kestää jopa 24 tuntia. Et ehkä voi tehdä muutoksia äskettäin luotuihin käytäntöihin välittömästi. Odota 4 tuntia ja yritä muokata juuri luotua käytäntöä uudelleen. Jos ongelmia ei vieläkään ole, kokeile PowerShelliä.  
+- Lisätietoja käytäntömuutoksista PowerShellin cmdlet-komennoilla on artikkelissa [Teams PowerShellin yleiskatsaus](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Sinun on käytettävä Teamsin kokouskäytäntöjen [Skype for Business PowerShell -moduulia.](https://www.microsoft.com/download/details.aspx?id=39366) 
+    - Lisätietoja on [*-CsTeamsMeetingPolicy-cmdlet-komentojen ohjeissa.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
+

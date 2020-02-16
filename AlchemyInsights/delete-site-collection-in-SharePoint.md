@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770384"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042877"
 ---
 # <a name="delete-a-site"></a>Sivuston poistaminen
 
-Kun poistat sivuston, se siirretään [poistettuihin sivustoihin](https://admin.microsoft.com/sharepoint) ja säilytetään 93 päivää. Voit poistaa sivuston siirtymällä [Aktiiviset sivustot](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)-kohtaan. 
+Kun poistat sivuston, se siirretään [Poistetut sivustot -sivustoon](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) ja säilytetään 93 päivää. Jos haluat poistaa sivuston, siirry [aktiiviset sivustot -kohtaan.](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
 
-Kun poistat sivuston, kaikki sen sisällä poistetaan mukaan lukien:
+Kun poistat sivuston, kaikki sen sisällä oleva poistetaan, mukaan lukien:
 
-- Asiakirja kirjastot ja-tiedostot.
-- Luettelot ja luettelo tiedot.
+- Asiakirjakirjastot ja -tiedostot.
+- Luettelot ja luettelotiedot.
 - Sivuston asetukset ja historia.
-- Kaikki alisivustot ja niiden sisällöt.
+- Kaikki alisivustot ja niiden sisältö.
 
-Ilmoita sivuston ylläpitäjille ja mille tahansa alisivuston omistajille ennen sivuston poistamista, jotta he voivat siirtää tietonsa toiseen sijaintiin, ja kertoa käyttäjille myös, milloin sivustot poistetaan.
+Ilmoita sivuston ylläpitäjille ja alisivuston omistajille ennen sivuston poistamista, jotta he voivat siirtää tietonsa toiseen sijaintiin, ja kertoa käyttäjille myös, milloin sivustot poistetaan.
 
-Lisä tietoja [on kohdassa sivuston poistaminen](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Lisätietoja on ohjeaiheessa [Sivuston poistaminen](https://docs.microsoft.com/sharepoint/delete-site-collection).
