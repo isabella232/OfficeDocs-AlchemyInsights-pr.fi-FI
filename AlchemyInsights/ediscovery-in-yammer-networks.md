@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033851"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162909"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery Yammer-verkoissa
 
 Voit nyt tehdä eDiscovery-hakuja Yammer-sisällölle Office 365:ssä.  EDiscovery-hakujen suorittaminen tai vieminen Yammer-sisällössä edellyttää seuraavaa:
 
-1. Sinun on ensin siirrettävä Yammer Enterprise Network alkuperäiseen tilaan, jotta Yammer-viestit ja -tiedostot ovat löydettävissä.
-
-   > [!NOTE] 
-   >Jos olet Office 365:n uusi asiakas 9.1.2020 ja Yammer-verkostosi on jo alkuperäisessä tilassa, tietosi ovat nyt löydettävissä eDiscoveryn avulla.
+1. Sinun on ensin siirrettävä Yammer Enterprise Network alkuperäiseen tilaan, jotta Yammer-viestit ja -tiedostot ovat löydettävissä. **Huomautus: jos olet uusi Office 365 -asiakas 9.1.2020 ja Yammer-verkostosi on jo natiivitilassa, tietosi ovat nyt löydettävissä eDiscoveryn avulla.**
 
 2. Asiakkaiden poistuessa Yammerin eDiscovery on käytettävissä, kun native mode -kohdistustyökalu on julkaistu ja Alkuperäinen tila -siirto on valmis Yammerille vuokraajassa.
 
