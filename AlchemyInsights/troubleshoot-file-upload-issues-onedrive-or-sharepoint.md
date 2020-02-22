@@ -1,5 +1,5 @@
 ---
-title: OneDriveen tai SharePoint-tiedoston lataus ongelmiin liittyviä ongelmia
+title: OneDriven tai SharePoint-tiedoston latausongelmien vianmääritys
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,25 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: e05e270c45237f64bb5dc39c53c25858dbb8dc7b
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 65e6917168b701e0086ea42db0c5061f1677e9cf
+ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959842"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228264"
 ---
-# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDriveen tai SharePoint-tiedoston lataus ongelmiin liittyviä ongelmia
+# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDriven tai SharePoint-tiedoston latausongelmien vianmääritys
 
-Jos sinulla on ongelmia tiedostojen lataamisessa tai synkronoinnissa OneDriveen tai SharePointiin, seuraavat artikkelit voivat auttaa:
+Jos tiedostojen lataamisessa tai synkronoimisessa OneDriveen tai SharePointiin on ongelmia, seuraavista artikkeleista voi olla apua:
 
-- [Tiedostojen lataaminen OneDriven verkkosivustolla olevien ongelmien korjaaminen](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
-- [Virheelliset tiedosto nimet ja tiedosto tyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Kansion tai tiedostojen lataaminen asiakirjakirjastoon](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb?ui=en-US&rs=en-US&ad=US)
+- [Tiedostojen lataamiseen OneDrive-sivustossa liittyvien ongelmien korjaaminen](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [Virheelliset tiedostonimet ja tiedostotyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 - [OneDriven synkronointiongelmien ratkaiseminen](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
-- [Maksimoi lataus-ja lataus nopeus](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
-
-**Lisätietoja**
- 
-Lisä tietoja tiedostojen lataamisesta ja synkronoinnista on seuraavissa artikkeleissa.
-- [Kansion tai tiedostojen lataaminen kirjastoon](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-- [Synkronoi tiedostot OneDriven kanssa Windowsissa](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Maksimoi lataus- ja latausnopeus](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Tiedostojen synkronointi OneDriven kanssa Windowsissa](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
  
