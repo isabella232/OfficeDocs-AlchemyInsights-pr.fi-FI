@@ -1,5 +1,5 @@
 ---
-title: Ulkoisten yhteys tietojen lisääminen
+title: Ulkoisten yhteystietojen lisääminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 90c33249ee17ff65ece33d38f4722d57f214939c
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: a1c4f18633765c4990d2c0866a28f100555862e4
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305364"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42264977"
 ---
-# <a name="enable-external-communications-and-add-contacts"></a>Ota ulkoinen viestintä käyttöön ja lisää yhteys tietoja
+# <a name="enable-external-communications-and-add-contacts"></a>Ulkoisen tietoliikenteen ottaminen käyttöön ja yhteystietojen lisääminen
 
-Skype for Businessissa voit lisätä henkilöitä yhteys tieto luetteloon, jolloin he ovat vain klikkauksen päässä. Jokainen lisäämäsi yhteyshenkilö määritetään vähintään yhden yhteystietoryhmän jäseneksi. Lisä tietoja [on kohdassa Skype for Businessin yhteys henkilön lisääminen](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) . 
+Skype for Businessissa voit lisätä henkilöitä yhteystietoluetteloon, jotta he ovat vain klikkauksen päässä. Jokainen lisäämäsi yhteyshenkilö määritetään vähintään yhden yhteystietoryhmän jäseneksi. Lisätietoja on kohdassa [Yhteyshenkilön lisääminen Skype for Businessissa.](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) 
 
-Varmista, että vuokraajasi järjestelmänvalvoja on noudattanut [ulkoisen viestinnän Sallitaisiin](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)vaiheita.
+Varmista, että vuokraajan järjestelmänvalvoja on noudattanut [salliulkoisen viestinnän salliminen](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)-kohdan ohjeita.
 
-Haluatko, että käyttäjät voivat ottaa yhteyttä vain Skype-kuluttajakäyttäjiin? Katso Skype [for Business-käyttäjien lisääminen Skype-yhteys tietoihin](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+Haluatko vain, että käyttäjät voivat ottaa yhteyttä Skypen kuluttajakäyttäjiin? Katso [Skype for Business -käyttäjien lisätä Skype-yhteystietoja](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 

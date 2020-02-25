@@ -1,5 +1,5 @@
 ---
-title: Internet-yhteyttä ei voi muodostaa
+title: Internet-yhteyden muodostaminen ei onnistu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627951"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265049"
 ---
-# <a name="fix-network-connection-issues"></a>Verkko yhteys ongelmien korjaaminen
+# <a name="fix-network-connection"></a>Verkkoyhteyden korjaaminen
 
-Ratkaise verkko yhteys ongelmat yrittämällä ensin suorittaa verkon vian määritys. 
+Voit ratkaista verkkoyhteysongelmat suorittamalla verkon vianmäärityksen. 
 
-Kirjoita tehtävä palkin haku ruutuun **verkon vian määritys**ja valitse sitten **Tunnista ja korjaa verkko-ongelmat**.
+1. [Avaa Vianmääritysasetukset](ms-settings:troubleshoot).
 
-**Huom:** Jos tarvitset apua Internet-yhteyden muodostamisessa Windows 7-tai Windows 8,1-tieto koneen avulla, katso [Windowsin verkko yhteys ongelmien korjaaminen](https://support.microsoft.com/help/15287) 
+2. Valitse **Internet-yhteydet -kohdassa** **Suorita vianmääritys**.
 
-Jos käytät langatonta (Wi-Fi) yhteyttä, varmista, että Wi-Fi on käytössä laitteessa (mukaan lukien fyysinen Wi-Fi-kytkin) ja että lento kone tila ei ole käytössä.
+Jos käytät Wi-Fi-yhteyttä, varmista, että Wi-Fi on käytössä laitteessasi (mukaan lukien fyysinen Wi-Fi-kytkin) ja että lentokonetila ei ole käytössä.
 
-Jos käytät kiinteää (Ethernet) liitäntää, varmista, että kaapeli on kytketty kunnolla tieto koneeseen ja reitittimeen tai modeemiin.
+Jos käytät Ethernet-yhteyttä, varmista, että kaapeli on kytketty kunnolla tietokoneeseen ja reitittimeen tai modeemiin.
 
-Jos tämä ei toimi, kokeile käynnistää tieto kone, modeemi ja reititin uudelleen (jos sinulla on sellainen):
+Jos tämä ei toimi, yritä käynnistää tietokone, modeemi ja reititin uudelleen (jos sellainen on):
 
-1. Irrota modeemin ja reitittimen virta johto. Jos modeemissa on akun varmuus kopio, sinun on poistettava akku kokonaan sammutetaan virta.
-2. Odota noin 30 sekuntia. Jos olet poistanut akun modeemista, laita se takaisin.
-3. Kytke modeemin ja reitittimen virta johto.
-4. Kun odotat, että modeemi ja reititin käynnistymään kokonaan, Käynnistä tieto kone uudelleen. Valitse **Käynnistä** > **virran** > **uudelleenkäynnistys**. (Varmista, että valitset **Käynnistä uudelleen**, älä **Sammuta**.)
+1. Irrota virta modeemista ja reitittimestä. Jos modeemissa on akun varmuuskopiointi, sinun on poistettava akku, jotta virta katkeaa kokonaan.
+
+2. Odota noin 30 sekuntia. Jos poistit akun modeemista, aseta se takaisin sisään.
+
+3. Kytke modeemin ja reitittimen virtajohto.
+
+4. Kun odotat modeemin ja reitittimen käynnistymistä kokonaan, käynnistä tietokone uudelleen: **Käynnistä** > **virran** > **uudelleenkäynnistys**.
 
 **Vianmäärityksen**
 
-Lisä ohjeita vian määritykseen on Ohje aiheessa [verkko yhteys ongelmien korjaaminen Windows 10: ssä](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). Tässä artikkelissa on teknisiä tietoja siitä, miten voit korjata Internet-yhteytesi, kuten:
+Lisätietoja vianmäärityksestä on [ohjeaiheessa Wi-Fi-yhteysongelmien korjaaminen Windowsissa](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-- Verkko komentojen suorittaminen komento rivin avulla
-- Verkko sovittimen ohjaimen päivittäminen
-- Tarkista, puuttuiesi palo muuri-tai virustentorjuntaohjelmistossa Internet-yhteytesi
-- Asenna verkko laitteet uudelleen verkon palauttamisen avulla
-
-**Huom:** Jos et ole mukava käyttää teknisiä vian määritys vaiheita, voit puhua henkilölle lisä apua valitsemalla **Ota yhteyttä** -painiketta.
+Jos et halua käyttää teknisiä vianmääritysohjeita, [ota yhteyttä](https://support.microsoft.com/contactus).
