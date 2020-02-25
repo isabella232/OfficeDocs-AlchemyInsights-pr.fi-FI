@@ -1,5 +1,5 @@
 ---
-title: Outlook.com puuttuvat kansiot
+title: Outlook.com Puuttuvat kansiot
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536180"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260239"
 ---
-# <a name="find-missing-folders"></a><span data-ttu-id="a317d-102">Etsi puuttuvat kansiot</span><span class="sxs-lookup"><span data-stu-id="a317d-102">Find missing folders</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="e290f-102">Puuttuvien kansioiden etsiminen</span><span class="sxs-lookup"><span data-stu-id="e290f-102">Find missing folders</span></span>
 
-<span data-ttu-id="a317d-103">Jos et näe kansiot, tarkista, että kansiot eivät ole kutistettu.</span><span class="sxs-lookup"><span data-stu-id="a317d-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="a317d-104">Valitse vasemmanpuoleisessa ruudussa **kansiot** -kohdan vieressä olevaa nuolta.</span><span class="sxs-lookup"><span data-stu-id="a317d-104">Select the arrow next to **Folders** in the left pane.</span></span>
-  
-<span data-ttu-id="a317d-105">Jos poistat kansion vahingossa, voit palauttaa, jos se on vielä Poistetut-kansioon.</span><span class="sxs-lookup"><span data-stu-id="a317d-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="a317d-106">Jos haluat lisätietoja, lue [palauttaminen poistetut sähköpostiviestit Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a317d-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
-  
-<span data-ttu-id="a317d-107">On tunnettu ongelma jossa puuttuvat kansiot.</span><span class="sxs-lookup"><span data-stu-id="a317d-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="a317d-108">Emme voi ratkaista aiot työskennellä.</span><span class="sxs-lookup"><span data-stu-id="a317d-108">We're working to fix this.</span></span> <span data-ttu-id="a317d-109">Voit löytää **Etsi** puuttuva kansioihin tallennettuja kohteita</span><span class="sxs-lookup"><span data-stu-id="a317d-109">You can still find items saved within the missing folders using **Search**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' /><span data-ttu-id="a317d-110">, ja se auttaa Jos Kirjaudu ulos ja kirjaudu sitten uudelleen sisään.</span><span class="sxs-lookup"><span data-stu-id="a317d-110">, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="a317d-111">Kirjaudu ulos napsauttamalla tätä.</span><span class="sxs-lookup"><span data-stu-id="a317d-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
+<span data-ttu-id="e290f-103">Jotkin käyttäjät eivät ehkä näe vasemmanpuoleista kansioruutua, kun he tarkastelevat pientä näyttöä.</span><span class="sxs-lookup"><span data-stu-id="e290f-103">Some users may not be able to see the left folder pane when viewing on a small screen.</span></span>
+
+- <span data-ttu-id="e290f-104">Laajenna kansioruutu vain silloin, kun sitä tarvitaan.</span><span class="sxs-lookup"><span data-stu-id="e290f-104">Expand the folder pane only when you need it.</span></span> <span data-ttu-id="e290f-105">Voit näyttää tai piilottaa kansiot valitsemalla vasemman reunapalkin kolmen rivin kuvakkeen.</span><span class="sxs-lookup"><span data-stu-id="e290f-105">Select the three line icon in the left side bar to show or hide folders.</span></span>
+- <span data-ttu-id="e290f-106">Avaa [asetteluasetukset](https://outlook.live.com/mail/options/mail/layout) ja valitse **Piilota lukuruutu** ja sitten **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="e290f-106">Open [layout settings](https://outlook.live.com/mail/options/mail/layout) and select **Hide reading pane** and then **Save**.</span></span> <span data-ttu-id="e290f-107">Tämä antaa näytölle enemmän tilaa kansioiden näyttämään.</span><span class="sxs-lookup"><span data-stu-id="e290f-107">This will give the screen more space to show folders.</span></span>
+
+<span data-ttu-id="e290f-108">Jos poistat kansion vahingossa, voit palauttaa sen, jos se on edelleen Poistetut-kansiossa.</span><span class="sxs-lookup"><span data-stu-id="e290f-108">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="e290f-109">Lisätietoja on [ohjeaiheessa Poistettujen sähköpostiviestien palauttaminen Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="e290f-109">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
