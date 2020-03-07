@@ -1,5 +1,5 @@
 ---
-title: OneNoten luokan ongelmat
+title: Luokan OneNote-muistikirjan ongelmat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 62464ce279b54101338cee1f14589ea96dd7354e
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543094"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556648"
 ---
-# <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNoten luokan ongelmat ja ratkaisut
+# <a name="onenote-class-notebook-issues-and-resolutions"></a>Luokan OneNote-muistikirjan ongelmat ja ratkaisut
 
-Tässä on joitakin usein pyydetty aiheita ja luokan muistikirjat vianmääritykset.
+Seuraavassa on joitakin usein pyydettyjä aiheita ja vianmääritysohjeita luokan muistikirjoihin.
 
-- **Ryhmät:** [Käytä luokan OneNoten ryhmät-](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) vastauksia kysymyksiin luokan muistikirja-ryhmien määrittäminen.
+- **Työryhmät:** [Luokan OneNote-muistikirjan käyttäminen Teamsissa](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) vastaa kysymyksiin luokan muistikirjan määrittämisestä Teamsissa.
 
-- **Opiskelijoille Lisää:** Tarkista [muistikirjan luokan oppilaita](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8)lisäämisestä. Jos sinulla on ongelmia nähdä uudet opiskelijat, on [lisätty äskettäin opiskelijat eivät näy luokan muistikirjan](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9).
+- **Lisää oppilaita:** Lue, miten [voit lisätä oppilaita luokan muistikirjaan](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8). Jos sinulla on ongelmia uusien opiskelijoiden näkemisessä, katso [lisätietoja ohjeaiheesta Äskettäin lisätyt oppilaat, jotka eivät näy luokan muistikirjassa](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9).
 
-- **Poista opiskelijat:** [Poista OneNote muistikirjan luokan oppilaat](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c)alkavat. Poistetaan opiskelijoiden liittyvistä ongelmista on [oppilaan poistettiin, mutta niiden kansio jää näkyviin](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
+- **Poista oppilaat:** Aloita [poistamalla oppilaat OneNoten luokan muistikirjassa](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Lisätietoja opiskelijoiden poistamiseen liittyvistä ongelmista on [ohjeaiheessa Opiskelija on poistettu, mutta heidän kansionsa tulee edelleen näkyviin](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
 
-- **Uudet opettajat:** Auttamaan niiden luokan muistikirjan määrittäminen uusien opettajien tarkistaa [luokan muistikirjaa, OneNote lisää tai poista yhteistyössä opettajien](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) tai [siirtää uuden opettajan luokan muistikirja](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
+- **Uudet opettajat:** Jos haluat auttaa uusia opettajia luomaan luokan muistikirjansa, tutustu luokan [muistikirjan lisäämiseen tai poistamiseen onenote-](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) tai [siirrä luokan muistikirja uuteen opettajaan](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
 
-Jos näet ongelma ei ole mainittu tässä, on [Luokan muistikirjan](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea) [vianmääritys](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) -osassa. 
+- Voit korjata yleisimmät luokan OneNote-muistikirjan synkronointiin liittyvät ongelmat noudattamalla [ohjeaiheessa Ongelmien korjaaminen , kun Et voi synkronoida OneNotea](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+
+Jos näkemääsi ongelmaa ei ole tässä luettelossa, katso [luokan muistikirjan](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea) [vianmääritysosiota](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) . 
 
 
