@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962294"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573129"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jäät paitsi! Pyydä järjestelmänvalvojaa ottamaan Käyttöön Microsoft Teams
 
-Voivatko tiedekunta ja henkilökunta käyttää Teamsia, mutta opiskelijat eivät voi tai eivät voi käyttää F1-lisensoituja käyttäjiäsi?
+Jos sinulla on EDU-vuokraaja, microsoft Teams on otettava käyttöön manuaalisesti. Voit tehdä tämän siirtymällä Microsoft 365 -hallintakeskukseen > **palvelut ja apuohjelmat > Microsoft Teams**. Jos käytät uutta Teams-hallintakeskusta, sinun on poistattava **käytöstä Kokeile uutta hallintakeskusta** palveluiden ja **apuohjelmien**etsimiseksi . 
 
-Tiimien on oltava nimenomaisesti käytössä opiskelijoille ja F1-lisensseille. Tarkempia ohjeita teamsin ottamisesta käyttöön koulussasi on [Määritä teams for Education -kohdassa](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**TÄRKEÄÄ**: Saatat joutua odottamaan jopa 24 tuntia, jotta muutokset tulevat voimaan.

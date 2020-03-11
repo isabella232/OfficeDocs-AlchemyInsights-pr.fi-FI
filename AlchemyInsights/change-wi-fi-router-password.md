@@ -1,5 +1,5 @@
 ---
-title: Vaihda W-Fi-reitittimen sala sana
+title: W-Fi-reitittimen salasanan vaihtaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: ef7f9a4a40dec764f22c66bd9781c9141fb30d10
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796090"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584510"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Wi-Fi-reitittimen Sala sanan vaihtaminen
+# <a name="change-your-wi-fi-router-password"></a>Wi-Fi-reitittimen salasanan vaihtaminen
 
-Jos haluat muuttaa Wi-Fi-reitittimen Sala sanaa, toimi seuraavasti:
+Voit vaihtaa Wi-Fi-reitittimen salasanan seuraavasti:
 
-1. Valitse **Aloitus** > **Asetukset** > **verkko & Internet** > -**Verkko ja jakamis keskus**.
+1. Valitse **Käynnistä** > **asetukset** > **Verkko & Internet Network** > **and Sharing Center**.
 
-2. Etsi **aktiiviset verkot-** kohdasta verkko, johon olet muodostanut yhteyden. Valitse **yhteyksien**vieressä oleva sininen linkki.<br>
+2. **Etsi Näytä aktiiviset verkot**-kohdasta verkko, johon olet muodostanut yhteyden. Valitse **Yhteydet -kohdan**vieressä oleva sininen linkki.<br>
 
-   **Huom:** Jos et ole yhteydessä Wi-Fi-verkkoon, sinun on saatava yhteys, ennen kuin voit vaihtaa Sala sanan.
+   **Huomautus:** Jos et ole yhteydessä Wi-Fi-verkkoon, sinun on muodostettava yhteys, ennen kuin voit vaihtaa salasanan.
 
-3. Valitse **tiedot**.
+3. Valitse **Tiedot**.
 
-4. Etsi IPv4-oletusyhdyskäytävä ja huomioi Tämä numeroiden merkki jono, mukaan lukien jaksot. Esimerkki: 192.168.0.1, 192.168.1.1, 10.0.0.1 tai 10.0.1.1
+4. Etsi IPv4-oletusyhdyskäytävä ja ota huomioon tämä numerosarja, mukaan lukien kaudet. Esimerkki: 192.168.0.1, 192.168.1.1, 10.0.0.1 tai 10.0.1.1
 
-5. Avaa selain, kirjoita tämä numero jono, joka sisältää jaksot osoite riville, ja siirry reitittimen määritys sivulle painamalla ENTER-näppäintä.
+5. Avaa selain, kirjoita tämä numerosarja, mukaan lukien ajanjaksot osoiteriville, ja siirry reitittimen määrityssivulle painamalla Enter-näppäintä.
 
-6. Kun reitittimen määritys sivu avautuu, anna käyttäjä nimesi ja Sala sanasi.<br>
-   - Jos et ole koskaan muuttanut reitittimen oletus käyttäjä tunnusta ja Sala sanaa, pystyt todennäköisesti löytämään nämä tiedot reitittimen käyttö oppaasta.
+6. Kun reitittimen määrityssivu avautuu, anna käyttäjänimesi ja salasanasi.<br>
+   - Jos et ole koskaan vaihtanut reitittimen oletuskäyttäjänimeä ja salasanaa, löydät nämä tiedot todennäköisesti reitittimen käyttöoppaasta.
 
-   - Ota yhteyttä reitittimen valmistajaan, jos tarvitset lisä tukea kirjauduttaessa tähän verkko sivuun.
+   - Ota yhteyttä reitittimen valmistajaan, jos tarvitset lisätukea kirjautumalla tälle verkkosivulle.
 
-7. Kun olet kirjautunut sisään, Etsi langattomat asetukset. Sinun pitäisi nyt pystyä muuttamaan Wi-Fi-Sala sanasi.
+7. Kun olet kirjautunut sisään, etsi Langattomat asetukset. Sinun pitäisi nyt pystyä vaihtamaan Wi-Fi-salasanasi.
