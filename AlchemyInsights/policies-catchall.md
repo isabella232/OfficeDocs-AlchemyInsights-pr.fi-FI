@@ -1,5 +1,5 @@
 ---
-title: Käytännöt määrittämättömille
+title: Säännöt catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274871"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599949"
 ---
-# <a name="teams-policies"></a>Teams-käytännöt
+# <a name="teams-policies"></a>Tiimien käytännöt
 
-Käytännöt hallitsee Microsoft teams-asetuksia. Jos haluat tehdä muutoksen, sinun on määritettävä asianmukainen käytäntö ja sovellettava sitä sitten käyttäjiin. Nopein tapa tehdä tämä kaikille käyttäjille on muokata oletus käytäntöä nimeltä yleinen. 
+Microsoft Teamsin asetuksia hallitaan käytännöissä. Jos haluat tehdä muutoksen, sinun on määritettävä asianmukainen käytäntö ja otettava se sitten käyttöön käyttäjissä. Nopein tapa tehdä tämä kaikille käyttäjille on muokata oletuskäytäntöä nimeltä Yleinen. 
 
-**Huomautus** Käytäntö muutokset vievät ***vähintään 4 48 tuntia***. Jos luot mukautetun käytännön, sinun on odotettava vähintään 4 tuntia ennen kuin voit tehdä siihen lisä muutoksia. Tämän jälkeen voit käyttää tätä käytäntöä käyttäjille. Tämä tarkoittaa sitä, että mukautetut käytännöt voivat kestää jopa 48 tuntia, jotta ne tulevat voimaan. Yleiset käytännöt määritetään oletusarvoisesti kaikille käyttäjille, ja yleiseen käytäntöön tehdyt muutokset voivat kestää jopa 24 tuntia. Jos olet luonut mukautetun käytännön, käyttänyt sitä käyttäjiin ja se ei ole vieläkään voimassa 48 tunnin kuluttua tai olet muuttanut yleistä käytäntöä ja odottanut vähintään 24 tuntia, avaa tuki palvelu pyynnön.
+**HUOMAUTUS** Käytännön muutosten voimaantulo kestää ***vähintään 4 –48 tuntia***. Jos luot mukautetun käytännön, sinun on odotettava vähintään 4 tuntia, ennen kuin voit tehdä siihen lisämuutoksia. Tämän voit käyttää kyseistä käytäntöä käyttäjiin. Tämä tarkoittaa, että mukautettujen käytäntöjen voimaantulo voi kestää jopa 48 tuntia. Yleiset käytännöt on määritetty oletuskäytännöiksi kaikille käyttäjille, ja yleisen käytännön muutosten voimaantulo voi kestää jopa 24 tuntia. Jos olet luonut mukautetun käytännön, ottanut sen käyttöön käyttäjissä, eikä se ole vieläkääntynyt voimaan 48 tunnin kuluttua tai olet muokannut yleistä käytäntöä ja odottanut vähintään 24 tuntia, avaa tukipalvelupyyntö.
 
-Teams-käytännöt jaetaan seuraaviin alue isiin:
+Joukkueiden käytännöt on jaettu seuraaviin alueisiin:
 
-- [Teams-käytännöt](https://docs.microsoft.com/MicrosoftTeams/teams-policies) ohjaavat yksityisten ryhmien käyttäjien löytämistä yksityisten kanavien etsintää ja luomista varten.  
-- [Kokous käytännöt](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) ohjaavat sitä, mitä käyttäjät voivat tehdä teams-tapaamisissa, mukaan lukien aulan hallinta. Lisä ohjeita aula-ongelmiin, kuten tiimien määrittäminen myöntämään kaikki, on kohdassa [Hallitse aulan asetuksia ja osallistumis tasoja](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
-- [Viesti käytännöt](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) ohjaavat sitä, mitä käyttäjät voivat tehdä keskusteluiden ja viestien kanssa, mukaan lukien keskustelun ottaminen käyttöön ja poistaminen käytöstä, keskustelujen poistaminen, luku kuittausten pyytäminen, giphys-ja tarrat-käyttö jne.
-- Sovellusten [määritys käytännöt](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) ohjaavat sitä, mitkä sovellukset ovat käyttäjien käytettävissä, mukaan lukien mukautetut ja kolmannen osapuolen sovellukset, sekä järjestyksen, jossa ne näkyvät.  
-- Ryhmien tietojen [säilyttämis käytännöt](https://docs.microsoft.com/microsoftteams/retention-policies) löytyvät Office 365 Security and Compliance Centeristä.
-- Teams-osoite kirja käytännöt määritetään [alueen-hakemisto haun](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)kautta.
+- [Teamsin käytännöt](https://docs.microsoft.com/MicrosoftTeams/teams-policies) ohjaavat yksityisten tiimien etsimistä ja yksityisten kanavien luomista.  
+- [Kokouskäytännöt määrittävät,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) mitä käyttäjät voivat tehdä Teamsin kokouksissa, mukaan lukien aulan hallinta. Lisätietoja aulaongelmista, kuten Teamsin määrittäminen ottamaan kaikki vastaan, on [ohjeaiheessa Aulan asetusten ja osallistumistasojen määrittäminen](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
+- [Viestikäytännöt määrittävät,](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mitä käyttäjät voivat tehdä keskusteluilla ja viesteillä, kuten keskustelun ottaminen käyttöön tai poistaminen käytöstä, keskustelujen poistaminen, lukukuittausten pyytäminen, giphys- ja tarrojen käyttäminen ja paljon muuta.
+- [Sovellusten asetuskäytännöt](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) määrittävät, mitkä sovellukset ovat käyttäjien käytettävissä, mukaan lukien mukautetut ja kolmannen osapuolen sovellukset, sekä niiden esitysjärjestys.  
+- Teamsin [tietojen säilytyskäytännöt](https://docs.microsoft.com/microsoftteams/retention-policies) löytyvät Office 365:n tietoturva- ja yhteensopivuuskeskuksesta.
+- Ryhmien osoitteistokäytännöt määritetään [vaikutusalueen hakemistohaun](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)avulla .

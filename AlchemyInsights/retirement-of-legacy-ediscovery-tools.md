@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157572"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600363"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Vanhojen eDiscovery-työkalujen eläkkeelle siirtyminen
 
@@ -37,7 +37,7 @@ Microsoft 365 Compliance Centerin uusien ja parannettujen eDiscovery-toimintojen
     - [Aseta HoldOnPostilaatikot](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnPostilaatikot](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v1.0 (Office 365 Advanced eDiscovery v1.0) Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v1.0 (Office 365 Advanced eDiscovery v1.0) Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Eläkkeelle siirtymisen aikataulu:**
 - 1.4.2020: Et voi luoda uusia hakuja ja pitoja, mutta voit silti suorittaa, muokata ja poistaa olemassa olevia hakuja omalla vastuullasi. Microsoftin tuki ei enää tue EAC:n in Place eDiscovery & -pitoja.
@@ -46,9 +46,9 @@ Microsoft 365 Compliance Centerin uusien ja parannettujen eDiscovery-toimintojen
 
 **Lisätietoja on kohdassa**:
 
- - [Vanhojen eDiscovery-hakujen ja -pitojen siirtäminen Microsoft 365 -yhteensopivuuskeskukseen](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Vanhojen eDiscovery-työkalujen eläkkeelle siirtyminen](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Usein kysyttyjä kysymyksiä in-place eDiscovery- ja In-Place-ruuista](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Vanhojen eDiscovery-hakujen ja -pitojen siirtäminen Microsoft 365 -yhteensopivuuskeskukseen](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Vanhojen eDiscovery-työkalujen eläkkeelle siirtyminen](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Usein kysyttyjä kysymyksiä in-place eDiscovery- ja In-Place-ruuista](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

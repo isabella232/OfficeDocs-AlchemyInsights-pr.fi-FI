@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558830"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600489"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 Service -palvelun kunto
 
@@ -29,4 +29,4 @@ Tarkista palvelun palvelun kunto [Palvelun kunnon hallintapaneelista](https://ad
 
 - Valitsemalla **Historia** voit tarkastella organisaatiosi palveluterveyshistoriaa. 
 
-Lisätietoja on ohjeaiheessa [Office 365 -palvelun kunnon tarkistaminen](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health). 
+Lisätietoja on ohjeaiheessa [Office 365 -palvelun kunnon tarkistaminen](https://docs.microsoft.com/office365/enterprise/view-service-health). 

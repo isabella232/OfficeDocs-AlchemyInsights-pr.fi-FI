@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031611"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600129"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Word-tiedostojen avaamisessa tai tallentamisessa virheiden ratkaiseminen
 
@@ -25,7 +25,7 @@ Jos Sinulla on ongelmia Word-asiakirjojen avaamisessa tai tallentamisessa, kokei
 - [Asenna Office-päivitykset](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Luettelo uusimmista Office-päivityksistä on [ohjeaiheessa Uusimmat päivitykset](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Vioittuneiden asiakirjojen vianmääritys Wordissa](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Office-sovelluksen korjaaminen](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Jos asiakirjassa on muokkausmerkintöjä, voit ratkaista ongelman Wordin ehdotusten avulla tai lopettaa vastaamisen, jos ongelman ratkaisemiseksi [on tehty liiallisia muokkausmuutoksia tai kommentteja.](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding)
+- Jos asiakirjassa on muokkausmerkintöjä, voit ratkaista ongelman Wordin ehdotusten avulla tai lopettaa vastaamisen, jos ongelman ratkaisemiseksi [on tehty liiallisia muokkausmuutoksia tai kommentteja.](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding)
 
 Jos sait seuraavankaltaisen virheen, käytä [Officen Virhesanoma-sanoman ehdotuksia, kun rekisterikäytäntöasetukset estävät tiedoston:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
