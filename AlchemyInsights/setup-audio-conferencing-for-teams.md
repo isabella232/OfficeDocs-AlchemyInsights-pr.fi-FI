@@ -9,19 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "2711"
-- "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+- "3183"
+ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: HT
 ms.contentlocale: fi-FI
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692392"
+ms.locfileid: "42707663"
 ---
-# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Puhelinneuvottelut
+# <a name="setup-audio-conferencing-for-teams"></a>Teams-puhelinneuvottelujen määrittäminen
 
-Tarvitsetko apua puhelinneuvottelujen ottamisessa käyttöön tai määrittämisessä Microsoft Teamsissa? Onko tämä käyttäjä luotu hiljattain?  Jos on, sinun tulee odottaa 2–24 tuntia, jotta asetukset tulevat voimaan.    
+**Microsoft Teams – Puhelinneuvottelut**
+
+Tarvitsetko apua puhelinneuvottelujen ottamisessa käyttöön tai määrittämisessä Microsoft Teamsissa?
+
+Onko tämä käyttäjä luotu hiljattain?  Jos on, sinun tulee odottaa 2–24 tuntia, jotta asetukset tulevat voimaan.
 
 Jos haluat varmistaa, että käyttäjällä on puhelunneuvottelujen käyttöoikeus ja oletusarvoinen maksullinen numero:
 
