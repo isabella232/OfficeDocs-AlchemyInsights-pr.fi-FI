@@ -1,5 +1,5 @@
 ---
-title: Yleisten kansioiden käyttö ei onnistu
+title: Yleisiä kansioita ei voi käyttää
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959492"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891746"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei voi muodostaa yhteyttä julkisiin kansioihin
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei voi muodostaa yhteyttä yleisiin kansioihin
 
-Jos yleinen kansio-käyttö ei toimi muutamilla käyttäjillä, kokeile seuraavia:
+Jos yleisen kansion käyttö ei toimi joillekin käyttäjille, kokeile seuraavaa:
 
-Muodosta yhteys EXO PowerShelliin ja määritä Defaultpublicfolderposti laatikko ongelman käyttäjä tilille vastaamaan yhtä työn käyttäjä tilistä.
+Muodosta yhteys EXO PowerShelliin ja määritä ongelmakäyttäjätilin DefaultPublicFolderMailbox-parametri vastaamaan toimivan käyttäjätilin parametria.
 
 Esimerkki:
 
-Hanki posti laatikon Työkäyttäjä | FT Defaultpublicfolderposti laatikko, Effectivepublicfolderposti laatikko
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox (OletuskansioPostilaatikko),EffectivePublicFolderMailbox
 
-Set-posti laatikko ProblemUser-Defaultpublicfolderposti laatikon \<arvo edellisestä komennosta>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox-arvo \<edellisestä komennosta>
 
-Odota vähintään yksi tunti, jotta muutos tulee voimaan.
+Odota vähintään tunti, jotta muutos tulee voimaan.
+
+Jos ongelma ei ratko, toimi [seuraavasti](https://aka.ms/pfcte) yleisen kansion käyttöongelmien vianmäärityksessä Outlookin avulla.

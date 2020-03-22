@@ -10,16 +10,20 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: cc0a4bcdd0290b7c4d4d26531e8043a7feaf0f50
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e72d1b0f4c9f45ee214747efa9502b2341bde8e7
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048865"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891710"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePoint-sivuston nimeäminen uudelleen
 
-[Tämän artikkelin](https://docs.microsoft.com/sharepoint/change-site-address) ohjeiden avulla voit muuttaa sivuston nimeä, esimerkiksi-kohdasta https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2.
+Voit muuttaa [this article](https://docs.microsoft.com/sharepoint/change-site-address) sivuston nimeä esimerkiksi https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2-, jonka avulla voit muuttaa sivuston nimen tämän artikkelin ohjeiden mukaisesti.
 
-**Huom:** Et voi muuttaa toimi alueen nimeä (yllä olevassa esimerkissä URL-osoitteen contoso-osaa) SharePoint Online-URL-osoitteessa. Lisä tietoja on kohdassa [verkko tunnusten vaihtaminen](https://go.microsoft.com/fwlink/?Linkid=2018696) .
-  
+**Huomautus:** Et voi muuttaa sharepoint online -URL-osoitteen toimialuenimeä (yllä olevassa esimerkissä URL-osoitteen contoso-osaa). 
+
+Lisätietoja on seuraavissa artikkeleissa:
+
+- [SharePoint-toimialueen nimen muuttaminen](https://go.microsoft.com/fwlink/?Linkid=2018696)
+- [Virheitä, kun nimeät SharePoint-sivuston osoitteen uudelleen](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
