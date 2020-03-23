@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745001"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856464"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teamsin ongelmat ja ratkaisut
 
@@ -36,11 +36,11 @@ Kaikki Teams-asiakkaat:
 
     Jos haluat varmistaa, että käyttäjällä on puhelunneuvottelujen käyttöoikeus ja oletusarvoinen maksullinen numero:
     1.    Siirry kohtaan Aktiiviset käyttäjät ja valitse haluamasi käyttäjä.
-    2.    Valitse hallintakeskuksen versiosta riippuen joko Käyttöoikeudet ja sovellukset tai Muokkaa kohdassa Tuotteiden käyttöoikeudet.
+    2.    Valitse hallintakeskuksen versiosta riippuen joko **Käyttöoikeudet ja sovellukset** tai valitse **Tuotteiden käyttöoikeudet**- kohdassa **Muokkaa**.
     3.    Varmista, että käyttäjällä on käyttöoikeus puhelinneuvotteluihin, Microsoft Teamsiin ja Skype for Business Onlineen (palvelupaketti 2).
-    4.    Valitse käyttäjän hallintakeskuksessa Näytä kaikki ja valitse sitten Teams.
-    5.    Valitse Microsoft Teams -hallintakeskuksessa Vanha portaali.
-    6.    Valitse Skype for Business -hallintakeskuksessa Puhelinneuvottelut ja sitten Käyttäjät.
+    4.    Valitse käyttäjän hallintakeskuksessa **Näytä kaikki** ja sitten **Teams**.
+    5.    Valitse Microsoft Teams -hallintakeskuksessa **Vanha portaali**.
+    6.    Valitse Skype for Business -hallintakeskuksessa **Puhelinneuvottelut** ja sitten **Käyttäjät**.
     7.    Valitse haluamasi käyttäjä ja varmista, että käyttäjällä on oletusarvoinen maksullinen numero.
     
     Saat lisätietoja artikkelista [Office 365:n puhelupalvelupaketit](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) tai soittamalla Microsoft Commerce Billing -työryhmälle, jos sinulla on käyttöoikeuksiin liittyviä kysymyksiä.
