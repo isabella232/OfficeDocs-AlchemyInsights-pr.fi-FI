@@ -1,5 +1,5 @@
 ---
-title: SharePoint-siirron rajoitus ja 503-virheet
+title: SharePointin siirron rajoittaminen 503-virheillä
 ms.author: pebaum
 author: pebaum
 ms.date: 8/8/2019
@@ -12,24 +12,30 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054050"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931655"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint-siirron rajoitus ja 503-virheet
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePointin siirron rajoittaminen 503-virheillä
 
-Näyttää siltä, että olet siirtyssä SharePoint Onlineen ja vastaanotat 503-virheitä. Noudata alla olevia ohjeita, jotta autamme sinua mahdollisimman pian. 
+**Tärkeää:** Monet SharePoint Online- ja OneDrive-asiakkaat kontrunaan ovat liiketoiminnan kannalta kriittisiä sovelluksia taustalla suoritettavaa palvelua vastaan. Näitä ovat sisällön siirto, tietojen menetyksen estäminen (DLP) ja varmuuskopiointiratkaisut. Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online- ja OneDrive-palvelut ovat erittäin käytettävissä ja luotettavia käyttäjille, jotka ovat riippuvaisia palvelusta enemmän kuin koskaan etätyöskenaarioissa.
 
-1. Valitse **Ota yhteyttä tukeen**ja sitten **Uusi palvelu pyyntö**.
-2. Kirjoita otsikon ja kuva uksen kohdalle **SharePointin siirron rajoitin 503**.
+Tämän tavoitteen tukemiseksi olemme toteuttaneet tiukemmat rajoitusrajat taustasovelluksille (siirto, DLP ja varmuuskopiointiratkaisut) arkisin päiväsaikaan. Sinun pitäisi odottaa, että nämä sovellukset saavuttavat hyvin rajallisen läpikävimäisen käyttökerran näinä aikoina. Alueen ilta- ja viikonloppuaikoina palvelu on kuitenkin valmis käsittelemään huomattavasti suuremman määrän taustasovellusten pyyntöjä.
+
+**503 virheitä siirryttäessä SharePoint Onlineen**
+
+Näyttää siltä, että olet siirtymässä SharePoint Onlineen ja saat 503-virheitä. Noudata alla olevia ohjeita, jotta voimme auttaa sinua mahdollisimman pian. 
+
+1. Valitse **Ota yhteyttä tukeen**ja sitten Uusi **palvelupyyntö**.
+2. Kirjoita otsikkoa ja kuvausta varten **SharePoint Migration Throttling with 503**.
 3. Kun lippu on lähetetty, päivitä se seuraavilla tiedoilla:
-    - Kuinka paljon vasemmalle siirtymistä (esimerkiksi kuinka monta TBs?).
-    - Siirron alkamis-ja päättymis päivä.
-    - Kuvaile, minne olet siirsi sisältöäsi, kuten SharePoint Server, Box, GDrive, jaetut tiedosto resurssit jne.
-    - Arvioiko rajoitus virheiden määrä (esimerkiksi x-kiihdytys tunnissa?) ja milloin kuristus tapahtuu.
-    - Mitä siirto työkalua käytät (esimerkiksi SPMT tai ShareGate).
+    - Kuinka paljon muuttoa on jäljellä (esimerkiksi kuinka monta pbs?).
+    - Siirron alkamis- ja päättymispäivä.
+    - Kuvaile, mistä siirrät sisältöä, kuten SharePoint Serveristä, Boxista, GDrivesta, jaetuista tiedostorekiveistä jne..
+    - Arvioi rajoitusvirheiden määrä (esimerkiksi x kaasuviputinti tunnissa?) ja milloin rajoitus tapahtui.
+    - Käyttämäsi siirtotyökalu (esimerkiksi SPMT tai ShareGate).
 
 

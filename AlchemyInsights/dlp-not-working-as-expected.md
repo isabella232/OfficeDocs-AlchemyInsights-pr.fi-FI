@@ -1,5 +1,5 @@
 ---
-title: DLP ei toimi odotetulla tavalla
+title: DLP ei toimi odotetusti
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530277"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932619"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP ei toimi odotetulla tavalla
+# <a name="dlp-not-working-as-expected"></a>DLP ei toimi odotetusti
 
-Sinulla on ongelmia **Tietojen menetyksen ehkäisyyn (DLP)** ei toimi odotetulla tavalla Office 365: ssä? Jos näin on, varmista, että **DLP-käytäntö** on määritetty oikein ja että tiedot sisältävät mitä **DLP käytännön** etsii kun on arvioitava.
+**Tärkeää:** Monet SharePoint Online- ja OneDrive-asiakkaat kontrunaan ovat liiketoiminnan kannalta kriittisiä sovelluksia taustalla suoritettavaa palvelua vastaan. Näitä ovat sisällön siirto, tietojen menetyksen estäminen (DLP) ja varmuuskopiointiratkaisut. Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online- ja OneDrive-palvelut ovat erittäin käytettävissä ja luotettavia käyttäjille, jotka ovat riippuvaisia palvelusta enemmän kuin koskaan etätyöskenaarioissa.
+
+Tämän tavoitteen tukemiseksi olemme toteuttaneet tiukemmat rajoitusrajat taustasovelluksille (siirto, DLP ja varmuuskopiointiratkaisut) arkisin päiväsaikaan. Sinun pitäisi odottaa, että nämä sovellukset saavuttavat hyvin rajallisen läpikävimäisen käyttökerran näinä aikoina. Alueen ilta- ja viikonloppuaikoina palvelu on kuitenkin valmis käsittelemään huomattavasti suuremman määrän taustasovellusten pyyntöjä.
+
+ **DLP:n määrittäminen**
+
+Onko Office 365:n **DLP(Data Loss Prevention)** -ongelma, joka ei toimi odotetulla tavalla? Jos näin on, varmista, että **DLP-käytäntö** on määritetty oikein ja että tiedot sisältävät sen, mitä **DLP-käytäntö** etsii, kun niitä arvioidaan.
   
- **DLP määrittäminen**
+DLP-käytäntöjen avulla voit tunnistaa ja suojata organisaation arkaluonteisia tietoja. Voit määrittää DLP-käytännöt [tässä .](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)
   
-DLP-käytäntöjen avulla voit tunnistaa ja suojaa organisaatiosi luottamukselliset tiedot. DLP-käytäntöjen asetukset, käytä tiedot [tähän](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+ **Mitä DLP-käytännöt etsivät**
   
- **Etsi mitä DLP-käytännöt**
+Kun käytät **sisäisiä arkaluonteisia tietotyyppejä** Office 365:n suojaus- ja yhteensopivuuskeskuksessa, DLP-käytännöt etsivät tiettyjä malleja ja elementtejä, kun havaitset nämä arkaluonteiset tyypit.
   
-Käytettäessä **tyypit sisäisiä luottamuksellisia tietoja** Office 365: n tietoturvan ja määritystenmukaisuuden center DLP käytännöt näyttää talousjärjestelmän ja osien tunnistaminen tällaisia arkaluonteisia.
-  
-- **Sisäänrakennettu luottamuksellisten tietojen tyypit**
+- **Sisäiset arkaluonteiset tietotyypit**
 
-    Herkkä valmiiksi määritetyt tyypit ja mitä käytännön DLP etsii kun tunnistaminen herkkä laji, Lisätietoja: [Etsi mitä luottamuksellisten tietojen tyypit](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Lisätietoja sisäisistä arkaluonteisista tyypeistä ja siitä, mitä DLP-käytäntö etsii herkän tyypin havaitsemisessa, on kohdassa: [Mitä arkaluonteisia tietotyyppejä etsitään](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Mukautettu luottamuksellisten tietojen tyypit**
+- **Mukautetut arkaluonteiset tietotyypit**
 
-    Jos yrität luoda mukautetun luottamuksellisia tietoja, käytä seuraavassa artikkelissa luodaan mukautettu luottamuksellisia tietoja: [Luo mukautetun luottamuksellisten tietojen tyyppi](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Jos yrität luoda mukautettuja arkaluonteisia tietotyyppejä, saat lisätietoja mukautetun arkaluonteisen tyypin luomisesta seuraavasta artikkelista: [Mukautetun arkaluonteisen tietotyypin luominen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
-**DLP-käytännön testi**
+**DLP-käytännön testaaminen**
 
-Testaa tietosi valmiiseen tai mukautettuun luottamuksellisten tietojen tyypin kanssa, käytä **testityyppi** asetuksen **luokitusten** > **tyypit luottamuksellisia tietoja**. Lisätietoja [mukautetun luottamuksellisten tietojen tyyppejä](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Jos haluat testata tietoja valmiilla tai mukautetulla arkaluonteisella tietotyypillä, käytä **Luokitusten** > **arkaluonteiset tietotyypit**-kohdan **Testaa tyyppi** -vaihtoehtoa. Lisätietoja on kohdassa [Mukautettujen arkaluonteisten tietotyyppien testaaminen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Raportit**
   
-- Saada luottamuksellisia tietoja ja näkemyksiä [Raportit DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Saat arkaluonteisten tietojen kävijätietoja [DLP-raporttien avulla.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Katso tapahtuma [Tapaus raportin](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)tiedot.
+- Katso tapahtuman tarkat tiedot [tapahtumaraportin](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)avulla .

@@ -14,20 +14,20 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 50ea1d0e63dc3ee00a9b246855dae553ef162d23
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 058277a0b252d89b2fba9b9d8d6131395614f74a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42056095"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931187"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Office 365 -ryhmään kuuluvan SharePoint-sivuston poistaminen
 
-Ryhmäyhteydessä olevien sivuston poistaminen poistaa ryhmän ja kaikki sen resurssit, mukaan lukien Outlook-postilaatikon ja kalenterin sekä teams-kanavat.
+Ryhmäkohtaisen sivuston poistaminen poistaa ryhmän ja kaikki sen resurssit, mukaan lukien Outlookin postilaatikon ja kalenterin, sekä kaikki Teams-kanavat.
   
 Tärkeää:
 
-- Voit palauttaa poistetut sivustot 93 päivän ajan. Poistetut ryhmät on palautettava 30 päivän kuluessa. [Tarkastele ja palauta poistettuja sivustoja](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) suoraan [SharePoint-hallintakeskuksesta](https://admin.microsoft.com/sharepoint?page=home&modern=true). Jos haluat [tarkastella ja palauttaa **poistettuja ryhmiä,**](https://outlook.office.com/people/group/deleted)valitse **Ryhmien hallinta**ja valitse sitten **Poistettu**.
-- Jos sivusto on osa säilytyskäytäntöä, et ehkä voi poistaa sitä, ennen kuin sivusto on poistettu [Suojauksen & yhteensopivuuden hallintakeskuksesta](https://protection.office.com/?rfr=AdminCenter#/retention). Lisätietoja on [kohdassa Säilytyskäytäntöjen yleiskatsaus](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites).
+- Voit palauttaa poistetut sivustot 93 päivää. Poistetut ryhmät on palautettava 30 päivän kuluessa. [Voit tarkastella ja palauttaa poistettuja sivustoja](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) suoraan SharePoint-hallintakeskuksesta. Jos haluat [tarkastella ja palauttaa **poistettuja ryhmiä,**](https://outlook.office.com/people/group/deleted)valitse **Ryhmien hallinta**ja valitse sitten **Poistetut**.
+- Jos sivusto on osa säilytyskäytäntöä, et ehkä voi poistaa sitä, ennen kuin sivusto on poistettu [Tietoturva-& yhteensopivuusjärjestelmänhallintakeskuksesta](https://protection.office.com/?rfr=AdminCenter#/retention). Lisätietoja on [kohdassa Säilytyskäytäntöjen yleiskatsaus](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites).
   
-Lisätietoja on [ohjeaiheessa Sivustojen hallinta uudessa SharePoint-hallintakeskuksessa](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Lisätietoja on [ohjeaiheessa Uuden SharePoint-hallintakeskuksen sivustojen hallinta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).

@@ -1,5 +1,5 @@
 ---
-title: Lisä tietoja DLP-ongelmista
+title: Lisätietoja DLP-ongelmista
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -11,24 +11,30 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6525cee0555f1ae67b7d4e32445b9a1537d4a804
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052286"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932691"
 ---
 # <a name="information-about-dlp-issues"></a>Tietoja DLP-ongelmista
 
-DLP-käytännön avulla voit tunnistaa, valvoa ja suojata automaattisesti arkaluontoisia tietoja Office 365-tieto koneessa.
+**Tärkeää:** Monet SharePoint Online- ja OneDrive-asiakkaat kontrunaan ovat liiketoiminnan kannalta kriittisiä sovelluksia taustalla suoritettavaa palvelua vastaan. Näitä ovat sisällön siirto, tietojen menetyksen estäminen (DLP) ja varmuuskopiointiratkaisut. Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online- ja OneDrive-palvelut ovat erittäin käytettävissä ja luotettavia käyttäjille, jotka ovat riippuvaisia palvelusta enemmän kuin koskaan etätyöskenaarioissa.
 
-Katso lisä tietoja näistä linkeistä:
+Tämän tavoitteen tukemiseksi olemme toteuttaneet tiukemmat rajoitusrajat taustasovelluksille (siirto, DLP ja varmuuskopiointiratkaisut) arkisin päiväsaikaan. Sinun pitäisi odottaa, että nämä sovellukset saavuttavat hyvin rajallisen läpikävimäisen käyttökerran näinä aikoina. Alueen ilta- ja viikonloppuaikoina palvelu on kuitenkin valmis käsittelemään huomattavasti suuremman määrän taustasovellusten pyyntöjä.
 
-- [Tietojen menetyksen estämisen yleiskatsaus](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Mitä arkaluonteiset tieto tyypit etsivät](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Mukautetun arkaluonteisen tieto tyypin luominen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Lähetä Sähkö posti-ilmoituksia ja Näytä käytännön vihjeitä](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Suojaa SharePoint Online-tiedostoja säilyttäminen etiketit ja DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP ja Microsoft teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+**Tietoa DLP-käytännöstä**
 
-Jos haluat testata tietoja sisäänrakennetulla tai mukautetulla arkaluonteisen tiedon tyypillä, käytä **testi tyyppi** - **asetusta kohdassa** > **arkaluonteiset tieto tyypit**. Lisä tietoja on kohdassa [mukautettujen arkaluonteisten tieto tyyppien testaaminen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+DLP-käytännön avulla voit tunnistaa, valvoa ja suojata automaattisesti arkaluonteisia tietoja Office 365:ssä.
+
+Lisätietoja on näissä linkeissä:
+
+- [Yleiskatsaus tietojen menetyksen estämiseen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Mitä arkaluonteiset tietotyypit etsivät](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Mukautetun arkaluonteisen tietotyypin luominen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Sähköposti-ilmoitusten lähettäminen ja käytäntövihjeiden näyttäminen](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [SharePoint Online -tiedostojen suojaaminen säilytysotsikoilla ja DLP:llä](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP ja Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+
+Jos haluat testata tietoja valmiilla tai mukautetulla arkaluonteisella tietotyypillä, käytä **Luokitusten** > **arkaluonteiset tietotyypit**-kohdan **Testaa tyyppi** -vaihtoehtoa. Lisätietoja on kohdassa [Mukautettujen arkaluonteisten tietotyyppien testaaminen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
