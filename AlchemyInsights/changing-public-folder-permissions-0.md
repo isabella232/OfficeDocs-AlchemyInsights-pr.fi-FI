@@ -1,5 +1,5 @@
 ---
-title: Yleisen kansion käyttö oikeuksien muuttaminen
+title: Yleisen kansion käyttöoikeuksien muuttaminen
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,26 +11,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
-ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
+ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/11/2020
-ms.locfileid: "41022194"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059769"
 ---
-# <a name="changing-public-folder-permissions"></a>Yleisen kansion käyttö oikeuksien muuttaminen
+# <a name="changing-public-folder-permissions"></a>Yleisen kansion käyttöoikeuksien muuttaminen
 
-Outlookin käyttäjät ja järjestelmänvalvojat voivat muuttaa yleisten kansioiden käyttö oikeuksia. Järjestelmänvalvojat voivat myös valvoa Exchange-hallinta keskuksen (EAC) käyttö oikeuksia tekemällä seuraavat toimet:
+Outlookin käyttäjät ja järjestelmänvalvojat voivat muuttaa yleisen kansion käyttöoikeuksia. Järjestelmänvalvojat voivat myös hallita Exchange Admin Centerin (EAC) käyttöoikeuksia seuraavasti:
   
-1. Siirry Microsoft 365-hallinta keskukseen ja valitse **hallinta keskusten** \> **vaihto**.
+1. Siirry Microsoft 365 -hallintakeskuksessa **Kohtaan Hallintakeskukset** \> **Exchange**.
 
-2. Valitse **yleiset kansiot**.
+2. Valitse **Julkiset kansiot**.
 
-3. Voit muuttaa yksittäisten yleisten kansioiden käyttö oikeuksia määrittämällä suojaus ryhmät käyttö oikeuksille. Jotta loppu käyttäjä voisi muuttaa yleisten kansioiden käyttö oikeuksia, käyttäjällä on oltava kansion omistajan oikeudet.
+3. Sieltä voit muuttaa yksittäisten yleisten kansioiden käyttöoikeuksia määrittämällä käyttöoikeusryhmille suojausryhmiä. Jotta käyttäjä voi muuttaa yleisen kansion käyttöoikeuksia, käyttäjällä on oltava kansion omistajaoikeudet.
 
-> [!NOTE]
-> Yleisten kansioiden käyttö oikeuksien muuttamisen yhteydessä saattaa olla useita tunnettuja ongelmia. Lisä tietoja on seuraavissa artikkeleissa.
->
-> [Yleisten kansioiden alikansioiden käyttö oikeuksia ei voi käyttää EAC-kohteessa](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
->
-> ["Posti laatikkoa ei löydy paikallisesta puuryhmässä"-virhe, kun käytät julkisia kansioita](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+Noudata ohjeita, jotka on kuvattu ohjeaiheessa [Yleisen kansion käyttöoikeusongelmien vianmääritys ja yleisen kansion käyttöoikeusongelmien vianmääritys.](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues)
+
+**Huomautus**: Voit kohdata useita tunnettuja ongelmia, kun yrität muuttaa yleisten kansioiden käyttöoikeuksia. Lisätietoja on seuraavissa artikkeleissa.
+
+- [Käyttöoikeuksia ei voi käyttää EAC:n yleisten kansioiden alikansioihin](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+
+- [Postilaatikkoa ei löydy paikallisesta puuryhmästä -virhe käytettäessä yleisiä kansioita (tämä artikkeli on oikeatasoinen)](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
