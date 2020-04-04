@@ -1,5 +1,5 @@
 ---
-title: Arkistoinnin posti laatikon ottaminen käyttöön
+title: Arkistopostilaatikon ottaminen käyttöön
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736286"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132608"
 ---
-# <a name="enable-an-archive-mailbox"></a>Arkistoinnin posti laatikon ottaminen käyttöön
+# <a name="enable-an-archive-mailbox"></a>Arkistopostilaatikon ottaminen käyttöön
 
-Arkistoi posti laatikot Office 365 (kutsutaan myös *online-arkistot*) antaa käyttäjille ylimääräisiä email varastointi. Käyttäjät voivat siirtää tai kopioida kohteita Arkisto posti laatikkoon, ja järjestelmänvalvojat voivat luoda Arkisto käytännön, joka siirtää kohteet automaattisesti arkistoon posti laatikoihin.
+Arkistopostilaatikot Office 365:ssä (kutsutaan myös *online-arkistoiksi* tai *in-place-arkistoiksi)* tarjoavat käyttäjille lisää sähköpostisäilöä. Käyttäjät voivat siirtää tai kopioida kohteita arkistopostilaatikkoonsa, ja järjestelmänvalvojat voivat luoda arkistokäytännön, joka siirtää kohteet automaattisesti arkistopostilaatikoihin.
   
-Voit luoda Arkisto posti laatikon näin:
+Voit luoda arkistopostilaatikon seuraavasti:
   
 1. Siirry osoitteeseen [https://protection.office.com](https://protection.office.com).
 
-2. Kirjaudu sisään Office 365-tiliisi käyttämällä järjestelmänvalvojan tiliä.
+2. Kirjaudu Office 365:een järjestelmänvalvojan tililläsi.
 
-3. Valitse tieto turvan &amp; yhteensopivuus keskuksen vasemmasta ruudusta **tietojen hallinta** \> **Arkisto**.
+3. Valitse &amp; Tietoturvan yhteensopivuuskeskuksen vasemmasta ruudusta **Tietojen hallintaarkisto** \> **Archive**.
 
-4. Valitse käyttäjä, jonka Arkisto posti laatikon haluat ottaa käyttöön.
+4. Valitse käyttäjä, jonka arkistopostilaatikon haluat ottaa käyttöön.
 
-5. Valitse oikealla olevassa tieto ruudussa **Ota käyttöön** ja ota Arkisto posti laatikko käyttöön valitsemalla varoitus viestissä **Kyllä** .
+5. Valitse oikeanpuoleisessa tietoruudussa **Ota käyttöön** ja ota arkistopostilaatikko käyttöön valitsemalla varoitussanomassa **Kyllä.**
 
-Voit myös ottaa Arkisto posti laatikot käyttöön kerralla valitsemalla useita käyttäjiä (käyttämällä **vaihto** -tai **CTRL** -näppäimiä) ja valitsemalla sitten tieto ruudusta **Ota käyttöön** .
+Voit myös ottaa arkistopostilaatikot käyttöön kerralla valitsemalla useita käyttäjiä **(vaihto-** tai Ctrl-näppäimillä) ja valitsemalla sitten tietoruudussa **Ota käyttöön.** **Ctrl**
   
+### <a name="shared-mailboxes"></a>Jaetut postilaatikot
+
+Jaetun postilaatikon arkiston käyttöönotto edellyttää Exchange Online -palvelupaketin 2 käyttöoikeutta tai Exchange Online -palvelupaketin 1 käyttöoikeutta Exchange Online Archiving -käyttöotolla.  
+
+Jaetun postilaatikon arkiston ottaminen käyttöön:
+
+1. Siirry [Exchange-hallintakeskukseen](https://outlook.office365.com/ecp) ja kirjaudu sisään järjestelmänvalvojan tililläsi.
+
+2. **Siirry** > **vastaanottajille jaettu**.
+
+3. Valitse jaettu postilaatikko.
+
+4. Valitse oikeanpuoleisen tietoruudun **In-Place Archive -kohdassa** **Ota käyttöön**ja ota arkistopostilaatikko käyttöön valitsemalla **Kyllä.**
+
 Lisätietoja on seuraavissa artikkeleissa:
   
-- [Ota Arkisto posti laatikot käyttöön Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Arkistopostilaatikoiden ottaminen käyttöön Office 365:ssä](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Arkisto-ja poisto käytännön määrittäminen Office 365-sovelluksen kautta](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Arkisto- ja poistokäytännön määrittäminen Office 365:ssä](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
