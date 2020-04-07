@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164054"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160813"
 ---
-# <a name="update-or-add-a-new-payment-method"></a><span data-ttu-id="bf24f-102">Uuden maksutavan päivittäminen tai lisääminen</span><span class="sxs-lookup"><span data-stu-id="bf24f-102">Update or add a new payment method</span></span>
+# <a name="payment-declined"></a><span data-ttu-id="03ee5-102">Maksu hylätty</span><span class="sxs-lookup"><span data-stu-id="03ee5-102">Payment declined</span></span>
 
-1. <span data-ttu-id="bf24f-103">Siirry **Laskutuslaskut** > **& Maksujen** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">maksutavat -sivulle.</a></span><span class="sxs-lookup"><span data-stu-id="bf24f-103">Go to the **Billing** > **Bills & Payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.</span></span>
-2. <span data-ttu-id="bf24f-104">Valitse **Lisää maksutapa** tai valitse päivitettävä kortti tai pankkitili ja valitse **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="bf24f-104">Select **Add a payment method** or pick the card or bank account to update and select **Edit**.</span></span>
-3. <span data-ttu-id="bf24f-105">Päivitä maksutavan tiedot (nimi kortissa tai pankkitilissä, laskutusosoite, puhelinnumero tai vanhentumispäivä) ja valitse sitten **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="bf24f-105">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save**.</span></span>
-4. <span data-ttu-id="bf24f-106">Muista muuttaa tapaa, jolla maksat tilauksesi (tilaukset) tähän uuteen maksutapaan.</span><span class="sxs-lookup"><span data-stu-id="bf24f-106">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="bf24f-107">Ohjeet tämän voitehdä ovat seuraavassa osassa.</span><span class="sxs-lookup"><span data-stu-id="bf24f-107">Instructions on how to do this are in the next section.</span></span>
+<span data-ttu-id="03ee5-103">Microsoft yrittää veloittaa korttisi useita kertoja 3-4 viikon kuluttua laskun päivämäärästä.</span><span class="sxs-lookup"><span data-stu-id="03ee5-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="03ee5-104">Jos olet saanut vain yhden tai kaksi hylkäämisilmoitusta tältä laskutuskaudelta, Microsoft yrittää automaattisesti veloittaa maksuvälineesi uudelleen.</span><span class="sxs-lookup"><span data-stu-id="03ee5-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
 
-<span data-ttu-id="bf24f-108">Jos olet lisännyt uuden kortin ja saat edelleen alennusilmoituksen vanhasta luottokortista, sinun on ehkä liitettävä uusi kortti tilaukseen.</span><span class="sxs-lookup"><span data-stu-id="bf24f-108">If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card to the subscription.</span></span>
+<span data-ttu-id="03ee5-105">**Tärkeää**: Jos olet lisännyt uuden kortin ja saat edelleen hylkäämisilmoituksen vanhalle luottokortille, sinun on ehkä liitettävä kyseinen uusi kortti tilaukseen.</span><span class="sxs-lookup"><span data-stu-id="03ee5-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
 
-1. <span data-ttu-id="bf24f-109">Siirry > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Laskutustuotteet-& -palveluihin</a> \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="bf24f-109">Go to **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a></span></span>
-2. <span data-ttu-id="bf24f-110">Valitse tilaus, jonka haluat maksaa uudella kortilla tai pankkitilillä.</span><span class="sxs-lookup"><span data-stu-id="bf24f-110">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="bf24f-111">Valitse **Laskutus-osan** maksutavan vierestä **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="bf24f-111">Under the **Billing** section, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="bf24f-112">Valitse nykyisen maksutavan vierestä **Muuta.**</span><span class="sxs-lookup"><span data-stu-id="bf24f-112">Select **Change** next to the current payment method.</span></span>
-4. <span data-ttu-id="bf24f-113">Valitse avattavasta valikosta vaihtoehtoinen maksutapa tai lisää uusi maksutapa.</span><span class="sxs-lookup"><span data-stu-id="bf24f-113">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+1. <span data-ttu-id="03ee5-106">Siirry kohtaan **> laskutus tuotteet & [palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="03ee5-106">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-[<span data-ttu-id="bf24f-114">Maksutapojen lisääminen, päivittäminen tai poistaminen</span><span class="sxs-lookup"><span data-stu-id="bf24f-114">Add, update, or remove your payment methods</span></span>](https://go.microsoft.com/fwlink/?linkid=2118133)
+2. <span data-ttu-id="03ee5-107">Valitse tilaus, jonka haluat maksaa uudella kortilla tai pankkitilillä.</span><span class="sxs-lookup"><span data-stu-id="03ee5-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="03ee5-108">Valitse **Laskutus-osion** maksutavan vierestä **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="03ee5-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
+
+3. <span data-ttu-id="03ee5-109">Valitse nykyisen maksutavan vierestä **Muuta.**</span><span class="sxs-lookup"><span data-stu-id="03ee5-109">Click **Change** next to the current payment method.</span></span>
+
+4. <span data-ttu-id="03ee5-110">Valitse avattavasta valikosta vaihtoehtoinen maksutapa tai lisää uusi maksutapa.</span><span class="sxs-lookup"><span data-stu-id="03ee5-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+
+<span data-ttu-id="03ee5-111">**Uuden maksutavan päivittäminen tai lisääminen**</span><span class="sxs-lookup"><span data-stu-id="03ee5-111">**Update or add a new payment method**</span></span>
+
+1. <span data-ttu-id="03ee5-112">Siirry \*\*Laskutus- > Laskut & Maksut > [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806) \*\* -sivulle.</span><span class="sxs-lookup"><span data-stu-id="03ee5-112">Go to the **Billing > Bills & Payments > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
+
+2. <span data-ttu-id="03ee5-113">Valitse **Lisää maksutapa**, valitse päivitettävä kortti tai pankkitili ja valitse **Muokkaa**.</span><span class="sxs-lookup"><span data-stu-id="03ee5-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
+
+3. <span data-ttu-id="03ee5-114">Päivitä maksutavan tiedot (kortin tai pankkitilin nimi, laskutusosoite, puhelinnumero tai vanhentumispäivä) ja valitse sitten **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="03ee5-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
+
+4. <span data-ttu-id="03ee5-115">Muista muuttaa, miten maksat tilauksesi tähän uuteen maksutapaan.</span><span class="sxs-lookup"><span data-stu-id="03ee5-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="03ee5-116">Katso lisätietoja artikkelissa [Maksutapojen lisääminen, päivittäminen tai poistaminen](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="03ee5-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span> 
