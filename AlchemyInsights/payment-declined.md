@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164054"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160813"
 ---
-# <a name="update-or-add-a-new-payment-method"></a>Uuden maksutavan päivittäminen tai lisääminen
+# <a name="payment-declined"></a>Maksu hylätty
 
-1. Siirry **Laskutuslaskut** > **& Maksujen** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">maksutavat -sivulle.</a>
-2. Valitse **Lisää maksutapa** tai valitse päivitettävä kortti tai pankkitili ja valitse **Muokkaa**.
-3. Päivitä maksutavan tiedot (nimi kortissa tai pankkitilissä, laskutusosoite, puhelinnumero tai vanhentumispäivä) ja valitse sitten **Tallenna**.
-4. Muista muuttaa tapaa, jolla maksat tilauksesi (tilaukset) tähän uuteen maksutapaan. Ohjeet tämän voitehdä ovat seuraavassa osassa.
+Microsoft yrittää veloittaa korttisi useita kertoja 3-4 viikon kuluttua laskun päivämäärästä.  Jos olet saanut vain yhden tai kaksi hylkäämisilmoitusta tältä laskutuskaudelta, Microsoft yrittää automaattisesti veloittaa maksuvälineesi uudelleen.  
 
-Jos olet lisännyt uuden kortin ja saat edelleen alennusilmoituksen vanhasta luottokortista, sinun on ehkä liitettävä uusi kortti tilaukseen.
+**Tärkeää**: Jos olet lisännyt uuden kortin ja saat edelleen hylkäämisilmoituksen vanhalle luottokortille, sinun on ehkä liitettävä kyseinen uusi kortti tilaukseen.
 
-1. Siirry > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Laskutustuotteet-& -palveluihin</a> ****
-2. Valitse tilaus, jonka haluat maksaa uudella kortilla tai pankkitilillä. Valitse **Laskutus-osan** maksutavan vierestä **Muokkaa**.
+1. Siirry kohtaan **> laskutus tuotteet & [palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+
+2. Valitse tilaus, jonka haluat maksaa uudella kortilla tai pankkitilillä. Valitse **Laskutus-osion** maksutavan vierestä **Muokkaa**.
+
 3. Valitse nykyisen maksutavan vierestä **Muuta.**
+
 4. Valitse avattavasta valikosta vaihtoehtoinen maksutapa tai lisää uusi maksutapa.
 
-[Maksutapojen lisääminen, päivittäminen tai poistaminen](https://go.microsoft.com/fwlink/?linkid=2118133)
+**Uuden maksutavan päivittäminen tai lisääminen**
+
+1. Siirry **Laskutus- > Laskut & Maksut > [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** -sivulle.
+
+2. Valitse **Lisää maksutapa**, valitse päivitettävä kortti tai pankkitili ja valitse **Muokkaa**.
+
+3. Päivitä maksutavan tiedot (kortin tai pankkitilin nimi, laskutusosoite, puhelinnumero tai vanhentumispäivä) ja valitse sitten **Tallenna**.
+
+4. Muista muuttaa, miten maksat tilauksesi tähän uuteen maksutapaan. Katso lisätietoja artikkelissa [Maksutapojen lisääminen, päivittäminen tai poistaminen](https://go.microsoft.com/fwlink/?linkid=2118133). 
