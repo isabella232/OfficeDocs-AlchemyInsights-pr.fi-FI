@@ -1,5 +1,5 @@
 ---
-title: Tilauksen uudelleenaktivointi
+title: Tilaus on päättynyt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,29 +9,31 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002304"
-- "4473"
-- "9001497"
-- "4736"
-- "3551"
-ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+- "9002437"
+- "4741"
+- "4739"
+ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
+ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160849"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43158544"
 ---
-# <a name="reactivate-your-subscription"></a>Tilauksen uudelleenaktivointi
+# <a name="subscription-expired"></a>Tilaus on päättynyt
 
-Jos tilauksesi päättyy tai jos Microsoft on poistanut tilauksesi käytöstä tai olet itse perunut tilauksen kesken tilausjakson, voit aktivoida tilauksen uudelleen hallintakeskuksessa. 
+Jos tilauksesi päättyy tai jos Microsoft on poistanut tilauksesi käytöstä tai olet itse perunut tilauksen kesken tilausjakson, voit aktivoida tilauksen uudelleen hallintakeskuksessa.
+
+**Tilauksen uudelleenaktivointi**
 
 1. Valitse hallintakeskuksessa **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivu.
 
-2. Etsi **Tuotteet ja palvelut** -sivulla tilaus, jonka haluat aktivoida uudelleen.  Valitse **Laskutus**-osiossa **Aktivoi uudelleen nyt**.  Jos olet **Kortit**-näkymässä, valitse kolme pistettä **Nimi**- ja **Käytettävissä oleva määrä** -kohtien välillä ja valitse sitten valikosta **Aktivoi uudelleen**. **Huomautus**: jos et näe etsimääsi tilausta, sinun täytyy ehkä muuttaa sivun yläosassa olevan **Tilauksen tila** -suodattimen arvoksi **Kaikki**.
+2. Etsi Tuotteet ja palvelut -sivulla tilaus, jonka haluat aktivoida uudelleen.
 
-3. Vahvista maksutietosi.  Tässä voit myös päivittää aiemmat maksutietosi.  Kun olet lisännyt maksutavan, valitse **Aktivoi uudelleen**.
+3. Valitse Laskutus-osiossa **Aktivoi uudelleen nyt**.  Jos olet Kortit-näkymässä, valitse kolme pistettä Nimi- ja Käytettävissä oleva määrä -kohtien välillä ja valitse sitten valikosta Aktivoi uudelleen. **Huomautus**: jos et näe etsimääsi tilausta, sinun täytyy ehkä muuttaa sivun yläosassa olevan Tilauksen tila -suodattimen arvoksi **Kaikki**.
 
-Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+4. Vahvista maksutietosi. Voit päivittää olemassa olevat maksutietosi. Kun olet lisännyt maksutavan, valitse **Aktivoi uudelleen**.
+
+Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Tilauksen uusimisen hallinnointi**
 
