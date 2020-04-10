@@ -1,5 +1,5 @@
 ---
-title: Office 365-kokeiluversion liiketoiminnan laajentaminen
+title: Office 365 for Business -kokeiluversion laajentaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665001"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207334"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Office 365 -yritysversion kokeiluajan pidentäminen
 
-Jos ei ole vielä laajennettu kokeiluversion ennen koeversion tilaus on päättyy 15 päivän kuluessa, voit laajentaa toisen 30 päivän kokeilujakso. Tämän voi tehdä vain kerran.
+Voit jatkaa kokeilujaksoa sijaiten vielä 30 päivän jaksolla. Tämän voi tehdä vain kerran.
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Siirry hallintakeskuksessa kohtaan **Laskutustuotteet** \> [& palvelut](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Valitse koeversion tilaus, jonka haluat laajentaa.
+2. Valitse kokeilutilaus, jonka haluat laajentaa.
 
-3. **_AMP_ osien toiminnot** -osan Valitse **Laajenna kokeiluversio** ja tee seuraavia vaiheita.
+3. Valitse **Laajenna kokeiluversio** ja suorita ohjatun toiminnon vaiheet.
 
-4. Tarvitset luottokortin tietoja pidentää kokeiluversion. Emme saa periä trial-laajennusta varten luottokorttia.
+4. Sinun on annettava luottokorttitiedot kokeilujakson pidentämiseksi. Emme veloita luottokorttiasi kokeilulaajennuksesta.
 
-Lisätietoja on kohdassa [Laajenna liiketoiminnan Office 365-kokeiluversion](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Lisätietoja kokeiluversion laajentamisesta tai vaiheittaiset ohjeet ovat ohjeaiheessa [Office 365 for Businessin kokeiluversion laajentaminen](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

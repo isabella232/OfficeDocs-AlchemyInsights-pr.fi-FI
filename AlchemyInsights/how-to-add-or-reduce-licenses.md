@@ -1,5 +1,5 @@
 ---
-title: Lisäämisestä tai käyttöoikeuksia vähentää
+title: Käyttöoikeuksien lisääminen tai vähentäminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664281"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207370"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Lisäämisestä tai käyttöoikeuksia vähentää
+# <a name="how-to-add-or-reduce-licenses"></a>Käyttöoikeuksien lisääminen tai vähentäminen
 
-Tässä on miten voit poistaa Office 365: n käyttöoikeuksia tai ostaa lisää käyttöoikeuksia.
+Voit lisätä tai poistaa käyttöoikeuksia näin.
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Siirry **Laskutus- > [tilaukset -kohtaan.](https://portal.office.com/adminportal/home#/subscriptions)**
 
-2. Valitse tilaus, josta haluat Lisää tai poista käyttöoikeudet.
+2. Valitse tilaus, johon haluat lisätä tai poistaa käyttöoikeuksia.
 
-3. Valitse **Lisää tai poista käyttöoikeudet**.
+3. Valitse **Lisää tai poista käyttöoikeuksia**.
 
-4. Anna tarvittavat käyttäjien kokonaismäärä.
+4. Kirjoita tarvittavien käyttäjien kokonaismäärä. Jos sinulla on esimerkiksi 25 käyttöoikeutta ja haluat poistaa 5, kirjoita tähän kenttään 20.
 
-    Esimerkiksi, jos sinulla on tällä hetkellä 25 käyttöoikeuksia ja haluat poistaa 5, 20 tähän kenttään.
+5. Valitse **Lähetä muutos**.
 
-5. Valitse **Lähetä muuttaa**.
+**Huomautus:** Kaikki uudet veloitukset (lisenssien korotus) tai luotto (lisenssien väheneminen) näkyvät seuraavassa laskussasi.
 
-> [!NOTE]
-> Kaikki uusi Kulu (Käyttöoikeussopimuksen lisäys) ja kredit (käyttöoikeuden tai vähennys) näkyvät seuraavassa laskussa.
+Lisätietoja käyttöoikeuksien määrittämisestä on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Lisätietoja on kohdassa [ostaa oman Office 365: ssä business tilauksen käyttöoikeuksia](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Lisää resursseja**
+ **Resurssit**
   
-- [Käyttöoikeuksien poistaminen Office 365 for Business -tilauksesta](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Tilausten käyttöoikeuksien hallinta - osta tai poista](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Office 365 for Business -tilauksen peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Office 365 for Business -tilauksen peruuttaminen](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Toisen Office 365 for Business -tilauksen ostaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Toisen Office 365 for Business -tilauksen ostaminen](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
