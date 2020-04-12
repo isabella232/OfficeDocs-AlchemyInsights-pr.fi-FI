@@ -1,5 +1,5 @@
 ---
-title: Juuttunut Lähtevät-kansioon suurten liitteiden vuoksi
+title: Jumissa Lähtevät-kansiossa suurten liitteiden vuoksi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,38 +11,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
-ms.openlocfilehash: d5fb20fcc146be67c5a04de0640ed4efd625311a
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+- "9002385"
+- "4645"
+ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441303"
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232627"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Lähtevät-kansioon juuttuneen viestin korjaaminen
+# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Lähtevät-kansioon jumissa olevien viestien korjaaminen
 
-Microsoft suosittelee, että aloitat suorittamalla skenaarion ["Minulla on ongelmia Sähkö posti viestien lähettämisessä, vastaanottamisessa tai etsimisessä"](https://aka.ms/SaRA-OutlookSendReceive) [Microsoftin tuki-ja palautus avustaja](https://diagnostics.office.com/#/) työkalussa.
+Microsoft suosittelee, että aloitat suorittamalla ongelman sisältävän koneen [Microsoftin tuki- ja palautusavustajatyökalun](https://diagnostics.office.com/#/) [skenaarion "Minulla on ongelmia sähköpostiviestien lähettämisessä, vastaanottamisessa tai etsimisen](https://aka.ms/SaRA-OutlookSendReceive) etsinnässä".
 
-Kun viesti juuttuu Lähtevät-kansioon, todennäköiset syyt ovat seuraavat:
-- Suuret liitteet.
-- **Lähetä heti, kun yhteys on muodostettu** -vaihto ehto ei ole käytössä.
+Kun viesti juuttuu Lähtevät-kansioon, todennäköisin syy on suuri liite tai "Lähetä heti, kun yhteys" -vaihtoehto ei ole käytössä.
 
-Suurten liitteiden poistaminen: 
+**Suuren liitteen irrottaminen**
 
-1. Valitse Outlookissa **Lähetä tai vastaanota** > **työ offline-tilassa**. 
-2. Valitse siirtymis ruudussa **lähtevät-ruutu**. Täältä voit: 
-    - Poista viesti (valitse se ja valitse sitten **Poista**).
-    - Vedä viesti Luonnokset-kansioon, avaa se kaksoisnapsauttamalla sitä ja poista liite valitsemalla se ja valitsemalla sitten **Poista**).
-3. Jos näyttöön tulee virhe sanoma, jonka mukaan Outlook yrittää välittää viestiä, Sulje Outlook. Poistuminen voi kestää hetken. Jos Outlook ei sulkeua, paina Ctrl + Alt + Delete ja valitse **Käynnistä Tehtävienhallinta**. Valitse Tehtävienhallinnassa **prosessit** -väli lehti, Vieritä alaspäin Outlook. exe-kohtaan ja valitse **Lopeta prosessi**.
-4. Kun Outlook sulkeutuu, käynnistä se uudelleen ja toista vaiheet 2 ja 3. 
-5. Kun olet poistanut liitteen, Jatka työskentelyä verkossa valitsemalla **Lähetä tai vastaanota** > **offline-tilassa** . 
+1. Valitse **Lähetä tai vastaanota** > **työ offline-tilassa**. 
+2. Valitse siirtymisruudussa **Lähtevät**. Täältä voit: 
+    - Poista viesti. Valitse se ja valitse **Poista**.
+    - Vedä viesti **luonnoskansioon,** avaa viesti kaksoisnapsauttamalla sitä ja poista liite (napsauta sitä ja valitse **Poista**).
+3. Jos virhe ilmoittaa, että Outlook yrittää lähettää viestin, sulje Outlook. Se voi kestää hetken poistua. Jos Outlook ei sulkeudu, paina **Näppäinyhdistelmää Ctrl+Alt+Delete** ja valitse **Käynnistä Tehtävienhallinta**. Valitse Tehtävienhallinnassa **Prosessit-välilehti,** vieritä alas outlook.exe-tiedostoon ja valitse **Lopeta prosessi**.
+4. Kun Outlook sulkeutuu, käynnistä Outlook uudelleen ja toista vaiheet 2-3. 
+5. Kun olet poistanut liitteen, poista painikkeen valinta ja jatka työskentelyä verkossa valitsemalla **Lähetä tai vastaanota** > **offline-tila.** 
 
-Viestit jäävät myös Lähtevät-kansioon, kun napsautat **Lähetä**-painiketta, mutta et ole yhteydessä. Valitse **Lähetä tai vastaanota** ja katso **työ offline** -painiketta. Jos se on sininen, yhteyteemme katkeaa. Valitse se yhdistääksesi (painike muuttuu valkoiseksi) ja napsauta **Lähetä kaikki**.
+Viestit juuttuvat myös Lähtevät-kansioon, kun valitset **Lähetä**, mutta et ole yhteydessä. Valitse **Lähetä tai vastaanota** ja katso **Offline-tila-painiketta.** Jos se on sininen, yhteys katkeaa. Muodosta yhteys napsauttamalla sitä (painike muuttuu valkoiseksi) ja valitse **Lähetä kaikki**.
  
-Lähetyksen ottaminen käyttöön **heti, kun yhteys on muodostettu**:
+**Ota lähetä käyttöön heti, kun yhteys on muodostettu**
  
-- Valitse **tiedoston** > **Asetukset** >  **Advanced**.
-Valitse **Lähetä ja vastaanota** -osiossa **Lähetä heti, kun yhteys on muodostettu**, ja valitse sitten **OK**.
+1. Valitse Tiedosto-välilehdessä **Asetukset**.
+
+2. Valitse Outlookin asetukset -valintaikkunassa **Lisäasetukset**.
+
+3. Ota Lähetä heti, **kun yhteys on muodostettu,** valitsemalla Lähetä ja vastaanota -osassa . Valitse **OK**.
  
-Täydelliset tiedot ovat kohdassa:
-- [Video: jumissa olevan sähkö postin lähettäminen tai poistaminen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Sähkö posti pysyy Lähtevät-kansiossa, kunnes voit aloittaa lähetys-ja vastaanotto toiminnon manuaalisesti Outlookissa](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Lisätietoja on kohdassa:
+- [Video: Jumittun sähköpostin lähettäminen tai poistaminen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Sähköposti pysyy Lähtevät-kansiossa, kunnes käynnistät lähetys- ja vastaanottotoiminnon manuaalisesti Outlookissa](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
