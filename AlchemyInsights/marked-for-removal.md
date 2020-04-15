@@ -22,6 +22,6 @@ ms.locfileid: "43191028"
 
 Vuokraajasi on ehkä merkitty poistettavaksi, koska käyttöoikeuksia ei ole ostettu eikä määritetty tai koska vuokraaja on vanhentunut. 
 
-Voit aktivoida vuokraajan uudelleen, jos se on vanhentunut. Katso lisätietoja artikkelissa [Aktivoi tilaus uudelleen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).
+Voit aktivoida vuokraajan uudelleen, jos se on vanhentunut. Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).
 
-Jos haluat määrittää käyttäjille käyttöoikeuksia, katso lisätietoja artikkelissa [Käyttäjien lisääminen Office 365:een yksitellen tai joukkona](https://support.office.com/article/Assign-or-remove-licenses-for-Office-365-for-business-997596b5-4173-4627-b915-36abac6786dc).
+Jos haluat määrittää käyttäjille käyttöoikeuksia, katso lisätietoja artikkelista [Käyttäjien lisääminen Office 365:een yksitellen tai joukkona](https://support.office.com/article/Assign-or-remove-licenses-for-Office-365-for-business-997596b5-4173-4627-b915-36abac6786dc).
