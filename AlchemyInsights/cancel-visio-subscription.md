@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6641544379b47e5b6db25e4ae1d4c9bef8f03840
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198817"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552757"
 ---
 # <a name="cancel-visio-subscription"></a>Visio-tilauksen peruuttaminen
 
@@ -30,3 +30,9 @@ Järjestelmänvalvojat voivat peruuttaa organisaationsa Visio-tilauksen **Micros
 3. Etsi peruutettava Visio-suunnitelma.
 
 4. Valitse **Peruuta tilaus**.
+
+**Hyvitys: Kaikki prorated-hyvitykset palautetaan sinulle seuraavan laskutusjakson aikana.** 
+
+**Huomautus**: Jos et näe peruutusvaihtoehtoa, napsauta tilausta nähdäksesi tiedot ja näkyviin pitäisi näkyä **Peruuta tilaus** -vaihtoehto Kohdassa Asetukset **& Toiminnot**. 
+
+Lisätietoja on ohjeaiheessa [Tilauksen peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
