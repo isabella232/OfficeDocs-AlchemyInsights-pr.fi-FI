@@ -23,10 +23,10 @@ ms.locfileid: "41770852"
 ---
 # <a name="create-a-sharepoint-site"></a>SharePoint-sivuston luominen
 
-Luo tai Hallitse sivustoja SharePoint-hallinta keskuksen [aktiivisista sivustoista](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) . Lisä tietoja on kohdassa [sivustojen hallinta uudessa SharePointin hallinta keskuksessa](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Luo tai hallitse SharePoint-hallintakeskuksen [aktiivisten sivustojen](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) sivustoja. Lisätietoja on [ohjeaiheessa Uuden SharePoint-hallintakeskuksen sivustojen hallinta](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
 ## <a name="tips"></a>Vinkkejä:
 
-- Et **voi** luoda sivustoa, jolla on sama URL-osoite aiemmin luodusta sivustosta. Jos poistit sivuston ja haluat käyttää URL-osoitetta uudelleen, on mahdollista, että poistettu sivusto on edelleen olemassa [Poistetut sivustot](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)-kohdassa. Sivusto on poistettava pysyvästi URL-osoitteen uudelleenkäyttöä varten. Jos haluat poistaa sivuston kokonaan PowerShellin avulla, Katso esimerkki [Poista SPSite-cmdlet-komennosta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Jotkut käyttäjät eivät ehkä voi luoda sivustoa. [Katso sivuston luomisen hallinta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- On mahdollista, että sivusto näyttää juuttuneen **luomaan** odotettua pidempään. Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaudu tuki lippuun. Monissa tapa uksissa olemme jo tekemässä ratkaisua. Ole hyvä ja anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
+- Sivustoa, jolla on sama URL-osoite aiemmin luodussa sivustossa, **ei voi** luoda. Jos olet poistanut sivuston ja haluat käyttää URL-osoitetta uudelleen, poistettu sivusto on mahdollisesti edelleen [Olemassa Poistetut sivustot](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)-kohdassa. Sivusto on poistettava pysyvästi, jotta URL-osoitetta voidaan käyttää uudelleen. Jos haluat poistaa Powershell-sivuston kokonaan, katso [Poista-SPSite-cmdlet-esimerkki.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Jotkin käyttäjät eivät ehkä pysty luomaan sivustoa. [Lisätietoja on ohjeaiheessa Sivuston luomisen hallinta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- On mahdollista, että sivusto näkyy jumissa **luominen** odotettua kauemmin. Jos tämän ongelman ensimmäisestä näkemästäsi on kulunut yli 24 tuntia, kirjaudu tukilipusta. Monissa tapauksissa olemme jo työstänyt ratkaisua. Anna meille vähintään 24 tuntia ratkaisun viimeistelemiseksi.
