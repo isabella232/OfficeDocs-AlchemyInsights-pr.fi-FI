@@ -1,5 +1,5 @@
 ---
-title: S/MIME Outlookissa Webissä
+title: S/MIME Outlookin verkkoversiossa
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764869"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Salaa Sähkö posti viestit Outlookissa
+# <a name="encrypt-email-messages-in-outlook"></a>Salaa sähköpostiviestit Outlookissa
 
-Office 365-sanoman salaus perustuu Microsoft Azure Rights Management (Azure RMS)-tieto suojaan, joka on osa Azure-tietojen suojausta. Jos tilauksesi sisältää Azure Rights Management-tai Azure-tietojen suoja uksen, **sinun ei tarvitse ryhtyä mihinkään toimiin oikeuksien hallinta palvelun ottamiseksi käyttöön tai aktivoimiseksi manuaalisesti** .
+Microsoft 365 -sanomien salaus perustuu Microsoft Azure Rights Managementiin (Azure RMS), joka on osa Azure Information Protectionia. Jos tilauksesi sisältää Azure Rights Managementin tai Azure Information **Protectionin, sinun ei tarvitse tehdä mitään, jotta** oikeuksien hallintapalvelu voidaan ottaa käyttöön tai aktivoida manuaalisesti.
 
-Asiakas palautteen perusteella emme enää voi ottaa käyttöön Exchange Mail Flow-sääntöjä salataksesi automaattisesti lähtevän sähkö postin, joka sisältää tietyntyyppisiä arkaluonteisia tietoja vuokraajassasi oletusarvoisesti. Sen sijaan annamme yksityiskohtaisia ohjeita siitä, miten voitte tehdä niin itse. Lisä tietoja siitä, miten voit luoda kuljetus säännön arkaluonteisten tietojen salaamiseksi, on [tässä artikkelissa](https://aka.ms/OmeEtr).
+Asiakaspalautteen perusteella emme enää salli Exchangen postin kulkusääntöjen salata automaattisesti lähteviä sähköpostiviestejä, jotka sisältävät vuokraajassasi oletusarvoisesti tietyntyyppisiä arkaluonteisia tietoja. Sen sijaan annamme yksityiskohtaisia ohjeita siitä, miten voitte tehdä sen itse. Lisätietoja siirtosäännön luomisesta arkaluonteisten tietojen salaamista varten on [tässä artikkelissa](https://aka.ms/OmeEtr).
 
-- Jos käytät Outlookia verkossa (aiemmin **OWA**): Kun kirjoitat Sähkö posti viestiä, klikkaa **suojaa** OWA-selaimessa. Tämä koskee "Älä välitä"-lupaa. Valitse **Muuta käyttö oikeutta** ja salaa viesti vain valitsemalla **salaa** .
+- Jos käytät Outlookin verkkoyhteyttä (aiemmin **OWA):** Kun kirjoitat sähköpostiviestiä, valitse **OWAssa Suojaa.** Tämä koskee Älä välitä -oikeutta. Valitse **Muuta käyttöoikeuksia** ja salaa vain viesti valitsemalla **Salaa.**
 
-- Jos käytät **Outlook-asiakasta**: Jos haluat lähettää salatun viestin Outlookista 2013 tai 2016 tai Outlook 2016 for Mac, **Valitse asetukset** > -**käyttö oikeudet**ja valitse haluamasi suojaus vaihtoehto.
+- Jos käytät **Outlook-asiakasohjelmaa:** Jos haluat lähettää salatun viestin Outlook 2013:sta tai 2016:sta tai Outlook 2016 for Macista, valitse **Asetukset** > **Ja**valitse sitten haluamasi suojausvaihtoehto.
 
-- Jos haluat **salata automaattisesti kaikki** tietyille vastaanottajille tai ulkopuolisille kumppani organisaatioille lähetetyt sähkö postit, sinun on luotava sähkö postin siirto sääntö Exchange-hallinta keskuksessa. [Tässä tuki artikkelissa](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)on yksityiskohtaisia ohjeita.
+- Jos haluat **salata automaattisesti kaikki** tietyille vastaanottajille tai ulkopuolisille kumppaniorganisaatioille lähetetyt sähköpostiviestit, sinun on luotava postin siirtosääntö Exchange-hallintakeskuksessa. Yksityiskohtaiset ohjeet ovat [tässä tukiartikkelissa](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

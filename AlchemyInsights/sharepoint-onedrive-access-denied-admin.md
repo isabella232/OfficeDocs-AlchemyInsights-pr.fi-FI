@@ -1,28 +1,28 @@
 ---
-title: Käyttö estetty-sanomien vian määritys
+title: Estettyjen viestien käytön vianmääritys
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 57919e6dbd81a5bf3b17fb067485e8eec23b7d4c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 82e11458529b8a49e583b1a6963a51e2a466bfd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051422"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758428"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>SharePoint/OneDrive-hallinta keskuksen käyttö estetty-viestien vian määritys
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Estettyjen viestien vianmääritys Sharepointissa tai OneDrive-hallintakeskuksessa
 
-Jos saat käyttö estetty-sanoman yritettäessä selata SharePoint/OneDrive-hallinta keskukseen, varmista, että määrität [käyttäjälle](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)käyttö oikeuden. Jos käyttäjällä on käyttö oikeus, Varmista myös, että heille on [määritetty järjestelmänvalvojan rooli](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , joka voi käyttää hallinta keskuksia.
+Jos näyttöön tulee käyttöestetty-sanoma, kun yrität selata Sharepoint/OneDrive-hallintakeskusta, varmista, että [määrität käyttäjälle käyttöoikeuden.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One) Jos käyttäjällä on käyttöoikeus, varmista myös, että hänelle [on määritetty järjestelmänvalvojan rooli,](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) joka voi käyttää hallintakeskuksia.
 
-Tämä ongelma voi ilmetä myös, kun käyttäjä poistetaan ja luodaan uudelleen samalla käyttäjä nimellä (UPN). Uusi tili luodaan käyttämällä eri PUID (Passport Unique ID)-arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai OneDrivea, käyttäjällä on väärä PUID-tunnus. Toinen skenaario koskee hakemiston synkronointia Active Directory-organisaatio yksikön (OU) kanssa. Jos käyttäjät ovat jo kirjauduneet sisään SharePointiin ja ne siirretään toiseen kohteeseen ja synkronoidaan SharePointin kanssa, ongelma saattaa ilmetä.
+Tämä ongelma voi ilmetä myös silloin, kun käyttäjä poistetaan ja luodaan uudelleen samalla käyttäjänimellä (UPN). Uusi tili luodaan käyttämällä toista PUID (Passport Unique ID) -arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai OneDrivea, käyttäjällä on virheellinen PUID-tunnus. Toinen skenaario koskee hakemistosynkronointia Active Directory -organisaatioyksikön kanssa. Jos käyttäjät ovat jo kirjautuneet SharePointiin ja siirretään sitten toiseen organisaatioyhteisöön ja synkronoidaan uudelleen SharePointin kanssa, he saattavat kohdata tämän ongelman.
 
-Voit ratkaista tämän ongelman palauttamalla alkuperäisen käyttäjä tieto järjestelmän artikkelin ohjeiden mukaisesti, [palauttamalla käyttäjän Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+Voit ratkaista tämän ongelman palauttamalla alkuperäisen UPN:n noudattamalla artikkelin [Palauta käyttäjä Microsoft 365 :ssä](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)ohjeita.
 
-Huomautus: Jos OneDrive tai SharePointin hallinta keskus ei ole usean sellaisen käyttäjän käytettävissä, joilla on aiemmin ollut käyttö oikeus, kyseessä voi olla tilapäinen palvelu ongelma.  [Tarkista palvelun kunnon koonti näyttö](https://portal.office.com/adminportal/home#/servicehealth).
+Huomautus: Jos OneDrive- tai SharePoint-hallintakeskus ei ole useiden käyttäjien käytettävissä, joilla on aiemmin ollut käyttöoikeus, palveluongelma saattaa olla tilapäinen.  [Tarkista palvelun kunnon koontinäyttö](https://portal.office.com/adminportal/home#/servicehealth).
 
 

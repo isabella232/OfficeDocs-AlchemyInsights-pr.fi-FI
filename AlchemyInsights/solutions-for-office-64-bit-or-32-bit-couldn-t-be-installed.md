@@ -1,9 +1,9 @@
 ---
-title: Ratkaisuja ”ei voinut asentaa Office (64-bittinen tai 32-bittinen)
+title: Officen (64- tai 32-bittisen) ratkaisuja ei voitu asentaa
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501198"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764186"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Ratkaisuja on ”Office (64-bittinen tai 32-bittinen) ei voi asentaa
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Officen (64- tai 32-bittisen) ratkaisuja ei voitu asentaa
 
-”Office (64-bittinen tai 32-bittinen) ei asennettu”-virhe ilmenee, koska et voi sekoittaa Officen 64-bittinen ja 32-bittiset versiot.
+Officen (64- tai 32-bittinen) asennus -virhe ilmenee, koska et voi sekoittaa Officen 64- ja 32-bittisiä versioita.
   
-Korjata virheen ja siirtyminen 32-bittinen ja 64-bittinen, tee seuraavat toimet tässä järjestyksessä.
+Voit korjata tämän virheen ja siirtyä 32-bittisestä 64-bittiseen, toimimalla seuraavassa järjestyksessä.
   
-1. Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.
+1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus -kohdasta** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
-2. Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.
+2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.
+    Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistamisen viimeistelemiseksi.
 
-3. Noudata jäljellä kehotteita ja oikea 32-bittinen vai 64-bittinen versio ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) .
+3. Noudata jäljellä olevia kehotteita ja [asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) oikealla 32- tai 64-bittisellä versiolla.
 
-    Noudata [Asenna Office PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Noudata kohdan [Officen asentaminen tietokoneeseen](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) ohjeita.
 
-Lisätietoja Katso [”Office (64-bittinen tai 32-bittinen) ei voi asentaa” virhe, kun yritän asentaa](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Lisätietoja on [ohjeaiheessa "Officea (64- tai 32-bittinen) ei voitu asentaa ", kun yritettäessä asentaa](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
   

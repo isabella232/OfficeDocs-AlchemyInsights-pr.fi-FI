@@ -1,9 +1,9 @@
 ---
-title: Outlook-kansioiden synkronoiminen ei
+title: Outlook ei synkronoi kansioita
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557318"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768686"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook-kansioiden synkronoiminen ei
+# <a name="outlook-not-synching-folders"></a>Outlook ei synkronoi kansioita
 
-Jos Outlook ei ole synkronoidaan kansiot odotetulla tavalla, on joitakin asioita, voit yrittää korjata ongelman.
+Jos Outlook ei synkronoi kansioita odotetulla tavalla, voit yrittää korjata sen jollain tavalla.
 
-1. Ensisijainen tai jaetun postilaatikon kansioiden määrää. [Katso Outlookin suorituskykyongelmia, kun on liikaa kohteita tai kansioita välimuisti tila-.ost- tai .pst-tiedostokansio](https://support.microsoft.com/help/2768656).
-2. Poista käytöstä kaikkien jaettujen kansioiden tallentamisen välimuistiin.
-3. Vaihda toissijainen Exchange-postilaatikon kokoonpano toisen Exchange-tilin profiiliin.
+1. Vähennä ensisijaisen tai jaetun postilaatikon kansioiden määrää. [Lisätietoja on ohjeaiheessa Outlookin suorituskykyongelmat, kun Välimuistissa olevassa tilassa on liian monta kohdetta tai kansiota.](https://support.microsoft.com/help/2768656)
+2. Poista kaikkien jaettujen kansioiden välimuistiin tallentaminen.
+3. Muuta toissijaisen Exchange-postilaatikon määritykset profiilisi toiseksi Exchange-tiliksi.
 
-Lisätietoja [suorituskyvystä ja synkronointi ongelmia kun toissijaisena postilaatikkona Outlookin kansioiden käsitteleminen](https://support.microsoft.com/help/3115602).
+Lisätietoja on [ohjeaiheessa Suorituskyky- ja synkronointiongelmat, kun käsittelet outlookin toissijaisen postilaatikon kansioita.](https://support.microsoft.com/help/3115602)

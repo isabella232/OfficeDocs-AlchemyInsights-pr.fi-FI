@@ -1,46 +1,46 @@
 ---
-title: O365 Business Essentials-tila uksen määrittäminen
+title: O365 Business Essentials -tilauksen määrittäminen
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767786"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials-tila uksen määrittäminen
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials -tilauksen määrittäminen
 
-Luo Office 365-tilejä ja lisää toimi alueesi
+Microsoft 365 -tilien luominen ja toimialueen lisääminen
   
-- Tässä vaiheessa luot käyttäjillesi Office 365 -tilin ja lisäät oman toimialueesi ohjatun asennustoiminnon avulla. Ohjatun toiminnon avulla voit mukauttaa kaikkien yrityksesi käyttäjä tunnusta ja sähkö postia, kuten [Rob@contoso.com](mailto:rob@contoso.com).
+- Tässä vaiheessa voit luoda microsoft 365 -tilejä käyttäjille ohjatun asennustoiminnon avulla ja lisätä oman toimialueen. Ohjatun toiminnon avulla voit mukauttaa kaikkien yrityksen käyttäjätunnusta ja sähköpostia, kuten [rob@contoso.com](mailto:rob@contoso.com).
     
-- Siirry [Microsoft 365-hallinta keskukseen](https://login.partner.microsoftonline.cn/).
+- Siirry [Microsoft 365 -hallintakeskukseen](https://login.partner.microsoftonline.cn/).
     
-- Käynnistä ohjattu toiminto valitsemalla **Siirry asetuksiin**. Lisä tietoja [on kohdassa toimi alueen lisääminen Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Käynnistä ohjattu toiminto valitsemalla **Siirry asetuksiin**. Lisätietoja on [ohjeaiheessa Toimialueen lisääminen Microsoft 365:een](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
-Tuo Sähkö posti
+Sähköpostin tuominen
   
-- Siirrä nykyiset sähköpostisi ja yhteystietosi muista sähköpostijärjestelmistä Office 365 -postilaatikkoon, jotta näet kaiken samassa paikassa. [Siirrä Sähkö posti ja yhteys tiedot Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)-siirto vaihtoehtoihin.
+- Siirrä nykyiset sähköpostiosoitteesi ja yhteystietosi muista sähköpostijärjestelmistä Microsoft 365 -postilaatikkoosi, jotta näet kaiken yhdessä paikassa. Siirtoasetuksia varten [sähköpostin ja yhteystietojen siirtäminen Microsoft 365:een](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
-- Sähkö posti tilien yhdistäminen
+- Sähköpostitilien yhdistäminen
     
-  - Sen lisäksi, että hallitset Office 365 -sähköpostia Outlookissa, voit yhdistää Outlookiin muita sähköpostitilejä, kuten Gmail- ja Yahoo-tilit. Näin voit hallita kaikkea sähköpostiasi samassa paikassa. Voit yhdistää enintään viisi sähköpostitiliä Outlookiin. Lisä tietoja on kohdassa [Sähkö posti tilien yhdistäminen Outlookissa verkossa (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Outlookin sähköpostin hallinnan lisäksi voit yhdistää myös muita sähköpostitilejä Outlookiin, kuten Gmail- ja Yahoo-tilejä. Näin voit hallita kaikkea sähköpostiasi samassa paikassa. Voit yhdistää enintään viisi sähköpostitiliä Outlookiin. Lisätietoja [on ohjeaiheessa Sähköpostitilien yhdistäminen Outlookin verkkoversiossa (Microsoft 365).](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 
     
 Skype for Businessin asentaminen
   
 - Sinä ja tiimisi jäsenet voitte ladata ja asentaa [Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb)in kaikkiin PC- ja Mac-tietokoneisiin sekä tabletteihin ja puhelimiin. Sen avulla näet kollegoidesi online-tilan, aloitat keskusteluita muista Office-sovelluksista ja järjestät videokokouksia jopa 250 hengelle. 
     
-Tallenna tiedostot verkossa
+Tiedostojen tallentaminen verkkoon
   
-- Lisätietoja yritykselle parhaiten sopivista tallennussijainneista on artikkelissa [Tiedostojen tallentamisen ja jakamisen määritys Office 365:ssä](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kaikki käyttäjät saavat tallennussijainnin **OneDrive** -pilvipalvelussa automaattisesi, kun luot heille Office 365-tilin. OneDriven avulla käytät tiedostoja tietokoneilla, puhelimilla ja tableteilla. 
+- Lisätietoja yrityksellesi parhaiten sopivista tallennuspaikoista on [ohjeaiheessa Tiedostojen tallennuspaikka Microsoft 365:ssä](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kaikki saavat **OneDrive-pilvitallennussijainnin** automaattisesti, kun luot heille Microsoft 365 -tilejä. OneDriven avulla käytät tiedostoja tietokoneilla, puhelimilla ja tableteilla. 
     
-Tarkat ohjeet asennuksesta löytyvät [tästä artikkelista](https://docs.microsoft.com/office365/admin/setup/setup).
+Asennuksen yksityiskohtaiset vaiheet ovat [tässä artikkelissa](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

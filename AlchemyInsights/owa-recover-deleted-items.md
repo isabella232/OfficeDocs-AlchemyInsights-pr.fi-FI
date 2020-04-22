@@ -1,9 +1,9 @@
 ---
-title: Palauta poistetut sähköposti Outlookissa Webissä
+title: Palauta poistetut sähköpostiviestit Outlookin verkkoversiossa
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 730d0910302357ded8125e861a7827da204613c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556058"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765662"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Palauta poistetut sähköposti Outlookissa Webissä
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Palauta poistetut sähköpostiviestit Outlookin verkkoversiossa
 
-1. Valitse vasemmanpuoleisessa ruudussa Poistetut-kansioon tai sähköposti Roskaposti-kansioon.
+1. Valitse vasemmanpuoleisesta ruudusta Poistetut-kansio tai Roskaposti-kansio.
 
 2. Toimi seuraavasti:
 
-    - Poistetut-kansio: Valitse viesti, jonka haluat palauttaa ja valitse **Palauta**. Jos viesti ei ole Poistetut-kansioon, valitse **Palauta tästä kansiosta poistettuja kohteita** viestiluettelon yläpuolella, valitse palautettavan viestin ja valitsemalla **Palauta**.
+    - Poistetut-kansio: Valitse palautettava viesti ja valitse **Palauta**. Jos viestiä ei ole Poistetut-kansiossa, valitse viestiluettelon yläreunassa **Palauta tästä kansiosta poistetut kohteet,** valitse palautettava viesti ja valitse **Palauta**.
 
-    - Sähköposti Roskaposti kansioon: viesti, josta haluat palauttaa ja valitse **roskapostiksi**.
+    - Roskaposti-kansio: Valitse palautettava viesti ja valitse **Ei roskapostia**.
 
-Lisätietoja on ohjeaiheessa [Palauta poistetut sähköpostiviestit Outlook Web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Lisätietoja on [ohjeaiheessa Poistettujen sähköpostiviestien palauttaminen Outlookin verkkoversiossa](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).

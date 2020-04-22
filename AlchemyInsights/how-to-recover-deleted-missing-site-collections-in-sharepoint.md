@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 8787dbcbb802ea55498bc8a737e69bb54b6d8ff6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 75ae4368f0b63f375068dcd9f759527bfde689f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049694"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763464"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Palauta puuttuvat tai poistetut sivustokokoelmat
+# <a name="recover-missing-or-deleted-site-collections"></a>Puuttuvien tai poistettujen sivustokokoelmien palauttaminen
 
-Seuraavissa artikkeleissa on lisä tietoja puuttuvien tai poistettujen sivustokokoelmien palauttamisesta SharePointissa.
+Seuraavissa artikkeleissa on tietoja puuttuvien tai poistettujen sivustokokoelmien palauttamisesta SharePointissa.
 
-[Palauta poistetut sivustot](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Poistettujen sivustojen palauttaminen](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Palauta SPO PowerShell-moduulin avulla](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Palauttaminen SPO PowerShell -moduulin avulla](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Jos et löydä sivustoa, sinun kannattaa [etsiä valvonta lokista Office 365 Security &amp; Compliance Centeristä](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Jos et löydä sivustoa, voit [etsiä valvontalokia &amp; Microsoft 365 Security Compliance Centeristä](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Huom:** "Nykyaikaiset" ryhmäsivustot eivät näy **klassisessa** SharePoint-järjestelmänvalvojan käyttö liittymässä. Voit käyttää "modernien" sivustojen luetteloa [uudesta SharePointin hallinta keskuksesta](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Huomautus:** Nykyaikaiset ryhmäsivustot eivät näy **Perinteisessä** SharePoint-järjestelmänvalvojan käyttöliittymässä. Voit käyttää "nykyaikaisten" sivustojen luetteloa [New Sharepoint -hallintakeskuksesta](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

@@ -1,9 +1,9 @@
 ---
-title: Lähtevä Sähkö posti roska posti-kansioon
+title: Lähtevä sähköposti Roskaposti-kansioon
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 371d2c46e9048365fd343145330536bd9cf1db82
-ms.sourcegitcommit: 1002f510fadb92c143cd6bbb60b42a851d5a38e1
+ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37062768"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761165"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Lähtevä Sähkö posti roska posti-kansioon
+# <a name="outbound-email-to-junk-email-folder"></a>Lähtevä sähköposti Roskaposti-kansioon
 
-Jos näet, että lähtevät viestit merkitään roska postiksi, toimi seuraavasti:
+Jos näet lähtevien viestien merkitsemisen roskapostiksi, toimi seuraavasti:
 
-- Harkitse [lähtevien roska posti käytäntöjen ilmoitusten määrittämistä](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy), jos et ole jo tehnyt niin.
+- Jos et ole vielä määrittänyt [lähtevien roskapostiilmoitusten määrittämistä](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
 
-- Käytä [Sanomien jäljitystä](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) nähdäksesi, onko lähtevässä viestissä tapahtuma arvo **roska posti** , jossa on lisä tietoja: **Käytä suuren riskin toimitus varannon**.
+- [Viestin jäljityksen](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) avulla voit tarkistaa, onko lähtevän viestin tapahtumaarvo **Roskaposti** ja lisätiedot: Käytä suuren **riskin toimituspoolia**.
 
-  Jos kyse on näistä viesteistä, tarkista viestin sisältö ja Katso, mitä roska postiksi saatetaan pitää. Esimerkiksi allekirjoitukset voivat joskus aiheuttaa ongelmia monille käyttäjille.
+  Tarkista näiden viestien sisällöstä, mitä voidaan pitää roskapostina. Allekirjoitukset voivat esimerkiksi joskus aiheuttaa ongelmia monille käyttäjille.
 
-  Jos sinulla on useita esimerkkejä laillisista lähtevistä viesteistä, jotka on merkitty roska postiksi, avaa tuki pyyntö ja pyydä tuki agenttia lähettämään viestisi vääriksi positiivisiksi roska postin analyytikoille. Valmistaudu tarjoamaan näyte sanomia, jotka sisältävät kaikki viestien otsikot.
+  Jos sinulla on useita esimerkkejä laillisista lähtevistä viesteistä, jotka on merkitty roskapostiksi, avaa tukipyyntö ja pyydä tukiagenttia lähettämään viestisi väärinä positiivisina roskapostianalyytikoillemme. Valmistaudu antamaan malliviestejä, jotka sisältävät kaikki viestin otsikot.

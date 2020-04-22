@@ -1,9 +1,9 @@
 ---
-title: Virhe 30016-4 ratkaisut
+title: Ratkaisuja virheeseen 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501940"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757018"
 ---
-# <a name="solutions-for-error-30016-4"></a>Virhe 30016-4 ratkaisut
+# <a name="solutions-for-error-30016-4"></a>Ratkaisuja virheeseen 30016-4
 
-Kun yrität poistaa tietokoneesta, Office 365 ProPlus ja näkyviin tulee virheilmoitus, **käytit väärää 30016-4**, se tarkoittaa **% temp %** -asema on yhdistetty asemaan **% ProgramFiles %**.
+Kun yrität poistaa Microsoft 365 Apps for enterprise -sovelluksen asennuksen tietokoneesta ja saat virhesanoman, jossa on virhe **30016-4**, se tarkoittaa, että **%temp%** -asema on yhdistetty muuhun asemaan kuin **%ProgramFiles%.**
   
-Korjaamiseen, lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+[Support and Recovery Assistantin](https://aka.ms/SARA-OfficeUninstall-Alchemy) korjaaminen lataamalla ja asentamalla
   
-1. Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.
+1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus -kohdasta** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
-2. Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.
+2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.
+    Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistamisen viimeistelemiseksi.
 
-3. Noudata jäljellä kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulkea avustajan.
+3. Noudata jäljellä olevia kehotteita ja [asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.

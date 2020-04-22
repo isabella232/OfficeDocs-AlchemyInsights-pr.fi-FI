@@ -1,9 +1,9 @@
 ---
-title: Työn kulku ei käynnistyi
+title: Työnkulku ei käynnisty
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766094"
 ---
-# <a name="workflow-is-not-starting"></a>Työn kulku ei käynnistyi
+# <a name="workflow-is-not-starting"></a>Työnkulku ei käynnisty
 
-- SharePoint 2010 ja SharePoint 2013-työn kulut eivät käynnistyi.
+- SharePoint 2010- ja SharePoint 2013 -työnkulut eivät käynnisty.
 
-    - Jos työn kulku ei ole käynnistyminen, saattaa olla tilapäinen palvelu ongelma, jossa käyttäjät saattavat kohdata ajoittaisia viiveitä työn kulun edistymisen kanssa. Tarkista [palvelun kunnon koonti näytöstä](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiossasi vaikutusta.
+    - Jos työnkulku ei käynnisty, työnkulussa saattaa ilmetä tilapäinen palveluongelma. Tarkista [palvelun kunnon hallintapaneelista,](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) vaikuttaako organisaatiosi organisaatioon.
 
-    - Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaudu tuki lippuun. Monissa tapa uksissa olemme jo tekemässä ratkaisua. Ole hyvä ja anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
+    - Jos tämän ongelman ensimmäisestä näkemästäsi on kulunut yli 24 tuntia, kirjaudu tukilipusta. Monissa tapauksissa olemme jo työstänyt ratkaisua. Anna meille vähintään 24 tuntia ratkaisun viimeistelemiseksi.
 
-- SharePoint 2010-työn kulut viivästyivät käynnistyksen jälkeen.
+- SharePoint 2010 -työnkulut viivästyivät käynnistyksen.
 
-    - Näin tapahtuu, jos työn kulku käynnistetään suurissa erissä. (esimerkiksi kun useita kohteita lisätään kerralla).
+    - Näin tapahtuu, jos työnkulku käynnistyy suurissa erissä. (esimerkiksi, kun useita kohteita lisätään kerralla).
 
-    - Työn kulkuja ei ole suunniteltu suorittamaan reaaliaikaista toimintaa, joten viive on suunnittelun mukaan suoritettava.
+    - Työnkulkuja ei ole suunniteltu toimimaan reaaliaikaisesti, joten viive on suunnittelukäyttäytyminen.
 
-   -  Jos työn kulku on monimutkainen XMOL (Extensible Object Markup Language)-kieli, kääntäminen voi olla hidasta. Tarkista [Tämä](https://support.microsoft.com//kb/3043697) artikkeli.
+   -  Jos työnkulku on monimutkainen XMOL (Extensible Object Markup Language) -kieli, kääntäminen voi olla hidasta. Tarkista [tämä](https://support.microsoft.com//kb/3043697) artikkeli.
 
-    - Yksinkertaista työn kulkua tai Suunnittele se uudelleen käyttämällä Microsoft SharePoint 2013-työn kulku ympäristön tyyppiä.
+    - Yksinkertaista työnkulkua tai suunnittele se uudelleen Microsoft SharePoint 2013 Workflow -ympäristötyypin avulla.
 
-    - Jos työn kulku historiasi on kasvanut suureksi, haluat ehkä tyhjentää kohteet tai luoda uuden historia luettelon.
+    - Jos työnkulkuhistoriaon kasvanut suuri, haluat ehkä tyhjentää kohteet tai luoda uuden historialuettelon.
 
-        Lisä tietoja: [työn kulku historian Tyhjentuminen](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Lisätietoja : [Työnkulun historian puhdistaminen](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Aiheeseen liittyvät artikkelit
 Haluatko kokeilla Microsoft Flow'ta SharePoint Onlinessa?
-- [Luo työn kulku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Luo työnkulku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint ja Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

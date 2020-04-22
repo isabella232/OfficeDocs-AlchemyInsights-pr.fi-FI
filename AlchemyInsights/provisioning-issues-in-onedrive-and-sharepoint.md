@@ -1,21 +1,21 @@
 ---
-title: OneDriven ja SharePointin valmistelu ongelmat
+title: Valmisteluongelmat OneDrivessa ja SharePointissa
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: 5a34fe8821f4f0f314c43b58782cac4546faceac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3eda12d4fff625325cc55251444b489459f09fa
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054338"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767930"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>OneDriven ja SharePointin valmistelu ongelmat
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Valmisteluongelmat OneDrivessa ja SharePointissa
 
-Kun käyttäjä lisätään olemassa olevaan Office 365-vuokraajaan, he saattavat nähdä SharePoint Onlinen tai OneDrive for Business-kuvakkeet, jotka on lueteltu asetukset-kohdassa, kunnes valmistelu prosessi on suoritettu loppuun. Uusille tileille käyttäjien on kirjauduttava sisään Microsoft 365 Admin Centeriin omalla tililleen ja sitten OneDrive-palveluun, jotta voit aloittaa OneDrive-sivuston tarjoamisen manuaalisesti.
+Kun käyttäjä lisätään aiemmin luotuun vuokraajaan, hän saattaa nähdä SharePoint Online- tai OneDrive for Business -kuvakkeet ,jotka on lueteltu "Määrittäminen"-kohdassa, kunnes valmisteluprosessi on valmisteltu. Jos käyttäjä on äskettäin luonut äskettäin luotuja tilejä, heidän on kirjauduttava Microsoft 365 -hallintakeskukseen omalla tilillään ja käynnistettävä OneDrive manuaalisesti.
   
-Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaa tuki tapaus. Monissa tapa uksissa olemme jo tekemässä ratkaisua. Ole hyvä ja anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
+Jos tämän ongelman ensimmäisestä näkemästäsi on kulunut yli 24 tuntia, kirjaudu tukitapaukseen. Monissa tapauksissa olemme jo työstänyt ratkaisua. Anna meille vähintään 24 tuntia ratkaisun viimeistelemiseksi.
   

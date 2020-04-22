@@ -1,30 +1,30 @@
 ---
-title: Kuka on kuitannut tiedoston ulos?
+title: Kuka on kassalla?
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 4fcf59f7f803f4824bedc38c1a57ff2368367c11
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1f834d972829aa643edd90f7ae2419b402e3a8f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054879"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765122"
 ---
-# <a name="who-has-a-file-checked-out"></a>Kuka on kuitannut tiedoston ulos?
+# <a name="who-has-a-file-checked-out"></a>Kuka on kassalla?
 
-Voit tarkistaa, kenellä on tiedosto uloskuitattuna SharePointissa, toimimalla jommallakummalla seuraavista vaiheista:
+Voit tarkistaa, kuka on kuitannut tiedoston SharePointissa, jommallakummalla seuraavista tavoista:
   
-1. Vie hiiri ulos **kuitattu** -kohdasta nähdäksesi työkalu vihjeen, joka kertoo, kuka on kuitannut tiedoston ulos. 
+1. Vie hiiren osoitin **Ulos kuitattujen** tiedostojen päälle, niin näet työkaluvihjeen, joka kertoo, kuka on kuitannut tiedoston ulos. 
     
-2. Lisää **uloskuitattu** -sarake kirjaston oletus näkymään. Näin jokainen näkee helposti, kuka on kuitannut asia kirjan ulos. 
+2. Lisää **Uloskuittaaminen-sarake** kirjaston oletusnäkymään. Näin kaikki näkevät helposti, kuka on kuitannut asiakirjan ulos. 
     
-Lisä tietoja kuitattu ulos-sarakkeen lisääminen SharePointissa on kohdassa [sarakkeen luominen luetteloon tai kirjastoon](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Lisätietoja Uloskuittaamalla-sarakkeen lisäämiseen SharePointissa on [ohjeaiheessa Sarakkeen luominen luetteloon tai kirjastoon](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Katso usein kysyttyjä kysymyksiä sisään-tai uloskuittauksia, katso [yleisimmät kysymykset uloskuittauksia, Check-in](https://go.microsoft.com/fwlink/?linkid=2018786).
+Lisätietoja sisään- tai uloskirjautumisesta on [ohjeaiheessa Uloskirjautumista ja uloskuittaamisesta liittyviä kysymyksiä.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 

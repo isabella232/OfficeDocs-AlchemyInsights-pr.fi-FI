@@ -1,9 +1,9 @@
 ---
-title: 9000236 Outlook.com Lisää tili
+title: 9000236 Outlook.com lisää tili
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8224ded963b3098b78b20f6bb157c183243d769b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538197"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760985"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Lisää Muut sähkö posti tilisi Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Muiden sähköpostitilien lisääminen Outlook.com
 
-Kun lisäät muita Sähkö posti tilejä Outlook.com, voit käyttää Outlook.com lähettää ja lukea Sähkö posti viestejä kyse isistä tileistä poistumatta Outlook.com. Jokaista tiliä, jonka lisäät Outlook.com, kutsutaan yhdisteyksi tiliin.
+Kun lisäät Outlook.com muita sähköpostitilejä, voit käyttää Outlook.com sähköpostiviestien lähettämiseen ja lukemiseen kyseisiltä tileiltä poistumatta Outlook.com. Jokaista Outlook.com lisäämäsi tiliä kutsutaan yhdistetyksi tiliksi.
 
-Huomautus: synkronointi liitetystä tilistä Outlook.com-tiliisi on yksisuuntainen. Liitetystä tilistäsi lähetetty Sähkö posti Outlook.com-toiminnolla ei näy liitetyssä tilissä lähetetyistä kohteista.
+Huomautus: Synkronointi yhdistetystä tilistä Outlook.com-tiliin on vain yksisuuntainen. Yhdistetyltä tililtäsi Outlook.com lähetetyt sähköpostiviestit eivät näy yhdistetyssä tilissäsi Lähetetyt.
 
-Voit lisätä yhdistetyn tilin:
+Yhdistetyn tilin lisääminen:
 
-1. Avaa [synkronoinnin Sähkö posti asetukset](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Valitse **yhdistetyt tilit**-kohdassa **Gmail** tai **Muut sähkö posti tilit**.
-3. Anna Yhdistä tili-sivulla näyttö nimi (nimi vastaanottajat näkevät, kun he saavat sinulta Sähkö posti viestin) ja Sähkö posti tilin täydellisen Sähkö posti osoitteen ja Sala sanan, jonka haluat yhdistää Outlook.com-tiliisi.
+1. Avaa [Synkronoi sähköposti -asetukset](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Valitse **Yhdistetyt tilit**-kohdassa **Gmail** tai **Muut sähköpostitilit**.
+3. Kirjoita Yhdistä tili -sivulle näyttönimi (nimen vastaanottajat näkevät, kun he saavat sähköpostiviestin sinulta) sekä sen sähköpostitilin koko sähköpostiosoitteen ja salasanan, jonka haluat muodostaa Outlook.com-tilillesi.
 
-Voit lähettää sähkö postia miltä tahansa tililtä, jonka olet muodostanut yhteyden Outlook.com-tiliisi. Kun kirjoitat sähkö postia, **Valitse ja valitse** , mitä sähkö posti osoitetta haluat käyttää, tai [Päivitä oletus osoite](https://go.microsoft.com/fwlink/?linkid=875264).
+Voit lähettää sähköpostia mistä tahansa tilistä, jonka olet yhdistänyt Outlook.com-tiliisi. Kun kirjoitat sähköpostia, valitse **Mistä** ja valitse haluamasi sähköpostiosoite tai [päivitä oletusosoite](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Jos haluat lisä tietoja, Lue lisää [Muut sähkö posti tilit kohteeseen Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on ohjeaiheessa [Muiden sähköpostitilien lisääminen Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Jos haluat luoda uuden sähkö posti osoitteen, joka käyttää samaa Outlook.com-tiliä, Lue [Lisää tai poista sähköpostialias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Jos haluat luoda uuden sähköpostiosoitteen, joka käyttää samaa Outlook.com tiliä, lue lisätietoja kohdasta [Sähköpostialiaksen lisääminen tai poistaminen](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,9 +1,9 @@
 ---
-title: Uusimisen Akti voiminen ja hallinta
+title: Uusimisen aktivoiminen uudelleen ja hallinta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763431"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Toistuvan laskutuksen uudelleenaktivointi ja hallinta
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Toistuvan laskutuksen aktivoiminen uudelleen ja hallinta
 
-Näyttää siltä, että sinulla on tilaus, joka on vanhentunut. Jos haluat aktivoida sen uudelleen, näin.
+Näyttää siltä, että sinulla on tilaus, joka on vanhentunut. Tokko te kuin jotta aktivoida se, harhaoppi' kuinka.
   
-1. Siirry hallinta keskukseen, **laskutus** \> [tuotteet _amp_ Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Etsi tilaus, jonka haluat aktivoida uudelleen. Valitse **laskutus** -osiosta **Aktivoi uudelleen**.
+2. Valitse tilaus, jonka haluat aktivoida uudelleen. Valitse **Laskutus-osassa** **Aktivoi uudelleen**.
 
-    Jos et näe **Aktivoi uudelleen** -vaihto ehtoa, käytä "Tarvitsetko apua"-painiketta, kun haluat keskustella tuki palvelun kanssa ja aktivoida tilauksesi uudelleen.
+    Jos **vaihtoehtona** ei näy Aktivoi uudelleen -vaihtoehtoa, käytä "Tarvitset apua" -painiketta puhuaksesi tukihenkilölle aktivoidaksesi tilauksesi uudelleen.
 
-3. Vahvista maksu tietosi. Voit päivittää olemassa olevat maksu tietosi täällä. Kun olet lopettanut maksu tapasi syöttämisen, valitse **Aktivoi uudelleen**.
+3. Vahvista maksutietosi. Voit päivittää maksutietosi täällä. Kun olet syöttänyt maksutavan, valitse **Aktivoi uudelleen**.
 
-Lisä tietoja on kohdassa [tila uksen Akti Voiminen uudelleen](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Kuukausittaisen tai vuosittaisen laskutuksen hallinnoimiseksi voit ottaa **toistuvan laskutuksen** käyttöön tai poistaa sen käytöstä.
+Kuukausittaisen tai vuosittaisen laskutuksen hallitsemiseksi voit ottaa **toistuvan laskutuksen** käyttöön tai poistaa sen käytöstä.
   
-1. Siirry hallinta keskukseen, **laskutus** \> [tuotteet _amp_ Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Valitse tilaus, jonka toistuvan laskutuksen haluat hallita.
+2. Valitse tilaus, jonka automaattista laskutuksen uusimista haluat hallita.
 
-3. Valitse **laskutus**-kohdan vierestä **uudelleen** tai **vanhenemassa**. ****
+3. Valitse **Laskutus -kohdan** **Uusi uusiminen** - tai **Vanheneminen -kohdan**vierestä -kohdassa **Muokkaa**.
 
-4. Valitse **toistuvan laskutuksen asetukset** - **ruudussa Sammuta, jos haluat poistaa** sen käytöstä. Jos Toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **kuukausittain** tai **kerran** .
+4. Poista käytöstä valitsemalla **Toistuvat laskutusasetukset** -ruudussa **Poista** käytöstä. Jos toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **Kuukausittain** tai **Kerran.**
 
 5. Valitse **Lähetä muutos**.
 
-Lisä tietoja [on kohdassa toistuvan laskutuksen poistaminen käytöstä tai käytössä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
