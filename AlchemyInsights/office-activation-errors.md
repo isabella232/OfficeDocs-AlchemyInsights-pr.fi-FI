@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118441"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713319"
 ---
 # <a name="office-activation-errors"></a>Office-aktivointivirheet
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118441"
 
 3. Jos Officessa ei edelleenkään ole käyttöoikeutta, lataa [aktivointiongelmien vianmääritystyökalu](https://aka.ms/SARA-OfficeActivation-Alchemy) ja suorita se kyseisessä koneessa aktivointiongelmien ratkaisemiseksi. 
 
-4. Jos Officessa ei edelleenkään ole käyttöoikeutta, [palauta Officen aktivointitila](https://docs.microsoft.com/fi-FI/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä.  
+4. Jos Officessa ei edelleenkään ole käyttöoikeutta, [palauta Officen aktivointitila](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä.  
 
 5. Lisää vianmääritystoimia on artikkelissa [Ei käyttöoikeutta -virheet ja aktivointivirheet Officessa](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

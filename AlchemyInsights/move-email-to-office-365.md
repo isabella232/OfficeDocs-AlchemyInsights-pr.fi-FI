@@ -1,5 +1,5 @@
 ---
-title: 'Sähköposti siirretään Office 365: ssä'
+title: Sähköpostin siirtäminen Microsoft 365:hen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713607"
 ---
-# <a name="move-email-to-office-365"></a>Sähköposti siirretään Office 365: ssä
+# <a name="move-email-to-microsoft-365"></a>Sähköpostin siirtäminen Microsoft 365:hen
 
-Sinulla on useita monella tavalla haluat Office 365: ssä. [Office 365: n sähköpostin siirron tukipalvelu](https://aka.ms/alchemyinsight-mailmigrationadvisor) auttaa valitsemaan paras ympäristön ja myös opastaa sähköpostin siirron.
+Voit siirtää sähköpostia Microsoft 365:hen useilla eri tavoilla. [Microsoft 365:n sähköpostin siirron neuvojaauttaa](https://aka.ms/alchemyinsight-mailmigrationadvisor) sinua valitsemaan ympäristön parhaan ja opastaa myös sähköpostin siirtämisessä.
   
-Tutustu valittavissa oleviin vaihtoehtoihin käynnistämättä siirto on [päättää siirron polku](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Lisätietoja vaihtoehdoista käynnistämättä siirtoa on ohjeaiheessa [Siirtopolun valitseminen](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Myös Tarkista [Office 365 antaa kanssa FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) sivun siirtäminen, maksullista apua Jos tukikelpoinen.
+Tarkista myös [Hyväksy Microsoft 365 fasttrack-sivulta](https://www.microsoft.com/fasttrack/microsoft-365/office-365) avustaa muuttoliike, jos oikeutettu.
   

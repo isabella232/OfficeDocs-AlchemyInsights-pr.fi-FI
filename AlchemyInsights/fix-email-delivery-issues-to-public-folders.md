@@ -1,9 +1,9 @@
 ---
-title: Korjaa sähköpostin toimitus ongelmat postijärjestelmän käynnistämät yleisiin kansioihin
+title: Sähköpostin toimitusongelmien korjaaminen sähköpostia käyttäviin yleisiin kansioihin
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525098"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716349"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Korjaa sähköpostin toimitus ongelmat postijärjestelmän käynnistämät yleisiin kansioihin
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Sähköpostin toimitusongelmien korjaaminen sähköpostia käyttäviin yleisiin kansioihin
 
-Jos Ulkoiset lähettäjät voi lähettää viestejä, mail käytössä yleisissä kansioissa ja lähettäjien, näyttöön tulee virhesanoma: **(550 5.4.1) ei löytynyt**, Tarkista sähköposti toimialue on yleinen kansio on määritetty sisäinen relay toimialueen sijaan hallitseva toimialue:
+Jos ulkoiset lähettäjät eivät voi lähettää viestejä sähköpostia käyttäviin yleisiin kansioihin ja lähettäjät saavat virheen: **sitä ei löytynyt (550 5.4.1),** varmista, että yleisen kansion sähköpostitoimialue on määritetty sisäiseksi välitystoimialueeksi hallitsevan toimialueen sijaan:
 
-1. Avaa [Exchange-hallintakeskukseen (AKV)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Avaa [Exchange-hallintakeskus (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Siirry **postin kulku** \> **hyväksytyt toimialueet**, hyväksytty toimialue ja valitse sitten **Muokkaa**.
+2. Siirry **kohtaan Sähköpostin kulku** \> **Hyväksytyt toimialueet**, valitse hyväksytty toimialue ja valitse sitten **Muokkaa**.
 
-3. Ominaisuudet-sivu, avautuu Jos **tärkeimmät**määritetään toimialueen laji, muuta **sisäistä relay** ja valitse sitten **Tallenna**.
+3. Jos näyttöön avautuvalla ominaisuudet-sivulla toimialuetyypiksi on määritetty **Hallitseva,** muuta arvoksi **Sisäinen välitys** ja valitse sitten **Tallenna**.
 
-Jos Ulkoiset lähettäjät tulee virhe, **sinulla ei ole oikeuksia (550 5.7.13)**, [Exchange Online-PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) julkisessa kansiossa anonyymeille käyttäjille oikeudet suorittamalla seuraavan komennon:
+Jos ulkoiset lähettäjät saavat **virheen, johon sinulla ei ole oikeuksia (550 5.7.13),** suorita seuraava komento [Exchange Online PowerShellissä,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) niin näet anonyymien käyttäjien käyttöoikeudet yleiseen kansioon:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Esimerkiksi `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
 
-Ulkoiset käyttäjät voivat lähettää sähköpostia tähän yleiseen kansioon, Lisää CreateItems käyttöä oikealle anonyymi käyttäjä. Esimerkiksi `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Jos haluat, että ulkoiset käyttäjät voivat lähettää sähköpostia tähän yleiseen kansioon, lisää CreateItems-käyttöoikeus anonyymille käyttäjälle. Esimerkiksi `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.

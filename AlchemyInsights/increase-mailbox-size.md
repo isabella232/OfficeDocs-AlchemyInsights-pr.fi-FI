@@ -1,5 +1,5 @@
 ---
-title: Suurenna posti laatikon kokoa
+title: Postilaatikon koon suurentaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068296"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714039"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Vaihda suunnitelmat posti laatikon koon lisäämiseksi
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Vaihda tilauksia postilaatikon koon suurentamiseksi
 
-Jos Office 365-posti laatikon koko on jo 100 gt, sitä ei voi lisätä.
+Jos postilaatikon koko on jo 100 Gigatavua, sitä ei voi lisätä.
   
-Jos posti laatikon koko on 50 gt, voit kasvattaa sitä 100 gt:ksi siirtymällä [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) -tai [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)-kohteeseen. Voit siirtyä toiseen Office 365-suunnitelmaan seuraavasti:
+Jos postilaatikon koko on 50 Gigatavua, voit suurentaa sen 100 Gigatavuun siirtymällä [Office 365 Enterprise E3:een](https://products.office.com/business/office-365-enterprise-e3-business-software) tai [Office 365 Enterprise E5:een.](https://products.office.com/business/office-365-enterprise-e5-business-software) Voit siirtyä toiseen tilaukseen seuraavasti:
   
-1. Siirry Microsoft 365-hallinta keskukseen **laskutus** \> [tuotteet-& Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Siirry Microsoft 365 -hallintakeskuksessa \> [Laskutustuotteet-& palvelut -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing**
 
-2. Valitse tilaus, jonka haluat päivittää.
+2. Valitse päivitettävä tilaus.
 
-3. Valitse tila uksen tiedot-sivulla **Päivitä**.
+3. Valitse tilauksen tiedot -sivulla **Päivitä**.
 
-4. Etsi suunnitelma, johon haluat päivittää, ja valitse sitten **Päivitä** -painike.
+4. Etsi suunnitelma, johon haluat päivittää, ja **Upgrade** valitse sitten Päivitä-painike.
 
-5. Syötä haluamasi käyttö oikeuksien määrä, valitse, maksatko kuukausittain vai koko vuoden, ja valitse sitten **poistuminen**.
+5. Anna tarvitsemiesi käyttöoikeuksien määrä, valitse, maksetaanko kuukausittain vai koko vuodelta, ja valitse sitten **Kassalle**.
 
-Lisä tietoja [on kohdassa Päivitä toiseen suunnitelmaan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Lisätietoja on kohdassa [Päivittäminen toiseen palvelupakettiin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Jos sinulla on [Office 365-suunnitelma, joka tukee in-Place-arkistoa](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), voit myös hankkia lisää Sähkö posti tallennus tilaa ottamalla Arkisto-posti laatikon käyttöön. Arkisto-posti laatikko antaa sinulle lisää tallennus tilaa ja sallii sinun siirtää, kopioida ja etsiä viestejä sekä ensisijaisen että arkiston posti laatikossa. Lisä tietoja Arkisto posti laatikon käyttöönotoimista on kohdassa [Arkisto posti laatikon ottaminen käyttöön](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Jos sinulla on [tilaus, joka tukee in-place-arkistoa,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)voit myös hankkia lisää sähköpostitallennustilaa ottamalla käyttöön arkistopostilaatikon. Arkistopostilaatikossa on lisää tallennustilaa, ja voit siirtää, kopioida ja etsiä viestejä sekä ensisijaisessa postilaatikossa että arkistopostilaatikossa. Lisätietoja arkistopostilaatikon ottamisesta käyttöön on ohjeaiheessa [Arkistopostilaatikon ottaminen käyttöön](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

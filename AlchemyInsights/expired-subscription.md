@@ -3,7 +3,7 @@ title: Vanhentunut tilaus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665037"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714147"
 ---
 # <a name="expired-subscription"></a>Vanhentunut tilaus
 
-Siltä, että sinulla on yksi tai useampi vanhentuneita tilauksia. Jos haluat jatkaa palvelun aktivoida tilauksen tai tehdä uusi ostotilaus.
+Näyttää siltä, että sinulla on vähintään yksi vanhentunut tilaus. Jos haluat jatkaa huoltoa, sinun on aktivoitava tilaus uudelleen tai tehtävä uusi ostos.
   
-**Aktivoi uudelleen**
+**Uudelleenaktivointi**
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Etsi tilaus, jonka haluat aktivoida uudelleen. Valitse **Laskutus** -kohdassa **uudelleen**.
+2. Valitse tilaus, jonka haluat aktivoida uudelleen. Valitse **Laskutus**-osassa **Aktivoi uudelleen**.
 
-Jos et **Aktivoi** toiminnon, kutsu ja Uudista tilauksesi.
+Jos **Aktivoi tilaus uudelleen** -vaihtoehto ei ole käytettävissä, aktivoi tilauksesi uudelleen soittamalla tukipalveluun.
 
-3. Vahvista maksutiedot. Voit päivittää olemassa olevat maksutiedot tähän. Kun olet kirjoittanut maksutapasi, valitse **Aktivoi**.
+3. Vahvista maksutietosi. Voit päivittää maksutietosi täällä. Kun olet lisännyt maksutavan, valitse **Aktivoi uudelleen**.
 
-Lisätietoja on ohjeaiheessa [aktivoida tilauksesi uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Tee uusi ostotilaus**
+**Tee uusi ostos**
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [palveluiden osto](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
+1. Siirry hallintakeskuksessa \> [Laskutusostopalvelut-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing**
 
 2. Valitse tilaus, jonka haluat ostaa, ja valitse sitten **Osta**.
 
-3. Anna haluamasi käyttöoikeuksien määrä ja valitse maksutapa (kuukausittain tai vuosittain). Valitse, haluatko määrittää automaattisesti käyttöoikeudet kaikille käyttäjille, joilla ei ole tällä hetkellä käyttöoikeuksia. Valitse **Kuittaa ulos**.
+3. Anna haluamasi käyttöoikeuksien määrä ja valitse maksutapa (kuukausittain tai vuosittain). Valitse, haluatko määrittää automaattisesti käyttöoikeudet kaikille käyttäjille, joilla ei ole tällä hetkellä käyttöoikeuksia. Valitse sitten **Kuittaa ulos nyt**.
 
-4. Tekemällä vaiheet loppuun uloskuittaus.
+4. Suorita kuittaus loppuun noudattamalla jäljellä olevia vaiheita.
 
-Lisätietoja on kohdassa [ostaa toinen tilaus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Lisätietoja on ohjeaiheessa [Toisen tilauksen ostaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

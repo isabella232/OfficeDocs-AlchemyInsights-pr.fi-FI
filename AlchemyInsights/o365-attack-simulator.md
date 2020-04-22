@@ -1,9 +1,9 @@
 ---
-title: 2681 hyökkäys simulaattori Office 365
+title: 2681 Hyökkäys Simulaattori Microsoft 365:ssä
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,31 +11,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305329"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713463"
 ---
-# <a name="attack-simulator-in-office-365"></a>Hyökkäys simulaattori Office 365
+# <a name="attack-simulator-in-microsoft-365"></a>Hyökkäys Simulator Microsoft 365:ssä
 
-- Puuttuuko hyökkäys simulaattori? Hyökkäys simulaattori edellyttää **office 365 Advanced uhkien torjunta suunnitelma 2 (ATP-suunnitelma 2)** tai **Office 365 Enterprise E5**. Hyökkäys simulaattori **ei** sisälly Office 365 Advanced Threat Protection-suunnitelmaan 1 (ATP-suunnitelma 1), Office 365 Enterprise E3-yritykseen tai mihin tahansa Office 365-yritys tilauksiin.
+- Kaipaatko Attack Simulatoria? Attack Simulator edellyttää **Office 365 Advanced Threat Protection Plan 2:ta (ATP-sopimus 2)** tai **Office 365 Enterprise E5:tä.** Attack Simulator **ei** sisälly Office 365 Advanced Threat Protection Plan 1:een (ATP-palvelupaketti 1), Office 365 Enterprise E3:een tai mihinkään Microsoft 365 Apps for Business -tilaukseen.
 
-- Simuloitujen hyökkäysten käynnistämiseen käytettävä tili edellyttää yleisen järjestelmänvalvojan tai suoja uksen järjestelmänvalvojan oikeuksia ja monimitostodennusta (MFA). Lisä tietoja hyökkäys simulaattorin vaatimuksista [on tässä ohje aiheessa](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Simuloidun hyökkäyksen käynnistämiseen käytettävä tili edellyttää yleisiä järjestelmänvalvojan tai suojauksen järjestelmänvalvojan oikeuksia ja monivaiheista todennusta.The account you use to launch simuloituja hyökkäyksiä edellyttää yleisiä järjestelmänvalvojan tai suojauksen järjestelmänvalvojan oikeuksia ja monivaiheinen todennus (MFA). Lisätietoja Attack Simulator -vaatimuksista on [tässä ohjeaiheessa](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
-- Tärkeitä asioita tietää **Brute Force sala sana** hyökkäys simulaatiot:
+- Tärkeää tietoa **Brute Force Salasana** hyökkäys simulaatioita:
 
-  - Jos kohde tili on MFA käytössä ja sala sana on arvattu oikein, tiliä ei näy vaarantuneeksi (toinen todennus kerroin on puutteellinen).
+  - Jos kohdetilillä on mfa käytössä ja salasana on arvattu oikein, tiliä ei näytetä vaarantunut (toinen todennuskerroin on epätäydellinen).
 
-  - Salasana tiedoston koko ei voi olla suurempi kuin 10 Mt. Käytä yksi sala sana riviä kohden ja Sisällytä tyhjä rivi (rivin tuotto) luettelon viimeisen Sala sanan jälkeen.
+  - Salasanatiedosto ei voi olla suurempi kuin 10 Mt. Käytä yhtä salasanaa riviä kohden ja sisällytä tyhjä rivi (rivinvaihto) luettelon viimeisen salasanan jälkeen.
 
-- Tärkeitä asioita tietää **Spear phishing** Liitä simulaatiot:
+- Tärkeitä asioita tietää **Spear Phishing** liittää simulaatioita:
 
-  - Et voi antaa mukautettua arvoa **tietojen kalastelun torjunta palvelimen URL-osoitteelle**.
+  - **Tietojenkalastelun kirjautumispalvelimen URL-osoitteelle**ei voi antaa mukautettua arvoa.
 
-  - Jos vastaanottaja ilmoittaa sanoman tietojenkalasteluksi [Ota käyttöön raportti viesti-apuohjelman](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) avulla, et ehkä saa ilmoituksia viestistä (koska kyseessä on simuloitu hyökkäys).
+  - Jos vastaanottaja käyttää [Ota raporttiviesti käyttöön -apuohjelmaa](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) ilmoittaakseen viestin tietojenkalasteluksi, et ehkä saa ilmoituksia viestistä (koska kyseessä on simuloitu hyökkäys).
 
-- Raportit: kun simuloitu hyökkäys on valmis, voit napsauttaa **hyökkäys tiedot** nähdäksesi raportin.
+- Raportit: Kun simuloitu hyökkäys on valmis, voit tarkastella raporttia valitsemalla **Hyökkäystiedot.**
 
-- Tarkempia ohjeita ja uusia ominaisuuksia hyökkäys simulaattori, katso [hyökkäys simulaattori Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Yksityiskohtaiset ohjeet ja uudet ominaisuudet Attack Simulatorissa ovat [ohjeaiheessa Attack Simulator Microsoft 365:ssä](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

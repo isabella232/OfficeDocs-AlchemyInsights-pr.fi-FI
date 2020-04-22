@@ -1,5 +1,5 @@
 ---
-title: 711 jakelu luettelon tai-ryhmän luominen
+title: 711 Jakeluluettelon tai -ryhmän luominen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2ce7e4146abe272b2025132c4fc44329abc8d8a0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715449"
 ---
-# <a name="create-distribution-groups"></a>Jakelu ryhmien luominen
+# <a name="create-distribution-groups"></a>Jakeluluetteloiden luominen
 
-Voit käyttää Office 365: ssa jakelu ryhmiä (joita kutsutaan myös jakelu luetteloksi) toimittamaan Sähkö posti viestejä organisaation sisä-ja ulkopuolella oleville henkilöille. Niiden luominen on helppoa! Ohjeita on kohdassa [jakelu luetteloiden luominen Microsoft 365-hallinta keskuksessa](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
+Jakeluryhmien (eli jakeluluetteloiden) avulla voit toimittaa sähköpostiviestejä organisaatiossa sijais- ja ulkopuolella oleville henkilöryhmille. Niiden luominen on helppoa! Lisätietoja on [ohjeaiheessa Jakeluluetteloiden luominen Microsoft 365 -hallintakeskuksessa](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Huomautus**: järjestelmänvalvojan on hallittava jakelu ryhmän jäsenyyttä. Jos haluat, että käyttäjät hallitsevat oman ryhmän jäsenyys luetteloita, harkitse [Office 365-ryhmien](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) sijaan.
+**Huomautus**: Ylläpitäjän on hallittava jakeluryhmän jäsenyyttä. Jos haluat käyttäjien hallitsevan omia ryhmän jäsenluetteloitaan, harkitse sen sijaan [Office 365 -ryhmiä.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

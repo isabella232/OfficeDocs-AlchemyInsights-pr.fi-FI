@@ -1,8 +1,8 @@
 ---
-title: Intune App käyttöönoton säännön tunnus 991
+title: Intune-sovelluksen käyttöönottosäännön tunnus 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498268"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714003"
 ---
-# <a name="intune-app-deployment"></a>Intune App käyttöönotto
+# <a name="intune-app-deployment"></a>Intune-sovelluksen käyttöönotto
 
-Intune sovellusten käyttöönotto on kolme vaihetta:
+Sovellusten käyttöönotto Intunen avulla on kolmivaiheinen prosessi:
   
-1. **Lisääminen app** - voit lisätä App Store-sovelluksen tai liiketoiminnan rivin app ladata.
+1. **Sovelluksen lisääminen** - Voit lisätä App Store -sovelluksen tai ladata Line of Business -sovelluksen.
 
-2. **Määrittely app** - sovelluksen käyttöönoton laajuuden.
+2. **Sovelluksen määrittäminen** - Määritä sovelluksen käyttöönoton laajuus.
 
-3. **Seuranta apps** - sovellukset asennuksen tilan tarkasteleminen, havaittuja apps luettelo ja hallinta apps app kaupoista ostettu.
+3. **Sovellusten valvonta** – Tarkastele sovellusten asennustilaa, luettele löydetyt sovellukset ja hallitse sovelluskaupoista ostettuja sovelluksia.
 
-Lukea [Intune App hallinnan](https://docs.microsoft.com/intune/app-management) vaiheittaiset ohjeet ja tietojen määrittämisestä ja suojaa sovelluksia.
+Lue [Intune-sovellusten hallinta,](https://docs.microsoft.com/intune/app-management) niin saat vaiheittaiset ohjeet sovellusten määrittämisestä ja suojaamisesta.
   

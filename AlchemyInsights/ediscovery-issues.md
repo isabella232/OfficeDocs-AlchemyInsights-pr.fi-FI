@@ -1,9 +1,9 @@
 ---
-title: 1829-ediscovery-ongelmat
+title: 1829-ediscovery-kysymykset
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544545"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714475"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery ongelmat
+# <a name="ediscovery-issues"></a>eDiscovery-ongelmat
 
-Etsitkö eDiscovery asetukset? Uudelleen suunniteltu navigointi Security & Compliance Centeriin, jossa eDiscovery-asetukset on ehkä siirretty jo.  Löydät eDiscovery asetukset-Security-& Compliance Centeriin perusteella mitä yrität tehdä seuraavissa sijainneissa:
+Etsitkö eDiscovery-vaihtoehtoja? Tietoturva- & yhteensopivuuskeskuksen uudelleensuunnitellun siirtymisen avulla eDiscovery-asetukset ovat saattaneet jo siirtyä.  EDiscovery-asetukset löytyvät seuraavista sijainneista Tietoturva-& yhteensopivuuskeskuksessa sen perusteella, mitä yrität tehdä:
 
-- Käytä sisällön haku etsiminen organisaation sisällön sähköposti, asiakirjat, Skype-liiketoiminnan keskustelut ja sitten Vie tiedot - Siirry **Etsinnän > sisällöstä etsiminen**
+- Sisältöhaun avulla voit etsiä organisaatiostasi sisältöä sähköpostista, asiakirjoista, Skype for Business -keskusteluista ja viedä tiedot - Siirry **hakuun > sisältöhaku**
 
-- Luo eDiscovery-tapaus, Etsi sisältöä ja Aseta pitoon - sisällön sijaintien **eDiscovery > eDiscovery** Siirry
+- EDiscovery-palvelupyynnön luominen sisällön etsimistä ja sisältösijainteja varten pidossa - Siirry **eDiscovery-> eDiscovery**
 
-- Uusi päästä päähän kehittynyt eDiscovery ratkaisu avulla tunnistamaan custodians yhteydessä, säilyttää custodian tiedot asianomaisen tapauksen, kerätä tietoja ja lisätä joukon tarkastelua ja vähentää soveltamalla analytics teuraaksi pois tarpeettomat tiedot, jos tietoja on paljon ja Mitä keskittyä tärkeimmät tapauksessa - siirry **eDiscovery > kokeneet eDiscovery**
+- Käytä uutta end-to-end Advanced eDiscovery -ratkaisua tunnistamaan ja kommunikoimaan säilyttäjien kanssa, säilyttämään säilytystiedot, säilyttämään tapaukseen liittyvät säilytystiedot, keräämään tietoja ja lisäämään ne tarkistusjoukkoon ja vähentämään tietojen määrää käyttämällä analytiikkaa tarpeettomien tietojen lopettamiseen ja keskittymiseen siihen, mikä on olennaisinta tapaukseen n. **eDiscovery-> Advanced eDiscovery**
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [Sisällöstä etsiminen Office 365: ssä](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Sisällön haku](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [tapauksissa eDiscovery-suojauksen & Compliance Centeriin](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [eDiscovery-palvelupyynnöt tietoturva- & yhteensopivuuskeskuksessa](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Kokeneet eDiscovery ratkaisu Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Kehittynyt eDiscovery-ratkaisu Microsoft 365:ssä](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

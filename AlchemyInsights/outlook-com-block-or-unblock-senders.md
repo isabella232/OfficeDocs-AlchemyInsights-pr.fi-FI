@@ -1,9 +1,9 @@
 ---
-title: Estä tai poista lähettäjän esto Outlook.com
+title: Estä tai poista estot Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768725"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717761"
 ---
-# <a name="block-or-unblock-senders"></a>Lähettäjien estäminen tai eston purkaminen
+# <a name="block-or-unblock-senders"></a>Estä tai poista estot
 
-Torjuttujen lähettäjien Sähkö posti osoitteiden tai toimi alueiden viestit menevät suoraan Outlookin roska posti-kansioon. Sähkö posti poistetaan automaattisesti roska posti kansiosta 30 päivän kuluttua, eikä sitä palauteta. Valitse kohde, kun haluat nähdä, milloin se poistetaan.
+Estettyjen lähettäjien sähköpostiosoitteiden tai toimialueiden viestit menevät suoraan Outlookin roskapostikansioon. Sähköposti poistetaan automaattisesti Roskaposti-kansiosta 30 päivän kuluttua, eikä sitä voi palauttaa. Valitse kohde, jos haluat nähdä, milloin se poistetaan.
 
 **Saapuneet-kansiosta:**
 
-- Valitse viesti luettelosta viesti ja valitse sitten **roska posti** > **lohko**.
-- **Huom:** Roska posti-kansiossa jo olevan kohteen estäminen ei poista sitä.
+- Valitse viestiluettelosta viesti ja valitse sitten **Roskapostilohko** > **Block**.
+- **Huomautus:** Roskaposti-kansiossa olevan kohteen estäminen ei poista sitä.
 
 **Asetuksista:**
 
-1. Avaa [roska postin](https://outlook.live.com/mail/options/mail/junkEmail) asetukset.
-2. Valitse **Estetyt lähettäjät ja toimi alueet**-kohdassa **Lisää**.
-3. Kirjoita estävän toimi alueen Sähkö posti osoite ja paina ENTER-näppäintä.
+1. Avaa [Roskapostiasetukset.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. Valitse **Estetyt lähettäjät ja toimialueet**-kohdassa **Lisää**.
+3. Kirjoita estettävän toimialueen sähköpostiosoite ja paina Enter-näppäintä.
 4. Valitse **Tallenna**.
 
-Jos haluat poistaa lähettäjän eston, valitse roska kori-kuvake sen Sähkö posti osoitteen tai toimi alueen vierestä, jonka eston haluat poistaa.
+Jos haluat poistaa lähettäjän eston, valitse sen sähköpostiosoitteen tai toimialueen vieressä oleva roskakorikuvake, jonka eston haluat poistaa.
 
-Lisä tietoja on kohdassa [Merkitse Sähkö posti roska postiksi tai estä lähettäjät Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on [ohjeaiheessa Sähköpostin merkitseminen roskapostiksi tai lähettäjien estäminen Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

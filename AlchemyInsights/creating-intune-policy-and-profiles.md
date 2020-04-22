@@ -1,9 +1,9 @@
 ---
-title: Intune käytännöt ja profiilien luominen
+title: Intune-käytäntöjen ja profiilien luominen
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514760"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715393"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Intune käytännön ja profiilien luominen
+# <a name="creating-intune-policy-and-profiles"></a>Intune-käytännön ja profiilien luominen
 
-Voit luoda Intune, käytännöt ja profiilit, tehdä eri asioita.
+Intunessa voit luoda käytäntöjä ja profiileja, jotka tekevät erilaisia asioita.
 
-- **Rekisteröinti profiilit**: määrittää laitteeseen valmiiksi-ympäristössä, käyttäjän affiniteetti käyttöön, ja monitasoisen todennuksen avulla.
+- **Rekisteröintiprofiilit**: Määritä laitteet valmiiksi alustan mukaan, ota käyttöön käyttäjän affiniteetti, käytä monivaiheista todennusta ja paljon muuta.
 
-  [Mikä on laitteen rekisteröinti](https://docs.microsoft.com/intune/device-enrollment), luoda profiileja rekisteröinti [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)ja [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) ovat hyviä resursseja.
+  [Mikä on laitteen rekisteröinti,](https://docs.microsoft.com/intune/device-enrollment)ja luoda rekisteröinti profiileja [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS,](https://docs.microsoft.com/intune/macos-enroll)ja [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) ovat hyviä resursseja.
 
-- **Yhteensopivuuskäytäntöihin**: määrittää sääntöjä ja asetuksia, joita laitteiden on noudatettava yhteensopivaksi. Voit myös valvoa laitteiden yhteensopivuuskäytäntöihin avulla ja Ilmoita käyttäjille noudattamatta jättämisen.
+- **Yhteensopivuuskäytännöt**: Määritä säännöt ja asetukset, joita laitteiden on noudatettava, jotta ne ovat yhteensopivia. Yhteensopivuuskäytäntöjen avulla voit myös valvoa laitteita ja ilmoittaa käyttäjille vaatimustenvastaisuudesta.
 
-  Aloita [laitteen yhteensopivuuskäytäntöihin](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Ehdollisen käyttöoikeuden käytäntöjä**: ohje suojattu organisaation resursseja, jotka syötetään ehtojen vallitessa. Laitteiden, jotka eivät ole yhteensopivia, käyttää esimerkiksi ehdollisen käyttöoikeuden voit rajoittaa sähköpostin ja SharePoint.
+  Laitteen [yhteensopivuuskäytäntöjen](https://docs.microsoft.com/intune/device-compliance-get-started)käytön aloittaminen .
+- **Ehdollisen käytön käytännöt**: Suojaa organisaatioresurssit syöttämienehtojen mukaan. Jos laite ei ole yhteensopiva, rajoita sähköpostin ja SharePointin käyttöä ehdollisen käytön avulla.
 
-  [Mikä on ehdollisen käyttöoikeuden](https://docs.microsoft.com/intune/conditional-access) ja [ehdollisen käyttöoikeuden yleisiä käyttötapoja](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) ovat hyvä resurssien käytön aloittamiseen.
+  [Ehdollinen käyttö](https://docs.microsoft.com/intune/conditional-access) ja [yleiset ehdollisen käytön käyttötavat](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) ovat hyviä resursseja käytön aloittamiseen.
 
-- **Kokoonpanoprofiilit**: ominaisuudet ja asetukset, laitteet, kuten sähköpostiasetusten hallinta, lisätä WiFi-verkko, käyttää valmiita malleja ja iOS ja macOS laitteen hallintaominaisuudet.
+- **Määritysprofiilit:** Hallitse laitteiden ominaisuuksia ja asetuksia, kuten sähköpostiasetuksia, lisää WiFi-verkko, käytä sisäänrakennettuja malleja, hallitse iOS- ja macOS-laitteen ominaisuuksia ja paljon muuta.
 
-  [Laitteen kokoonpanoprofiilit](https://docs.microsoft.com/intune/device-profiles)saada alkoi.
+  Aloita [laitteen määritysprofiilit](https://docs.microsoft.com/intune/device-profiles).
 
 Hyödyllisiä linkkejä:
 
-- [Yleisiä kysymyksiä, ongelmia ja ratkaisuja laitteen käytäntöjä ja profiilia Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Yleisiä kysymyksiä, kysymyksiä ja ratkaisuja laitekäytäntöjen ja -profiilien avulla Intunen laitteessa](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Käytäntöjä ja profiilia Intune liittyviä ongelmia](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Intunen käytäntöjen ja profiilien vianmääritys](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

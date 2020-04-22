@@ -1,9 +1,9 @@
 ---
-title: Seurantalokien poistaminen viestin tapahtumien selvittäminen
+title: Valvontalokien sanomatapahtumien poistaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539206"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716493"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Postitettujen viestien valvontalokissa.
+# <a name="audit-logs-for-deleted-email-messages"></a>Valvo poistettujen sähköpostiviestien lokit
 
-Tammikuuta 2019 alkaen Microsoft on ottaminen käyttöön postilaatikon valvonta on oletusarvon mukaan kirjaaminen. Muussa tapauksessa poista viesti tapahtumia tietyn käyttäjän tarkastelemaan täytyy ottaa käyttöön manuaalisesti Poista toimintojen valvonta Jos postilaatikon valvonnan kirjaaminen on jo käytössä organisaation tai tietyn käyttäjän, alla olevien ohjeiden mukaisesti.
+Tammikuusta 2019 alkaen Microsoft ottaa postilaatikon valvontalokin käyttöön oletusarvoisesti. Jos haluat tarkastella tietyn käyttäjän poistoviestitapahtumia, sinun on otettava poistotoiminnot valvonnan yhteydessä manuaalisesti käyttöön. Jos postilaatikon valvontaloki on jo otettu käyttöön organisaatiossa tai tietylle käyttäjälle, noudata seuraavia ohjeita.
 
-1. Kirjautua [Office 365-suojauksen & Compliance Centeriin](https://protection.office.com/)
+1. Kirjaudu Microsoft [365 Security & Compliance Centeriin](https://protection.office.com/)
 
-2. **Etsi ja tutkimus** ja valitse **Valvo lokista etsintää**.
+2. Valitse **Etsi ja tutki** ja valitse **Valvontalokin haku**.
 
-3. Valitse **aloituspäivä** - ja **päättymispäivä** -kenttiin päivämääräalue. Määritä käyttäjänimi käyttäjä, jonka haluat tutkia (käyttäjä joka poistaa nimikkeitä). Valitse **aktiviteetit** -kentässä **Poistetut viestit Poistetut-kansiosta** ja **Moved viestit Poistetut-kansioon**.
+3. Valitse päivämääräväli **Aloituspäivä-** ja **Päättymispäivä-kentissä.** Määritä tutkittavan käyttäjän käyttäjänimi (käyttäjä, joka poisti kohteet). Valitse **Aktiviteetit-kentässä** **Poistetut viestit Poistetut-kansiosta** ja **Siirretyt viestit Poistetut-kansioon**.
 
-4. Valitse **Etsi**.
+4. Valitse **Hae**.
 
-Valitse tulosten koskeva seurantatietue. Valitse tiedot-valikon avauspainike **Lisätietoja**. **AffectedItems** -kentässä näkyy lisätietoja poistetun kohteen (esimerkiksi aihe ja sijainti kohde, kun se on poistettu). **ClientInfoString** -ominaisuus näyttää, jos Outlookissa, Outlook web (tunnettiin aiemmin nimellä Outlook Web App), tai muussa laitteessa tapahtunut poisto.
+Valitse tuloksista valvontatietue. Valitse tiedot-pikaikkunassa **Lisätietoja**. Lisätietoja poistetusta kohteesta (esimerkiksi aiherivi ja nimikkeen sijainti, kun se poistettiin) näkyy **Haavoittuvuuden kohteet** -kentässä. **ClientInfoString-ominaisuus** näyttää, tapahtuiko poisto Outlookissa, Outlookin verkkoversiossa (aiemmin Outlook Web App) tai missä tahansa muussa laitteessa.
 
-Lisätietoja [määrittäminen, joka määrittää sähköpostiviestin välittäminen postilaatikkoon](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Lisätietoja on ohjeaiheessa [Postilaatikon sähköpostin edelleenlähetyksen määrittäminen](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Huomautus**: audit log-toiminnolla poistettuja kohteita ei voi noutaa. Noutamaan poistetut viestit Outlook Web-kohdassa [Palauta poistetut viestit Outlook Web Appissa](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Huomautus**: Et voi hakea poistettuja kohteita valvontalokiominaisuuden avulla. Lisätietoja poistettujen viestien noutamiseen Outlookin verkkoversiossa on [ohjeaiheessa Poistettujen kohteiden palauttaminen Outlook Web Appissa](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

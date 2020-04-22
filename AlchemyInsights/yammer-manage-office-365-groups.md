@@ -1,5 +1,5 @@
 ---
-title: 'Yammer-Hallitse Office 365-ryhmiä '
+title: 'Yammer - Office 365 -ryhmien hallinta '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530927"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715845"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>Hallitse Office 365-ryhmiä Yammerissa
+# <a name="manage-office-365-groups-in-yammer"></a>Office 365 -ryhmien hallinta Yammerissa
 
-Seuraavassa on joitakin vasta uksia useimpiin yleisiin ongelmiin Office 365-ryhmissä Yammerissa.
+Seuraavassa on vastauksia Yleisimpiin Ongelmiin, jotka liittyvät Yammerin Office 365 -ryhmiin.
 
-* **Office 365-ryhmät** ovat sähkö postin, keskustelujen, tiedostojen ja tapahtumien Jaettu työtila, jossa ryhmän jäsenet voivat tehdä yhteistyötä. Yammerin avulla Office 365-ryhmillä on monia etuja ei-yhdistetyille Yammer-ryhmille. Voit esimerkiksi luoda ja isännöidä Live-tapahtumia, palauttaa poistettuja ryhmiä, käyttää dynaamista ryhmä jäsenyyttä, automaattista arkistointia ja käyttää jaettuja resursseja, kuten SharePointia, OneNotea ja Plannerista.
+* **Office 365 -ryhmät** ovat jaettu työtila sähköpostille, keskusteluille, tiedostoille ja tapahtumille, joissa ryhmän jäsenet voivat tehdä yhteistyötä. Yammerin avulla Office 365 -ryhmillä on monia etuja yhdistettyihin Yammer-ryhmiin verrattuna. Voit esimerkiksi luoda ja isännöidä reaaliaikaisia tapahtumia, palauttaa poistetut ryhmät, käyttää dynaamista ryhmäjäsenyyttä, automaattista arkistointia ja käyttää jaettuja resursseja, kuten Sharepointia, OneNotea ja Planneria.
 
-* Voit kertoa, jos Yammer-ryhmä on yhteydessä Office 365-ryhmiin, kun näet **office 365-resurssit** -osion (SharePoint, OneNote, Planner) ryhmän oikeassa siirtymis osassa. Jos resurssit eivät ole käytettävissä, tarkista seuraavat seikat.
+* Voit tarkistaa, onko Yammer-ryhmä yhdistetty Office 365 -ryhmiin, kun näet **Office 365 Resources** -osan (Sharepoint, OneNote, Planner) ryhmän oikeassa siirtymisruudussa. Jos resurssit eivät ole käytettävissä, tarkista seuraavat asiat.
 
-  1. Yammer-verkon on oltava 1 vuokralainen: 1 verkko kokoonpano. Voit varmistaa, että olet 1:1-kokoonpanossa, käyttämällä verkon **siirto-työkalua** , joka on kuvattu kohdassa [verkon siirtäminen-Konsolidoi useita Yammer-verkkoja](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Yammer-verkon on oltava 1 tenant:1-verkkokokoonpanossa. Voit varmistaa, että olet kokoonpanossa 1:1, käyttämällä **verkon siirtotyökalua** kohdassa [Verkon siirto - Yhdistä useita Yammer-verkkoja](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)kuvatulla tavalla.
 
-  2. Selaa **verkon ylläpitäjään, suojaus asetukseen**ja varmista, että Yammerin käyttäjät voivat valvoa **Office 365-identiteettiä** .
+  2. Siirry kohtaan **Verkonhallinta, Suojausasetukset**ja varmista, että **Office 365 Identity** on otettu käyttöön Yammer-käyttäjille.
 
-Lisä tietoja Office 365-ryhmistä ja Yammeriin on kohdassa [Yammer ja office 365-ryhmät](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Lisä tietoja ryhmän Hallin nasta on Ohje aiheessa [ryhmän hallinta Yammerissa](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Lisätietoja Office 365 -ryhmistä ja Yammerista on kohdassa [Yammer- ja Office 365 Groups -ryhmät](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Lisätietoja ryhmän hallinnasta on [ohjeaiheessa Ryhmän hallinta Yammerissa](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

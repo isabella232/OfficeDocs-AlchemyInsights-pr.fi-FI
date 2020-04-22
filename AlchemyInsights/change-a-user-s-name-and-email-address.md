@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715773"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Käyttäjän nimen ja sähköpostiosoitteen muuttaminen
 
-Käyttäjän nimi ja sähköpostiosoite Office 365: ssä muuttaminen on helppoa. Siirry **käyttäjät** \> [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla ja valitse Muokkaa niiden tietojen. Voit myös tässä artikkelissa on vaiheittaiset ohjeet:
+Käyttäjän nimen ja sähköpostiosoitteen muuttaminen Microsoft 365:ssä on helppoa. Siirry **Käyttäjät** \> [aktiiviset käyttäjät -sivulle](https://go.microsoft.com/fwlink/p/?linkid=834822) ja valitse käyttäjä, jonka tietoja haluat muokata. Tämän artikkelin avulla voit myös käyttää vaiheittaiset ohjeet:
   
-[Vaihda käyttäjän nimen ja sähköpostiosoitteen Office 365: ssä](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Käyttäjänimen ja sähköpostiosoitteen muuttaminen Microsoft 365:ssä](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Huomautus**: Jos muutat käyttäjän ensisijainen sähköpostiosoite, niiden vanha sähköpostiosoite edelleen on voimassa vastaanottaa sähköposti (tämä tapahtuu automaattisesti). Myös organisaatiossa on hybridi-tilassa, jos kaikki sähköposti- ja käyttäjän Nimenmuutokset täytyy tehdä paikalliseen Active Directory- ja synkronoida sitten pilven.
+ **Huomautus:** Jos muutat käyttäjän pääsähköpostiosoitetta, hänen vanha sähköpostiosoitteensa on edelleen voimassa sähköpostin vastaanottamiseen (tämä tapahtuu automaattisesti). Jos organisaatiosi on hybriditilassa, kaikki sähköposti- ja käyttäjänimen muutokset on tehtävä paikallisessa Active Directoryssa ja synkronoitava sitten pilveen.

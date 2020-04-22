@@ -1,32 +1,32 @@
 ---
-title: Pidossa oikeudellisten toimien tai-paikka-pidä-
+title: Tietoa oikeustoimiin liittyvästä pidosta tai pitopaikasta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711016"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Sisältää tietoja oikeudenkäyntiä ja paikka Pidot
+# <a name="about-litigation-holds-and-in-place-holds"></a>Tietoja oikeustoimiin liittyvistä pidikkeistä ja omistusoikeus
 
-- Soveltaa oikeusjutun pito tai käytönaikainen pidä postilaatikkoon, [käyttöoikeuden Exchange Online suunnitella 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Jos sinulla on mitä tahansa järjestelyä, Määritä tilille [Exchange Online arkistoida](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) erillinen käyttöoikeus. 
+- Jos haluat käyttää oikeustoimiin liittyvästä pidon tai pitoa postilaatikossa, tarvitaan [Exchange Online -palvelupaketin 2 käyttöoikeus.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Jos sinulla on jokin muu Palvelupaketti, määritä tilille erillinen [Exchange Online Archiving -käyttöoikeus.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 
     
-- **Pidossa oikeudellisten toimien käyttöön** yhden käyttäjän noudattamalla annettuja ohjeita [Tässä](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Oikeusjutun pito on käytössä, kun postilaatikon koko sisältö on pidossa.
+- **Jos haluat ottaa oikeustoimiin liittyvän pidon** käyttöön yksittäiselle käyttäjälle, noudata [tässä](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)kuvattuja ohjeita. Kun oikeustoimiin liittyvä pito on käytössä, kaikki postilaatikon sisältö asetetaan pitoon.
     
-- Kohdistaminen **paikallaan pidä yhteen käyttäjät** , tai pito **koko organisaation kaikkia postilaatikoita**, voit säilytyskäytännöt Office 365: n tietoturvan ja määritystenmukaisuuden keskellä seuraamalla vaiheet jäsennetty [tähän](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Jos haluat käyttää **pitoa yksittäisissä käyttäjissä** tai pitoa **kaikissa postilaatikoissa koko organisaatiossa,** voit käyttää Säilytyskäytäntöjä Microsoft 365 :n suojaus- ja yhteensopivuuskeskuksessa noudattamalla [tässä](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )kuvattuja ohjeita.
     
     > [!NOTE]
-    > Org-wide säilytyskäytännöt uusille käyttäjille automaattisesti lisätään pitoon. 
+    > Organisaation laajuisissa säilytyskäytännöissä uudet käyttäjät lisätään automaattisesti pitoon. 
   
-- Voit tarkastella tai tutustu postilaatikon sisältöä, joka on pidossa, **eDiscovery haku ja vienti**. Lisätietoja **eDiscovery haku**ja vienti noudattamalla vaiheet jäsennetty [tähän](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Jos haluat tarkastella tai löytää pitoon sijoitettua postilaatikon sisältöä, käytä **eDiscovery-hakua ja -vientiä**. Lisätietoja **eDiscovery-haun ja -viennin**käyttämisestä on [tässä](https://docs.microsoft.com/office365/securitycompliance/export-search-results)kuvattujen ohjeiden mukaisesti .
     
 

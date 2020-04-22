@@ -1,9 +1,9 @@
 ---
-title: Liitä keskitin sivustot sivuston omistajaksi
+title: Yhdistä keskitinsivustot sivuston omistajana
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122471"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712491"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>Liitä keskitin sivustot sivuston omistajaksi
+# <a name="associate-hub-sites-as-site-owner"></a>Yhdistä keskitinsivustot sivuston omistajana
 
-[Message Center 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) jakoi, miten sivuston omistajat voivat nyt suorittaa SharePoint-keskittimen liittymisen. Jos organisaatiosi haluaa hallita tiettyjä henkilöitä, jotka voivat liittää keskittimeen, toimi seuraavasti: 
+[Message Center 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) kertoi, miten sivuston omistajat voivat nyt käyttää SharePoint-keskittimeen liittymistä. Jos organisaatiosi haluaa hallita tiettyjä henkilöitä, jotka voivat liittyä keskittimeen, toimi seuraavasti: 
 
-1. Kirjaudu sisään Office 365 ([https://portal.office.com](https://portal.office.com))-kohteeseen järjestelmänvalvojan oikeuksilla.
-2. Valitse näytön vasemmasta yläreunasta **sovelluksen käynnistys ohjelma** (kuvake, jossa on yhdeksän ruutua) ja valitse sitten **järjestelmänvalvoja**.
-3. Valitse **hallinta keskus** näytön vasemmassa reunassa olevasta valikosta ja valitse sitten **SharePoint**.
-4. Valitse näytön yläreunassa olevasta sinisestä bannerista **Käynnistä sovellus nyt** , niin saat uuden SharePoint-hallinta keskuksen näkyviin.
-5. Valitse näytön vasemmalla puolella oleva näyttö-valikosta **sivustot** ja valitse sitten **Aktiiviset sivustot**.
-6. Valitse keskitin sivusto, jossa haluat muuttaa asetuksia.
-7. Valitse näytön yläreunassa olevasta valikosta **Hub** ja valitse **Muokkaa keskitin sivuston asetuksia**.
-8. Määritä käyttäjät tai suojaus ryhmät, joiden kanssa haluat työskennellä, "käyttäjät, jotka voivat liittää sivuston tähän keskittimeen"-kohteen avulla.
-9. Valitse **Tallenna** näytön alareunasta.
+1. Kirjaudu sisään[https://portal.office.com](https://portal.office.com)kohtaan ( ) järjestelmänvalvojan oikeuksilla.
+2. Valitse näytön vasemmassa yläkulmassa **oleva sovellusten käynnistin** (kuvake, jossa on yhdeksän ruutua) ja valitse sitten **Järjestelmänvalvoja**.
+3. Valitse **hallintakeskus** näytön vasemmassa reunassa olevasta valikosta ja valitse sitten **SharePoint**.
+4. Tuo uusi Sharepoint-hallintakeskus näkyviin valitsemalla näytön yläreunassa olevasta sinisestä bannerista **Käynnistä sovellus nyt.**
+5. Valitse näytön vasemmassa reunassa olevasta näytöstä **Valikosta Sivustot** ja valitse sitten **Aktiiviset sivustot**.
+6. Tarkista keskitinsivusto, johon haluat muuttaa asetuksia.
+7. Valitse näytön yläreunan valikosta **Keskitin** ja valitse **Muokkaa keskittimen sivuston asetuksia**.
+8. Määritä käyttäjät tai suojausryhmät, joiden kanssa haluat sallia sen, Käyttäjät, jotka voivat liittää sivuston tähän keskittimeen -kohdassa.
+9. Valitse näytön alareunasta **Tallenna.**
 
-Lisä tietoja on kohdassa [SharePoint-sivuston liittäminen keskitin sivustoon](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 
+Lisätietoja on [ohjeaiheessa SharePoint-sivuston liittäminen keskitinsivustoon](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 

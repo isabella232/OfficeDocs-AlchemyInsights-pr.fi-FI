@@ -3,7 +3,7 @@ title: Kadonneiden tai puuttuvien tiedostojen etsiminen OneDrivessa tai SharePoi
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525416"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716097"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Kadonneiden tai puuttuvien tiedostojen etsiminen OneDrivessa tai SharePointissa
 
-- Tarkista roska kori selaamalla OneDriveen tai sivuston SharePoint-sivustoon ja valitsemalla vasemmassa ruudussa roska kori. (Jos vasemmanpuoleisessa ruudussa ei näy roska kori-kuvaketta, valitse asetus kuvake ja valitse sitten **sivuston sisältö**. **Roska kori** on yläosassa olevan komento palkin oikeassa reunassa.) 
+- Tarkista roskakori selaamalla OneDriveen tai Sivuston SharePoint-sivustoon ja valitsemalla vasemmasta ruudusta Roskakori. (Jos vasemmassa ruudussa ei ole Roskakori-kohtaa, napsauta Asetukset-kuvaketta ja valitse sitten **Sivuston sisältö**. **Roskakori** on ylhäällä olevan komentopalkin oikeassa reunassa.) 
     
-- Jos synkronoit tieto koneen tiedostoja, tarkista tieto koneen roska kori. 
+- Jos synkronoit tietokoneen tiedostot, tarkista tietokoneen roskakori. 
     
-- Jos et näe etsimaasi kohdetta ja se poistettiin äskettäin, sivustokokoelman järjestelmänvalvoja saattaa pystyä palauttamaan sen sivustokokoelman roska koriin. Jos olet sivustokokoelman järjestelmänvalvoja, katso [kohta poistettujen kohteiden palauttaminen sivustokokoelman roska](https://go.microsoft.com/fwlink/?linkid=866439)koriin.
+- Jos et näe etsimääsi kohdetta ja se on poistettu äskettäin, sivustokokoelman järjestelmänvalvoja voi ehkä palauttaa sen sivustokokoelman roskakorista. Jos olet sivustokokoelman järjestelmänvalvoja, katso artikkeli [Poistettujen kohteiden palauttaminen sivustokokoelman roskakorista](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Lisää apua poistettujen tiedostojen ja kansioiden palauttamiseen OneDrivessa](https://go.microsoft.com/fwlink/?linkid=872872)
+[Lisää ohjeita poistettujen tiedostojen ja kansioiden palauttamiseen OneDrivessa](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

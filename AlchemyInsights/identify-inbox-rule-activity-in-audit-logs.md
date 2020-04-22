@@ -1,9 +1,9 @@
 ---
-title: Määritä Saapuneet-kansion säännön toimintaa seurantalokeja
+title: Saapuneet-kansion sääntöaktiviteetin tunnistaminen valvontalokeissa
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539162"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716421"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Määritä Saapuneet-kansion säännön toimintaa seurantalokeja
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Saapuneet-kansion sääntöaktiviteetin tunnistaminen valvontalokeissa
 
-Compliance Centerin Office 365 Security-& valvonta kirjaa haun avulla voit tarkastella Saapuneet-kansion säännön tapahtumat (luominen, muokkaaminen ja poistaminen Saapuneet-kansion sääntöjä).
+Microsoft 365 Security & Compliance Centerin valvontalokihaun avulla voit tarkastella Saapuneet-kansion sääntötapahtumia (Saapuneet-kansion sääntöjen luominen, muokkaaminen ja poistaminen).
 
-1. Kirjautua sisään [Office 365 & noudattamista Tietoturvakeskus](https://protection.office.com/).
+1. Kirjaudu Microsoft [365 Security & Compliance Centeriin.](https://protection.office.com/)
 
-2. Siirry **Etsinnän** > **Audit log** etsintäsivun.
+2. Siirry **Haun** > **valvontalokin hakusivulle.**
 
-3. Valitse **aloituspäivä** - ja **päättymispäivä** -kenttiin päivämääräalue.
+3. Valitse päivämääräväli **Aloituspäivä-** ja **Päättymispäivä-kentissä.**
 
-4. Tarkista kohdasta **Exchange-postilaatikon toimintaa** **toimintaa** -kentän arvo on **Uusi-InboxRule Luo/Muokkaa/käyttöön/poistaa käytöstä Saapuneet-kansion sääntö**.
+4. Tarkista **Exchange-postilaatikkoaktiviteetit**-kohdassa, että **Aktiviteetit-kentän** arvoksi on määritetty **Uusi Saapuneet-kansion sääntö Luo/muokkaa/ota käyttöön tai poista käytöstä .**
 
-5. Valitse **Etsi**.
+5. Valitse **Hae**.
 
-Valitse tulosten koskeva seurantatietue. Valitse tiedot-valikon avauspainike **Lisätietoja**. Lisätietoja Saapuneet-kansion säännön **Parametrit** -kentässä näkyy.
+Valitse tuloksista valvontatietue. Valitse tiedot-pikaikkunassa **Lisätietoja**. Saapuneet-kansion säännön asetusten tiedot näkyvät **Parametrit-kentässä.**
 
-Saat lisätietoja, [Jos käyttäjän luoman luodun säännön Saapuneet-kansion määrittäminen](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Lisätietoja on [ohjeaiheessa Sen määrittäminen, onko käyttäjä luonut Saapuneet-kansion säännön](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

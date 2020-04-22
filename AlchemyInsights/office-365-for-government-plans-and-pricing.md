@@ -1,9 +1,9 @@
 ---
-title: 'Office 365: n hallituksen suunnitelmat ja hinnoittelu'
+title: Office 365 for Government -palvelupaketit ja -hinnat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522116"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713355"
 ---
-# <a name="office-365-government-plans"></a>Office 365: n hallitus suunnittelee
+# <a name="office-365-government-plans"></a>Office 365:n viranomaispaketit
 
-Yhdysvaltain hallituksen suunnitelmat Office 365 on suunniteltu Yhdysvaltain valtionhallinnon organisaatioiden tarpeisiin. Ne tarjoavat kaikkia toimintoja ja ominaisuuksia Office 365 palveluiden Segmentoitu hallituksen cloud yhteisön, joka mahdollistaa organisaatioissa Yhdysvaltain vaatimusten ja turvallisuusvaatimusten täyttämiseksi.
+Office 365 Yhdysvaltain hallituksen suunnitelmat on suunniteltu ainutlaatuinen tarpeisiin Yhdysvaltain valtion järjestöjen. Ne tarjoavat kaikki Office 365 -palveluiden ominaisuudet ja ominaisuudet segmentoituna valtion pilviyhteisössä, jonka avulla organisaatiot voivat täyttää Yhdysvaltojen vaatimustenmukaisuus- ja tietoturvastandardit.
   
 - [Hallituksen suunnitelmien tarkistaminen](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Vertaa kaikki Office 365-suunnitelmat](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Vertaa kaikkia Microsoft 365 -tilauksia](https://products.office.com/business/compare-more-office-365-for-business-plans)

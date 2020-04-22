@@ -1,30 +1,30 @@
 ---
-title: Viestintä sivuston luominen
+title: Viestintäsivuston luominen
 ms.author: pebaum
 author: pebaum
-ms.date: 11/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715593"
 ---
-# <a name="create-a-communication-site"></a>Viestintä sivuston luominen
+# <a name="create-a-communication-site"></a>Viestintäsivuston luominen
 
-Jos haluat luoda viestintä sivuston SharePoint Onlinessa, tee seuraavat toimet: 
+Voit luoda viestintäsivuston SharePoint Onlinessa seuraavasti: 
   
-1. Valitse sivun vasemmasta yläkulmasta sovelluksen käynnistys ohjelma ja valitse sitten SharePoint-ruutu. Jos SharePoint-ruutua ei näy, valitse **sivustot** tai **Kaikki sovellukset** , jos SharePoint ei ole näkyvissä. 
+1. Napsauta sivun vasemmassa yläkulmassa olevaa sovellusten käynnistintä ja valitse SharePoint-ruutu. Jos SharePoint-ruutua ei näy, valitse **Sivustot** tai **Kaikki sovellukset,** jos SharePoint ei ole näkyvissä. 
     
-2. Valitse SharePoint-sivun yläreunasta **Luo sivusto** ja valitse sitten viestintä- **sivusto**. Noudata ohjatun sivuston luomisen ohjeita. 
+2. Valitse SharePoint-sivun yläreunasta **Luo sivusto** ja valitse **viestintäsivusto**. Noudata ohjatun sivuston luomisen ohjeita. 
     
- **Huomautus**: Jos et näe **Luo sivusto**-vaihto ehtoa, omatoimisivuston luonti voidaan poistaa käytöstä Office 365-käyttö järjestelmän kautta. Luo ryhmäsivusto ottamalla yhteyttä organisaatiossasi olevaan Office 365-hallinta henkilöön. Jos olet vuokra ajan järjestelmänvalvoja, katso [sivuston luomisen hallinta SharePoint Onlinessa, jotta voit ottaa omatoimisivuston luomisen käyttöön organisaatiossa.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Huomautus:** Jos et näe Luo **sivusto**-vaihtoehtoa, omatoiminen sivuston luominen saattaa olla poistettu käytöstä. Luo ryhmäsivusto ottamalla yhteyttä organisaatiosi Microsoft 365:tä hallinnoivaa henkilöä. Jos olet vuokraajan järjestelmänvalvoja, ota [omatoimisen sivuston luominen käyttöön organisaatiossa ohjeaiheessa Sivuston luomisen hallinta SharePoint Onlinessa.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Huom:** Jos yrität luoda viestintä sivustoa ja URL-osoite lisätään Satunnaislukujen avulla, on todennäköistä, että sivusto, jolla on sama URL-osoite, on jo SharePoint-ympäristössä, tai se on poistettu ja edelleen olemassa poistetut sivustot (roska kori). Käytä [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) tätä, kun haluat arvioida roska [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) korin ja poistaa sivuston roska korista. 
+ **Huomautus:** Jos yrität luoda viestintäsivustoa ja URL-osoite liitetään satunnaislukuihin, sivusto, jolla on sama URL-osoite, on todennäköisesti jo SharePoint-ympäristössä tai poistettu ja edelleen Poistetut sivustot (roskakori) -kohdassa. Käytä [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) kierrätyspaikan arvioimiseen ja [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) sivuston poistamiseen roskakorista. 
   
 

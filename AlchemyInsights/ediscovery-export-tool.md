@@ -1,5 +1,5 @@
 ---
-title: eDiscovery-vienti työkalu
+title: eDiscovery-vientityökalu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,22 +14,22 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769300"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714767"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EDiscovery-vienti työkalua ei voi asentaa tai suorittaa?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Etkö voi asentaa tai suorittaa eDiscovery-vientityökalua?
 
-Jos et pysty asentamaan tai suorittamaan Office 365 eDiscovery-vienti työkalua haku tulosten lataamiseen, tarkista seuraavat asiat:
+Jos et pysty asentamaan tai suorittamaan eDiscovery-vientityökalua hakutulosten lataamiseen, tarkista seuraavat asiat:
   
-- Käyttämäsi tieto kone täyttää nämä vaatimukset:
+- Käyttämäsi tietokone täyttää seuraavat vaatimukset:
 
-  - 32-tai 64-bittiset Windows 7-versiot ja uudemmat versiot
+  - Windows 7:n ja uudempien versioiden 32- tai 64-bittiset versiot
 
-  - Microsoft .NET Framework 4,7
+  - Microsoft .NET Framework 4.7:n
 
   - Tuettu selain:
 
@@ -39,11 +39,11 @@ Jos et pysty asentamaan tai suorittamaan Office 365 eDiscovery-vienti työkalua 
 
   - Internet Explorer 10 ja uudemmat versiot
 
-    Muita selaimia, kuten Google Chrome ja Mozilla Firefox, ei tueta.
+    Muita selaimia, kuten Google Chromea ja Mozilla Firefoxia, ei tueta.
 
-- Organisaatiosi voi muodostaa yhteyden pääte pisteeseen Azuressa, joka on ** \*. blob.Core.Windows.net** (yleismerkki edustaa vienti työn yksilöllistä tunnusta).
+- Organisaatiosi voi muodostaa yhteyden päätepisteeseen Azuressa, joka on ** \*.blob.core.windows.net** (yleismerkki edustaa vientityön yksilöllistä tunnusta).
 
-- Olet määrittänyt vienti roolin Office 365 Security &amp; Compliance Centerissä. Tämä rooli määritetään oletusarvoisesti vain eDiscovery Manager-rooli ryhmälle. Katso [eDiscovery-käyttö oikeuksien määrittäminen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Sinulle määritetään Vie-rooli Microsoft 365 &amp; Security Compliance Centerissä. Oletusarvon mukaan tämä rooli määritetään vain eDiscovery Manager -rooliryhmälle. Katso [eDiscovery-käyttöoikeuksien määrittäminen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Lisä tietoja on kohdassa [sisällön haku tulosten vieminen](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

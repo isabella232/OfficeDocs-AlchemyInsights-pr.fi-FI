@@ -1,9 +1,9 @@
 ---
-title: Herkkyys tunnisteiden automaattinen käyttäminen
+title: Herkkyystarrojen automaattinen käyttäminen
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712383"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Herkkyys tunnisteiden automaattinen käyttäminen
+# <a name="auto-apply-sensitivity-labels"></a>Herkkyystarrojen automaattinen käyttäminen
 
-Herkkyys tarroja voidaan käyttää manuaalisesti käyttäjien sisältöön, tai voit määrittää, että niitä käytetään automaattisesti sisältöön.
+Käyttäjät voivat käyttää herkkyysotsikoita manuaalisesti sisältöön, tai voit määrittää niiden automaattisen käyttöönottajan sisältöön.
 
-Herkkyys merkintöjen automaattinen kohdistaminen poistaa tarpeen kouluttaa käyttäjiä siitä, miten luokitella sisältö ja tarve ilmoittaa heille käytäntö kokoonpanoista.
+Herkkyystunnisteiden automaattinen käyttäminen poistaa tarpeen kouluttaa käyttäjiä sisällön luokittelusta ja tarpeesta ilmoittaa heille käytäntömäärityksistä.
 
-Jos haluat käyttää tunnisteita automaattisesti, seuraavat tiedot ovat pakollisia:
+Jos haluat käyttää tarroja automaattisesti, tarvitaan seuraavat:
 
-- Azure Information Protection P2-tilaus
-- [Lataa ja asenna Azure Information Protection Unified merkintä Client](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection P2 -tilaus
+- [Azure Information Protectionin yhdistetyn tarrausasiakkaan lataaminen ja asentaminen](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Työskentelemme alkuperäisellä tuella, joka ei vaadi Azure Information Protection Unified merkintä asiakasta tulevaisuudessa.
+Työskentelemme natiivin tuen parissa, joka ei vaadi Azure Information Protectionin yhtenäistä merkintäasiakasta tulevaisuudessa.
 
-Tällä hetkellä vain Windows tukee yhtenäistä merkintä asiakasta.  Ominaisuutta ei ole vielä tuettu Macissa, iOS:ssä ja Androidissa.
+Tällä hetkellä vain Windows tukee yhtenäistä otsikkoasiakasta.  Ominaisuutta ei vielä tueta Macissa, iOS:ssä ja Androidissa.
 
-Lisä tietoja herkkyys merkinnöistä ja niiden soveltamisesta automaattisesti sisältöön on kohdassa:
+Lisätietoja herkkyysmerkinnöistä ja niiden automaattisesta käyttämisestä sisältöön on seuraavissa ohjeissa:
 
-- [Herkkyys merkintöjen yleiskuvaus](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Herkkyys merkinnän käyttäminen sisällössä automaattisesti](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Herkkyysmerkintöjen yleiskatsaus](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Herkkyysselitteen käyttäminen sisällössä automaattisesti](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

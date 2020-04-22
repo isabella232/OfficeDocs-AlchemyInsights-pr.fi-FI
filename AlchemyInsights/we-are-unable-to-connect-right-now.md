@@ -1,5 +1,5 @@
 ---
-title: Aktivointi ongelma-emme voi muodostaa yhteyttä juuri nyt
+title: Aktivointiongelma - Emme pysty muodostamaan yhteyttä juuri nyt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716169"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Office-sovellusten korjaaminen "emme pysty yhdistämään juuri nyt"-viestiä
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Office-sovellusten korjaaminen "Emme pysty muodostamaan yhteyttä juuri nyt" -sanoma
 
-Jos tämä sanoma tulee näyttöön, kokeile seuraavia:
+Jos saat tämän sanoman, kokeile seuraavaa:
 
-1. Tarkista palo muuri-, virustentorjuntaohjelmisto-ja välitys palvelin asetukset ja varmista, etteivät ne estä Internet-pääsyä Office-sovelluksiin. Katso [Office 365-URL-osoitteet ja IP-osoite alueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Tarkista palomuurin, virustentorjuntaohjelmiston ja välityspalvelimen asetukset ja varmista, että ne eivät estä Office-sovellusten Internet-yhteyttä. Lisätietoja on [ohjeaiheessa Microsoftin URL-osoitteet ja IP-osoitealueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Siirry kohtaan **Aloita** > **suorittaminen**ja kirjoita **Services. msc**. Varmista, että seuraavat palvelut ovat käynnissä:
-    - Verkkoon liitettyjen laitteiden automaattinen määritys
-    - Verkko luettelo palvelu
-    - Verkon sijainti tietoisuus
-    - Windowsin tapahtuma loki
+2. Siirry **Käynnistä-kohtaan** > **Run**ja kirjoita **services.msc**. Varmista, että seuraavat palvelut ovat käynnissä:
+    - Verkkoon liitettyjen laitteiden automaattinen asennus
+    - Verkkoluettelopalvelu
+    - Verkon sijaintitietoisuus
+    - Windowsin tapahtumaloki
 
-Jos jokin näistä palveluista ei ole käynnissä, yritä käynnistää se. Jos sinulla on ongelmia palvelun käynnistettäessä, suorita seuraava komento avaamalla komento kehote, jossa on laajennettuja käyttö oikeuksia:
+Jos jokin näistä palveluista ei ole käynnissä, yritä käynnistää se. Jos palvelun käynnistämisessä on ongelmia, suorita seuraava komento avaamalla komentorivi, jolla on laajennetut käyttöoikeudet:
 
-**SFC/scannow**
+**Kävi koulua sfc /scannow**
 
-Kun tämä komento on suoritettu, Käynnistä tieto kone uudelleen.
+Kun tämä komento on valmis, käynnistä tietokone uudelleen.
 
-Lisä tietoja on kohdassa ["anteeksi, emme voi muodostaa yhteyttä tiliisi. Yritä myöhemmin uudelleen "-virhe, kun Akti voit Officen Office-365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Lisätietoja on kohdassa ["Valitettavasti emme voi muodostaa yhteyttä tiliisi. Yritä myöhemmin uudelleen" -virhe, kun aktivoit Officen Microsoft 365:stä.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

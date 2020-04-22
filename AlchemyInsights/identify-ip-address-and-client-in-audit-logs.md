@@ -1,9 +1,9 @@
 ---
-title: IP-osoite ja seurantalokeja asiakkaan tunnistaminen
+title: IP-osoitteen ja asiakkaan tunnistaminen valvontalokeissa
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539026"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716385"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-osoite ja seurantalokeja asiakkaan tunnistaminen
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-osoitteen ja asiakkaan tunnistaminen valvontalokeissa
 
-Seurantalokit näkyy IP-osoite, joka vastaa tehtävän Office 365-käyttäjä tai järjestelmänvalvoja. Asiakkaan tiedot kirjataan. Seuraavassa on ohjeita tällaisen tunnistetietoja
+Valvontalokeissa näkyy IP-osoite, joka vastaa Microsoft 365 -käyttäjän tai -järjestelmänvalvojan toimintaa. Myös asiakastiedot kirjataan lokiin. Seuraavassa on ohjeet tällaisten tietojen tunnistamiseen
 
-1. Kirjautua sisään [Office 365 & noudattamista Tietoturvakeskus](https://protection.office.com/).
+1. Kirjaudu Microsoft [365 Security & Compliance Centeriin.](https://protection.office.com/)
 
-2. Siirry **Etsinnän** > **Audit log** etsintäsivun.
+2. Siirry **Haun** > **valvontalokin hakusivulle.**
 
-   Jos olet kiinnostunut tietyn tehtävän, valitse **tehtävät** luettelosta. Jos näin ei ole, palautetaan kaikki valitun käyttäjän (oletusasetus).
+   Jos olet kiinnostunut tietystä aktiviteetista, valitse se **Aktiviteetit-luettelosta.** Jos näin ei ole, kaikki toiminnot palautetaan valitulle käyttäjälle (oletusasetus).
 
-   **Huomautus**: tietyt toimet eivät ole käytettävissä **toimintojen** valikon. kuitenkin ne valvottavat kohteet palautetaan Jos **Näytä tulokset kaikista** on valittuna (oletusasetus).
+   **Huomautus**: Tietyt toiminnot eivät ehkä ole käytettävissä **Aktiviteetit-valikossa.** Nämä valvontakohteet palautetaan kuitenkin, jos **Näytä kaikkien aktiviteettien tulokset** on valittuna (oletusasetus).
 
-3. Määritä käyttäjänimi **käyttäjät** -kentässä ja valitse aktiviteetin päivämäärävälin **haku**.
+3. Määritä käyttäjänimi Käyttäjät-kentässä, valitse aktiviteetille sopiva päivämääräalue ja valitse sitten **Etsi**. **Users**
 
-Tulokset näet IP-osoitteen, että toiminnan tulokset-ruudussa. Valitse asiakkuustietueen yksityiskohtaisia lisätietoja **tiedot** valikon avauspainike (esimerkiksi asiakas, käyttäjä, joka suorittaa toiminnon, jne.).
+Tuloksissa kyseisen aktiviteetin IP-osoite näkyy tulosruudussa. Valitse valvontatietue, jos haluat nähdä **yksityiskohtaiset** tiedot Tiedot-pikaikkunassa (esimerkiksi Asiakas, Toiminnon suorittanut käyttäjä jne.).
 
-Lisätietoja [tartunnan saaneen tili käyttää tietokoneen IP-osoitteen löytäminen](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Lisätietoja on [ohjeaiheessa Vaarantuneen tilin käyttämiseen käytettävän tietokoneen IP-osoitteen etsiminen](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
