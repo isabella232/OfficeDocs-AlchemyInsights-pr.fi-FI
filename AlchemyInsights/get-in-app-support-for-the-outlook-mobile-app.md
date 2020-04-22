@@ -1,9 +1,9 @@
 ---
-title: 1800014 Hae-app tuki Outlook mobile app
+title: 1800014 Outlook-mobiilisovelluksen sovelluksen tuen saaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42fcbe6f0e5433a60149a2b58b232e2ab895d7aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759075"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="4c778-102">App-tuesta on Outlook mobile app</span><span class="sxs-lookup"><span data-stu-id="4c778-102">Get in-app support for the Outlook mobile app</span></span>
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a><span data-ttu-id="dba95-102">Sovelluksen tuen saaminen Outlook-mobiilisovelluksta varten</span><span class="sxs-lookup"><span data-stu-id="dba95-102">Get in-app support for the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="4c778-103">Avaa Outlook mobile app **valikosta**.</span><span class="sxs-lookup"><span data-stu-id="4c778-103">In the Outlook mobile app, open the **Menu**.</span></span>
+1. <span data-ttu-id="dba95-103">Avaa Outlook-mobiilisovelluksessa **Valikko**.</span><span class="sxs-lookup"><span data-stu-id="dba95-103">In the Outlook mobile app, open the **Menu**.</span></span>
 
-2. <span data-ttu-id="4c778-104">Valitse Avaa kysymysmerkki **Ohje &amp; palautetta** näytön.</span><span class="sxs-lookup"><span data-stu-id="4c778-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
+2. <span data-ttu-id="dba95-104">Avaa \*\* &amp; Ohjepalaute-näyttö\*\* valitsemalla kysymysmerkki.</span><span class="sxs-lookup"><span data-stu-id="dba95-104">Select the question mark to open the **Help &amp; Feedback** screen.</span></span>
 
-3. <span data-ttu-id="4c778-105">Napauta **Yhteyden ottaminen tukeen** ja Selitä ongelmasi.</span><span class="sxs-lookup"><span data-stu-id="4c778-105">Tap **Contact Support** and explain your issue.</span></span>
+3. <span data-ttu-id="dba95-105">Napauta **Ota yhteyttä tukeen** ja selitä ongelmasi.</span><span class="sxs-lookup"><span data-stu-id="dba95-105">Tap **Contact Support** and explain your issue.</span></span>
 
-4. <span data-ttu-id="4c778-106">Napauta **Lähetä** ja sinun tulee-app-ilmoitus, kun tuen agenttiin sinuun.</span><span class="sxs-lookup"><span data-stu-id="4c778-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
+4. <span data-ttu-id="dba95-106">Napauta **Lähetä,** niin saat sovelluksen sisäinen ilmoituksen, kun tukihenkilö ottaa sinuun yhteyttä.</span><span class="sxs-lookup"><span data-stu-id="dba95-106">Tap **Send** and you'll receive an in-app notification when a support agent contacts you.</span></span>
 
-<span data-ttu-id="4c778-107">Yksityiskohtaiset ohjeet [Outlook iOS ja Android app-ohjeita](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span><span class="sxs-lookup"><span data-stu-id="4c778-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>
+<span data-ttu-id="dba95-107">Yksityiskohtaiset ohjeet ovat [ohjeaiheessa Outlook for iOS:n ja Androidin sovelluksen ohjeen saaminen.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)</span><span class="sxs-lookup"><span data-stu-id="dba95-107">For detailed instructions, see [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).</span></span>

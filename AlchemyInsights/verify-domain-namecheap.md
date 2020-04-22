@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ac7a66fc3315132f85eccba6cfa7eb5d2c7f5465
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326061"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721723"
 ---
-# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="d1cbc-102">Toimialueen vahvistaminen Namecheapin avulla</span><span class="sxs-lookup"><span data-stu-id="d1cbc-102">Verify your domain with Namecheap</span></span>
+# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="4b3c0-102">Toimialueen vahvistaminen Namecheapin avulla</span><span class="sxs-lookup"><span data-stu-id="4b3c0-102">Verify your domain with Namecheap</span></span>
 
-<span data-ttu-id="d1cbc-103">Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden varmistamiseksi.</span><span class="sxs-lookup"><span data-stu-id="d1cbc-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="4b3c0-103">Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden vahvistamiseksi.</span><span class="sxs-lookup"><span data-stu-id="4b3c0-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="d1cbc-104">Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja lisää sitten **toimialue**.</span><span class="sxs-lookup"><span data-stu-id="d1cbc-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="4b3c0-104">Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja sitten **Lisää toimialue**.</span><span class="sxs-lookup"><span data-stu-id="4b3c0-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="d1cbc-105">Vaiheittaiset ohjeet ovat ohjeaiheessa [DNS-tietueiden luominen Namecheap for Office 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)</span><span class="sxs-lookup"><span data-stu-id="d1cbc-105">See [Create DNS records at Namecheap for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>
+<span data-ttu-id="4b3c0-105">Vaiheittaiset ohjeet ovat kohdassa [DNS-tietueiden luominen Namecheapfor Microsoft 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)</span><span class="sxs-lookup"><span data-stu-id="4b3c0-105">See [Create DNS records at Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>

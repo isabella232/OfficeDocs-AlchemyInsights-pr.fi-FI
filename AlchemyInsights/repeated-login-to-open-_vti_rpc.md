@@ -3,7 +3,7 @@ title: Toistuva kirjautuminen avata _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: d28370db130278074beb06a5379553f26b2c684c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722771"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a><span data-ttu-id="d0d26-102">Toistuva kirjautuminen avata _vti_rpc</span><span class="sxs-lookup"><span data-stu-id="d0d26-102">Repeated login to open _vti_rpc</span></span>
+# <a name="repeated-login-to-open-_vti_rpc"></a><span data-ttu-id="14f7b-102">Toistuva kirjautuminen avata _vti_rpc</span><span class="sxs-lookup"><span data-stu-id="14f7b-102">Repeated login to open _vti_rpc</span></span>
 
-<span data-ttu-id="d0d26-103">Työskennellessäsi OneDrive-tiedostoilla Office 2016-käyttö järjestelmän avulla saatat nähdä viestin: "Kerro meille tili, jota haluat käyttää _vti_rpc avaamiseen."</span><span class="sxs-lookup"><span data-stu-id="d0d26-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="d0d26-104">Tämä ongelma korjattiin versiossa 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="d0d26-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="d0d26-105">Voit korjata tämän päivityksen Officen uusimpaan versioon.</span><span class="sxs-lookup"><span data-stu-id="d0d26-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="d0d26-106">Valitse **tiedosto** \> **tilin** \> **päivitys asetukset** \> **Päivitä nyt**.</span><span class="sxs-lookup"><span data-stu-id="d0d26-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="14f7b-103">Kun käsittelet OneDrive-tiedostoja Office 2016:n avulla, näyttöön saattaa tulla seuraava sanoma: "Kerro meille tili, jota haluat käyttää _vti_rpc avaamiseen."</span><span class="sxs-lookup"><span data-stu-id="14f7b-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="14f7b-104">Tämä ongelma on korjattu versiossa 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="14f7b-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="14f7b-105">Voit korjata ongelman päivittämällä officen uusimpaan versioon.</span><span class="sxs-lookup"><span data-stu-id="14f7b-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="14f7b-106">Valitse \> **Tiedostotilin** \> **päivitysasetukset** \> **Päivitä nyt**. **File**</span><span class="sxs-lookup"><span data-stu-id="14f7b-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   

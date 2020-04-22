@@ -3,7 +3,7 @@ title: Outlook.com-tilin sulkeminen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: 0ab0f867c399d3e5ac6015afdcb4d8295e6fd839
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee611022bf4929d81f0c631e20419222bea12e16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537044"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722121"
 ---
-# <a name="close-your-outlookcom-account"></a><span data-ttu-id="cf537-102">Outlook.com-tilin sulkeminen</span><span class="sxs-lookup"><span data-stu-id="cf537-102">Close your Outlook.com account</span></span>
+# <a name="close-your-outlookcom-account"></a><span data-ttu-id="26ceb-102">Outlook.com-tilin sulkeminen</span><span class="sxs-lookup"><span data-stu-id="26ceb-102">Close your Outlook.com account</span></span>
 
-1. <span data-ttu-id="cf537-103">Siirry [tilin sulkeminen](https://go.microsoft.com/fwlink/p/?linkid=845493) -sivulle.</span><span class="sxs-lookup"><span data-stu-id="cf537-103">Go to the [Close your account](https://go.microsoft.com/fwlink/p/?linkid=845493) page.</span></span>
-2. <span data-ttu-id="cf537-104">Noudata ohjeita sivulla varmistaaksesi, että tilisi on valmis voidaan sulkea, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="cf537-104">Follow the instructions on the page to make sure that your account is ready to be closed, and select **Next**.</span></span>
-3. <span data-ttu-id="cf537-105">Lukea ja ilmoittaa kunkin kohteen olet lukenut valintaruudut.</span><span class="sxs-lookup"><span data-stu-id="cf537-105">Read the list and check the boxes to acknowledge you've read each item.</span></span>
-4. <span data-ttu-id="cf537-106">Olet sulkemassa tilin syy valita **Valitse syy** avattavasta luettelosta.</span><span class="sxs-lookup"><span data-stu-id="cf537-106">In the **Select a reason** drop-down list, choose the reason you're closing the account.</span></span>
-5. <span data-ttu-id="cf537-107">Valitse **merkki tilin sulkemiseen**.</span><span class="sxs-lookup"><span data-stu-id="cf537-107">Select **Mark account for closure**.</span></span>
+1. <span data-ttu-id="26ceb-103">Siirry [Sulje tili -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=845493)</span><span class="sxs-lookup"><span data-stu-id="26ceb-103">Go to the [Close your account](https://go.microsoft.com/fwlink/p/?linkid=845493) page.</span></span>
+2. <span data-ttu-id="26ceb-104">Varmista sivulla olevien ohjeiden mukaisesti, että tilisi on valmis suljettavaksi, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="26ceb-104">Follow the instructions on the page to make sure that your account is ready to be closed, and select **Next**.</span></span>
+3. <span data-ttu-id="26ceb-105">Lue luettelo ja valitse valintaruudut, joissa voit tunnistaa, että olet lukenut kunkin kohteen.</span><span class="sxs-lookup"><span data-stu-id="26ceb-105">Read the list and check the boxes to acknowledge you've read each item.</span></span>
+4. <span data-ttu-id="26ceb-106">Valitse **avattavasta Valitse syy** -luettelosta syy, miksi suljet tilin.</span><span class="sxs-lookup"><span data-stu-id="26ceb-106">In the **Select a reason** drop-down list, choose the reason you're closing the account.</span></span>
+5. <span data-ttu-id="26ceb-107">Valitse **Merkitse tili suljettavinta varten**.</span><span class="sxs-lookup"><span data-stu-id="26ceb-107">Select **Mark account for closure**.</span></span>
 
-<span data-ttu-id="cf537-108">Lisätietoja on ohjeaiheessa [Outlook.com-tilin sulkeminen](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="cf537-108">To learn more, see [Close your Outlook.com account](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="26ceb-108">Lisätietoja on ohjeaiheessa [Outlook.com -tilin sulkeminen](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="26ceb-108">To learn more, see [Close your Outlook.com account](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   

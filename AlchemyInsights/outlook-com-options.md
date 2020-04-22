@@ -1,9 +1,9 @@
 ---
-title: 9000202 Outlook.com-asetukset
+title: 9000202 Outlook.com valinnat
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: 6e52fd9f095464d158ade14ea4b51a0401d0f57e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed0f85745754914291d4abeedca92c3204b28672
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535874"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745536"
 ---
-# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="345ff-102">Miten asetukset löytyy Outlook.com-asetukset</span><span class="sxs-lookup"><span data-stu-id="345ff-102">How to find options in Outlook.com settings</span></span>
+# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="05276-102">Asetusten etsiminen Outlook.com-asetuksista</span><span class="sxs-lookup"><span data-stu-id="05276-102">How to find options in Outlook.com settings</span></span>
 
-<span data-ttu-id="345ff-103">Valitse sivun yläosassa pyydykset kuvaketta</span><span class="sxs-lookup"><span data-stu-id="345ff-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="345ff-104">Avaa asetukset.</span><span class="sxs-lookup"><span data-stu-id="345ff-104">to open Settings.</span></span> <span data-ttu-id="345ff-105">Valitse Asetukset-ruudun alaosasta [**Näytä kaikki Outlookin asetukset**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="345ff-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
+<span data-ttu-id="05276-103">Valitse sivun yläreunasta rataskuvake</span><span class="sxs-lookup"><span data-stu-id="05276-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="05276-104">avataksesi Asetukset.to open Settings.</span><span class="sxs-lookup"><span data-stu-id="05276-104">to open Settings.</span></span> <span data-ttu-id="05276-105">Valitse Asetukset-ruudun alareunasta [**Näytä kaikki Outlookin asetukset**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="05276-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
 
-<span data-ttu-id="345ff-106">Tämä toiminto näyttää, General, sähköposti, kalenteri, ja (tarvittaessa) ja Premium asetukset.</span><span class="sxs-lookup"><span data-stu-id="345ff-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>
+<span data-ttu-id="05276-106">Tämä näyttää yleiset, sähköpostisi, kalenterisi ja (tarvittaessa) Premium-asetuksesi ja -asetuksesi.</span><span class="sxs-lookup"><span data-stu-id="05276-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>

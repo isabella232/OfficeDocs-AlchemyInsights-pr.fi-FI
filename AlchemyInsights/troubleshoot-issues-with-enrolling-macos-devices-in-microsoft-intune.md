@@ -1,9 +1,9 @@
 ---
-title: Rekisteröiminen Microsoft Intune macOS-laitteiden ongelmien vianmääritys
+title: MacOS-laitteiden rekisteröiminen Microsoft Intunen avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736119"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a><span data-ttu-id="3245d-102">Rekisteröiminen Microsoft Intune macOS-laitteiden ongelmien vianmääritys</span><span class="sxs-lookup"><span data-stu-id="3245d-102">Troubleshoot issues with enrolling macOS devices in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a><span data-ttu-id="43f8e-102">MacOS-laitteiden rekisteröiminen Microsoft Intunen avulla</span><span class="sxs-lookup"><span data-stu-id="43f8e-102">Troubleshoot issues with enrolling macOS devices in Microsoft Intune</span></span>
 
-<span data-ttu-id="3245d-103">Tarkista ongelman nyt alla luetellut resurssit.</span><span class="sxs-lookup"><span data-stu-id="3245d-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="43f8e-103">Ratkaise ongelma nyt alla olevien resurssien avulla.</span><span class="sxs-lookup"><span data-stu-id="43f8e-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="3245d-104">[Intune vianmääritys-portaalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista yhteisen rekisteröinti virheitä.</span><span class="sxs-lookup"><span data-stu-id="3245d-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="3245d-105">Lisätietoja [tämän asiakirjan](https://docs.microsoft.com/intune/help-desk-operators) tarkasteleminen.</span><span class="sxs-lookup"><span data-stu-id="3245d-105">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+1. <span data-ttu-id="43f8e-104">[Intune Troubleshooting Portalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä.</span><span class="sxs-lookup"><span data-stu-id="43f8e-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="43f8e-105">Lisätietoja on [tässä asiakirjassa.](https://docs.microsoft.com/intune/help-desk-operators)</span><span class="sxs-lookup"><span data-stu-id="43f8e-105">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-2. <span data-ttu-id="3245d-106">Yleisiä virheitä, jotka estävät rekisteröinti ja ratkaisuja jokaiseen luettelo [tämän asiakirjan](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) tarkasteleminen.</span><span class="sxs-lookup"><span data-stu-id="3245d-106">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
+2. <span data-ttu-id="43f8e-106">Tässä [asiakirjassa](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) on luettelo yleisistä virheistä, jotka estävät rekisteröitymisen ja ratkaisut kuhunkin.</span><span class="sxs-lookup"><span data-stu-id="43f8e-106">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
 
-3. <span data-ttu-id="3245d-107">[Rekisteröi Microsoft Intune macOS-laitteiden tietoja](https://docs.microsoft.com/intune/macos-enroll).</span><span class="sxs-lookup"><span data-stu-id="3245d-107">[Learn how to enroll macOS devices in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span></span>
+3. <span data-ttu-id="43f8e-107">[Lue, miten voit rekisteröidä macOS-laitteet Microsoft Intuneen](https://docs.microsoft.com/intune/macos-enroll).</span><span class="sxs-lookup"><span data-stu-id="43f8e-107">[Learn how to enroll macOS devices in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).</span></span>
 
-[<span data-ttu-id="3245d-108">Tutustu Microsoft Intune macOS laite Rekisteröi peruskäyttäjän opas</span><span class="sxs-lookup"><span data-stu-id="3245d-108">Check out end-user guide to enroll macOS device in Microsoft Intune</span></span>](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[<span data-ttu-id="43f8e-108">Tutustu macOS-laitteen rekisteröintioppaaseen Microsoft Intunen avulla</span><span class="sxs-lookup"><span data-stu-id="43f8e-108">Check out end-user guide to enroll macOS device in Microsoft Intune</span></span>](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
