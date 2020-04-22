@@ -1,8 +1,8 @@
 ---
-title: 1800029 yhdistetyt tilit, joita ei tueta Outlookissa Webissä
+title: 1800029 Outlookin verkkoversio ei tue yhdistettyjä tilejä (tämä artikkeli saattaa olla englanninkielinen)
 ms.author: daeite
 author: daeite
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b26f9b62ec3c379eb875426c7744a39fca6decc1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36821799"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705838"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="73850-102">Yhdistettyjä tilejä ei enää tueta</span><span class="sxs-lookup"><span data-stu-id="73850-102">Connected accounts are no longer supported</span></span>
+# <a name="connected-accounts-are-no-longer-supported"></a>Yhdistettyjä tilejä ei enää tueta
 
-<span data-ttu-id="73850-103">Microsoft on poistanut mahdollisuuden lisätä uusia tilejä Outlookiin verkossa käyttämällä yhdistetyt tilit-ominaisuutta syyskuussa 15, 2018 ja lopettaa nykyisten tilien synkronoinnin loka kuussa 30, 2018, jotka oli kytketty ennen syyskuuta 15, 2018.</span><span class="sxs-lookup"><span data-stu-id="73850-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="73850-104">15. marraskuuta, yhdistetyt tilit-vaihto ehto ( **Asetukset** \> **Sähkö posti** \> **tilit**) poistetaan Outlookista Webissä.</span><span class="sxs-lookup"><span data-stu-id="73850-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="73850-105">Lisä tietoja [on kohdassa Outlookin verkko yhteys tilejä ei enää tueta (Office 365 for Business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="73850-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
+Microsoft on poistanut mahdollisuuden lisätä uusia tilejä Outlookin verkkoversioon 15.9.2018 Yhdistetyt tilit -ominaisuuden avulla ja lopettaa ennen 15.9.2018 yhdistettyjen tilien synkronoinnin 30.10.2018. 15.11. Yhdistettyjen tilien vaihtoehto ( **Asetukset** \> **Sähköpostitilit** \> **Accounts**) poistetaan Outlookin verkkoversiosta .Lisätietoja on [ohjeaiheessa Outlookin verkkoversio (Microsoft 365 for Business -tilit) ei enää tue yhdistettyjä tilejä.](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-<span data-ttu-id="73850-106">Muiden tilien sähkö postin näkeminen edelleen: voit edelleen lähettää sähkö postia kyse isistä tileistä Outlookiin Webissä.</span><span class="sxs-lookup"><span data-stu-id="73850-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="73850-107">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="73850-107">For more information, see:</span></span>
+Muiden tilien sähköpostin jatkaminen: voit silti välittää kyseisten tilien sähköpostin outlookin verkkoversioon. Lisätietoja on seuraavissa artikkeleissa:
   
-[<span data-ttu-id="73850-108">Automaattisen edelleenlähetyksen ottaminen käyttöön tai poistaminen käytöstä Outlook.com</span><span class="sxs-lookup"><span data-stu-id="73850-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Automaattisen edelleenlähetyksen ottaminen käyttöön tai poistaminen käytöstä Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[<span data-ttu-id="73850-109">Gmail-viestien automaattinen lähettäminen toiselle tilille</span><span class="sxs-lookup"><span data-stu-id="73850-109">Automatically forward Gmail messages to another account</span></span>](https://aka.ms/forward-gmail-messages)
+[Gmail-viestien automaattinen välittäminen toiselle tilille](https://aka.ms/forward-gmail-messages)
   
-[<span data-ttu-id="73850-110">Automaattinen sähkö postin edelleenlähetys Yahoo Mailissa</span><span class="sxs-lookup"><span data-stu-id="73850-110">Automatic email forwarding in Yahoo mail</span></span>](https://aka.ms/yahoo-email-forwarding)
+[Automaattinen sähköpostin edelleenlähetys Yahoo mailissa](https://aka.ms/yahoo-email-forwarding)
   

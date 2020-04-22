@@ -1,9 +1,9 @@
 ---
-title: Käytä mukautettuja profiileja Intune
+title: Mukautettujen profiilien käyttäminen Intunen issa
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710476"
 ---
-# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="b513f-102">Mukautettu käytäntö käyttämällä Intune</span><span class="sxs-lookup"><span data-stu-id="b513f-102">Using custom policy in Intune</span></span>
+# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="fbfed-102">Mukautetun käytännön käyttäminen Intunen issa</span><span class="sxs-lookup"><span data-stu-id="fbfed-102">Using custom policy in Intune</span></span>
 
-<span data-ttu-id="b513f-103">Intune on useita asetuksia Android-, iOS-, macOS- ja Windows-laitteille.</span><span class="sxs-lookup"><span data-stu-id="b513f-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="b513f-104">Voit myös luoda mukautetun profiilin ja ottaa sitten käyttöön mukautettuja asetuksia käyttämällä Intune laitteita.</span><span class="sxs-lookup"><span data-stu-id="b513f-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="b513f-105">Voit lisätä laitteen asetuksia ja ominaisuuksia, jotka eivät ole rakennettu Intune on suunniteltu mukautettuihin profiileihin.</span><span class="sxs-lookup"><span data-stu-id="b513f-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
+<span data-ttu-id="fbfed-103">Intunen on useita asetuksia sisäänrakennettu Android-, iOS-, macOS- ja Windows-laitteille.</span><span class="sxs-lookup"><span data-stu-id="fbfed-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="fbfed-104">Voit myös luoda mukautetun profiilin ja ottaa nämä mukautetut asetukset käyttöön laitteissasi Intunen avulla.</span><span class="sxs-lookup"><span data-stu-id="fbfed-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="fbfed-105">Mukautetut profiilit on suunniteltu lisäämään laiteasetuksia ja ominaisuuksia, joita ei ole sisäänrakennettu Intutiin.</span><span class="sxs-lookup"><span data-stu-id="fbfed-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
 
-[<span data-ttu-id="b513f-106">Android-laitteiden Intune mukautetut asetukset</span><span class="sxs-lookup"><span data-stu-id="b513f-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
+[<span data-ttu-id="fbfed-106">Android-laitteiden mukautetut asetukset Intunessa</span><span class="sxs-lookup"><span data-stu-id="fbfed-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
 
-[<span data-ttu-id="b513f-107">Yrityksen Android-laitteiden Intune mukautetut asetukset</span><span class="sxs-lookup"><span data-stu-id="b513f-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[<span data-ttu-id="fbfed-107">Android Enterprise -laitteiden mukautetut asetukset Intunessa</span><span class="sxs-lookup"><span data-stu-id="fbfed-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[<span data-ttu-id="b513f-108">IOS-laitteiden Intune mukautetut asetukset</span><span class="sxs-lookup"><span data-stu-id="b513f-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
+[<span data-ttu-id="fbfed-108">iOS-laitteiden mukautetut asetukset Intunen</span><span class="sxs-lookup"><span data-stu-id="fbfed-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[<span data-ttu-id="b513f-109">MacOS-laitteiden Intune mukautetut asetukset</span><span class="sxs-lookup"><span data-stu-id="b513f-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
+[<span data-ttu-id="fbfed-109">MacOS-laitteiden mukautetut asetukset Intunen</span><span class="sxs-lookup"><span data-stu-id="fbfed-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[<span data-ttu-id="b513f-110">Windows 10 Intune-laitteiden mukautetut asetukset</span><span class="sxs-lookup"><span data-stu-id="b513f-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[<span data-ttu-id="fbfed-110">Windows 10 -laitteiden mukautetut asetukset Intunen</span><span class="sxs-lookup"><span data-stu-id="fbfed-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[<span data-ttu-id="b513f-111">Mukautettuja asetuksia hologramminauhan Windows Intune-laitteiden Business</span><span class="sxs-lookup"><span data-stu-id="b513f-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[<span data-ttu-id="fbfed-111">Windows Holographic for Business -laitteiden mukautetut asetukset Intunen</span><span class="sxs-lookup"><span data-stu-id="fbfed-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

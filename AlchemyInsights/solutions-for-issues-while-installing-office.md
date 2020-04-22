@@ -1,8 +1,8 @@
 ---
-title: Ongelmia asennettaessa Office Solutions
+title: Ratkaisuja Officen asennuksen aikana ongelmiin
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709080"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a><span data-ttu-id="439f6-102">Ongelmia asennettaessa Office Solutions</span><span class="sxs-lookup"><span data-stu-id="439f6-102">Solutions for issues while installing Office</span></span>
+# <a name="solutions-for-issues-while-installing-office"></a><span data-ttu-id="81292-102">Ratkaisuja Officen asennuksen aikana ongelmiin</span><span class="sxs-lookup"><span data-stu-id="81292-102">Solutions for issues while installing Office</span></span>
 
-<span data-ttu-id="439f6-103">Kokeile näitä ratkaisuja korjaa Office-virhe:</span><span class="sxs-lookup"><span data-stu-id="439f6-103">Try one of these solutions to fix your Office error:</span></span>
+<span data-ttu-id="81292-103">Kokeile jotakin näistä ratkaisuista Office-virheen korjaamiseksi:</span><span class="sxs-lookup"><span data-stu-id="81292-103">Try one of these solutions to fix your Office error:</span></span>
   
-- <span data-ttu-id="439f6-104">Käynnistä tietokone uudelleen ja yritä [asentaa Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="439f6-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="81292-104">Käynnistä tietokone uudelleen ja yritä [asentaa Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="81292-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="439f6-105">Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="439f6-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="81292-105">Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="81292-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="439f6-106">Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="439f6-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="81292-106">Kun se avautuu, valitse **Poista Office-tuotteiden asennus -kohdasta** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="81292-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="439f6-107">Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.</span><span class="sxs-lookup"><span data-stu-id="439f6-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="81292-107">Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.</span><span class="sxs-lookup"><span data-stu-id="81292-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="439f6-108">Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.</span><span class="sxs-lookup"><span data-stu-id="439f6-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="81292-108">Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistamisen viimeistelemiseksi.</span><span class="sxs-lookup"><span data-stu-id="81292-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="439f6-109">Noudata jäljellä kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulkea avustajan.</span><span class="sxs-lookup"><span data-stu-id="439f6-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="81292-109">Noudata jäljellä olevia kehotteita ja [asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.</span><span class="sxs-lookup"><span data-stu-id="81292-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-- <span data-ttu-id="439f6-110">[Käytä Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) asentaa Office</span><span class="sxs-lookup"><span data-stu-id="439f6-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
+- <span data-ttu-id="81292-110">[Officen asentaminen Officen offline-asennusohjelman avulla](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="81292-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
 
-<span data-ttu-id="439f6-111">Saat lisätietoja asennusvirheet [virhesanomat Officen asennuksen yhteydessä](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span><span class="sxs-lookup"><span data-stu-id="439f6-111">For more information about installation errors, see [Error messages when installing Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span></span>
+<span data-ttu-id="81292-111">Lisätietoja asennusvirheistä on ohjeaiheessa [Virhesanomat Officea asennettaessa](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span><span class="sxs-lookup"><span data-stu-id="81292-111">For more information about installation errors, see [Error messages when installing Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span></span>
   
