@@ -1,9 +1,9 @@
 ---
-title: 8000091 Outlook.com reagoi Pop up
+title: 8000091 Outlook.com Reagoi -ponnahdusikkuna
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3a8ca385a6cfdbbbd9ce5c61b4b2201359e3fd3e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36545472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744544"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com on valmis Prime-aikaan
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com on valmiina parhaaseen mahdolliseen aikaan
 
-Olemme tietoisia siitä, että jotkut asiakkaat saattavat nähdä, että "Outlook.com on valmis prime time"-ponnahdus ikkuna joka kerta, kun he kirjautuvat sisään, ja me pyrimme korjaamaan.
+Olemme tietoisia siitä, että jotkut asiakkaat saattavat nähdä "Outlook.com on valmis parhaaseen aikaan" -ponnahdusikkunan aina, kun he kirjautuvat sisään, ja pyrimme korjaamaan ongelman.
 
-Anteeksi, että.
+Olen pahoillani tuosta.
 
 [Lue lisää uudesta Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

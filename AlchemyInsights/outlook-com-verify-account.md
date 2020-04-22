@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-tilin tarkistaminen
+title: Outlook.com-tilin vahvistaminen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743414"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com-tilin tarkistaminen
+# <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com-tilin vahvistaminen
 
-Kaksivaiheinen vahvistus auttaa suojaamaan tekemällä siitä vaikeampaa jonkun Kirjaudu sisään Microsoft-tililläsi. Se käyttää kahdenlaisia käyttäjätiedot: salasana ja yhteydenottotapa (suojaustason tietoja).
+Kaksivaiheinen vahvistus auttaa suojaamaan sinua vaikeuttamalla jonkun muun kirjautumista Microsoft-tiliisi. Se käyttää kahta eri identiteettiä: salasanaasi ja yhteydenottotapaa (jota kutsutaan myös suojaustiedoiksi).
   
-Voit ottaa kaksivaiheinen vahvistus käyttöön tai poistaa sen käytöstä seuraavasti:
+Kaksivaiheisen vahvistuksen ottaminen käyttöön tai poistaminen käytöstä:
   
-1. [Suojauksen perusteet-sivulle](https://go.microsoft.com/fwlink/?linkid=842325) ja kirjaudu sisään Microsoft-tilillä.
-2. Valitse **Suojauksen lisäasetukset**.
-3. **Kaksivaiheinen vahvistus**-kohdassa Määritä **kaksivaiheinen vahvistus** ja noudata ohjeita.
+1. Siirry [Suojauksen perusteet -sivulle](https://go.microsoft.com/fwlink/?linkid=842325) ja kirjaudu sisään Microsoft-tililläsi.
+2. Valitse **Lisää suojausasetuksia**.
+3. Valitse **Kaksivaiheinen vahvistus**-kohdassa **Määritä kaksivaiheinen vahvistus** ja noudata ohjeita.
 
-Jos Ota käyttöön kaksivaiheinen vahvistus, tarvitset aina kahdenlaisia tunnus. Jos menetät oman yhteydenottotapa, salasanasi yksin et pääset takaisin huomioon - ja se voi kestää 30 päivää käyttöoikeudet takaisin.
+Jos otat kaksivaiheisen vahvistuksen käyttöön, tarvitset aina kaksi tunnistusmuotoa. Jos kadotat yhteydenottotapasi, salasanasi ei yksin pääse takaisin tilillesi - ja käyttö voi kestää 30 päivää.
   
-Lisätietoja [kaksivaiheinen vahvistus](https://go.microsoft.com/fwlink/?linkid=872270).
+Lisätietoja [kaksivaiheisesta vahvistuksesta](https://go.microsoft.com/fwlink/?linkid=872270).
   

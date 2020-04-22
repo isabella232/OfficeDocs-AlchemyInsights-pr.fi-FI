@@ -1,9 +1,9 @@
 ---
-title: Perinteisen SharePointin valvonta lokin raportit
+title: Perinteiset SharePoint-valvontalokiraportit
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,40 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
-ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
+ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37992615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741962"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePointin ja OneDriven valvonta lokit
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePointin ja OneDriven valvontalokit
 
-## <a name="sharepoint-classic-audit-logs"></a>SharePoint Classicin valvonta lokit
+## <a name="sharepoint-classic-audit-logs"></a>SharePointin perinteiset valvontalokit
 
-SPO Legacy-valvonta siirrettiin yhtenäiseen valvonta lokiin (UAL). Kaikki SPO Legacy-auditointi raportit toimivat nyt UAL-järjestelmän kautta, ja aiemmat auditointi signaalit on siirretty UAL-järjestelmään.
+SPO:n vanha valvonta siirrettiin Yhdistettyyn valvontalokiin (UAL). Kaikki spo:n vanhat auditointiraportit toimitetaan nyt UAL:n kautta ja vanhat auditointisignaalit on siirretty UAL:hen.
 
-Keskeiset muutokset:
+Tärkeimmät muutokset:
 
-* Trimmaus ei ole käytettävissä ominaisuus.
-* Tiettyjen tapahtumien valitseminen valvomatta ei ole käytettävissä. Katso [tästä asia kirjasta](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) täydellinen luettelo tarkastetuista tapahtumista, jotka ovat oletusarvoisesti käytettävissä.
-* **Mukautettujen raporttien** **Sijainti** vaihtoehto ei ole käytettävissä.
-* **Avaus-tai lataus asiakirjojen** tapahtumat-vaihto ehto ei ole käytettävissä.
+* Trimmaus ei ole käytettävissä ominaisuutena.
+* Tiettyjen valvottavien tapahtumien valitseminen ei ole käytettävissä. Tässä [asiakirjassa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) on täydellinen luettelo oletusarvoisesti käytettävissä olevista valvotuista tapahtumista.
+* **Mukautetut raportit** -kohdan **Sijainti-vaihtoehto** ei ole käytettävissä.
+* **Asiakirjojen avaaminen tai lataaminen** -vaihtoehto ei ole käytettävissä.
 
 [Sivustokokoelman valvonta-asetusten määrittäminen](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePointin ja OneDriven modernit yhtenäiset valvonta lokit vaatimustenmukaisuudesta
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePointin ja OneDriven nykyaikaiset yhdistetyt valvontalokit yhteensopivuudesta
 
-* [Yhtenäisen valvonta lokin ottaminen käyttöön ja poistaminen käytöstä](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Yhdistetyn valvonnan kirjaamisen ottaminen käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-SharePointin tai OneDriven sisällä ei tarvita lisä määrityksiä.
+Lisämäärityksiä ei tarvita SharePointissa tai OneDrivessa.
 
-Käytä valvonnan kirjaamis hakua tiedostojen, kansioiden, käyttäjien ja käyttö oikeuksien tarkistustyö:
+Tarkista tiedostojen, kansioiden, käyttäjien ja käyttöoikeuksien toiminta valvontalokihaun avulla:
 
-* [Tiedostojen ja sivujen toiminnot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Kansion aktiviteetit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Jakamis-ja käyttö oikeus pyyntöjen toiminnot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Synkronointi toiminnot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Sivuston hallinta toiminnot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Tiedostojen ja sivujen aktiviteetit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [Kansion toiminnot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Jakamis- ja käyttöoikeuspyyntöaktiviteetit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Synkronointiaktiviteetit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Sivuston hallintatoiminnot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Lisä tietoja näiden tapahtumien hakemista on kohdassa [valvonta lokin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)hakeminen.
+Lisätietoja näiden tapahtumien noutamisesta on kohdassa [Haku valvontalokista](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

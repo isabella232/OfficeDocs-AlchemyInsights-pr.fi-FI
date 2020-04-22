@@ -1,9 +1,9 @@
 ---
-title: Automaattinen uusiminen hallinta
+title: Automaattisen uusimisen hallinta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762602"
 ---
-# <a name="manage-recurring-billing"></a>Toistuva laskutuksen hallinta
+# <a name="manage-recurring-billing"></a>Toistuvan laskutuksen hallinta
 
-Poista toistuva Laskutus käyttöön tai poistaa käytöstä Microsoft 365 admin Centerissä.
+Voit ottaa toistuvan laskutuksen käyttöön tai poistaa sen käytöstä Microsoft 365 -hallintakeskuksessa.
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Valitse **Laskutus**, **Renews-** tai **Expiring-** kohdasta **Muokkaa**.
+2. Valitse **Laskutus -kohdan** **Uusi uusiminen** - tai **Vanheneminen -kohdassa** **Muokkaa**.
 
-3. **Toistuva Laskutus asetukset** -ruudussa Valitse **Poista käytöstä** , poista se käytöstä. Jos toistuva laskutus ei ole jo käytössä, valitse **kuukausittain** tai **kerran** käyttöön.
+3. Poista käytöstä valitsemalla **Toistuvat laskutusasetukset** -ruudussa **Poista** käytöstä. Jos toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **Kuukausittain** tai **Kerran.**
 
-4. Valitse **Lähetä muuttaa**.
+4. Valitse **Lähetä muutos**.
 
-Jos haluat lisätietoja, katso [Oletusaloitusnäkymän toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

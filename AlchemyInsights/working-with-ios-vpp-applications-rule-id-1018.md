@@ -1,8 +1,8 @@
 ---
-title: IOS VPP sovellusten säännön tunnus 1018 käsitteleminen
+title: iOS VPP -sovellusten säännön tunnus 1018:n käyttäminen
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719954"
 ---
-# <a name="working-with-ios-vpp-applications"></a>IOS VPP-sovellusten käyttäminen
+# <a name="working-with-ios-vpp-applications"></a>iOS VPP -sovellusten käyttäminen
 
-Lue lisätietoja toiminnot, rajoitukset ja toimenpiteet [iOS apps ostaa aseman osto - ohjelma on Microsoft Intune – hallinta](https://docs.microsoft.com/intune/vpp-apps-ios) Apple aseman osto-ohjelma ja tuki-Microsoft Intune hyödyntää.
+Lisätietoja Applen volyymiosto-ohjelman ja sen tuen käyttämisestä Microsoft Intunen ominaisuuksissa, rajoitteissa ja vaiheissa on kohdassa [Microsoft Intunen kautta ostettujen iOS-ohjelmien hallinta.](https://docs.microsoft.com/intune/vpp-apps-ios)
   
- **Ongelmista:** ”Oma käyttäjille osoitettuja iOS VPP app, mutta asennus epäonnistui”.
+ **Yleisiä ongelmia:** "Annoin käyttäjillei iOS VPP -sovelluksen, mutta asennus epäonnistui."
   
-- Näin voi käydä, jos yhden VPP-tunnusta käytetään useita kannettavan laitteen hallinnan palveluntarjoajien kautta. Apple-VPP-tunnuksia voi käyttää vain yksi toimittaja. Jos käytit VPP-tunnuksen kanssa useita tarjoajia, Lataa uudelleen Intune tunnuksen.
+- Näin voi käydä, jos yhtä VPP-tunnusta käytetään useissa mobiililaitteiden hallintapalveluissa. Applen VPP-tunnuksia saa käyttää vain yhden palveluntarjoajan kanssa. Jos käytit VPP-tunnusta useiden palveluntarjoajien kanssa, sinun on ladattava tunnus uudelleen Intuneen.
 
-- Asennus saattaa epäonnistua myös, jos asennusten kokonaismäärä ylitä käyttöoikeuksien määrää. Voit tarkastella käyttöoikeuksiasi käyttöraportteja, siirry **Intune Mobile apps** \> **App-käyttöoikeudet** -sivulla. Lisätietoja vapauttaa lisenssejä käyttää, on [Tässä artikkelissa.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Asennus voi epäonnistua myös, jos asennusten kokonaismäärä ylittää käyttöoikeuksien määrän. Jos haluat tarkastella käyttöraporttia käyttöoikeuksillesi, siirry **Intune Mobile apps** \> **-sovelluksen käyttöoikeudet -sivulle.** Lisätietoja käytössä olesten käyttöoikeuksien palauttamisesta [on tässä artikkelissa.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

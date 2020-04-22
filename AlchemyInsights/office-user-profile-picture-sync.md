@@ -1,5 +1,5 @@
 ---
-title: Käyttäjän profiili kuvan synkronointi
+title: Käyttäjän profiilikuvan synkronointi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 4af871b33d4e5f438584076891fff7a430f41b5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761523"
 ---
-# <a name="sync-a-users-profile-picture"></a>Käyttäjän profiili kuvan synkronointi
+# <a name="sync-a-users-profile-picture"></a>Käyttäjän profiilikuvan synkronointi
 
-Voit lisätä tai muuttaa profiili kuvasi Office 365-selaimessa Office.com tai käyttäessäsi Office 365-sovelluksia tieto koneella tai puhelimen selaimella. Kuva näkyy kaikkialla, jossa on profiili valokuva ympyrä Office 365.
+Voit lisätä tai muuttaa profiilikuvaasi Microsoft 365:ssä Office.com tai käyttäessäsi Microsoft-sovelluksia tietokoneessa tai puhelimen selaimessa. Valokuvasi näkyy kaikkialla, missä Microsoft 365:ssä on profiilikuvaympyrä.
 
-Voit lisätä profiili kuvasi Office 365 for Businessiin
+Profiilikuvan lisääminen Microsoft 365 for Businessiin
 
-- Etsi valo kuva, jota haluat käyttää, ja tallenna se tieto koneellesi, OneDriveen tai muuhun sijaintiin, johon voit päästä.
+- Etsi valokuva, jota haluat käyttää, ja tallenna se tietokoneeseen, OneDriveen tai muuhun sijaintiin, johon voit käyttää.
 
-- Kirjaudu sisään Office 365-tiliisi työ-tai koulu tililläsi osoitteessa [Office.com](http://www.office.com).
+- Kirjaudu Microsoft 365:een työpaikan tai oppilaitoksen tilillä [osoitteessa office.com](https://www.office.com).
 
-- Valitse sivun oikeasta yläkulmasta ympyrä, joka näyttää nimi kirjaimet tai henkilön kuvakkeen.
+- Valitse sivun oikeasta yläkulmasta ympyrä, jossa näkyvät nimikirjaimesi tai henkilön kuvake.
 
-Valitse Omat tilit-ruudusta ympyrä, joka näyttää nimi kirjaimet tai henkilön kuvakkeen. Vaihda kuva näkyviin tulevassa ponnahdus ikkunassa.
+Valitse Omat tilit -ruudussa ympyrä, jossa näkyvät nimikirjaimesi tai henkilön kuvake. Vaihda valokuva näkyviin tulevassa ponnahdusikkunassa.
 
-Huomautus: Jos olet jo ladannut kuvan, haluat ehkä yrittää synkronoida kuvan uudelleen napsauttamalla SharePoint-tai OneDrive-ruutua.
+Huomautus: Jos olet jo ladannut kuvan, voit yrittää synkronoida kuvan uudelleen napsauttamalla SharePoint- tai OneDrive-ruutua.
 
-Lisä tietoja on [kohdassa tietoja profiili kuvien synkronoinnista Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a) -sivustossa
+Lisätietoja on ohjeaiheessa [Profiilikuvien synkronoinnin tiedot Microsoft 365:ssä](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

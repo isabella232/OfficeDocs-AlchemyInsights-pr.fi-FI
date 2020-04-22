@@ -1,9 +1,9 @@
 ---
-title: Etsiä ja palauttaa puuttuu tai on poistettu sähköposti, kalenteritapahtumia tai yhteystiedot
+title: Puuttuvien tai poistettujen sähköpostiviestien, kalenteritapahtumien tai yhteystietojen etsiminen ja palauttaminen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -20,19 +20,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 7dbd19cb54828343655d019d1251d9ab88113a02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c8e3d07410a2ceb3f66e60b2b3df4aad05977544
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743882"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Etsiä ja palauttaa puuttuu tai se on poistettu sähköposti, kalenteritapahtumia tai Outlook.com-yhteystiedot
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Puuttuvien tai poistettujen sähköpostiviestien, kalenteritapahtumien tai yhteystietojen etsiminen ja palauttaminen Outlook.com
 
-- Käyttää sähköposti- <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- ** [Etsi viestit tai yhteystiedot](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)sivun yläosassa etsintäpalkin.**
+- Käytä Mailissa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Etsi** sivun yläreunassa olevaa hakupalkkia, jos haluat [etsiä viestejä tai yhteystietoja](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
   
-- Kalenterissa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- [Tapahtumien etsiminen käyttämällä sanan, nimen tai lauseen](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy)sivun yläosan **Search** bar. Jos sinulla on useampi kuin yksi kalenteri Avaa haun keskitytään kalenteri, joka on parhaillaan valittuna.
+- Käytä Kalenterissa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Etsi** sivun yläreunassa olevaa hakupalkkia, jos haluat [etsiä tapahtumia sanan, nimen tai lauseen avulla.](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy) Jos avoinna on useita kalentereita, haku keskittyy valittuna olevaan kalenteriin.
   
-- Jos poistat viestin, yhteystiedon tai tapahtuman vahingossa, voit [palauttaa ne kohteet, jos ne ovat edelleen, Poistetut- tai Roskaposti sähköposti kansio](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Jos poistat vahingossa viestin, kalenteritapahtuman tai yhteystiedon, voit [palauttaa kyseiset kohteet, jos ne ovat edelleen Poistetut- tai Roskaposti-kansiossa](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

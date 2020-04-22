@@ -1,9 +1,9 @@
 ---
-title: Tilauksen uudistaminen
+title: Tilauksen uusiminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666009"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741824"
 ---
-# <a name="subscription-recurring-billing"></a>Toistuva tilaus-Laskutus
+# <a name="subscription-recurring-billing"></a>Tilauksen toistuva laskutus
 
-Jos haluat tietää, kun yhteyttä kuukausittain tai vuosittain Office 365-tilaus laskutetaan (Jos **Toistuva Laskutus** on käytössä) tai päättyy (Jos **Toistuva Laskutus** ei ole käytössä):
+Jos haluat tietää, milloin kuukausi- tai vuositilauksesi laskutetaan (jos **toistuva laskutus** on käytössä) tai vanhenee (jos **toistuva laskutus** on poistettu käytöstä):
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Tilaus, jonka haluat tietää enemmän, **Laskutus**, alla on **Renews-** tai **Expiring-** päivämäärä.
+2. Jos haluat lisätietoja tilauksesta, katso **Laskutus-kohdassa** **Uudelleenuutiset-** tai **Vanhenemispäivänä** -kohdassa.
 
-4. Jos haluat muuttaa, valitse **Muokkaa** ja **Toistuva Laskutus** asetukset-ruudussa, valitse **Poista käytöstä** , poista se käytöstä. Jos toistuva laskutus ei ole jo käytössä, valitse **kuukausittain** tai **kerran** käyttöön.
+4. Jos haluat tehdä muutoksen, valitse **Muokkaa** ja poista se käytöstä valitsemalla **Toistuvat laskutusasetukset** -ruudussa **Poista** käytöstä. Jos toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **Kuukausittain** tai **Kerran.**
 
-Jos haluat lisätietoja, katso [Oletusaloitusnäkymän toistuva Laskutus käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

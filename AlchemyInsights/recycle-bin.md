@@ -3,7 +3,7 @@ title: Roskakori
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36552976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720206"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Kohteiden palauttaminen SharePoint Onlinessa
 
-Kun poistat kohteita SharePoint Onlinessa, niitä säilytetään yhteensä 93 päivää. He jäädä sivuston roska koriin koko ajan, ellet Tyhjennä sitä tai poistaa kohteita siitä. Tässä tapa uksessa kohteet menevät sivustokokoelman roska koriin, jossa ne oleskelet loput 93 päivää. Ajan päätyttyä kohteet poistetaan pysyvästi. Poistettujen kohteiden palauttaminen sivuston roska korista:
+Kun poistat kohteita SharePoint Onlinessa, niitä säilytetään yhteensä 93 päivää. Ne pysyvät sivuston roskakorissa koko ajan, ellet tyhjennä sitä tai poista kohteita siitä. Tällöin kohteet menevät sivustokokoelman roskakoriin, jossa ne pysyvät jäljellä 93 päivän ajan. Loppujen lopuksi kohteet poistetaan pysyvästi. Poistettujen kohteiden palauttaminen sivuston roskakorista:
   
-1. Siirry sivustoon ja Valitse vasemmassa ruudussa **roska** kori. 
+1. Siirry sivustoon ja valitse vasemmasta ruudusta **Roskakori.** 
     
-    Jos vasemmanpuoleisessa ruudussa ei näy **roska** kori-kuvaketta, valitse oikeassa yläkulmassa oleva asetus kuvake ja valitse sitten **sivuston sisältö**. Roska kori on yläosassa olevan komento palkin oikeassa reunassa.
+    Jos vasemmassa ruudussa ei ole **Roskakori-kohtaa,** napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta ja valitse sitten **Sivuston sisältö**. Roskakori on ylhäällä olevan komentopalkin oikeassa reunassa.
     
-2. Valitse **roska kori** -sivulla kohteet, jotka haluat palauttaa, osoittamalla niitä ja napsauttamalla näyttöön tulevaa valinta merkki kuvaketta. 
+2. Valitse **Roskakori-sivulla** palautettavat kohteet osoittamalla niitä ja napsauttamalla näkyviin tulevaa valintamerkkiä. 
     
 3. Valitse **Palauta**.
     
-[Poistettujen kohteiden palauttaminen sivustokokoelman roska koriin](https://go.microsoft.com/fwlink/?linkid=866439)
+[Poistettujen kohteiden palauttaminen sivustokokoelman roskakorista](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

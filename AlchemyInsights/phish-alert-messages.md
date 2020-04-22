@@ -1,38 +1,38 @@
 ---
-title: 2491 ilmoitus sähköpostiviestit Phish toimitetaan vuokralaisen tai käyttäjän korvaa käytännön
+title: 2491 Ilmoita Phish Delivered -palvelun sähköpostiviestit vuokralaisen tai käyttäjän ohituskäytännön vuoksi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758921"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Ilmoitus sähköpostiviestit Phish toimitetaan vuokralaisen tai käyttäjän korvaa käytännön
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Ilmoita Phish Delivered -palvelun sähköpostiviestit vuokraajan tai käyttäjän ohituksen vuoksi -käytännöstä
 
-Oletusarvon mukainen ilmoitus käytännön nimeltä ”käyttäjän tai vuokralaisen ohituksen vuoksi Phish toimitettu” on on rullattu vuokralaiset käyttöoikeudet Office 365-ATP-P1 ja P2. Jos olet saanut ilmoituksen, tässä on vaiheita voit tutkia:
+Oletushälytyskäytäntö nimeltä "Phish Toimitettu vuokraajan tai käyttäjän ohituksen vuoksi" on otettu käyttöön vuokraajille, joilla on Office 365 ATP P1- ja P2-käyttöoikeudet. Jos sait tämän ilmoituksen, voit tutkia seuraavia ohjeita:
 
-1. Varoitussanoma klikkaa **Näytä ilmoitus** Go to Security & Compliance Centeriin **ilmoitukset** -sivulle.
+1. Siirry Suojaus-& yhteensopivuuskeskuksen **Hälytykset-sivulle** valitsemalla **ilmoitusviestin.**
 
-2. Valitse **näkymässä viestiluettelon** tai **Resurssienhallinnan Näytä viestit**näet ilmoituksen. Nämä asetukset löytyvät tiedot viestin, joka sisältää sanoman tunnus. Huomaa, että uhka Explorer-linkin suodattaa automaattisesti ilmoituksen ehdot täyttävät viestit. Uhka Explorerissa Pvm-suodatus on ehkä muutettava.
+2. Valitse ilmoitus, jos haluat nähdä vaihtoehdon **Näytä viestiluettelo** tai **Näytä viestit Resurssienhallinnassa**. Molemmat näistä vaihtoehdoista vievät viestin tiedot, jotka sisältävät viestin tunnuksen. Huomaa, että Threat Explorer -linkki suodattaa automaattisesti sanomaehtoja vastaavat viestit. Päivämääräsuodatinta on ehkä muutettava Threat Explorerissa.
 
-Tietojen kalastelu-viesti toimitettiin manuaalisesti määritetty ohituksen vuoksi:
+Tietojenkalasteluviesti toimitettiin manuaalisesti määritetyn ohituksen vuoksi:
 
-- Sallittu lähettäjän tai toimialueen käyttäjän määrittämä.
+- Käyttäjän määrittämä sallittu lähettäjä tai toimialue.
 
-- Sallittu lähettäjän tai toimialueen admin Anti-Spam-käytännön mukaan.
+- Järjestelmänvalvojan roskapostin vastaisessa käytännössä määrittämä sallittu lähettäjä tai toimialue.
 
-- Sallittu käytännössä yhteyden suodattimen IP-osoite.
+- Yhteyssuodatinkäytännön sallittu IP-osoite.
 
-- Postin kulkua sääntö (tunnetaan myös nimellä liikenteen sääntö), joka on määritetty sallimaan viestien.
+- Postin kulkusääntö (jota kutsutaan myös siirtosäännöksi), joka on määritetty sallimaan viestit.
 
-Jos viesti on merkitty virheellisesti kalastella, Outlookin avulla [raporttisanoma apuohjelma](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) lähettää viestin Microsoft näytteiden.
+Jos uskot, että viesti on virheellisesti merkitty phish-merkinnäksi, lähetä viestiesimerkit Microsoftille [Outlookin raporttiviesti -apuohjelman](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) avulla.

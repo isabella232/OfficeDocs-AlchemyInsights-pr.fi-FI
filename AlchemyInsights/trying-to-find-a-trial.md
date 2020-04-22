@@ -1,9 +1,9 @@
 ---
-title: Yritetään löytää kokeiluversio?
+title: Yritätkö löytää oikeudenkäyntiä?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732327"
 ---
-# <a name="trying-to-find-a-trial"></a>Yritetään löytää kokeiluversio?
+# <a name="trying-to-find-a-trial"></a>Yritätkö löytää oikeudenkäyntiä?
 
-Jos haluat kokeilla uutta palvelua, voit etsiä käytettävissä ylläpitosopimusten luettelo kokeiluversio Microsoft 365 admin Centerissä.
+Jos haluat kokeilla uutta palvelua, voit etsiä kokeiluversion käytettävissä olevien tilausten luettelon Microsoft 365 -hallintakeskuksesta.
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [palveluiden osto](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
+1. Siirry hallintakeskuksessa \> [Laskutusostopalvelut-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing**
 
-2. Valitse ylläpitosopimus, joka vastaa tarpeitasi ja valitse **Hanki maksuton kokeiluversio**.
+2. Valitse tarpeisiisi sopiva tilaus ja valitse sitten **Hanki ilmainen kokeiluversio**.
 
     > [!NOTE]
-    > Kaikki tilaukset ovat ladattavissa kokeiluversio. Jos et näe painiketta **saat ilmaisen kokeiluversion** päälle tilauksen hiiri, siis kokeiluversio ei ole käytettävissä.
+    > Kaikki tilaukset eivät ole käytettävissä kokeiluversiona. Jos Et näe **Hanki maksuton kokeiluversio** -painiketta, kun siirrät hiiren tilauksen päälle, kokeiluversio ei ole käytettävissä.
   
-3. Voit pyytää sinua kirjoittamaan luottokortin tai muiden maksutapa on suojaussyistä lisätarkistusta. Tämä maksuton kokeiluversio ei veloiteta. Olemme maksutiedot-tiedosto säilyy ja käytä sitä ilman lupaa mitään ostaa.
+3. Sinua saatetaan pyytää antamaan luottokortti tai muu maksutapa lisävahvistuksen antamiseksi turvatoimenpiteenä. Sinua ei veloiteta tästä maksuttomasta kokeilusta. Säilytämme maksutietosi tiedostossa, emmekä käytä sitä ostoksiin ilman hyväksyntääsi.
 
-4. Valitse **Yritä nyt**.
+4. Valitse **Kokeile nyt**.

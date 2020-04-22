@@ -1,5 +1,5 @@
 ---
-title: Onmicrosoft-toimi alueen nimeäminen uudelleen
+title: Onmicrosoft-toimialueen nimeäminen uudelleen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720170"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Onmicrosoft.com-toimi alueen nimeäminen uudelleen
+# <a name="rename-your-onmicrosoftcom-domain"></a>onmicrosoft.com-toimialueen nimeäminen uudelleen
 
- **Et voi nimetä onmicrosoft-toimialuetta uudelleen rekisteröitymisen jälkeen.** Esimerkiksi jos valitsemasi alkuperäinen toimi alue oli *fourthcoffee.onmicrosoft.com*, et voi muuttaa sitä *fabrikam.onmicrosoft.com*. Jos haluat käyttää toista onmicrosoft.com-toimialuetta, sinun on hankittava uusi Office 365 -tilaus.
+ **Et voi nimetä onmicrosoft-toimialuetta uudelleen rekisteröitymisen jälkeen.** Jos valitsemasi alkuperäinen toimialue on esimerkiksi *fourthcoffee.onmicrosoft.com*, et voi muuttaa sitä *fabrikam.onmicrosoft.com*. Jos haluat käyttää toista onmicrosoft.com toimialuetta, sinun on aloitettava uusi tilaus Microsoft 365:n kanssa.
   
-Jos haluat käyttää mukautettua verkko tunnusta, kuten *contoso.com* , voit [lisätä yhden omistamasi](https://docs.microsoft.com/office365/admin/setup/add-domain) tai ostaa sen [Microsoftilta](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+Jos haluat käyttää mukautettua toimialuetta, kuten *contoso.com* , voit [lisätä oman](https://docs.microsoft.com/office365/admin/setup/add-domain) toimialueen tai ostaa [sen Microsoftilta.](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)
   

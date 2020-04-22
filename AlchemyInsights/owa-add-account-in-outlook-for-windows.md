@@ -1,29 +1,29 @@
 ---
-title: Lisää Outlook web-tilin Outlook for Windows
+title: Outlookin lisääminen verkkotiliin Outlook for Windowsiin
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510980"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743198"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook web-tilin lisääminen Outlookiin
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlookin lisääminen Verkko-tiliin Outlookiin
 
-Nämä vaiheet ovat samat riippumatta siitä lisäätkö ensimmäinen sähköpostitili tai muita sähköpostitilejä Outlook.
+Nämä vaiheet ovat samat riippumatta siitä, lisäätkö ensimmäisen sähköpostitilisi vai lisäsähköpostitilisi Outlookiin.
 
 1. Valitse **Tiedosto** > **Lisää tili**.
-1. Voit nähdä seuraava sen mukaan Outlook-version mukaisesti:
-    - **Outlook Office 365: ssä** ja **Outlook-2016**Kirjoita sähköpostiosoitteesi ja valitse **Yhdistä**.
-    - **Outlook 2013** ja **Outlook 2010:** Anna nimi, sähköpostiosoite ja salasana ja valitse **Seuraava**.
-1. Jos näyttöön tulee kehote, kirjoita salasana uudelleen ja valitse **OK** > **Valmis** käynnistämään Outlookin sähköposti-tilin avulla.
+1. Seuraavaksi näkyvissä näkyvät kohteet määräytyvät Outlook-versiosi mukaan:
+    - Jos tietokoneeseen on tarkoitettu **Outlook for Office 365** ja **Outlook 2016,** kirjoita sähköpostiosoitteesi ja valitse **Yhdistä**.
+    - Kirjoita **Outlook 2013:lle** ja **Outlook 2010:lle**nimesi, sähköpostiosoitteesi ja salasanasi ja valitse **Seuraava**.
+1. Anna pyydettäessä salasana uudelleen ja aloita sähköpostitilin käyttö Outlookissa valitsemalla **OK** > **Valmis.**
 
-Lisätietoja [Outlookin sähköpostin tilin lisääminen](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+Lisätietoja on [ohjeaiheessa Sähköpostitilin lisääminen Outlookiin](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).

@@ -1,9 +1,9 @@
 ---
-title: Käytä minimaalista hybridi siirtää Office 365
+title: Microsoftiin siirtyminen Minimal Hybridin avulla
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: c1c28be90e04d8132756d65b657a83382bd66808
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c5ac824e138332c596399132a8845cf17a652e44
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36741686"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726173"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a>Käytä minimaalista hybridi siirtää Office 365
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Microsoft 365:hen siirtyminen Minimal Hybridin avulla
 
-Lisä tietoja minimaalista hybridi, joka tunnetaan myös nimellä Express Migration, tutustu [Käytä minimaalinen hybridi siirtää nopeasti Exchange posti laatikot Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Lisätietoja Minimal Hybridistä, joka tunnetaan myös nimellä Express-siirto, on ohjeaiheessa [Exchange-postilaatikoiden nopea siirtäminen Microsoft 365:een Minimal Hybridin avulla.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate)

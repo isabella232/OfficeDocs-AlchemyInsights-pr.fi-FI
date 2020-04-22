@@ -1,5 +1,5 @@
 ---
-title: Miten tehdä Office 365 ostaa
+title: Office 365 -ostoksen hankkiminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921847"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759113"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Miten tehdä Office 365 ostaa
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 -ostoksen hankkiminen
 
-Office 365-ostot voidaan tehdä hallinta keskuksessa.
+Microsoft 365:n ostot voidaan tehdä hallintakeskuksessa.
   
-- Jos haluat ostaa Office 365-tila uksen, siirry **laskutuksen** \> [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulle.
+- Jos haluat ostaa tilauksen, siirry \> [Laskutusostopalvelut-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing**
 
-- Jos haluat ostaa lisä lisenssejä, siirry **laskutus** \> [tuotteet-& Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle. Valitse tilaus, johon haluat lisätä käyttö oikeuksia, ja valitse sitten **Lisää tai poista käyttö oikeuksia**.
+- Jos haluat ostaa lisäkäyttöoikeuksia, siirry \> [Laskutustuotteet-& palvelut -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing** Valitse tilaus, johon haluat lisätä käyttöoikeuksia, ja valitse sitten **Lisää tai poista käyttöoikeuksia**.
   
-Lisä tietoja on artikkelissa [käyttö oikeuksien ostaminen Office 365 for Business-tilausta](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)varten.
+Lisätietoja on ohjeaiheessa [Microsoft 365 for Business -tilauksen käyttöoikeuksien ostaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Vianmääritys**
 
-Jos sivun lataamisessa ilmenee ongelmia, yritä avata Web-sivu toisessa selaimessa tai avaa sivu yksityisessä selain ikkunassa, kuten InPrivate-ikkunassa Microsoft Edgessä tai Google Chromen incognito-ikkunassa. 
+Jos sinulla on ongelmia sivun lataamisessa, yritä avata verkkosivu toisessa selaimessa tai yksityisessä selainikkunassa, kuten Microsoft Edgen InPrivate-ikkunassa tai Google Chromen incognito-ikkunassa. 
 
-**Lisä resursseja**
+**Lisäresurssit**
   
-- [Käyttöoikeuksien määrittäminen käyttäjille Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Peruuta Office 365 yrityksille](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Microsoft 365 for Businessin peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

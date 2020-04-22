@@ -1,9 +1,9 @@
 ---
-title: UPN-synkronointi on poistettu käytöstä
+title: UPN-synkronointi poistettu käytöstä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: f390d659b191fa4c44bd7c8acb32409cd3021489
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33bc7e30d41ff70e2ce55d946202acf45dbcb0f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532328"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726101"
 ---
-# <a name="upn-sync-disabled"></a>UPN-synkronointi on poistettu käytöstä
+# <a name="upn-sync-disabled"></a>UPN-synkronointi poistettu käytöstä
 
-Jos käynnistit Azure AD 30. maaliskuuta 2016 ennen synkronointi suoritetaan UPN Pehmeä vastaavat vain organisaation käyttöön seuraavat Azure AD PowerShellin cmdlet-komennolla:
+Jos aloitit synkronoinnin Azure AD:hen ennen 30.3.2016, ota UPN:n pehmeä vastaavuus käyttöön vain organisaatiossa suorittamalla seuraava Azure AD PowerShell -cmdlet-komento:
   
- **Set-MsolDirSyncFeature-ominaisuus on EnableSoftMatchOnUpn-$True käyttöön**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Ota $True**
   
-UPN-Pehmeä vastine otetaan automaattisesti käyttöön organisaatioille, jotka aloittaa synkronoinnin Azure AD aikaisintaan 30. maaliskuuta 2016.
+UPN:n pehmeä ottelu otetaan automaattisesti käyttöön organisaatioissa, jotka aloittivat synkronoinnin Azure AD:hen 30.3.2016 tai sen jälkeen.
   
-Lisätietoja Pehmeä vastine UPN ja synkronointi muiden ominaisuuksien ottaminen käyttöön lisätietoja [Azure AD muodosta synkronointi palvelun ominaisuuksia](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Lisätietoja upn-toiminnon ja muiden synkronointiominaisuuksien ottamisesta käyttöön on kohdassa [Azure AD Connect -synkronointipalvelun ominaisuudet](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 

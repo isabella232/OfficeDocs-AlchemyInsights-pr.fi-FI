@@ -1,9 +1,9 @@
 ---
-title: Palauta poistetut alisivusto
+title: Poistetun alisivuston palauttaminen
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552260"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758679"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Palauttaa poistettuja SharePoint-alisivusto
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Poistetun SharePoint-alisivuston palauttaminen
 
-Poistettujen alisivustot lähetetään sivustokokoelman roskakoriin, jossa ne olet pidetään 93 päivää. Voit palauttaa poistetut alisivustoksi seuraavasti:
+Poistetut alisivustot lähetetään sivustokokoelman roskakoriin, jossa niitä säilytetään 93 päivää. Poistetun alisivuston palauttaminen:
   
-1. Uusi SharePoint-hallintakeskukseen, josta poistettiin alisivusto sivuston ja varmista, että olet sivuston kokoelma-admin. 
+1. Etsi uudessa SharePoint-hallintakeskuksessa sivusto, josta alisivusto poistettiin, ja varmista, että olet sivustokokoelman järjestelmänvalvoja. 
     
-2. Siirry sivustoon. Valitse vasemmanpuoleisessa ruudussa **Roskakori** . (Jos et näe asetukset-kuvaketta ja valitse sitten **sivuston sisältö**roskakoriin. Roskakori on oikea komento-palkin yläpuolella.)
+2. Siirry sivustolle. Valitse vasemmasta ruudusta **Roskakori.** (Jos roskakoriei näy, napsauta Asetukset-kuvaketta ja valitse sitten **Sivuston sisältö**. Roskakori on ylhäällä olevan komentopalkin oikeassa reunassa.)
     
-3. Valitse sivun alaosasta **toisen vaiheen roskakori**.
+3. Valitse sivun alareunasta **Toisen vaiheen roskakori**.
     
-4. Alisivuston vasemmalle napsauttamalla ja valitse sitten **Palauta**.
+4. Napsauta alisivuston vasemmalla puolella ja valitse sitten **Palauta**.
     
 

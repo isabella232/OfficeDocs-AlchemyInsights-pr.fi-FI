@@ -1,9 +1,9 @@
 ---
-title: Korjaa .pst-tiedostoa ennen tuontia
+title: Korjaa .pst-tiedosto ennen tuontia
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552420"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720134"
 ---
-# <a name="repair-pst-file-before-importing"></a>Korjaa .pst-tiedostoa ennen tuontia
+# <a name="repair-pst-file-before-importing"></a>Korjaa .pst-tiedosto ennen tuontia
 
-Ennen kuin tuot Outlookin .pst-tiedoston, tarkista tiedosto ei ole vioittunut tiedosto korjaamalla:
+Ennen kuin tuot .pst-tiedoston Outlookissa, varmista, että tiedosto ei ole vioittunut korjaamalla tiedostoa:
 
 1. Sulje Outlook.
 
-2. Etsi ja suorita `Scanpst.exe` Office ohjelma-kansiossa (C:\Program Files (x86) \Microsoft Office\root\Office\<versio\> tai C:\Program Files\Microsoft Office\root\Office\<versio\>).
+2. Etsi ja `Scanpst.exe` suorita Office-ohjelmakansiosta (C:\Program Files (x86)\Microsoft\<Office\root\Office Version\> tai C:\Program Files\Microsoft Office\root\Office\<Version\>).
 
-3. **Microsoft Outlookin Saapuneet-kansion korjaustyökalu**, valitse **Selaa** ja Etsi .pst-tiedosto (esimerkiksi C:\Users-\\<username\>\AppData\Local\Microsoft\Outlook). Valitse .pst-tiedosto ja valitse sitten **Avaa**.
+3. Etsi .pst-tiedosto valitsemalla **Microsoft Outlookin Saapuneet-kansion korjaustyökalussa** **Selaa** (esimerkiksi kohdassa C:\Käyttäjät\\<käyttäjänimeä\>\AppData\Local\Microsoft\Outlook). Valitse .pst-tiedosto ja valitse sitten **Avaa**.
 
-4. Valitse Aloita skannaus **alkaa** .
+4. Aloita skannaus valitsemalla **Käynnistä.**
 
-5. Jos virheitä löydy tiedostoa, valitse **Korjaa**ja valitse sitten **OK** , kun korjaus on valmis.
+5. Jos tiedostosta löytyy virheitä, valitse **Korjaa**ja valitse sitten **OK,** kun korjaus on valmis.
 
-6. Yritä tuoda Outlookin .pst-tiedoston uudelleen.
+6. Yritä tuoda .pst-tiedosto Outlookissa uudelleen.
 
-Lisätietoja [Korjaa Outlook-datatiedostoja](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) ja [korjaa ongelmat tuodaan Outlookin .pst-tiedosto](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Lisätietoja on ohjeessa [Outlookin datatiedostojen korjaaminen](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) ja [Outlookin .pst-tiedoston tuontiongelmien korjaaminen](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

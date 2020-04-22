@@ -1,5 +1,5 @@
 ---
-title: 'Lykkää ryhmien päivitystä '
+title: 'Lykkää joukkueiden päivitystä '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626741"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758859"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft-pohjaisten tiimien päivityksen lykkääminen
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft-pohjaisen Teams-päivityksen lykkääminen
 
-Jos sait yhteyden Microsoft-pohjaisesta automatisoidusta päivityksestä Skype for Businessista Microsoft Teamsiin ja haluat lykätä automaattista päivitystä myöhemmäksi, Office 365 Global admin voi kirja utua [teams-hallinta portaaliin](https://admin.teams.microsoft.com/dashboard) ja valita **lykkäyksen** . Jos haluat nähdä vuokra ajan automaattisen päivityksen Microsoft Teamsiin uuden päivä määrän, Päivitä teams-hallinta portaali-sivu.
+Jos sait yhteyden Microsoftin automaattiseen päivitykseen Skype for Businessista Microsoft Teamsiin ja haluat siirtää automaattisen päivityksen myöhempään ajankohtaan, yleinen järjestelmänvalvoja voi kirjautua [Teams Admin -portaaliin](https://admin.teams.microsoft.com/dashboard) ja valita **Lykkää-painikkeen.** Jos haluat nähdä vuokraajan automaattisen Microsoft Teams -päivityksen uuden päivämäärän, päivitä Teams Admin -portaalisivu.
 
-**Huom:** **Lykkää** -painike on käytettävissä vain, jos olet vastaanottanut automaattista päivitystä koskevan Message Center-ilmoituksen. 
+**Huomautus:** **Lykkää-painike** on käytettävissä vain, jos olet saanut viestikeskuksen ilmoituksen automaattisesta päivityksestä. 
 
-Office 365 Global ylläpitäjät voivat myös käyttää [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) -tietoja saadaksesi lisä tietoa niiden nykyisestä päivitys tilasta. 
+Yleiset järjestelmänvalvojat voivat myös suorittaa [Get-CsTeamsUpgradeStatus-tilan](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) saadakseen lisätietoja niiden nykyisestä päivityksen tilasta. 

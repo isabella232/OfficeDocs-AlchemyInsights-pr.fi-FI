@@ -1,8 +1,8 @@
 ---
-title: SharePoint Online-termi säilöstä puuttuvat termit
+title: SharePoint Online Term Storesta puuttuvat termit
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: a7d455a9efe675f4a56f920b220db32949c019a7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 773e68c7a9c9f89c94b280a05428be92cd8217a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736823"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online-termi säilöstä puuttuvat termit
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online Term Storesta puuttuvat termit
 
-SharePoint Online-termi säilön ehdot, joita odotat, eivät näy tai ne näkyvät ajoittain.
+Ne SharePoint Online -termisäilön ehdot, joita odotat näkevän, eivät näy tai näkyvät ajoittain.
   
-Jos tämän ongelman ensimmäisen näkemis kerran jälkeen on kulunut yli 24 tuntia, kirjaa tuki tapaus. Ymmärrämme, että 24 tuntia voi tuntua pitkän aikaa. Monissa tapa uksissa olemme jo tekemässä ratkaisua, joten antakaa meille vähintään 24 tuntia.
+Jos tämän ongelman ensimmäisestä näkemästäsi on kulunut yli 24 tuntia, kirjaudu tukitapaukseen. Ymmärrämme, että 24 tuntia voi tuntua pitkältä ajalta. Monissa tapauksissa olemme jo työstää ratkaisua niin antakaa meille vähintään 24 tuntia.
   

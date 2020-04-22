@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-yhteystietojen synkronointi
+title: Yhteystietojen synkronointi Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722265"
 ---
 # <a name="sync-contacts"></a>Yhteystietojen synkronointi
 
-Outlook synkronoi yhteystiedot, muut laitteet ja sovellukset, kuten Outlook for Android ja iOS Outlookin kautta [ihmisten](https://outlook.live.com/people/) Luo. Katso, miten voit [luoda kontakteja](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Outlook synkronoi [Ihmiset-sovelluksessa](https://outlook.live.com/people/) luomasi yhteystiedot muissa laitteissa ja sovelluksissa, kuten Outlook for Androidissa ja Outlook for iOS:ssä. Lisätietoja [yhteystietojen luomisesta](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-Tuotujen yhteystietojen (esimerkiksi toinen sähköpostitili, olet muodostanut yhteyden Outlook.com-tilin yhteystiedot) eivät ole synkronoidut. Lisätietoja [yhteyshenkilöiden](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1)tuomisesta.
+Tuotuja yhteystietoja (esimerkiksi toisen sähköpostitilin yhteystietoja, jotka olet yhdistänyt Outlook.com-tiliisi), ei synkronoida. Lisätietoja [yhteystietojen tuomisesta](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).

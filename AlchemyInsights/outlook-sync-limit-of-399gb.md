@@ -1,9 +1,9 @@
 ---
-title: Outlook synkronoi 3.99 gt raja
+title: Outlookin synkronointirajoitus 3,99 Gt
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 8a31e9bfd325b395f142d0b34c927bdd97370a0d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7258056215713b5e6840f9d732f6b386db74574e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743234"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Synkronointi Outlookin tilarivillä jää 3.99 gt
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlookin synkronoinnin tilarivi on 3,99 Gt
 
-Yritä kansiosisällön koon pienentäminen tai suuria kansioita synkronointisuodattimen luominen tai lähes 4 GB.
+Pienennä kansion sisällön kokoa tai luo synkronointisuodatin suurille kansioille 4 Gigatavuun tai sen lähelle.
 
-Katso tilaa bar edistyminen näkyy koskaan yli 3.99 GB jäljellä oleva alkuperäinen [Lisätietoja suurten kansioiden synkronointiin](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Lisätietoja on kohdassa Tilarivin edistyminen ei koskaan näy enempää kuin 3,99 Gigatavua jäljellä [suurten kansioiden alustavassa synkronoinnissa](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).

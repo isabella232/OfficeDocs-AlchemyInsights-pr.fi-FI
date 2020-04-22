@@ -1,9 +1,9 @@
 ---
-title: How-to-tuonti-nk2-tiedostot
+title: how-to-import-nk2-files miten-to-import-nk2-tiedostot
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759329"
 ---
-# <a name="how-to-import-nk2-files"></a>Miten .nk2-tiedostot tuodaan 
+# <a name="how-to-import-nk2-files"></a>.nk2-tiedostojen tuominen 
 
-Kun käynnistät ensimmäisen kerran Microsoft Outlook 2013, Outlook-2016, Outlook 2019 tai Outlook Office 365: ssä, että lempinimivälimuistin ( *profiilinimi*.nk2-tiedosto tallennetaan) on tuotu piilotettu viesti-viestisäilön oletusarvon.
+Kun käynnistät Microsoft Outlook 2013:n, Outlook 2016:n, Outlook 2019:n tai Outlook for Microsoft 365:n ensimmäistä kertaa, lempinimivälimuisti (joka on tallennettu *profiilinimeen*.nk2-tiedostoon) tuodaan piilotettuun viestiin oletusviestisäilössä.
 
-Tuo Outlook 2013 tai Outlook 2016, Outlook-2019 Outlook Office 365-.nk2-tiedostot, varmista, että .nk2-tiedosto sijaitsee seuraavassa kansiossa: %appdata%\Microsoft\Outlook
+Jos haluat tuoda .nk2-tiedostoja Outlook 2013:iin, Outlook 2016:iin, Outlook 2019:n tai Outlook for Microsoft 365:n versioon, varmista, että .nk2-tiedosto on seuraavassa kansiossa: %appdata%\Microsoft\Outlook
 
-**Huomautus**: .nk2-tiedoston on oltava sama nimi kuin nykyisen Outlook-2013 tai Outlook 2016-profiilin. Oletusarvon mukaan Profiilinimi on ”Outlook”. Tarkista profiilinimi, toimi seuraavasti: 
-1. Napsauta **Käynnistä-painiketta**ja valitse **Ohjauspaneeli**.
-2. Kaksoisnapsauta **Posti**-kuvaketta.
-3. Valitse sähköpostiasetukset-valintaikkunassa **Näytä profiilit**.
-4. Valitse **Aloita** > **suorittaa**.
-5. Kirjoita **Avaa** -ruutuun *outlook.exe-/importnk2*ja valitse sitten **OK**. 
+**Huomautus**: .nk2-tiedostolla on oltava sama nimi kuin nykyisellä Outlook 2013- tai Outlook 2016 -profiilillasi. Profiilin nimi on oletusarvoisesti Outlook. Voit tarkistaa profiilin nimen seuraavasti: 
+1. Napsauta **Käynnistä -painiketta**ja valitse sitten **Ohjauspaneeli**.
+2. Kaksoisnapsauta Mail .double-click **Mail**.
+3. Valitse Sähköpostin asetukset -valintaikkunassa **Näytä profiilit**.
+4. Valitse **Aloita** > **suoritus**.
+5. Kirjoita **Avaa-ruutuun** *outlook.exe /importnk2*ja valitse sitten **OK**. 
 
-Kun olet tuonut .nk2-tiedoston, tiedoston sisältö yhdistetään aiemmin tallennetun postilaatikon lempinimivälimuisti.
+Kun olet tuonut .nk2-tiedoston, tiedoston sisältö yhdistetään postilaatikkoon tallennettuun lempinimivälimuistiin.
 
-**Huomautus**: .nk2-tiedosto nimetään uudelleen käyttäen .old-tiedostotunnistetta kun seuraavan kerran käynnistät Outlook 2013 tai Outlook 2016, Outlook-2019 Outlook Office 365. Jos haluat tuoda .nk2-tiedoston uudelleen, poista ensin .old-tiedostotunnistetta.
+**Huomautus**: .nk2-tiedosto nimetään uudelleen .old-tiedostotunnisteella, kun seuraavan kerran käynnistät Outlook 2013:n, Outlook 2016:n, Outlook 2019:n tai Outlook for Microsoft 365:n. Jos haluat tuoda .nk2-tiedoston uudelleen, poista .old-tiedostotunniste ensin.
 
-Lisätietoja [tuonti- tai kopioida automaattisen täydennyksen luettelon toiseen tietokoneeseen](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Lisätietoja on [ohjeaiheessa Automaattisen täydennyksen luettelon tuominen tai kopioiminen toiseen tietokoneeseen](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

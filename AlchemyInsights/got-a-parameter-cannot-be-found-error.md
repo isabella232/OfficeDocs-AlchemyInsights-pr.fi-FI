@@ -1,8 +1,8 @@
 ---
-title: Onko parametria ei löydy-virhe?
+title: Onko parametria löydy -virhe?
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8f07a2dc92315e5466ea126243adf46cff192934
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739850"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722229"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Sähkö postin siirtäminen IMAP-Sähkö posti järjestelmästä Office 365-järjestelmään
+# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Sähköpostin siirtäminen IMAP-sähköpostijärjestelmästä Microsoft 365:hen
 
-Jos haluat siirtää sähkö postia IMAP-Sähkö posti järjestelmästä, noudata tätä prosessia: [IMAP-siirto Microsoft 365-hallinta keskuksessa](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+Jos haluat siirtää sähköpostia IMAP-sähköpostijärjestelmästä, noudata tätä prosessia: [IMAP-siirto Microsoft 365 -hallintakeskuksessa](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Monien suurten organisaatioiden on suunniteltava huolellisesti käyttäjien odotusten hallintaa. [Mitä sinun tarvitsee tietää, kun IMAP-posti laatikoiden siirtäminen Office 365-artikkeliin](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) auttaa hallitsemaan muutosta.
+Monet suuret organisaatiot on suunniteltava huolellisesti hallita käyttäjien odotuksia. [IMAP-postilaatikoiden Microsoft 365 -artikkeliin siirtämisen](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) tiedot auttavat muutosten hallinnassa.
 
-Tarkista myös [Hyväksy Office 365 ja FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) -sivu, jos haluat avustettua apua muutto liikkeen kanssa, jos se on oikeutettu.
+Tarkista myös [Hyväksy Microsoft 365 fasttrack-sivulta](https://www.microsoft.com/fasttrack/microsoft-365/office-365) avustaa muuttoliike, jos oikeutettu.
   
 
-Tarkista myös [Hyväksy Office 365 ja FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) -sivu, jos haluat avustettua apua muutto liikkeen kanssa, jos se on oikeutettu.
+Tarkista myös [Hyväksy Microsoft 365 fasttrack-sivulta](https://www.microsoft.com/fasttrack/microsoft-365/office-365) avustaa muuttoliike, jos oikeutettu.
   

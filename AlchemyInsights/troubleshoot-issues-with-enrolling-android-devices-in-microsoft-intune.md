@@ -1,9 +1,9 @@
 ---
-title: Rekisteröiminen Microsoft Intune Android-laitteiden ongelmien vianmääritys
+title: Android-laitteiden rekisteröiminen Microsoft Intunen ongelmien vianmääritys
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500068"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759617"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Rekisteröiminen Microsoft Intune Android-laitteiden ongelmien vianmääritys
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Android-laitteiden rekisteröiminen Microsoft Intunen ongelmien vianmääritys
 
-Tarkista ongelman nyt alla luetellut resurssit.
+Ratkaise ongelma nyt alla olevien resurssien avulla.
   
-Joitakin yleisiä ongelmia ja tarkkuutta vaiheet:
+Joitakin yleisiä kysymyksiä ja ratkaisuvaiheita:
   
- **Laite ole salattu virhe yrityksen portaali:** Android, alkaen v7.0, erityisesti uudemmat versiot vaativat käynnistyksen PIN-koodi, varmista, että laite on täysin salattu. Yhteisiä ratkaisuja, jotka käyttöön käynnistyksen PIN-tunnuksen tai laitteen täysin salaa. Lisätietoja [tämän asiakirjan](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) tarkasteleminen.
+ **Laite, joka ei ole salattu -virhe yritysportaalissa:** Androidin uudemmat versiot, erityisesti versiosta 7.0 alkaen, edellyttävät käynnistyskoodia varmistaaksesi, että laitteesi on täysin salattu. Yleisiä ratkaisuja ovat käynnistysnastan käyttöönotto tai laitteen salaaminen kokonaan. Lisätietoja on [tässä asiakirjassa.](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android)
   
- **Laitteet eivät Intune palvelu tulee tarkistaa tai näyttää Intune hallintakonsolissa ”Unhealthy”:** Jotkut Samsung 4.4 ja 5.5 laitteet ei välttämättä tarkista palveluun. 3 mahdollisia ratkaisuja tähän ongelmaan on:
+ **Laitteet eivät voi kirjautua sisään Intune-palvelulla tai näyttää intune-hallintakonsolissa epäterveellisinä:** Jotkin Samsung 4.4- ja Samsung 5.5 -laitteet eivät välttämättä kirjaudu palveluun. Tähän ongelmaan on kolme mahdollista ratkaisua:
   
-1. Avaa app Intune yrityksen portaali, jossa laitteen synkronointi automaattisesti aloittaa manuaalisesti.
+1. Avaa Intune Company Portal -sovellus manuaalisesti, joka käynnistää automaattisesti laitteen synkronoinnin.
 
-2. Päivitä laitteen Android 6.0 tai uudempi versio.
+2. Päivitä laite Android 6.0:aan tai uudempaan.
 
-3. Samsung Smart hallinnan käytöstä hallitsemasta Intune yrityksen portaaliin. Lue [Tämä asiakirja](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) on lisätietoja näistä ongelmista ja ratkaisuja.
+3. Poista Samsung Smart Manager käytöstä hallitsemasta Intune-yritysportaalia. Tässä [asiakirjassa](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) on lisätietoja näistä kysymyksistä ja päätöslauselmista.
 
- **Käyttäjän käyttöoikeuden tyyppi ei kelpaa** tai **Virhe käyttäjän nimeä ei tunnistettu:** käyttäjä on varattava Intune tai EMS-käyttöoikeus. Tarkasteltava näitä asiakirjoja käyttöoikeuden kautta: Office Admin Centerissä tai Azure portal.
+ **Käyttäjäkäyttöoikeustyyppi Virheellinen** tai **Käyttäjänimi ei tunnisteta -virhe:** Käyttäjälle on määritettävä Intune- tai EMS-käyttöoikeus. Tarkista nämä asiakirjat ja määritä käyttöoikeus Office-hallintakeskuksen tai Azure-portaalin kautta.
   
-Lisätietoja ja resursseja auttaa ratkaisemaan ongelmaasi:
+Lisäresursseja ongelman ratkaisemiseen:
   
-1. [Intune vianmääritys-portaalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista yhteisen rekisteröinti virheitä. Lisätietoja [tämän asiakirjan](https://docs.microsoft.com/intune/help-desk-operators) tarkasteleminen.
+1. [Intune Troubleshooting Portalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä. Lisätietoja on [tässä asiakirjassa.](https://docs.microsoft.com/intune/help-desk-operators)
 
-2. Yleisiä virheitä, jotka estävät rekisteröinti ja ratkaisuja jokaiseen luettelo [tämän asiakirjan](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) tarkasteleminen.
+2. Tässä [asiakirjassa](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) on luettelo yleisistä virheistä, jotka estävät rekisteröitymisen ja ratkaisut kuhunkin.
 
-3. [Rekisteröi Microsoft Intune Android-laitteiden tietoja](https://docs.microsoft.com/intune/android-enroll).
+3. [Lue, miten voit rekisteröidä Android-laitteet Microsoft Intuneen](https://docs.microsoft.com/intune/android-enroll).

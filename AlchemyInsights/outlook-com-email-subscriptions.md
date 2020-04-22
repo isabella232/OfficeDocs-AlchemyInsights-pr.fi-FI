@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Sähkö posti tilaukset
+title: Outlook.com sähköpostitilaukset
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: 9b1a3f14e6301f06daebdc4036063269055610f8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645685"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723663"
 ---
-# <a name="email-subscriptions"></a>Sähkö posti tilaukset
+# <a name="email-subscriptions"></a>Sähköpostitilaukset
 
-Miksi näen Sähkö posti viestejä tila ukseni luetteloissa?
+Miksi näen sähköpostiviestejä tilausluetteloissani?
 
-Outlook.com on havainnut, että sähkö posti viesti sisältää tilaus tietoja, kuten "Lopeta tilaus" viestissä. Outlook.com ei ole tilannut sinua automaattisesti uutis kirjeisiin.
+Outlook.com on havainnut, että sähköpostiviesti sisältää tilaustietoja, kuten "Peruuta tilaus" viestissä. Outlook.com ei ole automaattisesti tilannut sinulle uutiskirjeitä.
 
-Jos haluat lopettaa uutis kirjeiden tai kampanjoiden vastaanottamisen, voit peruuttaa tila uksen kahdella tavalla käyttämällä Outlook.com:
-1. Valitse Saapuneet-kansiossa uutis kirje tai kampanja Sähkö posti. Valitse luku ruudun yläreunassa **Peruuta tilaus**.
-2. Avaa [Outlook.com tila ukset](https://go.microsoft.com/fwlink/?linkid=2110887) -asetukset ja valitse **Peruuta tilaus**.
+Jos haluat lopettaa uutiskirjeiden tai kampanjoiden vastaanottamisen, voit peruuttaa tilauksen kahdella tavalla Outlook.com:
+1. Valitse Saapuneet-kansiosta uutiskirje tai mainossähköposti. Valitse lukuruudun yläreunasta **Peruuta tilaus**.
+2. Avaa [Outlook.com Tilaukset-asetukset](https://go.microsoft.com/fwlink/?linkid=2110887) ja valitse **Peruuta tilaus**.
 
-Huomautuksia: näet tämän ominaisuuden vain, jos olet saanut sähköpostitse tilattuja sähkö posteja lähettävän yrityksen.
-Jos kyselysi on tietoja Office 365 Paid-tila uksista,[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) Siirry osoitteeseen tai [Lue lisää Office 365: sta](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Huomautuksia: Näet tämän ominaisuuden vain, jos olet saanut sähköpostiviestin yritykseltä, joka lähettää tilattuja sähköposteja.
+Jos kyselykoskee Microsoft 365:n maksullisia[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) tilauksia, siirry microsoft [365:een tai Lue lisätietoja Microsoft 365:stä](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   
