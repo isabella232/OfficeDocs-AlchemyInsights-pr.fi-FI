@@ -1,5 +1,5 @@
 ---
-title: 714 ulkoisten lähettäjien salliminen sähkö postin jakelu luetteloihin
+title: 714 Ulkoisten lähettäjien salliminen sähköpostin jakeluluetteloihin
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708208"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Salli ulkoisten lähettäjien lähettää viestejä jakelu ryhmiin
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Salli ulkoisten lähettäjien lähettää viestejä jakeluryhmiin
 
-Jos organisaatiosi ulkopuoliset käyttäjät saavat virhe sanomia lähettäessään viestejä jakelu ryhmille tai jos haluat varmistaa, että jakelu ryhmät on määritetty vastaanottamaan postia ulkoisilta lähettäjäryhmiltä, toimi seuraavasti:
+Jos organisaation ulkopuoliset käyttäjät saavat virheitä lähettäessään viestejä jakeluryhmille tai haluat varmistaa, että jakeluryhmät on määritetty vastaanottamaan sähköpostia ulkoisilta lähettäjiltä, toimi seuraavasti:
 
-1. Siirry Office 365-hallinta keskukseen **ryhmät** > -[ryhmät](https://portal.office.com/adminportal/home#/groups) -sivulle.  
+1. Siirry Microsoft 365 -hallintakeskuksessa **Ryhmät** > [ryhmät -sivulle.](https://portal.office.com/adminportal/home#/groups)  
 
-2. Valitse jakelu ryhmä ja valitse sitten ryhmän ominaisuudet-ruudusta **Asetukset** -väli lehti.
+2. Valitse jakeluryhmä ja valitse ryhmän ominaisuudet -ruudussa **Asetukset-välilehti.**
 
-3. Valitse **Salli ulkoisten lähettäjien tehdä sähkö postia tälle ryhmälle**ja valitse sitten **Tallenna**.
+3. Valitse **Salli ulkoisten lähettäjien lähettää tämä ryhmä sähköpostitse**ja valitse sitten **Tallenna**.

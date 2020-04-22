@@ -3,7 +3,7 @@ title: Officen lataaminen ja asentaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4b9416019fb4170f37e2a9a0cf4ba04e06f4ee6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36529484"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704000"
 ---
 # <a name="download-and-install-office"></a>Officen lataaminen ja asentaminen
 
-**Business Essentials** -tilaus ei sisällä Office-sovelluksia. Jotta voit saada Officen, sinun tulee päivittää **Business** -tai **Business Premium** -tila ukseen. Tutustu käytettävissä oleviin tila uksiin Officeen täällä: [office 365-liiketoiminta suunnitelmat](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+**Business Essentials -tilauksesi** ei sisällä Office-sovelluksia. Jotta voit hankkia Officen, sinun on päivitettävä **Business-** tai **Business Premium** -tilaukseen. Tutustu officen käytettävissä oleviin tilauksiin täältä: [Microsoft 365 for Business](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

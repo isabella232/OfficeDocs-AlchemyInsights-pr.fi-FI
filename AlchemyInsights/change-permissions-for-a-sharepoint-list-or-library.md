@@ -1,9 +1,9 @@
 ---
-title: SharePoint-luettelon tai-kirjaston käyttö oikeuksien muuttaminen
+title: SharePoint-luettelon tai -kirjaston käyttöoikeuksien muuttaminen
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a42d23edd663523f8da1392eaf57290ee1fc900b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519080"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706637"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint-luettelon tai-kirjaston käyttö oikeuksien muuttaminen
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint-luettelon tai -kirjaston käyttöoikeuksien muuttaminen
 
-1. Siirry SharePoint-sivustoon Web-selaimessa ja avaa luettelo tai kirjasto.
+1. Siirry SharePoint-sivustoon selaimessa ja avaa luettelo tai kirjasto.
     
-2. Napsauta oikeassa yläkulmassa olevaa asetus kuvaketta ja valitse sitten **Kirjasto asetukset** tai **luettelo asetukset**. (Jos komentoa ei näy, avaa valinta nauha valitsemalla **Kirjasto** tai **luettelo** -väli lehti ja valitse sitten valinta nauhassa **Kirjasto asetukset** tai **luettelo asetukset** .) 
+2. Napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta ja valitse sitten **Kirjaston asetukset** tai **Luetteloasetukset**. (Jos et näe komentoa, avaa valintanauha valitsemalla **Kirjasto-** tai **Luettelo-välilehti** ja valitse sitten valintanauhasta **Kirjaston asetukset** tai **Luetteloasetukset.)** 
     
-3. Valitse **käyttö oikeudet ja hallinta**-kohdasta tämän **asiakirja kirjaston luettelon tai käyttö oikeuksien** **oikeudet** .
+3. Valitse **Käyttöoikeudet ja hallinta -kohdassa**Tämän luettelon **käyttöoikeudet** tai **tämän tiedostokirjaston käyttöoikeudet**.
     
-Huomaa, että oletusarvoisesti SharePoint-luettelot ja kirjastot perivät käyttö oikeudet sivustosta. Jos rikat käyttö oikeuksien periytymistä, nykyiset käyttö oikeudet kopioidaan luetteloon tai kirjastoon ja kaikki sen sisällä. Jos sivuston käyttö oikeuksia muutetaan myöhemmin, muutoksia ei käytetä luettelossa tai kirjastossa eikä siinä olevissa kohteissa.
+Huomaa, että Oletusarvon mukaan SharePoint-luettelot ja -kirjastot perivät käyttöoikeudet sivustosta. Jos rikot käyttöoikeuksien periytymistä, nykyiset käyttöoikeudet kopioidaan luetteloon tai kirjastoon ja kaikkeen sen sisällä olevaan. Jos sivuston käyttöoikeuksia muutetaan myöhemmin, muutoksia ei oteta käyttöön luettelossa tai kirjastossa ja sen kohteissa.
   
 

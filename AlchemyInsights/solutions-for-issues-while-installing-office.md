@@ -1,8 +1,8 @@
 ---
-title: Ongelmia asennettaessa Office Solutions
+title: Ratkaisuja Officen asennuksen aikana ongelmiin
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709080"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Ongelmia asennettaessa Office Solutions
+# <a name="solutions-for-issues-while-installing-office"></a>Ratkaisuja Officen asennuksen aikana ongelmiin
 
-Kokeile näitä ratkaisuja korjaa Office-virhe:
+Kokeile jotakin näistä ratkaisuista Office-virheen korjaamiseksi:
   
 - Käynnistä tietokone uudelleen ja yritä [asentaa Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.
+1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus -kohdasta** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
-2. Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.
+2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.
+    Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistamisen viimeistelemiseksi.
 
-3. Noudata jäljellä kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulkea avustajan.
+3. Noudata jäljellä olevia kehotteita ja [asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.
 
-- [Käytä Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) asentaa Office
+- [Officen asentaminen Officen offline-asennusohjelman avulla](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-Saat lisätietoja asennusvirheet [virhesanomat Officen asennuksen yhteydessä](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Lisätietoja asennusvirheistä on ohjeaiheessa [Virhesanomat Officea asennettaessa](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   

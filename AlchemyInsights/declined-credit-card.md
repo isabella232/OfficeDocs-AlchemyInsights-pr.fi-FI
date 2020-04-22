@@ -3,7 +3,7 @@ title: Hylätty luottokortti
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665183"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705082"
 ---
 # <a name="declined-credit-card"></a>Hylätty luottokortti
 
-Jos maksat tilauksen luottokortilla ja luottokorttisi on hylätty, saat sähköpostitse ilmoituksen siitä, että emme voi käsitellä maksua. Tarkista huolellisesti, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, vanhentumispäivä, nimen, luottokortin ja osoite, kaupunki, osavaltio ja postinumero - näkyvät sellaisina, kuin ne tehdä luottokortin ja luottokortti-tiliotteen. Voit päivittää luottokorttitietoja ja toimittaa välittömästi maksun [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla **Tilitettävä saldo** -asetuksen avulla. 
+Jos maksat tilauksen luottokortilla ja luottokorttisi on hylätty, saat sähköpostitse ilmoituksen siitä, että emme voi käsitellä maksua. Tarkista, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, viimeinen voimassaolopäivä, luottokortin nimi ja osoite, mukaan lukien kaupunki, osavaltio ja postinumero - näkyvät täsmälleen samalla tavalla kuin luottokortissa ja luottokortin tiliotteessa. Voit päivittää luottokorttitietosi ja lähettää maksun välittömästi käyttämällä [Tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivun **Täsmäytä saldo** -vaihtoehtoa. 
 
-Jos haluat lisätietoja, katso ”mitä jos luottokortin on vanhentunut ja oma maksu on myöhässä”? - [että Office 365: ssä business tilauksen maksamiseen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Lisätietoja on ohjeaiheessa Entä jos luottokorttini on vanhentunut ja maksuni on erääntynyt?" kohdassa [Microsoft 365 for Business -tilauksen maksaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Jos saat edelleen hylkäysviestin, ota yhteyttä pankkiisi. On mahdollista, ettei luottokorttia ole aktivoitu. Jos esimerkiksi sait uuden luottokortin hiljattain, sinun täytyy ehkä vielä aktivoida se erikseen. Pankista saat tietoa myös siitä, voidaanko luottokorttia käyttää verkko-ostoksiin, kansainvälisiin ostoksiin tai toistuviin tapahtumiin.  
   
-Lisätietoja on [Vianetsintä luottokorttien ja pankkitilien](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Lisätietoja on kohdassa [Luottokorttien ja pankkitilien vianmääritys](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

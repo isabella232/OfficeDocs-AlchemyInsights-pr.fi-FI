@@ -3,7 +3,7 @@ title: Verify your domain
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531356"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710440"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **Tietueen luultavasti ei ole vielä päivitetty Internetin välityksellä.**
+ **Tietuetta ei todennäköisesti ole päivitetty Internetissä.**
   
 Yleensä tietueen näkemiseen menee vain muutama minuutti, mutta välillä siihen saattaa kulua jopa pari tuntia. 
   
-- Tarkista, että olet odotti jo pitkään, jos olet kopioida ja liittää tarkka arvo TXT tarkastus-tietue DNS-isäntään. Eräs yleinen virhe on unohtaa tietueen MS= -osa. Sitäkin tarvitaan!
+- Jos olet odottanut niin kauan jo, tarkista, että olet kopioinut ja liittänyt tarkan arvon TXT-vahvistustietueeseen DNS-isännässäsi. Eräs yleinen virhe on unohtaa tietueen MS= -osa. Sitäkin tarvitaan!
 
-- Joissain DNS-palvelimissa vyöhyketiedoston (johon DNS-tietue on tallennettu) tallentamiseen tarvitaan yksi ylimääräinen vaihe, jotta se päivittyy kaikkialle Internetiin. Varmista, että olet tallentanut muutokset niin, että Office 365 näkee ja pystyy tarkistamaan tietueen.
+- Joissain DNS-palvelimissa vyöhyketiedoston (johon DNS-tietue on tallennettu) tallentamiseen tarvitaan yksi ylimääräinen vaihe, jotta se päivittyy kaikkialle Internetiin. Varmista, että olet tallentanut muutokset, jotta Microsoft voi tarkastella ja vahvistaa tietueen.

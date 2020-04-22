@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook Crash vian etsintä vaiheet
+title: Alkemia - Outlookin kaatumisen vianmääritysvaiheet
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737113"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708352"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlookin kaatumisen vian määrityksen vaiheet
+# <a name="outlook-crash-troubleshooting-steps"></a>Outlookin kaatumisen vianmääritysohjeet
 
-Jos sinulla on Outlook-työpöydän kaatumis ongelmia, aloita noudattamalla alla olevia kolmea vaihetta, jotka on lueteltu yksityiskohtaisesti tässä artikkelissa: miten tehdään sellaisten [ongelmien vian määritys, jotka aiheuttavat Outlookin kaatumisen tai lakkaamasta reagoimasta Office 365-käyttö järjestelmän kanssa.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Jos sinulla on Outlookin työpöydän kaatumisongelmia, aloita noudattamalla alla olevia kolmea vaihetta, jotka on lueteltu yksityiskohtaisesti tässä artikkelissa: [Outlookin kaatumisen tai vastaamisen lopettamiseen liittyvien ongelmien vianmääritys.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Vaihe 1: Selvitä mahdolliset apuohjelmien ongelmat.
+Vaihe 1: Selvitä mahdolliset apuohjelmat.
   
-Vaihe 2: Korjaa Outlook ja suorita [tuki ja palautus avustaja työkalu](https://aka.ms/SaRA-OutlookWontStart) Outlookin käynnistys virheiden vian määritykseen haavoittuvuuden sisälyllä koneella.
+Vaihe 2: Korjaa Outlook ja suorita [Tuki ja palautusavustaja -työkalu](https://aka.ms/SaRA-OutlookWontStart) Outlookin käynnistysvirheiden vianmääritykseen haavoittuvuuden sisältävässä tietokoneessa.
   
-Vaihe 3: Luo uusi Outlook-profiili tai Suorita Outlook- [profiili työkalu](https://aka.ms/SaRA-OutlookSetupProfile) haavoittuvuuden sisältyneeen koneeseen.
+Vaihe 3: Luo uusi Outlook-profiili tai suorita [Outlook-profiilityökalu](https://aka.ms/SaRA-OutlookSetupProfile) haavoittuvuuden sisältävässä tietokoneessa.
   
-Jos ongelma ilmeni päivityksen jälkeen ja yllä olevat vaiheet eivät toimi, sinun on ehkä palattava aiempaan koonti versioon. Katso, [miten voit palata Officen aiempaan versioon 2016 napsauttamalla suoritettavaksi](https://support.microsoft.com/help/2770432).
+Jos ongelma ilmaantui päivityksen jälkeen eikä edellä olevista vaiheista ole apua, sinun on ehkä palattava edelliseen koontiversioon. [Lisätietoja on ohjeaiheessa Office 2016:n pika-ajo-pikaversion palauttaminen](https://support.microsoft.com/help/2770432).
   

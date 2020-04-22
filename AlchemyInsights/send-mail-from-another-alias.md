@@ -1,9 +1,9 @@
 ---
-title: Sähköpostin lähettäminen toiseen tunnukseen
+title: Sähköpostin lähettäminen toisesta aliaksesta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709188"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Lähetä sähköposti alias tai toissijainen osoite
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Sähköpostin lähettäminen aliaksesta tai toissijaisesta osoitteesta
 
-Office 365 tue alias tai sähköpostiosoite, toissijainen sähköposti lähettää tällä hetkellä. Sähköpostin aliakset voidaan vastaanottaa vain sähköpostit. Jos haluat lähettää sähköpostin toisen sähköpostiosoitteen, haluat luoda jaetun postilaatikon. Jaetun postilaatikon antaa sähköpostiosoite, niin, ettei uusi käyttöoikeus.
+Microsoft 365 ei tällä hetkellä tue sähköpostin lähettämistä aliaksesta tai toissijaisesta sähköpostiosoitteesta. Sähköpostialiaksia voidaan käyttää vain sähköpostiviestien vastaanottamiseen. Jos haluat lähettää sähköpostia toisesta sähköpostiosoitteesta, sinun on luotava jaettu postilaatikko. Jaettu postilaatikko antaa sinulle toisen sähköpostiosoitteen ilman toista käyttöoikeutta.
   
-- [Voit luoda jaetun postilaatikon](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Siirry tähän jakamaan jaettu postilaatikko](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Voit myös lukea [jaetun postilaatikon luominen](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) artikkelin joka kertoo kaiken tarvittavan tietää jaettujen postilaatikoiden, mukaan lukien niiden käyttämisestä.
+Voit myös lukea [Luo jaettu postilaatikko](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) -artikkelin, jossa kerrotaan kaikki, mitä sinun tarvitsee tietää jaetuista postilaatikoista, myös niiden käyttämisestä.

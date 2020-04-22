@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706054"
 ---
 # <a name="conditional-access-policies"></a>Ehdolliset käyttöoikeuskäytännöt
 
@@ -24,7 +24,7 @@ Ehdollinen käyttöoikeus on Azure AD:n ominaisuus, jonka avulla voit ottaa käy
 
 Lue lisätietoja [Azure AD:n ehdollisista käyttöoikeuksista](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Huomautus**: Jos vuokraajasi luotiin 21.10.2019 jälkeen ja saat odottamattoman monimenetelmäistä todentamista koskevan kehotuksen, vuokraajassasi on luultavasti otettu käyttöön [oletusarvoiset suojausasetukset](http://aka.ms/securitydefaults).
+**Huomautus**: Jos vuokraajasi luotiin 21.10.2019 jälkeen ja saat odottamattoman monimenetelmäistä todentamista koskevan kehotuksen, vuokraajassasi on luultavasti otettu käyttöön [oletusarvoiset suojausasetukset](https://aka.ms/securitydefaults).
 
 **Oletusarvoisten suojausasetusten hallinta**
 

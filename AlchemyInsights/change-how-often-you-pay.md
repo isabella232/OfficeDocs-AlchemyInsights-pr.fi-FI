@@ -3,7 +3,7 @@ title: Maksaminentavan muuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217861"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706824"
 ---
 # <a name="change-how-often-you-pay"></a>Maksaminentavan muuttaminen
 
-Kun ostat tilauksen, valitset kuukausi- tai vuosilaskutuksen. Voit muuttaa tilausta koskevien laskutustusttujen toimien avulla seuraavasti.
-
-1. Siirry hallintakeskuksessa **Laskutus-> [palvelut -& palvelut -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
-
-2. Etsi tilaus, jota haluat muuttaa. Valitse **Laskutus-osan** Laskutus **kuukausi-** tai **Laskutettu vuosittain**-kohdan vierestä **Muokkaa**.
-
-3. Valitse laskutustusvaihtoehto ja valitse sitten **Muuta**.
+ **Haluatko vaihtaa maksuväliä?** Jos haluat muuttaa microsoft 365 for business -tilauksen maksuttomuutta joko vuosi- tai kuukausitilauksesta vuosiin tai kuukausittain vuosittaisista, voimme auttaa sinua siinä. Sinun on ostettava sama tilaus uudella maksutiheydellä ja peruutettava vanha tilaus. Käytä "Anna meidän soittaa sinulle" -vaihtoehtoa keskustellaksesi tukihenkilölle.

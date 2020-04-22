@@ -1,9 +1,9 @@
 ---
-title: Kansion tai tiedostojen lataaminen asiakirja kirjastoon
+title: Kansion tai tiedostojen lataaminen asiakirjakirjastoon
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: 3105555c0e88b72ede00045761356b6f03117594
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707148"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a>Kansion tai tiedostojen lataaminen asiakirja kirjastoon
+# <a name="upload-a-folder-or-files-to-a-document-library"></a>Kansion tai tiedostojen lataaminen asiakirjakirjastoon
 
-Voit ladata tiedostoja SharePoint-asiakirja kirjastoon vetämällä ne tieto koneesta ja pudottamalla ne asiakirja kirjastoon.
+Voit ladata tiedostoja SharePointin asiakirjakirjastoon vetämällä ne tietokoneesta ja pudottamalla ne asiakirjakirjastoon.
 
-* [Kansion tai tiedostojen lataaminen asiakirja kirjastoon](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Lataaminen OneDrive Sync-toiminnolla](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Kansion tai tiedostojen lataaminen asiakirjakirjastoon](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [Lataaminen OneDrive Syncin avulla](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

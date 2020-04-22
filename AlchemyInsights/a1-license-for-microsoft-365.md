@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530054"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687399"
 ---
 # <a name="a1-license-for-microsoft-365"></a>A1-käyttöoikeus Microsoft 365:lle
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530054"
 
 - Jos oppilaitoksesi ei ole vielä määrittänyt Microsoft 365 Educationia, mutta haluaisit lisätä Office 365:n maksutta, voit [aloittaa](https://www.microsoft.com/education/products/office) antamalla sähköpostiosoitteesi. 
 
-- Jos haluat **vaihtaa** toisesta akateemisesta palvelupaketista A1-tilaukseen, katso kohta [Toiseen palvelupakettiin vaihtaminen](https://docs.microsoft.com/fi-FI/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Jos haluat **vaihtaa** toisesta akateemisesta palvelupaketista A1-tilaukseen, katso kohta [Toiseen palvelupakettiin vaihtaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Jos haluat määrittää käyttäjät A1-palvelupakettiin, katso kohta [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/fi-FI/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Jos haluat määrittää käyttäjät A1-palvelupakettiin, katso kohta [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Tärkeää**: muutosten voimaantulo saattaa kestää jopa 24 tuntia. 
 

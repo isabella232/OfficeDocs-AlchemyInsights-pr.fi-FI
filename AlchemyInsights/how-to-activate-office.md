@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664353"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709692"
 ---
 # <a name="how-to-activate-office"></a>Officen aktivoiminen
 
-Asentaa ja aktivoida Officen onnistuneesti, admin on liittänyt [Office-käyttöoikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) käyttäjän työ tai Koulu-tili.
+Jotta Officen asentaminen ja aktivoiminen onnistuisi, järjestelmänvalvojan on määritettävä [Office-käyttöoikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) käyttäjän työpaikan tai oppilaitoksen tilille.
   
-Kun olet asentanut Office, monissa tapauksissa Office 365 apps aktivoivat automaattisesti ja jos käyttäjä ei aktivoi, he alkavat käyttää Office heti.
+Kun olet asentanut Officen, sovellukset aktivoituvat monissa tapauksissa automaattisesti ja jos käyttäjää ei pyydetä aktivoimaan, hän voi aloittaa Officen käytön heti.
   
-Kuitenkin jos käyttäjä on pyydetään kirjautumaan **sisään**, voit määrittää Office-ne on työssään Kirjaudu tai Koulu tili, jonka tulisi olla jo [määritetty Office-käyttöoikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Jos käyttäjää pyydetään kuitenkin **kirjautumaan officeen,** hänen on kirjauduttava sisään työpaikan tai oppilaitoksen tilillä, jolla pitäisi olla jo [office-käyttöoikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
-Yksityiskohtaisia lisätietoja [Aktivoi Office PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) tai [Mac Office aktivoiminen](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Lisätietoja on ohjeessa [Officen aktivoiminen PC:llä](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) tai [Officen aktivoiminen Macissa](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
   

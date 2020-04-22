@@ -1,9 +1,9 @@
 ---
-title: Auttaa ymmärtämään laskutustietoja
+title: Auta ymmärtämään laskuasi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523076"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710080"
 ---
-# <a name="help-understanding-your-bill"></a>Auttaa ymmärtämään laskutustietoja
+# <a name="help-understanding-your-bill"></a>Auta ymmärtämään laskuasi
 
--Että Office 365: ssä business tilauksen Laskutettu määrä kuvastaa käyttöoikeuden hinta kerrottuna ostettujen käyttöoikeuksien ja mitään veroja ja maksuja.
+Tilauksestasi laskutettu summa vastaa lisenssihintaa kerrottuna ostettujen lisenssien määrällä ja tarvittavilla veroilla/maksuilla.
   
-Laskutettu summa on eri sitten odotettiin, jos on näin voi tapahtua useasta syystä:
+Jos laskutettu summa on erilainen, odotettu summa on olemassa muutamia syitä:
   
-- Lisätyt käyttöoikeudet tai poistetaan tilauksestasi. Kun käyttöoikeuksia on muutettu puolivälissä, tämä näkyy seuraavassa laskussa. Näyttöön saattaa tulla luotto ja laskuttaa palvelun edellisen tilikauden muutos huomioon uudelleen.
+- Käyttöoikeuksia lisättiin tai poistettiin tilauksestasi. Kun käyttöoikeuksia muutetaan välikaudella, tämä näkyy seuraavassa laskussa. Laskussa saattaa olla aiempaa palvelukautta koskeva, muutoksesta johtuva hyvitys tai lisämaksu.
 
-- Tilaus peruutettiin. Peruutuksen jälkeen laskun saat tahansa avoin saldo, josta vähennetään hyvitykset, kanssa.
+- Tilaus on peruttu. Saat peruutuksen jälkeen laskun, joka sisältää erääntyvät maksut, joista on vähennetty mahdolliset hyvitykset.
 
-- Uusi termi uudistaa tilauksesi ja muuttaa käyttöoikeuden hinnan.
+- Tilauksesi on uusittu uudelle kaudelle ja käyttöoikeuden hinta on muuttunut.
 
-Saat lisätietoja lasku: [lasku tietoja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Lisätietoja laskusta on [kohdassa: Laskun ymmärtäminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

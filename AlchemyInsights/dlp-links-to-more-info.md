@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977471"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704522"
 ---
 # <a name="information-about-dlp-issues"></a>Tietoja DLP-ongelmista
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977471"
 
 **Tietoa DLP-käytännöstä**
 
-DLP-käytännön avulla voit tunnistaa, valvoa ja suojata automaattisesti arkaluonteisia tietoja Office 365:ssä.
+DLP-käytännön avulla voit tunnistaa, valvoa ja suojata automaattisesti arkaluonteisia tietoja Microsoft 365:ssä.
 
 Lisätietoja on näissä linkeissä:
 

@@ -1,9 +1,9 @@
 ---
-title: Käytä mukautettuja profiileja Intune
+title: Mukautettujen profiilien käyttäminen Intunen issa
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710476"
 ---
-# <a name="using-custom-policy-in-intune"></a>Mukautettu käytäntö käyttämällä Intune
+# <a name="using-custom-policy-in-intune"></a>Mukautetun käytännön käyttäminen Intunen issa
 
-Intune on useita asetuksia Android-, iOS-, macOS- ja Windows-laitteille. Voit myös luoda mukautetun profiilin ja ottaa sitten käyttöön mukautettuja asetuksia käyttämällä Intune laitteita. Voit lisätä laitteen asetuksia ja ominaisuuksia, jotka eivät ole rakennettu Intune on suunniteltu mukautettuihin profiileihin.
+Intunen on useita asetuksia sisäänrakennettu Android-, iOS-, macOS- ja Windows-laitteille. Voit myös luoda mukautetun profiilin ja ottaa nämä mukautetut asetukset käyttöön laitteissasi Intunen avulla. Mukautetut profiilit on suunniteltu lisäämään laiteasetuksia ja ominaisuuksia, joita ei ole sisäänrakennettu Intutiin.
 
-[Android-laitteiden Intune mukautetut asetukset](https://docs.microsoft.com/intune/custom-settings-android)
+[Android-laitteiden mukautetut asetukset Intunessa](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Yrityksen Android-laitteiden Intune mukautetut asetukset](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Android Enterprise -laitteiden mukautetut asetukset Intunessa](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[IOS-laitteiden Intune mukautetut asetukset](https://docs.microsoft.com/intune/custom-settings-ios)
+[iOS-laitteiden mukautetut asetukset Intunen](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[MacOS-laitteiden Intune mukautetut asetukset](https://docs.microsoft.com/intune/custom-settings-macos)
+[MacOS-laitteiden mukautetut asetukset Intunen](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Windows 10 Intune-laitteiden mukautetut asetukset](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Windows 10 -laitteiden mukautetut asetukset Intunen](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Mukautettuja asetuksia hologramminauhan Windows Intune-laitteiden Business](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Windows Holographic for Business -laitteiden mukautetut asetukset Intunen](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

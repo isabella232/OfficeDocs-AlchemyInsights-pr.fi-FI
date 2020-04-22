@@ -1,5 +1,5 @@
 ---
-title: Valvontalokin ottaminen käyttöön ja haku
+title: Valvontalokin ottaminen käyttöön ja hakeminen
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665073"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703640"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Käyttöön ja etsiä valvontaloki
+# <a name="enable-and-search-the-audit-log"></a>Valvontalokin ottaminen käyttöön ja hakeminen
 
-**Office 365**
+**Microsoft 365**
 
-Etsi Office 365: n valvontalokin, toimi [seuraavasti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Voit etsiä Microsoft 365:n valvontalokista [seuraavasti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
-- Exchange-järjestelmänvalvojan tehtäviä valvotaan oletusarvon mukaan.
+- Exchange-järjestelmänvalvojan aktiviteetit ovat oletusarvoisesti valvottuja.
 
-- Postilaatikon valvonta on oletusarvon mukaan käytössä Office 365: ssä. Saat lisätietoja Lue [tämä artikkeli](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Postilaatikon valvonta on oletusarvoisesti käytössä Microsoft 365:ssä. Lisätietoja on [tässä artikkelissa](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365-ryhmän postilaatikot ja yleiseen kansioon Exchange Online-postilaatikot eivät tue valvontaloki.
+- Exchange Onlinen Office 365 Group -postilaatikot ja yleisen kansion postilaatikot eivät tue valvontalokia.
 
-**SharePoint- ja OneDrive**
+**SharePoint ja OneDrive**
 
-- On tarpeen, jotta SharePoint ja OneDrive valvonnan lisämäärityksiä.
+- SharePointin ja OneDriven valvonnan käyttöönotto ei edellytä lisämäärityksiä.
 
-- SharePoint- ja OneDrive tukevat valvonnan seuraavanlaisia aktiviteetteja:
+- SharePoint ja OneDrive tukevat seuraavantyyppisten aktiviteettien valvontaa:
 
-    - Tiedoston ja kansion sivun tehtävät
-    - Pyynnön aktiviteettien jakaminen ja käyttö
-    - Sivuston hallinnan tehtävät
-    - Tiedoston synkronoinnin toimintaa
+    - Tiedosto-, kansio- ja sivutoiminnot
+    - Jakamis- ja käyttöoikeuspyyntöaktiviteetit
+    - Sivuston hallintatoiminnot
+    - Tiedostojen synkronointitoiminnot
 
-- Lisätietoja muiden Office 365-palveluiden valvottuja aktiviteetteja on [tämän artikkelin taulukko](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Lisätietoja muiden palveluiden valvotuista toiminnoista [on tämän artikkelin taulukossa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Tässä luettelon hakemisesta valvontalokiin kirjataan usein kysyttyjä kysymyksiä [usein kysyttyjä kysymyksiä](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) .
+- Tässä on luettelo valvontalokin etsimiseen liittyvistä usein kysytyistä [kysymyksistä.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions)

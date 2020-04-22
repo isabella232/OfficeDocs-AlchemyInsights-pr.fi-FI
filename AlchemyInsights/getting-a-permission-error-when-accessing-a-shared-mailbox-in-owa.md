@@ -1,9 +1,9 @@
 ---
-title: 124 käyttö oikeus virheen saaminen, kun jaettua posti laatikkoa käytetään OWASSA?
+title: 124 Hankitaanko käyttöoikeusvirhe käytettäessä jaettua postilaatikkoa OWAssa?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5d1478c4bcfa6ed9f4430cd00bd033a690fe3b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708936"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Saada käyttö oikeus Virhe avattaessa jaettua posti laatikkoa Outlookissa Webissä?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Saatko käyttöoikeusvirheen avattaessa jaettua postilaatikkoa Outlookin verkkoversiossa?
 
-Jos saat virheen **jotain meni pieleen. Sinulla ei ole oikeutta avata tätä posti laatikkoa.** Kun yrität avata jaetun posti laatikon Outlookissa, tilillä ei ehkä ole jaetun posti laatikon käyttö oikeutta. Organisaation järjestelmänvalvoja voi määrittää jaetun posti laatikon tilin käyttö oikeudet noudattamalla ohje aiheen ohjeita [jaetun posti laatikon luomisesta](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Jos saat virheen **Jotain meni pieleen. Sinulla ei ole oikeuksia avata tätä postilaatikkoa.** Kun yrität avata jaetun postilaatikon Outlookin verkkoversiossa, tililläsi ei ehkä ole jaetun postilaatikon käyttöoikeuksia. Organisaation järjestelmänvalvoja voi määrittää jaetun postilaatikon käyttöoikeudet noudattamalla ohjeaiheen [Jaetun postilaatikon luominen](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)ohjeita.
   

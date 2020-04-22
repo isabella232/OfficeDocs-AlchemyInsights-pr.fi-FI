@@ -1,9 +1,9 @@
 ---
-title: Kaikki tilaukset ovat aktiivinen
+title: Kaikki tilaukset ovat aktiivisia
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708244"
 ---
-# <a name="all-subscriptions-are-active"></a>Kaikki tilaukset ovat aktiivinen
+# <a name="all-subscriptions-are-active"></a>Kaikki tilaukset ovat aktiivisia
 
-Että tilaukset ovat aktiivisia. Tämä voidaan tarkistaa siirtymällä **laskutussivuston** \> [tilaustesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulla. Tilausten on järjestetty tilan yläosassa aktiivisiin ylläpitosopimuksiin kanssa. Muita tietoja, kuten määrä- ja menetelmä käyttöoikeuden voi nähdä klikkaamalla tilauksen.
+Tilauksesi ovat aktiivisia. Tämän voi vahvistaa **Billing** \> [laskutustilaukset-sivulla.](https://go.microsoft.com/fwlink/p/?linkid=842054) Tilauksesi tilaukseen, ja aktiiviset tilaukset ovat ylhäällä. Lisätietoja, kuten lisenssien määrä ja maksutapa, voidaan nähdä valitsemalla tilaus.
   
-Jos sinulla on ongelmia yhteyden palveluun, tukihenkilö puhua ”soittaa sinulle kerro meille”-vaihtoehdon avulla.
+Jos sinulla on ongelmia palvelusi kanssa, käytä "Anna meille soittaa sinulle" -vaihtoehtoa, jos haluat keskustella tukihenkilölle.

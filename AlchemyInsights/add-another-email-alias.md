@@ -1,9 +1,9 @@
 ---
-title: Lisää toinen sähköpostialias
+title: Toisen sähköpostialiaksen lisääminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737330"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708516"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Sähkö posti tunnuksen luominen tai lisääminen käyttäjälle
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Sähköpostialiaksen luominen tai lisääminen käyttäjälle
 
-Onko sinun luotava Sähkö posti tunnus käyttäjälle tai lisättävä ylimääräinen Sähkö posti osoite? Seuraa vain näitä vaiheita!
+Haluatko luoda käyttäjälle sähköpostialiaksen tai lisätä lisäsähköpostiosoitteen? Seuraa vain näitä ohjeita!
   
-1. Siirry Microsoft 365-hallinta keskukseen [käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulle tai valitse **käyttäjät** \> **aktiiviset käyttäjät**.
+1. Siirry Microsoft 365 -hallintakeskuksessa [Käyttäjät-sivulle](https://go.microsoft.com/fwlink/p/?linkid=834822) tai valitse **Käyttäjät** \> **aktiiviset käyttäjät**.
     
 2. Valitse **Aktiiviset käyttäjät** -sivulla sen henkilön nimi, jota haluat muokata. 
     
 3. Valitse oikealta **Käyttäjänimi/Sähköpostitunnukset**-rivillä **Muokkaa**.
     
-4. Kirjoita **alias** -ruutuun uusi Sähkö posti ja valitse sitten **Lisää**. Jos ostit tilauksen GoDaddyltä tai toiselta kumppanilta, uuden tunnuksen määrittäminen ensisijaiseksi on tehtävä GoDaddyn tai kumppanin hallintakonsolissa. 
+4. Kirjoita **Alias-ruutuun** uusi sähköpostiviesti ja valitse sitten **Lisää**. Jos ostit tilauksen GoDaddyltä tai toiselta kumppanilta, uuden tunnuksen määrittäminen ensisijaiseksi on tehtävä GoDaddyn tai kumppanin hallintakonsolissa. 
     
-    **TÄRKEÄÄ**: Jos näyttöön tulee virheilmoitus " **Ei löydy parametria, joka vastaa parametrin nimeä EmailAddresses**", tämä tarkoittaa, että Office 365:ltä kestää hieman kauemmin määrittää vuokraaja, tai mukautettu toimialue, jos lisäsit sellaisen äskettäin. Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen. Jos ongelma jatkuu, soita tukeen, jotta tuki suorittaa täydellisen synkronoinnin puolestasi.
+    **TÄRKEÄÄ**: Jos saat virhesanoman " **Parametria ei löydy, joka vastaa parametrin nimeä EmailAddresses,** se tarkoittaa, että Microsoftin tai mukautetun toimialueen määrittäminen kestää hieman kauemmin, jos olet äskettäin lisännyt sellaisen. Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen. Jos ongelma jatkuu, soita tukeen, jotta tuki suorittaa täydellisen synkronoinnin puolestasi.
     
-    Uuden aliaksen voimaan ASTO kestää yleensä noin 30 minuuttia.
+    Uuden aliaksen voimaantulo kestää yleensä noin 30 minuuttia.
     
-    Lisä **tietoja on tässä artikkelissa:** [Toisen Sähkö posti tunnuksen lisääminen käyttäjälle](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Lisätietoja on tässä artikkelissa:** [Toisen sähköpostialiaksen lisääminen käyttäjälle](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

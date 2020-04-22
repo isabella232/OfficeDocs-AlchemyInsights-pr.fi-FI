@@ -10,27 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709548"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Käyttöoikeuden määrittäminen käyttäjälle
 
-Käyttäjä tarvitsee Office 365: n oikeutta käyttää palveluja. Tässä ovat vaiheet, Lisää, muuta tai poista käyttöoikeus käyttäjältä.
+Käyttäjä tarvitsee oikeuden käyttää palveluita. Voit lisätä, muuttaa tai poistaa käyttöoikeuden käyttäjältä seuraavasti:
   
-1. Siirry hallintakeskukseen, **käyttäjien** \> [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla.
+1. Siirry hallintakeskuksessa kohtaan **Käyttäjät** \> [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
-2. Valitse käyttäjä, jolle haluat määrittää, muuttaa tai poistaa käyttöoikeuden nimi.
+2. Valitse sen käyttäjän nimi, jolle haluat määrittää käyttöoikeuden, muuttaa sitä tai poistaa sen.
 
-3. Valitse **käyttöoikeuksien ja Apps** -välilehdessä käyttöoikeudet, jotka haluat määrittää tälle käyttäjälle.
+3. Valitse **Käyttöoikeudet ja sovellukset -välilehdessä** käyttöoikeus, jonka haluat määrittää tälle käyttäjälle.
 
-    Oletusarvoisesti kaikki kyseiseen käyttöoikeuteen liittyvät palvelut määritetään käyttäjälle automaattisesti. Jos haluat rajoittaa käyttäjän käytettävissä oleviin palveluihin, poista valintaruudun valinta, jos palveluita, joita et halua, että käyttäjällä on.
+    Oletusarvoisesti kaikki kyseiseen käyttöoikeuteen liittyvät palvelut määritetään käyttäjälle automaattisesti. Jos haluat rajoittaa käyttäjän käytettävissä olevia palveluita, poista sen palvelun valintaruudun valinta, jota et halua kyseisellä käyttäjällä olevan.
 
-4. Ruudun alaosassa Valitse **Tallenna muutokset**.
+4. Valitse ruudun alareunasta **Tallenna muutokset**.
 
-Lisätietoja [käyttäjien käyttöoikeuksien määrittäminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ja [poistaminen käyttäjien käyttöoikeuksia](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Lisätietoja on ohjeissa [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ja Käyttöoikeuksien poistaminen [käyttäjiltä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

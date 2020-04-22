@@ -1,5 +1,5 @@
 ---
-title: Miten lomake jakaa?
+title: Miten jaan lomakkeen?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 656c3f05494abbe0f387dffec4bd36c4e337a317
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0517697073ca20fa73f41f6b142e50090c7fd2c2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522825"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709900"
 ---
-# <a name="share-a-form"></a>Jaa lomake
+# <a name="share-a-form"></a>Lomakkeen jakaminen
 
-Tentin tai lomakkeen Microsoft Forms jakaminen on [jakaa tehdä yhteistyötä](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Lisätietoja tietovisan tai lomakkeen jakamisesta Microsoft Formsissa on ohjeaiheessa [Lomakkeen jakaminen yhteistyötä varten](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
 
-Voit hallita lomakkeiden ulkoisesti jakaminen, kohdassa [Microsoft-lomakkeiden määrittäminen](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?ui=en-US&rs=en-US&ad=US#PickTab=Configure). 
+Lisätietoja muotojen ulkoisesta jakamisesta on ohjeaiheessa [Microsoft Formsin määrittäminen](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
 
-Saat yhteenvedon linkki Jaa tulokset muiden kanssa:
+Yhteenvetolinkin saaminen tulosten jakamiseen muiden kanssa:
 
-1. Valitse **vastaukset** -välilehdessä oleva ellipsipainike (****...).
-3. Valitse **Luo yhteenvedon linkkiä**.
+1. Napsauta **Vastaukset-välilehdessä** kolmepistettä **(...**).
+3. Valitse **Luo yhteenvetolinkki**.
 4. Valitse **Kopioi**.
 
-Kaikki, joiden kanssa jaat linkin voit tarkastella lomakkeen vastauksista yhteenvedon.
+Kuka tahansa, jonka kanssa jaat tämän linkin, voi tarkastella lomakkeen vastausten yhteenvetoa.

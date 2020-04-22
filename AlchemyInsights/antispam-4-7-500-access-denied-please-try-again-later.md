@@ -1,9 +1,9 @@
 ---
-title: 1051 roskapostinesto-4.7.500 käyttö on estetty, yritä myöhemmin uudelleen
+title: 1051 Roskapostin esto 4.7.500 Käyttö estetty, yritä myöhemmin uudelleen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: b9c75542378f64cdc4765c22f398e43b5523f2e1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 550b5ceadb2abcd0fea7e352b988bc740235722c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517136"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707980"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 on estetty, yritä myöhemmin uudelleen
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Käyttö estetty, yritä myöhemmin uudelleen
 
-Tämä virhe ilmenee, kun sähköposti-tietoliikenteen IP-lähdeosoitteen tilavuus ylittää rajan, IP-lähdeosoite maine (tai maine puute) perusteella.
+Tämä virhe ilmenee, kun lähde-IP-osoitteen sähköpostiliikenteen määrä ylittää rajoituksen lähde-IP-osoitteen maineen (tai maineen puutteen) perusteella.
 
-Sähköposti lähdeosoitteesta IP esto päättyy tunnin kuluessa. Lähde-IP-osoite on paikallinen-sähköpostipalvelin, joka kuuluu sinulle, postin kulkua connector määritysten tarkistaminen. Jos ongelma jatkuu yli tunnin, ota yhteyttä tukeen pyytää poikkeuksen lähde-IP-osoitteelle.
+Sähköpostin estäminen lähde-IP-osoitteesta vanhenee tunnin kuluessa. Jos lähde-IP-osoite on paikallinen sähköpostipalvelin, joka kuuluu sinulle, tarkista postin kulkuliittimen määritys. Jos toiminta jatkuu yli tunnin, ota yhteyttä tukeen ja pyydä poikkeusta lähde-IP-osoitteelle.

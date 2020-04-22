@@ -1,8 +1,8 @@
 ---
-title: Sisältö ei näy hakutuloksissa SharePoint
+title: Sisältö ei näy SharePoint-hakutuloksissa
 ms.author: tlarsen
 author: tklarsen
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517028"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705658"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sisältö ei näy hakutuloksissa SharePoint
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sisältö ei näy SharePoint-hakutuloksissa
 
-Suorita seuraavat vianmääritysvaiheet, kun odotettu sisältö ei näy etsinnän tuloksissa:
+Noudata seuraavia vianmääritysohjeita, kun odotettua sisältöä ei näy hakutuloksissa:
   
-1. Tarkista, että odotettua sisältöä sisältävä **sivusto** on määritetty sallimaan sisällön näkyvän etsinnän tuloksissa. Noudata [Näytä sisältöä sivuston hakutuloksissa](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Tarkista, että **sivuston,** joka sisältää odotetun sisällön, on määritetty sallimaan sisällön näkyminen hakutuloksissa. Noudata kohdan [Näytä sivuston sisältö hakutuloksissa olevia](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)ohjeita.
 
-2. Tarkista, että **luettelo** tai **kirjasto** , joka sisältää odotettu sisältö on sisällön näkyvän etsinnän tuloksissa. Noudata [Näytä sisältöä luetteloiden tai kirjastojen hakutuloksissa](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Tarkista, että odotetun sisällön sisältävä **luettelo** tai **kirjasto** on määritetty sallimaan sisällön näkyminen hakutuloksissa. Noudata kohdan [Näytä luetteloiden tai kirjastojen sisältö hakutuloksissa olevia](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)ohjeita.
 
-3. Varmista, että sivun, tiedoston tai mukautetun sivun asettelu julkaistaan **pääversio.** Vaiheen 3- [haku ei palauta kaikkia tuloksia SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Varmista, että sivu, asiakirja tai mukautettu sivun asettelu on julkaistu **pääversiona.** Seuraa hakua kohdan Haku vaihetta 3 [ei palauteta kaikkia Tuloksia SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Varmista, että käyttäjällä on **oikeudet** tarkastella sisältöä. Ohjeiden [ymmärtäminen käyttöoikeustasoja SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Varmista, että käyttäjällä on **sisällön tarkasteluoikeudet.** Noudata tietoja [SharePointin käyttöoikeustasoista](https://docs.microsoft.com/sharepoint/understanding-permission-levels).follow the steps sharePoint .
     
-5. Jos haku rakennetta on muutettu lisäämällä uusi hallittu ominaisuus, hallitun ominaisuuden muokkaamalla tai poistamalla sitten pyytää hallitun ominaisuuden indeksointi ja indeksoida uudelleen vaaditaan. **Indeksoi** sisältö [manuaalisesti pyytää Läpikäymiselle ja indeksoinnille uudelleen sivuston kirjasto tai luettelo](https://docs.microsoft.com/sharepoint/crawl-site-content)-ohjeiden mukaan. Tämä saattaa kestää jonkin aikaa, odota 24 tuntia, ennen kuin tarkistat tulokset uudelleen.
+5. Jos hakurakennetta on muutettu lisäämällä uusi hallittu ominaisuus, muokkaamalla hallittua ominaisuutta tai poistamalla hallittu ominaisuus, tarvitaan indeksointia ja uudelleenindeksointia. **Indeksoi** sisältö uudelleen noudattamalla kohdan [Sivuston, kirjaston tai luettelon selaamisen ja uudelleenindeksoinnin manuaalinen pyytäminen ohjeita.](https://docs.microsoft.com/sharepoint/crawl-site-content) Tämä voi kestää jonkin aikaa, odota 24 tuntia ennen tulosten tarkistamista uudelleen.
 
-Lisätietoja [voi etsiä tietoja sivuston sisällön käyttöön](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Lisätietoja on [ohjeaiheessa Sivuston sisällön ottaminen käyttöön hakukelpoisina](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

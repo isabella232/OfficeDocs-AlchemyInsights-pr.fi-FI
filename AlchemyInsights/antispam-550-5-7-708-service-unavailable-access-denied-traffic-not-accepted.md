@@ -1,9 +1,9 @@
 ---
-title: 1047 roskapostinesto-550 5.7.708 palvelu ei ole käytettävissä. Käyttö estetty, ei hyväksytä tässä IP-liikenne
+title: 1047 Roskapostin esto 550 5.7.708 Palvelu ei ole käytettävissä. Käyttö estetty, liikennettä ei hyväksytä tästä IP-osoitteesta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707872"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 käyttö kielletty, liikenne ei hyväksytä tässä IP-
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Käyttö estetty, liikennettä ei hyväksytä tältä IP-osoitteelta
 
-Tämä virhe ilmenee, kun lähetät sähköpostia tunnettu, alhainen maine IP-osoitteet, joita käytetään yleensä uusia asiakkaita.
+Tämä virhe ilmenee lähetettäessä sähköpostia tunnetuista, huonomaineisista IP-osoitteista, joita uudet asiakkaat yleensä käyttävät.
 
-Jos sinun on lähetettävä sähköposti nämä IP-osoitteet, ennen kuin voit ostaa käyttöoikeuksia, ota yhteyttä tukeen pyytää poikkeusta kunnes olet voi ostaa käyttöoikeuksia.
+Jos sinun on lähetettävä sähköpostia näistä IP-osoitteista, ennen kuin voit ostaa käyttöoikeuksia, ota yhteyttä tukeen ja pyydä poikkeusta, kunnes voit ostaa käyttöoikeuksia.

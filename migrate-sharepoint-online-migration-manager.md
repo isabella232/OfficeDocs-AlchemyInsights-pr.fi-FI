@@ -1,9 +1,9 @@
 ---
-title: Siirtyminen SharePoint Onlineen siirron hallinnan kautta
+title: Siirto SharePoint Onlineen siirron hallinnan kautta
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964138"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707184"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Siirtyminen SharePoint Onlineen siirron hallinnan kautta
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Siirto SharePoint Onlineen siirron hallinnan kautta
 
-Nykyaikaisessa SharePointin hallinta keskuksessa siirron hallinta opastaa asiakkaidesi asennuksessa ja tehtävien luomisessa. Voit määrittää yleiset tai tehtävä tason asetukset, tarkastella koko tehtävän edistymistä ja ladata koottuja Yhteenveto-ja tehtävä tason raportteja.
+Nykyaikaisessa SharePoint-hallintakeskuksessa sijaitseva siirron hallinta opastaa asiakasohjelmien määrityksessä ja tehtävien luonnissa. Voit määrittää yleiset tai tehtävätason asetukset, tarkastella tehtävän edistymistä sekä ladata koottuja yhteenveto- ja tehtävätason raportteja.
 
-* [Siirtymis hallinnan käytön aloittaminen](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Siirtymis hallinnan asiakkaiden määrittäminen](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Siirron hallinnan käytön aloittaminen](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Siirron hallinnan asiakasohjelmien määrittäminen](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 * [Siirron hallinnan asetukset](https://docs.microsoft.com/sharepointmigration/mm-settings)

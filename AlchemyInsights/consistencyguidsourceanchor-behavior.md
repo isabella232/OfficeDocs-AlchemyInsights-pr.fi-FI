@@ -1,9 +1,9 @@
 ---
-title: ConsistencyGuid/sourceAnchor-käyttäytyminen
+title: ConsistencyGuid / sourceAnchor käyttäytyminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516975"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705730"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor-käyttäytyminen
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor käyttäytyminen
 
-Azure AD Connect (versio 1.1.524.0 ja sen jälkeen) helpottaa nyt msDS-ConsistencyGuid-määritteen käyttämistä sourceAnchor-määritteenä. Kun käytät tätä ominaisuutta, Azure AD Connect määrittää synkronointi säännöt automaattisesti:
+Azure AD Connect (versio 1.1.524.0 ja sen jälkeen) helpottaa nyt msDS-ConsistencyGuidin käyttöä sourceAnchor-määritteenä. Kun käytät tätä ominaisuutta, Azure AD Connect määrittää synkronointisäännöt automaattisesti seuraavasti:
   
-- Käytä msDS-ConsistencyGuid: ää käyttäjä objektien sourceAnchor-määritteenä. ObjectGUID-tunnusta käytetään muissa objekti tyypeissä.
+- Käytä msDS-ConsistencyGuid-tunnusta useranchor-määritteenä käyttäjäobjekteille. ObjectGUID-kohdetta käytetään muissa objektityypeissä.
     
-- Jos kyseessä on paikallinen mainos käyttäjä objekti, jonka msDS-ConsistencyGuid-määritettä ei ole täytetty, Azure AD Connect kirjoittaa objectGUID-arvonsa paikalliseen Active Directoryyn msDS-ConsistencyGuid-määritteeseen. Kun msDS-ConsistencyGuid-määrite on täytetty, Azure AD Connect vie objektin Azure AD:een.
+- Azure AD Connect kirjoittaa objektiGUID-arvonsa takaisin paikallisen Active Directoryn msDS-ConsistencyGuid-määritteeseen, jonka msDS-ConsistencyGuid-määritettä ei ole täytetty. Kun msDS-ConsistencyGuid-määrite on täytetty, Azure AD Connect vie objektin Azure AD:hen.
     
- **Huom:** Kun paikallinen mainos objekti tuodaan Azure AD Connectin (joka tuodaan AD Connector-tilaan ja projisoidaan Metaverse-arvoksi), et voi enää muuttaa sen sourceAnchor-arvoa. Määritä tietyn paikallisen mainos objektin sourceAnchor-arvo määrittämällä sen msDS-ConsistencyGuid-määrite, ennen kuin se tuodaan Azure AD Connectin kautta. 
+ **Huomautus:** Kun paikallinen AD-objekti on tuotu Azure AD Connectiin (eli tuotu AD Connector Spaceen ja heijastettu Metaverse-tilaan), et voi enää muuttaa sen sourceAnchor-arvoa. Jos haluat määrittää sourceAnchor-arvon tietylle paikalliselle AD-objektille, määritä sen msDS-ConsistencyGuid-määrite ennen sen tuomista Azure AD Connectiin. 
   
-Lisä tietoja SourceAnchor-ja ConsistencyGuid-objekteistä on seuraavissa: [Azure AD Connect: suunnittelun käsitteet](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Lisätietoja SourceAnchorista ja ConsistencyGuidistä on seuraavissa ohjeaiheissa: [Azure AD Connect: Suunnittelukäsitteet](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
