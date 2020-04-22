@@ -1,9 +1,9 @@
 ---
-title: Posti laatikoiden siirtäminen kahden eri vuokralaisten välillä
+title: Postilaatikoiden siirtäminen kahden eri vuokraajan välillä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734450"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762278"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="18b27-102">Posti laatikoiden siirtäminen kahden eri vuokralaisten välillä</span><span class="sxs-lookup"><span data-stu-id="18b27-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="14f8a-102">Postilaatikoiden siirtäminen kahden eri vuokraajan välillä</span><span class="sxs-lookup"><span data-stu-id="14f8a-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="18b27-103">Sinun on ehkä siirrettävä posti laatikoita kahden eri vuokralaisten välillä Office 365-organisaatiossa, esimerkiksi silloin, kun on olemassa organisaatio fuusioita.</span><span class="sxs-lookup"><span data-stu-id="18b27-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="18b27-104">Nämä muutto liikkeet on suunniteltava huolellisesti.</span><span class="sxs-lookup"><span data-stu-id="18b27-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="18b27-105">Lue seuraavat ohjeet:</span><span class="sxs-lookup"><span data-stu-id="18b27-105">Please see the following guidance:</span></span>
+<span data-ttu-id="14f8a-103">Postilaatikot on ehkä siirrettävä kahden eri vuokraajan välillä esimerkiksi silloin, kun organisaatiofuusioita on olemassa.</span><span class="sxs-lookup"><span data-stu-id="14f8a-103">You may need to migrate mailboxes between two different tenants, for example, when there are organization mergers.</span></span> <span data-ttu-id="14f8a-104">Nämä muuttoliikkeet olisi suunniteltava huolellisesti.</span><span class="sxs-lookup"><span data-stu-id="14f8a-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="14f8a-105">Katso seuraavat ohjeet:</span><span class="sxs-lookup"><span data-stu-id="14f8a-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="18b27-106">Posti laatikoiden siirtäminen yhdestä Office 365-vuokrasta toiseen</span><span class="sxs-lookup"><span data-stu-id="18b27-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="14f8a-106">Postilaatikoiden siirtäminen vuokraajasta toiseen</span><span class="sxs-lookup"><span data-stu-id="14f8a-106">How to migrate mailboxes from one tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

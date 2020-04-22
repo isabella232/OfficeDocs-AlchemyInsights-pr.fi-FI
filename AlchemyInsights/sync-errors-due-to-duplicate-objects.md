@@ -1,32 +1,32 @@
 ---
-title: 902 (synkronointivirheet objektien kaksoisarvot vuoksi)
+title: 902 (Synkronoi objektien kaksoiskappaleiden aiheuttamat synkronointivirheet)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ea833e0c4aebe72bc5c02e3dc10c1edc4136dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507412"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767124"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a><span data-ttu-id="b4a07-102">Samanlaiset objektit synkronointivirheiden</span><span class="sxs-lookup"><span data-stu-id="b4a07-102">Sync errors due to duplicate objects</span></span>
+# <a name="sync-errors-due-to-duplicate-objects"></a><span data-ttu-id="7a14c-102">Synkronoi objektien kaksoiskappaleiden aiheuttamat synkronointivirheet</span><span class="sxs-lookup"><span data-stu-id="7a14c-102">Sync errors due to duplicate objects</span></span>
 
-<span data-ttu-id="b4a07-103">Näyttöön tulee jokin seuraavista virhesanomista directory-synkronoinnin päätyttyä Office 365: ssä:</span><span class="sxs-lookup"><span data-stu-id="b4a07-103">You might receive one of the following error messages when directory synchronization finishes in Office 365:</span></span>
+<span data-ttu-id="7a14c-103">Näyttöön saattaa tulla jokin seuraavista virhesanomista, kun hakemistosynkronointi on valmis Microsoft 365:ssä:</span><span class="sxs-lookup"><span data-stu-id="7a14c-103">You might receive one of the following error messages when directory synchronization finishes in Microsoft 365:</span></span>
 
-- <span data-ttu-id="b4a07-104">Ei voi päivittää tätä objektia Microsoft Online Services-palveluissa, koska tämän objektin liittyvät seuraavat määritteet ovat arvoja, jotka on ehkä jo liitetty toinen paikallinen hakemisto-objekti.</span><span class="sxs-lookup"><span data-stu-id="b4a07-104">Unable to update this object in Microsoft Online Services because the following attributes associated with this object have values that may already be associated with another object in your local directory.</span></span>
+- <span data-ttu-id="7a14c-104">Tätä objektia ei voi päivittää Microsoft Online Services -palveluissa, koska seuraavilla tähän objektiin liittyvillä määritteillä on arvoja, jotka on jo liitetty toiseen paikallisen hakemiston objektiin.</span><span class="sxs-lookup"><span data-stu-id="7a14c-104">Unable to update this object in Microsoft Online Services because the following attributes associated with this object have values that may already be associated with another object in your local directory.</span></span>
 
-- <span data-ttu-id="b4a07-105">Microsoft Online Services-kansiossa on jo synkronoitu objekti saman välityspalvelimen osoite.</span><span class="sxs-lookup"><span data-stu-id="b4a07-105">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
+- <span data-ttu-id="7a14c-105">Synkronoitu objekti, jolla on sama välityspalvelinosoite, on jo Microsoft Online Services -palveluiden hakemistossa.</span><span class="sxs-lookup"><span data-stu-id="7a14c-105">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
 
-- <span data-ttu-id="b4a07-106">Objektia ei voi päivittää tätä, koska tämä objekti liittyy seuraavat määritteet ovat arvoja, jotka voi olla jo liitetty toiseen objektiin paikallisen-hakemistopalveluihin: UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="b4a07-106">Unable to update this object because the following attributes associated with this object have values that may already be associated with another object in your local directory services: UserPrincipalName.</span></span>
+- <span data-ttu-id="7a14c-106">Objektia ei voi päivittää, koska seuraavilla tähän objektiin liittyvillä määritteillä on arvoja, jotka on jo liitetty toiseen paikalliseen hakemistopalveluiden objektiin: UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="7a14c-106">Unable to update this object because the following attributes associated with this object have values that may already be associated with another object in your local directory services: UserPrincipalName.</span></span>
 
-<span data-ttu-id="b4a07-107">Voit tunnistaa ja korjata ongelman, lataa ja suorita [IdFix DirSync virheen korjaus työkalu](https://www.microsoft.com/download/details.aspx?id=36832).</span><span class="sxs-lookup"><span data-stu-id="b4a07-107">To identify and fix the issue, download and run the [IdFix DirSync Error Remediation Tool](https://www.microsoft.com/download/details.aspx?id=36832).</span></span>
+<span data-ttu-id="7a14c-107">Voit tunnistaa ja korjata ongelman lataamalla ja suorittamalla [IdFix DirSync Error Remediation Tool -työkalun](https://www.microsoft.com/download/details.aspx?id=36832).</span><span class="sxs-lookup"><span data-stu-id="7a14c-107">To identify and fix the issue, download and run the [IdFix DirSync Error Remediation Tool](https://www.microsoft.com/download/details.aspx?id=36832).</span></span>
 
-<span data-ttu-id="b4a07-108">Lisätietoja on kohdassa [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).</span><span class="sxs-lookup"><span data-stu-id="b4a07-108">For more information, see [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).</span></span>
+<span data-ttu-id="7a14c-108">Lisätietoja on artikkelissa [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).</span><span class="sxs-lookup"><span data-stu-id="7a14c-108">For more information, see [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).</span></span>

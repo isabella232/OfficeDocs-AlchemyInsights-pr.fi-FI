@@ -1,9 +1,9 @@
 ---
-title: Virhe 30016-4 ratkaisut
+title: Ratkaisuja virheeseen 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501940"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757018"
 ---
-# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="d31af-102">Virhe 30016-4 ratkaisut</span><span class="sxs-lookup"><span data-stu-id="d31af-102">Solutions for error 30016-4</span></span>
+# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="c64f2-102">Ratkaisuja virheeseen 30016-4</span><span class="sxs-lookup"><span data-stu-id="c64f2-102">Solutions for error 30016-4</span></span>
 
-<span data-ttu-id="d31af-103">Kun yrität poistaa tietokoneesta, Office 365 ProPlus ja näkyviin tulee virheilmoitus, **käytit väärää 30016-4**, se tarkoittaa **% temp %** -asema on yhdistetty asemaan **% ProgramFiles %**.</span><span class="sxs-lookup"><span data-stu-id="d31af-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
+<span data-ttu-id="c64f2-103">Kun yrität poistaa Microsoft 365 Apps for enterprise -sovelluksen asennuksen tietokoneesta ja saat virhesanoman, jossa on virhe **30016-4**, se tarkoittaa, että **%temp%** -asema on yhdistetty muuhun asemaan kuin **%ProgramFiles%.**</span><span class="sxs-lookup"><span data-stu-id="c64f2-103">When you try to uninstall Microsoft 365 Apps for enterprise from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
   
-<span data-ttu-id="d31af-104">Korjaamiseen, lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="d31af-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
+<span data-ttu-id="c64f2-104">[Support and Recovery Assistantin](https://aka.ms/SARA-OfficeUninstall-Alchemy) korjaaminen lataamalla ja asentamalla</span><span class="sxs-lookup"><span data-stu-id="c64f2-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
   
-1. <span data-ttu-id="d31af-105">Kun se avautuu, valitse **Poista Office-tuotteiden** versio, jonka haluat poistaa, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="d31af-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="c64f2-105">Kun se avautuu, valitse **Poista Office-tuotteiden asennus -kohdasta** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="c64f2-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="d31af-106">Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.</span><span class="sxs-lookup"><span data-stu-id="d31af-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="c64f2-106">Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.</span><span class="sxs-lookup"><span data-stu-id="c64f2-106">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="d31af-107">Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.</span><span class="sxs-lookup"><span data-stu-id="d31af-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="c64f2-107">Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistamisen viimeistelemiseksi.</span><span class="sxs-lookup"><span data-stu-id="c64f2-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="d31af-108">Noudata jäljellä kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulkea avustajan.</span><span class="sxs-lookup"><span data-stu-id="d31af-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="c64f2-108">Noudata jäljellä olevia kehotteita ja [asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.</span><span class="sxs-lookup"><span data-stu-id="c64f2-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>

@@ -1,9 +1,9 @@
 ---
-title: Kun luottokorttini veloitetaan?
+title: Milloin luottokorttiani veloitetaan?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558398"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765266"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="ef978-102">Kun luottokorttini veloitetaan?</span><span class="sxs-lookup"><span data-stu-id="ef978-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="e4e38-102">Milloin luottokorttiani veloitetaan?</span><span class="sxs-lookup"><span data-stu-id="e4e38-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="ef978-103">Ensimmäinen osto kestää enintään kaksi päivää tapahtuvan kulun.</span><span class="sxs-lookup"><span data-stu-id="ef978-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="e4e38-103">Kun ensimmäinen osto, se voi kestää jopa kaksi päivää maksun tapahtua.</span><span class="sxs-lookup"><span data-stu-id="e4e38-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="ef978-104">Toistuvat maksut tapahtua luodaan lasku yhden työpäivän kuluessa.</span><span class="sxs-lookup"><span data-stu-id="ef978-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="e4e38-104">Toistuvat kulut tapahtuvat yhden päivän kuluessa laskun luomisesta.</span><span class="sxs-lookup"><span data-stu-id="e4e38-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="ef978-105">Jos varaus epäonnistuu, järjestelmä jatkaa yrittää selvittää loput muutaman seuraavan viikon aikana.</span><span class="sxs-lookup"><span data-stu-id="ef978-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="ef978-106">Voit tehdä päivityksiä milloin tahansa varmistaa seuraavan maksun yritys onnistuu maksun tietoihin.</span><span class="sxs-lookup"><span data-stu-id="ef978-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="ef978-107">Katso lisätietoja, [Lisää, Päivitä tai poista luottokortin tai pankkitilin, for business Office 365: ssä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="ef978-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="e4e38-105">Jos lataus epäonnistuu, järjestelmä yrittää edelleen selvittää saldon seuraavien viikkojen aikana.</span><span class="sxs-lookup"><span data-stu-id="e4e38-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="e4e38-106">Voit tehdä maksutietoihisi päivityksiä milloin tahansa varmistaaksesi, että seuraava veloitusyritys onnistuu.</span><span class="sxs-lookup"><span data-stu-id="e4e38-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="e4e38-107">Lisätietoja on [ohjeaiheessa Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Microsoft 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="e4e38-107">For more information, see [Add, update or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
