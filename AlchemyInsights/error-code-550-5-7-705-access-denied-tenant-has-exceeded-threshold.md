@@ -1,8 +1,8 @@
 ---
-title: Virhekoodi 550 5.7.705 käyttö estetty, vuokralaisen on ylittänyt raja-arvon
+title: Virhekoodi 550 5.7.705 Käyttö estetty, vuokralainen on ylittänyt kynnysarvon
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702987"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="a13bd-102">550 5.7.705 on estetty, vuokralaisen on ylittänyt raja-arvon</span><span class="sxs-lookup"><span data-stu-id="a13bd-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="7a7b2-102">550 5.7.705 Käyttö estetty, vuokralainen on ylittänyt kynnysarvon</span><span class="sxs-lookup"><span data-stu-id="7a7b2-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="a13bd-103">Tämä tapahtuu, kun liian paljon roskapostia tai irtotavarana sähköposti on lähetetty oman organisaation ja emme Aseta lohkon lähtevän postin.</span><span class="sxs-lookup"><span data-stu-id="a13bd-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="a13bd-104">Tartunnan saaneen tiloissa palvelimia tai tartunnan saaneen admin tilit, joita on käytetty luomaan liittimet ovat yleisiä syitä.</span><span class="sxs-lookup"><span data-stu-id="a13bd-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="a13bd-105">Joko ehto määrittää, että roskapostia läpi organisaation.</span><span class="sxs-lookup"><span data-stu-id="a13bd-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="7a7b2-103">Tämä viesti tulee näyttöön, kun organisaatiosi on lähettänyt liikaa roskapostia tai joukkopostia ja asetamme lohkon lähtevälle postille.</span><span class="sxs-lookup"><span data-stu-id="7a7b2-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="7a7b2-104">Yleisiä syitä vaarantuvat paikalliset palvelimet tai vaarantuneet järjestelmänvalvojan tilit, joita on käytetty yhdistimien luomiseen.</span><span class="sxs-lookup"><span data-stu-id="7a7b2-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="7a7b2-105">Kumpikin ehto voi sallia roskapostin kulkemisen organisaatiosi kautta.</span><span class="sxs-lookup"><span data-stu-id="7a7b2-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="a13bd-106">Jos haluat poistaa tämän lohkon, täytyy ymmärtää ja selittää syy tukea agentti, sekä korjata ongelman.</span><span class="sxs-lookup"><span data-stu-id="a13bd-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="a13bd-107">Kun olet valmis, valitse **Ota yhteyttä meihin** alla.</span><span class="sxs-lookup"><span data-stu-id="a13bd-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="7a7b2-106">Voit poistaa tämän lohkon ymmärtämällä ja selittämään tukiagentin syyn sekä korjaamaan taustalla olevan ongelman.</span><span class="sxs-lookup"><span data-stu-id="7a7b2-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="7a7b2-107">Klikkaa ota **yhteyttä** alla, kun olet valmis.</span><span class="sxs-lookup"><span data-stu-id="7a7b2-107">Click **Contact us** below once you're ready.</span></span>

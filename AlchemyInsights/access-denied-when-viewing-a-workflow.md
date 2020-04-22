@@ -1,31 +1,31 @@
 ---
-title: Käyttö estetty työn kulkua tarkasteltaessa
+title: Käyttö estetty työnkulun tarkastelemisen yhteydessä
 ms.author: pebaum
 author: pebaum
-ms.date: 11/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 1cfda8e08ada05858a28f2bede8c31261f9de351
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050522"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687327"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="cdabc-102">Käyttö estetty työn kulkua tarkasteltaessa</span><span class="sxs-lookup"><span data-stu-id="cdabc-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="52166-102">Käyttö estetty työnkulun tarkastelemisen yhteydessä</span><span class="sxs-lookup"><span data-stu-id="52166-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="cdabc-103">SharePoint 2013-työn kulut, jotka yrittävät lähettää sähkö postia SharePoint-ryhmään, voivat epäonnistua käyttö estetty-virhe sanomassa, jos SharePoint-ryhmän jäsenyyttä ei ole määritetty kaikille.</span><span class="sxs-lookup"><span data-stu-id="cdabc-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="52166-103">SharePoint 2013 -työnkulut, jotka yrittävät lähettää sähköpostia SharePoint-ryhmään, voivat epäonnistua Käyttö estetty -virhesanoman kanssa, jos SharePoint-ryhmän jäsenyyden arvoksi ei ole määritetty Kaikki.</span><span class="sxs-lookup"><span data-stu-id="52166-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="cdabc-104">**Voit ratkaista tämän ongelman tekemällä seuraavat toimet:**</span><span class="sxs-lookup"><span data-stu-id="cdabc-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="52166-104">**Voit ratkaista tämän ongelman seuraavasti:**</span><span class="sxs-lookup"><span data-stu-id="52166-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="cdabc-105">Salli kaikkien nähdä SharePoint-ryhmän jäsenet.</span><span class="sxs-lookup"><span data-stu-id="cdabc-105">Allow everybody to see the members of the SharePoint group.</span></span>
+ 1. <span data-ttu-id="52166-105">Salli kaikkien nähdä SharePoint-ryhmän jäsenet.</span><span class="sxs-lookup"><span data-stu-id="52166-105">Allow everybody to see the members of the SharePoint group.</span></span>
   
- 2. <span data-ttu-id="cdabc-106">Poista SharePoint-ryhmä Sähkö posti viestin to-tai CC-riviltä.</span><span class="sxs-lookup"><span data-stu-id="cdabc-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
+ 2. <span data-ttu-id="52166-106">Poista SharePoint-ryhmä sähköpostin Vastaanottaja- tai Kopio-riviltä.</span><span class="sxs-lookup"><span data-stu-id="52166-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
   
- 3. <span data-ttu-id="cdabc-107">Lisää käyttäjät eksplisiittisesti to-tai CC-riville, jos SharePoint-ryhmän jäsenyyden näkyvyyttä ei voi muuttaa.</span><span class="sxs-lookup"><span data-stu-id="cdabc-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
+ 3. <span data-ttu-id="52166-107">Lisää käyttäjät erikseen Vastaanottaja- tai Kopio-riville, jos jäsenyyden näkyvyyttä ei voi muuttaa SharePoint-ryhmässä.</span><span class="sxs-lookup"><span data-stu-id="52166-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
   
-<span data-ttu-id="cdabc-108">Katso lisä tietoja kohdasta [http luvaton/_vti_bin/Client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="cdabc-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="52166-108">Lisätietoja on [http:ssä http:n luvaton http-tiedoston /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="52166-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   
