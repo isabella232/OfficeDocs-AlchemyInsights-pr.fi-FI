@@ -1,5 +1,5 @@
 ---
-title: Ulkoisten käyttäjien organisaatio käytäntö asetukset
+title: Ulkoisten käyttäjien organisaatiokäytännön asetukset
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,22 +10,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054483"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641997"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Ulkoisten käyttäjien organisaatio käytäntö asetukset
+# <a name="organization-policy-settings-for-external-users"></a>Ulkoisten käyttäjien organisaatiokäytännön asetukset
 
-Käyttäjät saattavat nähdä seuraavan varoitus sanoman yrittäessään jakaa organisaatiosi ulkoisten käyttäjien kanssa: 
+Käyttäjät saattavat nähdä seuraavan varoitussanoman, kun he yrittävät jakaa tietoja organisaation ulkoisten käyttäjien kanssa: 
 
-   **Organisaatiosi käytännöt eivät salli näiden käyttäjien jakamista. Ota se käyttöön siirtymällä kohtaan ulkoinen jakaminen Office 365-hallinta keskuksessa.** 
+   **Organisaation käytännöt eivät salli jakamista näiden käyttäjien kanssa. Ota ulkoinen jakaminen käyttöön microsoft 365 -hallintakeskuksessa.** 
 
-Tämä tapahtuu usein ensimmäisen kerran, kun yritetään jakaa ulkoisten käyttäjien kanssa tai jakaa uusien ulkoisten käyttäjien kanssa. Katso lisä tietoja alla olevasta artikkelista:
+Tämä tapahtuu usein, kun yrität jakaa tietoja ulkoisten käyttäjien kanssa ensimmäistä kertaa tai jaettaessa uusia ulkoisia käyttäjiä. Lisätietoja on alla olevassa artikkelissa:
 
-[Organisaatiosi käytännöt eivät anna sinun jakaa näitä käyttäjiä](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Organisaation käytännöt eivät salli jakamista näiden käyttäjien kanssa](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

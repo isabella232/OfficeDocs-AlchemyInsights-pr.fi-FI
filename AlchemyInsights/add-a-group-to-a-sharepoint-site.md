@@ -3,7 +3,7 @@ title: Ryhmän lisääminen SharePoint-sivustoon
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676386"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Ryhmän lisääminen SharePoint-sivustoon
 
-Jotkin SharePoint-ryhmäsivustot (mukaan lukien Microsoft Teamsissa luodut) ovat Office 365-ryhmän omistajien hallinnoimia. SharePoint-sivustoja ja-sisältöä voi myös jakaa Office 365-ryhmien ja SharePoint-ryhmien kanssa. SharePoint-ryhmä on joukko käyttäjiä, joilla kaikilla on samat käyttö oikeudet sivustoihin ja sisältöön. Klassisissa sivustoissa suosittelemme, että määrität ryhmät käyttämään samaa käyttö oikeus tasoa kätevästi monille henkilöille kerralla sen sijaan, että määrität käyttö oikeudet yhdelle henkilölle kerrallaan.
+Office 365 -ryhmän omistajat hallinnoivat joitakin SharePoint-ryhmäsivustoja (myös Microsoft Teamsissa luotuja sivustoja). SharePoint-sivustot ja -sisältö voidaan jakaa myös Office 365 -ryhmien ja SharePoint-ryhmien kanssa. SharePoint-ryhmä on kokoelma käyttäjiä, joilla kaikilla on samat käyttöoikeudet sivustoihin ja sisältöön. Klassisissa sivustoissa on suositeltavaa määrittää ryhmien avulla sama käyttöoikeustaso kätevästi useille ihmisille kerralla sen sijaan, että määrittäisit käyttöoikeudet yksi henkilö kerrallaan.
   
-Hallitse Office 365-ryhmän jäseniä:
+Office 365 -ryhmän jäsenten hallinta:
   
-1. Siirry [Microsoft 365-hallinta keskuksen ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).
+1. Siirry [Microsoft 365 -hallintakeskuksen Ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).
     
-2. Valitse ryhmä, jos haluat nähdä sen omistajat ja jäsenet. Jos haluat lisätä tai poistaa henkilöitä, napsauta **Muokkaa** -linkkiä **omistajat** -tai **jäsenet** -rivillä. 
+2. Valitse ryhmä, jos haluat nähdä sen omistajat ja jäsenet. Jos haluat lisätä tai poistaa henkilöitä, napsauta **Omistajat-** tai **Jäsenet-rivin** **Muokkaa-linkkiä.** 
     
-Viestintä sivuston jakaminen Office 365-ryhmän kanssa:
+Viestintäsivuston jakaminen Office 365 -ryhmän kanssa:
   
-1. Siirry sivustoon selaimessa ja valitse oikeasta yläkulmasta **Jaa sivusto** . 
+1. Siirry sivustoon selaimessa ja valitse oikeasta yläkulmasta **Jaa sivusto.** 
     
-2. Kirjoita ryhmän nimi ja valitse sitten käyttö oikeus taso (luku, muokkaus tai täydet oikeudet).
+2. Kirjoita ryhmän nimi ja valitse sitten käyttöoikeustaso (Luku, Muokkaa tai Täydet oikeudet).
     
 Luo SharePoint-ryhmä käytettäväksi perinteisen sivuston kanssa:
   
-1. Siirry sivustoon selaimessa ja napsauta oikeassa yläkulmassa olevaa asetukset-kuvaketta.
+1. Siirry sivustoon selaimessa ja napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta.
     
-2. Valitse **sivuston asetukset**ja valitse sitten **käyttäjät ja käyttö oikeudet**-kohdasta **sivuston käyttö oikeudet**.
+2. Valitse **Sivuston asetukset**ja valitse sitten Käyttäjät ja **käyttöoikeudet**-kohdasta Sivuston **käyttöoikeudet**.
     
-3. Valitse käyttö oikeudet-väli lehdestä **Luo ryhmä**.
+3. Valitse Käyttöoikeudet-välilehdessä **Luo ryhmä**.
     
-[Yhdistä klassinen ryhmäsivusto uuteen Office 365-konserniin](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Perinteisen ryhmäsivuston yhdistäminen uuteen Office 365 -ryhmään](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Lisä tietoja SharePoint-ryhmien työskentelyllä](https://go.microsoft.com/fwlink/?linkid=874658)
+[Lisätietoja SharePoint-ryhmien käyttämisestä](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

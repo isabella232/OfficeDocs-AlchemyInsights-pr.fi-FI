@@ -1,9 +1,9 @@
 ---
-title: 1 048 5.7.750 palvelu ei ole käytettävissä. Asiakas voi lähettää rekisteröimätön toimialueista
+title: 1048 5.7.750 Palvelu ei ole käytettävissä. Asiakas on estetty lähettämästä rekisteröimättömiltä toimialueilta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494452"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676710"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 asiakkaan herätteiden lähettämisen toimialueen rekisteröinnin
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 Asiakas estetty lähettämästä rekisteröimätöntä verkkotunnusta
 
-Virhe ilmenee, kun suuri määrä viestejä lähetetään toimialueilta, jotka eivät ole valmisteltu Office 365 (hyväksyttyjä toimialueita lisätty ja vahvistettu).
+Virhe ilmenee, kun suuri määrä viestejä lähetetään toimialueilta, joita ei ole valmisteltu vuokraajassa (lisätty hyväksytyiksi toimialueiksi ja vahvistettu).
 
-Voit välttää tämän virheen, voit käyttää sertifikaattipohjaista postin virtauksen liitin jossa on valmisteltu toimialueen toimialueen sertifikaatin tai voit valmistella lähettämistä kaikki toimialueet.
+Voit välttää tämän virheen käyttämällä varmennepohjaista postin kulkuliitintä, jossa varmenteen toimialue on valmisteltu toimialue, tai voit valmistella kaikki lähettävät toimialueet.

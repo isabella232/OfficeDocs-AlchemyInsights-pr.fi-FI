@@ -1,9 +1,9 @@
 ---
-title: Pidä työntekijän
+title: Työntekijöiden poistuminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527828"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703712"
 ---
-# <a name="block-access-to-a-former-employee"></a>Entinen työntekijä käytön estäminen
+# <a name="block-access-to-a-former-employee"></a>Entisen työntekijän käytön estäminen
 
-Oletko työntekijä jättää ja Office 365-tietojen ja sähköpostin käyttö? Tee seuraavat toimet.
+Onko työntekijä lähdössä ja haluat estää pääsyn tietoihin ja sähköpostiin? Toimi seuraavasti.
   
-1. Siirry hallintakeskukseen, **käyttäjien** \> [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla.
+1. Siirry hallintakeskuksessa **Käyttäjät** \> [aktiiviset käyttäjät -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=834822)
 
-2. Valitse käyttäjä, jonka haluat torjua.
+2. Valitse estettävän käyttäjän nimi.
 
-3. Valitse käyttäjän nimi-kohdasta **Estä tämän käyttäjän**.
+3. Valitse käyttäjän nimen alta **Estä tämä käyttäjä**.
 
-4. Valitse **estää käyttäjää kirjautumasta** \> **tallentaa muutokset**.
+4. Valitse **Estä käyttäjää kirjautumasta** \> Tallenna **muutokset -kohdassa.**
 
-**Huomautus**: Kirjaudu ulos, jotkin sovellukset eivät ole välittömiä. Lisää tämän artikkelin toimien seuranta: [Poista entinen työntekijä-Office 365: ssä](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Huomautus:** Joidenkin sovellusten uloskirjautuminen ei ehkä ole välitöntä. Tämän artikkelin lisätoimien seuraaminen: [Entisen työntekijän poistaminen](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

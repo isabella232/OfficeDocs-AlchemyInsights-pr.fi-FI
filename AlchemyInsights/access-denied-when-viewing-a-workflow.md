@@ -1,31 +1,31 @@
 ---
-title: Käyttö estetty työn kulkua tarkasteltaessa
+title: Käyttö estetty työnkulun tarkastelemisen yhteydessä
 ms.author: pebaum
 author: pebaum
-ms.date: 11/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 1cfda8e08ada05858a28f2bede8c31261f9de351
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050522"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687327"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Käyttö estetty työn kulkua tarkasteltaessa
+# <a name="access-denied-when-viewing-a-workflow"></a>Käyttö estetty työnkulun tarkastelemisen yhteydessä
 
-SharePoint 2013-työn kulut, jotka yrittävät lähettää sähkö postia SharePoint-ryhmään, voivat epäonnistua käyttö estetty-virhe sanomassa, jos SharePoint-ryhmän jäsenyyttä ei ole määritetty kaikille.
+SharePoint 2013 -työnkulut, jotka yrittävät lähettää sähköpostia SharePoint-ryhmään, voivat epäonnistua Käyttö estetty -virhesanoman kanssa, jos SharePoint-ryhmän jäsenyyden arvoksi ei ole määritetty Kaikki.
   
- **Voit ratkaista tämän ongelman tekemällä seuraavat toimet:**
+ **Voit ratkaista tämän ongelman seuraavasti:**
   
  1. Salli kaikkien nähdä SharePoint-ryhmän jäsenet.
   
- 2. Poista SharePoint-ryhmä Sähkö posti viestin to-tai CC-riviltä.
+ 2. Poista SharePoint-ryhmä sähköpostin Vastaanottaja- tai Kopio-riviltä.
   
- 3. Lisää käyttäjät eksplisiittisesti to-tai CC-riville, jos SharePoint-ryhmän jäsenyyden näkyvyyttä ei voi muuttaa.
+ 3. Lisää käyttäjät erikseen Vastaanottaja- tai Kopio-riville, jos jäsenyyden näkyvyyttä ei voi muuttaa SharePoint-ryhmässä.
   
-Katso lisä tietoja kohdasta [http luvaton/_vti_bin/Client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Lisätietoja on [http:ssä http:n luvaton http-tiedoston /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

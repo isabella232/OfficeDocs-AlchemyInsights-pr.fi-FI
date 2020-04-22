@@ -1,5 +1,5 @@
 ---
-title: "\"Puuttuvien tiedostojen tai kansioiden vian määritys"
+title: "\"Puuttuvien tiedostojen tai kansioiden vianmääritys"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,36 +10,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053834"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692834"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDriven tai SharePointin puuttuvien tiedostojen tai kansioiden vian määritys
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Puuttuvien tiedostojen tai kansioiden vianmääritys OneDrivessa tai SharePointissa
 
-- [Tarkista sivuston roska kori](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Tarkista sivuston roskakori](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [SharePoint-sivuston roska korin kohteiden palauttaminen](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [SharePoint-sivuston roskakorin kohteiden palauttaminen](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
-**Tiedostojen palauttaminen-ominaisuus**
+**Tiedostojen palauttamisominaisuus**
 
-Jos paljon OneDrivea tai SharePoint-tiedostoja poistetaan, korvataan, vioittuu tai haitta ohjelmilta tartuttaa, voit palauttaa koko OneDriven tai SharePoint-kirjastosi aiempaan aikaan käyttämällä tiedostojen palauttaminen-toimintoa.
+Jos haittaohjelma poistaa, korvaa, vioittuu tai tartuttaa useita OneDrive- tai SharePoint-tiedostoja, voit palauttaa koko OneDrive- tai Sharepoint-kirjaston aiempaan aikaan tiedostojen palautustoiminnon avulla.
 
 - [OneDrive-kirjaston palauttaminen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-- [Asiakirja kirjaston palauttaminen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Tiedostokirjaston palauttaminen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Tarkista tiedoston historia käyttämällä valvonta Lokiinkirjaamista tai tiedoston aktiviteetti ruutua**
+**Tarkista tiedoston historia valvontalokin tai tiedoston aktiviteettiruudun avulla**
 
-[Tarkista auditointi raportit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> siirtymällä [tähän](https://protection.office.com/#/unifiedauditlog)
+[Tarkista tarkastusraportit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> siirtymällä [tästä](https://protection.office.com/#/unifiedauditlog)
 
-Tarkista tiedoston historia [tiedosto-aktiviteetti](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) ruudun avulla.
+Tarkista [tiedoston](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) historia tiedoston aktiviteettiruudun avulla.
 
-Tarkista paikallisen tieto koneen OneDrive-synkronointi asiakas ohjelma.  Jos synkronoit tieto koneesi tiedostoja OneDriven synkronointi ohjelman kautta, tarkista Paikallinen synkronointi-kansiosta, että se on ladattu oikein. Varmista, että tarkistat myös paikallisen tieto koneen roska korin.
+Tarkista paikallisen tietokoneen OneDrive-synkronointiohjelma.  Jos synkronoit tietokoneen tiedostot OneDrive Sync -asiakasohjelman kautta, tarkista paikallisen synkronointikansion avulla, että ne on ladattu oikein. Varmista, että tarkistat myös roskakorin paikallisessa tietokoneessa.
 
 
 

@@ -1,9 +1,9 @@
 ---
-title: 1575-PowerApps ja suunnitella laajennus Microsoft Flow
+title: 1575-PowerApps- ja Microsoft Flow -palvelupaketin laajennus
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667026"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps ja Microsoft Flow suunnitelman tunniste
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps- ja Microsoft Flow -palvelupaketin laajennus
 
-Jos aiot pyytää suunnitelman laajennus **Microsoft virtauksen** tai **PowerApps** ja että vuokralaisen on jo aktiiviset käyttäjät on jokin seuraavista ominaisuuksista, ei ole tarpeen tuen pyyntö tiedostoon.
+Jos aiot pyytää **Microsoft Flow'n** tai **PowerAppsin** palvelupaketin laajennusta ja vuokraajallasi on jo jonkin seuraavista ominaisuuksista aktiivisia käyttäjiä, tukipyyntöä ei tarvitse tehdä.
 
-- Luominen ja mukautettuja yhdistämistoimintoja PowerApps ja Microsoftin Flow julkistaminen
-- Mukautetut HTTP-toiminnot integroitu työnkulku SharePoint- ja OneDrive ulkopuolella
-- Paikalliseen data-yhdyskäytävän kautta paikalliseen tietojen integrointi
+- Mukautettujen yhdistimien luominen ja julkaiseminen PowerAppsissa ja Microsoft Flow'ssa
+- Flow'hun SharePointin ja OneDriven ulkopuolelle integroidut HTTP-mukautetut toiminnot
+- Paikallisten tietojen integrointi paikallisen tietoyhdyskäytävän kautta
 
-Asiakkaiden on aktiivisia käyttäjiä näiden ominaisuuksien saat automaattisen laajennuksen 31. tammikuuta 2020 saakka tai toimikautensa aiemmin Office 365-tilauksesi voimassaolon, kumpi on pidempi.
+Asiakkaat, joilla on aktiivisia käyttäjiä näissä ominaisuuksissa, saavat automaattisen laajennuksen 31.1.2020 saakka tai nykyisen Microsoft 365 -tilausaikansa päättymisen, sen mukaan, kumpi näistä on pidempi.

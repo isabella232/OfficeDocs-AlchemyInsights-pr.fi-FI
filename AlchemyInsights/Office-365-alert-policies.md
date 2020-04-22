@@ -1,5 +1,5 @@
 ---
-title: 1385-toimisto-365-hälytys-käytännöt
+title: 1385-Office-365-hälytyskäytännöt
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661293"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687615"
 ---
-# <a name="office-365-alert-policies"></a>Office 365-hälytys käytännöt
+# <a name="alert-policies"></a>Hälytyskäytännöt
 
-Office 365 Security & Compliance Centerissä on [oletusarvoiset hälytys käytännöt](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , jotka laukaisevat ilmoituksia organisaatioille, joilla on Office 365 Enterprise tai Office 365 Yhdysvaltain hallituksen E1/G1, E3/G3 tai E5/G5-tilaus. Tämän vuoksi järjestelmänvalvojat voivat saada Office365Alerts@microsoft.com lähettämän ilmoitus Sähkö posti-ilmoituksen, jonka aihe on seuraavankaltainen: *hälytys käytännön nimi*. Hälytys ilmoituksia lähetetään, kun hälytyksiä käynnistetään tavallisiksi toiminnoille, kuten käyttäjille:
+Microsoft 365:n tietoturva& Compliance Center issä on [oletushälytyskäytäntöjä,](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) jotka käynnistävät hälytykset organisaatioille, joilla on Office 365 Enterprise- tai Office 365 US Government E1/G1-, E3/G3- tai E5/G5-tilaus. Tämän vuoksi järjestelmänvalvojat voivat saada Office365Alerts@microsoft.com lähettämän ilmoitusilmoituksen, jonka aiherivi on "Matalan vakavuusilmoituksen: *hälytyskäytännön nimi".* Hälytysilmoitukset lähetetään, kun hälytyksiä käynnistetään yleisille toiminnoille, esimerkiksi silloin, kun käyttäjät:
 
-- Luo Saapuneet-kansion säännöt, jotka välittää sähkö postia.
-- Määritä käyttö oikeudet posti laatikkoonsa.
-- Jakaa tai poistaa suuren määrän tiedostoja SharePoint-tiedostojen jakamisessa.
-- Luo eDiscovery-hakuja ja vie haku tuloksia.
+- Luo saapuneet-kansion sääntöjä, jotka välittävät sähköpostia.
+- Määritä postilaatikon käyttöoikeudet.
+- Jaa tai poista suuri määrä tiedostoja SharePoint-tiedostojen jakamisessa.
+- Luo eDiscovery-hakuja ja vie hakutulokset.
 
-Voit tarkistaa ja toimia hälytyksellä:
+Hälytyksen tarkistaminen ja sen mukaan toimiminen:
 
-1. Siirry [suojaus & yhteensopivuus keskukseen](https://protection.office.com) ja Kirjaudu sisään.
-2. Valitse **hälytykset** > **Näytä hälytykset**.
-3. Napsauttamalla ilmoitusta saat näkyviin pikaikki-sivun, jossa on tietoja hälytystä.
+1. Siirry [Suojaus-& yhteensopivuuskeskukseen](https://protection.office.com) ja kirjaudu sisään.
+2. Valitse **Hälytykset** > **Näytä hälytykset**.
+3. Napsauttamalla ilmoitusta saat näkyviin pikaikkunasivun, jossa on tietoja ilmoituksesta.
 
-Voit tehdä hälytyksen, kuten [poistaa epäilyttävän Saapuneet-kansion säännön](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Voit myös yksinkertaisesti sulkea hälytyksen valitsemalla hälytyksen pikaikki-sivulta **Ratkaise** .
+Voit tehdä hälytyksen toimia, kuten [poistaa epäilyttävän Saapuneet-kansion säännön](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Voit myös sulkea ilmoituksen valitsemalla hälytyspikaikkunasivulla **Ratkaise.**
 
-Lisä tietoja hälytys käytäntöjen määrittämisestä ja Hallin nasta [on tässä artikkelissa](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Lisätietoja hälytyskäytäntöjen määrittämisestä ja hallinnasta on [tässä artikkelissa](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Tärkeää**: ilmoitus Sähkö posti-ilmoituksia Microsoftilta ei koskaan pyydä sinua toimi seuraavasti:
+**Tärkeää**: Microsoftin sähköposti-ilmoitukset eivät koskaan pyydä sinua tekemään seuraavaa:
 
-- Anna sala sana
-- Tilin suojaus tietojen tarkistaminen
-- Todenna itsesi uudelleen
+- Salasanan anto
+- Tilin suojaustietojen vahvistaminen
+- Vahvista itsesi uudelleen
 
-Jos saat Sähkö posti viestin näin, se ei lähetetty Microsoft ja olisi pidettävä phishing huijaus. Jos näin tapahtuu, [Ilmoita siitä Microsoftille](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Jos saat sähköpostiviestin näin, Microsoft ei lähettänyt sitä, ja sitä tulisi pitää tietojenkalasteluhuijauksena. Jos näin tapahtuu, [ilmoita siitä Microsoftille](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

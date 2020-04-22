@@ -1,22 +1,22 @@
 ---
-title: Olet pelkkiä sähköposti aiheuttaa viiveitä tai postin jonossa?
+title: Näkyykö sähköpostin viivästyksiä tai jonossa olevaa postia?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765023"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703784"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Olet pelkkiä sähköposti aiheuttaa viiveitä tai postin jonossa?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Näkyykö sähköpostin viivästyksiä tai jonossa olevaa postia?
 
-Olemme äskettäin käynnistetty kuinka vanha Office 365: n SMTP-päätepisteet. Voit käyttää MX-tietueet ja smart isännät ennen 2012 olivat Office 365 nämä kohdearvot. Jos kuitenkin jokin vanhempi näistä arvoista, tarvitset päivittää Office 365-päätepisteen tuettu arvo. Lisätietoja tämän [tukevat kt](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Aloimme hiljattain poistaa vanhempia SMTP-päätepisteitä. Näitä kohdearvoja voitiin käyttää MX-tietueissa ja älykkäissä isännissä ennen vuotta 2012. Jos käytät edelleen jotakin näistä vanhemmista arvoista, päätepiste on päivitettävä tuetuksi arvoksi. Lisätietoja on tämän [tukikb:n kohdassa](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

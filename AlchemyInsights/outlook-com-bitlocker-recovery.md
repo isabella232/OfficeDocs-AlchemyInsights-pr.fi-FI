@@ -1,9 +1,9 @@
 ---
-title: Outlook.com BitLocker recovery
+title: Outlook.com BitLocker-palautus
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 0f9c7669a91c3bf197cd19d566296dd0dedf62cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542734"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681893"
 ---
-# <a name="bitlocker-recovery"></a>BitLocker-palautuksen
+# <a name="bitlocker-recovery"></a>BitLocker-palautus
 
-Siirry tarkastelemaan BitLocker-oletuspalautusavaimet [laitteet](https://account.microsoft.com/devices/recoverykey) .
+Siirry [Laitteet-kohtaan,](https://account.microsoft.com/devices/recoverykey) niin voit tarkastella BitLocker-palautusavaimiasi.
 
-[Löydä oma BitLocker-palautusavain](https://support.microsoft.com/help/4026181)on lisätietoja.
+Lisätietoja on ohjeaiheessa [BitLocker-palautusavaimen](https://support.microsoft.com/help/4026181) etsiminen.

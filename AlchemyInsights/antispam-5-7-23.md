@@ -1,5 +1,5 @@
 ---
-title: Antispam-5.7.23
+title: Roskapostin esto - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 9c9bc2d04fb8efaa5e75194b4ca09316d24e018e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682116"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676494"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Korjaa sähkö postin toimitus ongelmat virhe koodilla 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Korjaa sähköpostin toimitusongelmat virhekoodille 5.7.23
 
-Tarkista verkko tunnuksesi SPF DNS-tietue julkisesti saatavilla olevalla SPF-tai DNS-tietueen tarkistus sivulla verkossa.
+Tarkista toimialueesi SPF-DNS-tietue verkossa julkisesti saatavilla olevassa SPF- tai DNS-tietueen tarkistuksessa.
 
-Varmista, että Office 365 ei tunnistanut lähtevää viestiä roska postiksi ja että se on reititetty [suuren riskin toimitus varannon](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages)kautta. Suuren riskin toimitus varannon viestit eivät läpäise SPF-tarkastuksia, joten kohde Sähkö posti organisaatio ei hyväksy niitä.
+Varmista, että Microsoft ei tunnistanut lähtevää viestiä roskapostiksi ja että se reititetään [suuren riskin toimituspoolin](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages)kautta. Suuren riskin toimituspoolissa olevat viestit eivät läpäise SPF-tarkistuksia, joten kohdesähköpostiorganisaatio ei hyväksy niitä.
 
-Jos ongelma jatkuu, sinun on ehkä otettava yhteyttä Sähkö posti isännän ylläpitäjään, johon yrität lähettää sähkö postia. Merkitse heijastus viestissä käytettävissä oleva yksityiskohtainen ulkoinen virhe.  Office 365-tuki ei välttämättä pysty auttamaan.
+Jos ongelma ei poistu, sinun on ehkä otettava yhteyttä sen sähköpostiisännän järjestelmänvalvojaan, johon yrität lähettää sähköpostia. Merkitse muistisanomassa käytettävissä oleva yksityiskohtainen ulkoinen virhe muistiin. Microsoftin tuki ei ehkä voi auttaa enempää.

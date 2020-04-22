@@ -1,9 +1,9 @@
 ---
-title: Palauta poistetut sähköposti Outlook.com-
+title: Palauta poistetut sähköpostit Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545348"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666954"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Palauta poistetut sähköposti Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Palauta poistetut sähköpostiviestit Outlook.com
 
-1. Valitse vasemmanpuoleisessa ruudussa **Poistetut kohteet**.
-2. Valitse kohde, jonka haluat palauttaa ja valitse **Palauta**.
-3. Jos viesti ei ole Poistetut kohteet, valitse **Palauta tästä kansiosta poistettuja kohteita** ikkunan yläosassa.
+1. Valitse vasemmasta ruudusta **Poistetut**.
+2. Valitse palautettava kohde ja valitse **Palauta**.
+3. Jos viesti ei ole Poistetut-kansiossa, valitse ikkunan yläreunasta **Palauta tästä kansiosta poistetut kohteet.**
 
- **Poistettujen kohteiden tärkeitä tietoja:**
+ **Tärkeitä tietoja poistetuista kohteista:**
   
-- Poistaa Poistetut-kansion kohteet ovat palautettavissa oleva 30 päivän.
-- 365 päivää ei ole kirjautunut tilillesi, jos sähköpostiviesti poistetaan eikä sitä voi palauttaa.
-- Ei ole mahdollista palauttaa email lapsi tilit on poistettu.
+- Poistetut-kansiosta poistetut kohteet ovat palautettavissa 30 päivän ajan.
+- Jos et ole kirjautunut tilillesi 365 päivään, sähköpostiosoitteesi poistetaan eikä sitä voi palauttaa.
+- Lapsitileiltä poistettuja sähköpostiviestejä ei voi palauttaa.
 
-Jos haluat lisätietoja, katso [palauttaminen poistetut sähköpostiviestit Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on [ohjeaiheessa Poistettujen sähköpostiviestien palauttaminen Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

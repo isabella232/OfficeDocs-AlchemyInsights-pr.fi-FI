@@ -1,9 +1,9 @@
 ---
-title: Raportti tiedostojen ja kansioiden jakamisesta SharePoint-sivustossa
+title: SharePoint-sivuston tiedostojen ja kansioiden jakamisesta ilmoittaminen
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693159"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Raportti tiedostojen ja kansioiden jakamisesta SharePoint-sivustossa
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>SharePoint-sivuston tiedostojen ja kansioiden jakamisesta ilmoittaminen
 
-Voit luoda CSV-tiedoston, jossa on yksityiskohtaisesti kaikki tietyn SharePoint-sivuston tai OneDrive-kirjaston yksilölliset tiedosto-, käyttäjä-, käyttö oikeus-ja linkki-oikeudet. Tämä voi auttaa ymmärtämään, miten jakaminen on käytössä ja onko tiedostoja tai kansioita jaetaan vieraille.
+Voit luoda CSV-tiedoston, jossa on yksityiskohtaiset tiedot tietyssä SharePoint-sivustossa tai OneDrive-kirjastossa olevasta yksilöllisestä tiedostosta, käyttäjästä, käyttöoikeuksista ja linkeistä. Tämä voi auttaa sinua ymmärtämään, miten jakamista käytetään ja jaetaanko tiedostoja tai kansioita vieraiden kanssa.
 
-Saat lisä tietoja [SharePoint-sivuston tiedostojen ja kansioiden jakamisesta](https://docs.microsoft.com/sharepoint/sharing-reports).
+Lisätietoja on [sharepoint-sivuston tiedostojen ja kansioiden jakamisesta](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Tämä ominaisuus on tällä hetkellä käytössä ensimmäisen vapautuksen vuokralaisten ja vähitellen otetaan käyttöön kaikille tuotannon vuokralaisten.
+> Tämä ominaisuus on tällä hetkellä käytössä First Release -vuokralaivoissa, ja se otetaan vähitellen käyttöön kaikille tuotantovuokraajille.

@@ -1,8 +1,8 @@
 ---
-title: Virhe asennettaessa office 0-1036
+title: Virhe 0-1036, kun asennat toimistoa
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527504"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703243"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Virhe asennettaessa office 0-1036
+# <a name="error-0-1036-when-installing-office"></a>Virhe 0-1036, kun asennat toimistoa
 
-Kokeile seuraavia keinoja korjata Office-virhe 0-1036:
+Yritä korjata Office-virhe 0-1036 seuraavasti:
   
 - Käynnistä tietokone uudelleen ja yritä [asentaa Office](https://portal.office.com/OLS/MySoftware.aspx) uudelleen.
 
-- Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kun se avautuu, **Poista Office** -tuotteista Valitse versio, jonka haluat poistaa, ja valitse **Seuraava**.
+1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus -kohdasta** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
-2. Edelleen näytöt läpikäynti ja Käynnistä tietokone kehotettaessa uudelleen.
+2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistämisen jälkeen tukea ja palautus avustajan uudelleen avautuu automaattisesti asennuksen viimeistelemiseksi.
+    Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistamisen viimeistelemiseksi.
 
-3. Noudata jäljellä kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulkea avustajan.
+3. Noudata jäljellä olevia kehotteita ja [asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.
 
-- [Käytä Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) asentaa Office
+- [Officen asentaminen Officen offline-asennusohjelman avulla](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)

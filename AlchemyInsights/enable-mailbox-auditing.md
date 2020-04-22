@@ -1,9 +1,9 @@
 ---
-title: Ota käyttöön posti laatikon valvonta
+title: Postilaatikon valvonnan ottaminen käyttöön
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703568"
 ---
-# <a name="enable-mailbox-auditing"></a>Ota käyttöön posti laatikon valvonta
+# <a name="enable-mailbox-auditing"></a>Postilaatikon valvonnan ottaminen käyttöön
 
-Jos haluat ottaa posti laatikon valvonnan käyttöön joko yksittäisessä tai koko organisaatiossa, seuraavat cmdlet-komennot on suoritettava Etävirralla:
+Postilaatikon valvonnan ottaminen käyttöön yksittäiselle käyttäjälle tai koko organisaatiolle edellyttää seuraavia cmdlet-komentoja Etävirtaliittymästä:
   
- **Yksittäinen käyttäjä**
+ **Yksi käyttäjä**
   
-Set-posti laatikko-identiteetti "Jane Dow"-AuditEnabled $true
+Set-Mailbox -Käyttäjätiedot "Jane Dow" -AuditEnabled $true
   
  **Organisaatio**
   
-Get-posti laatikko-ResultSize Unlimited-suodatin {Vastaanottaenttypedetails-EQ "Userposti laatikko"} | Aseta-posti laatikko-AuditEnabled $true
+Get-Mailbox -ResultSize Rajoittamaton -Suodatin {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled-$true
   
 [Opi lisää](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   

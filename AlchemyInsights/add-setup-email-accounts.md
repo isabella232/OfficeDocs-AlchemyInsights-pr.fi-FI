@@ -1,8 +1,8 @@
 ---
-title: 764 lisää/Määritä Sähkö posti tilejä
+title: 764 Sähköpostitilien lisääminen ja määrittäminen
 ms.author: pdigia
 author: pebaum
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660897"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671382"
 ---
-# <a name="setup-email-accounts"></a>Määritä Sähkö posti tilit
+# <a name="setup-email-accounts"></a>Sähköpostitilien määrittäminen
 
-1. Valitse Outlookissa **tiedosto** > **tiedot** > **Lisää tili**.
+1. Valitse Outlookissa **Tiedoston** > **tiedot** > **Lisää tili**.
 
-2. Anna Sähkö posti osoitteesi ja valitse sitten **Yhdistä**.
+2. Kirjoita sähköpostiosoitteesi ja valitse sitten **Yhdistä**.
 
-3. Anna Sala sanasi ja valitse sitten **OK**.
+3. Anna salasanasi ja valitse sitten **OK**.
 
 4. Voit lisätä useita tilejä toistamalla nämä vaiheet.
 
     > [!NOTE]
-    > Jotkin Sähkö posti tilit, kuten Gmail, Yahoo ja iCloud, edellyttävät kaksiosaisen todennuksen perustamista, jotta voit käyttää Outlookia sähkö postin lähettämiseen ja vastaanottamiseen. Lisä tietoja on kohdassa [Sähkö posti tilin lisääminen Outlookiin](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+    > Jotkin sähköpostitilit, kuten Gmail, Yahoo ja iCloud, edellyttävät kaksivaiheisen todennuksen määrittämisen, jotta voit käyttää Outlookia sähköpostin lähettämiseen ja vastaanottamiseen. Lisätietoja [on ohjeaiheessa Sähköpostitilin lisääminen Outlookiin.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   

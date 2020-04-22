@@ -1,9 +1,9 @@
 ---
-title: 1245-tuonti-PST-palvelut
+title: 1245-Tuonti-PST-palvelut
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496341"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687759"
 ---
-# <a name="office-365-import-service"></a>Office 365 tuo service
+# <a name="microsoft-365-import-service"></a>Microsoft 365:n tuontipalvelu
 
-Office 365 tuo palvelun avulla voit joukkotuonnin useita PST-tiedostoja Exchange Online-postilaatikoihin.
+Microsoft 365 Import -palvelun avulla voit joukkotuoda useita PST-tiedostoja Exchange Online -postilaatikoihin.
 
-Tuo palvelu ja tuonnin aloittaminen:
+Tuontipalvelun käyttäminen ja tuontiprosessin aloittaminen:
 
-1. Siirry [Security & Compliance Centeriin](https://protection.office.com) ja kirjautua sisään Office 365-organisaatiosi järjestelmänvalvojatilin tunnistetietoja.
+1. Siirry [Suojaus-& yhteensopivuuskeskukseen](https://protection.office.com) ja kirjaudu sisään käyttämällä organisaatiosi järjestelmänvalvojan tilin tunnistetietoja.
 
-2. Valitse **Security & Compliance Centerin**vasemmanpuoleisesta **tiedot hallinnon > tuo**.
+2. Valitse **Suojaus& yhteensopivuuskeskuksen**vasemmasta ruudusta **Tietojen hallinta > tuonti**.
 
-3. Valitse **Tuo** -sivulla **Tuo uusi työ**.
+3. Valitse **Tuo-sivulla** **Uusi tuontityö**.
 
-4. Ohjatun toiminnon vaiheet loppuun, noudata seuraavia [vaiheittaisia ohjeita](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Voit suorittaa ohjatun toiminnon vaiheet noudattamalla näitä [vaiheittaiset ohjeet](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Tärkeää**: suojaus & Compliance Centeriin-tietokantasivun **tuominen** , on, voidaan määrittää [tarvittavat oikeudet](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Tärkeää**: Jos haluat käyttää Suojaus- & yhteensopivuuskeskuksen **Tuonti-sivua,** sinulle on määritetty tarvittavat [käyttöoikeudet](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Jos haluat tuoda PST postilaatikkoon, lue [tämä artikkeli](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Jos haluat vain tuoda PST postilaatikkoosi, lue [tämä artikkeli](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

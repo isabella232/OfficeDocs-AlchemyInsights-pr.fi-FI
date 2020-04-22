@@ -1,5 +1,5 @@
 ---
-title: 'Asennus DKIM Office 365: ssä'
+title: DKIM:n määrittäminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666261"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645669"
 ---
-# <a name="setup-dkim-in-office-365"></a>Asennus DKIM Office 365: ssä
+# <a name="setup-dkim"></a>DKIM:n määrittäminen
 
-DKIM määrittäminen Office 365: ssä mukautetut toimialueet ovat täydelliset ohjeet [tähän](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Täydelliset ohjeet DKIM:n määrittämiseen microsoft 365:n mukautetuille toimialueille ovat [täällä](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. **Kutakin** mukautettua toimialuetta täytyy luoda **kaksi** DKIM CNAME-tietueita toimialueen DNS-sivustotilapalvelun (yleensä toimialueen registrar). Esimerkiksi contoso.com ja fourthcoffee.com vaativat neljä DKIM CNAME-tietueet: contoso.com ja kaksi fourthcoffee.com, kaksi.
+1. **Jokaiselle** mukautetulle toimialueelle on luotava **kaksi** DKIM CNAME -tietuetta toimialueen DNS-isännöintipalveluun (yleensä toimialueen rekisteröintipalveluun). Esimerkiksi contoso.com ja fourthcoffee.com edellyttää neljää DKIM CNAME -tietuetta: kaksi contoso.com ja kaksi fourthcoffee.com.
 
-   **Kutakin** mukautettua toimialuetta DKIM CNAME-tietueita käytetään seuraavissa muodoissa:
+   **Kunkin** mukautetun toimialueen DKIM CNAME -tietueet käyttävät seuraavia muotoja:
 
    - **Isännän nimi**:`selector1._domainkey.<CustomDomain>`
 
-     **Osoite tai arvo viittaa**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Osoite- tai arvopisteet:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: 3600
+     **Kävi koulua TTL**: 3600
 
    - **Isännän nimi**:`selector2._domainkey.<CustomDomain>`
 
-     **Osoite tai arvo viittaa**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Osoite- tai arvopisteet:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: 3600
+     **Kävi koulua TTL**: 3600
 
-   \<DomainGUID\> on teksti vasemmalla puolella `.mail.protection.outlook.com` mukautetut MX-tietueen mukautetun toimialueen (esimerkiksi `contoso-com` , toimialueen contoso.com). \<InitialDomain\> on toimialue, jota käytit Kun rekisteröidyit Office 365 (esimerkiksi contoso.onmicrosoft.com) varten.
+   \<DomainGUID\> on mukautetun toimialueen `.mail.protection.outlook.com` mukautetun MX-tietueen (esimerkiksi `contoso-com` toimialueen contoso.com) mukautetun MX-tietueen vasemmalla puolella oleva teksti. \<InitialDomain\> on toimialue, jota käytit rekisteröityessäsi Microsoft 365:een (esimerkiksi contoso.onmicrosoft.com).
 
-2. Kun olet luonut CNAME-tietueet, mukautettujen toimialueiden, toimimalla seuraavien ohjeiden mukaan:
+2. Kun olet luonut Mukautettujen toimialueiden CNAME-tietueet, toimi seuraavasti:
 
-   a. [Kirjaudu Office 365:een](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) antamalla työpaikan tai oppilaitoksen tili.
+   A. [kirjaudu Microsoft 365:een](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) työpaikan tai oppilaitoksen tilillä.
 
-   b. Valitse vasemmasta yläkulmasta sovellusten käynnistyskuvake ja valitse **Järjestelmänvalvoja**.
+   B. Valitse vasemmasta yläkulmasta sovellusten käynnistyskuvake ja valitse **Järjestelmänvalvoja**.
 
-   c. Vasemmassa siirtymispalkissa Laajenna **Admin** ja valitse **Exchange**.
+   C. Laajenna vasemmassa alakulmassa **Järjestelmänvalvoja** ja valitse **Exchange**.
 
-   d. Siirry **Suojaa** > **DKIM**.
+   D. Siirry **Kohtaan Suojaus** > **DKIM**.
 
-   e. Valitse toimialue ja valitse sitten **merkki**viesteissä DKIM-allekirjoituksia sisältävien tämän toimialueen **käyttöön** . Toista tämä vaihe kunkin mukautetun toimialueen.
+   E. Valitse toimialue ja valitse sitten **Ota käyttöön** tämän **toimialueen Sign-viesteille DKIM-allekirjoituksilla**. Toista tämä vaihe jokaisen mukautetun toimialueen kohdalla.

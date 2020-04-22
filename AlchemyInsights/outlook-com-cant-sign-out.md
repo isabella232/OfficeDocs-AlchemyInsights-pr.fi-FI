@@ -1,9 +1,9 @@
 ---
-title: Outlook.com voi kirjautua
+title: Outlook.com ei voi kirjautua ulos
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547812"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666846"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Kirjautuminen ulos Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Outlook.com ei voi kirjautua ulos
 
-Jos haluat kirjautua ulos Outlook.com, nimen tai kuvan näytön oikeassa yläkulmassa, valitse **Kirjaudu ulos**.
+Jos haluat kirjautua ulos Outlook.com, valitse nimesi tai kuvasi näytön oikeasta yläkulmasta ja valitse sitten **Kirjaudu ulos**.
 
-Jos et näe kuvaa näytön yläreunaan, tarkista Jos mainosten esto on käytössä. Joskus tämä estää kuvan näyttäminen.
+Jos et näe kuvaasi näytön yläreunassa, tarkista, onko mainosten esto käytössä. Se estää joskus kuvaa näkymästä.
 
-Jos et edelleenkään voi kirjautua pois Outlook.com, valitse [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Sulje kaikki selainikkunat.
+Jos kirjautuminen ulos Outlook.com ei vieläkään onnistu, sulje [https://login.live.com/logout.srf](https://login.live.com/logout.srf) kaikki selainikkunat.

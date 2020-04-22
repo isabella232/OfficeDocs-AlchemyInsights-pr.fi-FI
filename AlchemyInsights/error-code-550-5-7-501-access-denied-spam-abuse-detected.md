@@ -1,8 +1,8 @@
 ---
-title: Virhe koodi 550 5.7.501 käyttö estetty, roska postin väärinkäyttö havaittu
+title: Virhekoodi 550 5.7.501 Käyttö estetty, roskapostin väärinkäyttö havaittu
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740138"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703023"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 käyttö estetty, roska postin väärinkäyttö havaittu
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Käyttö estetty, roskapostin väärinkäyttö havaittu
 
-Yleensä tämä sanoma tulee näyttöön, kun käyttäjät lähettävät Sähkö posti viestejä IP-osoitteista käyttäen alkuperäistä *. onmicrosoft.com* -toimi aluetta, joka on määritetty uusille vuokralaisten toimistolle 365. Helpoin tapa ratkaista tämä ongelma on:
+Yleensä tämä sanoma tulee näyttöön, kun käyttäjät lähettävät sähköpostiviestejä IP-osoitteista käyttämällä microsoft 365:n uusille vuokraajille määritettyä *.onmicrosoft.com-toimialueen* alkutoimialuetta. Helpoin tapa ratkaista tämä ongelma on:
 
-1. [Lisää toimi alue vuokraajaan](https://docs.microsoft.com//office365/admin/setup/add-domain).
+1. [Toimialueen lisääminen vuokraajaan](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [Vaihda käyttäjän ensisijainen Sähkö posti osoite](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) juuri lisäämäsi uuden mukautetun verkko tunnuksen kohdalle.
+2. [Muuta käyttäjien ensisijainen sähköpostiosoite](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) uuteen juuri lisäämääsi mukautettuun toimialueeseen.

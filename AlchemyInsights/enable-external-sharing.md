@@ -1,42 +1,42 @@
 ---
-title: Ota käyttöön ulkoinen jakaminen
+title: Ota ulkoinen jakaminen käyttöön
 ms.author: pebaum
 author: pebaum
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 5d8de2b0f29409b585451b160e421ad7eaac4cef
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052718"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703604"
 ---
-# <a name="enable-external-sharing"></a>Ota käyttöön ulkoinen jakaminen
+# <a name="enable-external-sharing"></a>Ota ulkoinen jakaminen käyttöön
 
- Voit varmistaa, että jakaminen on käytössä SharePoint Onlinessa:
+ Voit varmistaa, että jakaminen on otettu käyttöön SharePoint Onlinessa seuraavasti:
   
-- **Globaali jakaminen**
+- **Maailmanlaajuinen jakaminen**
     
-  - Portaali-\> ulkoisen jakamisen\> yleiskatsaus-sivustot, anna ulkoisten ihmisten käyttää sivustoja:
+  - Portaali\> - Ulkoinen\> jakaminen - Jakamisen yleiskatsaus - Sivustot, Anna ulkoisten ihmisten käyttää sivustojasi: ON
     
-  - Portaali-\> ulkoiset jako-\> sivustot-"Anna ulkoisten ihmisten käyttää sivustoja"-valinta ruutu
+  - Portaali\> - Ulkoinen\> jakaminen - Sivustot - "Anna ulkoisten ihmisten käyttää sivustojasi" -valintaruutu
     
-- **Järjestelmänvalvojan jakaminen-SharePointin hallinta keskus**
+- **Järjestelmänvalvojan jakaminen - SharePoint-hallintakeskus**
     
-    Ulkoinen jakaminen-Varmista, että jompikumpi kahdesta vaihto ehdoista on valittu:
+    Ulkoinen jakaminen - varmista, että jompikumpi seuraavista vaihtoehdoista on valittuna:
     
-  - "Salli ulkoiset käyttäjät, jotka hyväksyvät jakamis kutsut ja kirjautumista todennetuille käyttäjille"
+  - "Salli ulkoiset käyttäjät, jotka hyväksyvät kutsujen jakamisen ja kirjautuvat sisään todennettuina käyttäjinä"
     
-  - "Salli molemmat ulkoiset käyttäjät, jotka hyväksyvät jakamis kutsut ja anonyymit vieras linkit"
+  - "Salli sekä ulkoiset käyttäjät, jotka hyväksyvät kutsujen jakamisen että anonyymit vieraslinkit"
     
 - **Yksittäiset sivustokokoelmat**
     
-  - Sivustokokoelmat-valitse kyseinen sivustokokoelma ja valitse sitten jako-valinta nauhasta-\> Varmista, että jako valinnat on valittu.
+  - Sivustokokoelmat - Valitse kyseinen sivustokokoelma ja valitse sitten\> valintanauhasta Jakaminen varmista, että jompikumpi jakovaihtoehdoista on valittu.
     
-Lisä tietoja ulkoisen jakamisen käytöstä on kohdassa [ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä SharePoint Onlinessa.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Lisätietoja ulkoisen jakamisen ottaminen käyttöön on [ohjeaiheessa Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä SharePoint Onlinessa.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

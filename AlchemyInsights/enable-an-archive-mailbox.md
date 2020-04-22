@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132608"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703676"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arkistopostilaatikon ottaminen käyttöön
 
@@ -25,7 +25,7 @@ Voit luoda arkistopostilaatikon seuraavasti:
   
 1. Siirry osoitteeseen [https://protection.office.com](https://protection.office.com).
 
-2. Kirjaudu Office 365:een järjestelmänvalvojan tililläsi.
+2. Kirjaudu Microsoft 365:een järjestelmänvalvojan tililläsi.
 
 3. Valitse &amp; Tietoturvan yhteensopivuuskeskuksen vasemmasta ruudusta **Tietojen hallintaarkisto** \> **Archive**.
 
@@ -51,6 +51,6 @@ Jaetun postilaatikon arkiston ottaminen käyttöön:
 
 Lisätietoja on seuraavissa artikkeleissa:
   
-- [Arkistopostilaatikoiden ottaminen käyttöön Office 365:ssä](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Arkistopostilaatikoiden ottaminen käyttöön](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Arkisto- ja poistokäytännön määrittäminen Office 365:ssä](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Arkisto- ja poistokäytännön määrittäminen](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

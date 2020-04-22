@@ -1,9 +1,9 @@
 ---
-title: 924 rajat
+title: 924 Säännön rajat
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 3cb63eafc066ada20da7eb3b762424a3ef9e0026
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551376"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681857"
 ---
-# <a name="rule-limits"></a>Rajoitukset
+# <a name="rule-limits"></a>Säännön rajat
 
-Rajat voivat vaihdella eri Office 365 ja erillinen asetukset. Lisätietoja [kirjauskansion, kuljetus- ja Saapuneet-kansion säännön rajat](https://technet.microsoft.com/library/exchange-online-limits.aspx).
+Sääntörajat voivat vaihdella palvelupaketin vaihtoehtojen ja itsenäisen vaihtoehdon välillä. Lisätietoja on kohdassa [Journal-, Transport- ja Saapuneet-kansion sääntörajoitukset](https://technet.microsoft.com/library/exchange-online-limits.aspx).
