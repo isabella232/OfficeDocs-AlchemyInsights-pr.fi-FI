@@ -1,9 +1,9 @@
 ---
-title: 'Office 365: n koulutus suunnitelmat ja hinnoittelu'
+title: Office 365 for Education -palvelupaketit ja -hinnat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 01a75079f56c5ff91e54e2a085d9969521bab82c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389465"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713391"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="31f35-102">Hanki ilmainen Office 365 koko Koulu</span><span class="sxs-lookup"><span data-stu-id="31f35-102">Get Office 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="0df80-102">Hanki Microsoft 365 ilmaiseksi koko koulullesi</span><span class="sxs-lookup"><span data-stu-id="0df80-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="31f35-103">Parantaa luokkahuoneen ja koulun yhteistyö vapaa productivity Tools-työkalujen kanssa.</span><span class="sxs-lookup"><span data-stu-id="31f35-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="31f35-104">Haluat Varmista, että voit hyödyntää näitä tarjouksia akkreditoitujen akateeminen laitos.</span><span class="sxs-lookup"><span data-stu-id="31f35-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="0df80-103">Paranna luokkahuoneen ja koulun yhteistyötä ilmaisilla tuottavuustyökaluilla.</span><span class="sxs-lookup"><span data-stu-id="0df80-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="0df80-104">Sinun täytyy varmistaa, että olet akkreditoitu akateeminen laitos hyödyntää näitä tarjouksia.</span><span class="sxs-lookup"><span data-stu-id="0df80-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="31f35-105">Tutustu koulutus suunnitelmat</span><span class="sxs-lookup"><span data-stu-id="31f35-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="0df80-105">Koulutussuunnitelmien tarkistaminen</span><span class="sxs-lookup"><span data-stu-id="0df80-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="31f35-106">Vertaa kaikki Office 365-suunnitelmat</span><span class="sxs-lookup"><span data-stu-id="31f35-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="0df80-106">Vertaa kaikkia Microsoft 365 -tilauksia</span><span class="sxs-lookup"><span data-stu-id="0df80-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -1,22 +1,22 @@
 ---
-title: 1815 jaetun postilaatikon koon suurentaminen
+title: 1815 Jaetun postilaatikon koon suurentaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 7e31c3cff7f21dce9435ae47c717465680ef624b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52e4e313319ec55111ee656e1eef0b01ada88ca9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765019"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711160"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="c9e4b-102">Jaetun postilaatikon koon suurentaminen</span><span class="sxs-lookup"><span data-stu-id="c9e4b-102">Increase the size of a shared mailbox</span></span>
+# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="074e1-102">Jaetun postilaatikon koon suurentaminen</span><span class="sxs-lookup"><span data-stu-id="074e1-102">Increase the size of a shared mailbox</span></span>
 
-<span data-ttu-id="c9e4b-103">Jaetun Exchange-postilaatikon välityksellä oletuskoko on 50 gt 100 gt ja suurentaa liittämällä jaetusta postilaatikosta Exchange Online-P2-käyttöoikeussopimuksen (johon sisältyy E3 ja E5-käyttöoikeuksia).</span><span class="sxs-lookup"><span data-stu-id="c9e4b-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="c9e4b-104">Kun liität P2-käyttöoikeuden [aktiivisia](https://portal.office.com/adminportal/home)käyttäjiä jaetusta postilaatikosta, kokoa automaattisesti kasvaa 15 minuutin kuluessa.</span><span class="sxs-lookup"><span data-stu-id="c9e4b-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>
+<span data-ttu-id="074e1-103">Voit suurentaa jaetun postilaatikon kokoa 50 Gt:n oletuskoosta 100 Gigatavuun määrittämällä jaetulle postilaatikolle Exchange Online P2 -käyttöoikeuden (joka sisältyy E3- ja E5-käyttöoikeuksiin).</span><span class="sxs-lookup"><span data-stu-id="074e1-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="074e1-104">Kun määrität P2-käyttöoikeuden aktiiviset [käyttäjät](https://portal.office.com/adminportal/home)-kohdassa jaettuun postilaatikkoon, kokoa suurennetaan automaattisesti 15 minuutin kuluessa.</span><span class="sxs-lookup"><span data-stu-id="074e1-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>

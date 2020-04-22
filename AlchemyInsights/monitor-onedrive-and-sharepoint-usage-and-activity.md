@@ -1,8 +1,8 @@
 ---
-title: Valvo OneDrivea ja SharePointin käyttöä ja toimintaa
+title: OneDriven ja SharePointin käytön ja toiminnan valvonta
 ms.author: pebaum
 author: pebaum
-ms.date: 6/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 0eae0f18067d99fdc6bd9a61fcd97b4d690bc946
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 669599f5ab0195a05c290a2e857b60e1ea3165d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052574"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713751"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="d1ced-102">Tarkastele OneDriven ja SharePointin toimintaa ja käyttöä koskevia raportteja</span><span class="sxs-lookup"><span data-stu-id="d1ced-102">View reports on OneDrive and SharePoint activity and usage</span></span>
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="c681d-102">OneDriven ja SharePointin raporttien tarkasteleminen ja käyttö</span><span class="sxs-lookup"><span data-stu-id="c681d-102">View reports on OneDrive and SharePoint activity and usage</span></span>
 
-<span data-ttu-id="d1ced-103">Siirry [Microsoft 365-hallinta keskuksen käyttö raportit-sivulle](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="d1ced-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="d1ced-104">Valitse **Select-raportti**-kohdassa OneDrive-tai SharePoint-aktiviteetti-tai käyttö raportti.</span><span class="sxs-lookup"><span data-stu-id="d1ced-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span>
+<span data-ttu-id="c681d-103">Siirry [Microsoft 365 -hallintakeskuksen Käyttöraportit-sivulle](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="c681d-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="c681d-104">**Valitse Valitse raportti**-kohdassa OneDrive- tai SharePoint-aktiviteetti- tai käyttöraportti.</span><span class="sxs-lookup"><span data-stu-id="c681d-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span>
   
-[<span data-ttu-id="d1ced-105">Lisä tietoja OneDrive-raporteista</span><span class="sxs-lookup"><span data-stu-id="d1ced-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
+[<span data-ttu-id="c681d-105">Lisätietoja OneDrive-raporteista</span><span class="sxs-lookup"><span data-stu-id="c681d-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[<span data-ttu-id="d1ced-106">Lisä tietoja SharePoint-raporteista</span><span class="sxs-lookup"><span data-stu-id="d1ced-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
+[<span data-ttu-id="c681d-106">Lisätietoja SharePoint-raporteista</span><span class="sxs-lookup"><span data-stu-id="c681d-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
   

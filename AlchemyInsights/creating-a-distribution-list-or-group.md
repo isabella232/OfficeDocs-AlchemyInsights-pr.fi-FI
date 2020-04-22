@@ -1,5 +1,5 @@
 ---
-title: 711 jakelu luettelon tai-ryhmän luominen
+title: 711 Jakeluluettelon tai -ryhmän luominen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2ce7e4146abe272b2025132c4fc44329abc8d8a0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715449"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="34b2b-102">Jakelu ryhmien luominen</span><span class="sxs-lookup"><span data-stu-id="34b2b-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="1f84a-102">Jakeluluetteloiden luominen</span><span class="sxs-lookup"><span data-stu-id="1f84a-102">Create distribution groups</span></span>
 
-<span data-ttu-id="34b2b-103">Voit käyttää Office 365: ssa jakelu ryhmiä (joita kutsutaan myös jakelu luetteloksi) toimittamaan Sähkö posti viestejä organisaation sisä-ja ulkopuolella oleville henkilöille.</span><span class="sxs-lookup"><span data-stu-id="34b2b-103">You use distribution groups (also known as distribution lists) in Office 365 to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="34b2b-104">Niiden luominen on helppoa!</span><span class="sxs-lookup"><span data-stu-id="34b2b-104">Creating them is easy!</span></span> <span data-ttu-id="34b2b-105">Ohjeita on kohdassa [jakelu luetteloiden luominen Microsoft 365-hallinta keskuksessa](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="34b2b-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
+<span data-ttu-id="1f84a-103">Jakeluryhmien (eli jakeluluetteloiden) avulla voit toimittaa sähköpostiviestejä organisaatiossa sijais- ja ulkopuolella oleville henkilöryhmille.</span><span class="sxs-lookup"><span data-stu-id="1f84a-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="1f84a-104">Niiden luominen on helppoa!</span><span class="sxs-lookup"><span data-stu-id="1f84a-104">Creating them is easy!</span></span> <span data-ttu-id="1f84a-105">Lisätietoja on [ohjeaiheessa Jakeluluetteloiden luominen Microsoft 365 -hallintakeskuksessa](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="1f84a-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
 
-<span data-ttu-id="34b2b-106">**Huomautus**: järjestelmänvalvojan on hallittava jakelu ryhmän jäsenyyttä.</span><span class="sxs-lookup"><span data-stu-id="34b2b-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="34b2b-107">Jos haluat, että käyttäjät hallitsevat oman ryhmän jäsenyys luetteloita, harkitse [Office 365-ryhmien](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) sijaan.</span><span class="sxs-lookup"><span data-stu-id="34b2b-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
+<span data-ttu-id="1f84a-106">**Huomautus**: Ylläpitäjän on hallittava jakeluryhmän jäsenyyttä.</span><span class="sxs-lookup"><span data-stu-id="1f84a-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="1f84a-107">Jos haluat käyttäjien hallitsevan omia ryhmän jäsenluetteloitaan, harkitse sen sijaan [Office 365 -ryhmiä.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)</span><span class="sxs-lookup"><span data-stu-id="1f84a-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>

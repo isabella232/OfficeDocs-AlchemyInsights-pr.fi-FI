@@ -1,34 +1,34 @@
 ---
-title: ATP-OneDrive, SharePoint ja Microsoft-ryhmien
+title: ATP SharePointille, OneDrivelle ja Microsoft Teamsille
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765014"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712455"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a><span data-ttu-id="6cf20-102">ATP-OneDrive, SharePoint ja Microsoft-ryhmien</span><span class="sxs-lookup"><span data-stu-id="6cf20-102">ATP for SharePoint, OneDrive, and Microsoft Teams</span></span>
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a><span data-ttu-id="5a67d-102">ATP SharePointille, OneDrivelle ja Microsoft Teamsille</span><span class="sxs-lookup"><span data-stu-id="5a67d-102">ATP for SharePoint, OneDrive, and Microsoft Teams</span></span>
 
-<span data-ttu-id="6cf20-103">Advanced Threat Protection käyttöön seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="6cf20-103">Follow these steps to enable Advanced Threat Protection:</span></span>
+<span data-ttu-id="5a67d-103">Ota kehittynyt uhkien suojaus käyttöön seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="5a67d-103">Follow these steps to enable Advanced Threat Protection:</span></span>
 
-1. <span data-ttu-id="6cf20-104">Siirry [https://protection.office.com](https://protection.office.com) ja Yleinen järjestelmänvalvoja tai järjestelmänvalvojan suojaustilin kirjautumalla.</span><span class="sxs-lookup"><span data-stu-id="6cf20-104">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+1. <span data-ttu-id="5a67d-104">Siirry [https://protection.office.com](https://protection.office.com) yleiseen järjestelmänvalvojan tai suojauksen järjestelmänvalvojan tiliin ja kirjaudu sisään.</span><span class="sxs-lookup"><span data-stu-id="5a67d-104">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-2. <span data-ttu-id="6cf20-105">Valitse vasemmasta siirtymisruudusta **uhka**hallinta, **käytännön** \> **Turvalliset liitetiedostot**.</span><span class="sxs-lookup"><span data-stu-id="6cf20-105">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Attachments**.</span></span>
+2. <span data-ttu-id="5a67d-105">Valitse vasemmanpuoleisen siirtymisruudun **Uhkien hallinta**-kohdassa \> **Käytäntöturvalliset liitteet**. **Policy**</span><span class="sxs-lookup"><span data-stu-id="5a67d-105">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Attachments**.</span></span>
 
-3. <span data-ttu-id="6cf20-106">Valitse **ATP SharePoint, OneDrive-ja Microsoft-ryhmien käyttöön**.</span><span class="sxs-lookup"><span data-stu-id="6cf20-106">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**.</span></span>
+3. <span data-ttu-id="5a67d-106">Valitse **Ota ATP käyttöön SharePointissa, OneDrivessa ja Microsoft Teamsissa**.</span><span class="sxs-lookup"><span data-stu-id="5a67d-106">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**.</span></span>
 
-4. <span data-ttu-id="6cf20-107">Saat ilmoituksen, kun emme tunnista haittaohjelmien tiedostot [luoda hälytyksen käytännön toimintaa](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) .</span><span class="sxs-lookup"><span data-stu-id="6cf20-107">[Create an activity alert policy](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) to receive notifications when we detect malicious files.</span></span>
+4. <span data-ttu-id="5a67d-107">[Luo toimintahälytyskäytäntö, jos](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) haluat saada ilmoituksia, kun havaitsemme haitallisia tiedostoja.</span><span class="sxs-lookup"><span data-stu-id="5a67d-107">[Create an activity alert policy](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) to receive notifications when we detect malicious files.</span></span>
 
-<span data-ttu-id="6cf20-108">Täydelliset ohjeet Katso tätä [aihetta](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="6cf20-108">For complete instructions, see this [topic](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).</span></span>
+<span data-ttu-id="5a67d-108">Täydelliset ohjeet ovat tässä [ohjeaiheessa](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="5a67d-108">For complete instructions, see this [topic](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).</span></span>
 
-<span data-ttu-id="6cf20-109">**Huomautus**: tarkoituksellista, ATP ei Etsi kaikki yhteen tiedostoon, SharePoint Online, OneDrive työ tai Microsoftin Teams.</span><span class="sxs-lookup"><span data-stu-id="6cf20-109">**Note**: By design, ATP doesn't scan every single file in SharePoint Online, OneDrive for Business, or Microsoft Teams.</span></span> <span data-ttu-id="6cf20-110">Tiedostot tarkistetaan asynkronisesti prosessi, joka käyttää Vieras tehtävän jakaminen toiminnan ja uhka signaaleja, Määritä vahingollisia tiedostoja.</span><span class="sxs-lookup"><span data-stu-id="6cf20-110">Files are scanned asynchronously by a process that uses sharing activity, guest activity, and threat signals to identify malicious files.</span></span> <span data-ttu-id="6cf20-111">Lisätietoja Katso tätä [aihetta](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="6cf20-111">For more information, see this [topic](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span></span>
+<span data-ttu-id="5a67d-109">**Huomautus:** ATP ei tarkista jokaista SharePoint Onlinen, OneDrive for Businessin tai Microsoft Teamsin tiedostoa.</span><span class="sxs-lookup"><span data-stu-id="5a67d-109">**Note**: By design, ATP doesn't scan every single file in SharePoint Online, OneDrive for Business, or Microsoft Teams.</span></span> <span data-ttu-id="5a67d-110">Tiedostot skannataan asynkronisesti prosessilla, joka käyttää haitallisten tiedostojen tunnistamiseen jakamis-, vieras- ja uhkasignaaleja.</span><span class="sxs-lookup"><span data-stu-id="5a67d-110">Files are scanned asynchronously by a process that uses sharing activity, guest activity, and threat signals to identify malicious files.</span></span> <span data-ttu-id="5a67d-111">Lisätietoja on tässä [ohjeaiheessa](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="5a67d-111">For more information, see this [topic](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span></span>
