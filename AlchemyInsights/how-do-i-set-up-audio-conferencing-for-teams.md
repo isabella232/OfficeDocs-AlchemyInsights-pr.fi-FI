@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692392"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709936"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Puhelinneuvottelut
 
-Tarvitsetko apua puhelinneuvottelujen ottamisessa käyttöön tai määrittämisessä Microsoft Teamsissa? Onko tämä käyttäjä luotu hiljattain?  Jos on, sinun tulee odottaa 2–24 tuntia, jotta asetukset tulevat voimaan.    
+Tarvitsetko apua puhelinneuvottelujen ottamisessa käyttöön tai määrittämisessä Microsoft Teamsissa? Onko tämä käyttäjä luotu hiljattain?  Jos on, sinun tulee odottaa 2–24 tuntia, jotta asetukset tulevat voimaan.
 
 Jos haluat varmistaa, että käyttäjällä on puhelunneuvottelujen käyttöoikeus ja oletusarvoinen maksullinen numero:
 
@@ -39,4 +39,4 @@ Jos haluat varmistaa, että käyttäjällä on puhelunneuvottelujen käyttöoike
 
 7. Valitse haluamasi käyttäjä ja varmista, että käyttäjällä on **oletusarvoinen maksullinen numero**.
 
-Saat lisätietoja artikkelista [Office 365:n puhelupalvelupaketit](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) tai soittamalla Microsoft Commerce Billing -työryhmälle, jos sinulla on käyttöoikeuksiin liittyviä kysymyksiä.
+Saat lisätietoja artikkelista [Puhelupalvelupaketit](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) tai soittamalla Microsoft Commerce Billing -työryhmälle, jos sinulla on käyttöoikeuksiin liittyviä kysymyksiä.

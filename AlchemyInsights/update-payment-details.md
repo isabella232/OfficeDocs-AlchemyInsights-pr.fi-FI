@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059877"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720062"
 ---
 # <a name="update-credit-card-information"></a>Luottokorttitietojen päivittäminen
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059877"
 
 Jos sinulla on ongelmia sivun lataamisessa, yritä avata verkkosivu toisessa selaimessa tai yksityisessä selainikkunassa, kuten Microsoft Edgen InPrivate-ikkunassa tai Google Chromen incognito-ikkunassa. 
 
-Jos haluat lisätietoja, tutustu artikkeleihin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Office 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ja [Luottokorttien ja pankkitilien vianmääritys](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Jos haluat lisätietoja, tutustu artikkeliin [Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Microsoft 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ja [Luottokorttien ja pankkitilien vianmääritys](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
