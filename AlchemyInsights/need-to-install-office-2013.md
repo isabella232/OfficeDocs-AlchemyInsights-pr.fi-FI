@@ -1,8 +1,8 @@
 ---
-title: Asenna Office-2013
+title: Office 2013:n asentaminen
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538702"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761847"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="e5f20-102">Office 2013 ei enää tueta Office 365: n ylläpitosopimuksiin</span><span class="sxs-lookup"><span data-stu-id="e5f20-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="15fc0-102">Office 2013 ei enää tue Microsoft 365 -tilauksia</span><span class="sxs-lookup"><span data-stu-id="15fc0-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
 
-<span data-ttu-id="e5f20-103">28. helmikuu 2017 alkaen Office 2013 enää tuetaan Office 365: n ylläpitosopimuksiin.</span><span class="sxs-lookup"><span data-stu-id="e5f20-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="15fc0-103">28.2.2017 lähtien Office 2013 ei ole enää tuettu Microsoft 365 -tilauksissa.</span><span class="sxs-lookup"><span data-stu-id="15fc0-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
   
-<span data-ttu-id="e5f20-104">Office-tuotepaketin turvallisuuden varmistamiseksi ja saat kaikki uusimmat ominaisuudet asentaa uusimman Office-version ilmaiseksi osana Office 365-tilauksesi.</span><span class="sxs-lookup"><span data-stu-id="e5f20-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription.</span></span> <span data-ttu-id="e5f20-105">Katso [päivittää uusimman Office-asiakasohjelman käyttäjille](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="e5f20-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="15fc0-104">Voit varmistaa Office-tuotepaketin suojauksen ja hankkia kaikki uusimmat ominaisuudet asentamalla Officen uusimman version maksutta osana Microsoft 365 -tilaustasi.</span><span class="sxs-lookup"><span data-stu-id="15fc0-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="15fc0-105">Lisätietoja [on ohjeaiheessa Käyttäjien päivittäminen uusimpaan Office-asiakasohjelmaan](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="15fc0-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   

@@ -1,9 +1,9 @@
 ---
-title: 1490-vianmääritys-eDiscovery-virheet
+title: 1490-vianmääritys-eDiscovery-epäonnistumiset
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559370"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759581"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="58339-102">Sisällöstä etsiminen virheiden vianmääritys</span><span class="sxs-lookup"><span data-stu-id="58339-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="373ae-102">Sisältöhakuvirheiden vianmääritys</span><span class="sxs-lookup"><span data-stu-id="373ae-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="58339-103">Ongelmia, se sisällöstä etsiminen Office 365 tai haettaessa virheitä kun viet hakutulokset?</span><span class="sxs-lookup"><span data-stu-id="58339-103">Are you experiencing problems with Content Search in Office 365 or getting failures when you export search results?</span></span>
+<span data-ttu-id="373ae-103">Onko sisältöhaussa tai virheissä ongelmia, kun viet hakutuloksia?</span><span class="sxs-lookup"><span data-stu-id="373ae-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="58339-104">Esimerkiksi, saavat seuraavat haut ajettaessa?</span><span class="sxs-lookup"><span data-stu-id="58339-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="373ae-104">Saatko esimerkiksi seuraavat tiedot, kun suoritat hakuja?</span><span class="sxs-lookup"><span data-stu-id="373ae-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="58339-105">CS008 tai CS012 virheet</span><span class="sxs-lookup"><span data-stu-id="58339-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="373ae-105">CS008- tai CS012-virheet</span><span class="sxs-lookup"><span data-stu-id="373ae-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="58339-106">Palvelin varattu tai aikakatkaisuvirheitä</span><span class="sxs-lookup"><span data-stu-id="58339-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="373ae-106">Palvelimen varattu/aikakatkaisuvirheet</span><span class="sxs-lookup"><span data-stu-id="373ae-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="58339-107">Sovellusvirhe</span><span class="sxs-lookup"><span data-stu-id="58339-107">Application error occurred</span></span>
+- <span data-ttu-id="373ae-107">Sovellusvirhe</span><span class="sxs-lookup"><span data-stu-id="373ae-107">Application error occurred</span></span>
 
-<span data-ttu-id="58339-108">Tai kun haku tai viedä tulokset paljon postilaatikoita (yli 100 000 postilaatikot), näyttöön tuleva vienti virheitä?</span><span class="sxs-lookup"><span data-stu-id="58339-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="373ae-108">Tai kun etsit tai viet tuloksia suuresta määrästä postilaatikoita (yli 100 000 postilaatikkoa), saatko vientivirheitä?</span><span class="sxs-lookup"><span data-stu-id="373ae-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="58339-109">Tällaisia virheitä, yritä uudelleen haku sisällön sijainteja, jotka ovat epäonnistuneet.</span><span class="sxs-lookup"><span data-stu-id="58339-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="58339-110">Katso lisätietoja [tämän artikkelin](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .</span><span class="sxs-lookup"><span data-stu-id="58339-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="373ae-109">Jos virhetyyppi on virhe, yritä etsiä epäonnistuneita sisältösijainteja uudelleen.</span><span class="sxs-lookup"><span data-stu-id="373ae-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="373ae-110">Lisätietoja on [tässä artikkelissa.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)</span><span class="sxs-lookup"><span data-stu-id="373ae-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>

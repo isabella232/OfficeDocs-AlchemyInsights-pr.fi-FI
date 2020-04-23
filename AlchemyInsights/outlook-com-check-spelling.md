@@ -1,9 +1,9 @@
 ---
-title: Outlook.com oikeinkirjoituksen tarkistaminen
+title: Oikeinkirjoituksen tarkistaminen Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6d1706990e9989b13a1a9fb48bb78b56ae6856a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547020"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760589"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="4f23d-102">Käytä selaimen oikeinkirjoituksen tarkistaminen</span><span class="sxs-lookup"><span data-stu-id="4f23d-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="ae8ce-102">Oikeinkirjoituksen tarkistaminen selaimen avulla</span><span class="sxs-lookup"><span data-stu-id="ae8ce-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="4f23d-103">Oikeinkirjoituksen tarkistaminen-toimintoa ei ole Outlook.com, vaikka monet selaimet automaattisesti tarkistamaan oikeinkirjoituksen, Microsoft Edge, Internet Explorer 10 ja uudemmat versiot nykyiset versiot Firefox, Chrome ja Safari.</span><span class="sxs-lookup"><span data-stu-id="4f23d-103">Although Outlook.com does not have a spell check function, many web browsers automatically check your spelling, including Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="4f23d-104">Tarkista asetukset web-selaimen Saat lisätietoja oikeinkirjoituksen tarkistamisesta.</span><span class="sxs-lookup"><span data-stu-id="4f23d-104">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="ae8ce-103">Vaikka Outlook.com ei ole oikeinkirjoituksen tarkistustoimintoa, monet selaimet tarkistavat oikeinkirjoituksen automaattisesti, mukaan lukien Microsoft Edge, Internet Explorer 10 ja uudemmat versiot sekä Firefoxin, Chromen ja Safarin nykyiset versiot.</span><span class="sxs-lookup"><span data-stu-id="ae8ce-103">Although Outlook.com does not have a spell check function, many web browsers automatically check your spelling, including Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="ae8ce-104">Lisätietoja oikeinkirjoituksen tarkistamisesta on selaimen asetuksissa.</span><span class="sxs-lookup"><span data-stu-id="ae8ce-104">Check the options for your web browser to learn more about how to check spelling.</span></span>

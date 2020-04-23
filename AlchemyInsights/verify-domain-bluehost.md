@@ -1,5 +1,5 @@
 ---
-title: Toimialueen vahvistaminen Bluehostin avulla
+title: Toimialueen vahvistaminen Bluehostilla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ebb9dd81cadcd74c4dcd67915a409d150830b101
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 64c74827e28618ab08cca16c1e8ac4eb7689bb0d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326136"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759401"
 ---
-# <a name="verify-your-domain-with-bluehost"></a><span data-ttu-id="07083-102">Toimialueen vahvistaminen Bluehostin avulla</span><span class="sxs-lookup"><span data-stu-id="07083-102">Verify your domain with Bluehost</span></span>
+# <a name="verify-your-domain-with-bluehost"></a><span data-ttu-id="fd9f9-102">Toimialueen vahvistaminen Bluehostilla</span><span class="sxs-lookup"><span data-stu-id="fd9f9-102">Verify your domain with Bluehost</span></span>
 
-<span data-ttu-id="07083-103">Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden varmistamiseksi.</span><span class="sxs-lookup"><span data-stu-id="07083-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="fd9f9-103">Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden vahvistamiseksi.</span><span class="sxs-lookup"><span data-stu-id="fd9f9-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="07083-104">Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja lisää sitten **toimialue**.</span><span class="sxs-lookup"><span data-stu-id="07083-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="fd9f9-104">Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja sitten **Lisää toimialue**.</span><span class="sxs-lookup"><span data-stu-id="fd9f9-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="07083-105">Vaiheittaiset ohjeet ovat kohdassa [DNS-tietueiden luominen Bluehost for Office 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost)</span><span class="sxs-lookup"><span data-stu-id="07083-105">See [Create DNS records at Bluehost for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) for step-by-step instructions.</span></span>
+<span data-ttu-id="fd9f9-105">Vaiheittaiset ohjeet ovat kohdassa [DNS-tietueiden luominen Bluehostissa Microsoft 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost)</span><span class="sxs-lookup"><span data-stu-id="fd9f9-105">See [Create DNS records at Bluehost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) for step-by-step instructions.</span></span>

@@ -1,9 +1,9 @@
 ---
-title: '8000016: kansion poistaminen'
+title: '8000016: Kansion poistaminen'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b605a9fa656eb9439c8c9fd6087c6999233fcc3c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36556526"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742982"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="86f4b-102">Kansion poistaminen Outlookissa Webissä</span><span class="sxs-lookup"><span data-stu-id="86f4b-102">How to delete a folder in Outlook on the web</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="74d02-102">Kansion poistaminen Outlookin verkkoversiossa</span><span class="sxs-lookup"><span data-stu-id="74d02-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="86f4b-103">Napsauta kansio ruudussa hiiren kakkos painikkeella kansiota tai alikansio, jonka haluat poistaa.</span><span class="sxs-lookup"><span data-stu-id="86f4b-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="86f4b-104">Valitse **Poista kansio**.</span><span class="sxs-lookup"><span data-stu-id="86f4b-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="86f4b-105">Vahvista valinta valitsemalla **OK** .</span><span class="sxs-lookup"><span data-stu-id="86f4b-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="74d02-103">Napsauta kansioruudussa hiiren kakkospainikkeella kansiota tai alikansiota, jonka haluat poistaa.</span><span class="sxs-lookup"><span data-stu-id="74d02-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="74d02-104">Valitse **Poista kansio**.</span><span class="sxs-lookup"><span data-stu-id="74d02-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="74d02-105">Vahvista valitsemalla **OK.**</span><span class="sxs-lookup"><span data-stu-id="74d02-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="86f4b-106">Lisä tietoja on kohdassa [Outlookin viesti kansioiden käsitteleminen Webissä](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="86f4b-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="74d02-106">Lisätietoja on [ohjeaiheessa Viestikansioiden käsitteleminen Outlookin verkkoversiossa](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="74d02-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 
