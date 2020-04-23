@@ -1,35 +1,35 @@
 ---
-title: Hallitse käyttäjä profiileja Delvessa
+title: Käyttäjäprofiilien hallinta Delvessä
 ms.author: ponincev
 author: pebaum
-ms.date: 9/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497188"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720536"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Hallitse käyttäjä profiileja Delvessa
+# <a name="manage-user-profiles-in-delve"></a>Käyttäjäprofiilien hallinta Delvessä
 
-Office Delven avulla käyttäjät voivat hallita Office 365-käyttäjä profiiliaan. Käyttäjät voivat:
+Office Delven avulla käyttäjät voivat hallita käyttäjäprofiiliaan. Käyttäjät voivat:
   
-- Tarkastella ja päivittää tietoja
+- Tarkastele ja päivitä heidän tietojaan
     
-- Pidä joitakin tietoja yksityisessä
+- Pidä joitakin tietoja yksityisinä
     
-- Profiilin tai kansi kuvan vaihtaminen
+- Profiilin tai kansikuvan muuttaminen
     
-- Delven kielen ja kellon ajan muodon muuttaminen
+- Delven kielen ja kellonajan muodon muuttaminen
     
 > [!NOTE]
-> Jos käyttäjä päivitti profiili kuvansa ja muutos ei näy SharePointissa tai OneDrivessa, pyydä heitä avaamaan Verkko selain, [Siirry osoitteeseen Office.com](https://www.office.com), kirjaudu sisään työ-tai koulu tililleen ja napsauta sitten OneDrive-tai SharePoint-ruutua. Tämä tuo näyttöön synkronoinnin profiili kuvan. Käyttäjän on ehkä yritettävä suorittaa nämä vaiheet selaimen yksityisen version kanssa. 
+> Jos käyttäjä on päivittänyt profiilikuvansa eikä muutos näy SharePointissa tai OneDrivessa, pyydä häntä avaamaan selain, [siirtymällä Office.com](https://www.office.com), kirjautumaan sisään työpaikan tai oppilaitoksen tilillä ja valitse sitten OneDrive- tai SharePoint-ruutu. Tämä kehottaa profiilikuvaa synkronoimaan. Käyttäjän on ehkä yritettävä suorittaa nämä vaiheet selaimensa yksityisellä versiolla. 
   
-[Lisä tietoja profiilien päivittämisestä Delvessa](https://go.microsoft.com/fwlink/?linkid=735070)
+[Lisätietoja profiilien päivittämisestä Delvessä](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

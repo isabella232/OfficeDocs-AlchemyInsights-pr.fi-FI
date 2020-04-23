@@ -1,24 +1,24 @@
 ---
-title: 8000036 Vaihda profiili PIC/Name in Outlook.com
+title: 8000036 Muuta profiilin kuva/nimi Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719373"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Muuta profiili kuvaani tai nimeäni Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Profiilikuvan tai nimen muuttaminen Outlook.com
 
-1. Siirry [Microsoft-tilisi tiedot-](https://go.microsoft.com/fwlink/p/?linkid=860841)kohtaan.
-1. Valitse **Muokkaa nimeä** tai **Muuta kuvaa**.
+1. Siirry [Microsoft-tilisi tietoihin](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Valitse **Muokkaa nimeä** tai Muuta **kuvaa**.
 
-Jos haluat, että profiili kuvasi tai nimesi muutokset tulevat voimaan, odota 24 tuntia.
+Anna profiilikuvasi tai nimesi muutoksiin enintään 24 tuntia tulla voimaan.
