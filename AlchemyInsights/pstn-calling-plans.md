@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154231"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556962"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-puhelupaketit
 
-Puhelut muille Skype for Business- ja Microsoft Teams -käyttäjille ovat maksuttomia, mutta jos haluat käyttäjien voivan soittaa tavallisiin puhelimiin eikä sinulla vielä ole puheluiden palveluntarjoajaa, sinun on ostettava puhelupaketti. 
+Jos haluat käyttäjien voivan soittaa tavallisiin puhelimiin, eikä sinulla vielä ole äänipuheluiden palveluntarjoajaa, sinun on ostettava puhelupalvelupaketti.
 
-- Tutustu ostoprosessiin kohdassa [Puhelupaketin ostaminen](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Tutustu ostoprosessiin kohdassa [Puhelupalvelupaketin ostaminen](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).
 
-- Lisätietoja on kohdassa [Puhelinjärjestelmä ja puhelupaketit](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Määritä [puhelusaldo](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), jotta käyttäjiltä **ei lopu minuutit** kesken. Tutustu hintoihin [täällä](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Lisätietoja on artikkeleissa [Puhelinjärjestelmä ja puhelupalvelupaketit](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ja [Mikä on puhelusaldo?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits).

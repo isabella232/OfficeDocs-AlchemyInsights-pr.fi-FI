@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958535"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537738"
 ---
 # <a name="general-migration-performance-guidance"></a>Yleiset siirron suorituskyvyn ohjeet
 
+
 **Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
 
-**Siirron suorituskyvyn ohjeet**
+**Siirtovaihtoehdot**
 
-Siirron suorituskykyyn voivat vaikuttaa verkkoinfrastruktuuri, tiedoston koko, siirtoaika ja rajoitukset. Tämän ymmärtäminen auttaa suunnittelemaan siirtoa ja maksimoimaan sen tehokkuuden.
+Voit siirtää sisältöä SharePoint Onlineen eri tavoilla siirrettävien tiedostojen koosta ja sijainnista riippuen. Voit tarkastella eri vaihtoehtoja [täällä](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Yleiset siirron suorituskyvyn ohjeet](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Saat lisätietoja sisällön siirtämisestä alla olevista linkeistä.
+
+- [Sharepoint-siirtotyökalu](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Siirron hallinnan käytön aloittaminen](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Siirtäjä](https://mover.io/)
