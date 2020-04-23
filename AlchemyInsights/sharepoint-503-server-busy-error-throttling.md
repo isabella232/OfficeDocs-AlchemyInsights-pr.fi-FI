@@ -2,7 +2,7 @@
 title: SharePoint Onlinen rajoitus
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958716"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742206"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Onlinen rajoitus
 
-**Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online- ja OneDrive-palvelut ovat edelleen erittäin saatavilla – lisätietoja on [SharePoint Onlinen tilapäisissä ominaisuusoikaisuissa.](https://aka.ms/ODSPAdjustments)
+**Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
 
 **503 palvelin on varattu virhe**
 
 Käyttäjät saattavat saada 503-palvelimen olevan varattu virhe yritettäessä siirtyä SharePoint- tai OneDrive-sivustoihin. 
 
-Tämä virhe voi johtua sharepoint-palvelun kuristamisesta. SharePoint Online käyttää rajoitusta SharePoint Online -palvelun optimaalisen suorituskyvyn ja luotettavuuden ylläpitämiseen. Kuristus rajoittaa käyttäjän toimintojen tai samanaikaisten kutsujen määrää (komentosarjan tai koodin mukaan) resurssien liikakäytön estämiseksi. 
+Tämä virhe voi johtua sharepoint-palvelun kuristamisesta. SharePoint Online käyttää rajoittamista SharePoint Online -palvelun optimaalisen suorituskyvyn ja luotettavuuden ylläpitämiseen. Rajoittaminen rajoittaa käyttäjien toimien tai samanaikaisten kutsujen määrää (komentosarjojen tai koodin avulla), jotta resurssien liikakäyttö estetään. 
 
 Lisätietoja kuristamisesta on [ohjeaiheessa Vältä kuristamisen tai estymisen estäminen SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

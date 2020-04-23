@@ -1,5 +1,5 @@
 ---
-title: SharePoint-siirron suorituskyky
+title: SharePoint-siirron suorituskykyä käsittelevät ohjeet
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537774"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789299"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint-siirron suorituskyky
+# <a name="sharepoint-migration-performance-guidance"></a>SharePoint-siirron suorituskykyä käsittelevät ohjeet
 
-**Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
+Siirron suorituskykyyn voivat vaikuttaa verkkoinfrastruktuuri, tiedoston koko, siirtoaika ja rajoitukset.
 
-**Siirron suorituskyky**
-
-Siirron suorituskykyyn voivat vaikuttaa verkkoinfrastruktuuri, tiedoston koko, siirtoaika ja rajoitukset. Tämän ymmärtäminen auttaa suunnittelemaan siirtoa ja maksimoimaan sen tehokkuuden.
-
-Lisätietoja saat alla olevista linkeistä.
+Lisätietoja saat seuraavista linkeistä:
 
 - [Yleiset siirron suorituskyvyn ohjeet](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Rajoittumisen tai käytön estymisen välttäminen SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [SharePoint-siirtotyökalun lataaminen ja asentaminen](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

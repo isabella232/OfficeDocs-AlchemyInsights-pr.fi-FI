@@ -10,17 +10,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
-- "4540"
-ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+- "4352"
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
 ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784796"
+ms.locfileid: "43789011"
 ---
-# <a name="remove-teams-dial-in-conferencing-number"></a>Teamsin puhelinneuvottelunumeron poistaminen
+# <a name="teams-dial-in-conferencing-number-removal"></a>Teamsin puhelinneuvottelunumeron poistaminen
 
-Tarvitsetko apua puhelinneuvottelunumeron poistamiseen neuvotteluyhteyksistäsi? Onko numero, jonka rekisteröintiä yrität poistaa, nykyinen oletusnumero? Jos on, sinun täytyy ensin vaihtaa neuvotteluyhteyksien oletusnumeroa.
+Tarvitsetko apua puhelinneuvottelunumeron poistamiseen neuvotteluyhteyksistäsi? Onko numero, jota yrität poistaa, nykyinen oletusnumero? Jos on, sinun täytyy ensin vaihtaa neuvotteluyhteyksien oletusnumeroa.
 
 Neuvotteluyhteyksien oletusnumero määrittää soittajan tunnuksen, jota käytetään, kun osallistuja tai järjestäjä soittaa puhelun kokouksesta.
 
@@ -36,10 +36,10 @@ Neuvotteluyhteyksien oletusnumero määrittää soittajan tunnuksen, jota käyte
 
 6. Korosta palvelun maksullinen numero, jonka haluat määrittää oletukseksi.
 
-7. Valitse **Aseta oletukseksi**.
+7. Valitse **Aseta oletukseksi**. 
 
 Saat lisätietoja ohjeartikkelista [Puhelinneuvotteluyhteyden puhelinnumeroiden vaihtaminen](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 
-Aiheeseen liittyvät resurssit:
+**Aiheeseen liittyvät resurssit:**
 
-- [Puhelinneuvotteluyhteyden asetusten muokkaaminen](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
+[Puhelinneuvotteluyhteyden asetusten muokkaaminen](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
