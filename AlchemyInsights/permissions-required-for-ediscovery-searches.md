@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-Required-for-eDiscovery-searches
+title: 1489-luvat-vaaditaan-for-ediscovery-hakuja
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372125"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758904"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>EDiscovery hakujen edellyttämät oikeudet
+# <a name="permissions-required-for-ediscovery-searches"></a>eDiscovery-hakujen edellyttämät käyttöoikeudet
 
-Suojauksen & Compliance Centerin sisältö hakujen tekemiseen käyttäjän on oltava vähintään olla eDiscovery Manager rooli-ryhmän, jonka avulla he voivat suorittaa hakuja ja paikka on postilaatikot, SharePoint-sivustot ja sijainnit OneDrive. Jäsenet voivat myös luoda ja hallita palvelupyyntöjä eDiscovery, lisätä ja poistaa jäseniä tapaukseen, luoda ja muokata sisältöä hakee, ja käyttää kehittyneitä eDiscovery palvelupyynnön tietoja.
+Jotta käyttäjä voi tehdä sisältöhakuja Suojaus- & yhteensopivuuskeskuksessa, hänen on oltava vähintään eDiscovery Manager -rooliryhmän jäsen, jonka avulla hän voi tehdä hakuja ja sijoittaa pitopaikkoja postilaatikoihin, SharePoint-sivustoihin ja OneDrive-sijainteihin. Jäsenet voivat myös luoda ja hallita eDiscovery-palvelupyyntöjä, lisätä ja poistaa jäseniä palvelupyynnössä, luoda ja muokata sisältöhakuja sekä käyttää palvelupyyntötietoja Advanced eDiscovery -toiminnossa.
 
-Käyttäjän on oltava Exchange-hallintakeskukseen (AKV) paikallaan eDiscovery hakujen tekemiseen Exchange Onlinessa etsinnän hallinta-rooliryhmän jäsen.
+Jotta käyttäjä voi tehdä paikan päällä olevia eDiscovery-hakuja Exchange-hallintakeskuksessa (EAC), käyttäjän on oltava Etsintähallinta-rooliryhmän jäsen Exchange Onlinessa.
 
-Saat lisätietoja eDiscovery käyttöoikeudet: 
+Lisätietoja eDiscovery-käyttöoikeuksista on seuraavissa ohjeissa: 
 
-- [Määritä käyttöoikeudet eDiscovery-suojauksen & Compliance Centeriin](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [eDiscovery-käyttöoikeuksien määrittäminen Tietoturva-& yhteensopivuuskeskuksessa](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [EDiscovery käyttöoikeuksien määrittäminen Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [eDiscovery-käyttöoikeuksien määrittäminen Exchangessa](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Huomautus**: käyttöoikeuksien eDiscovery jälkeen saatat joutua muutaman minuutin kuluttua oikeuksien välitys pääobjektista.
+**Huomautus:** Kun olet määrittänyt eDiscovery-käyttöoikeudet, sinun on ehkä odotettava muutama minuutti, ennen kuin käyttöoikeudet välittyvät.

@@ -3,7 +3,7 @@ title: Palauta poistettu käyttäjä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745070"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784184"
 ---
-# <a name="restore-a-user-in-office-365"></a>Käyttäjän palauttaminen Office 365ssä
+# <a name="restore-a-user"></a>Käyttäjän palauttaminen
 
-Palauta käyttäjä Office 365-käyttö järjestelmän avulla seuraavasti:
+Palauta käyttäjä seuraavasti:
   
-1. Siirry [käyttäjät \> poistettuihin käyttäjiin](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Siirry [Käyttäjät \> poistetut käyttäjät](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. Valitse käyttäjä ja valitse sitten **Palauta**.
 
 3. Aseta salasana ohjeiden mukaisesti.
 
-4. Valitse **Lähetä sähkö postia ja sulje**, ja olet valmis!
+4. Valitse **Lähetä sähköpostia ja sulje**, ja olet valmis!
 
-Eikö ollut niin helppoa? Jos haluat lisä tietoja ja ohjeita kuva kaappausten kanssa, tutustu tähän artikkeliin: [Palauta käyttäjä Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Jos huomaat sen sijaan sinun täytyy palauttaa käyttäjän posti laatikkoon, Katso: [Poista tai Palauta käyttäjän posti laatikot Exchange Onlinessa](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Eikö ollutkin helppoa? Lisätietoja ja ohjeita kuvakaappauksia, tutustu tässä artikkelissa: [Palauta käyttäjä](https://docs.microsoft.com/office365/admin/add-users/restore-user). Jos huomaat, että sinun on sen sijaan palautettava käyttäjän postilaatikko, katso [lisätietoja ohjeaiheesta: Käyttäjien postilaatikoiden poistaminen tai palauttaminen Exchange Onlinessa](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

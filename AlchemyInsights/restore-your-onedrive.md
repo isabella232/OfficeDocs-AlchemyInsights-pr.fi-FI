@@ -1,9 +1,9 @@
 ---
-title: Palauta OneDrive-
+title: OneDriven palauttaminen
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 395b4356667af463e2a63eb80a8f2ff24e3b2583
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36551664"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758643"
 ---
-# <a name="restore-your-onedrive"></a>Palauta OneDrive-
+# <a name="restore-your-onedrive"></a>OneDriven palauttaminen
 
-Jos paljon OneDrive-tiedostoja poistetaan, overwritted, vioittunut tai tartunnan haitta ohjelmat, voit palauttaa koko OneDrive edelliseen aikaan viimeisten 30 päivän aikana.
+Jos haittaohjelma poistaa, ylikirjoittaaa, vioittuu tai tartuttaa useita OneDrive-tiedostojasi, voit palauttaa koko OneDriven edelliseen aikaan viimeisten 30 päivän aikana.
   
-1. Siirry OneDriveen Web-selaimessa.
+1. Siirry OneDriveen verkkoselaimellasi.
     
-2. Napsauta oikeassa yläkulmassa olevaa asetus kuvaketta ja valitse sitten **Palauta OneDrive**.
+2. Napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta ja valitse sitten **Palauta OneDrive**.
     
-3. Valitse päivä määrä luettelosta tai valitse **Mukautettu päivä määrä ja kellon aika**.
+3. Valitse päivämäärä luettelosta tai valitse **Mukautettu päivämäärä ja kellonaika**.
     
-4. Kumoa kaikki aktiviteetit valitsemasi päivä määrän jälkeen valitsemalla **Palauta** . 
+4. Kumoa kaikki aktiviteetit valitsemasi päivämäärän jälkeen valitsemalla **Palauta.** 
     
 [Lisää ohjeita tiedostojen palauttamisen käyttöön](https://go.microsoft.com/fwlink/?linkid=872874)
   

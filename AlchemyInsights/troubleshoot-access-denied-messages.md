@@ -1,34 +1,34 @@
 ---
-title: Käyttö estetty-sanomien vian määritys
+title: Estettyjen viestien käytön vianmääritys
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050702"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759797"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Käyttö estetty-sanomien vian määritys
+# <a name="troubleshoot-access-denied-messages"></a>Estettyjen viestien käytön vianmääritys
 
-Jos joku on saanut käyttö estetty-sanoman SharePointissa jaettuun kansioon, sivustokokoelman järjestelmänvalvoja on saattanut ottaa käyttöön rajoitetun käyttö oikeuden lukitus tilan. Voit poistaa tämän käytöstä: 
+Jos joku sai Käyttö estetty -sanoman SharePointin jaettuun kansioon, sivustokokoelman järjestelmänvalvoja on saattanut ottaa käyttöön rajoitetun käytön käyttöoikeudet -lukitustilan. Voit poistaa tämän käytöstä: 
   
-1. Siirry sivustoon, napsauta Asetukset-kuvaketta ja valitse **sivuston asetukset**.
+1. Selaa sivustoon, napsauta Asetukset-kuvaketta ja valitse sitten **Sivuston asetukset**.
     
-2. Valitse sivustokokoelman **hallinta**-kohdasta **sivustokokoelmaan liittyvät ominaisuudet**.
+2. Valitse **Sivustokokoelman hallinta**-kohdasta **Sivustokokoelman ominaisuudet**.
     
-3. Valitse **rajoitetun käyttö oikeuden lukitus tilan**vieressä **Poista Akti vointi**.
+3. Valitse **Rajoitetun käytön käyttöoikeudet -kohdan**vierestä **Poista aktivointi**.
     
-Jaetut kansiot voivat myös aiheuttaa käyttö estetty-sanoman, jos sivusto on Julkaisusivusto. Lisä tietoja on kohdassa [käyttö estetty jaettua kansiota](https://go.microsoft.com/fwlink/?linkid=2004317)käytettäessä.
+Käyttö estetty -sanoma voi ilmetä myös jaetuissa kansioissa, jos sivusto on julkaisusivusto. Lisätietoja on [ohjeaiheessa Käyttö estetty jaetun kansion käytön yhteydessä](https://go.microsoft.com/fwlink/?linkid=2004317).
   
-Jos käyttäjällä on käyttö estetty-sanoma yritettäessä tarkastella käyttö oikeus pyyntöjä, käyttäjä täytyy lisätä joko sivustokokoelman järjestelmänvalvojaksi tai sivuston omistajien ryhmän jäseneksi. Lisä tietoja on kohdassa Access- [pyyntöjen luettelon käyttö estetty](https://go.microsoft.com/fwlink/?linkid=2004220).
+Jos joku sai Käyttö estetty -sanoman yrittäessään tarkastella käyttöoikeuspyyntöjä, käyttäjä on lisättävä joko sivustokokoelman järjestelmänvalvojana tai sivuston Omistajat-ryhmän jäsenenä. Lisätietoja on [ohjeaiheessa Käyttö estetty -luettelo](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Jos käyttäjä on saanut käyttö estetty-sanoman sen jälkeen, kun hänet on poistettu Active Directorysta paikallisesti ja lisätty takaisin, katso [käyttö estetty, kun käyttäjä tili synkronoidaan Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Jos käyttäjä sai Käyttö estetty -sanoman sen jälkeen, kun hänet on poistettu paikallisesta Active Directorysta ja lisätty sitten takaisin, katso [lisätietoja ohjeaiheesta Käyttö estetty, kun käyttäjätili synkronoidaan Microsoft 365:een](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

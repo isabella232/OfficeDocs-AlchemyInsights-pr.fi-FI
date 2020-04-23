@@ -1,9 +1,9 @@
 ---
-title: Liikaa käyttöoikeuksia?
+title: Liikaa lisenssejä?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665937"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759905"
 ---
-# <a name="too-many-licenses"></a>Liikaa käyttöoikeuksia?
+# <a name="too-many-licenses"></a>Liikaa lisenssejä?
 
-Jos uskot, että olet parhaillaan laskuttaa, jos liikaa Office 365: ssä, syynä on yleensä ottaa täytyy ostaa enemmän käyttöoikeuksia.
+Tokko te ajatella sinun' olemassaolo ilmoittaa ajaksi kanssa usea myöntää lupa, nyt kuluva on normaalisti arvonmukainen jotta hankkiva hankkia enemmän myöntää lupa niin muodoin te kaivata.
   
-**Ostettujen käyttöoikeuksien määrää**
+**Ostettujen käyttöoikeuksien määrän vähentäminen**
   
-1. Siirry hallintakeskukseen, **Laskutus** , \> [& tuotteet-palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla.
+1. Valitse hallintakeskuksessa **Laskutus** \> [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivu.
 
-2. Etsi tilaus, josta haluat poistaa käyttöoikeuksia, ja valitse sitten **Lisää tai poista käyttöoikeudet**.
+2. Etsi tilaus, josta haluat poistaa käyttöoikeudet, ja valitse sitten **Lisää tai poista käyttöoikeuksia**.
 
-3. Määrittää käyttöoikeuksia, jotka tarvitaan tämän tilauksen kokonaismäärä **yhteensä käyttöoikeudet** -ruudusta ja valitse sitten **Lähetä muuttaa**. Jos sinulla on esimerkiksi 110 käyttöoikeutta ja haluat poistaa niistä viisi, kirjoita tähän luku 105.
+3. Kirjoita **Käyttöoikeuksien kokonaismäärä** -ruutuun tämän tilauksen tarvitsemien käyttöoikeuksien kokonaismäärä ja valitse sitten **Lähetä muutos**. Jos sinulla on esimerkiksi 110 käyttöoikeutta ja haluat poistaa niistä viisi, kirjoita tähän luku 105.
 
-Lisätietoja on kohdassa [-että Office 365: ssä business tilauksen käyttöoikeuksien poistaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Lisätietoja on ohjeaiheessa [Käyttöoikeuksien poistaminen Microsoft 365 for Business -tilauksesta](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

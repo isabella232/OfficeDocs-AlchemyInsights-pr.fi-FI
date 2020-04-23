@@ -3,7 +3,7 @@ title: SharePointin suuret luettelot
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
-ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
+ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37488514"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767282"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Suurten luetteloiden ja kirjastojen työskentely SharePointissa
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Suurten luetteloiden ja kirjastojen luominen SharePointissa
 
-SharePoint-luettelot ja-kirjastot voivat sisältää enintään 30 000 000 kohdetta, mutta kun niissä on yli 5 000 kohdetta, luettelo näkymän kynnys virhe voi olla, kun yrität käsitellä niitä. Tämä kynnys on käytössä palvelun suoritus kyvyn ylläpitämiseksi. Sitä ei voi muuttaa. Välttääksesi tämän kynnyksen lyömisen:
+SharePoint-luetteloissa ja -kirjastoissa voi olla enintään 30 miljoonaa kohdetta, mutta kun niissä on yli 5 000 kohdetta, saatat nähdä luettelonäkymän kynnysarvovirheen, kun yrität käsitellä niitä. Tämä raja-arvo on käytössä palvelun suorituskyvyn säilyttämistä varten. Sitä ei voi muuttaa. Voit välttää tämän kynnyksen saavuttamisen:
 
-**Käytä modernia**
+**Käytä nykyaikaisia**
 
-Monet kohteet näyttävät parhaiten modernissa kokemuksella. [Käytä modernia kokemusta](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) välttääksesi virheitä, joita saatat nähdä klassisessa kokemuksessa.
+Näkymät, joissa näkyy monia kohteita, toimivat parhaiten modernissa kokemuksessa. [Käytä modernia kokemusta](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) välttääksesi virheitä, joita saatat nähdä perinteisessä kokemuksessa.
 
 **Indeksien lisääminen**
 
-Kun suodatat tai lajittelet sellaisen sarakkeen mukaan, jolla ei ole indeksiä, saatat nähdä virhe sanoman. [Lisää indeksi](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) manuaalisesti asetukset-valikon **luettelo asetuksista** ja sitten **Indeksoidut sarakkeet**.
+Kun suodatat tai lajittelet sarakkeen mukaan, jossa ei ole indeksiä, näyttöön saattaa tulee virhesanoma. [Lisää indeksi](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) manuaalisesti asetusvalikon **Luetteloasetukset-kohdasta** ja sitten **Indeksoituja sarakkeita**.
 
-**Muokkaa luettelo näkymää**
+**Luettelonäkymän muokkaaminen**
 
-Jos suurta luetteloa käsiteltäessä tapahtuu virhe, [Muokkaa luettelo näkymää](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).
+Jos suuri luettelo -käytössä ilmenee virhe, [muokkaa luettelonäkymää](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).
 
-Seuraavat neljä muutosta poistavat luettelo näkymän kynnys virheet. Poista kaikki virheet tekemällä kaikki neljä muutosta. Jos virheitä on yhä, tarkista [suurten luetteloiden ja kirjastojen hallinta](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).
+Seuraavat neljä muutosta poistavat luettelonäkymän kynnysvirheet. Poista kaikki virheet kaikista neljästä muutosta. Jos saat edelleen virheitä, valitse [Suurten luetteloiden ja kirjastojen hallinta](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).
 
-1. Valitse **ei mitään** **sarakkeen ensimmäisestä lajittelussa** ja **Lajittele sitten sarakkeen mukaan**.
-2. Valitse **sarakkeen ensimmäisestä ryhmästä** **ei mitään** ja **Ryhmittele sitten sarakkeen mukaan**.
-3. Valitse kaikki **summat** -osan sarakkeissa **ei mitään** .
-4. Poista valinta kohdasta Kaikki paitsi yksi sarake näytääksesi **sarakkeet** -osasta.
+1. Valitse **ei mitään** sekä Lajittele ensin sarakkeen **mukaan** että Lajittele sitten **sarakkeen mukaan**.
+2. Valitse **ei mitään** sekä **ensimmäisestä ryhmästä sarakkeen mukaan** että **Ryhmittele sitten sarakkeen mukaan**.
+3. Valitse **Ei mitään** kaikille **Summille-osan** sarakkeille.
+4. Poista kaikkien paitsi yhden sarakkeen valinta **Sarakkeet-osiosta** näytettäväksi.
 

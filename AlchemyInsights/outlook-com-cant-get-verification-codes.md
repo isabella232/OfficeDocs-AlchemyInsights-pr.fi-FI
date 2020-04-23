@@ -1,9 +1,9 @@
 ---
-title: Outlook.com ei voi saada vahvistus koodit
+title: Outlook.com ei voi vastaanottaa vahvistuskoodeja
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537692"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760805"
 ---
-# <a name="cant-get-verification-codes"></a>Ei saada vahvistus koodit
+# <a name="cant-get-verification-codes"></a>Vahvistuskoodeja ei saada
 
-Jos et pääse vaihtoehtoinen sähköpostiosoite tai puhelinnumero, siirry Microsoft tilin [tietoturvan perusteet](https://account.microsoft.com/security) -sivulle, valitse Kirjaudu sisään-sivulla **mainituista ei ole** ja ohjeiden korvaa security-info.
+Jos et voi käyttää vaihtoehtoista sähköpostiosoitettasi tai puhelinnumeroasi, siirry Microsoft-tilisi [Suojauksen perustiedot](https://account.microsoft.com/security) -sivulle, valitse kirjautumissivulla **minulla ei ole mitään näistä** ja korvaa suojaustietosi noudattamalla ohjeita.
 
-*Huomautus:* [Microsoft todentaja app](https://go.microsoft.com/fwlink/?linkid=2016117) ei edellytä internet-yhteyttä ja toimittaa tarkastus-koodi.
+*Huomautus:* [Microsoft Authenticator -sovellus](https://go.microsoft.com/fwlink/?linkid=2016117) ei edellytä internet-yhteyttä, jotta saat vahvistuskoodin.
 
-Lue lisätietoja [Microsoft tilin tietoja- ja turvakoodista](https://support.microsoft.com/help/12428/).
+Lisätietoja on ohjeaiheessa [Microsoft-tilin suojaustiedot ja vahvistuskoodit](https://support.microsoft.com/help/12428/).

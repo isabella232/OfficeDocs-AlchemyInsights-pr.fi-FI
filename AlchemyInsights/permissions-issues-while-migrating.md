@@ -1,30 +1,30 @@
 ---
-title: Käyttö oikeus ongelmat siirrettäessä
+title: Käyttöoikeuksien ongelmat siirrettäessä
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 95bfbfdf002e457230479a860058c1cf7ab1f8c2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 077b7cf29ef6a40ef7f2aebef15e39a0f5df0fc3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758967"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Käyttäjä profiili ja valo kuvien synkronointi
+# <a name="user-profile-and-photo-synchronization"></a>Käyttäjäprofiili ja valokuvien synkronointi
 
- **Profiili kuvan synkronointi** -käyttäjät saattavat huomata, että heidän profiili kuvansa ei synkronoitu SharePointiin. Tai he ovat ehkä yrittäneet päivittää profiili kuvaansa ja valo kuva näkyy edelleen vanhalla valo kuvansa. Jotta profiili kuva näkyy odotetulla tavalla, käyttäjän on käynnistettävä valo kuvien synkronointi. 
+ **Profiilivalokuvien synkronointi** - Käyttäjät saattavat huomata, että heidän profiilikuvansa ei synkronoidu SharePointiin. Tai he ovat saattaneet yrittää päivittää profiilikuvansa ja kuva näkyy edelleen vanhana kuvana. Jotta profiilikuva näkyy odotetulla tavalla, käyttäjän on aloitettava valokuvien synkronointi. 
   
-Lisä tietoja valo kuvien synkronointi prosessista on kohdassa [Office 365-profiili kuvien synkronoinnin tiedot](https://go.microsoft.com/fwlink/?linkid=2022634)
+Lisätietoja valokuvien synkronointiprosessista on [ohjeaiheessa Tietoja profiilikuvien synkronoinnista Microsoft 365:ssä](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profiilin synkronointi** -profiilin synkronoinnin suorittamiseen tarvittava aika riippuu siitä, kuinka paljon muutoksia (työ) mainoksen tuonti työn on käsiteltävä. Jos muutoksia on paljon, ajastimella on paljon työtä, ja muutosten näkymistä käyttäjä profiili sovelluksessa kestää kauemmin. Jos ajastin työn määrä on pieni, muutokset näkyvät käyttäjä profiili sovelluksessa paljon nopeammin. 
+- **Profiilin synkronointi** - Profiilin synkronoinnin suorittamiseen tarvittava aika määräytyy ad import jobin käsittelemien muutosten (työn) määrän mukaan. Jos muutoksia on paljon, ajastintyöllä on paljon tehtävää, ja muutosten näkyminen käyttäjäprofiilisovelluksessa kestää kauemmin. Jos ajastintyössä on pieni määrä tehtävää, muutokset näkyvät käyttäjäprofiilisovelluksessa paljon nopeammin. 
   
-Lisä tietoja profiilin synkronointi prosessista on kohdassa [tietoja käyttäjä profiilien synkronoinnista SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=2022639)
+Lisätietoja profiilin synkronointiprosessista on [ohjeaiheessa Tietoja käyttäjäprofiilin synkronoinnista SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Office Delve** -Delve-päivitys profiilin käyttäjät voivat hallita Office 365-profiiliaan. Lisä tietoja on kohdassa [Office Delven profiilin tarkasteleminen ja päivittäminen](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Office Delven päivitysprofiili** - Delve-käyttäjät voivat hallita Microsoft 365 -profiiliaan. Lisätietoja on kohdassa [Profiilin tarkasteleminen ja päivittäminen Office Delvessä](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 
