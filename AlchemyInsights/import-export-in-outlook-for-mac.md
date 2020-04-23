@@ -1,9 +1,9 @@
 ---
-title: Import-Export-in-Outlook-for-Mac
+title: tuonti-vienti-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629943"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724727"
 ---
-# <a name="importexport-in-outlook-for-mac"></a><span data-ttu-id="5954b-102">Tuominen ja vieminen Outlook for Mac</span><span class="sxs-lookup"><span data-stu-id="5954b-102">Import/Export in Outlook for Mac</span></span> 
+# <a name="importexport-in-outlook-for-mac"></a><span data-ttu-id="90e25-102">Tuominen ja vieminen Outlook for Macissa</span><span class="sxs-lookup"><span data-stu-id="90e25-102">Import/Export in Outlook for Mac</span></span> 
 
-<span data-ttu-id="5954b-103">Vienti:</span><span class="sxs-lookup"><span data-stu-id="5954b-103">Export:</span></span>
-1. <span data-ttu-id="5954b-104">Valitse **Työkalut** -välilehden **Vie**.</span><span class="sxs-lookup"><span data-stu-id="5954b-104">On the **Tools** tab, choose **Export**.</span></span>
-2. <span data-ttu-id="5954b-105">**Tallenna nimellä** -ruudussa **Suosikit**Valitse **lataukset** -kansio ja valitse **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="5954b-105">In the **Save as** box, under **Favorites**, choose the **Downloads** folder, and select **Save**.</span></span>
-3. <span data-ttu-id="5954b-106">Kun näyttöön tulee ilmoitus, että vienti on valmis, valitse **Valmis**.</span><span class="sxs-lookup"><span data-stu-id="5954b-106">When you see the notification that the export is complete, select **Finish**.</span></span>
+<span data-ttu-id="90e25-103">Vienti:</span><span class="sxs-lookup"><span data-stu-id="90e25-103">Export:</span></span>
+1. <span data-ttu-id="90e25-104">Valitse **Työkalut-välilehdessä** **Vie**.</span><span class="sxs-lookup"><span data-stu-id="90e25-104">On the **Tools** tab, choose **Export**.</span></span>
+2. <span data-ttu-id="90e25-105">Valitse **Tallenna nimellä** -ruudun **Suosikit-kohdasta** **Lataukset-kansio** ja valitse **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="90e25-105">In the **Save as** box, under **Favorites**, choose the **Downloads** folder, and select **Save**.</span></span>
+3. <span data-ttu-id="90e25-106">Kun näet ilmoituksen, että vienti on valmis, valitse **Valmis**.</span><span class="sxs-lookup"><span data-stu-id="90e25-106">When you see the notification that the export is complete, select **Finish**.</span></span>
 
-<span data-ttu-id="5954b-107">Tuonti:</span><span class="sxs-lookup"><span data-stu-id="5954b-107">Import:</span></span>
-1. <span data-ttu-id="5954b-108">Valitse **Työkalut** -välilehdestä **Tuo**.</span><span class="sxs-lookup"><span data-stu-id="5954b-108">On the **Tools** tab, choose **Import**.</span></span>
-2. <span data-ttu-id="5954b-109">Valitse **Arkistoi-tiedosto (.pst) Outlook for Windows** > **Jatka**.</span><span class="sxs-lookup"><span data-stu-id="5954b-109">Select **Outlook for Windows archive file (.pst)** > **Continue**.</span></span>
-3. <span data-ttu-id="5954b-110">Etsi Mac .pst-tiedosto ja valitse sitten **Tuo**.</span><span class="sxs-lookup"><span data-stu-id="5954b-110">Locate the .pst file on your Mac, and then choose **Import**.</span></span>
-4. <span data-ttu-id="5954b-111">Kun tuontiprosessi on valmis, valitse **Valmis**.</span><span class="sxs-lookup"><span data-stu-id="5954b-111">When the import process is complete, choose **Finish**.</span></span>
-5. <span data-ttu-id="5954b-112">Tuodut kohteet näkyvät siirtymisruudun **Oma tietokone-** kohdassa.</span><span class="sxs-lookup"><span data-stu-id="5954b-112">The imported items appear in the navigation pane under **On My Computer**.</span></span>
+<span data-ttu-id="90e25-107">Tuoda:</span><span class="sxs-lookup"><span data-stu-id="90e25-107">Import:</span></span>
+1. <span data-ttu-id="90e25-108">Valitse **Työkalut-välilehdessä** **Tuo**.</span><span class="sxs-lookup"><span data-stu-id="90e25-108">On the **Tools** tab, choose **Import**.</span></span>
+2. <span data-ttu-id="90e25-109">Valitse **Outlook for Windows -arkistotiedosto (.pst)** > **Jatka**.</span><span class="sxs-lookup"><span data-stu-id="90e25-109">Select **Outlook for Windows archive file (.pst)** > **Continue**.</span></span>
+3. <span data-ttu-id="90e25-110">Etsi Macin .pst-tiedosto ja valitse sitten **Tuo**.</span><span class="sxs-lookup"><span data-stu-id="90e25-110">Locate the .pst file on your Mac, and then choose **Import**.</span></span>
+4. <span data-ttu-id="90e25-111">Kun tuontiprosessi on valmis, valitse **Valmis**.</span><span class="sxs-lookup"><span data-stu-id="90e25-111">When the import process is complete, choose **Finish**.</span></span>
+5. <span data-ttu-id="90e25-112">Tuodut kohteet näkyvät siirtymisruudussa **Oma tietokone -kohdassa.**</span><span class="sxs-lookup"><span data-stu-id="90e25-112">The imported items appear in the navigation pane under **On My Computer**.</span></span>
 
-<span data-ttu-id="5954b-113">Ohjeet Outlook for Mac on täysi joukko tuonti ja vienti [tuonti ja vienti Outlook sähköpostin, yhteystietojen ja kalenterin](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).</span><span class="sxs-lookup"><span data-stu-id="5954b-113">For full set of Import and Export instructions for Outlook for Mac see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).</span></span> 
+<span data-ttu-id="90e25-113">Outlook for Macin täydelliset tuonti- ja vientiohjeet ovat ohjeaiheessa [Outlook-sähköpostin, -yhteystietojen ja -kalenterin tuominen ja vieminen](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).</span><span class="sxs-lookup"><span data-stu-id="90e25-113">For full set of Import and Export instructions for Outlook for Mac see [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).</span></span> 
 
-<span data-ttu-id="5954b-114">Saat tukea-app-Outlook for Mac-ongelmat, Avaa Outlook ja valitse **Ohje** > **Yhteyshenkilö tukea**.</span><span class="sxs-lookup"><span data-stu-id="5954b-114">To receive support in-app for Outlook for Mac issues, open Outlook and select **Help** > **Contact Support**.</span></span> <span data-ttu-id="5954b-115">Kirjoita kysymyksesi ja jäsen Outlook for Mac saa ottaa yhteyttä tuotetukiryhmääsi.</span><span class="sxs-lookup"><span data-stu-id="5954b-115">Type your question and a member of the Outlook for Mac support team will get in touch with you.</span></span> [<span data-ttu-id="5954b-116">Ota Outlook for Mac-tuki</span><span class="sxs-lookup"><span data-stu-id="5954b-116">Contact support in Outlook for Mac</span></span>](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+<span data-ttu-id="90e25-114">Jos haluat saada Outlook for Mac -tuen ongelmia, avaa Outlook ja valitse **OhjeOta** > **yhteyttä tukeen**.</span><span class="sxs-lookup"><span data-stu-id="90e25-114">To receive support in-app for Outlook for Mac issues, open Outlook and select **Help** > **Contact Support**.</span></span> <span data-ttu-id="90e25-115">Kirjoita kysymyksesi, niin Outlook for Mac -tukiryhmän jäsen ottaa sinuun yhteyttä.</span><span class="sxs-lookup"><span data-stu-id="90e25-115">Type your question and a member of the Outlook for Mac support team will get in touch with you.</span></span> [<span data-ttu-id="90e25-116">Ota yhteyttä tukeen Outlook for Macissa</span><span class="sxs-lookup"><span data-stu-id="90e25-116">Contact support in Outlook for Mac</span></span>](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
