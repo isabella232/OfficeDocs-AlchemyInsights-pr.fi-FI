@@ -1,9 +1,9 @@
 ---
-title: Volyymikäyttöoikeussopimuksen yrityksen väärä tili käyttöön
+title: Volyymikäyttöoikeusyrityssopimus aktivoitu väärällä tilillä
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 1387a2ab32d57881ce7d4842dd5d278e789a5d0e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716205"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="e5c7e-102">Volyymikäyttöoikeussopimuksen yrityksen väärä tili käyttöön</span><span class="sxs-lookup"><span data-stu-id="e5c7e-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="a2abc-102">Volyymikäyttöoikeusyrityssopimus aktivoitu väärällä tilillä</span><span class="sxs-lookup"><span data-stu-id="a2abc-102">Volume licensing enterprise agreement activated on wrong account</span></span>
 
-<span data-ttu-id="e5c7e-103">Jos väärä vuokralaisen on aktivoitu Volume Licensing EA-sopimuksen kautta ostettujen tilausten, käytä ”soittaa sinulle kerro meille” vaihtoehto puhua tukihenkilö.</span><span class="sxs-lookup"><span data-stu-id="e5c7e-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="a2abc-103">Jos volyymikäyttöoikeusyrityssopimuksen kautta ostetut tilaukset on aktivoitu väärällä vuokraajalla, käytä "Soita sinulle" -vaihtoehtoa, jotta voit keskustella tukihenkilölle.</span><span class="sxs-lookup"><span data-stu-id="a2abc-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
