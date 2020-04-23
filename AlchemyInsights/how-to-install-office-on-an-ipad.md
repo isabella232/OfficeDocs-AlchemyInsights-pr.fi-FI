@@ -1,9 +1,9 @@
 ---
-title: Officen asentaminen iPadissa
+title: Officen asentaminen iPadiin
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: c6fc0c5f6c05767df6a4b2a5686b4383f4309047
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e0c20fb30555f25155902cf9516f7c99b9f98e4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540358"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759221"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a>Officen asentaminen iPadissa
+# <a name="how-to-install-office-on-an-ipad"></a>Officen asentaminen iPadiin
 
-- On käyttäjä [napauttamalla linkkiä](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) -matkaviestimen, Word, Excel, PowerPoint ja OneNote.
+- Pyydä käyttäjää [napauttamaan mobiililaitteensa,](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) Wordin, Excelin, PowerPointin ja OneNoten latauslinkkiä.
 
-- Käyttäjä käynnistää sovelluksen, napauta **Kirjaudu sisään** ja anna heidän työnsä tai tunnistetietoja Koulu on.
+- Pyydä käyttäjää käynnistämään sovellus, napauta **Kirjaudu sisään** ja anna hänen työ- tai koulutietonsa.

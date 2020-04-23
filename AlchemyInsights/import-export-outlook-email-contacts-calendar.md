@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-tuonti-vienti-outlook-email-yhteystiedot-kalenteri
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545157"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724661"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Tuominen ja vieminen Outlook sähköpostin, yhteystietojen ja kalenterikohteet
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlookin sähköpostin, yhteystietojen ja kalenterikohteiden tuonti ja vienti
 
-1. Valitse Outlookin **Tiedosto**.
+1. Valitse Outlookissa **Tiedosto**.
 
-2. Valitse **Avaa & Vie**ja valitse sitten **Tuominen ja vieminen**.
+2. Valitse **Avaa ja vie** ja sitten **Tuo tai Vie**.
 
-    Tämä komento käynnistää ohjatun tuonnin ja viennin.
+    Ohjattu tuominen ja vieminen -toiminto käynnistyy.
 
-Täydellisen asettaminen tuonnin ja viennin ohjeita Outlookissa, katso [tämän artikkelin](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Täydellinen outlookin tuonti- ja vientiohjejoukko on [tässä artikkelissa](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Jos olet järjestelmänvalvoja ja haluat joukkotuonnin useita PST-tiedostoja Office 365-postilaatikoihin, lue [tämä artikkeli](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Jos olet järjestelmänvalvoja ja haluat joukkotuoda useita PST-tiedostoja Microsoft 365 -postilaatikoihin, lue [tämä artikkeli](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

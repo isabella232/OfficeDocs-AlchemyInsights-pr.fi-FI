@@ -1,24 +1,24 @@
 ---
 ms.author: pebaum
-title: 'Outlookin Exchange 2007: n ongelmista'
+title: Exchange 2007:n Outlook-ongelmat
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743306"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Virheen ”et voi vastaanottaa postia nykyisen postilaatikon” ratkaisu
-Seuraavat virheet tulee näyttöön, jos yrität käyttää Outlook 365/2016 Exchange 2007-palvelimen kanssa:
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Ratkaisu virheeseen "Et voi vastaanottaa postia nykyisestä postilaatikosta"
+Näyttöön tulee seuraavat virheet, jos yrität käyttää Outlook 365/2016:ta Exchange 2007 -palvelimen kanssa:
 
-*Stop, pitää odottaa asentaa Office-2016. Ei voi vastaanottaa postia nykyistä postilaatikkoa. Outlook 2016 ole Exchange 2007: n kanssa yhteensopivia. Voit halutessasi ottaa yhteyttä oman postilaatikon palveluntarjoajalta tai järjestelmänvalvojalta tietoja tästä ongelmasta. Resurssi, jota yrität käyttää sijaitsee Microsoft Exchangen versiota ei tueta. Saat lisätietoja sähköpostin järjestelmänvalvojalta.*
+*Lopeta, odota Office 2016:n asentamista. Et voi vastaanottaa postia nykyisestä postilaatikosta. Outlook 2016 ei ole yhteensopiva Exchange 2007:n kanssa. Voit ottaa yhteyttä postilaatikkopalveluun tai järjestelmänvalvojaan tästä ongelmasta. Resurssi, jota yrität käyttää, sijaitsee Microsoft Exchangen versiossa, jota ei tueta. Pyydä apua sähköpostin järjestelmänvalvojalta.*
 
-Outlookin käyttäminen Exchange 2007: n, voit asentaa Outlook 2013 Jos päivitit aiemmasta Outlook. Lisätietoja on ohjeaiheessa [miten päivityksen Office 2016 jälkeen Office 2013 uudelleen?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)
+Jos haluat käyttää Outlookia Exchange 2007:n kanssa, voit asentaa Outlook 2013:n, jos olet päivittänyt Outlookin aiemmasta versiosta. Lisätietoja on ohjeaiheessa [Office 2013:n asentaminen uudelleen Office 2016 -päivityksen jälkeen?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)

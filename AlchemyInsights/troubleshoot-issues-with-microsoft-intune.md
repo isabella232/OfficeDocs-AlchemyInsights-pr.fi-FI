@@ -1,25 +1,25 @@
 ---
-title: Ongelmia Microsoft Intune
+title: Microsoft Intunen ongelmien vianmääritys
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506584"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733447"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Ongelmia Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intunen ongelmien vianmääritys
 
-Tarkista ongelman nyt alla luetellut resurssit.
+Tarkista alla luetellut resurssit ongelman ratkaisemiseksi nyt.
   
-1. [Intune vianmääritys-portaalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista joitakin yleisiä virheitä. [Tässä](https://docs.microsoft.com/intune/help-desk-operators) asiakirjassa on lisätietoja.  
-2. Tutustu [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)löytää vastauksia ja ratkaisuja yleisiin ongelmiin.  
-3. Tutustu [Palvelun terveyden](https://portal.office.com/AdminPortal/Home#/servicehealth) voit tarkastella palvelun tilaa.   
-4. Tarkista [Intune dokumentaation](https://docs.microsoft.com/intune/) suunnittelu, kolumneja, artikkeleita ja paljon. 
+1. [Intune Troubleshooting Portalin](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) avulla voit diagnosoida ja ratkaista joitakin yleisiä virheitä. Lisätietoja on [tässä](https://docs.microsoft.com/intune/help-desk-operators) asiakirjassa.  
+2. Etsi vastauksia ja ratkaisuja yleisiin ongelmiin [Intune TechNetistä. ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)  
+3. Tarkista palvelun tila [kohdasta Palvelun kunto.](https://portal.office.com/AdminPortal/Home#/servicehealth)   
+4. Tutustu [Intunen dokumentaatioon, jossa](https://docs.microsoft.com/intune/) on suunnittelua, toimintaohjeita, vianmääritysartikkeleita ja paljon muuta. 

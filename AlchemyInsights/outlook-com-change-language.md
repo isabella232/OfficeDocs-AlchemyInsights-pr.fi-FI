@@ -1,9 +1,9 @@
 ---
-title: Kielen, päivämäärän ja kellonajan muoto tai aikavyöhykkeen Outlook.com-Muuta kieli
+title: Kielen, päivämäärän ja kellonajan muodon tai aikavyöhykkeen vaihtaminen Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9368fe86c2f0e4756c69dd56e4a5e6cdefdfe841
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537332"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721924"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Kielen, päivämäärän ja kellonajan muoto tai Outlook.com aikavyöhykkeen muuttaminen
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Kielen, päivämäärän ja kellonajan muodon tai aikavyöhykkeen vaihtaminen Outlook.com
 
-1. Avaa oman [kielen asetukset ja](https://go.microsoft.com/fwlink/?linkid=2085505).
-1. Valitse kieli, päivämäärän, kellonajan muoto ja aikavyöhyke, jota haluat käyttää.
+1. Avaa [Kieli- ja aika-asetukset](https://go.microsoft.com/fwlink/?linkid=2085505).
+1. Valitse kieli, päivämäärämuoto, aikamuoto ja aikavyöhyke, jota haluat käyttää.
 1. Valitse **Tallenna**.

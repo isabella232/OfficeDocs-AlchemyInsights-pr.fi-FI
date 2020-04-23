@@ -1,9 +1,9 @@
 ---
-title: Import-Export-in-Outlook-for-Mac
+title: tuonti-vienti-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629943"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724727"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Tuominen ja vieminen Outlook for Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Tuominen ja vieminen Outlook for Macissa 
 
 Vienti:
-1. Valitse **Työkalut** -välilehden **Vie**.
-2. **Tallenna nimellä** -ruudussa **Suosikit**Valitse **lataukset** -kansio ja valitse **Tallenna**.
-3. Kun näyttöön tulee ilmoitus, että vienti on valmis, valitse **Valmis**.
+1. Valitse **Työkalut-välilehdessä** **Vie**.
+2. Valitse **Tallenna nimellä** -ruudun **Suosikit-kohdasta** **Lataukset-kansio** ja valitse **Tallenna**.
+3. Kun näet ilmoituksen, että vienti on valmis, valitse **Valmis**.
 
-Tuonti:
-1. Valitse **Työkalut** -välilehdestä **Tuo**.
-2. Valitse **Arkistoi-tiedosto (.pst) Outlook for Windows** > **Jatka**.
-3. Etsi Mac .pst-tiedosto ja valitse sitten **Tuo**.
+Tuoda:
+1. Valitse **Työkalut-välilehdessä** **Tuo**.
+2. Valitse **Outlook for Windows -arkistotiedosto (.pst)** > **Jatka**.
+3. Etsi Macin .pst-tiedosto ja valitse sitten **Tuo**.
 4. Kun tuontiprosessi on valmis, valitse **Valmis**.
-5. Tuodut kohteet näkyvät siirtymisruudun **Oma tietokone-** kohdassa.
+5. Tuodut kohteet näkyvät siirtymisruudussa **Oma tietokone -kohdassa.**
 
-Ohjeet Outlook for Mac on täysi joukko tuonti ja vienti [tuonti ja vienti Outlook sähköpostin, yhteystietojen ja kalenterin](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Outlook for Macin täydelliset tuonti- ja vientiohjeet ovat ohjeaiheessa [Outlook-sähköpostin, -yhteystietojen ja -kalenterin tuominen ja vieminen](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Saat tukea-app-Outlook for Mac-ongelmat, Avaa Outlook ja valitse **Ohje** > **Yhteyshenkilö tukea**. Kirjoita kysymyksesi ja jäsen Outlook for Mac saa ottaa yhteyttä tuotetukiryhmääsi. [Ota Outlook for Mac-tuki](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Jos haluat saada Outlook for Mac -tuen ongelmia, avaa Outlook ja valitse **OhjeOta** > **yhteyttä tukeen**. Kirjoita kysymyksesi, niin Outlook for Mac -tukiryhmän jäsen ottaa sinuun yhteyttä. [Ota yhteyttä tukeen Outlook for Macissa](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

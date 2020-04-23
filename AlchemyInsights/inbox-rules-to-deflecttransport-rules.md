@@ -1,9 +1,9 @@
 ---
-title: 929 deflectTransport sääntöjä Saapuneet-kansion säännöt
+title: 929 Saapuneet-kansion säännöt, jotka koskevat kuljetussääntöjä
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724589"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Postisääntöjen virtaus (liikenteen säännöt)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Postin kulkua koskevat säännöt (tunnetaan myös siirtosäännöinä)
 
-- Postisääntöjen virtauksen yleiskatsaus: [postin flow säännöt (Siirtosäännöt) Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Yleistä postin kulkusäännöistä: [Postin kulkusäännöt (siirtosäännöt) Exchange Onlinessa](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Asetukset sähköpostin työnkulkusäännöt: [postin flow säännön menettelyt Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Sähköpostin kulun sääntöjen määrittäminen: [Postin kulusäännön toimintosarjat Exchange Onlinessa](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Luoda, muokata ja poistaa sähköpostin työnkulkusäännöt: [Hallitse postisääntöjen vuo](https://technet.microsoft.com/library/jj657505.aspx)
+- Postin kulkusääntöjen luominen, muokkaaminen ja poistaminen: [Postin kulkusääntöjen hallinta](https://technet.microsoft.com/library/jj657505.aspx)
 
-Voit myös hallita Exchange Online PowerShellin yhdistäminen työnkulkusäännöt. Lisätietoja [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (näkymä) [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (luominen), [Poista-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (DEL), [Aseta-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (Muokkaa nykyistä), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (poista aiemmin), ja [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (käyttöön nykyinen).
+Voit myös hallita postin kulkusääntöjä Exchange Online PowerShellissä. Lisätietoja on [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) [ohjelm.](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule)
 
-Uusia työnkulun säännön cmdlet-komennot: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (luetteloon käytettävissä olevat toiminnot), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (luetteloon käytettävissä olevat ehdot ja poikkeukset), [Vie-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (vienti säännöt) ja [ Tuo-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (Tuo säännöt).
+Muut postin kulkusäännön cmdlet-komennot: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (luettelo käytettävissä olevista toiminnoista), [Get-TransportRulePredikaatti](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (luettelo käytettävissä olevista ehdoista ja poikkeuksista), [Vienti-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (vientisäännöt) ja [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (tuontisäännöt).
