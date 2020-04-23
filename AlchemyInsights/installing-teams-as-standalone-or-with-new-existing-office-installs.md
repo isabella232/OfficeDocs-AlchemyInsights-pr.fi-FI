@@ -1,5 +1,5 @@
 ---
-title: Ryhmien asentaminen itsenäisenä tai uusien/olemassa olevien Office-asennusten avulla
+title: Teamsin asentaminen erillisinä tai uusilla/olemassa olevilla Office-asennuksilla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768870"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763178"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Tiimien asentaminen itsenäisiksi tai uusiin tai olemassa oleviin Office-asennuksiin
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Teamsin asentaminen itsenäisenä tai uusien tai olemassa olevien Office-asennusten avulla
 
-Microsoft teams sisältyy Office 365 ProPlusin, Office 365 Businessin ja Office for Macin *uusiin asennuksiin* . Lisä tietoja [on kohdassa Milloin Microsoft teams otetaan mukaan uusiin Office-asennuksiin?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams sisältyy Microsoft 365 Apps for Enterprise-, Microsoft 365 Apps for Business- ja Office for Mac *-versioiden uusiin asennuksiin.* Lisätietoja on ohjeaiheessa [Milloin Microsoft Teams alkaa sisältyä uusiin Office-asennuksiin?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Lisäksi kuukausi kanavalla versiosta 1906 alkaen teams lisätään Office 365 ProPlusin (ja Office 365 Businessin) *nykyisiin asennuksiin* Windows-käyttö järjestelmän laitteisiin, kun päivität olemassa olevan asennuksen uusimpaan versioon. Lisä tietoja on Ohje aiheessa [Entä nykyiset Office-asennukset?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Lisäksi, alkaen versiosta 1906 Monthly Channelissa, Teams lisätään olemassa oleviin Microsoft 365 Apps for enterprise (ja Microsoft 365 Apps for Business) *-asennuksiin* Windows-laitteissa, kun päivität nykyisen asennuksen uusimpaan versioon. Lisätietoja on [ohjeaiheessa Entä olemassa olevat Office-asennukset?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
-Voit ottaa ryhmät käyttöön erillisenä käyttäjinä noudattamalla [näitä ohjeita](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)tai voit määrittää, että käyttäjät asentavat tiimejä itselleen https://teams.microsoft.com/downloads.
+Voit ottaa Teamsin käyttöön erillisinä käyttäjillesi [näiden ohjeiden mukaisesti](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)tai voit https://teams.microsoft.com/downloadsantaa käyttäjien asentaa Teamsin itse -kohdasta.
 
-Kun joukkueet on asennettu, se [päivitetään automaattisesti](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) noin kahden viikon välein uusilla ominaisuuksilla ja laatu päivityksillä. 
+Kun Teams on asennettu, se [päivittyy automaattisesti](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) noin kahden viikon välein uusilla ominaisuuksilla ja laatupäivityksillä. 
 

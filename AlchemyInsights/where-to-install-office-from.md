@@ -1,5 +1,5 @@
 ---
-title: Officen asentaminen
+title: Mistä Office asennetaan
 ms.author: janellem
 author: janellem
 ms.audience: ITPro
@@ -11,25 +11,25 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36659529"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765158"
 ---
 # <a name="install-office"></a>Officen asentaminen
 
-Jos haluat asentaa Officen, käyttäjillä on oltava [office 365-liiketoiminta tuote](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) , joka sisältää Työpöytä sovellukset ja [määritetyn käyttö oikeuden](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Officen asentaminen edellyttää, että käyttäjillä on [Microsoft 365 for Business -tuote,](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) joka sisältää työpöytäsovellukset ja [määritetyn käyttöoikeuden.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
-Office voidaan sitten asentaa seuraavien vaiheiden mukaisesti:
+Office voidaan sitten asentaa seuraavasti:
   
-1. Siirry osoitteeseen [Portal.Office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
+1. Siirry [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
 
-2. Valitse Officen koti sivulla haluamasi kieli ja valitse sitten 64-bittinen tai 32-bittinen versio valitsemalla **lisä asetukset** .
+2. Valitse Officen kotisivulla haluamasi kieli ja valitse sitten 64- tai 32-bittinen versio valitsemalla **Lisäasetukset.**
 
 3. Valitse **Asenna Office**.
 
-Lisä tietoja on artikkelissa [Officen lataaminen ja asentaminen tai uudelleenasentaminen PC:hen tai Maciin](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Lisätietoja on ohjeaiheessa [Officen lataaminen ja asentaminen tai asentaminen uudelleen PC- tai Mac-tietokoneeseen](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
   
-Lisä tietoja Vision tai Projectin ohjeista on kohdassa [Vision](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Install Projectin](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)asentaminen.
+Lisätietoja Visiosta tai Projectista on kohdassa [Vision asentaminen](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Projectin asentaminen](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).

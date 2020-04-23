@@ -1,8 +1,8 @@
 ---
-title: Voit korjata Officen aktivointivirhe 0xc004b100 vaiheet
+title: Vaiheet Officen aktivointivirheen 0xc004b100 ratkaisemiseksi
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,17 +12,17 @@ ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 49ebcd433414a07becb035c36903d53a77f98872
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ac4692a9e0af76ce1516882177ab3b8cc61c20c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534380"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763964"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Voit korjata Officen aktivointivirhe 0xc004b100 vaiheet
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Vaiheet Officen aktivointivirheen 0xc004b100 ratkaisemiseksi
 
-Kokeile seuraavia keinoja korjata Office-aktivointitoiminnon virhe 0xc004b100:
+Kokeile seuraavia ratkaisuja Officen aktivointivirheen 0xc004b100 korjaamiseksi:
   
-1. [Online Office korjaus](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)tehtävä.
+1. [Officen online-korjauksen suorittaminen](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-2. Lataa ja asenna [tuki- ja palautus-avustaja](https://aka.ms/SARA-OfficeActivation-Alchemy) ja suorittaa **Aktivoinnin vianmääritys**.
+2. Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeActivation-Alchemy) ja suorita **aktivoinnin vianmääritys**.

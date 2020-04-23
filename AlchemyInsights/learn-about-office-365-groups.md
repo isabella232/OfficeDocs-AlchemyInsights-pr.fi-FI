@@ -1,9 +1,9 @@
 ---
-title: '610 lisätietoja Office 365: n ryhmät'
+title: 610 Lisätietoja Office 365 -ryhmistä
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b67781d510c582737f6f1eb3643024ae044de024
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497692"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762854"
 ---
-# <a name="learn-about-office-365-groups"></a>Tutustu Office 365: n ryhmät
+# <a name="learn-about-office-365-groups"></a>Lisätietoja Office 365 -ryhmistä
 
-Office 365-ryhmät on palvelu, joka toimii Office 365-työkaluilla käyttää jo, joten voit käsitellä yhdessä ryhmäsi kanssa kirjoitettaessa asiakirjojen, laskentataulukoiden luomiseen, projektisuunnitelmat parissa, kokousten ajoittaminen tai sähköpostin välityksellä. Lisätietoja on kohdassa [Lisätietoja Office 365: n ryhmät](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Office 365 -ryhmät on palvelu, joka toimii jo käyttämiesi Office 365 -työkalujen kanssa, joten voit tehdä yhteistyötä työtovereiden kanssa kirjoittaessasi asiakirjoja, luodessaan laskentataulukoita, käsitteleessä projektisuunnitelmia, aikataulutettaessa kokouksia tai lähettämällä sähköpostia. Lisätietoja on ohjeaiheessa [Lisätietoja Office 365 -ryhmistä](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

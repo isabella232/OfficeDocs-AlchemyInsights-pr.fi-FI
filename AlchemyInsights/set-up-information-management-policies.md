@@ -2,29 +2,29 @@
 title: Tietojen hallintakäytäntöjen määrittäminen
 ms.author: stevhord
 author: bentoncity
-ms.date: 6/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 3c4487c613d53e8b0e6b8f7a146c2ac988424e89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550008"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767534"
 ---
 # <a name="set-up-information-management-policies"></a>Tietojen hallintakäytäntöjen määrittäminen
 
-1. Jos SharePoint-sivustossa on alisivustoja, siirry ylimmän tason sivuston.
+1. Jos SharePoint-sivustossa on alisivustoja, siirry ylimmän tason sivustoon.
     
-2. Valitse **asetukset**ja valitse sitten **Sivuston asetukset**. Jos sivusto on Office 365: n ryhmän yhteydessä sivustoon, **asetukset**, valitse **Sivuston sisältö**ja valitse **Sivuston asetukset**.
+2. Valitse **Asetukset**ja valitse sitten **Sivuston asetukset**. Jos sivusto on Office 365 -ryhmään yhdistetty sivusto, valitse **Asetukset**, valitse **Sivuston sisältö**ja valitse sitten **Sivuston asetukset**.
     
-3. Valitse **Sivustokokoelman hallinta**-kohdasta **sivustokokoelmaominaisuudet**.
+3. Valitse **Sivustokokoelman hallinta**-kohdasta **Sivustokokoelman ominaisuudet**.
     
-4. **Paikallaan tapahtuva tietueiden käsittely**-kohdasta **Activate**.
+4. Valitse **Käytössä Tietueiden hallinta**-kohdassa **Aktivoi**.
     
-Lisätietoja, katso [Johdanto tietojen hallintakäytäntöihin](https://go.microsoft.com/fwlink/?linkid=404239) ja [Luo ja käytä tietojen hallintakäytäntöjen](https://go.microsoft.com/fwlink/?linkid=2003916).
+Lisätietoja on [ohjeessa Johdanto tietojen hallintakäytäntöihin](https://go.microsoft.com/fwlink/?linkid=404239) ja [Tietojen hallintakäytäntöjen luominen ja käyttäminen](https://go.microsoft.com/fwlink/?linkid=2003916).
   
 

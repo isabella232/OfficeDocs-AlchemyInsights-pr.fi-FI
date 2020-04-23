@@ -1,30 +1,30 @@
 ---
-title: Mitä versiotietojen avulla voit tehdä?
+title: Mitä voin tehdä versioilla?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531320"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765338"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Mitä versiotietojen avulla voit tehdä?
+# <a name="what-can-i-do-with-versioning"></a>Mitä voin tehdä versioilla?
 
-Voit käyttää SharePoint-luetteloissa ja kirjastoissa, versiotiedot:
+SharePoint-luetteloiden ja -kirjastojen versioinnin avulla voit
   
-- **Versio radan historiaa**. Kun versiotiedot ovat käytössä, näet milloin kohdetta tai tiedostoa on muutettu ja kuka sitä on muuttanut. Näet myös, milloin ominaisuuksia (tietoja tiedostosta) muutettiin. Esimerkiksi jos joku luettelokohteen määräpäivän, kyseiset tiedot näkyvät versiohistoria. Näet myös kommentit ihmiset tehdä ne tarkistaa tiedostot yhdeksi kirjastot. 
+- **Version historian seuraaminen**. Kun versiointi on käytössä, näet, milloin kohdetta tai tiedostoa on muutettu ja kuka sen on muuttanut. Voit myös nähdä, milloin ominaisuuksia (tiedoston tietoja) on muutettu. Jos joku esimerkiksi muuttaa luettelokohteen eräpäivää, tiedot näkyvät versiohistoriassa. Voit myös nähdä kommentit, joita ihmiset tekevät, kun he tarkistavat tiedostoja kirjastoihin. 
     
-- **Edellisen version palauttaminen**. Jos olet tehnyt virheen nykyiseen versioon, jos nykyinen versio on vioittunut tai jos yksinkertaisesti haluat aiempaa paremmin, voit korvata nykyisen version aiemmalla pelillä. Palautettu versio tulee uusi nykyinen versio. 
+- **Palauta edellinen versio**. Jos olet tehnyt virheen nykyisessä versiossa, jos nykyinen versio on vioittunut tai jos yksinkertaisesti pidät aiemmasta versiosta paremmin, voit korvata nykyisen version edellisellä versiolla. Palautetusta versiosta tulee uusi nykyinen versio. 
     
-- **Näytä edellinen versio**. Voit tarkastella korvaamatta nykyistä versiota aiemmassa versiossa. Jos tarkastelet Microsoft Office-asiakirjan versiohistoria, kuten Word- tai Excel-tiedoston, voit verrata kahta versiota voit selvittää erot ovat. 
+- **Näytä edellinen versio**. Voit tarkastella aiempaa versiota korvaamatta nykyistä versiotasi. Jos tarkastelet Microsoft Office -asiakirjan versiohistoriaa, kuten Word- tai Excel-tiedostoa, voit verrata kahta versiota ja selvittää erot. 
     
-[Lisätietoja versiotietojen SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=875710)
+[Lisätietoja versioinnin toiminnasta SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

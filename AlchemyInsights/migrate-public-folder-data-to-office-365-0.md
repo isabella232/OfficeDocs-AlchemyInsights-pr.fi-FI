@@ -1,5 +1,5 @@
 ---
-title: Yleisten kansioiden tietojen siirtäminen Office 365-tieto lähteeseen
+title: Yleisen kansion tietojen siirtäminen Microsoft 365:een
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,22 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
-ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
+ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "39202591"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762134"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Yleisten kansioiden tietojen siirtäminen Office 365-tieto lähteeseen
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Yleisen kansion tietojen siirtäminen Microsoft 365:een
 
-Jos sinulla ei ole paljon yleisiä kansioita tuoda Office 365, helpoin tapa tuoda ne olisi kopioida tiedot. PST-tiedostoja ja tuoda ne sitten Office 365. Pieni määrä tietoja, yksinkertainen Vedä ja pudota yleisen kansion. PST-tiedosto voi olla riittävä. Jos sinulla on enemmän dataa kuin (jopa 30GB), olemme [dokumentoitu prosessi](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , jonka avulla voit viedä kansioita pst tiedostoja.
+Jos sinulla ei ole paljon julkisia kansioita tuoda Microsoft 365, helpoin tapa tuoda ne olisi kopioida tiedot . PST-tiedostoja ja sitten tuoda ne Microsoft 365. Jos haluat pieniä tietomääriä, julkinen kansio on vedettävä ja vedettävä . PST-tiedosto voi olla riittävä. Jos sinulla on enemmän tietoa kuin että (jopa 30GB), olemme [dokumentoitu prosessi,](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) jonka avulla voit viedä kansioita PST-tiedostoja.
   
-Suurissa organisaatioissa, jotka siirovat julkisia kansioita Office 365: een, meillä on oppaita saatavilla.
+Suuremmille organisaatioille, jotka siirtävät yleisiä kansioita Microsoft 365:een, meillä on oppaita:
   
 - [Vanhojen yleisten kansioiden siirtäminen](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Exchange 2013-, Exchange 2016-tai Exchange 2019-julkisten kansioiden siirtäminen](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [Exchange 2013:n, Exchange 2016:n tai Exchange 2019:n yleisten kansioiden siirtäminen](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Voit myös [siirtää yleiset kansiot Office 365-ryhmiin](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Voit myös siirtää [yleiset kansiot Office 365 -ryhmiin](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

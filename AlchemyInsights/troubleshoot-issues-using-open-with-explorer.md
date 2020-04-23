@@ -1,9 +1,9 @@
 ---
-title: Avaa Resurssienhallinnassa-toiminnolla-ongelmien vian määritys
+title: Open with Explorerin käyttöön liittyvien ongelmien vianmääritys
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cb26876d93a110b3b0addd7821206215c783f959
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742730"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759689"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Avaa Resurssienhallinnan ongelmien korjaaminen
+# <a name="fix-problems-with-open-with-explorer"></a>Open with Explorerin ongelmien korjaaminen
 
-Korjaa yleisiä ongelmia asiakirja kirjaston avaamisessa SharePointissa tai OneDrivessa **Avaa Resurssienhallinnassa-** komennolla: 
+SharePointin tai OneDriven tiedostokirjaston avaamiseen liittyvien yleisten ongelmien korjaaminen **Avaa Resurssienhallinnassa** -komennolla: 
   
-- Käytä Internet Explorer 10: tä tai Internet Explorer 11: tä. **Avaa Explorerilla** ei ole yhteensopiva Microsoft Edgen, Google Chromen, Firefoxin ja muiden kanssa. **Avaa Resurssienhallinnassa** ei ole käytössä kaikissa selaimissa, paitsi Internet Explorerissa. 
+- Käytä Internet Explorer 10:tä tai Internet Explorer 11:tä. **Open with Explorer** ei ole yhteensopiva Microsoft Edgen, Google Chromen, Firefoxin ja muiden kanssa. **Avaa Resurssienhallinnassa** on poistettu käytöstä kaikissa selaimissa Internet Exploreria lukuun ottamatta. 
     
-- **Avaa Resurssienhallinnassa** ei ole käytettävissä modernissa SharePoint-kirjastojen käyttö kokemessa. Käytä sen sijaan **näkymää Resurssienhallinnassa** . Valitse Resurssienhallinnan **Näytä asetukset** \> **-näkymä**. View in File Explorer ei ole yhteensopiva Microsoft Edge, Google Chrome, Firefox ja muut. **View in File Explorer** käytettävissä vain Internet Explorerissa. 
+- **Avaa Resurssienhallinnan avulla** ei ole käytettävissä SharePoint-kirjastojen modernissa käyttökokemuksessa. Käytä sen sijaan **Resurssienhallinnassa näkymää.** Valitse **Resurssienhallinnassa Näytä asetukset** \> **.** Resurssienhallinnan näkymä ei ole yhteensopiva Microsoft Edgen, Google Chromen, Firefoxin ja muiden kanssa. **Näytä Resurssienhallinnassa,** joka on käytettävissä vain Internet Explorerissa. 
     
-- Varmista, että WebClient-palvelu on käynnissä. Kirjoita Windows Search-ruutuun Suorita, valitse Suorita Työpöytä sovellus, kirjoita Services. msc ja paina sitten ENTER-näppäintä. Vieritä alaspäin WebClient-palveluun ja varmista, että **tila** sarakkeessa näkyy "Running". Jos se ei ole, kaksoisnapsauta palvelua, valitse **Käynnistä**ja valitse sitten **OK**. (Sinun on ehkä ensin otettava palvelu käyttöön valitsemalla **Käynnistys tyyppi** -ruudusta joko **Manuaalinen** tai **Automaattinen** .) 
+- Varmista, että WebClient-palvelu on käynnissä. Kirjoita Windowsin hakuruutuun suorita, valitse Suorita työpöytäsovellus, kirjoita services.msc ja paina sitten Enter-näppäintä. Vieritä alas WebClient-palveluun ja varmista, että **Tila-sarakkeessa** näkyy "Käynnissä". Jos näin ei ole, kaksoisnapsauta palvelua, napsauta **Käynnistä -painiketta**ja valitse sitten **OK**. (Sinun on ehkä ensin otettava palvelu käyttöön valitsemalla **Käynnistystapa-ruudusta** **Joko Manuaalinen** tai **Automaattinen.)** 
     
 > [!NOTE]
-> Kirjaston avaaminen Resurssienhallinnassa on kätevää, jos sinun on kopioitava tai siirrettävä useita tiedostoja ja kansioita kerran, mutta jos haluat työskennellä säännöllisesti kirjastossa, suosittelemme sen synkronoimista. Jos haluat suorittaa Resurssienhallinnan ongelmien vian määrityksen, katso [Avaa Resurssienhallinnassa](https://go.microsoft.com/fwlink/?linkid=871665). Lisä tietoja synkronoinnin määrittämisestä [on artikkelissa SharePoint-tiedostojen synkronointi uuden OneDrive-synkronointi asiakkaan kanssa](https://go.microsoft.com/fwlink/?linkid=871666).
+> Kirjaston avaaminen Resurssienhallinnassa on kätevää, jos haluat kopioida tai siirtää useita tiedostoja ja kansioita kerran, mutta jos haluat työskennellä säännöllisesti kirjastossa, suosittelemme sen synkronointia. Lisätietoja Resurssienhallinnan avaamiseen liittyvien ongelmien vianmäärityksestä on [ohjeaiheessa AvaaMinen Resurssienhallinnassa](https://go.microsoft.com/fwlink/?linkid=871665). Lisätietoja synkronoinnin määrittämisestä on ohjeaiheessa [SharePoint-tiedostojen synkronoiminen uuden OneDrive-synkronointiohjelman kanssa](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Katso lisä tietoja artikkelista [kuinka käyttää avaa Exploreria-komentoa SharePoint Onlinen ongelmien vian määritykseen](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
+Lisätietoja on artikkelissa [SharePoint Onlinen ongelmien vianmääritys Avaa Resurssienhallinnassa -komennon avulla.](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) 
   
 

@@ -1,9 +1,9 @@
 ---
-title: 'Ei-voittoa Office 365: n hankkimisesta'
+title: Office 365 for Non-profitsin ostaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390869"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763574"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Ei-voittoa Office 365: n hankkimisesta
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Office 365 for Non-profitsin ostaminen
 
-Microsoft pätevä järjestö kuin tila on hyväksytty. Ostaa:
+Microsoftin hyväksymä voittoa tavoittelematon järjestö -asemasi on hyväksytty. Osto-ohjeet:
   
-1. Hallintakeskukseen, siirry **laskutuksen** \> [Palveluiden osto](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
+1. Siirry hallintakeskuksessa \> [Laskutusostopalvelut-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing**
 
-2. Valitse luettelosta **Ei-voittoa suunnitelmien**mukaisesti.
+2. Valitse listasta **Voittoa tavoittelemattomat suunnitelmat**.
 
-3. Osoittamalla Tilaus, jonka haluat ostaa ja valitse **Osta nyt**.
+3. Vie hiiren osoitin sen tilauksen päälle, jonka haluat ostaa, ja valitse **Osta nyt**.

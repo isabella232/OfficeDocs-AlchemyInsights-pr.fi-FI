@@ -1,9 +1,9 @@
 ---
-title: '8000016: kansion poistaminen'
+title: '8000016: Kansion poistaminen'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b605a9fa656eb9439c8c9fd6087c6999233fcc3c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36556526"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742982"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kansion poistaminen Outlookissa Webissä
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kansion poistaminen Outlookin verkkoversiossa
 
-1. Napsauta kansio ruudussa hiiren kakkos painikkeella kansiota tai alikansio, jonka haluat poistaa.
+1. Napsauta kansioruudussa hiiren kakkospainikkeella kansiota tai alikansiota, jonka haluat poistaa.
 2. Valitse **Poista kansio**.
-3. Vahvista valinta valitsemalla **OK** .
+3. Vahvista valitsemalla **OK.**
 
-Lisä tietoja on kohdassa [Outlookin viesti kansioiden käsitteleminen Webissä](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Lisätietoja on [ohjeaiheessa Viestikansioiden käsitteleminen Outlookin verkkoversiossa](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

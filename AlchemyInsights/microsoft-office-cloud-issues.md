@@ -1,5 +1,5 @@
 ---
-title: Järjestelmänvalvojan rooli ja määrittäminen
+title: Järjestelmänvalvojarooli ja sen määrittäminen
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054771"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762350"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Onko sinulla ongelmia pilvi palvelussa?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Onko pilvipalvelussa ongelmia?
 
-Jos pilvi palvelussa ilmenee ongelmia, voit tarkistaa [palvelun kunnon](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365-hallinta keskuksesta ja selvittää, onko kyseessä tunnettu ongelma, jossa on meneillään ratkaisu, ennen kuin soitat tukeen tai käytät ajan vian määritystä. Ongelma voi olla hyvin väliaikainen, ja Microsoft on jo määrittänyt sen, mutta ongelman tunnistuksen ja palvelun kunnon koonti näyttöön lähettämisen välillä saattaa kuitenkin olla viive. Tarkista edelleen palvelun koonti näyttö lisä päivityksiä varten.
+Jos pilvipalvelussa on ongelmia, voit tarkistaa Microsoft 365 -hallintakeskuksen [palvelun kunnosta,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) onko kyseessä tunnettu ongelma, joka liittyy käynnissä olevaan ratkaisuun, ennen kuin soitat tukeen tai käytät aikaa vianmääritykseen. Ongelma saattaa olla hyvin väliaikainen, ja Microsoft on jo tunnistanut ongelman tunnistamisen ja palvelun kunnon hallintapaneeliin lähettämisen välillä. Jatka palvelun koontinäytön tarkistamista lisäpäivitysten tarkistamiseksi.
 
-**Ilmoitus käytäntö**
+**Ilmoituskäytäntö**
 
-Kun palvelu tapahtuma toteutuu, Microsoft tunnistaa, että oikea-aikainen, kohdennettu ja tarkka viestintä on asiakkaiden kannalta ratkaisevan tärkeää. Microsoft ilmoittaa Office 365-järjestelmänvalvojille päivittämällä [Vuokraajakohtainen palvelun kunnon koonti näyttö (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Office 365-hallinta portaalissa. Palvelu tapahtumien päivitykset annetaan tunti rytmissä, tai jos tarvitaan eri poljin nopeus, se ilmoitetaan SHD-viestinnän kirja uksessa. Lisä tietoja on kohdassa [Office 365 Service Health-palvelun tarkistaminen](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Kun palvelutapahtuma ilmenee, Microsoft tunnistaa, että oikea-aikainen, kohdennettu ja tarkka viestintä on tärkeää asiakkaille. Microsoft ilmoittaa järjestelmänvalvojille päivittämällä Microsoft 365 -hallintaportaalin vuokraajan kohtaisen [Palvelun kunnon koontinäytön (SHD).](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Palvelutapahtuman päivitykset annetaan tuntikadenssin tai, jos eri poljinnopeus on tarpeen, se ilmoitetaan SHD-viestinnässä. Lisätietoja on [ohjeaiheessa Microsoft 365 Service Healthin tarkistaminen](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

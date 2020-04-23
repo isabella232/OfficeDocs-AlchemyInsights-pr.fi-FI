@@ -1,5 +1,5 @@
 ---
-title: Missä on Power Pivot?
+title: Missä Power Pivot on?
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -14,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769840"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765194"
 ---
-# <a name="where-is-power-pivot"></a>Missä on Power Pivot?
+# <a name="where-is-power-pivot"></a>Missä Power Pivot on?
 
-On kolme syytä, miksi et ehkä näe Power Pivot:
+Power Pivot ei ehkä näe kolmesta syystä:
   
 **Excel-versiosi ei sisällä sitä**
   
-Kaikki Excelin versiot eivät sisällä Power Pivot-versiota. Sinun on päivitettävä Office-versioon, joka sisältää Power Pivot-version. [Tarkista tuettujen versioiden luettelo.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Kaikissa Excelin versioissa ei ole Power Pivotia. Sinun on päivitettävä Power Pivotia sisältävään Office-versioon. [Tarkista tuettujen versioiden luettelo.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Et ole ottanut Power Pivot-**
+**Power Pivotia ei ole otettu käyttöön**
   
-Jos työskentelet Excelin versiossa, joka tukee Power Pivot-versiota, tarkista, että apuohjelma on käytössä:
+Jos käytät Excel-versiota, joka tukee Power Pivotia, tarkista, että apuohjelma on käytössä:
   
-1. Valitse **tiedosto** \> **Asetukset** \> - **Apuohjelmat**.
+1. Valitse \> **File** **Options** \> **Tiedostoasetukset-apuohjelmat**.
 
-2. Valitse **hallinnoi** -pudotus ruudusta **COM-apuohjelmat** ja valitse **Siirry**.
+2. Valitse avattavasta **Hallinta-ruudusta COM-apuohjelmat** ja valitse **Siirry**. **Manage**
 
-3. Valitse **COM-apuohjelmat-** valinta ikkunasta **Microsoft Power Pivot for Excelin**vieressä oleva valinta ruutu ja valitse sitten **OK**.
+3. Valitse **Com-apuohjelmat-valintaikkunassa** Microsoft Power Pivot **for Excel**-kohdan vieressä oleva valintaruutu ja valitse sitten **OK**.
 
-**Sinulla on useita tila uksia tai tilejä**
+**Sinulla on useita tilauksia tai tilejä**
   
-Eri käyttäjä tileille on ehkä määritetty eri Office 365-tila ukset. Varmista, että olet kirjautunut sisään tilille, jonka Excel-versio tukee Power Pivotia. Tarkista [tuettujen versioiden](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)luettelo ja [Vaihda eri Office-tilien välillä](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)noudattamalla ohjeita.
+Eri käyttäjätileille on ehkä määritetty eri Microsoft 365 -tilauksia. Varmista, että olet kirjautunut tilille Power Pivotia tukevalla Excel-versiolla. Tarkista [tuettujen versioiden](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)luettelo ja [siirry eri Office-tilien välillä](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)noudattamalla ohjeita .

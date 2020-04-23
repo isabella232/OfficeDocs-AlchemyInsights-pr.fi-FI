@@ -1,8 +1,8 @@
 ---
-title: Sala sanan synkronoinnin tilan tarkistaminen
+title: Salasanan synkronoinnin tilan tarkistaminen
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555374"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765590"
 ---
-# <a name="enable-password-sync"></a>Ota Sala sanojen synkronointi käyttöön
+# <a name="enable-password-sync"></a>Ota salasanan synkronointi käyttöön
 
-1.  Valitse **DirSync-tila** Microsoft 365-hallinta keskuksen koti sivulta. 
+1.  Valitse Microsoft 365 -hallintakeskuksen kotisivulta **DirSync-tila.** 
     
-     *Vaihtoehtoisesti voit siirtyä **käyttäjät** \> **aktiiviset käyttäjät**, ja aktiiviset käyttäjät-sivulla, valitse **Lisää** \> **hakemiston synkronointi.*** 
+     *Vaihtoehtoisesti voit siirtyä **Käyttäjät** \> **aktiiviset käyttäjät**-kohtaan ja valita Aktiiviset käyttäjät -sivulla **Lisää** \> **hakemistosynkronointia.*** 
     
-2. Valitse hakemiston synkronointi-ruudussa **Siirry DirSync-hallintaan**. 
+2. Valitse Hakemistosynkronointi-ruudussa **Siirry DirSync-hallintaan**. 
     
 3. Nyt näet tilasi ja teet muutoksia:
     
-    **Sala sanan synkronointi käytössä:** (tosi tai EPÄTOSI). Määrittää, onko Sala sanojen synkronointi käytössä paikallisen ja Office 365-vuokra ajan välillä. 
+    **Salasanan synkronointi käytössä:** (Tosi tai Epätosi). Määrittää, onko paikallisen ja vuokraajan välillä otettu käyttöön salasanan synkronointi. 
     
-    **Viimeinen Sala sanan synkronointi:** (viimeksi Sala sanan synkronointi suoritettiin). Tämä näyttää varoituksen ja linkin vian määritys työkaluun, jos viimeinen synkronointi on yli kolme päivää sitten. 
+    **Viimeisin salasanan synkronointi:** (Viimeksi kun salasanan synkronointi on loppunut). Näyttöön tulee varoitus ja linkki vianmääritystyökaluun, jos viimeinen synkronointi oli yli kolme päivää sitten. 
     
 

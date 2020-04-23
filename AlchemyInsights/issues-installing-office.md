@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765806"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Ratkaisuja Office-asennuksen ongelmiin
 
@@ -29,7 +29,7 @@ Kokeile jotakin näistä ratkaisuista Office-virheen korjaamiseksi:
 - Puhdista edelliset Office-jäljet ja asenna Office uudelleen käyttämällä tuki- ja palautus avustajaa (SaRA). 
 
     - Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy). Kun se aukeaa, valitse **Poista Office-tuotteiden asennus** -kohdasta versio, jonka asennuksen haluat poistaa, ja valitse **seuraava**. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä. Uudelleenkäynnistyksen jälkeen SaRA avautuu automaattisesti ja asennusprosessi viimeistellään.
-    - [Asenna Office uudelleen ](http://aka.ms/sara-officeinstall) SaRAn avulla. **Huomautus**: jos haluat määrittää Vision tai Projectin SaRA-toiminnon avulla, [valitse Asenna Visio](https://aka.ms/SaRA-VisioSetupScenario) tai [Asenna Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - [Asenna Office uudelleen ](https://aka.ms/sara-officeinstall) SaRAn avulla. **Huomautus**: jos haluat määrittää Vision tai Projectin SaRA-toiminnon avulla, [valitse Asenna Visio](https://aka.ms/SaRA-VisioSetupScenario) tai [Asenna Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Asenna Office offline-asennusohjelmalla](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

@@ -1,30 +1,30 @@
 ---
-title: Ongelmia kanssa Office 365 Advanced Threat Protection (ATP)
+title: Office 365 Advanced Threat Protection (ATP) -suojausongelmien vianmääritys
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420298"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766742"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Ongelmia Office 365: n ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP:hen liittyvien ongelmien vianmääritys
 
-- **Ilmoitus ja sähköposti viestien toimittaminen viiveitä**? Kokeile dynaaminen toimitustapa Turvalliset liitetiedostot ATP-politiikan. Kun vastaanottajat suojaaminen haittaohjelmien tiedostot välttämiseksi sähköposti viesti viivästyksiin.
-- **Haluatko raportin aiheettomia tai väärät negatiiviset tulokset**? Tämän linkin avulla voit lähettää tiedosto analyysia varten:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Tiesitkö, että voit ottaa ATP turvallinen linkkejä suojaa organisaation välillä lähetetyt sähköposti**? Toimi seuraavasti:
-    1. Siirry https://protection.office.com, ja kirjaudu sisään.
-    2. Siirry **Threat management** > **käytännön** > **Turvallinen linkkejä**.
-    3. **Käytännöt, jotka koskevat myös tietyille vastaanottajille**, valitse Muokkaa (tai lisätä) käytännön.
-    4. Valitse **Käytä turvallista organisaatiossa lähetettyjen viestien linkkejä**.
-    5. Tallenna käytäntöön ja antaa muutokset tulevat toimimaan kautta oman datacenter niiden tapa noin 30 minuuttia.
-- ATP ohjeita, on ohjeaiheessa [Office 365: n Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Huomaatko viiveet sähköpostiviestin toimittamisessa?** Kokeile käyttää ATP Safe Attachments -käytäntöjen dynaamista toimitusta -vaihtoehtoa. Näin vältetään sähköpostiviestien toimitusviiveet ja suojataan vastaanottajia haitallisilta tiedostoilta.
+- **Haluatko ilmoittaa vääriä positiivisia tai vääriä negatiivisia negatiivisia?** Tämän linkin avulla voit lähettää tiedoston analyysia varten:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Tiesitkö, että voit ottaa ATP Safe Links -suojauksen käyttöön organisaation henkilöiden välillä lähetetyille sähköpostiviesteille?** Toimi seuraavasti:
+    1. Siirry https://protection.office.comkohtaan ja kirjaudu sisään.
+    2. Siirry **Uhkien** > **hallintapolicy** > **Safe Links**.
+    3. Muokkaa (tai lisää) käytäntöä **käytännöt, jotka koskevat tiettyjä vastaanottajia.**
+    4. Valitse **Käytä turvallisia linkkejä organisaation sisällä lähetettyihin viesteihin**.
+    5. Tallenna käytäntö ja anna muutosten kulkea datakeskuksen läpi noin 30 minuuttia.
+- Lisätietoja ATP:n kanssa on ohjeaiheessa [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

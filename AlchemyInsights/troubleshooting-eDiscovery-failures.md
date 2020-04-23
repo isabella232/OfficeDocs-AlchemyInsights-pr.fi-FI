@@ -1,9 +1,9 @@
 ---
-title: 1490-vianmääritys-eDiscovery-virheet
+title: 1490-vianmääritys-eDiscovery-epäonnistumiset
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559370"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759581"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Sisällöstä etsiminen virheiden vianmääritys
+# <a name="troubleshoot-content-search-errors"></a>Sisältöhakuvirheiden vianmääritys
 
-Ongelmia, se sisällöstä etsiminen Office 365 tai haettaessa virheitä kun viet hakutulokset?
+Onko sisältöhaussa tai virheissä ongelmia, kun viet hakutuloksia?
 
-Esimerkiksi, saavat seuraavat haut ajettaessa?
+Saatko esimerkiksi seuraavat tiedot, kun suoritat hakuja?
 
-- CS008 tai CS012 virheet
+- CS008- tai CS012-virheet
 
-- Palvelin varattu tai aikakatkaisuvirheitä
+- Palvelimen varattu/aikakatkaisuvirheet
 
 - Sovellusvirhe
 
-Tai kun haku tai viedä tulokset paljon postilaatikoita (yli 100 000 postilaatikot), näyttöön tuleva vienti virheitä?
+Tai kun etsit tai viet tuloksia suuresta määrästä postilaatikoita (yli 100 000 postilaatikkoa), saatko vientivirheitä?
 
-Tällaisia virheitä, yritä uudelleen haku sisällön sijainteja, jotka ovat epäonnistuneet. Katso lisätietoja [tämän artikkelin](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .
+Jos virhetyyppi on virhe, yritä etsiä epäonnistuneita sisältösijainteja uudelleen. Lisätietoja on [tässä artikkelissa.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)
