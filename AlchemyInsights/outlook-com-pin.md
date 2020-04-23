@@ -1,9 +1,9 @@
 ---
-title: 9000233 Outlook.com PIN-koodi
+title: 9000233 pin-koodi Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: a6dee75a90bb299094a9075f96aad83b5355dac2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b859967d9336306b4b0a4879a7ffd5bee24f7a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744880"
 ---
-# <a name="change-your-pin"></a>PIN-koodin muuttaminen
+# <a name="change-your-pin"></a>PIN-koodin vaihtaminen
 
-Outlook.com ei käytä PIN-tunnuksen, mutta ehkä kirjautua tietokoneeseen PIN tai Windows Hello. Windows 10-PIN-koodin muuttaminen:
+Outlook.com ei käytä PIN-koodia, mutta voit kirjautua tietokoneeseen PIN-koodilla tai Windows Hellolla. PIN-koodin vaihtaminen Windows 10:ssä:
 
-1. Valitsemalla Käynnistä-painike tai paina näppäimistön Windows-näppäintä ja valitse **asetukset** > **tilit** > **kirjautumisasetuksista**.
-2. Valitse **PIN-tunnus**-kohdassa **Muuta** -painiketta.
-3. Anna nykyinen PIN-tunnuksesi, sitten Kirjoita ja vahvista uusi PIN-tunnuksen alla.
+1. Valitse Aloitus-painike tai paina näppäimistön**Windows-näppäintä**ja valitse sitten **Asetukset** > **Tilien** > kirjautumisasetukset .
+2. Valitse **PIN -kohdassa** **Vaihda** -painike.
+3. Anna nykyinen PIN-koodisi ja anna uusi PIN-koodisi alla.
 
-[Lue lisää Windows Hello.](https://support.microsoft.com/help/17215/)
+[Lue lisää Windows Hellosta.](https://support.microsoft.com/help/17215/)

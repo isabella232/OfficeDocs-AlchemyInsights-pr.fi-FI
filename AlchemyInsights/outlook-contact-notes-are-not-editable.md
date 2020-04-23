@@ -1,23 +1,23 @@
 ---
 ms.author: peddy
-title: Ei voi muokata Outlook-yhteyshenkilön muistiinpanot
+title: Outlookin yhteystietomuistiinpanoja ei voi muokata
 author: peddy
 manager: joallard
-ms.date: 4/25/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: dcd52172ade1c6f73a556ba0c4574594988b49a7
-ms.sourcegitcommit: 60bc3cccd1aa81340143cd27c597bb97351ecadb
+ms.openlocfilehash: 9f67a53adfce49c2823767a9c1dca273d9bc1a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/26/2019
-ms.locfileid: "33345993"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743342"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Outlook-yhteyshenkilön muistiinpanot-kenttää ei voi muokata
-Tämä on tunnettu ongelma. On tarkoitus korjata, ja tilaksi päivitetään [Yhteyshenkilön muistiinpanot-kenttää ei voi muokata](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Yhteystiedon muistiinpanokenttää ei voi muokata Outlookissa
+Tämä on tunnettu ongelma. Pyrimme korjaamaan sen, ja tila päivitetään kohdassa [Yhteyshenkilön muistiinpanokentän muokkaaminen ei onnistu](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Ratkaisua**: Jos käytät Office 365: ssä tai Outlook.com-tiliä, voit muokata yhteystietoja Webin kautta. Jos käytät IMAP- tai POP-tili, ole ratkaisua on käytettävissä tällä hetkellä.
+**Vaihtoehtoinen menetelmä**: Jos käytät Microsoft 365- tai Outlook.com-tiliä, voit muokata yhteystietojasi internetin avulla. Jos käytät IMAP- tai POP-tiliä, kiertotapaa ei ole tällä hetkellä käytettävissä.

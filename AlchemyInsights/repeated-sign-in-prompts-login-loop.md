@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 88cbc65909aec2670000ed031675f933b9510897
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722735"
 ---
 # <a name="repeated-sign-in-prompts-in-office-apps"></a>Toistuvat kirjautumiskehotteet Office-sovelluksissa
 
-Lisätietoja office-sovellusten toistuvien kirjautumiskehotteiden vianmäärityksestä on ohjeaiheessa
+Lisätietoja toistuvien kirjautumiskehotteiden vianmäärityksestä Office-sovelluksissa on ohjeaiheessa:
 
-- [Muiden kuin selainsovellusten vianmääritys, jotka eivät voi kirjautua Office 365:een, Azureen tai Intuniin](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Käyttö estetty" tai käyttäjää pyydetään toistuvasti antamaan tunnistetiedot, kun muodostetaan yhteys Office 365:een](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Liitetylle käyttäjälle kysytään toistuvasti tunnistetietoja Office 365:een, Azureen tai Intuneen kirjautumisen aikana](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Sellaisten muiden kuin selainsovellusten vianmääritys, jotka eivät pysty kirjautumaan Microsoft 365:een, Azureen tai Intuneen](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Käyttö estetty", tai käyttäjää pyydetään toistuvasti antamaan tunnistetietoja, kun muodostat yhteyden Microsoft 365:een](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Liitetylle käyttäjälle pyydetään toistuvasti tunnistetietoja Microsoft 365-, Azure- tai Intune-kirjautumisen yhteydessä](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

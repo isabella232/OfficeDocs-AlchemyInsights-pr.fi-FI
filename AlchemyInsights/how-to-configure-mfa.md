@@ -1,5 +1,5 @@
 ---
-title: 955 makrotaloudellisen rahoitus avun määrittäminen
+title: 955 MFA:n määrittäminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739634"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722373"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Usean tekijän todennuksen määrittäminen Office 365-käyttö koneessa
+# <a name="configure-multi-factor-authentication"></a>Monivaiheisen todennuksen määrittäminen
 
-Jos haluat määrittää makrotaloudellisen rahoitus avun, katso [usean tekijän todennuksen määrittäminen Office 365-käyttäjille](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Lisätietoja mfa:n määrittämisestä on ohjeaiheessa [Monivaiheisen todennuksen määrittäminen](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Huomaa, että sinun on oltava Office 365 Global admin, jotta voit ottaa MFA-sovelluksen käyttöön ja määrittää sen asetukset.
+Huomaa, että sinun on oltava yleinen järjestelmänvalvoja, jotta voit ottaa mfa:n käyttöön ja määrittää sen.

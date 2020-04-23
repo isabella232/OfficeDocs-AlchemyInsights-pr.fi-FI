@@ -1,9 +1,9 @@
 ---
-title: 646 AADConnect määrittämisestä
+title: 646 AADConnectin määrittäminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541582"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722533"
 ---
-# <a name="configure-sync-features"></a>Synkronoinnin ominaisuuksien määrittäminen
+# <a name="configure-sync-features"></a>Synkronointiominaisuuksien määrittäminen
 
-Azure AD Connect on useita ominaisuuksia, jotka ovat oletusarvoisesti käytössä tai jotka voidaan ottaa käyttöön myöhemmin. Jotkin ominaisuudet edellyttävät lisämäärityksiä ympäristöissä.
+Azure AD Connect sisältää useita ominaisuuksia, jotka ovat oletusarvoisesti käytössä tai jotka voidaan ottaa käyttöön myöhemmin. Jotkin ominaisuudet edellyttävät lisämäärityksiä tietyissä ympäristöissä.
 
-- Azure AD [suodatus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) rajoitusten objektit synkronoidaan. Tietokonetilit synkronoidaan oletusarvon, kaikki käyttäjät, yhteyshenkilöt, ryhmät ja Windows 10 mukaan. Voit sisällyttää tai jättää pois toimialueisiin, organisaatioyksiköihin tai muita määritteitä perustuvat objektit.
+- [Suodatus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) rajoittaa objektien synkronoinnin Azure AD:hen. Oletusarvon mukaan kaikki käyttäjät, yhteystiedot, ryhmät ja Windows 10 -tietokonetilit synkronoidaan. Voit sisällyttää tai jättää pois objekteja, jotka perustuvat toimialueisiin, oUs-kohteisiin tai muihin määritteisiin.
 
-- [Salasana hash synkronoinnin](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) Synkronoi Azure AD paikalliseen Active Directory-salasanan hajautuksen. Tämä mahdollistaa salasanojen hallinta yhdessä paikassa, mutta käyttää samaa salasanaa molemmissa tiloissa ja solmuryhmän ympäristöissä. Active Directory on virallinen lähde, koska voit käyttää omia salasanakäytännöt.
+- [Salasanan hajautussynkronointi](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkronoi salasanan hajautusarvonsa paikallisesta Active Directorysta Azure AD:hen. Tämä mahdollistaa salasanojen hallinnan yhdessä sijainnissa, mutta saman salasanan käyttäminen sekä paikallisissa että pilviympäristöissä. Koska Active Directory on hallitseva lähde, voit käyttää omia salasanakäytäntöjäsi.
 
-- [Omatoiminen salasanan (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) käyttäjät voivat palauttaa omat salasanansa solmuryhmässä otettaessa yhteyttä paikalliseen Salasanakäytäntö edelleen.
+- [Itsepalvelusalasanan nollauksen (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) avulla käyttäjät voivat nollata omat salasanansa pilvessä ja silti soveltaa paikallista salasanakäytäntöä.
 
-- [Takaisinkirjoitus laitteen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) avulla rekisteröity laitteet voidaan kirjoittaa takaisin paikalliseen Active Directoryyn, joten niitä voidaan käyttää ehdollisen käyttöoikeuden Azure AD.
+- [Laitteen takaisinkirjoitus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) mahdollistaa azure AD:n rekisteröityjen laitteiden kirjoittamisen takaisin paikalliseen Active Directoryyn, jotta niitä voidaan käyttää ehdolliseen käyttöön.
 
-- [Estä vahingossa poistaa](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) on oletusarvoisesti estämään liian monta samanaikaista objektin poistot (yli 500 objektien synkronointi kohti). Voit muuttaa tätä asetusta vastaamaan organisaation tarpeita.
+- [Estä vahingossa tapahtuvat poistot](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) on oletusarvoisesti käytössä, jotta vältettäisiin liian monta samanaikaista objektien poistoa (yli 500 objektia synkronointia kohden). Voit muuttaa tätä asetusta organisaatiosi tarpeiden mukaan.
 
-- [Automaattinen päivitys](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) on käytössä oletusarvoisesti express asennukset ja varmistamaan Azure AD Yhdistä versio on aina ajan tasalla.
+- [Automaattinen päivitys](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) on oletusarvoisesti käytössä pika-asennuksissa, ja se auttaa varmistamaan, että Azure AD Connectin versio on aina ajan tasalla.

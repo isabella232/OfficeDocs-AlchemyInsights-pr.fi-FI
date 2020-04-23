@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Sähkö posti tilaukset
+title: Outlook.com sähköpostitilaukset
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: c07e1af1f1559b06515cdb65ca3c40c58bdb7216
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645650"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723528"
 ---
 # <a name="unable-to-attach-or-upload-files-from-facebook"></a>Tiedostoja ei voi liittää tai ladata Facebookista
 
-Facebookin käyttö ehtojen muutoksen vuoksi 23. loka kuuta 2019 lähtien et voi enää ladata liitteitä suoraan Facebookista, eikä Facebook enää näy pilvi sijaintien luettelossa. 
+Facebookin käyttöehtojen muutoksen vuoksi 23.10.2019 jälkeen et voi enää ladata liitteitä suoraan Facebookista, eikä Facebook enää näy pilvisijaintiesi luettelossa. 
 
-Voit hallita muiden pilvi sijaintien luetteloa [tallennus tileiltä](https://go.microsoft.com/fwlink/?linkid=2111075).
+Voit hallita [tallennustilatilien](https://go.microsoft.com/fwlink/?linkid=2111075)muiden pilvisijaintien luetteloa.
 
-Lue lisä tietoja [tallennus tileistä](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Lisätietoja [tallennustileistä](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   
