@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856787"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739433"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Education-asiakkaiden yleiset Teams-ongelmat
 
@@ -45,12 +45,12 @@ Jos tarvitset apua Teamsin käyttöönotossa etäopiskelun tukemiseen, siirry si
     6. Valitse Skype for Business -hallintakeskuksessa **Puhelinneuvottelut** ja sitten **Käyttäjät**.
     7. Valitse haluamasi käyttäjä ja varmista, että käyttäjällä on oletusarvoinen maksullinen numero.
 
-    Saat lisätietoja artikkelista [Office 365:n puhelupalvelupaketit](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) tai soittamalla Microsoft Commerce Billing -työryhmälle, jos sinulla on käyttöoikeuksiin liittyviä kysymyksiä.
+    Saat lisätietoja artikkelista [Puhelupalvelupaketit](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) tai soittamalla Microsoft Commerce Billing -työryhmälle, jos sinulla on käyttöoikeuksiin liittyviä kysymyksiä.
 
     Lisäresurssit
 
     - [Kokoukset ja konferenssit Microsoft Teamsissa](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Puhelinneuvottelut Office 365:ssä](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Puhelinneuvottelu](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Kokouskäytännöt**: Kokouskäytäntöjen avulla hallitaan ominaisuuksia, jotka ovat kokouksen osallistujien käytössä organisaatiosi käyttäjien ajoittamissa kokouksissa. Kun olet luonut käytännön ja tehnyt haluamasi muutokset, voit määrittää käytäntöön käyttäjiä.
 
