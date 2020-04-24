@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710692"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Sisältöoikeuksien hallinnan suojauksen käyttäminen Microsoft 365:ssä
 
-Sinun tulee aktivoida [oikeuksien hallintapalvelu (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms), ennen kuin voit käyttää sisältöoikeuksien hallintapalvelun (IRM) ominaisuuksia Office 365 -sovelluksissa ja -palveluissa.
+Sinun tulee aktivoida [oikeuksien hallintapalvelu (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms), ennen kuin voit käyttää sisältöoikeuksien hallintapalvelun (IRM) ominaisuuksia Microsoft-sovelluksissa ja -palveluissa.
 
 1. Saat lisätietoja käyttöoikeusvaatimuksista ja käyttöoikeuksien aktivoinnista **Microsoft 365 -hallintakeskuksessa** artikkelista [Oikeuksien hallinnan suojauksen aktivoiminen Microsoft 365 -hallintakeskuksessa](https://docs.microsoft.com/azure/information-protection/activate-office365). **Huomautus**: edellyttää yleisen järjestelmänvalvojan tiliä.
 
