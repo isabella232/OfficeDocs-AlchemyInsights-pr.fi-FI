@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182511"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789479"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä SharePoint Online -ympäristössä
 
-Jos haluat lisätietoja siitä, miten Office 365:n yleiset ja SharePoint-järjestelmänvalvojat voivat muuttaa organisaation jaettujen SharePoint- ja OneDrive-jakoasetuksia, lue [Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+Jos haluat lisätietoja siitä, miten yleiset järjestelmänvalvojat ja SharePoint-järjestelmänvalvojat voivat muuttaa organisaation jaettujen SharePoint- ja OneDrive-jakoasetuksia, lue artikkeli [Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509491"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788879"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Käyttäjän postilaatikon automaattisten vastausten määrittäminen
 
 **Menetelmä 1**
 
-1. Kirjaudu sisään Office 365 -portaaliin.
+1. Kirjaudu sisään Microsoft 365 -portaaliin.
 
 2. Siirry kohtaan **Käyttäjät > Aktiiviset käyttäjät** (tai **Ryhmät > Jaetut postilaatikot**, jos määrität jaetun postilaatikon).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509491"
 
 **Menetelmä 2**
 
-1. Kirjaudu sisään Office 365 -hallintaportaaliin järjestelmänvalvojan tunnistetiedoilla.
+1. Kirjaudu sisään Microsoft 365 -hallintaportaaliin järjestelmänvalvojan tunnistetiedoilla.
 
 2. Laajenna **Hallintakeskukset** ja valitse sitten **Exchange**.
 
