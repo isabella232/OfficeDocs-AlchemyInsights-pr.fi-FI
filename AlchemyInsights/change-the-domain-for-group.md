@@ -1,5 +1,5 @@
 ---
-title: Office 365 -ryhmän toimialueen muuttaminen
+title: Microsoft 365 Groupin toimialueen muuttaminen
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7aab6fd8bef120a6d589fc3c2d852fd4cb499aca
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706486"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911289"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Office 365 -ryhmän toimialueen muuttaminen
+# <a name="change-the-domain-for-microsoft-365-group"></a>Microsoft 365 Groupin toimialueen muuttaminen
 
-Jos haluat muuttaa Office 365 -ryhmän toimialuetta luomisen aikana, noudata kohdassa [Valitse toimialue, jota käytetään Luotaessa Office 365 -ryhmiä](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Jos haluat muuttaa Microsoft 365 -ryhmän toimialuetta luonnin aikana, noudata kohdan [Valitse toimialue, jota käytetään Luotaessa Microsoft 365 -ryhmiä](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
 
-Kun Office 365 -ryhmä on jo luotu, toimialuetta ei voi tällä hetkellä muuttaa. Ainoa tapa on luoda uusi Office 365 -ryhmä ja poistaa vanha tarvittaessa [(exchange-hallintakeskuksen](https://outlook.office365.com/ecp)kautta voidaan lisätä lisäsähköpostiosoitteita .
+Kun Microsoft 365 Group on jo luotu, toimialuetta ei voi tällä hetkellä muuttaa. Ainoa tapa on luoda uusi Microsoft 365 -ryhmä ja poistaa vanha tarvittaessa [(exchange-hallintakeskuksen](https://outlook.office365.com/ecp)kautta voidaan lisätä lisäsähköpostiosoitteita .

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721746"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912400"
 ---
 # <a name="manage-access-requests"></a>Käyttöoikeuspyyntöjen hallinta
 
@@ -26,7 +26,7 @@ Kun käyttäjä yrittää käyttää sharepointin kohdetta eikä hänellä ole k
     
 2. Valitse **Käyttäjät ja käyttöoikeudet**-kohdasta **Käyttöoikeuspyynnöt ja -kutsut**. (Jos tämä ei tule näkyviin, käyttöoikeuspyyntöjä ei ole tehty.)
     
-3. Jos haluat antaa käyttäjälle käyttöoikeudet yksitellen, valitse **Hyväksy** tai **Hylkää**. Jos haluat valita tietyn käyttöoikeustason, napsauta ensin henkilön nimen vieressä olevaa kolmea pistettä (...). Voit myös lisätä käyttäjän ryhmään, jolla on sivuston käyttöoikeudet. Viestintäsivustoissa ja klassisissa ryhmäsivustoissa voit tehdä tämän Sivuston asetukset -sivulla. Voit lisätä käyttäjän ryhmään Office 365 -ryhmään kuuluville sivustoille.
+3. Jos haluat antaa käyttäjälle käyttöoikeudet yksitellen, valitse **Hyväksy** tai **Hylkää**. Jos haluat valita tietyn käyttöoikeustason, napsauta ensin henkilön nimen vieressä olevaa kolmea pistettä (...). Voit myös lisätä käyttäjän ryhmään, jolla on sivuston käyttöoikeudet. Viestintäsivustoissa ja klassisissa ryhmäsivustoissa voit tehdä tämän Sivuston asetukset -sivulla. Microsoft 365 -ryhmään kuuluville sivustoille voit lisätä käyttäjän ryhmään.
     
     [Käyttöoikeuspyyntöjen hallinta](https://go.microsoft.com/fwlink/?linkid=2008747)
     

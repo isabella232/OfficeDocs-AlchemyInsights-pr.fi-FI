@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 255629468a896ebf10917e4738e6aaf8c2d26826
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745142"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912616"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>Poistetun Yammer-ryhmän palauttaminen
 
-[Office 365 yhdistetyt ryhmät Yammerissa](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) voidaan palauttaa 30 päivän kuluessa poistamisesta noudattamalla [poistetun Office 365-ryhmän palauttamista](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
-Joissain tapa uksissa Yammer-ryhmää ei ehkä ole yhdistetty Office 365-ryhmään. Jos näin on, ryhmää ei voi palauttaa automaattisesti, mutta Yammer- [tietojen viennissä](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) saattaa olla mahdollista käyttää poistettuja tietoja, jos verkon [tietojen säilytys käytäntö](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) on asetettu *Soft Delete*-tilaan. Ota yhteyttä Yammer-verkon [valvotusta järjestelmänvalvojaan](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) ja tarkista tietojen säilyttämis käytäntö tai Suorita tietojen vienti.
+[Yammerin Office 365:n yhdistetyt ryhmät](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) voidaan palauttaa 30 päivän kuluessa poistamisesta noudattamalla [poistaneen Microsoft 365 -ryhmän palauttaminen](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group)ohjeita.
+Joissakin tapauksissa Yammer-ryhmää ei ehkä ole yhdistetty Microsoft 365 -ryhmään. Jos näin on, ryhmää ei voi palauttaa automaattisesti, mutta Yammer-tietojen [viennissä](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) poistettuja tietoja voi olla mahdollista käyttää, jos [verkkotietojen säilytyskäytännöna](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) on *Soft Delete*. Ota yhteyttä Yammer-verkoston [vahvistettuun järjestelmänvalvojaan](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) tietojen säilytyskäytännön tarkistamiseksi tai tietojen viennin suorittamiseksi.

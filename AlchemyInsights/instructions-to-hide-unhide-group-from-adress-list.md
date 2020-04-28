@@ -1,5 +1,5 @@
 ---
-title: Ohjeet Piilota/Näytä ryhmä osoite luettelosta
+title: Ohjeet ryhmän piilottamiseen/nunnaan osoiteluettelosta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768916"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908341"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Piilota Office 365-ryhmä osoite luettelosta (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Piilota Microsoft 365 -ryhmä osoiteluettelosta (GAL)
 
-Voit piilottaa Office 365-ryhmän Exchange-asiakkaiden (kuten Outlookin tai OWA) osoite luetteloista (GAL) käyttämällä seuraavaa komentoa EXO Shell:
+Jos haluat piilottaa Microsoft 365 -ryhmän Exchange-asiakkaiden (kuten Outlookin tai OWA:n) osoiteluetteloista, käytä exo-liittymän seuraavaa komentoa:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Jos haluat piilottaa Office 365-ryhmän näkyvistä Exchange-asiakkaille, käytä EXO Shell-kohteessa seuraavaa komentoa:
+Jos haluat piilottaa Microsoft 365 -ryhmän näkymisen Exchange-asiakkaille, käytä seuraavaa komentoa EXO-liittymässä:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

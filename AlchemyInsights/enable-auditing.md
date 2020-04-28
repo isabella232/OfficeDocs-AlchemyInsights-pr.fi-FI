@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703640"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908413"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Valvontalokin ottaminen käyttöön ja hakeminen
 
@@ -31,7 +31,7 @@ Voit etsiä Microsoft 365:n valvontalokista [seuraavasti](https://docs.microsoft
 
 - Postilaatikon valvonta on oletusarvoisesti käytössä Microsoft 365:ssä. Lisätietoja on [tässä artikkelissa](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Exchange Onlinen Office 365 Group -postilaatikot ja yleisen kansion postilaatikot eivät tue valvontalokia.
+- Microsoft 365 Group -postilaatikot ja yleisen kansion postilaatikot Exchange Onlinessa eivät tue valvontalokia.
 
 **SharePoint ja OneDrive**
 

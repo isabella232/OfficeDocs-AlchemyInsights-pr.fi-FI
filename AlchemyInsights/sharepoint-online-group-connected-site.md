@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642141"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912963"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Ongelmia luotaessa ryhmään yhdistettyä sivustoa SharePointissa
 
@@ -30,5 +30,5 @@ Jos olet poistanut ryhmän ja siihen liitetyn sivuston ja haluat luoda toisen si
 
 1. Voit luoda ja käyttää moderneja ryhmiä SharePointin avulla eri tavoilla.
 
-   - Voit yhdistää aiemmin luotuja sivustoja Office 365 -ryhmään. Lisätietoja on [ohjeaiheessa Office 365 -ryhmän yhdistäminen SharePoint-käyttöliittymän avulla](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Jos haluat luoda Office 365 -ryhmään yhdistetyn sivuston, sinun on luotava [ryhmäsivusto](https://admin.microsoft.com/sharepoint).
+   - Voit yhdistää aiemmin luotuja sivustoja Microsoft 365 -ryhmään. Lisätietoja on [ohjeaiheessa Microsoft 365 -ryhmän yhdistäminen SharePoint-käyttöliittymän avulla](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Jos haluat luoda Microsoft 365 -ryhmään yhdistetyn sivuston, sinun on luotava [ryhmäsivusto](https://admin.microsoft.com/sharepoint).

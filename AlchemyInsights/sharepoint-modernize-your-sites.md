@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 8ee45688c5ffb4b02295e7a4df655c6e3a8dd6fe
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573187"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912783"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>SharePoint-sivustojen nykyaikaistaminen
 
-Vaiheittaiset yleiskatsauksessa on ohjeaiheessa [Klassisten SharePoint-sivustojen nykyaikaistaminen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Vaiheittaiset ohjeet nykyaikaisten SharePoint-sivustojen moderniksi nykyaikaistamisesta ovat [ohjeaiheessa Klassisten SharePoint-sivustojen nykyaikaistaminen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
-* Lisätietoja sivuston sivujen sekä luettelo- ja kirjastosivujen nykyaikaisen käyttöliittymän käytön maksimoimiseksi on [ohjeaiheessa Käyttöliittymän nykyaikaistaminen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Lisätietoja luetteloiden ja kirjastojen eston poistamisesta, kun käytät nykyaikaista käyttöliittymää, on ohjeaiheessa [Nykyaikaisten luetteloiden ja kirjastojen käytön maksimointi](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Lisätietoja yhteyden muodostamisesta Office 365 -ryhmään ja ryhmäyhteyden muodostamisesta [on ohjeaiheessa Yhteyden muodostaminen Office 365 -ryhmään](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Lisätietoja nykyaikaisen käyttöliittymän käytöstä sivustosivuilla sekä luettelo- ja kirjastosivuilla on [ohjeaiheessa Käyttöliittymän nykyaikaistaminen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
+* Lisätietoja luetteloiden ja kirjastojen eston poistamisesta modernia käyttöliittymää käytettäessä on ohjeaiheessa [Nykyaikaisten luetteloiden ja kirjastojen käytön maksimointi](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+* Lisätietoja yhteyden muodostamisesta Microsoft 365 -ryhmään ja ryhmäyhteyden suorittamisesta on ohjeaiheessa [Yhteyden muodostaminen Microsoft 365 -ryhmään](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
-**Tärkeää**: Jos sivusi pitäisi mielestäsi näkyä jo modernissa näkymässä, eikä se ole, siirry kyseiselle sivulle, kopioi URL-osoite ja anna URL-osoite osana tukilippusi tietoja.
+**Tärkeää**: Jos sivusi pitäisi mielestäsi jo näkyä modernissa näkymässä eikä ole, selaa kyseiselle sivulle, kopioi URL-osoite ja anna URL-osoite osana tukilippusi tietoja.

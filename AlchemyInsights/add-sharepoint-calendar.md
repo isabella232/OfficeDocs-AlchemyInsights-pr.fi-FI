@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671346"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911001"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint-kalenterin lisääminen
 
-SharePoint-kalenterit ovat klassisia luettelotyyppejä, jotka joskus sekoitetaan Office 365 -ryhmäkalentereisiin.
+SharePoint-kalenterit ovat klassisia luettelotyyppejä, jotka joskus sekoitetaan Microsoft 365 -ryhmäkalentereisiin.
  
 Voit luoda SharePoint-kalenterin seuraavasti:
  
@@ -29,5 +29,5 @@ Voit luoda SharePoint-kalenterin seuraavasti:
 2.  Kirjoita **Etsi sovellus** -hakuruutuun **Kalenteri** ja paina Enter-näppäintä.
 3.  Valitse kalenteri -niminen sovellus ja kirjoita sitten kalenterin nimi. **Calendar**
 
-Lisätietoja Office 365 -ryhmistä on ohjeaiheessa [Lisätietoja Office 365 -ryhmistä](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Lisätietoja Microsoft 365 -ryhmistä on ohjeaiheessa [Lisätietoja Microsoft 365 -ryhmistä](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

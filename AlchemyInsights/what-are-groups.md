@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: fe511850ec82d32be9aa2bc3832ad211c597b33c
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 1679f1b0452314395c5067b326f6b753f9baa84e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959352"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912147"
 ---
 # <a name="what-are-groups"></a>Mitä ryhmät ovat?
 
-Office 365-ryhmien avulla voit valita joukon henkilöitä, joiden kanssa haluat tehdä yhteistyötä, ja määrittää helposti resurssien kokoelman jakamaan resursseja näille henkilöille. Sinun ei tarvitse huolehtia käyttö oikeuksien määrittämisestä manuaalisesti kaikille näille resursseille, koska jäsenten lisääminen ryhmään antaa heille automaattisesti oikeudet, joita he tarvitsevat ryhmänsä työkaluille. Lisäksi ryhmät ovat uusi ja parannettu kokemus siitä, mitä käytettiin jakelu luetteloiden tai jaettujen posti laatikoiden käyttöön.  Lisä tietoja on artikkelissa [tietoja Office 365-ryhmistä](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
+Microsoft 365 -ryhmien avulla voit valita joukon henkilöitä, joiden kanssa haluat tehdä yhteistyötä, ja määrittää helposti resurssikokoelman, jonka avulla kyseiset henkilöt voivat jakaa. Sinun ei tarvitse huolehtia käyttöoikeuksien manuaalisesta määrittämisestä kaikille näille resursseille, koska jäsenten lisääminen ryhmään antaa heille automaattisesti oikeudet, joita he tarvitsevat ryhmän tarjoamiin työkaluihin. Lisäksi ryhmät ovat uusi ja parannettu kokemus siitä, mitä käytimme jakeluluetteloiden tai jaettujen postilaatikoiden käyttämiseen.  Lisätietoja [on ohjeaiheessa Lisätietoja Microsoft 365 -ryhmistä.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 
