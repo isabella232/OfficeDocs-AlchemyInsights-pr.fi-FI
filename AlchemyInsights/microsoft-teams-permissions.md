@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams-käyttö oikeudet
+title: Microsoft Teamsin käyttöoikeudet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590419"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911935"
 ---
-# <a name="microsoft-teams-permissions"></a><span data-ttu-id="18621-102">Microsoft teams-käyttö oikeudet</span><span class="sxs-lookup"><span data-stu-id="18621-102">Microsoft Teams permissions</span></span>
+# <a name="microsoft-teams-permissions"></a><span data-ttu-id="0941c-102">Microsoft Teamsin käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="0941c-102">Microsoft Teams permissions</span></span>
 
-<span data-ttu-id="18621-103">Microsoft teams sisältää kaksi käyttäjä roolia: omistaja ja jäsen.</span><span class="sxs-lookup"><span data-stu-id="18621-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="18621-104">Oletus arvon mukaan käyttäjälle, joka luo uuden ryhmän, myönnetään omistajan tila.</span><span class="sxs-lookup"><span data-stu-id="18621-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="18621-105">Lisäksi omistajat ja jäsenet voivat käyttää kanavan moderaattorin ominaisuuksia (jos Moderointi on määritetty).</span><span class="sxs-lookup"><span data-stu-id="18621-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="18621-106">Jos ryhmä luodaan aiemmin luodusta Office 365-ryhmästä, käyttö oikeudet periytyvät.</span><span class="sxs-lookup"><span data-stu-id="18621-106">If a team is created from an existing Office 365 Group, permissions are inherited.</span></span> <span data-ttu-id="18621-107">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="18621-107">For more information, see:</span></span>
+<span data-ttu-id="0941c-103">Microsoft Teams sisältää kaksi käyttäjäroolia: omistajan ja jäsenen.</span><span class="sxs-lookup"><span data-stu-id="0941c-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="0941c-104">Käyttäjälle, joka luo uuden ryhmän, myönnetään oletusarvoisesti omistajatila.</span><span class="sxs-lookup"><span data-stu-id="0941c-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="0941c-105">Lisäksi omistajilla ja jäsenillä voi olla kanavan valvoja-ominaisuudet (jos maltillisuus on määritetty).</span><span class="sxs-lookup"><span data-stu-id="0941c-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="0941c-106">Jos ryhmä on luotu aiemmin luodusta Microsoft 365 -ryhmästä, käyttöoikeudet periytyvät.</span><span class="sxs-lookup"><span data-stu-id="0941c-106">If a team is created from an existing Microsoft 365 Group, permissions are inherited.</span></span> <span data-ttu-id="0941c-107">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="0941c-107">For more information, see:</span></span>
 
-- [<span data-ttu-id="18621-108">Ryhmän omistajien ja jäsenten määrittäminen Microsoft Teamsissa</span><span class="sxs-lookup"><span data-stu-id="18621-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [<span data-ttu-id="18621-109">Microsoft teams-sovellusten käyttö oikeudet ja huomioit</span><span class="sxs-lookup"><span data-stu-id="18621-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [<span data-ttu-id="18621-110">Vieras-oikeuksien asettaminen teamsin kanaville</span><span class="sxs-lookup"><span data-stu-id="18621-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [<span data-ttu-id="0941c-108">Ryhmän omistajien ja jäsenten määrittäminen Microsoft Teamsissa</span><span class="sxs-lookup"><span data-stu-id="0941c-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [<span data-ttu-id="0941c-109">Microsoft Teams -sovellusten käyttöoikeudet ja huomioinnit</span><span class="sxs-lookup"><span data-stu-id="0941c-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [<span data-ttu-id="0941c-110">Vierasoikeuksien määrittäminen kanaville Teamsissa</span><span class="sxs-lookup"><span data-stu-id="0941c-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
