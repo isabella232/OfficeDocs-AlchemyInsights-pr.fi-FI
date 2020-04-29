@@ -1,5 +1,5 @@
 ---
-title: Office 365 -ryhmät, joista koskee luottamuksellisuusmerkintä
+title: Microsoft 365 -ryhmät, joissa näkyy luottamuksellisuusmerkintä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218125"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911864"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a>Office 365 -ryhmät, joista koskee luottamuksellisuusmerkintä
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>Microsoft 365 -ryhmät, joissa näkyy luottamuksellisuusmerkintä
 
-Seuraavat ongelmat saattavat näkyä Office 365-ryhmässä:
+Saatat nähdä Microsoft 365 -ryhmässä seuraavan ongelman:
 
-- Office 365 -ryhmää ei voi luoda OWA:ssa, jos annetaan virhe "Luokituskenttä ei voi olla tyhjä."
+- Microsoft 365 -ryhmää ei voi luoda OWA:ssa, virheilmoitus: Luokituskenttä ei voi olla tyhjä.
 
-- Näet Office 365 -ryhmien luottamuksellisuusmerkinnän, vaikka et olisi ottanut ominaisuutta käyttöön.
+- Näet Microsoft 365 -ryhmien luottamuksellisuusmerkinnän, vaikka et olisi ottanut ominaisuutta käyttöön.
 
-Tämä ongelma on tunnistettu ja korjattu. Korjauksen toimitus on meneillään, ja se valmistuu muutamassa tunnissa. Luo tällä välin Office 365 -ryhmät Office-hallintaportaalin tai Azure-hallinta portaalin avulla.  
+Tämä ongelma on tunnistettu ja korjattu. Korjauksen toimitus on meneillään, ja se valmistuu muutamassa tunnissa. Luo tällä välin Microsoft 365 -ryhmät Office- tai Azure-hallintaportaalin avulla.  
