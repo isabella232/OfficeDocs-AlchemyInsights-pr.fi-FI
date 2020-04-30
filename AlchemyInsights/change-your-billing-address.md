@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198790"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943940"
 ---
 # <a name="change-your-billing-address"></a>Laskutusosoitteen muuttaminen
 
-Laskussa tai laskussa on kolme osoitetta. 
+Laskussa tai laskussa on kolme osoitetta.
 
-**Laskutusosoitteen muuttaminen**
+**Maksutavan laskutusosoitteen muuttaminen**
 
-1. Siirry hallintakeskuksessa **Laskutus > [maksutavat -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** 
+1. Siirry hallintakeskuksessa kohtaan **Laskutus > [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Valitse muutettava luottokortti tai pankkitili.
+3. Valitse **Maksutavan tiedot** -sivulla **Muokkaa**.
+4. Päivitä laskutusosoitteesi ja valitse sitten **Tallenna > valmis**.
 
-2. Valitse muutettava luottokortti tai pankkitili. 
+Lisätietoja osoitteiden ja ilmoitusten muutoksista on ohjeaiheessa [Microsoft 365 for Businessin laskutusosoitteiden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Valitse **Maksutavan tiedot** -sivulla **Muokkaa**. 
+**Laskutustilin tietojen muuttaminen**
 
-4. Päivitä laskutusosoitteesi ja valitse sitten **Tallenna > valmis**. 
+1. Siirry hallintakeskuksessa **Laskutus- > [laskutustilit -kohtaan](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Valitse **Muokkaa laskutustilin tietoja**.
+3. Päivitä laskutustilin tiedot ja valitse sitten **Tallenna > valmis**.
 
-Lisätietoja osoitteiden ja ilmoitusten muutoksista on ohjeaiheessa [Office 365 for Businessin laskutusosoitteiden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Huomautus:** Maata tai aluetta ei voi muuttaa. Jos tätä kenttää on muutettava, sinun on ostettava uusi vuokraaja.
