@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912042"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943976"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 -tilauksesta ja käyttöoikeuksien hallinnasta usein kysytyt kysymykset
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912042"
 - Jos haluat **peruuttaa** E3-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valitse **Asetukset ja toiminnot** ja napsauta **Peruuta tilaus**. Katso lisätietoja kohdasta [Peruuta tilaus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Jos haluat **aktivoida** E3-tilauksen, katso kohta [Tilauksen aktivoiminen](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Jos haluat **uudelleenaktivoida ** E3-tilauksen, katso kohta [Tilauksen uudelleenaktivointi](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Jos haluat pidentää E3-kokeiluaikaa, katso kohta [Kokeiluajan pidentäminen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Jos haluat **pidentää ** E3-kokeiluaikaa, katso kohta [Kokeiluajan pidentäminen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Lisätietoja: [Tilauskäyttöoikeuksien hallinta](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
