@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799120"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957903"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Useita yrityksiä periä verkkomaksuvälineitä
+# <a name="past-due-account"></a>Erääntynyt tili?
 
-Jos lataus epäonnistuu, järjestelmä yrittää edelleen selvittää saldon seuraavien viikkojen aikana. Voit tehdä maksutietoihisi päivityksiä milloin tahansa varmistaaksesi, että seuraava veloitusyritys onnistuu. Lisätietoja on [ohjeaiheessa Luottokortin tai pankkitilin lisääminen, päivittäminen tai poistaminen Microsoft 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Maksu voidaan hylätä useista syistä, mukaan lukien jos luottokortti on vanhentunut. Voit käyttää **Täsmäytä saldo -ominaisuutta** milloin tahansa luottokorttitietojen muuttamiseen ja maksun lähettämiseen välittömästi uudelleen.
+
+1. Siirry hallintakeskuksessa kohtaan ** [>-palveluiden & -palveluiden](https://go.microsoft.com/fwlink/p/?linkid=842054)laskutus**.
+Etsi tilaus, jossa on jäljellä oleva saldo. Valitse **Laskutus-osan** Tilauksen vieressä **erääntynyt maksu**valitsemalla **Täsmäytä saldo** maksaaksesi koko jäljellä olevan saldon.
+2. Jos omistat luottokortin, voit muuttaa vanhentumispäivämäärää, valita toisen kortin tai [lisätä uuden kortin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Jos et omista luottokorttia, voit valita toisen luottokortin tai [lisätä uuden kortin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+4. Kun olet tehnyt päivitykset, valitse **Tallenna**.
+
+**Huomautus:** Kun maksu on suoritettu, erääntynyt ilmoitus saattaa silti olla näkyvissä lyhyen aikaa. Odota vähintään **48 tuntia** ennen kuin otat yhteyttä tukeen.
