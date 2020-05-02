@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724553"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005255"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="08e83-102">Saapuneet-kansion säännöt</span><span class="sxs-lookup"><span data-stu-id="08e83-102">Inbox rules</span></span>
+# <a name="inbox-rules-in-outlook-desktop"></a><span data-ttu-id="b2d9d-102">Saapuneet-kansion säännöt Outlook-työpöydällä</span><span class="sxs-lookup"><span data-stu-id="b2d9d-102">Inbox rules in Outlook Desktop</span></span>
 
-<span data-ttu-id="08e83-103">Lisätietoja Saapuneet-kansion sääntöjen käyttämisestä omassa postilaatikossa on seuraavissa ohjeissa:</span><span class="sxs-lookup"><span data-stu-id="08e83-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+1. <span data-ttu-id="b2d9d-103">Avaa **Säännöt ja hälytykset** -valintaikkuna valitsemalla > Hallitse sääntöjä & **ilmoitukset** -valintaruutu.</span><span class="sxs-lookup"><span data-stu-id="b2d9d-103">Go to **File > Manage Rules & Alerts** to open the **Rules and Alerts** dialog box.</span></span>
+2. <span data-ttu-id="b2d9d-104">Valitse **Sähköpostisäännöt** -välilehdessä **Uusi sääntö**.</span><span class="sxs-lookup"><span data-stu-id="b2d9d-104">On the **Email Rules** tab, click **New Rule**.</span></span>
+3. <span data-ttu-id="b2d9d-105">Valitse jokin malleista **vaiheesta 1**.</span><span class="sxs-lookup"><span data-stu-id="b2d9d-105">Select one of the templates from **Step 1**.</span></span> <span data-ttu-id="b2d9d-106">Jos haluat aloittaa tyhjästä säännöstä, valitse **Käytä sääntöä vastaanottamissani viesteissä tai Käytä sääntöä lähettämistäni viesteistä**.</span><span class="sxs-lookup"><span data-stu-id="b2d9d-106">To start from a blank rule, select **Apply rule on messages I receive or Apply rule on messages I send**.</span></span>
+4. <span data-ttu-id="b2d9d-107">Valitse **Vaihe 2: Muokkaa säännön kuvausta -ruudussa**kaikki alleviivatut asetukset.</span><span class="sxs-lookup"><span data-stu-id="b2d9d-107">In the **Step 2: Edit the rule description box**, click on any underlined options to set them.</span></span> <span data-ttu-id="b2d9d-108">Jos esimerkiksi valitsit Vaiheessa 1 Merkitse jonkun henkilön **viestit seurattavaksi,** valitse **henkilöt tai julkinen ryhmä** ja valitse, mitkä lähettäjät viestit haluat merkitä. valitse sitten lippu ja seurantapäivämäärä napsauttamalla **seurantapainiketta tällä hetkellä.**</span><span class="sxs-lookup"><span data-stu-id="b2d9d-108">For example, if you selected **Flag messages from someone for follow-up** in Step 1, click **people or public group** to select which senders' messages you want to flag; then click **follow up at this time** to select a flag and a follow-up date.</span></span>
+5. <span data-ttu-id="b2d9d-109">Valitse **Seuraava**.</span><span class="sxs-lookup"><span data-stu-id="b2d9d-109">Click **Next**.</span></span>
 
-- [<span data-ttu-id="08e83-104">Sähköpostiviestien hallinta Outlook for PC:n sääntöjen avulla</span><span class="sxs-lookup"><span data-stu-id="08e83-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [<span data-ttu-id="08e83-105">Viestien hallinta Saapuneet-kansion sääntöjen avulla Outlookin verkkoversiossa</span><span class="sxs-lookup"><span data-stu-id="08e83-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-<span data-ttu-id="08e83-106">Voit myös hallita Saapuneet-kansion sääntöjä Exchange Online PowerShellissä.</span><span class="sxs-lookup"><span data-stu-id="08e83-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="08e83-107">Lisätietoja on [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) [ohjelm.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)</span><span class="sxs-lookup"><span data-stu-id="08e83-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="b2d9d-110">Lisätietoja Saapuneet-kansion sääntöjen käyttämisestä on ohjeaiheessa [Sähköpostiviestien hallinta sääntöjen avulla](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span><span class="sxs-lookup"><span data-stu-id="b2d9d-110">For additional information on how to work with inbox rules please see [Manage email messages by using rules](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span></span>
