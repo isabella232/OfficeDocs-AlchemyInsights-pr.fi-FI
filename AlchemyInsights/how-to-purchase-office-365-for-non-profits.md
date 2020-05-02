@@ -1,5 +1,5 @@
 ---
-title: Office 365 for Non-profitsin ostaminen
+title: Microsoft 365 voittoa tavoittelemattomille järjestöille - tarkistettava
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763538"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005219"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Office 365 for Non-profitsin ostaminen
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 voittoa tavoittelemattomille järjestöille - tarkistettava
 
-Kelpoisuus Microsoftin hyväksyttyun voittoa tavoittelemattomaan organisaatioon on tarkastelun kohteena. Voit odottaa saavasi ilmoituksen kelpoisuutesi määrittämisestä ennen kokeilujakson päättymistä. Voit seurata hakemuksesi tilaa [täällä](https://eligibilityweb.azurewebsites.net/).
+Kelpoisuus Microsoftin hyväksyttyun voittoa tavoittelemattomaan järjestöön on **tarkistettava**. Voit odottaa saavasi ilmoituksen kelpoisuutesi määrittämisestä **48 tuntia** lähetysajankohdasta. Anna ilmoituksen saada tämä ilmoitus vähintään **48 tunnin kuluessa** ennen palvelupyynnön avaamista. 
+
+Lisätietoja on ohjeaiheessa [Microsoft 365 for Nonprofits](https://www.microsoft.com/nonprofits/microsoft-365). 

@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724553"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005255"
 ---
-# <a name="inbox-rules"></a>Saapuneet-kansion säännöt
+# <a name="inbox-rules-in-outlook-desktop"></a>Saapuneet-kansion säännöt Outlook-työpöydällä
 
-Lisätietoja Saapuneet-kansion sääntöjen käyttämisestä omassa postilaatikossa on seuraavissa ohjeissa:
+1. Avaa **Säännöt ja hälytykset** -valintaikkuna valitsemalla > Hallitse sääntöjä & **ilmoitukset** -valintaruutu.
+2. Valitse **Sähköpostisäännöt** -välilehdessä **Uusi sääntö**.
+3. Valitse jokin malleista **vaiheesta 1**. Jos haluat aloittaa tyhjästä säännöstä, valitse **Käytä sääntöä vastaanottamissani viesteissä tai Käytä sääntöä lähettämistäni viesteistä**.
+4. Valitse **Vaihe 2: Muokkaa säännön kuvausta -ruudussa**kaikki alleviivatut asetukset. Jos esimerkiksi valitsit Vaiheessa 1 Merkitse jonkun henkilön **viestit seurattavaksi,** valitse **henkilöt tai julkinen ryhmä** ja valitse, mitkä lähettäjät viestit haluat merkitä. valitse sitten lippu ja seurantapäivämäärä napsauttamalla **seurantapainiketta tällä hetkellä.**
+5. Valitse **Seuraava**.
 
-- [Sähköpostiviestien hallinta Outlook for PC:n sääntöjen avulla](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Viestien hallinta Saapuneet-kansion sääntöjen avulla Outlookin verkkoversiossa](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Voit myös hallita Saapuneet-kansion sääntöjä Exchange Online PowerShellissä. Lisätietoja on [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) [ohjelm.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)
+Lisätietoja Saapuneet-kansion sääntöjen käyttämisestä on ohjeaiheessa [Sähköpostiviestien hallinta sääntöjen avulla](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
