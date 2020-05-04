@@ -1,5 +1,5 @@
 ---
-title: Ryhmien poistaminen tai poissulkeminen Office-asennuksista
+title: Ryhmien asennuksen poistaminen office-asennuksista tai poistaminen siitä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769804"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010296"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Ryhmien poistaminen uusista tai aiemmin luodusta Office-asennuksista tai niiden sulkeminen pois
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Poista Teamsin asennus tai sulje se pois uusista tai aiemmin luoduista Office-asennuksista
 
-Microsoft teams sisältyy Office 365 ProPlus-, Office 365 Business-ja Office for Mac-pakettiin.
+Microsoft Teams sisältyy Microsoft 365 Apps for Enterprise -sovellukseen, Microsoft 365 Apps for Businessiin ja Office for Maciin.
 
-- Voit sulkea työryhmät pois uusista Office-asennuksista [Officen käyttöönotto työkalulla](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) .
-- Jos haluat poistaa teamsin *asennuksen* Windows-laitteesta, katso [Microsoft teamsin asennuksen poistaminen](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Jos haluat siivota Microsoft teamsin useista kohde koneista tai käyttäjistä, katso [Microsoft teams-käyttöönoton puhdistaminen](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-- Käytä [Preventteamsinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-) -vaihto ehtoa, jos haluat estää Microsoft teamsin asentavan automaattisesti Officen kanssa.
-- Käytä [Preventfirstlaunchafterinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) -asetusta, *ennen kuin tiimit asennetaan*, jotta Microsoft teams ei käynnistynyt automaattisesti asennuksen jälkeen.
+- [Officen käyttöönottotyökalun](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) avulla voit jättää Teamsin pois uusista Office-asennuksista.
+- Jos haluat poistaa Teamsin *asennuksen* Windows-laitteesta, katso [Microsoft Teamsin asennuksen poistaminen](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Lisätietoja Microsoft Teamsin puhdistaminen useista kohdekoneista tai käyttäjistä on ohjeaiheessa [Microsoft Teamsin käyttöönoton puhdistaminen](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+- Estä [TeamsInstall-vaihtoehdon](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+) avulla voit estää Microsoft Teamsia asentamasta officea automaattisesti.
+- Estä Microsoft Teamsin automaattinen käynnistyminen asennuksen jälkeen [PreventFirstLaunchAfterInstall-vaihtoehdon](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) *avulla, ennen kuin Teams asennetaan.*
 
-Jos käytössäsi on Office for Mac, katso [Microsoft teams-asennukset Macissa](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Jos käytät Office for Macia, tutustu [ohjeaiheeseen Microsoft Teamsin asennukset Macissa](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
