@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713319"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010791"
 ---
 # <a name="office-activation-errors"></a>Office-aktivointivirheet
 
-1. Siirry kohtaan **Ohjauspaneeli > Ohjelmat ja toiminnot** ja etsi **Office**. Sinun pitäisi nähdä **Microsoft Office 365 ProPlus** tai **Microsoft Office 365 Business**. Jos näet luettelossa useamman kuin yhden Office-version, poista sen version asennus, jota et käytä. Jos asennuksen poistaminen ei onnistu Ohjauspaneelissa, voit käyttää Tuki- ja palautusavustajaa (TPA) sen version [asennuksen poistamiseen](https://aka.ms/SARA-OfficeUninstall-Alchemy), jota et käytä. Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä. 
+1. Siirry kohtaan **Ohjauspaneeli > Ohjelmat ja toiminnot** ja etsi **Office**. Sinun pitäisi nähdä **Microsoft 365 for Enterprise ** tai **Microsoft 365 for business**. Jos näet luettelossa useamman kuin yhden Office-version, poista sen version asennus, jota et käytä. Jos asennuksen poistaminen ei onnistu Ohjauspaneelissa, voit käyttää Tuki- ja palautusavustajaa (TPA) sen version [asennuksen poistamiseen](https://aka.ms/SARA-OfficeUninstall-Alchemy), jota et käytä. Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä. 
 
 2. Jos Officessa ei edelleenkään ole käyttöoikeutta, siirry takaisin kohtaan **Ohjauspaneeli > Ohjelmat ja toiminnot**, napsauta jäljellä olevaa Office-asennusta hiiren kakkospainikkeella, valitse **Muokkaa** (tai **Muuta**) ja valitse sitten **Online-korjaus**. Online-korjaus saattaa kestää jonkin aikaa. Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä. 
 

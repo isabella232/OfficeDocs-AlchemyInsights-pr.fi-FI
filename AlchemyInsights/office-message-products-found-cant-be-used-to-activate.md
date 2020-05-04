@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761426"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010728"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Office-virhe – Tililtäsi löydettyjä tuotteita ei voida käyttää aktivoimiseen
 
@@ -28,7 +28,7 @@ ms.locfileid: "43761426"
 
 - Palauta kyseisessä laitteessa [Officen aktivointitila](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
-Jos kyseessä on jaettu tietokone, saat ohjeita artikkelista [Ongelmien vianmääritys Office 365 ProPlus:n aktivoimisessa jaettuun tietokoneeseen](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+Jos kyseessä on jaettu tietokone, saat ohjeita artikkelista [Ongelmien vianmääritys Microsoft 365 -sovellusten aktivoimisessa jaettuun tietokoneeseen](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
 Lisätietoja on seuraavissa artikkeleissa: 
 

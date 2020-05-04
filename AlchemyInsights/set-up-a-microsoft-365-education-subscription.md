@@ -24,6 +24,6 @@ Katso tarkemmat ohjeet koko Education-tilauksen määrityksestä [kuvausvideosta
 
 **Lisää upeita resursseja**
 
-- Katso [Office 365 Education -käyttäjän määrittäminen](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) yhteenvetoa varten.
+- Yhteenveto on kohdassa [Office 365 Education -käyttäjän määrittäminen](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 - Katso [Microsoft 365 Education -tilauksen käytön aloittaminen](https://docs.microsoft.com/education/) IT-järjestelmänvalvojille, kehittäjille ja kumppaneille. 
-- [Linkitä Microsoft Store -tili Intune for Educationiin](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- [Liitä Microsoft Store -tili Intune for Educationiin](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 

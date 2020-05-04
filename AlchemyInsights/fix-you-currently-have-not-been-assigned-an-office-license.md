@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218147"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010179"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Korjaus – “Sinulla ei tällä hetkellä ole Office-käyttöoikeutta”
 
-Jos haluat asentaa Office-asiakassovelluksia, varmista, että sinulla on Office 365- tai Microsoft 365 -tilaus, joka [sisältää Office-asiakassovelluksia](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), kuten Office 365 Business Premiumin, Office 365 Businessin tai Office 365 ProPlus.
+Jos haluat asentaa Office-asiakassovelluksia, varmista, että sinulla on Office 365- tai Microsoft 365 -tilaus, joka [sisältää Office-asiakassovelluksia](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), kuten Microsoft 365 Business Premium, Microsoft 365 -sovellukset yrityksille tai Microsoft 365 -sovellukset suuryrityksille.
 
 **Huomautus**: [Office Home and Business](https://products.office.com/home-and-business) [on Office for Home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) -tuote, joka ei kuulu mihinkään Business-tilaukseen. Project Online Essentials ei sisällä Projectin työpöytäversiota, joten asennusta ei tarvita. Vision palvelupaketti 1:n käyttäjät voivat käyttää Vision verkkoversiota, sillä palvelupaketti ei sisällä Vision työpöytäversiota. Project- ja Visio-työpöytäsovelluksia ei ole saatavilla Mac-tietokoneelle
 

@@ -22,6 +22,6 @@ ms.locfileid: "43911757"
 
 - Vain suunnitelmien omistajat voivat poistaa suunnitelman. Jos haluat [poistaa suunnitelman tai tehtävän](https://support.microsoft.com/fi-FI/office/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a.), noudata ohjeita artikkelissa Tehtävän tai suunnitelman poistaminen.  **Huom**. Jos suunnitelma poistettiin pysyvästi, sitä ei voi palauttaa. Myöskään poistettua tehtävää ei voi palauttaa. Jos poistat tehtävän vahingossa, sinun on luotava se uudelleen alusta alkaen.
 
-- Jos suunnitelmasi poistettiin ryhmän poistamisen seurauksena, saatat pystyä palauttamaan ryhmän ja sen sisällön. Palauta ryhmä ja siihen liittyvä sisältö noudattamalla ohjeita, jotka koskevat [poistetun Microsoft 365 -ryhmän palauttamista](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide).
+- Jos suunnitelmasi poistettiin ryhmän poistamisen seurauksena, saatat pystyä palauttamaan ryhmän ja sen sisällön. Palauta ryhmä ja siihen liittyvä sisältö noudattamalla ohjeita, jotka koskevat [poistetun Microsoft 365 -ryhmän](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) palauttamista.
 
 - Jos poistit Planner-välilehden Teams-kanavalta poistamatta suunnitelmaa pysyvästi, voit lisätä Planner-välilehden ja lisätä suunnitelman uudelleen valitsemalla **Lisää välilehti > Planner > Käytä ryhmään aiemmin luotua suunnitelmaa** ja valitsemalla suunnitelmasi avattavasta valikosta.
