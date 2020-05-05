@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 4e68514c463b1c6d5376ee0fdd35672f1513fd1d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403521"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015758"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="4d91d-102">Videoiden jakaminen Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="4d91d-102">Share your videos in Microsoft Stream</span></span>
+# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="0f84e-102">Videoiden jakaminen Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="0f84e-102">Share your videos in Microsoft Stream</span></span>
 
-<span data-ttu-id="4d91d-103">Haluat ehkä jakaa videoita Microsoft Streamissa henkilöille, joilla ei muuten ole käyttöoikeuksia.</span><span class="sxs-lookup"><span data-stu-id="4d91d-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="4d91d-104">Voit jakaa videoita useilla eri tavoilla:</span><span class="sxs-lookup"><span data-stu-id="4d91d-104">There are various ways to share your videos:</span></span> 
+<span data-ttu-id="0f84e-103">Voit halutessasi jakaa videoita Microsoft Streamissa henkilöiden kanssa, joilla ei muuten ole käyttöoikeuksia.</span><span class="sxs-lookup"><span data-stu-id="0f84e-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="0f84e-104">Videoiden jakamiseen on useita tapoja:</span><span class="sxs-lookup"><span data-stu-id="0f84e-104">There are various ways to share your videos:</span></span>
 
-- [<span data-ttu-id="4d91d-105">Videoiden jakaminen Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="4d91d-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="0f84e-105">Videoiden jakaminen Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="0f84e-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
 
-- [<span data-ttu-id="4d91d-106">Ulkoinen jakaminen Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="4d91d-106">External sharing in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
-
-- [<span data-ttu-id="4d91d-107">Videon käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="4d91d-107">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [<span data-ttu-id="0f84e-106">Videon käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="0f84e-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
