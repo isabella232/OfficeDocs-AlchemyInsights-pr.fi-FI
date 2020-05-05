@@ -1,8 +1,8 @@
 ---
-title: Palvelu käynnissä tapaus
+title: Palvelutapahtuma käynnissä
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 10/9/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 73545096f9f6c819162c82ff5c4d0e339fa4c6bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550548"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681641"
 ---
-# <a name="service-incident-in-progress"></a>Palvelu käynnissä tapaus
+# <a name="service-incident-in-progress"></a>Palvelutapahtuma käynnissä
 
-Saattaa vaikuttaa palvelun vaaratilanteen tai neuvoa, joka on tällä hetkellä tutkimuksen kohteena. Voit tarkistaa viimeisin tila [Palvelun kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulle.
+Sinua saattaa vaikuttaa parhaillaan tutkittava palvelutapahtuma tai neuvonta. Voit tarkistaa viimeisimmän tilan palvelun [kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulta.
   
-Yksinkertaisuuden vuoksi löydät tämän tapauksen alla yhteenveto:
+Löydät yhteenvedon tästä tapauksesta alla:
   
-> **Tapauksen numero:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Tapahtuman numero:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Vaikuttaa kuvaus: {ImpactDescription}
+> Vaikutuskuvaus: {ImpactDescription}

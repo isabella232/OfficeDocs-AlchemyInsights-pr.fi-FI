@@ -1,9 +1,9 @@
 ---
-title: Paikkojen lisääminen ennakkoon maksettuun tila ukseen
+title: Paikkojen lisääminen ennakkoon maksettuun tilaukseen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660969"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671454"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Paikkojen lisääminen ennakkoon maksettuun tila ukseen
+# <a name="add-seats-to-a-prepaid-subscription"></a>Paikkojen lisääminen ennakkoon maksettuun tilaukseen
 
-Ennakkoon maksetut Office 365-lisenssit myönnetään sinulle 25-merkkinen aakkosnumeerinen koodi. Kun olet ostanut tarvitsemasi käyttö oikeudet, voit lisätä ne tilaukseesi. 
+Ennalta maksetut käyttöoikeudet toimitetaan 25-merkkisinä aakkosnumeerisina koodeina. Kun olet ostanut tarvitsemasi käyttöoikeudet, voit lisätä ne tilaukseesi. 
 
-1. Siirry hallinta keskukseen, **laskutus** > [tuotteet-& Palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+1. Siirry hallintakeskuksessa > [Laskutustuotteet-& palvelut -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing**
 
-2. Etsi tilaus, johon haluat lisätä käyttö oikeuksia. Valitse **käyttö oikeudet** -osiossa Lisää **lisenssejä**.
+2. Etsi tilaus, jolle haluat lisätä käyttöoikeuksia. Valitse **Käyttöoikeudet-osassa** **Lisää käyttöoikeuksia**.
 
-3. Valitse **Lisää käyttö oikeuksia** -ruudussa **Käytä uutta ja käyttämätöntä Product Key-tunnusta ja**valitse sitten **Seuraava**.
+3. Valitse **Lisää käyttöoikeuksia** -ruudussa **Käytä uutta ja käyttämätöntä tuoteavainta**ja valitse sitten **Seuraava**.
 
-4. Anna Product Key-tunnus ja valitse **Seuraava**.
+4. Anna product key -tunnus ja valitse **sitten Seuraava**.
 
     > [!NOTE]
-    > Jos sinulla on useampi kuin yksi Product Key-tunnus, voit syöttää ne valitsemalla **Lisää toinen Product Key** -tunnus.
+    > Jos sinulla on useampi kuin yksi product key -tunnus, voit syöttää ne valitsemalla **Lisää toinen tuoteavain.**
 
-5. Tarkista tilauksesi tiedot ja valitse sitten **Lunasta**.
+5. Tarkista tilaustietosi ja valitse **lunasta**.
 
-Lisä tietoja [on kohdassa Lisää käyttö oikeuksia tai Laajenna tilaus, joka on maksettu Product Key-tunnuksen käyttämisestä](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Lisätietoja on ohjeaiheessa [Käyttöoikeuksien lisääminen tuoteavaimen avulla maksettuun tilaukseen tai](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)sen laajentaminen .
