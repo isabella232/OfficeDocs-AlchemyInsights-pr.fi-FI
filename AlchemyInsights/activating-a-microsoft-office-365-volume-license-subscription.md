@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708756"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062029"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft Volume License -tilauksen aktivoiminen
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708756"
 
 5. Kirjaudu Microsoft 365 -hallintakeskukseen[https://admin.microsoft.com](https://admin.microsoft.com)( ) käyttämällä olemassa olevia järjestelmänvalvojan tunnistetietoja. Kun olet kirjautunut sisään, saat toisen sähköpostiviestin, jossa vahvistetaan ostoksesi.
 
-6. Kun olet kirjautunut sisään, voit siirtyä \> [Laskutustuotteet-& palvelut -sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054) ja varmistaa, että ostamasi tilaukset on aktivoitu vuokraajassa. **Billing** (Voit myös valita VLSC:n Tilaus-välilehden, jos haluat tarkastella tietoja, jotka vahvistavat, että tilauksesi on talletettu.) **Subscription**
+6. Kun olet kirjautunut sisään, voit siirtyä [Tuotteidesi](https://go.microsoft.com/fwlink/p/?linkid=842054) **laskutus** \> -sivulle ja varmistaa, että ostamasi tilaukset on aktivoitu vuokraajassa. (Voit myös valita VLSC:n Tilaus-välilehden, jos haluat tarkastella tietoja, jotka vahvistavat, että tilauksesi on talletettu.) **Subscription**

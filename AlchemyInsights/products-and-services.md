@@ -1,5 +1,5 @@
 ---
-title: Tuotteet & palvelut
+title: Tuotteesi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758787"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062858"
 ---
-# <a name="products--services"></a>Tuotteet & palvelut
+# <a name="your-products"></a>Tuotteesi
 
-Organisaation omistamat tilaukset löytyvät > [**Laskutustuotteet-& palvelut -sivulta.**](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing** Seuraavassa on joitakin kohokohtia tämän sivun sekä linkkejä lisätietoja kunkin ominaisuuden:
+Organisaation omistamat tilaukset löytyvät**[Tuotteidesi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **laskutus** > -sivulta. Seuraavassa on joitakin kohokohtia tämän sivun sekä linkkejä lisätietoja kunkin ominaisuuden:
 
 1. Hallitse kullekin tilaukselle ostettujen käyttöoikeuksien määrää sekä käytössä olevien käyttöoikeuksien määrää.  **Huomautus:** Lisenssejä, jotka eivät ole käytössä (ei määritetty käyttäjälle), veloitetaan edelleen.  Jos et ole latautunut käyttämättömistä lisensseistä, vähennä ostettujen käyttöoikeuksien määrää. Lisätietoja käyttöoikeuksien lisääminen tai poistaminen tilauksesta on ohjeaiheessa [Käyttöoikeuksien lisääminen tai vähentäminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

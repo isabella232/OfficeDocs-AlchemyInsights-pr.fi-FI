@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671490"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061993"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Profiilikuvien lisääminen, poistaminen tai estäminen käyttäjiä muuttamasta
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671490"
 
 - **Profiilikuvien poistaminen:** [Azure Active Directoryn käyttäjähallinnan](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) järjestelmänvalvoja tai käyttäjä voi poistaa profiilikuvat Microsoft Teams -käyttäjäprofiilissa.
 
-- **Profiilikuvan muutosten estäminen:** Kaikkien Microsoft 365*-versioiden valokuvien muutokset voidaan estää lisäämällä artikkelin mukaan Outlook Web App -käytäntö, [valokuvien lukitseminen tai Microsoft 365 -profiilikuvan muuttamisoikeuksien rajoittaminen.](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)
+- **Profiilikuvan muutosten estäminen:** Kaikkien Microsoft 365*-versioiden valokuvien muutokset voidaan estää lisäämällä artikkelin mukaan Outlook Web App -käytäntö, [valokuvien lukitseminen tai Microsoft 365 -profiilikuvan muuttamisoikeuksien rajoittaminen.](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)
 
 *Huomaa, että Microsoft Teams ei tällä hetkellä tue Outlook Web App -käytäntöä valokuvien muutosten estämiseksi, mutta aikoo lisätä tämän ominaisuuden tuen vuoden 2020 alussa.

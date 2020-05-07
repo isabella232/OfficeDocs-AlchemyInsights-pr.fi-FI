@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703892"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062533"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Sovellusten laskutusprofiilin muokkaaminen
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Sovellusten laskutusprofiilin muuttaminen
 
-1. Siirry > [Laskutustuotteet-& palvelut -sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054) ja valitse **sitten Sovellukset-välilehti.** **Billing**
+1. Siirry **Tuotteiden laskutus** > **[-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse sitten **Sovellukset-välilehti.**
 
 2. Etsi ja valitse sovellus, jota haluat hallita.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703892"
 
 ## <a name="edit-billing-profiles"></a>Laskutusprofiilien muokkaaminen
 
-1. Siirry > [Laskutuslaskut-& maksut](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivulle ja valitse **laskutusprofiilit**. **Billing**
+1. Siirry > **[Laskutuslaskut-& maksut](https://go.microsoft.com/fwlink/p/?linkid=848039)** -sivulle ja valitse **laskutusprofiilit**. **Billing**
 
 2. Valitse muokattava laskutusprofiili luettelosta.

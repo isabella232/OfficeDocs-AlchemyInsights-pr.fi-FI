@@ -1,9 +1,9 @@
 ---
-title: Maksaa lasku
+title: Maksa laskulla
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "492"
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: f9f9090eeb2770a8ccb82b3c34a46f2446fc4c55
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555302"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062389"
 ---
-# <a name="pay-by-invoice"></a>Maksaa lasku
+# <a name="pay-by-invoice"></a>Maksa laskulla
 
-Jos Office 365 -tilauksen hinta ylittää tietyn summan (summa vaihtelee palvelusijainnin mukaan), voit valita maksutavaksi laskulla maksamisen käyttämällä sekkiä tai sähköistä maksujen välitystä. Suurten summien maksaminen laskulla saattaa edellyttää luottotietojen tarkistusta. Mikäli luottotietojen tarkistus vaaditaan, saat ilmoituksen, kun ostat tilauksen. Jos hyväksyt yhteydenotot, saat sähköpostiviestin, jossa on lisätietoja luoton hyväksynnästä. Luottotietojen tarkistukset tehdään yleensä kahden arkipäivän kuluessa.
+Jos Microsoft 365 -tilauksesi maksaa tietyn rahamäärän (tämä summa vaihtelee palvelun sijainnin mukaan), voit maksaa laskulla sekillä tai EFT:llä. Suurten summien maksaminen laskulla saattaa edellyttää luottotietojen tarkistusta. Mikäli luottotietojen tarkistus vaaditaan, saat ilmoituksen, kun ostat tilauksen. Jos hyväksyt yhteydenotot, saat sähköpostiviestin, jossa on lisätietoja luoton hyväksynnästä. Luottotietojen tarkistukset tehdään yleensä kahden arkipäivän kuluessa.
   
-Jos maksat tilauksen laskulla, saat sähköpostiviestin, jossa ilmoitetaan, että laskutusselvitys on valmis tarkasteltavaksi. Sähköpostiviesti ei sisällä laskutusselvityksen kopiota. Kuitenkin voit myös saada [kopion sähköpostitse yhteyttä Laskutusosoitteen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Laskutusselvitys sisältää maksuohjeet. Jos annat ostotilauksen (PO) numeron, kun ostat tilauksen, numero näkyy laskutusselvityksessä. Lisätietoja laskutusselvitysten käyttämisestä on artikkelissa [Office 365 for Business -laskun tarkasteleminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Jos maksat tilauksen laskulla, saat sähköpostiviestin, jossa ilmoitetaan, että laskutusselvitys on valmis tarkasteltavaksi. Sähköpostiviesti ei sisällä laskutusselvityksen kopiota. Voit kuitenkin halutessasi myös [saada laskutusselvityksen kopion sähköpostitse](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Laskutusselvitys sisältää maksuohjeet. Jos annat ostotilauksen (PO) numeron, kun ostat tilauksen, numero näkyy laskutusselvityksessä. Lisätietoja laskutusselvitysten käyttämisestä on artikkelissa [Laskun tarkasteleminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
-Lisätietoja lisätietoja haluavat maksaa laskulla on [maksu tilauksesi business Office 365: ssä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+Lisätietoja laskun maksamisesta on kohdassa [Tilauksen maksaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
   
-Jos etsit muuttaa maksutapoja on [muuttaa maksutapaa varten Office 365 yrityksille](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method).
+Jos haluat muuttaa maksutapoja, katso [Maksutavan muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).

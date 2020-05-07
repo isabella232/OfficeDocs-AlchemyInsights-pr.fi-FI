@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705082"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062281"
 ---
 # <a name="declined-credit-card"></a>Hylätty luottokortti
 
-Jos maksat tilauksen luottokortilla ja luottokorttisi on hylätty, saat sähköpostitse ilmoituksen siitä, että emme voi käsitellä maksua. Tarkista, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, viimeinen voimassaolopäivä, luottokortin nimi ja osoite, mukaan lukien kaupunki, osavaltio ja postinumero - näkyvät täsmälleen samalla tavalla kuin luottokortissa ja luottokortin tiliotteessa. Voit päivittää luottokorttitietosi ja lähettää maksun välittömästi käyttämällä [Tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivun **Täsmäytä saldo** -vaihtoehtoa. 
+Jos maksat tilauksen luottokortilla ja luottokorttisi on hylätty, saat sähköpostitse ilmoituksen siitä, että emme voi käsitellä maksua. Tarkista, että [luottokortin tiedot](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortin numero, viimeinen voimassaolopäivä, luottokortin nimi ja osoite, mukaan lukien kaupunki, osavaltio ja postinumero - näkyvät täsmälleen samalla tavalla kuin luottokortissa ja luottokortin tiliotteessa. Voit päivittää luottokorttitietosi ja lähettää maksun välittömästi Käyttämällä **Täsmäytä saldo** -vaihtoehtoa **[Tuotteesi-sivulla.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Lisätietoja on ohjeaiheessa Entä jos luottokorttini on vanhentunut ja maksuni on erääntynyt?" kohdassa [Microsoft 365 for Business -tilauksen maksaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
