@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 5fed1e7c8e0f14cd18bede5ffd07b8be4b7f6f06
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 24d59860732b42e8d62da8c1a8c37f2018a0d126
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102593"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015686"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>Exchange PowerShell ja perustodentamisen käytöstä poistuminen
 
 Jos haluat lisätietoja yhteyden muodostamisesta Exchange Online PowerShelliin ilman perustodentamista, [siirry tänne](https://aka.ms/psbasicauth).
+
+Ota huomioon, että asiakaskoneessa on yhä otettava käyttöön perustodennus.
+Uusi PowerShell V2 -moduuli käyttää modernia todennusta yhteyden luomiseen, jotta kaikki REST-pohjaiset V2 cmdlet -komennot voidaan ottaa käyttöön. V2 cmdlet -komentojen lisäksi voit käyttää sen avulla vanhemman etä-PowerShellin (RPS) cmdlet-komentoja, jotka edellyttävät etä-PowerShell-istuntoa. RPS-istunnon luominen Windows-tietokoneessa edellyttää, että WinRM-perustodennus on käytössä asiakaskoneessa, vaikka moduuli käyttää modernia todennusmekanismia palvelun todentamiseen. WinRM-perustodennusjaksoa käytetään modernien todennustunnusten siirtämiseen. Jos WinRM-perustodennus ei ole käytössä asiakaskoneessa, uudet V2 cmdlet -komennot toimivat (mutta vanhemmat RPS cmdlet -komennot eivät).
