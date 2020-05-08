@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711412"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086671"
 ---
 # <a name="canceling-your-subscription"></a>Peruutat tilauksesi?
 
@@ -25,9 +25,9 @@ Olemme pahoillamme, että menet, mutta jos haluat peruuttaa tilauksesi, tässä 
   
 - Jos olet kokeiluasiakas, ei ole mitään peruutettavaa. Kokeilutilaukset vanhenevat automaattisesti, ellet anna maksutapaa.
 
-- Jos sinulla on alle 25 määritettyä käyttöoikeutta, voit peruuttaa tilauksesi verkossa. Siirry \> [Laskutustuotteet-& palvelut -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing** Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
+- Jos sinulla on alle 25 määritettyä käyttöoikeutta, voit peruuttaa tilauksesi verkossa. Siirry **Tuotteiden laskutus** \> **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
 
-- Jos sinulla on yli 25 määritettyä käyttöoikeutta, voit joko poistaa käyttäjiä, kunnes sinulla on alle 25, tai käyttää "Anna meidän soittaa sinulle" -vaihtoehtoa, jos haluat keskustella tukihenkilön kanssa.
+- Jos sinulla on yli 25 määritettyä käyttöoikeutta, voit poistaa käyttäjiä, kunnes sinulla on alle 25 käyttöoikeutta.
   
 **Hyvitys: Kaikki prorated-hyvitykset palautetaan sinulle seuraavan laskutusjakson aikana.** 
 

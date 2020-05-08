@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708900"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062209"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Saatko TenantAccessBlockedException-virheen, kun käytät sähköpostia?
 
 Tämän virheen voi ilmetä muutamasta eri syystä. Esimerkki:
 
-- Varmista, että tilauksesi on voimassa Microsoft 365 -hallintakeskuksen \> [Laskutustuotteet-& palvelut -sivulla.](https://portal.office.com/adminportal/home#/subscriptions) **Billing**
+- Varmista, että tilauksesi on voimassa Microsoft 365 -hallintakeskuksen **Laskutus** \> **[tuotteet -sivulla.](https://portal.office.com/adminportal/home#/subscriptions)**
 
-- Tarkista mahdolliset erääntyneet ilmoitukset Microsoft 365 -hallintakeskuksen **Laskutuslaskut** \> [& -maksuista](https://portal.office.com/adminportal/home#/billoverview) -sivulla.
+- Tarkista mahdolliset erääntyneet ilmoitukset Microsoft 365 -hallintakeskuksen **Laskutuslaskut** \> **[& -maksuista](https://portal.office.com/adminportal/home#/billoverview)** -sivulla.
 
 - Jos tilisi laskutus ja tilaukset on päivitetty äskettäin, muutosten levittäminen saattaa kestää jonkin aikaa. Yritä uudelleen muutaman minuutin kuluttua, ja jos ongelma jatkuu, ota meihin yhteyttä.
