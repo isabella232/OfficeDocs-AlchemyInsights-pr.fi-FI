@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062858"
 ---
 # <a name="your-products"></a>Tuotteesi
 
-Organisaation omistamat tilaukset löytyvät**[Tuotteidesi](https://go.microsoft.com/fwlink/p/?linkid=842054)** **laskutus** > -sivulta. Seuraavassa on joitakin kohokohtia tämän sivun sekä linkkejä lisätietoja kunkin ominaisuuden:
+Organisaation omistamat tilaukset löytyvät **Billing**  >  **[Tuotteidesi](https://go.microsoft.com/fwlink/p/?linkid=842054)** laskutus -sivulta. Seuraavassa on joitakin kohokohtia tämän sivun sekä linkkejä lisätietoja kunkin ominaisuuden:
 
 1. Hallitse kullekin tilaukselle ostettujen käyttöoikeuksien määrää sekä käytössä olevien käyttöoikeuksien määrää.  **Huomautus:** Lisenssejä, jotka eivät ole käytössä (ei määritetty käyttäjälle), veloitetaan edelleen.  Jos et ole latautunut käyttämättömistä lisensseistä, vähennä ostettujen käyttöoikeuksien määrää. Lisätietoja käyttöoikeuksien lisääminen tai poistaminen tilauksesta on ohjeaiheessa [Käyttöoikeuksien lisääminen tai vähentäminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Organisaation omistamat tilaukset löytyvät**[Tuotteidesi](https://go.microsoft
 
 6. [Peruuta tilaus](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Voit ostaa lisää tilauksia **Laskutusostopalvelut-sivulta.** > [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433)
+Voit ostaa lisää tilauksia **Billing**  >  [**Laskutusostopalvelut-sivulta.**](https://go.microsoft.com/fwlink/p/?linkid=868433)

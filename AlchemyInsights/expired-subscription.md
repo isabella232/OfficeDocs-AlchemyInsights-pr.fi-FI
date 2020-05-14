@@ -14,10 +14,10 @@ ms.custom:
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063470"
 ---
 # <a name="expired-subscription"></a>Vanhentunut tilaus
@@ -26,7 +26,7 @@ Näyttää siltä, että sinulla on vähintään yksi vanhentunut tilaus. Jos ha
   
 **Uudelleenaktivointi**
   
-1. Siirry hallintakeskuksessa **Laskutus** \> **[tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry hallintakeskuksessa **Billing** \> **[Laskutus tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Valitse tilaus, jonka haluat aktivoida uudelleen. Valitse **Laskutus**-osassa **Aktivoi uudelleen**.
 
@@ -38,7 +38,7 @@ Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsof
 
 **Tee uusi ostos**
   
-1. Siirry hallintakeskuksessa \> **[Laskutusostopalvelut-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433)** **Billing**
+1. Siirry hallintakeskuksessa **Billing** \> **[Laskutusostopalvelut-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 
 2. Valitse tilaus, jonka haluat ostaa, ja valitse sitten **Osta**.
 

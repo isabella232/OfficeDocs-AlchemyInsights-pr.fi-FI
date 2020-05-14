@@ -12,10 +12,10 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062245"
 ---
 # <a name="renewing-your-subscription"></a>Tilauksen uusiminen
@@ -26,6 +26,6 @@ Jos olet maksanut tilauksesi valmiiksi tuoteavaimella, tilauksesi vanhenee tilau
 
 Toistuvan laskutuksen ottaminen käyttöön: 
 
-1. Siirry kohtaan **Tuotteiden** > **[laskutus](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Siirry kohtaan **Tuotteiden**  >  **[laskutus](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Valitse tilaus, jonka toistuvaa laskutusta haluat hallita.
 3. Valitse **Laskutus**-kohdassa **Muokkaa** ja tee muutokset **Toistuvat laskutusasetukset -ikkunassa.** 
