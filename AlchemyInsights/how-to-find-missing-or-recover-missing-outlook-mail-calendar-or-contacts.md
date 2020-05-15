@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720693"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235294"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Puuttuvien viestien, yhteystietojen tai kalenterikohteiden etsiminen ja palauttaminen Outlookissa
 
-- Voit käyttää [i'm on ongelmia lähettää, vastaanottaa tai löytää sähköpostiviestejä työkalu](https://aka.ms/SaRA-OutlookSendReceive) vaikuttaa koneeseen. Tämä työkalu tarkistaa useita kysymyksiä ja ehdottaa mahdollisia ratkaisuja.
+1. Siirry Outlookissa sähköpostikansioluetteloon ja valitse sitten **Poistetut**. **Tärkeää**: Jos **Poistetut-kansiota** ei näy, mutta sen sijaan näet **Roskakori-kansion,** tilisi ei tue sellaisen kohteen palauttamista, joka ei ole enää **Poistetut-kansiossa.**
 
-- [määrittää, onko tili vaarantunut](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Jos vaarantuneena, noudata kohdan [Vaarantunut sähköpostitiliin vastaaminen ohjeita.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. Valitse **Aloitus-valikosta** **Palauta poistetut kohteet palvelimesta**. **Tärkeää**: Jos valikossa ei ole **Palauta poistetut kohteet palvelimesta** -komentoa, tilisi ei tue sellaisen kohteen palauttamista, joka ei ole enää **Poistetut-kansiossa.**
 
-- [Viestin tai kohteen etsiminen pikahaun avulla](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Valitse palautettavat **kohteet,** valitse Palauta valitut kohteet ja valitse sitten **OK**.
 
-- [Poistettujen kohteiden palauttaminen Outlook for Windowsissa](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Mihin palautettomat esineet menevät?** Kun palautat kohteita Palautettavat-kansiosta, ne siirretään **Poistetut-kansioon.** Kun olet löytänyt kohteen **Poistetut-kansiosta** ja voit siirtää sen toiseen kansioon.
+
+Voit myös käyttää [I'm on ongelmia lähettää, vastaanottaa tai löytää sähköpostiviestejä työkalu](https://aka.ms/SaRA-OutlookSendReceive) **vaikuttaa koneen**. Tämä työkalu tarkistaa useita kysymyksiä ja ehdottaa mahdollisia ratkaisuja.
