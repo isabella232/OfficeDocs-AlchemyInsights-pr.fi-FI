@@ -1,5 +1,5 @@
 ---
-title: On sitä vikaa
+title: Leikepöydällä on ongelma.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045408"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263874"
 ---
-# <a name="disable-excel-live-preview"></a>Poistaa käytöstä Excel reaaliaikainen esikatselu
+# <a name="resolving-excel-clipboard-error"></a>Excelin leikepöydän virheen ratkaiseminen
 
-Jos saat virheilmoituksen, jossa lukee ”on sitä vikaa, mutta silti voit liittää sisältöä tässä työkirjassa” Excelissä, kokeile Live Preview-toiminto poistetaan käytöstä seuraavasti:
+Jos saat Excelissä ilmoituksen "Leikepöydällä on ongelma, mutta voit silti liittää sisällön tähän työkirjaan", kokeile poistaa Live Preview -ominaisuus käytöstä seuraavasti:
 
-1. Valitse Excelissä **Tiedosto** > **asetukset**.
+1. Valitse Excelissä **Tiedoston**  >  **asetukset**.
 3. Valitse **Excelin asetukset** -valintaikkunassa **Yleiset**.
-4. Poista **Ota reaaliaikainen esikatselu** **käyttöliittymän asetukset**-kohdassa.
+4. Poista **Käyttöliittymän asetukset**-kohdassa **Ota reaaliaikainen esikatselu käyttöön**.
 5. Valitse **OK**.
 6. Käynnistä Excel uudelleen.
