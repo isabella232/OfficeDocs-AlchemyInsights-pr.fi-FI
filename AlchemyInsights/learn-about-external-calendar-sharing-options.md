@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762890"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373032"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="85436-102">Lisätietoja kalenterin ulkoisen jakamisen asetuksista</span><span class="sxs-lookup"><span data-stu-id="85436-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="b8ca5-102">Exchange Onlinen yhteistyövaihtoehdot</span><span class="sxs-lookup"><span data-stu-id="b8ca5-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="85436-103">Jos sinun on ajoitettava kokouksia organisaation ulkopuolisten henkilöiden kanssa, Microsoft 365:n avulla voit määrittää kalentereita ulkoisten käyttäjien käyttöön, joiden on nähtävä vapaat ja varatut ajat, mutta joilla ei ole käyttäjätilejä Microsoft 365 -ympäristössäsi.</span><span class="sxs-lookup"><span data-stu-id="85436-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="85436-104">Lisätietoja on kohdassa [Kalenterien jakaminen ulkoisten käyttäjien kanssa](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="85436-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="b8ca5-103">Lisätietoja **ulkoisen kalenterin jakamisesta**on [ohjeaiheessa Jakaminen Exchange Onlinessa](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="b8ca5-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="b8ca5-104">Jos haluat **jakaa kalentereita toisen Office 365 -organisaation kanssa**, katso [Exchange Onlinen organisaatiosuhteet](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="b8ca5-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="b8ca5-105">Lisätietoja **siitä, miten käyttäjät jakavat kalenterinsa organisaation ulkopuolisten henkilöiden kanssa,** on [ohjeaiheessa Käytäntöjen jakaminen Exchange Onlinessa](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="b8ca5-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="b8ca5-106">Lisätietoja **improvements** kalenterin jakamisesta on [ohjeaiheessa Kalenterin jakaminen Microsoft 365:ssä](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="b8ca5-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
