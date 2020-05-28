@@ -1,5 +1,5 @@
 ---
-title: Synkronoitujen käyttäjien hallinta
+title: Synkronoidun käyttäjän hallinta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541984"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407347"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Määritä ensisijainen sähköpostiosoite tai muuta käyttäjän määritteitä ei voi
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Ensisijaista sähköpostiosoitetta ei voi määrittää, käyttäjämääritteitä ei voi määrittää tai synkronoitua käyttäjää ei voi poistaa tai poistaa
 
-Jos ympäristössäsi directory-synkronointi on käytössä, käyttäjällä tai objektilla joitakin määritteitä ei voi muuttaa Microsoft 365 hallintakeskukseen.
+Jos hakemistosynkronointi on käytössä ympäristössäsi, joitakin käyttäjän tai objektin määritteitä ei voi muuttaa Microsoft 365 -hallintakeskuksen avulla.
 
-Voit hallita täysin synkronoitujen käyttäjien ja niiden määritteet, käytä paikallisen active Directoryn käyttäjien ja ryhmien hallintakonsoli (adsiedit.msc-tiedostoa).  
+Jos haluat hallita synkronoituja käyttäjiä ja kaikkia heidän määritteitään täysin, käytä paikallisia active directory -käyttäjiä ja ryhmien hallintakonsolia (adsiedit.msc).  
 
-Vaihtoehtoisesti voit muuttaa yksittäisten käyttäjien tai synkronoitu käyttäjät käyttävät näitä yleisiä esimerkkejä kuten näkyy powershell määritteet: 
-- Set-MsolUser - UserPrincipalName-user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Set-MsolUser - UserPrincipalName ”user@yourdomain.onmicrosoft.com” - DisplayName ”Test käyttäjä” - Sukunimi ”käyttäjä”-osasto ”Manager”-”HR-osasto
-- UserPrincipalName - Poista-MsolUser-user@yourdomain.onmicrosoft.com
+Vaihtoehtoisesti voit muuttaa synkronoitujen käyttäjien yksittäisiä käyttäjiä tai määritteitä PowerShellin avulla, kuten seuraavissa yleisissä esimerkeissä: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
