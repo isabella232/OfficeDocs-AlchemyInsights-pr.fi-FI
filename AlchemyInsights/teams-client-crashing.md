@@ -11,45 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030586"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354049"
 ---
-# <a name="teams-client-crashing"></a><span data-ttu-id="7c51d-102">Kaatuuko Teams?</span><span class="sxs-lookup"><span data-stu-id="7c51d-102">Teams client crashing?</span></span>
+# <a name="teams-client-crashing"></a><span data-ttu-id="9b297-102">Kaatuuko Teams?</span><span class="sxs-lookup"><span data-stu-id="9b297-102">Teams client crashing?</span></span>
 
-<span data-ttu-id="7c51d-103">Jos Teams-ohjelmasi kaatuu, kokeile seuraavia keinoja:</span><span class="sxs-lookup"><span data-stu-id="7c51d-103">If your Teams client is crashing, try the following:</span></span>
+<span data-ttu-id="9b297-103">Jos Teams-ohjelmasi kaatuu, kokeile seuraavia keinoja:</span><span class="sxs-lookup"><span data-stu-id="9b297-103">If your Teams client is crashing, try the following:</span></span>
 
-- <span data-ttu-id="7c51d-104">Jos käytät Teams-työpöytäsovellusta, varmista, että [sovellus on täysin ajan tasalla](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span><span class="sxs-lookup"><span data-stu-id="7c51d-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
+- <span data-ttu-id="9b297-104">Jos käytät Teams-työpöytäsovellusta, varmista, että [sovellus on täysin ajan tasalla](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span><span class="sxs-lookup"><span data-stu-id="9b297-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
 
-- <span data-ttu-id="7c51d-105">Varmista, että kaikki [Office 365:n URL-osoitteet ja osoitealueet](https://docs.microsoft.com/microsoftteams/connectivity-issues) ovat käytettävissä.</span><span class="sxs-lookup"><span data-stu-id="7c51d-105">Make sure all the [Office 365 URL's and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
+- <span data-ttu-id="9b297-105">Varmista, että kaikki [Microsoft 365:n URL-osoitteet ja osoitealueet](https://docs.microsoft.com/microsoftteams/connectivity-issues) ovat käytettävissä.</span><span class="sxs-lookup"><span data-stu-id="9b297-105">Make sure all the [Microsoft 365 URLs and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
 
-- <span data-ttu-id="7c51d-106">Kirjaudu sisään järjestelmänvalvojatililläsi ja tarkista [palvelun kunnon koontinäytöstä](https://docs.microsoft.com/office365/enterprise/view-service-health), että palvelussa ei ole käyttökatkoja tai rajoituksia.</span><span class="sxs-lookup"><span data-stu-id="7c51d-106">Log in with your admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
+- <span data-ttu-id="9b297-106">Kirjaudu sisään vuokraajan järjestelmänvalvojan tilillä ja tarkista [Palvelun kunnon hallintapaneelista,](https://docs.microsoft.com/office365/enterprise/view-service-health) ettei käyttökatkoja tai palvelun heikkenemistä ole.</span><span class="sxs-lookup"><span data-stu-id="9b297-106">Log in with your tenant admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
 
- - <span data-ttu-id="7c51d-107">Viimeisenä keinona voit yrittää tyhjentää Teams-ohjelman välimuistin:</span><span class="sxs-lookup"><span data-stu-id="7c51d-107">As a last step, you can attempt to clear your Teams client cache:</span></span>
+- <span data-ttu-id="9b297-107">Teams-sovelluksen asennuksen poistaminen ja asentaminen uudelleen (linkki)</span><span class="sxs-lookup"><span data-stu-id="9b297-107">Uninstall and reinstall the Teams Application (link)</span></span>
+    - <span data-ttu-id="9b297-108">Siirry tietokoneen %appdata%\Microsoft\teams\-kansioon ja poista kaikki kyseisen kansion tiedostot.</span><span class="sxs-lookup"><span data-stu-id="9b297-108">Browse to the %appdata%\Microsoft\teams\ folder on your computer and delete all files in that directory.</span></span>
+    - <span data-ttu-id="9b297-109">[Lataa ja asenna Teams-sovellus](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ja asenna Teams järjestelmänvalvojana (napsauta teams-asennusohjelmaa hiiren kakkospainikkeella ja valitse Suorita järjestelmänvalvojana, jos sellainen on).</span><span class="sxs-lookup"><span data-stu-id="9b297-109">[Download and install the Teams App](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), and if possible, install Teams as an administrator (right click the Teams installer and select "Run as administrator" if available).</span></span>
 
-    1.  <span data-ttu-id="7c51d-108">Sulje Microsoft Teams -työpöytäohjelma kokonaan.</span><span class="sxs-lookup"><span data-stu-id="7c51d-108">Fully exit the Microsoft Teams desktop client.</span></span> <span data-ttu-id="7c51d-109">Napsauta **Teamsia** hiiren kakkospainikkeella kuvakkeissa ja napsauta sitten **Lopeta**. Voit myös lopettaa prosessin täysin tehtävienhallinnassa.</span><span class="sxs-lookup"><span data-stu-id="7c51d-109">You can right-click **Teams** from the Icon Tray and click **Quit**, or run Task Manager and fully kill the process.</span></span>
+<span data-ttu-id="9b297-110">Jos Teams-asiakkaasi kaatuu edelleen, voitko toistaa ongelman?</span><span class="sxs-lookup"><span data-stu-id="9b297-110">If your Teams client is still crashing, can you reproduce the issue?</span></span> <span data-ttu-id="9b297-111">Jos näin on:</span><span class="sxs-lookup"><span data-stu-id="9b297-111">If so:</span></span>
 
-    2.  <span data-ttu-id="7c51d-110">Avaa Resurssienhallinta ja kirjoita %appdata%\Microsoft\teams.</span><span class="sxs-lookup"><span data-stu-id="7c51d-110">Go to File Explorer, and type in %appdata%\Microsoft\teams.</span></span>
+1. <span data-ttu-id="9b297-112">Ota askeleet vaiheiden avulla.</span><span class="sxs-lookup"><span data-stu-id="9b297-112">Use the Steps Recorder to capture your steps.</span></span>
+    - <span data-ttu-id="9b297-113">Sulje kaikki tarpeettomat tai luottamukselliset sovellukset.</span><span class="sxs-lookup"><span data-stu-id="9b297-113">Close ALL unnecessary or confidential applications.</span></span>
+    - <span data-ttu-id="9b297-114">Käynnistä Steps Recorder ja toista ongelma, kun olet kirjautunut sisään haavoittuvuuden sisältävällä käyttäjätilillä.</span><span class="sxs-lookup"><span data-stu-id="9b297-114">Launch the Steps Recorder and reproduce the issue while logged in with the affected user account.</span></span>
+    - <span data-ttu-id="9b297-115">[Kerää joukkueet lokit, jotka kaapata kirjataan repro vaiheet](https://docs.microsoft.com/microsoftteams/log-files).</span><span class="sxs-lookup"><span data-stu-id="9b297-115">[Collect the teams logs that capture the recorded repro steps](https://docs.microsoft.com/microsoftteams/log-files).</span></span> <span data-ttu-id="9b297-116">**Huomautus**: Varmista, että sieppaat vaikutusalueen vaikuttaneen käyttäjän kirjautumisosoitteen.</span><span class="sxs-lookup"><span data-stu-id="9b297-116">**Note**: Make sure you capture the sign-in address of the impacted user.</span></span>
+    - <span data-ttu-id="9b297-117">Kerää vedos- ja/tai vikasäilön tiedot (Windows).</span><span class="sxs-lookup"><span data-stu-id="9b297-117">Collect the dump and/or Fault bucket info (Windows).</span></span> <span data-ttu-id="9b297-118">Käynnistä Windows Powershell tietokoneessa, jossa kaatuminen tapahtuu, ja suorita seuraavat komennot:</span><span class="sxs-lookup"><span data-stu-id="9b297-118">Launch Windows Powershell on the machine where the crash is occurring and run the following commands:</span></span>
 
-    3.  <span data-ttu-id="7c51d-111">Näet tässä hakemistossa seuraavia kansioita:</span><span class="sxs-lookup"><span data-stu-id="7c51d-111">Once in the directory, you'll see a few of the following folders:</span></span>
-
-         - <span data-ttu-id="7c51d-112">Siirry **Application Cache** -kansiossa Cache-alikansioon ja poista kaikki tiedostot tästä välimuistikansiosta:  %appdata%\Microsoft\teams\application cache\cache.</span><span class="sxs-lookup"><span data-stu-id="7c51d-112">From within **Application Cache**, go to Cache and delete any of the files in the Cache location:  %appdata%\Microsoft\teams\application cache\cache.</span></span>
-
-        - <span data-ttu-id="7c51d-113">Poista kaikki **Blob_storage**-kansion tiedostot: %appdata%\Microsoft\teams\blob_storage.</span><span class="sxs-lookup"><span data-stu-id="7c51d-113">From within **Blob_storage**, delete all files: %appdata%\Microsoft\teams\blob_storage.</span></span>
-
-        - <span data-ttu-id="7c51d-114">Poista kaikki **Cache**-kansion tiedostot: %appdata%\Microsoft\teams\Cache.</span><span class="sxs-lookup"><span data-stu-id="7c51d-114">From within **Cache**, delete all files: %appdata%\Microsoft\teams\Cache.</span></span>
-
-        - <span data-ttu-id="7c51d-115">Poista kaikki **databases**-kansion tiedostot: %appdata%\Microsoft\teams\databases.</span><span class="sxs-lookup"><span data-stu-id="7c51d-115">From within **databases**, delete all files: %appdata%\Microsoft\teams\databases.</span></span>
-
-        - <span data-ttu-id="7c51d-116">Poista kaikki **GPUCache**-kansion tiedostot: %appdata%\Microsoft\teams\GPUCache.</span><span class="sxs-lookup"><span data-stu-id="7c51d-116">From within **GPUCache**, delete all files: %appdata%\Microsoft\teams\GPUcache.</span></span>
-
-        - <span data-ttu-id="7c51d-117">Poista kaikki **IndexedDB**-kansion tiedostot: %appdata%\Microsoft\teams\IndexedDB.</span><span class="sxs-lookup"><span data-stu-id="7c51d-117">From within **IndexedDB**, delete the .db file: %appdata%\Microsoft\teams\IndexedDB.</span></span>
-
-        - <span data-ttu-id="7c51d-118">Poista kaikki **Local Storage** -kansion tiedostot: %appdata%\Microsoft\teams\Local Storage.</span><span class="sxs-lookup"><span data-stu-id="7c51d-118">From within **Local Storage**, delete all files: %appdata%\Microsoft\teams\Local Storage.</span></span>
-
-        - <span data-ttu-id="7c51d-119">Poista vielä myös kaikki **tmp**-kansion tiedostot: %appdata%\Microsoft\teams\tmp.</span><span class="sxs-lookup"><span data-stu-id="7c51d-119">Lastly, from within **tmp**, delete any file: %appdata%\Microsoft\teams\tmp.</span></span>
-
-    4. <span data-ttu-id="7c51d-120">Käynnistä Teams-ohjelma uudelleen.</span><span class="sxs-lookup"><span data-stu-id="7c51d-120">Restart your Teams client.</span></span>
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. <span data-ttu-id="9b297-119">Liitä tiedosto tukikoteloosi.</span><span class="sxs-lookup"><span data-stu-id="9b297-119">Attach the file to your support case.</span></span>
