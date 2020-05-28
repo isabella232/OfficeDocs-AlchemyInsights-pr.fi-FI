@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953833"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343060"
 ---
 # <a name="list-view-threshold"></a>Luettelonäkymän kynnysarvo
 
-SharePoint-luettelot ja kirjastot voivat sisältää jopa 30 miljoonaa kohdetta, mutta kun niissä on yli 5 000 kohdetta, näkyviin voi tulla luettelonäkymän raja-arvovirhe, kun yrität käyttää näitä kohteita. Tämä raja-arvo on käytössä palvelun suorituskyvyn säilyttämistä varten. Sitä ei voi muuttaa. Saatat törmätä tähän virheeseen myös, kun yrität jakaa tai katkaista kansion periytymisen.
+Luettelonäkymän raja-arvo on käytössä palvelun suorituskyvyn ylläpitämiseksi. Raja-arvoa ei voi muuttaa SharePoint Onlinessa. Lisätietoja tämän kynnyksen ylittymisestä on [ohjeaiheessa Suurten luetteloiden ja kirjastojen hallinta SharePointissa](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Jos et halua saavuttaa tätä raja-arvoa, lue seuraava artikkeli:
-
-- [Suurten luetteloiden ja kirjastojen hallinta SharePointissa](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Virheen jakaminen tai periytymisen katkaiseminen](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Saatat törmätä tähän virheeseen myös, kun yrität jakaa tai katkaista kansion periytymisen. Katso [Virheen jaon/jakamisen periytyminen](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021637"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354085"
 ---
 # <a name="teams-admin-center"></a>Teams-hallintakeskus
 
@@ -30,4 +30,6 @@ Jos et voi käyttää Teams-hallintakeskusta, varmista seuraavat asiat:
 Jos käyttäjiä ei näy Teams-hallintakeskuksessa, varmista seuraavat asiat:
 
 - Oletko luonut käyttäjiä tai määrittänyt käyttöoikeuksia viimeksi kuluneiden 24 tunnin aikana? Varmista, että odotat vähintään 24 tuntia ennen tukipyynnön avaamista.
-- Varmista, että olet määrittänyt oikeat käyttöoikeudet. 
+- Varmista, että olet määrittänyt oikeat käyttöoikeudet.
+- Jos käytössäsi on paikallinen Active Directory, varmista, että [paikallisen Active Directoryn ProxyAddresses-kentän msRTCSIP-PrimaryUserAddress- tai SIP-osoitteen arvo on yksilöllinen ja että muoto vastaa](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip: Käyttäjän**käyttäjänimi** [Microsoft 365 -hallintakeskuksesta](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jos aiot pitää Skype for Business Serverin käyttöönoton ja käyttäjät ovat kotisi paikallisessa ja online-tilassa: noudata Skype for Business Serverin ohjauspaneelin **"Määritä yhdistelmä Teamsin ja Skype for Business Onlinen avulla"** -painiketta ja siirrä käyttäjät online-tilaan.
