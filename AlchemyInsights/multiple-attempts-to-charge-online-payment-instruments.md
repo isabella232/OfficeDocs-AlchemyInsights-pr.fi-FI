@@ -1,5 +1,5 @@
 ---
-title: Useita yrityksiä periä verkkomaksuvälineitä
+title: Useita yrityksiä veloittaa verkkomaksuvälineitä
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 57e1ed7c7f85f14bb7f78bb8d3e7b844ed5a7a44
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957903"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418285"
 ---
 # <a name="past-due-account"></a>Erääntynyt tili?
 
-Maksu voidaan hylätä useista syistä, mukaan lukien jos luottokortti on vanhentunut. Voit käyttää **Täsmäytä saldo -ominaisuutta** milloin tahansa luottokorttitietojen muuttamiseen ja maksun lähettämiseen välittömästi uudelleen.
+Maksu voidaan hylätä useista syistä, myös jos luottokortti on vanhentunut. Voit käyttää **Suorita maksu** -toimintoa milloin tahansa ja muuttaa luottokorttitiedot sekä lähettää maksun välittömästi uudelleen.
 
-1. Siirry hallintakeskuksessa kohtaan ** [>-palveluiden & -palveluiden](https://go.microsoft.com/fwlink/p/?linkid=842054)laskutus**.
-Etsi tilaus, jossa on jäljellä oleva saldo. Valitse **Laskutus-osan** Tilauksen vieressä **erääntynyt maksu**valitsemalla **Täsmäytä saldo** maksaaksesi koko jäljellä olevan saldon.
-2. Jos omistat luottokortin, voit muuttaa vanhentumispäivämäärää, valita toisen kortin tai [lisätä uuden kortin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
-3. Jos et omista luottokorttia, voit valita toisen luottokortin tai [lisätä uuden kortin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+1. Siirry hallintakeskuksessa kohtaan **Laskutus > [tuotteet & palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Etsi tilaus, jossa on jäljellä oleva saldo. Valitse **Laskutus-osan** Tilauksen vieressä **erääntynyt maksu**, **jos** haluat maksaa koko jäljellä olevan saldon.
+2. Jos omistat luottokortin, voit muuttaa vanhentumispäivää, valita toisen kortin tai [lisätä uuden kortin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. Jos et omista luottokorttia, voit valita toisen luottokortin tai [lisätä uuden kortin](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 4. Kun olet tehnyt päivitykset, valitse **Tallenna**.
 
-**Huomautus:** Kun maksu on suoritettu, erääntynyt ilmoitus saattaa silti olla näkyvissä lyhyen aikaa. Odota vähintään **48 tuntia** ennen kuin otat yhteyttä tukeen.
+**Huomautus**: Maksun suorittamisen jälkeen erääntynyt ilmoitus saattaa olla näkyvissä lyhyen aikaa. Odota vähintään **48 tuntia** ennen kuin otat yhteyttä tukeen.
