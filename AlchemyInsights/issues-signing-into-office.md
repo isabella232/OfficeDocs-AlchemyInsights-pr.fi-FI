@@ -1,5 +1,5 @@
 ---
-title: Office-sovelluksiin kirjautumisongelmat
+title: Office-sovelluksiin kirjautumiseen liittyvät ongelmat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762993"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474422"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Office-sovelluksiin kirjautumisongelmat
+# <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 -sovelluksiin kirjautumiseen liittyvät ongelmat
 
-Voit korjata Office-sovellusten kirjautumisongelmat seuraavasti:
+Voit korjata Microsoft 365 -sovellusten kirjautumisongelmat kokeilemalla seuraavia asetuksia haavoittuvuuden sisältävässä tietokoneessa:  
 
-- Poista kaikki työtilit, paitsi kyseinen tili, käyttämällä Windowsin asetuksia > **Accessin työ- tai oppilaitokseen**.
-- [Tyhjennä Office-tunnistetiedot](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windowsin tunnistetietojen hallinnan avulla.<br/>
-    **Huomautus:** Office 2016:n rekisteripolut ovat muuttuneet muotoon 16.0. (Esim: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Avaa Office-sovellus ja valitse > **Tiedostotili** > **Kirjaudu ulos**. **File** Kirjaudu sitten sisään käyttäjätilillä, jolla on voimassa oleva käyttöoikeus. Saat lisätietoja artikkelista [Office-tilit](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Jos sinulla on Mac-kone, lue kohta [Kirjautuminen Office 2016 for Mac -sovellukseen ei onnistu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Jos virheet tapahtuvat muodostettaessa yhteyttä Microsoft 365:een Office 2013:n avulla, ota office-asiakasohjelman moderni todennus käyttöön.
+- Windows on [ohjeaiheessa Suositukset yleisten kirjautumisongelmien ratkaisemisesta](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Lisätietoja On [ohjeaiheessa Office 2016 for Mac -sovellukseen kirjautuminen ei onnistu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-Lisätietoja on seuraavissa artikkeleissa:
-- [Kirjautuminen Microsoft 365:een, Azureen tai Intuneen ei onnistu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Yhteysongelmat kirjautumisen yhteydessä Office 2016:n koontiversioon 16.0.7967 Windows 10:ssä](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Officen toinen tili on jo kirjautunut sisään tähän tietokoneeseen"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Officen nykyaikaisen todennuksen kirjautumisongelmien vianmääritys ADFS:ää käytettäessä](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Huomautus:** Uudenaikaisen todennuksen (ADAL) tai Www-tilin hallinnan (WAM) poistamista käytöstä kirjautumis- tai aktivointiongelmien korjaamiseksi **ei suositella.** Jos virheet ilmenevät muodostettaessa yhteyttä Microsoft 365:een Office 2013:n avulla, varmista, että [otat office-asiakasohjelman nykyaikaisen todennuksen käyttöön.](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)
+
+Lisätietoja tietyistä vianmääritystoiminnoista on kohdassa:
+
+[Yhteysongelmat kirjautumisen yhteydessä Office 2016:n koontiversioon 16.0.7967 Windows 10:ssä](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Et voi kirjautua organisaatiotiliisi, kuten Office 365:lle, Azurelle tai Intunelle](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Muiden kuin selainsovellusten vianmääritys, jotka eivät pysty kirjautumaan Office 365:ään, Azureen tai Intuneen](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Toistuvasti kehote tunnistetiedoista Officessa](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
