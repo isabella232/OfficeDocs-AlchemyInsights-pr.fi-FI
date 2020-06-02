@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a8443f0cdab72d8760ae72e9d20dd3f49870f585
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711484"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508229"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="23194-102">Peruutetaanko Microsoft 365 -tilauksesi?</span><span class="sxs-lookup"><span data-stu-id="23194-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="795d4-102">Peruutetaanko Microsoft 365 -tilauksesi?</span><span class="sxs-lookup"><span data-stu-id="795d4-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="23194-103">Olemme pahoillamme, että menet, mutta tässä on vaihtoehtoja peruuttaa tilauksesi:</span><span class="sxs-lookup"><span data-stu-id="23194-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="795d4-103">Olemme pahoillamme, että lähdet, mutta tässä on tilauksen peruutusvaihtoehdot:</span><span class="sxs-lookup"><span data-stu-id="795d4-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
   
-- <span data-ttu-id="23194-104">**Organisaatiosi tietojen perusteella uskomme, että kaikki nykyiset tilauksesi ovat kokeilutilauksia. Kokeilutilausta ei tarvitse peruuttaa erikseen, koska kokeilutilaukset eivät edellytä maksuja eikä kokeilujakson päättymisen jälkeen ole velvollisuutta.**</span><span class="sxs-lookup"><span data-stu-id="23194-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+- <span data-ttu-id="795d4-104">**Uskomme organisaatiosi tietojen perusteella, että kaikki nykyiset tilauksesi ovat Kokeilutilauksia. Kokeiluversion tilausta ei tarvitse nimenomaisesti peruuttaa, koska Kokeiluversion tilaukset eivät edellytä maksuja, eikä velvollisuutta ole kokeilujakson päättymisen jälkeen.**</span><span class="sxs-lookup"><span data-stu-id="795d4-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
 
-- <span data-ttu-id="23194-105">Lisätietoja tilauksen peruuttamisesta tai vaiheittaiset ohjeet ovat tässä artikkelissa: [Tilauksen peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="23194-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+- <span data-ttu-id="795d4-105">Lisätietoja tilauksen peruuttamisesta tai vaiheittaiset ohjeet ovat tässä artikkelissa: [Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="795d4-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
