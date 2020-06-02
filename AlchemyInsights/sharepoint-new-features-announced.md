@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 3ad14c42bdca8984c00d44c222dd242f0e00a9ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4bebb7c88308772fe93d1b8ecd16954871d03f8c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767678"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505412"
 ---
 # <a name="sharepoint-new-features-announced"></a>SharePointin uudet ominaisuudet julkistettu
 
-Ignite 2018 -konferenssissa Microsoft julkisti uusia innovaatioita SharePointille, mukaan lukien uudet ominaisuudet moderneille portaaleille, uusille www-osille, lukuisia parannuksia keskussivustoihin, uutislinkkiin, yleisökohdistukseen, uusien mobiilisovellusten saatavuuteen, yhteyteen Teamsiin ja paljon muuta...
+Ignite 2018 -konferenssissa Microsoft julkisti sharepointille uusia innovaatioita, kuten uusia ominaisuuksia moderneille porteille, uusia verkko-osia, lukuisia parannuksia keskitinsivustoihin, uutislinkkiin, yleisökohdistukseen, uusien mobiilisovellusten saatavuuteen, yhteyteen Teamsiin ja paljon muuta...
   
-Lisätietoja näistä ominaisuuksista on blogikirjoituksessa [Uudet innovaatiot &amp; SharePoint Microsoft 365:ssä, jotka tuottavat tehoa ja yksinkertaisuutta sisällön yhteiskäytössä.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Lisätietoja näistä ominaisuuksista on [blogikirjoituksessa Uudet innovaatiot SharePoint &amp; Microsoft 365:ssä, jotka tuottavat virtaa ja yksinkertaisuutta sisällön yhteiskäyttöä varten.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Organisaatiosi voi liittyä kohdennettuun julkaisuun, jotta voit käyttää uusia ominaisuuksia varhaisessa vaiheessa. Lisätietoja [on ohjeaiheessa Vakio- tai Kohdennettu julkaisuasetusten määrittäminen Microsoft 365:ssä](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Organisaatiosi voi liittyä Kohdennettu julkaisu -ohjelmaan, jotta voit käyttää uusia ominaisuuksia varhaisessa vaiheessa. Lisätietoja [on ohjeaiheessa Microsoft 365:n vakio- tai kohdistetun julkaisun asetusten määrittäminen](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).

@@ -1,5 +1,5 @@
 ---
-title: Lisäkäyttöoikeuksien ostaminen
+title: Osta lisälisenssejä
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6950efae6aef72a3c8198fee97596f640f5968c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061704"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506224"
 ---
-# <a name="buy-additional-licenses"></a>Lisäkäyttöoikeuksien ostaminen
+# <a name="buy-additional-licenses"></a>Osta lisälisenssejä
 
-1. Siirry hallintakeskuksessa **Billing** \> **[Laskutus tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry hallintakeskuksessa **Billing** \> **[Laskutustuotteesi-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Etsi tilaus, johon haluat lisätä käyttöoikeuksia, ja valitse sitten **Lisää tai poista käyttöoikeuksia**.
 
-    [Entä jos Lisää tai poista -linkkiä ei näy?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Entä jos Lisää tai poista -linkkiä ei näy?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-3. Kirjoita **Käyttöoikeuksien kokonaismäärä** -ruutuun tämän tilauksen tarvitsemien käyttöoikeuksien kokonaismäärä ja valitse sitten **Lähetä muutos**. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja tarvitset vielä viisi lisää, kirjoita tähän luku 105.
+3. Kirjoita **Käyttöoikeuksien kokonaismäärä** -ruutuun tähän tilaukseen tarvitsemien käyttöoikeuksien kokonaismäärä ja valitse sitten **Lähetä muutos**. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja tarvitset vielä viisi lisää, kirjoita tähän luku 105.
 
     > [!NOTE]
     > Jos olet maksanut tilauksen luottokortilla tai pankkisiirrolla, ostamasi käyttöoikeudet ovat käytettävissä heti, kun olet saanut tilausvahvistuksen. Jos maksat laskulla, joudut mahdollisesti odottamaan luottotietojen tarkistusta, ennen kuin uudet käyttöoikeudet ovat käytettävissä.
 
-Lisätietoja on ohjeaiheessa [Microsoft 365 for Business -tilauksen käyttöoikeuksien ostaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Lisätietoja on ohjeaiheessa [Käyttöoikeuksien ostaminen Microsoft 365 for Business -tilausta varten](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
 
 **Lisäresurssit**
 
-- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
