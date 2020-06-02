@@ -1,5 +1,5 @@
 ---
-title: Postilaatikoissa sijoitettujen pitojen tunnistaminen
+title: Postilaatikoissa sijoitettujen piin tunnistaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,22 +12,22 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724773"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508877"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Postilaatikoissa sijoitettujen pitojen tunnistaminen
+# <a name="identify-holds-placed-on-mailboxes"></a>Postilaatikoiden pitojen tunnistaminen
 
-Onko sinulla Microsoft 365 -sisältöä, **jota** säilyttää **pito,** jota et pysty tunnistamaan? Haluatko **selvittää,** missä pito sijaitsee **postilaatikossa?** Pitoja (*säilytysominaisuuksia*) voidaan käyttää jollakin seuraavista tavoista:
+Onko sinulla Microsoft 365 -sisältöä, **jota** **ei** voi tunnistaa? Haluatko **selvittää,** missä pito sijaitsee **postilaatikossa?** Pitoa (*säilytysominaisuuksia*) voidaan käyttää jollakin seuraavista tavoista:
   
-- Oikeustoimiin liittyvä pito
+- Riita-asioiden pito
 
 - eDiscovery-pito
 
-- Pito paikallaan
+- Pito paikan edessä
 
 - Microsoft 365:n säilytyskäytäntö 
 
@@ -37,4 +37,4 @@ Onko sinulla Microsoft 365 -sisältöä, **jota** säilyttää **pito,** jota et
 
 - Microsoft 365 -tarrat
 
-Lisätietoja käyttäjän postilaatikkoon käytettävän pidon tyypistä on [ohjeaiheessa Exchange Online -postilaatikkoon sijoitetun pidon tyypin selvittäminen](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Lisätietoja pidon tyypistä käytetään käyttäjän postilaatikossa ohjeaiheessa [Exchange Online -postilaatikkoon sijoitetun pidon tyypin tunnistaminen](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

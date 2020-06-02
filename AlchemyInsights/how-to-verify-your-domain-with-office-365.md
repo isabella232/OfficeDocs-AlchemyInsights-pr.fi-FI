@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787992"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509021"
 ---
 # <a name="how-to-verify-your-domain"></a>Toimialueen vahvistaminen
 
-Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden vahvistamiseksi. Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains/Wizard) valitsemalla **Määritä** \> **toimialueet**ja **sitten Lisää toimialue**.
+Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun, jotta voit varmistaa, että omistat toimialueesi. Noudata ensin [ohjattua toimialueen lisäämistoimintoa](https://portal.office.com/adminportal/home#/Domains/Wizard) valitsemalla **Setup** \> **Asennustoimialueet**ja sitten **Lisää toimialue**.
   
-Lisää TXT-tietue toimialueen vahvistamiseksi noudattamalla kohdassa [DNS-tietueiden luominen missä tahansa DNS-isännöintipalvelussa](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) annettuja ohjeita.
+Lisää TXT-tietue toimialueen vahvistamiseksi noudattamalla kohdan [DNS-tietueiden luominen missä tahansa DNS-isännöintipalvelussa](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) annettuja ohjeita.
 
-Muilla verkkotunnuksilla kokeile [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Muiden toimialueiden ongelmat kokeile [Verkkotunnuksia koskevia usein kysyttyjä kysymyksiä](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).

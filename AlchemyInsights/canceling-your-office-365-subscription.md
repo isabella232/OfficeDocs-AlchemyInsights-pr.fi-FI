@@ -1,5 +1,5 @@
 ---
-title: Peruutat tilauksesi?
+title: Peruutetaanko tilauksesi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086671"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508157"
 ---
-# <a name="canceling-your-subscription"></a>Peruutat tilauksesi?
+# <a name="canceling-your-subscription"></a>Peruutetaanko tilauksesi?
 
-Olemme pahoillamme, että menet, mutta jos haluat peruuttaa tilauksesi, tässä ovat vaihtoehdot:
+Pahoittelemme, että lähdet, mutta jos haluat peruuttaa tilauksesi, tässä ovat vaihtoehdot:
   
-- Jos olet kokeiluasiakas, ei ole mitään peruutettavaa. Kokeilutilaukset vanhenevat automaattisesti, ellet anna maksutapaa.
+- Jos olet kokeiluasiakas, mitään peruutettavaa ei ole. Kokeiluversiotilaukset vanhenevat automaattisesti, ellet anna maksutapaa.
 
-- Jos sinulla on alle 25 määritettyä käyttöoikeutta, voit peruuttaa tilauksesi verkossa. Siirry **Tuotteiden laskutus** \> **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
+- Jos sinulla on alle 25 määritettyä käyttöoikeutta, voit peruuttaa tilauksesi verkossa. Siirry **Billing** \> **[Laskutustuotteesi-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
 
-- Jos sinulla on yli 25 määritettyä käyttöoikeutta, voit poistaa käyttäjiä, kunnes sinulla on alle 25 käyttöoikeutta.
+- Jos sinulla on yli 25 määritettyä käyttöoikeutta, voit poistaa käyttäjiä, kunnes sinulla on alle 25.
   
 **Hyvitys: Kaikki prorated-hyvitykset palautetaan sinulle seuraavan laskutusjakson aikana.** 
 
-**Huomautus**: Jos et näe peruutusvaihtoehtoa, napsauta tilausta nähdäksesi tiedot ja näkyviin pitäisi näkyä **Peruuta tilaus** -vaihtoehto Kohdassa Asetukset **& Toiminnot**. 
+**Huomautus**: Jos peruutusvaihtoehtoa ei näy, voit tarkastella tietoja napsauttamalla tilausta ja näet **Asetukset & Toiminnot -kohdassa Peruuta** **tilaus** -vaihtoehdon. 
 
-Lisätietoja on ohjeaiheessa [Tilauksen peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Lisätietoja on [ohjeaiheessa Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

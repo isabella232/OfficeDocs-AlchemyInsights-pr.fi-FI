@@ -14,22 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645993"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509417"
 ---
-# <a name="set-passwords-to-never-expire"></a>Aseta salasanat vanhenemaan
+# <a name="set-passwords-to-never-expire"></a>Salasanojen määrittäminen vanhenemaan ei koskaan
 
-Jos haluat asettaa KAIKKI salasanat vanhenemaan, siirry Microsoft 365 -hallintakeskuksessa **Settings** > [ &amp; Securityn tietosuojasivulle.](https://portal.office.com/adminportal/home#/settings/security) Valitse **Salasanakäytäntö-kohdan**vierestä **Muokkaa** ja valitse Käytössä **-liukusäädin.**
+Jos haluat asettaa KAIKKI salasanat vanhentumaan, siirry Microsoft 365 -hallintakeskuksessa **Asetukset**  >  [Suojauksen &amp; tietosuoja](https://portal.office.com/adminportal/home#/settings/security) -sivulle. Valitse **Salasanakäytäntö-kohdan**vierestä **Muokkaa** ja ota liukusäädin **käyttöön**.
   
-Tarkempia tietoja on seuraavissa ohjeissa: 
+Lisätietoja on seuraavissa ohjeissa: 
 
-- [Määritä organisaation salasanan vanhentumiskäytäntö.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+- [Määritä organisaation salasanan vanhentumiskäytäntö.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Aseta salasana, joka ei vanhene koskaan tietyille käyttäjille](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Salasanan määrittäminen vanhenemaan koskaan tietyille käyttäjille](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 - [Salasanan on täytettävä monimutkaisuusvaatimukset](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

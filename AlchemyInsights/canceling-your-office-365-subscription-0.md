@@ -13,21 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44059074"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508265"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 -tilauksesi?
 
 Ikävää, että lähdet.
   
-Organisaatiosi tietojen perusteella uskomme, että kaikissa nykyisissä tilauksissasi on alle 25 paikkaa. Jos haluat peruuttaa tilauksesi **Billing** verkossa, siirry \> **[Tuotteidesi](https://go.microsoft.com/fwlink/p/?linkid=842054)** laskutus -sivulle. Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
+Uskomme, että kaikilla nykyisillä tilautuksissasi on organisaatiosi tietojen perusteella alle 25 paikkaa. Jos haluat peruuttaa tilauksesi **Billing** verkossa, siirry \> **[Laskutustuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
   
 **Hyvitys: Kaikki prorated-hyvitykset palautetaan sinulle seuraavan laskutusjakson aikana.** 
 
-**Huomautus**: Jos et näe peruutusvaihtoehtoa, napsauta tilausta nähdäksesi tiedot ja näkyviin pitäisi näkyä **Peruuta tilaus** -vaihtoehto Kohdassa Asetukset **& Toiminnot**. 
+**Huomautus**: Jos peruutusvaihtoehtoa ei näy, voit tarkastella tietoja napsauttamalla tilausta ja näet **Asetukset & Toiminnot -kohdassa Peruuta** **tilaus** -vaihtoehdon. 
 
-Lisätietoja on ohjeaiheessa [Tilauksen peruuttaminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Lisätietoja on [ohjeaiheessa Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 
