@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692834"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511217"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Puuttuvien tiedostojen tai kansioiden vianmääritys OneDrivessa tai SharePointissa
 
@@ -27,19 +27,19 @@ ms.locfileid: "43692834"
 
 **Tiedostojen palauttamisominaisuus**
 
-Jos haittaohjelma poistaa, korvaa, vioittuu tai tartuttaa useita OneDrive- tai SharePoint-tiedostoja, voit palauttaa koko OneDrive- tai Sharepoint-kirjaston aiempaan aikaan tiedostojen palautustoiminnon avulla.
+Jos useita OneDrive- tai SharePoint-tiedostoja poistetaan, korvataan, vioittuu tai haittaohjelmatartuuttaa, voit palauttaa koko OneDrive- tai Sharepoint-kirjaston edelliseen aikaan tiedostojen palautustoiminnon avulla.
 
 - [OneDrive-kirjaston palauttaminen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Tiedostokirjaston palauttaminen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Tarkista tiedoston historia valvontalokin tai tiedoston aktiviteettiruudun avulla**
+**Tarkista tiedoston historia valvontalokin tai tiedostoaktiviteettiruudun avulla**
 
-[Tarkista tarkastusraportit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> siirtymällä [tästä](https://protection.office.com/#/unifiedauditlog)
+[Tarkista tarkastusraportit](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> navigoimalla [täällä](https://protection.office.com/#/unifiedauditlog)
 
-Tarkista [tiedoston](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) historia tiedoston aktiviteettiruudun avulla.
+Tarkista tiedoston historia [tiedostoaktiviteettiruudun](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) avulla.
 
-Tarkista paikallisen tietokoneen OneDrive-synkronointiohjelma.  Jos synkronoit tietokoneen tiedostot OneDrive Sync -asiakasohjelman kautta, tarkista paikallisen synkronointikansion avulla, että ne on ladattu oikein. Varmista, että tarkistat myös roskakorin paikallisessa tietokoneessa.
+Tarkista OneDrive Sync Client paikallisesta tietokoneesta.  Jos synkronoit tietokoneen tiedostot OneDrive Sync -asiakasohjelman kautta, tarkista paikallisesta synkronointikansiosta, että ne on ladattu oikein. Tarkista myös paikallisen tietokoneen roskakori.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 1490-vianmääritys-eDiscovery-epäonnistumiset
+title: 1490-vianmääritys-eDiscovery-virheet
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759581"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512551"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Sisältöhakuvirheiden vianmääritys
+# <a name="troubleshoot-content-search-errors"></a>Sisältöhaun virheiden vianmääritys
 
-Onko sisältöhaussa tai virheissä ongelmia, kun viet hakutuloksia?
+Onko sisältöhaussa ongelmia tai saat virheitä, kun viet hakutuloksia?
 
 Saatko esimerkiksi seuraavat tiedot, kun suoritat hakuja?
 
 - CS008- tai CS012-virheet
 
-- Palvelimen varattu/aikakatkaisuvirheet
+- Palvelimen varattujen/aikakatkaisuvirheiden virheet
 
 - Sovellusvirhe
 
-Tai kun etsit tai viet tuloksia suuresta määrästä postilaatikoita (yli 100 000 postilaatikkoa), saatko vientivirheitä?
+Tai kun etsit tai viet tuloksia useista postilaatikoista (yli 100 000 postilaatikkoa), saatko vientivirheitä?
 
-Jos virhetyyppi on virhe, yritä etsiä epäonnistuneita sisältösijainteja uudelleen. Lisätietoja on [tässä artikkelissa.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)
+Yritä tämäntyyppisissä virheissä etsimällä uudelleen sisältösijainteja, jotka ovat epäonnistuneet. Lisätietoja [on tässä artikkelissa.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)

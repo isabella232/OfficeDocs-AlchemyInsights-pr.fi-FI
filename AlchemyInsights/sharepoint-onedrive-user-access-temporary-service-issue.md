@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ec378981d4f24837b037e18214cbeba2f2b657c5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2dc0cd5f1641298853443d364eb9434ec1d9cd5a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692690"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511145"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint tai OneDrive Hidas, käyttökelvin tai ei käytettävissä useille käyttäjille
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint tai OneDrive hidas, käyttökelvoton tai ei käytettävissä useille käyttäjille
 
-Jos OneDrive- tai SharePoint-sivusto ei ole useiden käyttäjien käytettävissä aiemmin, palveluongelma saattaa olla tilapäinen. [Tarkista palvelun kunnon koontinäyttö](https://portal.office.com/adminportal/home#/servicehealth).
+Jos OneDrive- tai SharePoint-sivusto ei ole käytettävissä useille käyttäjille, joilla on aiemmin ollut käyttöoikeus, kyseessä voi olla tilapäinen palveluongelma. [Tarkista palvelun kunnon koontinäyttö](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Käyttäjän lisääminen ja lisensointi**
+**Käyttäjän lisääminen ja lisensoiminen**
 
-Varmista, että [määrität käyttöoikeudet Microsoft 365 for Business -järjestelmän käyttäjille.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)
+Varmista, että [määrität käyttöoikeudet Microsoft 365 for Businessin käyttäjille.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 
 **Käyttöoikeuksien määrittäminen**
 
-Jos käyttäjälle on määritetty Sharepoint-käyttöoikeus ja hän saa edelleen käyttöestettyä viestiä, varmista, että hänelle on määritetty [asianmukainen käyttöoikeustaso.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+Jos käyttäjälle on määritetty Sharepoint-käyttöoikeus ja hän saa edelleen käyttöestettyä sanomaa, varmista, että hänelle on määritetty [asianmukainen käyttöoikeustaso.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-**Harkitse käyttöpyyntötoiminnon käyttämistä**
+**Harkitse käyttöoikeuspyyntötoiminnon käyttämistä**
 
-[Käyttöoikeuspyyntöominaisuuden](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) avulla käyttäjät voivat pyytää pääsyä sisältöön, jota heillä ei ole tällä hetkellä oikeus nähdä.
+[Käyttöoikeuspyyntöominaisuuden](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) avulla käyttäjät voivat pyytää pääsyä sisältöön, jota heillä ei ole tällä hetkellä näköoikeuksia.
 
-**Mukautetun komentosarjan salliminen saattaa aiheuttaa käyttöestettyjen ongelmien käytön**
+**Salli mukautettu komentosarja saattaa aiheuttaa käyttöestettyjä ongelmia**
 
-On tilanteita, joissa *Salli mukautettu komentosarja* -ominaisuus saattaa estää käyttöoikeuden. Luettelo ominaisuuksista, joita haavoittuvuus koskee, tietoturvaan liittyvistä seikoista ja mahdollisuudesta poistaa ominaisuus käytöstä. Siirry [kohtaan Salli tai estä mukautettu komentosarja](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+On tiettyjä tilanteita, joissa *Salli mukautettu komentosarja* -ominaisuus saattaa esittää käyttö estettyä. Saat luettelon ominaisuuksista, joita haavoittuvuus koskee, tietoturvaan liittyvistä syistä ja ominaisuuden poistamisen käytöstä. Siirry [kohtaan Mukautetun komentosarjan salliminen tai estäminen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

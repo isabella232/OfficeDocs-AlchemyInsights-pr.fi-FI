@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059841"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511433"
 ---
 # <a name="reset-or-change-passwords"></a>Salasanojen vaihtaminen tai vaihtaminen
 
-Käyttäjä voi vaihtaa oman salasanansa **Oma tili** > [Turvallisuus & tietosuoja](https://portal.office.com/account/#security).
+Käyttäjä voi vaihtaa oman salasanansa **Oma tili**Security  >  [& tietosuoja](https://portal.office.com/account/#security).
   
-Jos käyttäjä on unohtanut salasanansa, järjestelmänvalvoja voi nollata salasanan valitsemalla **Käyttäjät** > [aktiiviset käyttäjät](https://portal.office.com/adminportal/home#/users), valitsemalla käyttäjät ja valitsemalla Palauta **salasana**.
+Jos käyttäjä on unohtanut salasanansa, järjestelmänvalvoja voi **Users**palauttaa salasanan valitsemalla  >  [Käyttäjät Aktiiviset käyttäjät](https://portal.office.com/adminportal/home#/users), valitsemalla käyttäjät ja valitsemalla Palauta **salasana**.
   
-[Saat lisätietoja](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)tai käyttäjät voivat nollata omat unohtuneet salasanansa napsauttamalla tätä.
+Saat lisätietoja tai antaa käyttäjien palauttaa omat unohtuneet salasanansa [napsauttamalla tätä.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)

@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767570"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512479"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Sähköpostin määrittäminen Outlook-mobiilisovelluksessa
 
-1. Valitse **Aloita,** jos määrität sähköpostia ensimmäistä kertaa mobiilisovelluksessa. Muussa tapauksessa napauta **Valikko** ja napauta sitten **Asetukset** \> **Lisää tili** \> **Lisää sähköpostitili**.
+1. Valitse **Aloita,** jos määrität sähköpostia ensimmäistä kertaa mobiilisovelluksessa. Muussa tapauksessa napauta **Valikko ja** napauta sitten **Asetukset** \> **Lisää tili** Lisää \> **sähköpostitili**.
 
 2. Anna koko sähköpostiosoitteesi ja napauta **Jatka** tai **Lisää tili**.
 
-3. Anna sähköpostitilisi salasana ja napauta **Kirjaudu sisään** tai **Seuraava**.
+3. Anna sähköpostitilin salasana ja napauta **Kirjaudu sisään** tai **Seuraava**.
 
-4. Jos [monivaiheinen todennus](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) on käytössä, tarkista määrittämäsi menetelmän avulla (6-numeroinen koodi, puhelu tai Microsoft Authenticator -sovellus).
+4. Jos [monivaiheinen todennus](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) on käytössä, tarkista käyttämällä määrittämääsi menetelmää (6-numeroinen koodi, puhelu tai Microsoft Authenticator -sovellus).
 
-5. Jos it-järjestelmänvalvojan muita käytäntöjä on käytössä, ota ne käyttöön napauttamalla **Aktivoi.**
+5. Jos käytössä on muita IT-järjestelmänvalvojan käytäntöjä, ota ne käyttöön napauttamalla **Aktivoi.**
 
-6. Outlook voi pyytää lupaa käyttää kalenteriasi, yhteystietojasi ja muita tietoja. Valitse **Kyllä** tai **Salli**.
+6. Outlook voi pyytää lupaa käyttää kalenteria, yhteystietoja ja muita tietoja. Valitse **Kyllä** tai **Salli**.
 
-Saat yksityiskohtaiset asennusohjeet [Outlook for Androidille](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) tai [Outlook for iOS:lle](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) täältä.
+Saat yksityiskohtaiset ohjeet [Outlook for Androidille](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) tai [Outlook for iOS:lle](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) täältä.
   
  **Tarvitsetko apua?**
   
 - [Sähköpostin määrittämiseen liittyviä ongelmia mobiililaitteissa](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Sovelluksen ohjeen saaminen Outlook for iOS:lle ja Androidille](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Hanki outlook for iOS:n ja Androidin sovelluksen ohje](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

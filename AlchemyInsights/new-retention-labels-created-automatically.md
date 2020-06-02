@@ -1,5 +1,5 @@
 ---
-title: Automaattisesti luodut uudet säilytysotsikot
+title: Automaattisesti luodut uudet säilytystarrat
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713499"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511757"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automaattisesti luodut uudet säilytysotsikot
+# <a name="new-retention-labels-created-automatically"></a>Automaattisesti luodut uudet säilytystarrat
 
-Kolme [uutta säilytystarraa,](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) jotka on luotu automaattisesti organisaatiossasi suojaus- tai yhteensopivuushallintakeskuksen **Retenssitarrat-kohdassa.** Otsikoiden nimet ovat:
+Organisaatiossasi saattaa näkyä [kolme uutta säilytystarraa](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) suojaus- tai yhteensopivuushallintakeskuksen **Säilytysotsikoissa.** Otsikoiden nimet ovat:
 
 - Operatiivinen menettely
 - Liiketoiminnan yleiset
-- Sopimussopimus
+- Sopimus
 
-Tämä tapahtuu, kun valitset **Tiedostosuunnitelma** ensimmäisen kerran, jos muita säilytystarroja ei ole luotu. Nämä otsikot luodaan automaattisesti, ja ne voidaan tarvittaessa poistaa, jos niitä ei ole vielä otettu käyttöön sisällössä. Tarrojen poistaminen:
+Tämä tapahtuu, kun valitset **Tiedostosuunnitelma-asetuksen** ensimmäisen kerran, jos muita säilytystarroja ei ole luotu. Nämä tarrat luodaan automaattisesti, ja ne voidaan tarvittaessa poistaa, jos niitä ei ole vielä käytetty sisältöön. Tarrojen poistaminen:
 
-1. Valitse suojaus- tai yhteensopivuushallintakeskuksessa > **Luokitukset-tunnisteiden** >  **Classifications****säilytys** -välilehti.
+1. Valitse suojauksen tai yhteensopivuuden hallintakeskuksessa **Luokitukset-tunnisteiden**  >  **Labels**  >  **säilytys** -välilehti.
 
-1. Poista otsikko valitsemalla poistettavat retentiotarrat > **Poista-otsikko** > **Kyllä.**
+1. Valitse poistettavat säilytysotsikot > **Poista otsikko**  >  **Kyllä** poistaaksesi tarran.
 
-Tiedostosuunnitelman hallinnan avulla voit hallita organisaation säilytysotsikoita ja [Overview of the File Plan Manager](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)käytäntöjä .
+Tiedostosuunnittelun hallinnan avulla voit hallita organisaation säilytysotsikoita ja -käytäntöjä - lisätietoja on kohdassa [Yleistä tiedostosuunnittelun hallinnasta](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
