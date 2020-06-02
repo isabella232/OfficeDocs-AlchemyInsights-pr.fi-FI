@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908413"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506987"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Valvontalokin ottaminen käyttöön ja hakeminen
 
 **Microsoft 365**
 
-Voit etsiä Microsoft 365:n valvontalokista [seuraavasti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Voit etsiä Microsoft 365:n valvontalokista [seuraavasti](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
-- Exchange-järjestelmänvalvojan aktiviteetit ovat oletusarvoisesti valvottuja.
+- Exchangen hallintatoimintoja valvotaan oletusarvoisesti.
 
-- Postilaatikon valvonta on oletusarvoisesti käytössä Microsoft 365:ssä. Lisätietoja on [tässä artikkelissa](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Postilaatikon valvonta on oletusarvoisesti käytössä Microsoft 365:ssä. Lisätietoja on [tässä artikkelissa](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Microsoft 365 Group -postilaatikot ja yleisen kansion postilaatikot Exchange Onlinessa eivät tue valvontalokia.
 
 **SharePoint ja OneDrive**
 
-- SharePointin ja OneDriven valvonnan käyttöönotto ei edellytä lisämäärityksiä.
+- SharePointin ja OneDriven valvonnan mahdollistamiseen ei tarvita lisämäärityksiä.
 
-- SharePoint ja OneDrive tukevat seuraavantyyppisten aktiviteettien valvontaa:
+- SharePoint ja OneDrive tukevat seuraavantyyppisten toimintojen valvontaa:
 
-    - Tiedosto-, kansio- ja sivutoiminnot
-    - Jakamis- ja käyttöoikeuspyyntöaktiviteetit
+    - Tiedosto-, kansio- ja sivuaktiviteetit
+    - Pyyntöaktiviteettien jakaminen ja käyttäminen
     - Sivuston hallintatoiminnot
     - Tiedostojen synkronointitoiminnot
 
-- Lisätietoja muiden palveluiden valvotuista toiminnoista [on tämän artikkelin taulukossa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Lisätietoja muiden palveluiden tarkastetuista toiminnoista [on tämän artikkelin taulukossa](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Tässä on luettelo valvontalokin etsimiseen liittyvistä usein kysytyistä [kysymyksistä.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions)
+- Tässä on luettelo usein kysytyistä [kysymyksistä, joita usein kysyttyjä kysymyksiä](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) valvontalokin hakemisesta on.

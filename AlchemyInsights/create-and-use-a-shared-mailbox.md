@@ -1,5 +1,5 @@
 ---
-title: Jaetun posti laatikon luominen ja käyttäminen
+title: Jaetun postilaatikon luominen ja käyttäminen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049802"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507655"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Jaetun posti laatikon luominen ja käyttäminen
+# <a name="create-and-use-a-shared-mailbox"></a>Jaetun postilaatikon luominen ja käyttäminen
 
-Jaetun posti laatikon avulla useampi kuin yksi henkilö voi lähettää ja vastaanottaa sähkö postia aliakselle, kuten sales@contoso.com, määrittelemättä toista käyttö oikeutta.
+Jaetun postilaatikon avulla useampi kuin yksi henkilö voi lähettää ja vastaanottaa sähköpostia aliakselle, kuten sales@contoso.com, määrittämättä toista käyttöoikeutta.
   
-- Pääset alkuun [noudattamalla seuraavia ohjeita](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Microsoft 365-hallinta keskuksessa. 
+- [Aloita noudattamalla microsoft](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) 365 -hallintakeskuksen ohjeita. 
 
-Voit myös lukea [Luo jaettu posti laatikko](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) artikkeli, joka kertoo kaiken, mitä sinun tarvitsee tietää jaettuja posti laatikoita, kuten miten niitä käytetään.
+Voit myös lukea [Luo jaettu postilaatikko -artikkelin,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) jossa kerrotaan kaikki, mitä sinun tarvitsee tietää jaetuista postilaatikoista, mukaan lukien niiden käyttäminen.
   

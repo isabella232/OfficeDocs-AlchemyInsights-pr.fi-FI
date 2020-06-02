@@ -14,36 +14,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714767"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507167"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Etkö voi asentaa tai suorittaa eDiscovery-vientityökalua?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EDiscovery Export Tool -työkalun asentaminen tai suorittaminen ei onnistu?
 
-Jos et pysty asentamaan tai suorittamaan eDiscovery-vientityökalua hakutulosten lataamiseen, tarkista seuraavat asiat:
+Jos et pysty asentamaan tai suorittamaan eDiscovery Export Tool -työkalua hakutulosten lataamiseksi, tarkista seuraavat asiat:
   
-- Käyttämäsi tietokone täyttää seuraavat vaatimukset:
+- Käyttämäsi tietokone täyttää seuraavat edellytykset:
 
   - Windows 7:n ja uudempien versioiden 32- tai 64-bittiset versiot
 
-  - Microsoft .NET Framework 4.7:n
+  - Microsoft .NET Framework 4.7
 
   - Tuettu selain:
 
-  - Microsoft Edge
+  - Microsoft Reuna
 
-    Tai
+    TAI
 
   - Internet Explorer 10 ja uudemmat versiot
 
     Muita selaimia, kuten Google Chromea ja Mozilla Firefoxia, ei tueta.
 
-- Organisaatiosi voi muodostaa yhteyden päätepisteeseen Azuressa, joka on ** \*.blob.core.windows.net** (yleismerkki edustaa vientityön yksilöllistä tunnusta).
+- Organisaatiosi voi muodostaa yhteyden päätepisteeseen Azuressa, joka on ** \* .blob.core.windows.net** (yleismerkki edustaa vientityön yksilöllistä tunnusta).
 
-- Sinulle määritetään Vie-rooli Microsoft 365 &amp; Security Compliance Centerissä. Oletusarvon mukaan tämä rooli määritetään vain eDiscovery Manager -rooliryhmälle. Katso [eDiscovery-käyttöoikeuksien määrittäminen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Sinulle on määritetty Vie-rooli Microsoft 365 Security &amp; Compliance Centerissä. Oletusarvon mukaan tämä rooli määritetään vain eDiscovery Manager -rooliryhmälle. Katso [eDiscovery-käyttöoikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

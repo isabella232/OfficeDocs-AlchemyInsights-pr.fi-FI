@@ -1,5 +1,5 @@
 ---
-title: Ohjausobjektien luominen ryhmien
+title: Ryhmien luomisen hallinta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39eb0a09543ab55f9255a42cb1c83e91f656acb0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908737"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507727"
 ---
 # <a name="control-creation-of-microsoft-365-groups"></a>Microsoft 365 -ryhmien luomisen hallinta
 
-Oletusarvon mukaan kaikki yrityksen käyttäjät voivat luoda ryhmiä. Tarvittaessa voit muuttaa tätä ja määrittää oikeuden luoda ryhmiä yrityksessäsi oleville henkilöille. Huomaa, että tämä vaikuttaa ryhmien luomiseen mistä tahansa Microsoft 365 -palvelusta (kuten Outlookista, Teamsista, Plannerista ja niin edelleen).
+Oletusarvon mukaan kaikki yrityksen käyttäjät voivat luoda ryhmiä. Voit tarvittaessa muuttaa tätä ja määrittää oikeuden luoda ryhmiä yrityksellesi kuuluville henkilöille. Huomaa, että tämä vaikuttaa ryhmien luomiseen mistä tahansa Microsoft 365 -palvelusta (kuten Outlookista, Tiimeistä, suunnittelijasta ja niin edelleen).
   
-Ohjeet: [Microsoft 365 -ryhmien luontipalveluiden hallinta](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Ohjeet: [Microsoft 365 -ryhmien luontien hallinta](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

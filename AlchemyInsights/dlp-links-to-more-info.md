@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 62f0eeb4c058285158d012be3c1d54d09a7b8482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704522"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507547"
 ---
 # <a name="information-about-dlp-issues"></a>Tietoja DLP-ongelmista
 
@@ -24,15 +24,15 @@ ms.locfileid: "43704522"
 
 **Tietoa DLP-käytännöstä**
 
-DLP-käytännön avulla voit tunnistaa, valvoa ja suojata automaattisesti arkaluonteisia tietoja Microsoft 365:ssä.
+DLP-käytännön avulla voit tunnistaa, valvoa ja suojata arkaluonteisia tietoja automaattisesti Microsoft 365:ssä.
 
-Lisätietoja on näissä linkeissä:
+Lisätietoja on näillä linkeillä:
 
-- [Yleiskatsaus tietojen menetyksen estämiseen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Mitä arkaluonteiset tietotyypit etsivät](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Mukautetun arkaluonteisen tietotyypin luominen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Sähköposti-ilmoitusten lähettäminen ja käytäntövihjeiden näyttäminen](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [SharePoint Online -tiedostojen suojaaminen säilytysotsikoilla ja DLP:llä](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP ja Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Yleiskatsaus tietojen menetyksen estämiseen](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Mitä arkaluonteiset tietotyypit etsivät](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Mukautetun arkaluonteisen tietotyypin luominen](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Lähetä sähköposti-ilmoituksia ja näytä käytäntövihjeet](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [SharePoint Online -tiedostojen suojaaminen säilytystarroilla ja DLP-tunnuksella](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP ja Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Jos haluat testata tietoja valmiilla tai mukautetulla arkaluonteisella tietotyypillä, käytä **Luokitusten** > **arkaluonteiset tietotyypit**-kohdan **Testaa tyyppi** -vaihtoehtoa. Lisätietoja on kohdassa [Mukautettujen arkaluonteisten tietotyyppien testaaminen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Jos haluat testata tietoja valmiilla tai mukautetuilla arkaluonteisilla tietotyypeillä, käytä **Luokitusten** **Classifications**  >  **arkaluonteiset tietotyypit**-kohdan Testaa tyyppi -vaihtoehtoa. Lisätietoja on kohdassa [Mukautettujen arkaluonteisten tietotyyppien testaaminen](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).

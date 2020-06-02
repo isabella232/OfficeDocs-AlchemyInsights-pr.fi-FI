@@ -1,5 +1,5 @@
 ---
-title: DLP sääntö SSN ei toimi
+title: DLP-sääntö, jos SSN ei toimi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,44 +12,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788699"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507367"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP-ongelmat sosiaaliturvanumeroissa
+# <a name="dlp-issues-with-social-security-numbers"></a>DLP-ongelmat sosiaaliturvatunnusten kanssa
 
 **Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
 
-**DLP-ongelmat ssns**
+**DLP-ongelmat SSN:ssä**
 
-Onko sinulla ongelmia **DLP (Data Loss Prevention) -toiminnon kanssa,** joka ei toimi **sosiaaliturvatunnuksen (SSN)** sisältävän sisällön kanssa, kun käytät arkaluonteista tietotyyppiä Microsoft 365:ssä? Jos näin on, varmista, että sisältö sinetaan tarvittavat tiedot siitä, mitä DLP-käytäntö etsii. 
+Onko sinulla ongelmia, kun **tietoja katoamisen estämisessä (DLP)** ei ole käytössä sisältöä, joka sisältää **SSN:n (SSN),** kun käytät microsoft 365:n arkaluonteista tietotyyppiä? Jos näin on, varmista, että sisältö sisältää tarvittavat tiedot siitä, mitä DLP-käytäntö etsii. 
   
-Esimerkiksi SSN-käytännölle, jonka luotettavuustaso on 85 %, arvioidaan seuraavat tiedot, ja ne on tunnistettava, jotta sääntö käynnistyy:
+Esimerkiksi SSN-käytännössä, jonka luotettavuustaso on 85 %, arvioidaan seuraavat tiedot, jotka on tunnistettava, jotta sääntö käynnistyisi:
   
-- **[Muoto:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 numeroa, jotka voivat olla muotoiltutai muotoilematon kuvio
+- **[Muoto:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 numeroa, jotka voivat olla muotoiltu tai muotoilematon kuvio
 
-- **[Mallineule:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Neljä toimintoa etsii ssns neljässä eri malleja:
+- **[Mallineule:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Neljä toimintoa etsiä SSNs neljä eri malleja:
 
-  - Func_ssn etsii ssn-nijät, joiden muotoilu on ennen vuoden 2011 vahvaa ja jotka on muotoiltu viivoilla tai välilyönneillä (ddd-dd-dddd OR ddd dd ddddd)
+  - Func_ssn etsii SSN-nit, joiden ennen 2011 -muotoista muotoilua on muotoiltu viivoilla tai välilyönneillä (ddd-dd-dddd OR ddd ddddd)
 
-  - Func_unformatted_ssn löytää ssn-nijät, joiden vahva muotoilu on ennen vuotta 2011 ja joita ei ole muotoiltu yhdeksäksi peräkkäiseksi numeroksi (dddddddd)
+  - Func_unformatted_ssn etsii SSN-nit, joiden ennen vuotta 2011 on vahva muotoilu ja jotka eivät ole muotoiltu yhdeksäksi peräkkäiseksi numeroksi (ddddddddd)
 
-  - Func_randomized_formatted_ssn etsii vuoden 2011 jälkeisiä ssn-naatteja, jotka on muotoiltu viivoilla tai välilyönneillä (ddd-dd-ddd OR ddd dd ddddd)
+  - Func_randomized_formatted_ssn etsii vuoden 2011 jälkeisiä SSN-nistoja, jotka on muotoiltu vikoilla tai välilyönneillä (ddd-dd-dddd OR ddd ddddd)
 
-  - Func_randomized_unformatted_ssn löytää vuoden 2011 jälkeiset ssnit, joita ei ole muotoiltu yhdeksäksi peräkkäiseksi numeroksi (dddddddd)
+  - Func_randomized_unformatted_ssn etsii vuoden 2011 jälkeisiä SSN-numeroita, jotka ovat muotoilemattomia yhdeksäksi peräkkäiseksi numeroksi (dddddddd)
 
-- **[Tarkistussumma:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Ei, ei ole Checksumia.
+- **[Tarkistussumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Ei, tarkistussummaa ei ole.
 
-- **[Määritelmä:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP-käytäntö on 85 %: n varma siitä, että se on havainnut tämäntyyppisiä arkaluonteisia tietoja, jos 300 merkin etäisyydellä:
+- **[Määritelmä:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** DLP-käytäntö on 85% varma siitä, että se on havainnut tällaisia arkaluonteisia tietoja, jos 300 merkin läheisyydessä:
 
-  - Toiminto [Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) etsii kaavaa vastaavaa sisältöä.
+  - [Funktio Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) etsii kuviota vastaavaa sisältöä.
 
-  - [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) avainsana löytyy. Avainsanoja ovat esimerkiksi *sosiaaliturva, sosiaaliturva#, Soc Sec ,SSN* . Esimerkiksi seuraava esimerkki käynnistäisi DLP SSN -käytännön: **SSN: 489-36-8350**
+  - Avainsana [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) löytyy. Esimerkkejä avainsanoista ovat: *Sosiaaliturva, Sosiaaliturva#, Soc Sec, SSN* . Esimerkiksi seuraava esimerkki käynnistäisi DLP SSN -käytännön: **SSN: 489-36-8350**
   
-Lisätietoja siitä, mitä sisällön ssn-nimiselle tunnistettaviksi tarvitaan, on tämän artikkelin seuraavassa osassa: [Mitä arkaluonteiset tietotyypit etsivät ssn-verkkoja](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+Lisätietoja siitä, mitä ssn-tekniikat ovat velvollisia havaitsemaan sisältöäsi varten, on seuraavassa tämän artikkelin osassa: [Mitä arkaluonteiset tietotyypit etsivät SSN-tyyppejä](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Toisen sisäisen arkaluonteisen tietotyypin avulla on seuraavassa artikkelissa tietoja siitä, mitä muille tyypeille tarvitaan: [Mitä arkaluonteiset tietotyypit etsivät](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Jos käytät eri sisäänrakennettua arkaluonteista tietotyyppiä, lue seuraavassa artikkelissa tietoja siitä, mitä tarvitaan muuntyyppisille [tyypeille: Mitä arkaluonteiset tietotyypit etsivät](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

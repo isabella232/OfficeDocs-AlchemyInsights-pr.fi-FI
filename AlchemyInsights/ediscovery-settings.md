@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911145"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507095"
 ---
 # <a name="ediscovery-settings"></a>Ediscovery-asetukset
 
-eDiscovery-sisältöhakujen avulla voit etsiä, pitää ja viedä sisältöä Exchange Online -postilaatikoista, SharePoint Online- ja OneDrive for Business -sivustoista, Skype for Business -keskusteluista, Microsoft Teamsista ja Microsoft 365 -ryhmistä.
+eDiscovery/Content-hakujen avulla voit etsiä, pitää ja viedä sisältöä Exchange Online -postilaatikoista, SharePoint Online- ja OneDrive for Business -sivustoista, Skype for Business -keskusteluista, Microsoft Teamsista ja Microsoft 365 -ryhmistä.
 
-- Jos etsit eDiscovery- tai Sisältöhaku-valikkovaihtoehtoja, katso [eDiscovery-ongelmat](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Lisätietoja eDiscovery-hakujen suorittamiseen tarvittavista [oikeuksista eDiscovery-hakujen edellyttämistä käyttöoikeuksista](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Jos haku ei palauta odotettuja tuloksia, katso lisätietoja ohjeaiheesta [Etsi, että odotettuja tuloksia ei palauteta](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Jos etsit eDiscovery- tai Content Search -valikkovaihtoehtoja, katso [eDiscovery-ongelmat](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Lisätietoja eDiscovery-hakujen suorittamiseen tarvittavista käyttöoikeuksista [eDiscovery-hauissa .](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Jos haku ei palauta odotettuja tuloksia, katso haku [ei palauta odotettuja tuloksia](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Lisätietoja ediscoverysta on kohdassa [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Lisätietoja ediscoverysta on kohdassa [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
