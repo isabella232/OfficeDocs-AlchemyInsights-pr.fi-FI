@@ -12,25 +12,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343151"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511001"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDriven säilyttäminen ja poistaminen
 
 - Voit [palauttaa poistetut käyttäjät OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse. Ne ovat roskakorissa 93 päivää.
 
-- Katso [tämä artikkeli](https://docs.microsoft.com/onedrive/retention-and-deletion) oppia:
-    - Poistetun käyttäjän OneDriven käyttöoikeuksien antaminen toiselle käyttäjälle.
+- Tässä [artikkelissa](https://docs.microsoft.com/onedrive/retention-and-deletion) kerrotaan:
+    - Poistetun käyttäjän OneDriven käyttöoikeuden antaminen toiselle käyttäjälle.
     - Mitä tapahtuu käyttäjän OneDrivelle, kun poistat käyttäjän Microsoft 365 -tilin organisaatiollesi.
-    - Automaattisen käyttöoikeuksien delegoinnin määrittäminen.
+    - Automaattisen käytön delegoinnin määrittäminen.
     - OneDriven poistoprosessin toimintatapa.
 
-- Lisätietoja kohteiden palauttamisesta OneDrivessa roskakorista on ohjeaiheessa [Poistettujen tiedostojen tai kansioiden palauttaminen](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Lisätietoja kohteiden palauttamisesta OneDriven roskakorista on ohjeaiheessa [Poistettujen tiedostojen tai kansioiden palauttaminen](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Oletko kiinnostunut tietoturva- ja yhteensopivuuskeskuksen säilyttämisestä ja säilyttämisestä?
-    - [OneDrive- ja SharePoint-sivustojen säilytyskäytännöt](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [OneDrive- ja SharePoint-sivustojen eDiscovery-pito](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Kiinnostaako tietoturva- ja yhteensopivuuskeskuksen säilyttäminen ja pitäminen?
+    - [OneDrive- ja SharePoint-sivustojen säilytyskäytännöt](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [eDiscovery hold For OneDrive- ja SharePoint-sivustoissa](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

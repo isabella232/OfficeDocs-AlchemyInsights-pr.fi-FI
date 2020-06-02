@@ -12,33 +12,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720249"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510749"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Palautettavat-kansio on täynnä
 
-Exchange Online -postilaatikoissa Palautettavat kohteet -kansion oletustallennusrajoitus on 30 Gigatavua. Palautettavat-kansion tallennusraja nostetaan automaattisesti 100 Gigatavuun, jos postilaatikko asetetaan Oikeustoimiin liittyvään pitoon, eDiscovery-pitoon tai säilytyskäytäntöön.
+Exchange Online -postilaatikoissa Palautettavat-kansion oletustallennusrajoitus on 30 Gigatavua. Palautettavat-kansion tallennusrajoitus nostetaan automaattisesti 100 gigatavuun, jos postilaatikko sijoitetaan oikeustoimiin pitoon, eDiscovery Holdiin tai säilytyskäytäntöön.
 
-Kun Palautettavat-kansio saavuttaa tallennusrajoituksen, postilaatikkotoiminto vaikuttaa seuraaviin tapoihin:
+Kun Palautettavat-kansio saavuttaa tallennusrajan, tämä vaikuttaa postilaatikkotoimintoon seuraavilla tavoilla:
 
-- Käyttäjä ei voi poistaa postilaatikon kohteita.
+- Käyttäjä ei voi poistaa kohteita postilaatikosta.
 
-- Hallitun kansion avustaja ei voi poistaa kohteita säilytystunnisteen tai hallitun kansion asetusten perusteella.
+- Hallitun kansion hallinta ei voi poistaa kohteita säilytystunnisteen tai hallittujen kansioiden asetusten perusteella.
 
-- Postilaatikoissa, joiden yksittäisen kohteen palautus on käytössä tai jotka on sijoitettu pitoon, kopioinnin sivun suojausprosessi ei voi ylläpitää käyttäjän muokkaamien kohteiden versioita.
+- Postilaatikoissa, joiden yksittäinen kohde on otettu käyttöön tai jotka on sijoitettu pitoon, kopio-on-kirjoitussivun suojausprosessi ei voi ylläpitää käyttäjän muokkaamien kohteiden versioita.
 
-- Postilaatikoissa, joissa postilaatikon valvontaloki on käytössä, ei voi tallentaa postilaatikon valvontalokin merkintöjä Palautettavat-kansion Valvonta-alikansioon.
+- Postilaatikoissa, joissa postilaatikon valvontaloki on käytössä, postilaatikon valvontalokimerkintöjä ei voi tallentaa Palautettavat-kansion Valvonta-alikansioon.
 
-Jos postilaatikot eivät ole pidossa, järjestelmänvalvojat voivat poistaa palautettavat kohteet -kansion kohteiden poistamisesta Exchange Online PowerShellin `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komennolla. Lisätietoja on seuraavissa artikkeleissa:
+Jos postilaatikossa ei ole pidossa, järjestelmänvalvojat voivat `Search-Mailbox -SearchDumpsterOnly -DeleteContent` poistaa Palautettavat-kansion kohteita Exchange Online PowerShellin komennolla. Lisätietoja on seuraavissa artikkeleissa:
 
-- [Viestien etsiminen ja poistaminen](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Viestien etsiminen ja poistaminen](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Haku-postilaatikko](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pidossa olevien postilaatikoiden järjestelmänvalvojien on poistettava pito, ennen kuin he voivat poistaa kohteita Palautettavat-kansiosta. Lisätietoja on [ohjeaiheessa Pilvipohjaisten postilaatikoiden Palautettavat-kansion kohteiden poistaminen pidossa](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Pidossa olevissa postilaatikoissa järjestelmänvalvojien on poistettava pito, ennen kuin he voivat poistaa kohteita Palautettavat-kansiosta. Lisätietoja on [ohjeaiheessa Pidossa olevien pilvipohjaisten postilaatikoiden Palautettavat-kansion kohteiden poistaminen](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Järjestelmänvalvojat voivat pidentää palautettavat kohteet -kansion täyttämistä lisäämättä pitopostilaatikoiden Palautettavat-kansion tallennusrajoitusta ja määrittää postilaatikon säilytyskäytännön, joka siirtää kohteet Palautettavat-kansiosta käyttäjän arkistopostilaatikkoon. Katso [Pitopostilaatikoiden Palautettavat-kiintiön suurentaminen](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Järjestelmänvalvojat voivat lisätä pidossa olevien postilaatikoiden Palautettavat-kansion tallennusrajoitusta ja määrittää postilaatikon säilytyskäytännön, joka siirtää kohteet Palautettavat-kansiosta käyttäjän arkistopostilaatikkoon. Lisätietoja [on ohjeaiheessa Pidossa olevien postilaatikoiden palautettavan sisällön kiintiön suurentaminen](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

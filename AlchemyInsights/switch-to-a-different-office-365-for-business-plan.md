@@ -1,5 +1,5 @@
 ---
-title: Toiseen Microsoft 365 for Business -palvelupakettiin vaihtaminen
+title: Siirtyminen toiseen Microsoft 365 for Business -palvelupakettiin
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 35a2f888a340f50f38b79d8b81262edc6d850e5d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064354"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509813"
 ---
-# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Toiseen Microsoft 365 for Business -tilaukseen vaihtaminen
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Siirtyminen toiseen Microsoft 365 for Business -tilaukseen
 
 Kun yrityksesi muuttuu tai tarvitset lisää ominaisuuksia, voit päivittää uuteen palvelupakettiin.
   
-1. Siirry hallintakeskuksessa **Billing** \> **[Laskutus tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry hallintakeskuksessa **Billing** \> **[Laskutustuotteesi-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Valitse päivitettävä tilaus.
+2. Valitse tilaus, jonka haluat päivittää.
 
-3. Valitse [tilauksen tietosivulla](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702) **Päivitä**.  Jos **Päivitys-välilehti** on tyhjä, näet selityksen siitä, miksi et voi päivittää tällä hetkellä. Sen sijaan suunnitelmia on [muutettava manuaalisesti.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)
+3. Valitse [tilauksen tiedot -sivulla](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702) **Päivitä**.  Jos **Päivitä-välilehti** on tyhjä, näet selityksen siitä, miksi et voi päivittää tällä hetkellä. Sen sijaan sinun on [muutettava suunnitelmia manuaalisesti](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).
 
 4. Etsi suunnitelma, johon haluat päivittää, ja **Upgrade** valitse sitten Päivitä-painike.
 
-5. Anna tarvitsemiesi käyttöoikeuksien määrä, valitse, maksetaanko kuukausittain vai koko vuodelta, ja valitse sitten **Kassalle**.
+5. Kirjoita tarvitsemieni käyttöoikeuksien määrä, valitse, maksetaanko se kuukausittain vai koko vuodeksi, ja valitse sitten **Kassalle**.
 
-Lisätietoja on ohjeaiheessa [Päivittäminen toiseen palvelupakettiin](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Lisätietoja on [ohjeaiheessa Päivittäminen toiseen suunnitelmaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).

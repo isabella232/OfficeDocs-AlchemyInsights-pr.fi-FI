@@ -1,5 +1,5 @@
 ---
-title: 723 Sähköpostialiaksen tekeminen ensisijaiseksi sähköpostiviestiksi käyttäjälle
+title: 723 Sähköpostialiaksen tekeminen ensisijaiseksi sähköpostiksi käyttäjälle
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ce914d0faf73f480aa3eca559ad25764864ef5ea
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721894"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510857"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Sähköpostialiaksen lisääminen käyttäjän ensisijaiseksi osoitteeksi
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Sähköpostialiaksen luominen käyttäjän ensisijaiseksi osoitteeksi
 
-Lisätietoja on [ohjeaiheessa Toisen sähköpostialiaksen lisääminen käyttäjälle](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Lisätietoja on [ohjeaiheessa Toisen sähköpostialiaksen lisääminen käyttäjälle](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user).
 
-**Huomautus:** Jos organisaatiosi on hybriditilassa, sinun on muutettava paikallisen Exchange-organisaation ensisijainen sähköpostiosoite. Lisätietoja on ohjeaiheessa [Postilaatikon sähköpostiosoitteiden lisääminen tai poistaminen](https://technet.microsoft.com/library/bb123794.aspx).
+**Huomautus:** Jos organisaatiosi on hybriditilassa, sinun on muutettava paikallisen Exchange-organisaation ensisijaista sähköpostiosoitetta. Lisätietoja on ohjeaiheessa [Postilaatikon sähköpostiosoitteiden lisääminen tai poistaminen](https://technet.microsoft.com/library/bb123794.aspx).

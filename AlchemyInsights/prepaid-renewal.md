@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062894"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509921"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Prepaid Microsoft 365 uusiminen
+# <a name="prepaid-microsoft-365-renewal"></a>Ennakkoon maksettu Microsoft 365 uusiminen
 
-1. Siirry hallintakeskuksessa **Billing** \> **[Laskutus tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry hallintakeskuksessa **Billing** \> **[Laskutustuotteesi-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Etsi tilaus, jota haluat laajentaa. Valitse **Laskutus-osassa** **Laajenna päättymispäivää**.
+2. Etsi tilaus, jota haluat laajentaa. Valitse **Laskutus-osassa** **Pidennä päättymispäivää**.
 
-3. Valitse **Laajenna tilaus** -ruudussa **Käytä uutta ja käyttämätöntä tuoteavainta**ja valitse sitten **Seuraava**.
+3. Valitse **Laajenna tilaus -ruudussa** **Käytä uutta ja käyttämätöntä product key -tunnusta**ja valitse sitten **Seuraava**.
 
-4. Anna product key -tunnus ja valitse **sitten Seuraava**.
+4. Anna product key -tunnus ja valitse sitten **Seuraava**.
 
 > [!NOTE]
-> Jos sinulla on useampi kuin yksi product key -tunnus, voit syöttää ne valitsemalla **Lisää toinen tuoteavain.**
+> Jos sinulla on useampi kuin yksi product key -tunnus, voit syöttää ne valitsemalla **Lisää toinen product key -tunnus.**
 
-5. Tarkista tilaustietosi ja valitse **lunasta**.
+5. Tarkista tilauksesi tiedot ja valitse **lunasta**.
 
-Lisätietoja on ohjeaiheessa [Käyttöoikeuksien lisääminen tuoteavaimen avulla maksettuun tilaukseen tai](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)sen laajentaminen .
+Lisätietoja on [ohjeaiheessa Käyttöoikeuksien lisääminen tuoteavaimella maksettuun tilaukseen tai sen laajentaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).

@@ -1,5 +1,5 @@
 ---
-title: Aktivointi ongelma-tili ei salli muokkaamista Macissa
+title: Aktivointiongelma - Tili ei salli muokkaamista Macissa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 6fb0783b8fefabc004c42d24e4ba6e750f986d52
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: d9ce4e7061ed01a5c1309367504e1a532f8f72e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628131"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510101"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Office-sovellusten korjaaminen "tilisi ei salli muokkaamista Macissa"-viesti
+# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Office-sovellusten "Tilisi ei salli muokkaamista Macissa" -viestin korjaaminen
 
-Jos tämä sanoma tulee näyttöön, kokeile seuraavia:
+Jos näyttöön tulee tämä sanoma, kokeile seuraavaa:
 
-- Varmista, että sinulla on tilaus, joka sallii asiakkaan käyttö oikeudet, ja Varmista [, että käyttäjälle on määritetty käyttö oikeus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
-- Lataa ja suorita [lisenssin poisto työkalu](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
-- Palauta tunniste tietosi. Katso [Officen Akti voiminen asennuksen jälkeen](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
-- Käynnistä uudelleen ja Kirjaudu sisään Officeen tililläsi.
+- Varmista, että käyttöoikeutesi sallii asiakaskäyttöoikeudet ja että [käyttäjälle on määritetty käyttöoikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Lataa ja suorita [käyttöoikeuden poistotyökalu](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
+- Palauta tunnistetiedot. Saat lisätietoja artikkelista [Asennuksen jälkeen Officen aktivointi ei onnistu](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
+- Käynnistä laite uudelleen ja kirjaudu tililläsi sisään Officeen.
 
 Lisätietoja on seuraavissa artikkeleissa:
-- [Officen Akti voiminen Mac-käyttöön](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
-- [Mitä kokeilla, jos et voi asentaa tai aktivoida Officen Mac-asennusta](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
-- [Outlook 2016 for Mac kehottaa toistuvasti todentamiseen](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
+- [Office for Macin aktivointi](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [Toimintaohjeita tilanteeseen, jossa Office for Macin asennus tai aktivointi ei onnistu](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
+- [Outlook 2016 for Mac pyytää toistuvasti todentamista](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)

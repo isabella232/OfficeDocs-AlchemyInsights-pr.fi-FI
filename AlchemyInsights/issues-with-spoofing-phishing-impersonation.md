@@ -1,5 +1,5 @@
 ---
-title: Ongelmia väärentäminen, phishing, tai tekeytyminen?
+title: Ongelmia väärentämiseen, tietojenkalasteluun tai tekeytymiseen?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fb10c486833cfb0a1726dce69bc2176b39565e9d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713967"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510029"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Ongelmia väärentäminen, phishing, tai tekeytyminen?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Ongelmia väärentämiseen, tietojenkalasteluun tai tekeytymiseen?
 
 Lue, miten Microsoft suojaa sinua:
 
-- [Huijaus](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [Huijaus](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Tietojenkalastelu ja tekeytyminen](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [Tietojenkalastelu ja tekeytyminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
 Muita suosituksia:
 
-- [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) ja [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) voivat auttaa vääntyneille lähettäjille, jotka näyttävät tulevan omalta verkkotunnukseltasi.
+- SPF ja [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) voivat auttaa väärentäjät, jotka [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) näyttävät tulevan omasta toimialueestasi.
 
-- Varmista, että oman toimialueesi lähettäjiä ei ole määritetty ohittamaan roskapostin torjuntaa postin kulkusääntöjen (eli siirtosääntöjen) tai sallittujen luettelomerkintöjen avulla. Lisätietoja on ohjeaiheessa [Microsoftin roskapostisuodattimien ohittamisen varoitukset](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Varmista, että oman toimialueesi lähettäjiä ei ole määritetty ohittamaan roskapostin estosuodatusta postin kulkusääntöjen (eli siirtosääntöjen) avulla tai sallimaan luettelomerkinnät. Lisätietoja on [ohjeaiheessa Microsoftin roskapostisuodattimien ohittamisen varot](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
 - Varmista, että käyttäjät eivät ole määrittäneet [Turvallisten lähettäjien luettelomerkintöjä,](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) jotka saattavat sallia tietojenkalasteluhyökkäykset.
 
-- Harkitse erittäin luotettavan roskaposti- ja tietojenkalasteluviestien toimittamista karanteeniin Roskaposti-kansion sijaan. Lisätietoja on kohdassa [Karanteeni-sähköpostiviestit](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
+- Harkitse korkean luottamuksen roskaposti- ja tietojenkalasteluviestien toimittamista karanteeniin Roskaposti-kansion sijaan. Lisätietoja on ohjeaiheessa [Sähköpostiviestien karanteeni](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
 
-**[Viestien raportointi Microsoftille](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) on paras tapa kertoa meille, miten suodattimet toimivat.**
+**[Viestien ilmoittaminen Microsoftille](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) on paras tapa kertoa meille, miten suodattimet toimivat.**

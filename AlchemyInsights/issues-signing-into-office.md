@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474422"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509633"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 -sovelluksiin kirjautumiseen liittyvät ongelmat
 
@@ -25,7 +25,7 @@ Voit korjata Microsoft 365 -sovellusten kirjautumisongelmat kokeilemalla seuraav
 - Windows on [ohjeaiheessa Suositukset yleisten kirjautumisongelmien ratkaisemisesta](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Lisätietoja On [ohjeaiheessa Office 2016 for Mac -sovellukseen kirjautuminen ei onnistu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Huomautus:** Uudenaikaisen todennuksen (ADAL) tai Www-tilin hallinnan (WAM) poistamista käytöstä kirjautumis- tai aktivointiongelmien korjaamiseksi **ei suositella.** Jos virheet ilmenevät muodostettaessa yhteyttä Microsoft 365:een Office 2013:n avulla, varmista, että [otat office-asiakasohjelman nykyaikaisen todennuksen käyttöön.](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)
+**Huomautus:** Uudenaikaisen todennuksen (ADAL) tai Www-tilin hallinnan (WAM) poistamista käytöstä kirjautumis- tai aktivointiongelmien korjaamiseksi **ei suositella.** Jos virheet ilmenevät muodostettaessa yhteyttä Microsoft 365:een Office 2013:n avulla, varmista, että [otat office-asiakasohjelman nykyaikaisen todennuksen käyttöön.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
 Lisätietoja tietyistä vianmääritystoiminnoista on kohdassa:
 
