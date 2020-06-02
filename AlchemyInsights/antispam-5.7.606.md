@@ -1,5 +1,5 @@
 ---
-title: Roskapostin esto - 5.7.23
+title: Roskapostin torjunta - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "3155"
 - "9001195"
 ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
-ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/14/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44232326"
 ---
-# <a name="banned-sending-ip"></a>Kielletty ip-osoitteiden lähettäminen
+# <a name="banned-sending-ip"></a>Kielletty lähettää IP
 
-Kun lähettäjä lähetetään Office 365 -vastaanottajalle, hän saattaa kohdata tämän virheen. Lähettäjän on käytävä [Office 365 Anti-Spam IP Delist Portalissa](https://sender.office.com/) ja annettava sähköpostiosoitteensa ja IP-osoitteensa, jotka on poistettava luettelosta. Jos he eivät saa vahvistussähköpostia portaalista, pyydä heitä tarkistamaan roskapostikansio ja/tai kokeilemaan toista sähköpostiosoitetta. 
+Kun lähetät sen Office 365 -vastaanottajalle, lähettäjä saattaa kohdata tämän virheen. Lähettäjän on käytävä [Office 365 Anti-Spam IP Delist Portalissa](https://sender.office.com/) ja annettava sähköpostiosoite ja IP-osoite, jotka on poistettava luettelosta. Jos he eivät saa vahvistussähköpostia portaalista, pyydä heitä tarkistamaan roskapostikansio ja/tai kokeilemaan toista sähköpostiosoitetta. 
 
-- Yksityiskohtaiset ohjeet ovat kohdassa Poista [luetteloportaalin avulla voit poistaa itsesi estettyjen lähettäjien luettelosta](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
+- Yksityiskohtaiset ohjeet ovat [ohjeaiheessa Poista luettelo portaalin käyttämisestä itsesi estetyt lähettäjät -luettelosta](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).

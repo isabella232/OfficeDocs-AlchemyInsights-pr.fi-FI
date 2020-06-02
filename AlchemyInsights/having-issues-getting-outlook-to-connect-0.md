@@ -1,5 +1,5 @@
 ---
-title: Onko sinulla ongelmia saada Outlook muodostamaan yhteyttä?
+title: Onko sinulla ongelmia Outlookin muodostamisessa yhteyden muodostamiseen?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0d7bc37cd2b418883142c760ad2bfdb504c1c679
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710188"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499040"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Onko sinulla ongelmia saada Outlook muodostamaan yhteyttä?
+# <a name="having-issues-getting-outlook-to-connect"></a>Onko sinulla ongelmia Outlookin muodostamisessa yhteyden muodostamiseen?
 
-Olemme havainneet, että Outlookia ei ole määritetty toimimaan oikein seuraavilla toimialueilla:
+Olemme havainneet, että Outlookia ei ole määritetty toimimaan oikein seuraavissa toimialueissa:
   
 {HealthCheckString}
   
-Toimialueasetusten (DNS) NS- tai CNAME-tietueita ei ole määritetty oikein. Lisätietoja on kohdassa [DNS-tietueiden luominen missä tahansa DNS-isännöintipalvelussa.](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) 
+Toimialueasetusten NS- tai CNAME-tietueita ei ole määritetty oikein. Katso tarkemmat ohjeet artikkelista [DNS-tietueiden luominen missä tahansa DNS-isännöintipalvelussa](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Voit korjata ongelman siirtymällä Microsoft 365 -hallintakeskuksen [Toimialueet](https://admin.microsoft.com/adminportal/home#/Domains)-sivulle, niin autamme sinua. 

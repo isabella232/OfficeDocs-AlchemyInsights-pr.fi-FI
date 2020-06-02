@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709260"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495588"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>Sähköpostin etsiminen Arkisto-postilaatikosta
 
-Kun Arkisto-postilaatikko on otettu käyttöön Microsoft 365:ssä, voit etsiä sisältöä sekä Ensisijainen- että Arkisto-postilaatikosta **eDiscovery-haun ja -viennin** avulla. Saat lisätietoja **eDiscovery-haun viennin** käyttämisestä sisällön etsimiseen [noudattamalla tässä](https://docs.microsoft.com/office365/securitycompliance/export-search-results)kuvattuja ohjeita.
+Kun Arkisto-postilaatikko on otettu käyttöön Microsoft 365:ssä, voit etsiä sisältöä sekä Ensisijainen- että **Arkisto-postilaatikosta eDiscovery Search and Export** -toiminnolla. Lisätietoja **eDiscovery Search Export -toiminnon** käyttämisestä kyseisen sisällön etsimiseksi on [tässä](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)kuvatuissa vaiheissa.
   
-Voit säilyttää kyseisen sisällön myös lisäämällä postilaatikon säilytyskäytäntöön. Tämä sijoittaa sisällön sekä Ensisijainen- että Arkisto-postilaatikkoon pitoon. Lisätietoja säilytyskäytäntöjen luomisesta sähköpostin säilyttämiseksi on [tässä](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)kuvattujen ohjeiden mukaisesti .
+Voit säilyttää sisällön myös lisäämällä postilaatikon säilytyskäytäntöön. Tämä sijoittaa sisällön sekä Ensisijainen- että Arkisto-postilaatikkoon pitoon. Lisätietoja säilytyskäytäntöjen luomisesta sähköpostin säilyttämiseksi on [tässä](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)kuvatuissa ohjeissa .
   

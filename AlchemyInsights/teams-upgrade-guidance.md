@@ -12,26 +12,26 @@ ms.custom:
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
 ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/15/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44254746"
 ---
-# <a name="microsoft-teams-upgrade"></a>Microsoft Teamsin päivitys
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams -päivitys
 
-**Tärkeää**: Jos sinut on päivitetty Skype for Business Onlinesta Microsoft Teamsiin Vain tiimit -tilassa, mutta huomaat, ettet ole vielä valmis, voimme auttaa korjaamaan tämän sinulle tukidiagnostiikan avulla. Varmista, että käytät uutta hallintakeskusta liu'uttamalla oikeassa yläkulmassa olevaa valitsinta, jossa lukee **uusi hallintakeskus**oikealle. Napsauta uuden hallintakeskuksen avulla **Tarvitsetko apua?-widgetin,** kirjoita**Teams Upgrade**ja suorita vianmääritys noudattamalla näyttöön tulevia ohjeita.
+**Tärkeää:** Jos sinut on päivitetty Skype for Business Onlinesta Microsoft Teamsiin vain Teams-tilassa, mutta huomaat, ettet ole vielä valmis, voimme auttaa korjaamaan tämän sinulle käyttämällä tukidiagnostiikkaa. Varmista, että käytät uutta Hallintakeskusta liu'uttamalla oikeassa yläkulmassa olevaa vaihtokytkintä, jossa lukee **uusi hallintakeskus**oikealle. Klikkaa uuden hallintakeskuksen avulla **Tarvitsetko apua?** -widgetti, kirjoita **" Teams Upgrade**" ja suorita diagnostiikka noudattamalla kehotteita.
 
-Olitpa sitten juuri aloittamassa Teamsin käyttöä, jo Teamsin käyttöä Skype for Businessin rinnalla tai valmis päivittämään, haluamme varmistaa, että sinulla on kaikki mitä tarvitset onnistuneeseen matkaan Teamsiin. Lisätietoja on alla olevissa linkeissä.
+Olitpa vasta aloittamassa Teamsin käyttöä, käytät jo Teamsiä Skype for Businessin rinnalla tai valmiina päivitykseen, haluamme varmistaa, että sinulla on kaikki tarvittava, jotta voit navigoida menestyksekkäästi Teamsiin. Lisätietoja on alla olevissa linkeissä.
 
 [Microsoft Teams -päivityksen käytön aloittaminen](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Päivitä päivitystä varten](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Suunnittele päivitystäsi](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Microsoft Teamsin ja Skype for Businessin rinnakkaiselon ymmärtäminen](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Tietoja Microsoft Teamsin ja Skype for Businessin rinnakkaiselosta](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Päivityksen suorittaminen Skype for Business Onlinesta Teams-versioon](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Skype for Business Onlinesta Teamsiin päivittämisen suorittaminen](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Paikallisen Skype for Business -päivityksen suorittaminen Teams-versioon](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Päivityksen suorittaminen paikallisesta Skype for Businessista Teamsiin](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Tarkista Skype for Business Onlinen ja Teamsin päivityksen tila PowerShellillä](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Skype for Business Onlinen Teams-päivityksen tilan tarkistaminen PowerShellillä](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

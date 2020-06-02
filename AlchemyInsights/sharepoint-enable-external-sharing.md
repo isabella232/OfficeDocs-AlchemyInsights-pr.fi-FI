@@ -8,18 +8,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912183"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495624"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ulkoisen jakamisen ottaminen käyttöön SharePoint Onlinessa
 
-Jos organisaatiosi tekee työtä, johon kuuluu asiakirjojen jakaminen tai yhteistyö suoraan toimittajien, asiakkaiden tai asiakkaiden kanssa, voit jakaa sisältöä organisaation ulkopuolisten henkilöiden kanssa [SharePoint Onlinen ulkoisten jakamisominaisuuksien](https://docs.microsoft.com/sharepoint/external-sharing-overview) avulla.
+Jos organisaatiosi suorittaa työtä, johon liittyy asiakirjojen jakamista tai yhteistyötä suoraan toimittajien, asiakkaiden tai asiakkaiden kanssa, voit jakaa sisältöä organisaation ulkopuolisten henkilöiden kanssa [SharePoint Onlinen ulkoisten jakamisominaisuuksien](https://docs.microsoft.com/sharepoint/external-sharing-overview) avulla.
 
-Lisätietoja ulkoisesta jakamisesta (vieraat) löydät alla olevista linkeistä.
+Lisätietoja ulkoisesta jakamisesta (vieraat) on alla olevissa linkeissä.
 
 - [Mikä on ulkoinen käyttäjä?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
@@ -27,11 +27,11 @@ Lisätietoja ulkoisesta jakamisesta (vieraat) löydät alla olevista linkeistä.
 
 - [Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä SharePoint Online -ympäristössä](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Sivuston ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Ulkoisen jakamisen ottaminen käyttöön tai poistaminen käytöstä sivustossa](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Vieraskäytön hallinta Microsoft 365 -ryhmissä](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Vieraskäytön hallinta Microsoft 365 -ryhmissä](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
-- [Sharepoint Onlinen käyttäminen yritysten (B2B) ekstranet-ratkaisuna](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Sharepoint Onlinen käyttäminen yritysten ja yritysten ulkopuolisena ratkaisuna](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
 - [SharePoint-tiedostojen tai -kansion jakaminen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
@@ -39,12 +39,12 @@ Lisätietoja ulkoisesta jakamisesta (vieraat) löydät alla olevista linkeistä.
 
 - [Ulkoisen käyttäjän poistaminen](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Haluatko virheilmoituksen ulkoisen käyttäjän (vieraan) kanssa?**
+**Vastaanotetaanko virhe ulkoisen käyttäjän kanssa (vieras)?**
 
 Tarkista alla olevat linkit. 
 
-- [OSE-jakovirheet Sharepointissa tai OneDrivessa](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE-jakamisvirheet Sharepointissa tai OneDrivessa](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Virhesanoma, kun ulkoinen käyttäjä hyväksyy SharePoint Online -kutsun toisen tilin avulla (tämä artikkeli saattaa olla englanninkielinen)](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Virhesanoma, kun ulkoinen käyttäjä hyväksyy SharePoint Online -kutsun toisen tilin avulla](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
 - [Jaetun kansion käyttö estetty](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

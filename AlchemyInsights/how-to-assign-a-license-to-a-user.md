@@ -1,5 +1,5 @@
 ---
-title: Käyttöoikeuksien määrittäminen käyttäjille tai käyttöoikeuksien määrittäminen käyttäjille
+title: Käyttöoikeuksien määrittäminen käyttäjille tai käyttöoikeuksien poistaminen käyttäjille
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957867"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495984"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Käyttöoikeuksien määrittäminen käyttäjille tai käyttöoikeuksien määrittäminen käyttäjille
+# <a name="assign-or-unassign-licenses-to-users"></a>Käyttöoikeuksien määrittäminen käyttäjille tai käyttöoikeuksien poistaminen käyttäjille
 
-Käyttäjä tarvitsee oikeuden käyttää palveluita. Voit **lisätä, muuttaa tai poistaa** käyttöoikeuden käyttäjältä seuraavasti:
+Käyttäjä tarvitsee käyttöoikeuden palveluiden käyttöön. Voit **lisätä, muuttaa tai poistaa** käyttöoikeuden käyttäjältä seuraavasti.
   
-1. Valitse hallintakeskuksessa **Käyttäjät** \> [aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Valitse hallintakeskuksessa Käyttäjät **Users** \> [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
-2. Valitse sen käyttäjän nimi, jolle haluat määrittää käyttöoikeuden, muuttaa sitä tai poistaa sen.
+2. Valitse sen käyttäjän nimi, jolle haluat määrittää, muuttaa tai poistaa käyttöoikeuden.
 
-3. Valitse **Hallitse tuotteen käyttöoikeuksia**ja valitse käyttöoikeus, jonka haluat määrittää tälle käyttäjälle.
+3. Valitse **Hallitse tuotekäyttöoikeuksia**ja valitse käyttöoikeus, jonka haluat määrittää tälle käyttäjälle.
 
-    Oletusarvoisesti kaikki kyseiseen käyttöoikeuteen liittyvät palvelut määritetään käyttäjälle automaattisesti. Jos haluat rajoittaa käyttäjän käytettävissä olevia palveluita, poista sen palvelun valintaruudun valinta, jota et halua kyseisellä käyttäjällä olevan.
+    Oletusarvoisesti kaikki kyseiseen käyttöoikeuteen liittyvät palvelut määritetään käyttäjälle automaattisesti. Jos haluat rajoittaa käyttäjän käytettävissä olevia palveluita, poista sen palvelun valintaruudun valinta, jota et halua kyseisen käyttäjän olevan.
 
 4. Valitse ruudun alareunasta **Tallenna muutokset**.
 
-Lisätietoja on ohjeissa [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ja Käyttöoikeuksien poistaminen [käyttäjiltä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Lisätietoja on kohdissa [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ja [Käyttöoikeuksien poistaminen käyttäjiltä](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).

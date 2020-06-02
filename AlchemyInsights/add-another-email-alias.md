@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708516"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44503000"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Sähköpostialiaksen luominen tai lisääminen käyttäjälle
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Käyttäjän sähköpostialiaksen luominen tai lisääminen
 
-Haluatko luoda käyttäjälle sähköpostialiaksen tai lisätä lisäsähköpostiosoitteen? Seuraa vain näitä ohjeita!
+Haluatko luoda käyttäjälle sähköpostialiaksen tai lisätä uuden sähköpostiosoitteen? Seuraa vain näitä ohjeita!
   
-1. Siirry Microsoft 365 -hallintakeskuksessa [Käyttäjät-sivulle](https://go.microsoft.com/fwlink/p/?linkid=834822) tai valitse **Käyttäjät** \> **aktiiviset käyttäjät**.
+1. Siirry Microsoft 365 -hallintakeskuksessa [Käyttäjät-sivulle](https://go.microsoft.com/fwlink/p/?linkid=834822) tai **Users** valitse \> **Käyttäjät aktiiviset käyttäjät**.
     
 2. Valitse **Aktiiviset käyttäjät** -sivulla sen henkilön nimi, jota haluat muokata. 
     
@@ -30,10 +30,10 @@ Haluatko luoda käyttäjälle sähköpostialiaksen tai lisätä lisäsähköpost
     
 4. Kirjoita **Alias-ruutuun** uusi sähköpostiviesti ja valitse sitten **Lisää**. Jos ostit tilauksen GoDaddyltä tai toiselta kumppanilta, uuden tunnuksen määrittäminen ensisijaiseksi on tehtävä GoDaddyn tai kumppanin hallintakonsolissa. 
     
-    **TÄRKEÄÄ**: Jos saat virhesanoman " **Parametria ei löydy, joka vastaa parametrin nimeä EmailAddresses,** se tarkoittaa, että Microsoftin tai mukautetun toimialueen määrittäminen kestää hieman kauemmin, jos olet äskettäin lisännyt sellaisen. Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen. Jos ongelma jatkuu, soita tukeen, jotta tuki suorittaa täydellisen synkronoinnin puolestasi.
+    **TÄRKEÄÄ**: Jos saat virhesanoman " **Parametria ei löydy, joka vastaa parametrin nimeä "EmailAddresses",** se tarkoittaa, että Microsoftin on hieman kauemmin määritettävä vuokraajan tai mukautetun toimialueen määrittäminen, jos olet äskettäin lisännyt sellaisen. Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen. Jos ongelma jatkuu, soita tukeen, jotta tuki suorittaa täydellisen synkronoinnin puolestasi.
     
     Uuden aliaksen voimaantulo kestää yleensä noin 30 minuuttia.
     
-    **Lisätietoja on tässä artikkelissa:** [Toisen sähköpostialiaksen lisääminen käyttäjälle](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Lisätietoja on tässä artikkelissa:** [Toisen sähköpostialiaksen lisääminen käyttäjälle](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

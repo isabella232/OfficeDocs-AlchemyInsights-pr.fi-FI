@@ -1,5 +1,5 @@
 ---
-title: Officen aktivoiminen laitepohjaisen käyttöjärjestelmän avulla
+title: Officen aktivoiminen laitepohjaisten käyttöoikeuksien avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010313"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504440"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Officen aktivoiminen laitepohjaisen käyttöjärjestelmän avulla
+# <a name="activating-office-using-device-based-licensing"></a>Officen aktivoiminen laitepohjaisten käyttöoikeuksien avulla
 
 > [!NOTE]
-> [Office-laitepohjainen aktivointi](https://aka.ms/officedba) yhdysvaltalaisille koulutusasiakkaille on nyt vanhentunut. Kehotamme organisaatioita suunnittelemaan uuden Microsoft 365 Apps for Education (device) -käyttöoikeuden koulutusasiakkaille.
+> [Office-laitepohjainen aktivointi](https://aka.ms/officedba) yhdysvaltalaisille opetusasiakkaille on nyt vanhentunut. Kehotamme organisaatioita suunnittelemaan uuden Microsoft 365 Apps for Education (laite) -käyttöoikeuden koulutusasiakkaille.
 
-Jotta voit aktivoida Officen laitepohjaisella käyttöotoksilla, sinulla on oltava Microsoft 365 Apps for Education (laite) -lisäosa, joka on käytettävissä vain koulutusasiakkaille ja joka on käytettävissä vain EES(Enrollment for Education Solutions) -ratkaisuissa. Lisätietoja on [ohjeaiheessa Microsoft 365 Apps for enterprise -sovelluksen laitepohjaisten käyttöoikeuksien käyttöä koskevat vaatimukset](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Jos haluat aktivoida Officen laitepohjaisten käyttöoikeuksien avulla, sinulla on oltava Microsoft 365 Apps for Education (laite) -lisäosa, joka on saatavilla vain koulutusasiakkaille ja joka on käytettävissä vain EES (Enrollment for Education Solutions) -ratkaisujen kautta. Katso [Microsoft 365 Apps for enterprise -sovellusten laitepohjaisten käyttöoikeuksien käyttöä koskevat vaatimukset.](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 
-Lisätietoja asetuksista on seuraavissa ohjeissa:
+Lisätietoja asennuksesta on kohdassa:
 
-- [Microsoft 365 Apps for enterprise -sovelluksen laitepohjaisten käyttöoikeuksien määrittäminen](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Laitteiden käyttöoikeuksien hallinta](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
+- [Laitepohjaisten käyttöoikeuksien määrittäminen Microsoft 365 Apps for enterprise -sovelluksille](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Laitteiden käyttöoikeuksien hallinta](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Vianmääritysohjeita on [ohjeaiheessa Microsoft 365 Apps for enterprise -sovelluksen laitepohjaisten käyttöoikeuksien vianmääritys](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Vianmääritysohjeita on [ohjeaiheessa Microsoft 365 -sovellusten yrityskäyttöo tänne liittyvien laitteiden käyttöoikeuksien vianmääritys](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
