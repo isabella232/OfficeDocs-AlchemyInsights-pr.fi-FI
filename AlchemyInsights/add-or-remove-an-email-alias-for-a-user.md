@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: ef86d3c875dbc43910bfc4ce132e746a5395d800
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a75ee42d93b1661f8d7fea0c7a1e87a4465b58b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682109"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505448"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="3ebe2-102">Käyttäjän sähköpostiosoitteen lisääminen tai poistaminen</span><span class="sxs-lookup"><span data-stu-id="3ebe2-102">Add or remove an email address for a user</span></span>
+# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="c33eb-102">Käyttäjän sähköpostiosoitteen lisääminen tai poistaminen</span><span class="sxs-lookup"><span data-stu-id="c33eb-102">Add or remove an email address for a user</span></span>
 
-<span data-ttu-id="3ebe2-103">Aloita [noudattamalla seuraavia Microsoft](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) 365 -hallintakeskuksen ohjeita.</span><span class="sxs-lookup"><span data-stu-id="3ebe2-103">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span>
+<span data-ttu-id="c33eb-103">[Aloita noudattamalla microsoft](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) 365 -hallintakeskuksen ohjeita.</span><span class="sxs-lookup"><span data-stu-id="c33eb-103">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span>
 
- <span data-ttu-id="3ebe2-104">**Huomautus:** Käyttäjällä voi olla useampi kuin yksi sähköpostiosoite, mutta muita *sähköpostialiaksia* voidaan käyttää vain sähköpostin vastaanottamiseen.</span><span class="sxs-lookup"><span data-stu-id="3ebe2-104">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email.</span></span> <span data-ttu-id="3ebe2-105">Jos haluat lähettää sähköpostia aliaksella, luo [jaettu postilaatikko](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="3ebe2-105">If you need to send email with an alias, create a [shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span> <span data-ttu-id="3ebe2-106">Näin saat aliaksen sähköpostin lähettämiseen ja vastaanottamiseen.</span><span class="sxs-lookup"><span data-stu-id="3ebe2-106">This way you'll get the alias to send and receive mail.</span></span>
+ <span data-ttu-id="c33eb-104">**Huomautus:** Käyttäjällä voi olla useampi kuin yksi sähköpostiosoite, mutta sähköpostin vastaanottamiseen voidaan käyttää vain muita *sähköpostialiaksia.*</span><span class="sxs-lookup"><span data-stu-id="c33eb-104">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email.</span></span> <span data-ttu-id="c33eb-105">Jos haluat lähettää sähköpostia aliaksen kanssa, luo [jaettu postilaatikko](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="c33eb-105">If you need to send email with an alias, create a [shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span></span> <span data-ttu-id="c33eb-106">Näin saat aliaksen sähköpostin lähettämiseen ja vastaanottamiseen.</span><span class="sxs-lookup"><span data-stu-id="c33eb-106">This way you'll get the alias to send and receive mail.</span></span>
   

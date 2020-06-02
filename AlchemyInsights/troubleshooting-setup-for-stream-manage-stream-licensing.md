@@ -1,5 +1,5 @@
 ---
-title: Stream-käyttö oikeuksien hallinnan asetusten vian määritys
+title: Streamin vianmääritys - Stream-käyttöoikeuksien hallinta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 8477d8e474c6e15efdfd49313406e105e7b9f8d8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742622"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505016"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="dd4a0-102">Microsoft Stream-lisenssien hallinta</span><span class="sxs-lookup"><span data-stu-id="dd4a0-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="e0b53-102">Microsoft Stream -käyttöoikeuksien hallinta</span><span class="sxs-lookup"><span data-stu-id="e0b53-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="dd4a0-103">**Tärkeää:** Sinun on oltava vuokra ajan järjestelmänvalvojan roolissa, jotta voit suorittaa tässä ohje aiheessa kuvattuja toimintoja.</span><span class="sxs-lookup"><span data-stu-id="dd4a0-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="e0b53-103">**Tärkeää:** Sinun on oltava Vuokraajan järjestelmänvalvoja -roolissa, jotta voit suorittaa tässä ohjeaiheessa kuvattuja toimintoja.</span><span class="sxs-lookup"><span data-stu-id="e0b53-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="dd4a0-104">Sinun on oltava joko yleinen järjestelmänvalvoja tai käyttäjä hallinnan järjestelmänvalvoja. Lisä tietoja on kohdassa [tietoja järjestelmänvalvojan rooleista](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="dd4a0-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span></span>
+<span data-ttu-id="e0b53-104">Sinun on oltava joko yleinen järjestelmänvalvoja tai käyttäjähallinnan järjestelmänvalvoja. Lisätietoja on kohdassa [Tietoja järjestelmänvalvojan rooleista](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="e0b53-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
 
-<span data-ttu-id="dd4a0-105">Voit määrittää käyttö [oikeuksia käyttäjä tileille Office 365 PowerShellin](https://go.microsoft.com/fwlink/p/?linkid=850410)avulla.</span><span class="sxs-lookup"><span data-stu-id="dd4a0-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="e0b53-105">Voit määrittää [käyttöoikeuksia käyttäjätileille Office 365 PowerShellin avulla.](https://go.microsoft.com/fwlink/p/?linkid=850410)</span><span class="sxs-lookup"><span data-stu-id="e0b53-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
