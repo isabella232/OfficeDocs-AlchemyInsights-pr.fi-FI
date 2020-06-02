@@ -1,9 +1,9 @@
 ---
-title: 911 lajitellun Saapuneet-kansion poistaminen käytöstä asiakkaassa
+title: 911 Kohdennetun Saapuneet-kansion poistaminen käytöstä asiakasohjelmassa
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 156b2ee14d5032a7c34cd546aeb2bd98861a6223
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742370"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509705"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="dbb6b-102">Poista lajitellun Saapuneet-kansion käytöstä sähkö posti ohjelmissa</span><span class="sxs-lookup"><span data-stu-id="dbb6b-102">Turn off Focused Inbox in email clients</span></span>
+# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="89638-102">Kohdennetun Saapuneet-kansion poistaminen käytöstä sähköpostiohjelmissa</span><span class="sxs-lookup"><span data-stu-id="89638-102">Turn off Focused Inbox in email clients</span></span>
 
-<span data-ttu-id="dbb6b-103">Jos haluat poistaa lajitellun Saapuneet-kansion käytöstä Outlookissa 2016, Outlook verkossa, Outlook.com/Hotmail.com, Outlook 2016 for Mac tai Mail for Windows 10, katso [Poista lajitellun Saapuneet-kansion](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)käytöstä.</span><span class="sxs-lookup"><span data-stu-id="dbb6b-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
+<span data-ttu-id="89638-103">Lisätietoja Kohdennetun Saapuneet-kansion käytöstä Outlook 2016:ssa, Outlookin verkkoversiossa, Outlook.com/Hotmail.com, Outlook 2016 for Macissa tai Windows 10:n sähköpostissa on ohjeaiheessa [Kohdennetun Saapuneet-kansion poistaminen käytöstä](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="89638-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
 
-<span data-ttu-id="dbb6b-104">Jos haluat poistaa kaikkien organisaatiossa olevien lajitellun Saapuneet-kansion käytöstä, katso [kaikkien organisaatiossa olevan lajitellun Saapuneet-kansion määrittäminen](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="dbb6b-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="89638-104">Lisätietoja kohdennetun Saapuneet-kansion käytöstä organisaation kaikille käyttäjille on ohjeaiheessa [Kohdistetun Saapuneet-kansion määrittäminen organisaation kaikille](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)käyttäjille .</span><span class="sxs-lookup"><span data-stu-id="89638-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).</span></span>
