@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534843"
+ms.locfileid: "44542005"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Lähtevät-kansioon juuttuvien viestien korjaaminen
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Outboxiin jumiutuvien viestien korjaaminen SaRA:n avulla
 
-Microsoft suosittelee, että aloitat suorittamalla microsoftin [tuki- ja palautusavustajatyökalun](https://diagnostics.office.com/#/) [skenaarion "Minulla on ongelmia sähköpostiviestien lähettämisessä, vastaanottamisessa tai etsimisessä".](https://aka.ms/SaRA-OutlookSendReceive)
-
-Kun viesti juuttuu Lähtevät-kansioon, todennäköisin syy on suuri liite tai "Lähetä heti, kun yhteys" ei ole käytössä.
-Katso tarkemmat tiedot kohdasta:
-- [Video: Jumittuneen sähköpostin lähettäminen tai poistaminen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Sähköposti pysyy Lähtevät-kansiossa, kunnes käynnistät manuaalisesti lähetys- ja vastaanottotoiminnon Outlookissa](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Microsoft suosittelee, että aloitat suorittamalla skenaarion ["Minulla on ongelmia sähköpostiviestien lähettämisessä, vastaanottamisessa tai etsimisessä"](https://aka.ms/SaRA-OutlookSendReceive) [microsoftin tuki- ja palautusavustajatyökalusta.](https://diagnostics.office.com/#/)
