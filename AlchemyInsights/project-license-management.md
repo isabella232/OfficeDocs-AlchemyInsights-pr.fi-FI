@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991042"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512407"
 ---
 # <a name="project-license-management"></a>Project-käyttöoikeuksien hallinta
 
@@ -27,6 +27,6 @@ Voit hallita Project-käyttöoikeuksia **Microsoft 365 -hallintakeskuksessa**.
 - Katso ohjeet **paketin vaihtamisesta** artikkelista [Microsoft 365:n vaihtaminen yrityspalvelupaketteihin manuaalisesti](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Jos haluat **määrittää** Project-käyttöoikeuksia, siirry kohtaan **Laskutus > [Käyttöoikeudet](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisätietoja saa kohdasta [Käyttöoikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Jos haluat **lisätä tai poistaa** Project-käyttöoikeuksia, siirry kohtaan **Laskutus > [Palvelujen ostaminen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Lisätietoja: [Käyttöoikeuksien lisääminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Jos haluat **peruuttaa** Project-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054),** valitse **Asetukset ja toiminnot** ja napsauta **Peruuta tilaus**. Katso lisätietoja kohdasta [Peruuta tilaus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Jos haluat **peruuttaa** Project-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054),** valitse **Asetukset ja toiminnot** ja napsauta **Peruuta tilaus**. Katso lisätietoja kohdasta [Peruuta tilaus](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Lisätietoja: [Tilauskäyttöoikeuksien hallinta](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

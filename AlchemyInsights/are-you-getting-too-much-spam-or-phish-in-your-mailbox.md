@@ -10,19 +10,19 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 8c4400c0b2ca0b7571ac7626b891483624bed193
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712599"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506404"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Saatko postilaatikkoosi liikaa roskapostia tai tietojenkalasteluyrityksiä?
 
-Ohjeita roskapostin vianmääritykseen on artikkelissa [Keinoja roskapostin vähentämiseen](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email).
+Ohjeita roskapostin vianmääritykseen on artikkelissa [Keinoja roskapostin vähentämiseen](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection).
   
 Paras tapa raportoida tällaisista ongelmista on seuraava:
   
-1. Käyttäjän tulee [ottaa raportoiva apuohjelma käyttöön](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in).
+1. Käyttäjän tulee [ottaa raportoiva apuohjelma käyttöön](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
 
 2. Käyttäjän tulee [raportoida viesti](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) roskapostiksi.

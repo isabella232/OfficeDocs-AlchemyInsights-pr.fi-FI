@@ -12,12 +12,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158397"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512371"
 ---
 # <a name="understand-your-bill"></a>Laskun ymmärtäminen
 
@@ -27,7 +27,7 @@ ms.locfileid: "43158397"
 
 2. Valitse avattavasta luettelosta aikaväli ja valitse sitten tarkasteltava tilaus tai napsauta **Lataa laskun PDF** -linkkiä, jos haluat tarkastella laskun kopiota.
 
-Katso lisätiedot kohdasta [Laskun tarkasteleminen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Katso lisätiedot kohdasta [Laskun tarkasteleminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **Tietoja laskusta**
 
