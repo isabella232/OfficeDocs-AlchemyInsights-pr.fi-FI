@@ -8,25 +8,23 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 082bbbf552b133bf31dfa4e96aab2e9a2728d5b1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.custom:
+- "2407"
+- "9000246"
+ms.openlocfilehash: 9cb0597c892d263a1757247e54ce260b6172e4ad
+ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050738"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44534807"
 ---
-# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>Nykyaikaisten sivujen luominen ja muokkaaminen SharePoint-sivustossa
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>SharePoint-sivuston nykyaikaien sivujen luominen ja muokkaaminen
 
-Voit muokata tiedostoja ja sivuja nopeasti ja helposti, ja ne näyttävät hyvältä millä tahansa laitteella. Lisä tietoja on alla olevissa linkeissä.
+Voit muokata tiedostoja ja sivuja nopeasti ja helposti, ja ne näyttävät upeilta millä tahansa laitteella. Lisätietoja saat alla olevista linkeistä.
 
-
-- [Nykyaikaisten sivujen luominen ja muokkaaminen SharePoint-sivustossa](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
-
-- [Klassisten sivujen luominen ja muokkaaminen SharePoint-sivustossa](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
-
-- [Asiakirja kirjaston asia kirjan muokkaaminen](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
-
-- [OneDrive-, SharePoint-ja teams-tiedostojen esikatselua tukevat tiedosto tyypit](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
-
-- [Virheelliset tiedosto nimet ja tiedosto tyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
-
+- [SharePoint-sivuston nykyaikaien sivujen luominen ja muokkaaminen](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Sharepoint-sivuston klassikkosivujen luominen ja muokkaaminen](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
+- [Asiakirjoja ei voi muokata selaimessa](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).
+- [Asiakirjan muokkaaminen asiakirjakirjastossa](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
+- [Tiedostotyypit, joita tuetaan tiedostojen esikatselussa OneDrivessa, SharePointissa ja Teamsissa](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- [Virheelliset tiedostonimet ja tiedostotyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
