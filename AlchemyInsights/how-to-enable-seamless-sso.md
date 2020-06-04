@@ -1,5 +1,5 @@
 ---
-title: Saumaton SSO ottaminen käyttöön
+title: Saumattoman SSO:n ottaminen käyttöön
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663854"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Saumaton SSO ottaminen käyttöön
+# <a name="how-to-enable-seamless-sso"></a>Saumattoman SSO:n ottaminen käyttöön
 
-Mahdollistavat saumattoman SSO [Azure AD-yhteyden](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)kautta.
+Ota saumaton sso käyttöön [Azure AD Connectin](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)avulla .
   
-Jos laadit Azure AD Yhdistä uuden asennuksen, valitse [Mukautettu asennuspolku](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Käyttäjän kirjautumisnimi** -sivulla vaihtoehto **Ota käyttöön kertakirjautuminen** .
+Jos asennat Azure AD Connectin uudelleen, valitse [mukautettu asennuspolku](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Valitse **Käyttäjän sisäänkirjautuminen -sivulla** **Ota kertakirjautuminen käyttöön** -vaihtoehto.
   
-Että saumaton SSO otettu oikein:
+Voit varmistaa, että saumaton sso-toiminto on otettu käyttöön oikein:
   
-1. Kirjaudu [hallintakeskus Azure Active Directory](https://aad.portal.azure.com) yleinen järjestelmänvalvojana
+1. Kirjaudu Azure [Active Directory -hallintakeskukseen](https://aad.portal.azure.com) yleisenä järjestelmänvalvojana.
 
-2. Valitse vasemmasta ruudusta **Azure Active Directory** .
+2. Valitse vasemmasta ruudusta **Azure Active Directory.**
 
-3. Varmista, että saumattomien kertakirjauksen on **käytössä**.
+3. Varmista, että saumaton kertakirjautuminen on **käytössä**.
 
-Jos haluat lisätietoja, katso [Azure Active Directory saumattomien kertakirjauksen: Pika-aloitus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Lisätietoja on [ohjeaiheessa Azure Active Directoryn saumaton kertakirjautuminen: Pika-aloitus](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

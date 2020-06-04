@@ -1,5 +1,5 @@
 ---
-title: 3800017 liittyviä ongelmia kalenterin synkronointi laitteeseen
+title: 3800017 Kalenterin synkronoinnin vianmääritys laitteeseen
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665793"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Synkronoidaan laitteeseen kalenteriin liittyviä ongelmia
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Kalenterin synkronoimiseen laitteeseen liittyviä ongelmia
 
-Katso Jos sinulla on Synkronointiongelmat asetettaessa että mobiili sähköposti ensimmäistä kertaa, [ei voi synkronoida kalenterin ja yhteystiedot puhelimen tai Tablet PC: n](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Jos sinulla on synkronointiongelmia määrittäessäsi mobiilisähköpostia ensimmäistä kertaa, katso lisätietoja ohjeaiheesta [Kalenterin ja yhteystietojen synkronointi puhelimen tai tabletin kanssa ei onnistu](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
   

@@ -1,5 +1,5 @@
 ---
-title: Palvelu käynnissä tapaus
+title: Palvelutapahtuma käynnissä
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666297"
 ---
-# <a name="service-incident-in-progress"></a>Palvelu käynnissä tapaus
+# <a name="service-incident-in-progress"></a>Palvelutapahtuma käynnissä
 
-Saattaa vaikuttaa palvelun vaaratilanteen tai neuvoa, joka on tällä hetkellä tutkimuksen kohteena. Voit tarkistaa viimeisin tila [Palvelun kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulle.
+Sinua saattaa vaikuttaa parhaillaan tutkittava palvelutapahtuma tai -neuvonta. Voit tarkistaa viimeisimmän tilan menemällä [Palvelun kunto -sivulle.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Yksinkertaisuuden vuoksi löydät tämän tapauksen alla yhteenveto:
+Alla on yhteenveto tästä tapauksesta.
   
-> **Tapauksen numero:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Tapahtuman numero:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Vaikuttaa kuvaus: {ImpactDescription}
+> Vaikutuksen kuvaus: {ImpactDescription}

@@ -1,5 +1,5 @@
 ---
-title: Vianetsinnän asetukset virta - API-Liittymän saatavuus
+title: Streamin vianmääritys - API:n saatavuus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom:
 - "2800001"
 - "1338"
 ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559298"
 ---
-# <a name="api-availability"></a>API-Liittymän saatavuus
+# <a name="api-availability"></a>API:n saatavuus
 
-Virran API-liittymät eivät ole tänään käytettävissä.
+Streamin ohjelmointirajapinnat eivät ole käytettävissä tänään.
 Lisätietoja:https://stream.microsoft.com/support/

@@ -1,5 +1,5 @@
 ---
-title: Lähetä PowerApps tai Microsoftin Flow tuki pyynnöt
+title: PowerApps- tai Microsoft Flow -tukipyyntöjen lähettäminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559478"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Lähetä PowerApps tai Microsoftin Flow tuki pyynnöt
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps- tai Microsoft Flow -tukipyyntöjen lähettäminen
 
-Jos olet **PowerApps** tai asiakkaan **Microsoft virtauksen** Lähetä lippuna kautta uusi [ympäristö Power hallintakeskukseen](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Uusi portaali tarjoaa tuotetukipalveluja, joka on optimoitu PowerApps ja muunlaisesta platform Power suoremmasta polku.
+Jos olet **PowerApps-** tai **Microsoft Flow -asiakas,** lähetä lippusi uuden [Power Platform Admin Centerin](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)kautta. Uusi portaali tarjoaa suoremman polun powerappeille ja muille Power Platform -tuotteille optimoidulle avusteiselle tuelle.
 
-[Lähettää tukipyynnön Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Lähetä Microsoft Flow -tukipyyntö](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
