@@ -1,5 +1,5 @@
 ---
-title: Office-sovellusten kuvakkeet/pikanäppäimet valkoinen, tyhjä tai kaksoiskappale
+title: Microsoft 365 -sovellusten kuvakkeet/pikakuvakkeet valkoisina, tyhjinä tai kaksoiskappaleina
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 90f9a5ac522f7ec76ed5d52da7f8b11672e8f8b7
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886486"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581120"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="7deac-102">Office-sovellusten kuvakkeet tai pikakuvakkeet ovat valkoisia, tyhjiä tai päällekkäisiä</span><span class="sxs-lookup"><span data-stu-id="7deac-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="5284c-102">Office-sovelluksen kuvakkeet tai pikakuvakkeet ovat valkoisia, tyhjiä tai päällekkäisiä</span><span class="sxs-lookup"><span data-stu-id="5284c-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
 
-<span data-ttu-id="7deac-103">Jos Office-sovelluksen kuvakkeet näyttävät tyhjiltä tai valkoisina, yritä [korjata Office-sovellus](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="7deac-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="7deac-104">Jos haluat poistaa Office-sovelluksen kaksoiskappaleiden kaksoiskappaleet, katso [Officen pikanäppäimet säilyvät Officen asennuksen poistamisen jälkeen](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="7deac-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
+<span data-ttu-id="5284c-103">Jos Office-sovelluksen kuvakkeet näkyvät tyhjinä tai valkoisina, kokeile [Office-sovelluksen korjaaminen](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="5284c-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="5284c-104">Lisätietoja Office-sovelluskuvakkeiden kaksoiskappaleiden poistamisesta on ohjeaiheessa [Officen pikakuvakkeet säilyvät Officen asennuksen poistamisen jälkeen](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="5284c-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
 
-<span data-ttu-id="7deac-105">Lisä tietoja [on kohdassa Office-kuvakkeet ovat tyhjiä Officen asentamisen jälkeen Microsoft Storesta](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="7deac-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
+<span data-ttu-id="5284c-105">Lisätietoja on ohjeaiheessa [Office-kuvakkeet ovat tyhjiä Officen asentamisen jälkeen Microsoft Storesta](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="5284c-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
