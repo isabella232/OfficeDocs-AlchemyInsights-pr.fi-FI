@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Groupin palauttaminen Exchange-hallintakeskuksen avulla
+title: Microsoft 365 -ryhmän palauttaminen Exchange-hallintakeskuksen avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912580"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582376"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Microsoft 365 Groupin palauttaminen Exchange-hallintakeskuksen avulla
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Microsoft 365 -ryhmän palauttaminen Exchange-hallintakeskuksen avulla
 
 1. Laajenna Microsoft 365 -hallintakeskuksen vasemmassa siirtymisruudussa **Hallintakeskus**ja valitse sitten **Exchange**.
     

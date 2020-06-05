@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912544"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582520"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Poistettujen kohteiden palauttaminen SharePointista tai OneDrivesta
 
@@ -24,11 +24,11 @@ ms.locfileid: "43912544"
     
 2. Valitse vasemmasta ruudusta **Roskakori.** 
     
-3. Napsauta palautettavat kohteet tai tiedostot -kohtaa.
+3. Napsauta palautettavan kohteiden tai tiedostojen vasemmalla puolella.
     
 4. Valitse **Palauta**. 
     
-Kun tiedostot, kansiot, kirjastot, luettelot ja luettelokohteet poistetaan SharePoint-sivustosta, ne menevät roskakoriin, jossa niitä säilytetään 93 päivää, ellei joku poista niitä tästä roskakorista. Jos ne poistetaan tästä roskakorista (jota kutsutaan sivuston roskakoriksi), ne menevät sivustokokoelman roskakoriin jäljellä olevaksi ajaksi ja poistetaan sitten pysyvästi. Poistetut sivustot ja sivustokokoelmat menevät suoraan sivustokokoelman roskakoriin 93 päivän ajaksi.
+Kun tiedostot, kansiot, kirjastot, luettelot ja luettelokohteet poistetaan SharePoint-sivustosta, ne menevät roskakoriin, jossa niitä säilytetään 93 päivää, ellei joku poista niitä tästä roskakorista. Jos ne poistetaan tästä roskakorista (sivustokaarrasta), ne menevät sivustokokoelman roskakoriin jäljellä olevaksi ajaksi ja poistetaan sitten pysyvästi. Poistetut sivustot ja sivustokokoelmat menevät suoraan sivustokokoelman roskakoriin 93 päivän ajaksi.
   
 [Sivustokokoelman roskakorin kohteiden palauttaminen](https://go.microsoft.com/fwlink/?linkid=867800) (sivustokokoelman järjestelmänvalvojat) 
   

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512009"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582736"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Ehdotuksia luvattoman tuotteen virheiden ratkaisemiseksi
 
@@ -26,7 +26,7 @@ Voit ratkaista "Lisensoimaton tuote" -virheitä seuraavasti:
 - Varmista, että sinulla on tilaus, joka sallii asiakaskäyttöoikeudet, kuten Microsoft 365 Apps for Business tai Business Premium, ja [varmista, että käyttäjälle on määritetty käyttöoikeus.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - Varmista, että käyttäjä on kirjautuu Officeen samalla tilillä, jolle on määritetty käyttöoikeus.
 - Tarkista [Palvelun kunto -sivulta,](https://docs.microsoft.com/office365/enterprise/view-service-health) onko palvelussa tunnettuja ongelmia.
-- Tarkista palomuuri-, virustentorjuntaohjelmisto- ja välityspalvelinasetuksista, että ne eivät estä Office-sovellusten Internet-käyttöä. Katso [URL-osoitteet ja IP-osoitealueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Tarkista palomuurin, virustentorjuntaohjelmiston ja välityspalvelimen asetukset ja varmista, että ne eivät estä Microsoft 365 -sovellusten Internet-käyttöä. Katso [URL-osoitteet ja IP-osoitealueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Voit myös kokeilla seuraavia vianmääritystoimia: 
 

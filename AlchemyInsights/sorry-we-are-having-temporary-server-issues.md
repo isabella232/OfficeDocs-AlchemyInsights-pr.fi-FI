@@ -1,5 +1,5 @@
 ---
-title: Office-sovellusten korjaaminen Valitettavasti meillä on tilapäispalvelinongelmien sanoma
+title: Microsoft 365 -sovellusten korjaaminen Anteeksi, meillä on tilapäisiä palvelinongelmia -sanoma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764114"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582700"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Office-sovellusten korjaaminen "Anteeksi, meillä on tilapäisiä palvelinongelmia" -sanoma
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 -sovellusten korjaaminen "Anteeksi, meillä on tilapäisiä palvelinongelmia" -sanoma
 
-Jos saat tämän sanoman, kokeile seuraavaa:
+Jos näyttöön tulee tämä sanoma, kokeile seuraavaa:
 
-1. Tarkista palomuurin, virustentorjuntaohjelmiston ja välityspalvelimen asetukset ja varmista, että ne eivät estä Office-sovellusten Internet-yhteyttä. Katso [URL-osoitteet ja IP-osoitealueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Tarkista palomuurin, virustentorjuntaohjelmiston ja välityspalvelimen asetukset ja varmista, että ne eivät estä Microsoft 365 -sovellusten Internet-käyttöä. Katso [URL-osoitteet ja IP-osoitealueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Siirry **Käynnistä-kohtaan** > **Run**ja kirjoita **services.msc**. Varmista, että seuraavat palvelut ovat käynnissä:
+2. Siirry **Käynnistä**  >  **Suorita**ja kirjoita **services.msc**. Varmista, että kaikki seuraavat palvelut ovat käynnissä:
     - Verkkoon liitettyjen laitteiden automaattinen asennus
     - Verkkoluettelopalvelu
-    - Verkon sijaintitietoisuus
+    - Verkon sijainnin tunnettuus
     - Windowsin tapahtumaloki
 
 Jos jokin näistä palveluista ei ole käynnissä, yritä käynnistää se. Jos palvelun käynnistämisessä on ongelmia, suorita seuraava komento avaamalla komentorivi, jolla on laajennetut käyttöoikeudet:
 
-**Kävi koulua sfc /scannow**
+**sfc / scannow**
 
 Kun tämä komento on valmis, käynnistä tietokone uudelleen.
 
-Lisätietoja on kohdassa ["Valitettavasti emme voi muodostaa yhteyttä tiliisi. Yritä myöhemmin uudelleen" -virhe aktivoitaessa.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+Lisätietoja on [ohjeaiheessa "Emme voi muodostaa yhteyttä tiliisi. Yritä myöhemmin uudelleen -virhe, kun aktivoit](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

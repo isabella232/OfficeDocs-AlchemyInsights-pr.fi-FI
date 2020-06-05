@@ -1,5 +1,5 @@
 ---
-title: Word-sovellus jumittuu, kaatuu tai ei käynnisty
+title: Word - Sovellus jumittuu, kaatuu tai ei käynnisty
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,28 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628167"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582628"
 ---
-# <a name="word-crashes-or-doesnt-respond"></a>Word kaatuu tai ei reagoi
+# <a name="word-crashes-or-doesnt-respond"></a>Word kaatuu tai ei vastaa
 
-Wordin usein kaatumiset voivat johtua virheellisestä apuohjelmalla. Voit poistaa Wordin apuohjelmat käytöstä noudattamalla seuraavia ohjeita:
+Wordin kaatumiset voivat johtua virheellisestä apuohjelmasta. Voit poistaa Word-apuohjelmat käytöstä seuraavasti:
 
-1. Siirry **tiedoston** > **Asetukset** > -**apuohjelmia**.
-2. Valitse **hallinta** **-luettelosta com-apuohjelmat**ja valitse sitten **Siirry**.
-3. Poista **käytettävissä olevat apuohjelmat** -ruudusta poistettavan apuohjelman vieressä oleva valinta ruutu ja valitse **OK**.
+1. Siirry **File**  >  **Options**  >  **Tiedostoasetukset-apuosetihin**.
+2. Valitse **Hallinta-luettelosta** **COM-apuohjelmat**ja valitse sitten **Siirry**.
+3. Poista **Käytettävissä olevat apuohjelmat** -ruudussa sen apuohjelman valintaruudun valinta, jonka haluat poistaa käytöstä, ja valitse **OK**.
 
-Jos Word ei käynnisty, kokeile seuraavia:
+Jos Word ei käynnisty, kokeile seuraavaa:
 
-1.   Windowsin työpöydällä Sulje Outlook ja avaa Tehtävienhallinta painamalla CTRL + ALT + DEL. 
-2. Jos Word-prosessit ovat käynnissä, valitse **prosessit** -väli lehdestä ne ja valitse **Lopeta tehtävä**. On myös suositeltavaa, että käynnistät uudelleen tyhjentää kaiken muistista.
+1.   Sulje Windowsin työpöydällä Outlook ja avaa Tehtävienhallinta painamalla CTRL+ALT+DEL. 
+2. Jos **Prosessit-välilehdessä** on käynnissä Word-prosesseja, valitse ne ja valitse **Lopeta tehtävä**. On myös suositeltavaa, että käynnistät poistaa kaiken muistista.
 
-    Jos Word kaatuu tai jumittuu käynnistyksen aikana, katso [Avaa Office-sovellukset vika sieto tilassa Windows-tieto koneessa](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) käynnistääksesi sen vika sieto tilassa.
+    Jos Word kaatuu tai jumittuu käynnistyksen aikana, katso microsoft [365 -sovellusten avaaminen vikasietotilassa Windows-tietokoneessa,](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) jos haluat käynnistää sen vikasietotilassa.
 
-Jos ongelmia ei vieläkään ole, Katso seuraavat artikkelit: 
-- [Saan "lakkasi toimimasta"-virheen, kun käynnistin Office-sovelluksia tieto koneella](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Korjauksia tai kierto tapoja viimeaikaisten Windows Word-ongelmien kanssa](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+Jos ongelmat jatkuvat, tutustu seuraaviin artikkeleihin: 
+- [Lopetin toimintavirheen, kun Käynnistän Office-sovelluksia tietokoneellani (tämä ei ole käytössä)](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Korjauksia tai kiertotapoja Word for Windowsin viimeaikaisiin ongelmiin](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
