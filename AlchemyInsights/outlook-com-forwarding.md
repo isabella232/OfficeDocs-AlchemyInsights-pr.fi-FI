@@ -1,9 +1,9 @@
 ---
-title: 9000239 Outlook.com-välitys
+title: 9000239 Outlook.com huolinta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: bae54d14b18f5028c2ac8c87f4b4880ea0add72b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 076495158637543eebced2a11cfb0e8468626450
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536612"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581084"
 ---
-# <a name="forwarding-email-in-outlookcom"></a>Outlook.com-sähköpostin lähettäminen edelleen
+# <a name="forwarding-email-in-outlookcom"></a>Sähköpostin lähettäminen edelleen Outlook.com
 
-Voit välittää yhden viestin kerrallaan:
+Yhden viestin lähettäminen eteenpäin kerrallaan:
 
-1. Valitse viestiluettelosta, viesti, jonka haluat välittää.
-2. Valitse viestiruudun oikeassa yläkulmassa nuolta **eteenpäin** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
+1. Valitse viestiluettelosta viesti, jonka haluat välittää edelleen.
+2. Valitse viestiruudun yläkulmasta **Eteenpäin-nuoli** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
 .
-3. Kirjoita viesti ja valitse **Lähetä**.
+3. Kirjoita viesti ja valitse sitten **Lähetä**.
 
-Jos haluat kaikki viestit edelleen automaattisesti:
+Kaikkien viestien automaattinen välittäminen:
 
-1. Avaa tekemäsi [asetukset välittäminen](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).
-2. **Edelleenlähetyksen**, välittäminen Kirjoita sähköpostiosoite ja valitse **Tallenna**.
+1. Avaa [edelleenlähetysasetukset](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).
+2. Valitse **Ota edelleenlähetys käyttöön**, kirjoita edelleenlähetyssähköpostiosoite ja valitse **Tallenna**.
 
-Lisätietoja [Outlook.com-automaattinen edelleenlähetys](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja [automaattisesta edelleenlähetyksestä Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).

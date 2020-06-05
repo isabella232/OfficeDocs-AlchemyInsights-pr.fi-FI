@@ -1,44 +1,44 @@
 ---
-title: 2010-hyväksynnän työn kulkua ei voi lisätä
+title: 2010-hyväksymistyönkulkua ei voi lisätä
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049550"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582844"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>2010-hyväksynnän työn kulkua ei voi lisätä
+# <a name="unable-to-add-2010-approval-workflow"></a>2010-hyväksymistyönkulkua ei voi lisätä
 
-Microsoft SharePoint-sivustokokoelmassa ei voi lisätä yleisesti uudelleenkäytettävää työn kulkua (kuten "hyväksyntä-SharePoint 2010") luetteloon tai kirjastoon.
+Microsoft SharePoint -sivustokokoelmassa ei voi lisätä luetteloon tai kirjastoon yleisesti uudelleenkäytettävää työnkulkua (kuten Hyväksyminen - SharePoint 2010).
   
-Voit ratkaista tämän ongelman tekemällä seuraavat toimet: 
+Voit ratkaista tämän ongelman seuraavasti: 
   
-1. Avaa sivustokokoelman pääsivusto SharePoint Designerissa 2013.
+1. Avaa sivustokokoelman pääsivusto SharePoint Designer 2013:ssa.
   
-2. Valitse **Sivustoobjektit**-kohdassa **työn kulut**. 
+2. Valitse **Sivustoobjektit -kohdasta** **Työnkulut**. 
   
-3. Valitse **työn kulkujen** valinta nauhan **Uusi** -osasta **uudelleenkäytettävä työn kulku**. 
+3. Valitse **Työnkulut-valintanauhan** **Uusi-osassa** **Uudelleenkäytettävä työnkulku**. 
   
-4. Kirjoita **Luo uudelleen käytettävä työn kulku** -lomakkeeseen nimi * * *Repair2010* * *. Valitse **alustan tyypille** **SharePoint 2010-työn kulku**ja valitse sitten **OK**. 
+4. Kirjoita **Luo uudelleenkäytettävä työnkulku** -lomakkeeseen nimi ** *Repair2010* **. Valitse **käyttöympäristön tyypiksi** **SharePoint 2010 -työnkulku**ja valitse sitten **OK**. 
   
-1. Valitse **työn kulun** valinta nauhan **Tallenna** -osasta **Julkaise**. 
+1. Valitse **Työnkulun** valintanauhan **Tallenna-osassa** **Julkaise**. 
   
-2. Valitse **työn kulun** valinta nauhan **hallinta** -osasta **Julkaise maailmanlaajuisesti**. Valitse avautuvassa vahvistus ikkunassa **OK**. 
+2. Valitse **Työnkulun** valintanauhan **Hallinta-osassa** **Julkaise yleisesti**. Valitse näyttöön tulevasta vahvistusvalintaikkunasta **OK**. 
   
-3. Etsi Web-selaimessa sivustokokoelman pääsivusto ja avaa sitten **sivuston asetusten** \> sivustokokoelman **Ominaisuudet**. Vaihda **työn kulut** -toiminto: 
+3. Etsi web-selaimessa sivustokokoelman pääsivusto ja käytä **sitten Sivustoasetusten** \> **sivustokokoelman ominaisuuksia**. Ota **Työnkulut käyttöön** -toiminto käytöstä: 
   
-· Jos ominaisuus on *aktivoitu* , valitse **Poista Akti vointi** ja valitse sitten **Aktivoi**. 
+· Jos ominaisuus on *aktivoitu,* valitse **Poista aktivointi** ja valitse sitten **Aktivoi**. 
   
-· Jos toiminto on *poistettu käytöstä* , valitse **Aktivoi**. 
+· Jos ominaisuus on *poistettu käytöstä,* valitse **Aktivoi**. 
   
-Katso lisä tietoja seuraavasta [artikkelista](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Lisätietoja on seuraavassa [artikkelissa](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

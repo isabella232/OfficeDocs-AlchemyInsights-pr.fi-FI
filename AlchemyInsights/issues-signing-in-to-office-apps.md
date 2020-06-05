@@ -1,5 +1,5 @@
 ---
-title: Ongelmia Office-sovellusten kirjautua
+title: Microsoft 365 -sovelluksiin kirjautumiseen liittyvät ongelmat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938197"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579934"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Vahvistettaessa Office apps ”valitettavasti jo kirjautuneena toisen tilin organisaatiolta”-sanoma
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Microsoft 365 -sovellusten "Valitettavasti toinen organisaatiosi tili on jo kirjautunut sisään" -sanoman korjaaminen
 
-Voit korjata tämän virheen, kokeile seuraavaa:
+Voit korjata ongelman toimimalla seuraavasti:
 
-- Poista kaikki paitsi haavoittuvuuden tilillä, miellyttävät > **käytön tai koulun**työtä tilit.
-- [Poista Office-tunnistetietoja](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windowsin käyttöoikeuksien hallinnan.<br/>
-    **Huomautus:** Office-2016 Rekisteripolut ovat muuttuneet 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Avaa Office-sovellus, valitse **Tiedosto** > **huomioon** > **Kirjaudu ulos**. Kirjaudu käyttämällä käyttäjätiliä, jolla on voimassa oleva käyttöoikeus. Yksityiskohtaisia lisätietoja [Office-tilit](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Katso Mac- [voi kirjautua sisään Mac app for Office 2016](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Poista kaikki työtilit, lukuun ottamatta tiliä, jota haavoittuvuus koskee, Windowsin asetusten > **Accessin työpaikalla tai koulussa**.
+- [Tyhjennä Officen tunnistetiedot](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windowsin tunnistetietojen hallinnan avulla.<br/>
+    **Huomautus:** Office 2016:n rekisteripolut ovat muuttuneet 16.0:ksi. (Esimerkiksi \Software\Microsoft\Office\16.0\Common\Identity\)
+- Avaa Office-sovellus **File**ja valitse  >  **Tiedostotilin**  >  **uloskirjautuminen**. Kirjaudu sitten sisään käyttäjätilillä, jolla on voimassa oleva käyttöoikeus. Saat lisätietoja artikkelista [Office-tilit](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Jos sinulla on Mac-kone, lue kohta [Kirjautuminen Office 2016 for Mac -sovellukseen ei onnistu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Lisätietoja on ohjeaiheessa [”valitettavasti organisaatiolta toiselle tilille jo kirjautuneena sisään tähän tietokoneeseen” Officen](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Lisätietoja on [Officen kohdassa "Toinen organisaatiosi tili on jo kirjautunut sisään tässä tietokoneessa"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

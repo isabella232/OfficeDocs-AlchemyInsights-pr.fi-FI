@@ -8,33 +8,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912891"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579430"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePointin ja OneDriven käyttöoikeudet
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Käyttöoikeudet SharePointissa ja OneDrivessa
 
-Jos organisaatiosi käyttäjä ei voi käyttää SharePointia tai OneDrivea, varmista, että hänellä on SharePoint- ja OneDrive-käyttöoikeudet. 
+Jos organisaatiosi käyttäjä ei pysty käyttämään SharePointia tai OneDrivea, varmista, että hänellä on SharePointin ja OneDriven käyttöoikeus. 
   
 1. Siirry [Microsoft 365 -hallintakeskuksen Aktiiviset käyttäjät -sivulle](https://portal.office.com/adminportal/home#/users) ja valitse käyttäjä. 
     
-2. Varmista, että **Tuotteen käyttöoikeudet**-kohdassa määritetään käyttöoikeus ja **SharePoint Online** on valittuna. 
+2. Varmista, että **Tuotekäyttöoikeudet**-kohdassa käyttöoikeus määritetään ja **SharePoint Online** on valittuna. 
     
  Voit antaa käyttäjälle oikeuden käyttää SharePoint-sivustoa: 
   
 1. Avaa sivusto selaimessa.
     
-2. Jos sivusto kuuluu Microsoft 365 -ryhmään, napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta ja valitse sitten **Sivuston käyttöoikeudet**. Valitse **Kutsu henkilöitä**ja valitse sitten, haluatko lisätä jäseniä Microsoft 365 -ryhmään tai jakaa vain sivuston. 
+2. Jos sivusto kuuluu Microsoft 365 -ryhmään, napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta ja valitse sitten **Sivuston käyttöoikeudet**. Valitse **Kutsu henkilöitä**ja valitse sitten jäsenten lisääminen Microsoft 365 -ryhmään tai vain sivuston jakaminen. 
     
-    Jos haluat käyttää viestintäsivustoa, valitse oikeasta yläkulmasta **Jaa sivusto,** kirjoita henkilön nimi ja valitse sitten käyttöoikeustaso (Luku, Muokkaa tai Täydet oikeudet). 
+    Jos käytössäsi on viestintäsivusto, valitse oikeassa yläkulmassa **Jaa sivusto,** kirjoita henkilön nimi ja valitse sitten käyttöoikeustaso (Luku, Muokkaa tai Täydet oikeudet). 
     
-    Jos haluat perinteisen ryhmäsivuston, klikkaa oikeassa yläkulmassa **Jaa.** Kirjoita sen henkilön nimi, jonka haluat kutsua, tai kirjoita Kaikki, jotka jaetaan kaikkien organisaation jäsenten kanssa. Valitse **Jaa**.
+    Jos haluat käyttää perinteistä ryhmäsivustoa, valitse oikeassa yläkulmassa **Jaa.** Kirjoita kutsuttavan henkilön nimi tai kirjoita Kaikki, jotka haluat jakaa organisaation kaikkien kanssa. Valitse **Jaa**.
     
 > [!NOTE]
-> Jos olet sivuston jäsen, mutta et omistaja, voit kutsua ihmisiä sivustoon, mutta kutsusi luo käyttöoikeuspyynnön, jonka sivuston omistaja voi joko hyväksyä tai hylätä. 
+> Jos olet sivuston jäsen, mutta et omistaja, voit kutsua ihmisiä sivustoon, mutta kutsusi luo käyttöoikeuspyynnön, jonka sivuston omistaja voi hyväksyä tai hylätä. 
   
 [Tietoja tiedoston tai kansion jakamisesta käyttäjän kanssa](https://go.microsoft.com/fwlink/?linkid=533408)
   

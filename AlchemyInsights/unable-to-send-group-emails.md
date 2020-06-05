@@ -1,9 +1,9 @@
 ---
-title: 8000053 ryhmän sähköpostit lähettäminen ei onnistu
+title: 8000053 Ryhmäsähköpostien lähettäminen ei onnistu
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1330164360445e9ac43a1c85e5bb01ebfda5a177
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533372"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582484"
 ---
-# <a name="unable-to-send-group-emails"></a>Ryhmän sähköpostit lähettäminen ei onnistu
+# <a name="unable-to-send-group-emails"></a>Ryhmäsähköpostien lähettäminen ei onnistu
 
-Jos et pysty lähettämään sähköpostia yhteystietojensa luetteloon tai Yhteystietoryhmien Outlook.com-, yritä seuraavaa:
+Jos et pysty lähettämään sähköpostia Outlook.com yhteystietoluetteloihin tai yhteystietoryhmiin, kokeile seuraavaa:
   
-1. Käytä Outlook.com beta. Saat lisätietoja, [Lue siitä Outlook.com-beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Käytä Outlook.com betaa. Lisätietoja on [Outlook.com beta -versiossa.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Jos sinulla on edelleen ongelmia ryhmälle sähköpostiviestin kirjoittaminen, siirry [ihmiset](https://outlook.live.com/people/)Valitse yhteystietoluettelon tai ryhmä ja valitse sitten **Lähetä sähköpostiviesti**.
+2. Jos sinulla on edelleen ongelmia sähköpostiviestin kirjoittamisessa ryhmällesi, siirry [Kohtaan Ihmiset](https://outlook.live.com/people/), valitse yhteystietoluettelo tai -ryhmä ja valitse sitten **Lähetä sähköpostia**.
     
- **Huomautus:**
+ **Muistiinpanoja:**
   
-1. Varmista, että sinulla ei ole estetty ponnahdusikkunat: lähettää sähköpostin yhteystiedot sivu avautuu uuteen ikkunaan.
+1. Varmista, että ponnahdusikkunoita ei ole estetty: sähköpostin lähettäminen yhteystietoluettelosivulta avaa uuden ikkunan.
     
-2. Lähetä yhteystiedot luettelosta mail sijoittaa luettelon automaattisesti **Vastaanottaja** -rivillä. Jos haluat piilottaa yhteystiedot-tiedot, valitse **BCC** oikeassa yläkulmassa sitten Kopioi ja liitä yhteystietoluettelo **Piilokopio** ja poista **,** tapahtuma. 
+2. Lähetä postia yhteystietoluettelosta sijoittaa luettelon **TO** automaattisesti TO-riville. Jos haluat piilottaa yhteystietoluettelon tiedot, valitse oikeassa yläkulmassa **Piilokopio,** kopioi ja liitä yhteystietoluettelo **Piilokopio-kohtaan** ja poista **TO-merkintä.** 
     
-3. **Piilokopio-RUUDUN**käyttäminen on hyvä aina olla jotain **Vastaanottaja** -rivillä, esimerkiksi oman ”-” osoitteen. 
+3. Kun käytät **BCC**, se on hyvä käytäntö on aina jotain TO-rivillä, esimerkiksi oma "from"-osoite. **TO** 
     
 
