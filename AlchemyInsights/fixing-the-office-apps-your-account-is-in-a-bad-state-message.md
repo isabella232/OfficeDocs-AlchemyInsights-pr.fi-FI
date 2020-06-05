@@ -1,5 +1,5 @@
 ---
-title: Office-sovellusten korjaaminen Tilisi on huonossa tilassa
+title: Microsoft 365 -sovellusten korjaaminen Tilisi on huonossa tilassa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 264307f23a349ef4ebf40f48ddbcddd3216a4927
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499220"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580114"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Office-sovellusten "Tilisi on huonossa kunnossa" -virheen korjaaminen
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Microsoft 365 -sovellusten korjaaminen "Tilisi on huonossa kunnossa" -virhe
 
 Voit korjata tämän virheen kokeilemalla seuraavia asetuksia haavoittuvuuden sisältävässä tietokoneessa:
 

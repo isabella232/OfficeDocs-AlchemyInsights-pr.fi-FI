@@ -1,5 +1,5 @@
 ---
-title: Office-sovellusten viesti – Liittyviä Office-käyttöoikeuksia ei löydy
+title: Microsoft 365 -sovellusten sanoma - Office-käyttöoikeuteen ei löytynyt liitettyjä käyttöoikeuksia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505088"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581648"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office-sovellusten viesti – Liittyviä Office-käyttöoikeuksia ei löydy
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 -sovellusten sanoma - Office-käyttöoikeuteen ei löytynyt liitettyjä käyttöoikeuksia
 
 Voit korjata ongelman toimimalla seuraavasti:
 
@@ -38,7 +38,7 @@ Jos ongelma jatkuu, kokeile seuraavaa:
 
 - Palauta Officen aktivoinnin tila. Katso [Palauta aktivointitila Microsoft 365 -yrityssovelluksille](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Tarkista palomuurin, virustorjuntaohjelmiston ja välityspalvelimen asetukset ja varmista, etteivät ne estä Office-sovellusten yhteyttä Internetiin. 
+- Tarkista palomuuri-, virustentorjuntaohjelmisto- ja välityspalvelinasetuksistasi, että ne eivät estä Microsoft 365 -sovelluksia käyttämästä Internetiä. 
 
 Lisätietoja vianmäärityksestä on seuraavissa artikkeleissa:
 

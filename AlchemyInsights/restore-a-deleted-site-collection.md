@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: d37fd903c91c8cd6ac6137e815cb253f7edb4494
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912672"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582232"
 ---
 # <a name="restore-a-deleted-site"></a>Poistetun sivuston palauttaminen
 
@@ -27,6 +27,6 @@ Kun järjestelmänvalvoja poistaa SharePoint-sivuston, se sijoitetaan sivustokok
     
 3. Valitse **Palauta poistetut kohteet**.
     
-Voit palauttaa poistetun viestintäsivuston käyttämällä uutta SharePoint-hallintakeskusta. Muussa tapauksessa sinun on käytettävä Microsoft PowerShelliä. Jos haluat palauttaa Microsoft 365 -ryhmään kuuluvan sivuston, sinun on palautettava ryhmä Exchange-hallintakeskuksessa. Ryhmät voidaan palauttaa 30 päivän ajan niiden poistamisen jälkeen.
+Voit palauttaa poistetun tietoliikennesivuston käyttämällä uutta SharePoint-hallintakeskusta. Muussa tapauksessa sinun on käytettävä Microsoft PowerShelliä. Jos haluat palauttaa Microsoft 365 -ryhmään kuuluvan sivuston, sinun on palautettava ryhmä Exchange-hallintakeskuksessa. Ryhmät voidaan palauttaa 30 päivän ajan niiden poistamisen jälkeen.
   
 

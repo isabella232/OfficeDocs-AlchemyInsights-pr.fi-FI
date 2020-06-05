@@ -1,5 +1,5 @@
 ---
-title: Akti vointi-ja kirjautumisongelma-luotettava alusta moduuli toiminta häiriö
+title: Aktivointi-/kirjautumisongelma - luotettujen alustamoduulien toimintahäiriö
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: d1c25bb283def13524b1dcd19d0c746ee32c4e11
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 914e07fd69523005fbd777d3c05c9cf1a8beb01c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711936"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581336"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Office-sovellusten korjaaminen "tieto koneen luotettava ympäristö moduuli ei toimi kunnolla"-viesti
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Microsoft 365 -sovellusten "Tietokoneen Trusted Platform module ei toimi oikein" -sanoman korjaaminen
 
-Voit korjata tämän virheen kokeilemalla seuraavia:
+Voit korjata ongelman toimimalla seuraavasti:
 
-1. Avaa Office-sovellus ja [Kirjaudu ulos](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) aiemmin luodusta käyttäjä tileistä.   
-2. Poista nykyiset työtilit käyttämällä Windows- **Asetukset** > **-tilejä** > **sähkö postilla & tilejä**. 
-3. Windows- **Asetukset** > -**tilien** > käyttäminen**työn tai koulun**katkaiseminen Katkaise yhteys olemassa oleviin tileihin. 
-4. Palauta Officen aktivointi tila. [Ohjeet](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. Avaa Office-sovellus ja [kirjaudu ulos](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) olemassa olevilta käyttäjätileiltä.   
+2. Poista olemassa olevat työtilit **Windowsin**  >  **asetustilien**  >  **avulla &-tilien**avulla. 
+3. Katkaise aiemmin luoduista tileistä yhteys **Windowsin asetusten**  >  **tilit**  >  **-toiminnon**avulla. 
+4. Palauta Officen aktivoinnin tila. [Ohjeet](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. Kokeile [käyttäjien palautus prosessia](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) TPM-turva piirin virheiden korjaamiseksi.
+5. Yritä korjata Trusted Platform Module (TPM) -virheet [käyttäjän palautusprosessilla.](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2)
