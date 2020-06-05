@@ -1,26 +1,26 @@
 ---
-title: Julkaisemisen infrastruktuuri ja viestintä sivusto
+title: Infrastruktuurin julkaiseminen viestintäsivuston kanssa
 ms.author: pebaum
 author: pebaum
-ms.date: 1/14/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: ad91fd901c2203841b75510de8ed4573aa0ddce1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d1cc9f8fcfef93cafa96eefaed2f61d7fb0940ef
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054302"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576737"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="5a8c7-102">Julkaisemisen infrastruktuuri ja viestintä sivusto</span><span class="sxs-lookup"><span data-stu-id="5a8c7-102">Publishing Infrastructure with a Communication Site</span></span>
+# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="10d15-102">Infrastruktuurin julkaiseminen viestintäsivuston kanssa</span><span class="sxs-lookup"><span data-stu-id="10d15-102">Publishing Infrastructure with a Communication Site</span></span>
 
 
-<span data-ttu-id="5a8c7-103">Tieto liikenne sivustoissa **ei tueta** SharePoint Server Publishing Infrastructure-ominaisuuden käyttöönottoa.</span><span class="sxs-lookup"><span data-stu-id="5a8c7-103">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites.</span></span> 
+<span data-ttu-id="10d15-103">Tietoliikennesivustot **eivät tue** SharePoint Serverin julkaisuinfrastruktuuriominaisuuden käyttöönottoa.</span><span class="sxs-lookup"><span data-stu-id="10d15-103">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites.</span></span> 
   
-<span data-ttu-id="5a8c7-104">Lisä tietoja on kohdassa [siirtyminen julkaisu sivustoista viestintä sivustoihin](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span><span class="sxs-lookup"><span data-stu-id="5a8c7-104">For more info, see [Moving from Publishing sites to Communication sites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span></span> 
+<span data-ttu-id="10d15-104">Lisätietoja on [ohjeaiheessa Siirtyminen julkaisusivustoista viestintäsivustoihin](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span><span class="sxs-lookup"><span data-stu-id="10d15-104">For more info, see [Moving from Publishing sites to Communication sites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span></span> 
   
 
