@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855744"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617966"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Virhe: Tämän tietokoneen säännöt eivät vastaa toisiaan
 
-Tämä on outlook-työpöydän tunnettu ongelma. Outlook-tiimi toteutti version 12228.20332 ensimmäisen korjauksen, joka julkaistiin 12.3.2019. Tämä korjaus ei ole käsitellyt kaikkia saamiamme raportteja.
+Lisätietoja tämän tunnetun ongelman päivitetystä tilasta on [ohjeaiheessa Tämän tietokoneen säännöt eivät vastaa Microsoft Exchangen sääntöjä.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Lisätietoja tämän tunnetun ongelman päivitetystä tilasta [on ohjeaiheessa Tämän tietokoneen säännöt eivät vastaa Microsoft Exchangen sääntöjä.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Outlook-tiimi on ottanut käyttöön korjauksen koontiversiossa 12928.10000. Korjaus on jo Insider Fast ja menee Monthly Channel kesäkuun lopulla 2020. Kun olet kiinteä rakentaa saatat saada kehotteen "Mitkä säännöt haluat pitää" viimeisen kerran. Valitse Pyydettäessä Palvelin ja palaa sitten Outlookiin ja ota käytöstä poistetut säännöt uudelleen käyttöön.
+
+Ennen kuin korjaus on saatavilla, käytä seuraavaa kiertotapaa:
+
+**Vaihtoehtoinen menetelmä:** Viimeaikaisissa raporteissa ongelma on ilmennyt niille, jotka ovat luoneet asiakassääntöjä vain Outlook-työpöydällä. Jos ongelma jatkuu, harkitse sääntöjen poistamista ja sääntöjen luomista ja muokkaamista vain OWA:ssa (Outlook Web App), kunnes ongelma on ratkaistu.
+
+Jos et voi poistaa sääntöjä manuaalisesti, voit suorittaa Outlook-komennon, kun käynnistät Outlookin suorittamalla Outlook.exe /cleanrules-ohjelman. Tämä poistaa sekä asiakas- että palvelinsäännöt. Se poistaa kaikki säännöt kaikille tileille Outlook-profiilissa. Tämä komento on edelleen dokumentoitu Komentorivivalitsit -artikkelissa.
