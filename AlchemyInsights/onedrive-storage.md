@@ -1,5 +1,5 @@
 ---
-title: OneDrive-tallennus tila
+title: OneDrive-tallennustila
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049046"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667845"
 ---
-# <a name="manage-your-onedrive-storage"></a>OneDrive-tallennus tilan hallinta
+# <a name="manage-your-onedrive-storage"></a>OneDrive-tallennustilan hallinta
 
-OneDrive-tallennus tilaa ei lasketa koko vuokra ajan kiintiöön. 
+Voit hallita OneDrive for Businessia nähdäksesi, kuinka paljon tilaa käytät, ja vapauttaa tilaa.  Lisätietoja on alla olevissa linkeissä.
 
-Katso, [Miten OneDrive-tallennus tila varataan käyttäjää/suunnitelmaa kohden](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Katso [, kuinka paljon tallennus tilaa käytät OneDrivessa](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Opi [saamaan OneDrive-tallennus kiintiö käyttämällä PowerShelliä](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Microsoft antaa aluksi 1 TERATAVUN käyttäjää kohti, jonka ylläpitäjät voivat lisätä jopa 5 teratavu käyttäjää kohti. Lue, miten voit [määrittää oletusarvoisen tallennus tilan OneDrive-käyttäjille](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Opi [muuttamaan tietyn käyttäjän OneDrive-tallennus tilaa](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Katso [, miten yleiset järjestelmänvalvojat voivat määrittää OneDrive-tallennus kiintiö kaikille käyttäjille PowerShellin avulla](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [OneDrive for Business -tallennustilan hallinta](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Tietyn käyttäjän OneDrive-tallennustilan muuttaminen](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Oletusarvoisen tallennustilan määrittäminen OneDrive-käyttäjille](https://docs.microsoft.com/onedrive/set-default-storage-space)
