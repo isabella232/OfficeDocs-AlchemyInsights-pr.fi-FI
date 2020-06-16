@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676530"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750967"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Pakollinen Alkemia Header H1, H2: n eivät toimi.
-Alkemian kirjoittamisen parhaat käytännöt ja ohjeet:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Pakollinen Alchemy Header H1, H2: n eivät toimi."
+Alchemyn luontia koskevat parhaat käytännöt ja ohjeet:
 
-1. **Älä pese Alchemy Insights kansioihin**- tämä rikkoo URL-rakenne. Tutkimme tämän korjaamista.
-1. **AlchemyInsights-kansion** tiedostoissa on oltava pienet tiedostonimet, joissa on välilyöntejä varten välilyöntejä, kuten välilyöntejä varten. ***how-to-enable-litigation-hold***.
-    1. Sisällytä [alchemy-kumppaniportaalin](https://alchemyportal.azurewebsites.net) sääntötunnus tai ämpäritunnus ms.custom-kenttään. Ex. ***Ms.custom: 100021 (suomi)***
-1. Käytä muita metatietoja tämän tiedoston yläosassa mallina.
-1. Siirry [Alchemy Partner -portaalissa](https://alchemyportal.azurewebsites.net)kohtaan **Asiakasnäkökulman otsikko:** ja käytä sitä h1-otsikon lähtökohtana. 
+1. **Älä pesä Alchemy Oivalluksia kansioihin**- tämä rikkoo url-rakenne. Tutkimme tämän korjaamista.
+1. **AlchemyInsights-kansion** tiedostoissa on oltava pienet tiedostonimet, joissa on välilyöntejä ex. ***miten-to-enable-riita-oikeus -pidä***.
+    1. Sisällytä sääntötunnus tai säilötunnus [Alchemy Partner -portaalista](https://alchemyportal.azurewebsites.net) ms.custom-kenttään. Ex. ***ms.custom: 100021***
+1. Käytä mallina muita tämän tiedoston yläosassa olevia metatietoja.
+1. Siirry [Alchemy Partner -portaalissa](https://alchemyportal.azurewebsites.net) **asiakastietojen otsikko** -osioon ja käytä sitä H1-otsikon lähtökohtana. 
     > [!NOTE]
-    > Alkemia Oivalluksia on vain yksi H1 yläreunassa tai ne rikkoa tuotannossa. H2s ei tee joko niin käyttää **lihavoitu** tai muita käytäntöjä merkitä erillisiä osia.
-1. Täytä seuraavaksi leipäteksti käyttämällä luonnosmateriaalia Alchemy Rule -sivun Asiakastilastot-osassa.
-    1. Luettelomerkeillä varustetut luettelot ovat hienoja
+    > Alkemia Oivalluksia on oltava vain yksi H1 yläreunassa tai ne rikkovat tuotannossa. H2s ei hahmonnu, joten käytä **lihavointia** tai muita käytäntöjä eri osien merkitsemiseen.
+1. Täytä seuraavaksi leipäteksti käyttämällä Alchemy-sääntö-sivun Asiakastiedot-osion luonnosmateriaalia.
+    1. Luettelomerkeillä varustetut luettelot ovat kunnossa
     1. Myös numeroidut luettelot
-    1. **Lihavointi** ja *kursivointi* ovat-ok
-    1. Linkkien tulisi aina olla joko **"linkkejä web"/ ulkoinen** tai **syvä-linkkejä käyttöliittymän elementtejä**, ei sisäisiä linkkejä.
-    1. Kuvia ei tueta virallisesti tällä hetkellä, mutta se on etenemissuunnitelmassa.
+    1. **Lihavoitu** ja *kursivoitu* ovat-ok
+    1. Linkkien pitäisi aina olla joko **"linkkejä web"/ ulkoinen** TAI **syvä-linkkejä käyttöliittymän elementtejä,** ei sisäisiä linkkejä.
+    1. Kuvia ei virallisesti tueta tällä hetkellä, mutta se on etenemissuunnitelmassa.
 
-Ja tämä on oikeastaan jo hieman liian pitkä. Parhaat käytännöt ovat noin 400 merkkiä ---------------------------------
+Ja tämä on todella jo hieman liian pitkä. Paras käytäntö on noin 400 merkkiä ---------------------------------
 
 Kun sisältö on valmis, vedä se live-haaraan. Siirry sitten [Alchemy Partner -portaaliin](https://alchemyportal.azurewebsites.net) ja kirjoita tiedostonimi URL-kenttään. 
