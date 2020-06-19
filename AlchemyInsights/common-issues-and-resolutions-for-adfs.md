@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706198"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797968"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS:ien yleisiä ongelmia ja niiden ratkaisuja
 
 Liitetyn verkkotunnuksen määritys voidaan päivittää seuraavissa Microsoft Knowledgebase -tietokannan artikkeleissa kuvatulla tavalla.
 
-- [2713898](https://support.microsoft.com/help/2713898)  "Virhe avattaessa sivustoa" -virhe AD FS:stä, kun liitetty käyttäjä kirjautuu Office 365:een, Azureen tai Intuneen.
+- [ADFS Federation -sertifikaatti vanhenee](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191) "Pahoittelut, sisäänkirjautumisessa tapahtui virhe" ja virhe "80048163", kun liitetty käyttäjä yrittää kirjautua Office 365:een, Azureen tai Intuneen.
+- [2713898](https://support.microsoft.com/help/2713898) AD FS:n virhe , jonka vuoksi yhdistetty käyttäjä kirjautui Microsoft 365:een, Azureen tai Intuneen.
 
-- [2647020](https://support.microsoft.com/help/2647020)   "Pahoittelut, sisäänkirjautumisessa tapahtui virhe" ja virhe "80041317" tai "80043431", kun liitetty käyttäjä yrittää kirjautua Office 365:een, Azureen tai Intuneen.
+- [2535191](https://support.microsoft.com/help/2535191) "Valitettavasti, mutta sisäänkirjautumisessa on ongelmia" ja "80048163", kun liittoutunut käyttäjä yrittää kirjautua Microsoft 365:een, Azureen tai Intuneen.
 
-Lisätietoja löytyy artikkelista [Liitetyn verkkotunnuksen asetusten päivittäminen tai korjaaminen Office 365:ssä, Azuressa tai Intunessa](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+- [2647020](https://support.microsoft.com/help/2647020) "Anteeksi, mutta sisäänkirjautumisessa on ongelmia" ja "80041317" tai "80043431", kun liittoutunut käyttäjä yrittää kirjautua Microsoft 365:een, Azureen tai Intuneen.
+
+Lisätietoja on [ohjeaiheessa Yhdistetyn toimialueen asetusten päivittäminen tai korjaaminen Microsoft 365:ssä, Azuressa tai Intunessa](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
