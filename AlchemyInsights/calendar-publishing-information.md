@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506152"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840911"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="6e5be-102">Kalenterin julkaisutiedot</span><span class="sxs-lookup"><span data-stu-id="6e5be-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="38836-102">Kalenterin jakamisen ottaminen käyttöön Microsoft 365 -hallintakeskuksessa</span><span class="sxs-lookup"><span data-stu-id="38836-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="6e5be-103">Microsoft 365 -järjestelmänvalvojat voivat ottaa käyttöön tai poistaa käytöstä organisaation kalenterin julkaisemisen ja kalenterin jakamisen.</span><span class="sxs-lookup"><span data-stu-id="6e5be-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="6e5be-104">Lisätietoja on ohjeissa [Kalenterin julkaisemisen ottaminen käyttöön, jotta käyttäjät voivat jakaa tietoja,](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) ja [Kalenterien jakaminen ulkoisten käyttäjien kanssa](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="6e5be-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="38836-103">Valitse hallintakeskuksessa Asetukset **Settings**   >   **Org-asetukset**.</span><span class="sxs-lookup"><span data-stu-id="38836-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="38836-104">Valitse **Palvelut-välilehdessä** **Kalenteri**.</span><span class="sxs-lookup"><span data-stu-id="38836-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="38836-105">Valitse avautuvan **Kalenteri-sivun** kalenterisivulla, haluatko antaa käyttäjien jakaa kalenterinsa organisaatiosi ulkopuolisten henkilöiden kanssa, joilla on Microsoft 365 tai Exchange.</span><span class="sxs-lookup"><span data-stu-id="38836-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="38836-106">Valitse, haluatko sallia anonyymien käyttäjien (käyttäjät, joilla ei ole kirjautumistietoja) käyttää kalentereita sähköpostikutsun kautta.</span><span class="sxs-lookup"><span data-stu-id="38836-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="38836-107">Valitse, millaisia kalenteritietoja käyttäjät voivat käyttää.</span><span class="sxs-lookup"><span data-stu-id="38836-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="38836-108">Voit sallia kaikki tiedot tai rajoittaa ne vain aikaan tai aikaan, aiheen ja sijainnin mukaan.</span><span class="sxs-lookup"><span data-stu-id="38836-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="6e5be-105">Outlook-käyttäjät voivat jakaa omat kalenterinsa.</span><span class="sxs-lookup"><span data-stu-id="6e5be-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="6e5be-106">Lisätietoja on [ohjeaiheessa Outlook-kalenterin jakaminen muiden kanssa](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="6e5be-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="38836-109">Lisätietoja: [Kalenterien jakaminen ulkoisten käyttäjien kanssa](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="38836-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
