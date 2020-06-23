@@ -11,14 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: ae577b33c37d597477582c6e6ac45304548f97b4
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357574"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841068"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Sharepoint-asiakirjoja ei voi avata paikallisessa asiakasohjelmassa
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>SharePoint-tiedostoja ei voi avata paikallisessa asiakasohjelmassa
 
-Joskus office-tiedostojen ja SharePointin tiedostojen avaamisessa voi olla ongelmia paikallisissa Office-asiakasohjelmissa.
-- [Office-tiedostojen avaaminen SharePoint Onlinesta ei onnistu](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+Joskus office-tiedostojen ja -tiedostojen avaaminen SharePointista tai OneDrivesta voi olla vaikeaa paikallisilta Office-asiakkailta.
+
+- [Office-tiedostoja ei voi avata SharePointista tai OneDrivesta](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
