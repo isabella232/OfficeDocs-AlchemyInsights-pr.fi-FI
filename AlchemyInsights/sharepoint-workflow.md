@@ -1,5 +1,5 @@
 ---
-title: SharePointin työnkulkujen vianmääritys
+title: SharePointin työnkulkuihin liittyviä ongelmia
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162973"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138968"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>SharePointin työnkulkujen vianmääritys
+# <a name="troubleshoot-workflows-in-sharepoint"></a>SharePointin työnkulkuihin liittyviä ongelmia
 
 **SharePointin työnkulkujen vianmääritys ja virheenkorjaus**
 
-Lisätietoja on artikkelissa [SharePoint-työnkulun tarkistusvirheiden vianmääritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ja [SharePoint-työnkulkujen virheenkorjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Katso [SharePoint-työnkulun vahvistusvirheiden vianmääritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ja [SharePoint-työnkulkujen virheenkorjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
 **Virran automatisointi**
 
-Jos olet vasta aloittamassa työnkulkuja, harkitse [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) -toiminnon käyttämistä perinteisen SharePoint-työnkulkuratkaisujen sijaan.
+Jos olet vasta aloittamassa työnkulkujen käyttöä, harkitse [Power Automaten](https://docs.microsoft.com/power-automate/modern-approvals) käyttämistä klassisten SharePoint-työnkulkuratkaisujen sijaan.
+
+Lisätietoja on kohdassa [SharePoint-työnkulut eläkkeelle siirtymisen kohteeksi](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
