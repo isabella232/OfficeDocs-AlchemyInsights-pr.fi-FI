@@ -1,0 +1,38 @@
+---
+title: Tiedostot ja videot Yammerissa
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: fi-FI
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148257"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="1b5f5-102">Tiedostot ja videot Yammerissa</span><span class="sxs-lookup"><span data-stu-id="1b5f5-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="1b5f5-103">Tiedostot voidaan liittää Yammerin viesteihin tai ladata suoraan ryhmiin.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="1b5f5-104">Käyttökokemus vaihtelee hieman klassisen ja uuden Yammerin välillä, mutta tiedostot ladataan samoihin sijainteihin.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="1b5f5-105">Lisätietoja on [ohjeaiheessa Tiedoston tai kuvan liittäminen Yammer-viestiin](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span><span class="sxs-lookup"><span data-stu-id="1b5f5-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="1b5f5-106">Kun käyttäjillä on ongelmia, kokeile lataamista toisesta selaimesta tai laitteesta.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="1b5f5-107">Käytä nopeinta verkkoyhteyttä ja viimeisintä saatavilla olevaa selainta.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="1b5f5-108">Uuden selainikkunan avulla voit kirjautua uudelleen sisään, jotta voit varmistaa, että oikeat Azure AD -tunnukset ovat käytettävissä.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="1b5f5-109">Videolataukset Yammeriin edellyttävät lataamista ja koodausta.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="1b5f5-110">Lisätietoja on kohdassa [Yammerin videojulkaisut lataamalla ja koodaamalla erikseen](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span><span class="sxs-lookup"><span data-stu-id="1b5f5-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="1b5f5-111">Videon koodauksesta riippuen koodaus voi kestää aikaa.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="1b5f5-112">Voit ladata jakamiasi videoita Microsoft [Streamin](https://docs.microsoft.com/stream/overview) avulla Microsoft 365:ssä.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="1b5f5-113">**Tiedostojen ja kuvien lataamisen rajoittaminen**</span><span class="sxs-lookup"><span data-stu-id="1b5f5-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="1b5f5-114">Yammer sallii oletusarvoisesti kaikkien tiedostotyyppien lataamisen.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="1b5f5-115">Järjestelmänvalvojat voivat muuttaa asetuksia estääkseen tiedostojen lataamisen Yammeriin.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="1b5f5-116">Lisätietoja on ohjeaiheessa [Tiedostojen lataaminen ja tiedostomuotojen rajoittaminen](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span><span class="sxs-lookup"><span data-stu-id="1b5f5-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="1b5f5-117">Yammerissa on käytettävissä liittyvä asetus GIF-tiedostojen rajoittamiseen.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="1b5f5-118">Lisätietoja on [ohjeaiheessa Tenorin GIF-tiedostojen salliminen viesteissä](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span><span class="sxs-lookup"><span data-stu-id="1b5f5-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="1b5f5-119">**Yammer-tiedostojen tallennus**</span><span class="sxs-lookup"><span data-stu-id="1b5f5-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="1b5f5-120">Yammer on integroitu Microsoft 365:iin ja käyttää SharePoint Onlinea tiedostojen lataamiseen.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="1b5f5-121">Lisätietoja on kohdassa [Yammer-tiedostojen tallennuksen yleiskatsaus](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span><span class="sxs-lookup"><span data-stu-id="1b5f5-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="1b5f5-122">Parhaan käyttökokemuksen saat siirtää tiedostoja SharePoint Onlineen määrittämällä Yammer-verkon natiivitilaa varten.</span><span class="sxs-lookup"><span data-stu-id="1b5f5-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="1b5f5-123">Lisätietoja on kohdassa [Yleistä natiivitilasta](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span><span class="sxs-lookup"><span data-stu-id="1b5f5-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
