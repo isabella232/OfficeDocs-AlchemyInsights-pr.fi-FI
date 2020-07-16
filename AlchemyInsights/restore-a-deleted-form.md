@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "41969399"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148034"
 ---
 # <a name="restore-a-deleted-form"></a>Poistetun lomakkeen palauttaminen
 
-Jos olet vahingossa poistanut lomakkeen Microsoft Formsista, voit palauttaa sen. Kirjaudu Microsoft Formsiin poistetun lomakkeen omistajana. Valitse **roskakori,** valitse palautettava lomake ja valitse **Palauta**. Kun lomakeon palautettu, valitse **Palaa lomakkeisiin -sivun** nuoli.
+Jos poistit lomakkeen Microsoft Formsissa vahingossa, voit palauttaa sen. Kirjaudu Microsoft Formsiin poistetun lomakkeen omistajana. Valitse **roskakori,** valitse palautettava lomake ja valitse **Palauta**. Kun olet palauttanut, valitse **Takaisin lomakkeisiin -sivunuoli.**
 
-Vain lomakkeen omistaja voi palauttaa sen. Jos lomakkeen omistajan tili on poistettu käytöstä tai poistettu vuokraajasta, vain yleinen järjestelmänvalvoja voi palauttaa lomakkeen. Yleisen järjestelmänvalvojan on oltava Lomakkeet-käyttöoikeus, jotta se voi suorittaa palautuksen. Vain lomakkeet, jotka on luotu 30 päivän kuluessa käyttäjätilin poistamisesta käytöstä tai poistamisesta vuokraajasta, voidaan palauttaa.
+Vain lomakkeen omistaja voi palauttaa sen. Jos lomakkeen omistajan tili on poistettu käytöstä tai poistettu vuokraajasta, vain yleinen järjestelmänvalvoja voi palauttaa lomakkeen. Yleisellä järjestelmänvalvojalla on oltava lomakekäyttöoikeus, jotta hän voi suorittaa palautuksen. Vain lomakkeet, jotka on luotu 30 päivän kuluessa siitä, kun käyttäjätili on poistettu käytöstä tai poistettu vuokraajasta, voidaan palauttaa.
 
-Jos olet vuokraajan yleinen järjestelmänvalvoja ja haluat palauttaa lomakkeen tililtä, joka on poistettu tai poistettu käytöstä, korvaa [sähköpostiosoite] poistetun tai käytöstä poistetun käyttäjän sähköpostiosoitteella seuraavassa URL-osoitteessa: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** ** https://forms.office.com/Pages/delegatepage.aspx?originalowner=[sähköpostiosoite]** Jos sähköpostiosoitteesi on esimerkiksi johndoe@contoso.com, URL-osoite on: . 
+Jos olet vuokraajan yleinen järjestelmänvalvoja ja haluat palauttaa lomakkeen poistetulta tai käytöstä poistetulta tililtä, korvaa [sähköpostiosoite] poistetun tai käytöstä poistetun käyttäjän sähköpostiosoitteella seuraavassa URL-osoitteessa: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [sähköpostiosoite]** Jos sähköpostiosoitteesi on esimerkiksi johndoe@contoso.com, URL-osoite on: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Kun sinulla on käyttäjän poistettujen lomakkeiden käyttöoikeus, valitse siirrettävä lomake ja valitse sitten **Lisää lomaketoimintoja** > **Siirrä**.
+Kun olet voinut käyttää käyttäjän poistettuja lomakkeita, valitse siirrettävä lomake ja valitse sitten **Lisää lomaketoimintoja**  >  **.**
 
-Jos haluat palauttaa lomakkeen, jossa se on poistettu ja käyttäjä poistettiin organisaatiosta, yleinen järjestelmänvalvoja voi halutessaan palauttaa käyttäjän Office 365:ssä, palauttaa kyseisen käyttäjän salasanan ja siirtää sen sitten sisään käyttäjänä. aktiiviselle käyttäjälleen. 
+Jos haluat palauttaa lomakkeen, jossa se on poistettu ja käyttäjä on poistettu organisaatiosta, yleinen järjestelmänvalvoja voi halutessaan palauttaa käyttäjän, palauttaa kyseisen käyttäjän salasanan ja sitten kirjautuneena sisään kyseisenä käyttäjänä, voit siirtää sen toiselle aktiiviselle käyttäjälle lomakkeella. 
