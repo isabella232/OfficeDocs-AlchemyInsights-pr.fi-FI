@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705802"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205300"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Yhteyden muodostaminen Exchange Online PowerShelliin, kun mfa on käytössä
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Yhteyden muodostaminen Exchange Online PowerShelliin, kun MFA on käytössä
 
-Jos tililläsi on käytössä monivaiheinen todennus (MFA), sinun on muodostettava yhteys Exchange Online PowerShelliin seuraavasti: [Muodosta yhteys Exchange Online PowerShelliin monivaiheisen todennuksen avulla.](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
-
-**Huomautus:** Vaikka olisit aiemmin muodostanut yhteyden Exchange Online PowerShelliin [tavallisten yhteysohjeiden](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)avulla, sinun on käytettävä mfa-yhteysohjeita sen jälkeen, kun mfa on otettu käyttöön tililläsi.
+Jos tilisi monivaiheinen todennus (MFA) on käytössä, sinun on muodostettava yhteys Exchange Online PowerShelliin noudattamalla seuraavia ohjeita: [Käytä Exchange Online PowerShelliä nykyaikaisen todennuksen kanssa V2-moduulin avulla](https://aka.ms/exops-docs). Etsi mfa / multi factor authentication ohjeet kyseisellä sivulla.
