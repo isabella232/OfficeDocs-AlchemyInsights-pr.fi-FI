@@ -2,8 +2,8 @@
 title: Milloin laskutuslausunto luodaan?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510389"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431214"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Milloin laskutuslausunto luodaan
 
-Saat joka kuukausi sähköpostiviestin, jossa kerrotaan, että uusi laskutuslausunto on saatavilla Microsoft 365 -hallintakeskuksessa. Laskussa on kaksi sivua. Sivu 1 on laskun yhteenveto, ja se sisältää yleisiä tietoja laskusta, tilauksesta, erääntyvästä summasta, maksun suorittamisesta ja yhteyden otosta tukeen. Sivu 2 sisältää tietoja kunkin tilauksen laskutustoimista.
+Tiliotteen päivämääräksi määritetään tilisi luomisen jälkeinen kuukausipäivä. Jos esimerkiksi loit tilisi 20.1.
+
+Aktiivisen laskutusjakson aikana syntyvät lisämaksut sisällytetään seuraavan kuukauden laskuun. Kunkin laskun laskutusjakson alkamis- ja päättymispäivät näkyvät laskun **laskutusyhteenvedossa.**
+
+Luottokortti- ja/tai pankkitilimaksut (tarvittaessa) selvitetään **laskun päivämäärää**seuraavana päivänä.
   
-Lisätietoja laskutuskäsitteistä on ohjeaiheessa [Laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Lisätietoja on ohjeaiheessa [Laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
