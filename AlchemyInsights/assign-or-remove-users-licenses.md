@@ -1,5 +1,5 @@
 ---
-title: Käyttäjien käyttöoikeuksien määrittäminen tai poistaminen
+title: Käyttö oikeuksien määrittäminen tai poistaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506368"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603407"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="af678-102">Käyttäjien käyttöoikeuksien määrittäminen tai poistaminen</span><span class="sxs-lookup"><span data-stu-id="af678-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-user-licenses"></a><span data-ttu-id="1411a-102">Käyttö oikeuksien määrittäminen tai poistaminen</span><span class="sxs-lookup"><span data-stu-id="1411a-102">Assign or remove user licenses</span></span>
 
-<span data-ttu-id="af678-103">Järjestelmänvalvojana voit tarvittaessa säätää käyttäjien käyttöoikeuksia.</span><span class="sxs-lookup"><span data-stu-id="af678-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="af678-104">Alla olevissa artikkeleissa kerrotaan, miten voit hallita käyttäjien käyttöoikeuksia, mukaan lukien:</span><span class="sxs-lookup"><span data-stu-id="af678-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="1411a-103">Järjestelmänvalvojana voit säätää käyttäjien käyttö oikeuksia tarpeen mukaan.</span><span class="sxs-lookup"><span data-stu-id="1411a-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="1411a-104">Seuraavissa artikkeleissa kerrotaan, miten voit hallita käyttö oikeuksia:</span><span class="sxs-lookup"><span data-stu-id="1411a-104">These articles show you how to manage your user licenses:</span></span>
   
-- [<span data-ttu-id="af678-105">Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa</span><span class="sxs-lookup"><span data-stu-id="af678-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="1411a-105">Käyttö oikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa</span><span class="sxs-lookup"><span data-stu-id="1411a-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [<span data-ttu-id="af678-106">Microsoft 365 for Business -käyttäjien käyttöoikeuksien määrittäminen</span><span class="sxs-lookup"><span data-stu-id="af678-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="1411a-106">Käyttö oikeuksien määrityksen poistaminen käyttäjiltä Microsoft 365 for Businessissa</span><span class="sxs-lookup"><span data-stu-id="1411a-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-<span data-ttu-id="af678-107">Etkö vastannut kysymykseesi?</span><span class="sxs-lookup"><span data-stu-id="af678-107">Didn't answer your question?</span></span> <span data-ttu-id="af678-108">Ei hätää!</span><span class="sxs-lookup"><span data-stu-id="af678-108">No problem!</span></span> <span data-ttu-id="af678-109">Käytä "Tarvitset apua"-painiketta puhua tukihenkilö.</span><span class="sxs-lookup"><span data-stu-id="af678-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="1411a-107">Etkö vastannut kysymykseesi?</span><span class="sxs-lookup"><span data-stu-id="1411a-107">Didn't answer your question?</span></span> <span data-ttu-id="1411a-108">Ei hätää!</span><span class="sxs-lookup"><span data-stu-id="1411a-108">No problem!</span></span> <span data-ttu-id="1411a-109">Käytä "Tarvitsetko apua"-painiketta, jos haluat keskustella tuki insinöörin kanssa.</span><span class="sxs-lookup"><span data-stu-id="1411a-109">Use the "Need help" button to talk to a support engineer.</span></span>
