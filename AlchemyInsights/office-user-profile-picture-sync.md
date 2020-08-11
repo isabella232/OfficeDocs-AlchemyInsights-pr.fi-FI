@@ -1,5 +1,5 @@
 ---
-title: Käyttäjän profiilikuvan synkronointi
+title: Käyttäjän profiili kuvan synkronointi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,28 +7,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 22703dba5865cdac6c9df3e8c7ab2eeec44968cb
+ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761523"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616823"
 ---
-# <a name="sync-a-users-profile-picture"></a>Käyttäjän profiilikuvan synkronointi
+# <a name="sync-a-users-profile-picture"></a>Käyttäjän profiili kuvan synkronointi
 
-Voit lisätä tai muuttaa profiilikuvaasi Microsoft 365:ssä Office.com tai käyttäessäsi Microsoft-sovelluksia tietokoneessa tai puhelimen selaimessa. Valokuvasi näkyy kaikkialla, missä Microsoft 365:ssä on profiilikuvaympyrä.
+Voit lisätä tai vaihtaa profiili kuvasi Microsoft 365-sovelluksessa osoitteesta Office.com tai käyttäessäsi Microsoft-sovelluksia tieto koneessasi tai selaimessa puhelimessasi. Valo kuvasi näkyy kaikkialla, missä Microsoft 365-sovelluksessa on profiili kuva ympyrä.
 
-Profiilikuvan lisääminen Microsoft 365 for Businessiin
+Voit lisätä profiili kuvasi Microsoft 365 for Businessiin seuraavasti:
 
-- Etsi valokuva, jota haluat käyttää, ja tallenna se tietokoneeseen, OneDriveen tai muuhun sijaintiin, johon voit käyttää.
+1. Etsi valo kuva, jota haluat käyttää, ja tallenna se tieto koneeseesi, OneDriveen tai muuhun sijaintiin, johon pääset.
 
-- Kirjaudu Microsoft 365:een työpaikan tai oppilaitoksen tilillä [osoitteessa office.com](https://www.office.com).
+2. Kirjaudu sisään Microsoft 365 työpaikan tai oppi laitoksen tilillä osoitteessa [Office.com](https://www.office.com).
 
-- Valitse sivun oikeasta yläkulmasta ympyrä, jossa näkyvät nimikirjaimesi tai henkilön kuvake.
+3. Valitse sivun oikeassa yläkulmassa oleva ympyrä, jossa näkyvät nimi kirjaimet tai henkilön kuvake.
 
-Valitse Omat tilit -ruudussa ympyrä, jossa näkyvät nimikirjaimesi tai henkilön kuvake. Vaihda valokuva näkyviin tulevassa ponnahdusikkunassa.
+4. Valitse omat asiakkaat-ruudussa ympyrä, jossa näkyvät nimi kirjaimet tai henkilön kuvake. Vaihda valo kuva näkyviin tulevassa ponnahdus ikkunassa.
 
-Huomautus: Jos olet jo ladannut kuvan, voit yrittää synkronoida kuvan uudelleen napsauttamalla SharePoint- tai OneDrive-ruutua.
+**Huomautus** Jos olet jo ladannut kuvan, sinun kannattaa yrittää valita SharePoint-tai OneDrive-ruutu, jotta voit synkronoida kuvan uudelleen.
 
-Lisätietoja on ohjeaiheessa [Profiilikuvien synkronoinnin tiedot Microsoft 365:ssä](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+Jos käyttäjien profiili kuva näkyy eri tavalla SharePointissa muihin Microsoft-sovelluksiin verrattuna, käyttäjän on suoritettava nämä vaiheet:
+
+1. Avaa yksityinen (InPrivate/incognito)-selain istunto.
+2. Siirry osoitteeseen [https://www.office.com](https://www.office.com/).
+3. Valitse SharePoint-kuvake.
+4. Siirry sivustoon tai sivuun, jossa valo kuvaa ei päivitetä, tai sivu, jossa käyttäjä kuuluu henkilö-verkko-osaan.
+
+Lisä tietoja on Ohje aiheessa [tietoja profiili kuvan synkronoinnista Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)-sovelluksessa.
 
