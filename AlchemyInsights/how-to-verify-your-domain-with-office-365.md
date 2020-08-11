@@ -1,5 +1,5 @@
 ---
-title: 'Toimialueen vahvistaminen '
+title: 'Toimi alueen vahvistaminen '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509021"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634303"
 ---
-# <a name="how-to-verify-your-domain"></a>Toimialueen vahvistaminen
+# <a name="how-to-verify-your-domain"></a>Toimi alueen vahvistaminen
 
-Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun, jotta voit varmistaa, että omistat toimialueesi. Noudata ensin [ohjattua toimialueen lisäämistoimintoa](https://portal.office.com/adminportal/home#/Domains/Wizard) valitsemalla **Setup** \> **Asennustoimialueet**ja sitten **Lisää toimialue**.
-  
-Lisää TXT-tietue toimialueen vahvistamiseksi noudattamalla kohdan [DNS-tietueiden luominen missä tahansa DNS-isännöintipalvelussa](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) annettuja ohjeita.
+Voit vahvistaa toimi alueen noudattamalla [ohjattua toimi alueen lisäämistä](https://portal.office.com/adminportal/home#/Domains/Wizard)tai siirtymällä manuaalisesti **Asetukset**-toimi  >  **alueiden**  >  **lisäämiseen**.
 
-Muiden toimialueiden ongelmat kokeile [Verkkotunnuksia koskevia usein kysyttyjä kysymyksiä](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Lisä tietoja TXT-tietueen lisäämisestä toimi alueen tarkistamiseen on artikkelissa [toimi alueen yhdistäminen DNS-tietueiden lisääminen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)-kohdassa annettujen ohjeiden mukaisesti.
+
+Lisä tietoja muista toimi alueista on kohdassa [toimi alueiden usein kysytyt](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)kysymykset.
