@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655279"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665495"
 ---
-# <a name="data-location"></a><span data-ttu-id="8a605-102">Tietojen sijainti</span><span class="sxs-lookup"><span data-stu-id="8a605-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="a5485-102">Tietojen sijainti</span><span class="sxs-lookup"><span data-stu-id="a5485-102">Data location</span></span>
 
-<span data-ttu-id="8a605-103">Voit tarkastella vuokraajan sijaintia hallintakeskuksessa tai muodostamalla yhteyden Exchange Onlineen PowerShellin kautta.</span><span class="sxs-lookup"><span data-stu-id="8a605-103">You can view the location of your tenant in the admin center or by connecting to Exchange Online via PowerShell.</span></span>
+<span data-ttu-id="a5485-103">Voit tarkastella vuokra ajan sijaintia hallinta keskuksessa siirtymällä [ **organisaation profiili** sivulle](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) ja valitsemalla **tietojen sijainti**.</span><span class="sxs-lookup"><span data-stu-id="a5485-103">You can view the location of your tenant in the admin center by navigating to the [**Organization profile** page](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) and selecting  **Data Location**.</span></span>
 
-
-<span data-ttu-id="8a605-104">**Hallintakeskus:**</span><span class="sxs-lookup"><span data-stu-id="8a605-104">**Admin center:**</span></span>
-1. <span data-ttu-id="8a605-105">Kirjaudu [hallintakeskukseen](https://admin.microsoft.com/Adminportal/Home).</span><span class="sxs-lookup"><span data-stu-id="8a605-105">Log in to the [admin center](https://admin.microsoft.com/Adminportal/Home).</span></span>
-2. <span data-ttu-id="8a605-106">Valitse **Asetukset** > **Organisaatioprofiili**.</span><span class="sxs-lookup"><span data-stu-id="8a605-106">Select **Settings** > **Organization profile**.</span></span>
-3. <span data-ttu-id="8a605-107">Valitse **Tietojen sijainti**-kohdassa Näytä **tiedot**.</span><span class="sxs-lookup"><span data-stu-id="8a605-107">Under **Data location**, select **View details**.</span></span>
-
-
-<span data-ttu-id="8a605-108">**Powershell:**</span><span class="sxs-lookup"><span data-stu-id="8a605-108">**PowerShell:**</span></span>
-1. <span data-ttu-id="8a605-109">Muodosta yhteys Exchange Onlineen Windows PowerShellin avulla.</span><span class="sxs-lookup"><span data-stu-id="8a605-109">Connect to Exchange Online by using Windows PowerShell.</span></span>
-2. <span data-ttu-id="8a605-110">Suorita [Get-OrganizationalUnit-cmdlet-komento,](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) jolloin näkyviin tulee luettelo vuokraajan ominaisuuksista.</span><span class="sxs-lookup"><span data-stu-id="8a605-110">Execute the [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet to display a list of your tenant's properties.</span></span> 
-3. <span data-ttu-id="8a605-111">Katso OrganizationId-ominaisuutta.</span><span class="sxs-lookup"><span data-stu-id="8a605-111">Look at the OrganizationId property.</span></span>
-
-<span data-ttu-id="8a605-112">Kun sinulla on EXO:n ja SPO:n tietosijainti, voit määrittää muiden palveluiden tietosijainnin, jota voit käyttää [kohdasta Missä tietosi sijaitsevat](https://products.office.com/where-is-your-data-located).</span><span class="sxs-lookup"><span data-stu-id="8a605-112">When you have the data location for EXO and SPO, you can determine the data location for other services you may use from [Where your data is located](https://products.office.com/where-is-your-data-located).</span></span>
+<span data-ttu-id="a5485-104">Lisä tietoja sovelluksista, joita et ole tilannut, [on kohdassa Microsoft 365-asiakas tietojen tallennus paikka](https://docs.microsoft.com/office365/enterprise/o365-data-locations).</span><span class="sxs-lookup"><span data-stu-id="a5485-104">For applications that you're not subscribed to, see [Where your Microsoft 365 customer data is stored](https://docs.microsoft.com/office365/enterprise/o365-data-locations).</span></span>
