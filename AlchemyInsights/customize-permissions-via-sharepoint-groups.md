@@ -1,7 +1,7 @@
 ---
-title: SharePoint-sivuston käyttöoikeuksien mukauttaminen SharePoint-ryhmien avulla
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint-sivuston käyttö oikeuksien mukauttaminen SharePoint-ryhmien avulla
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 41a9279781601c8e7747d079a70e4905cdcfdcc2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 49a2ac93bf146f4f134785fffc536101a3f91fcf
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705154"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786202"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>SharePoint-sivuston käyttöoikeuksien mukauttaminen SharePoint-ryhmien avulla 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>SharePoint-sivuston käyttö oikeuksien mukauttaminen SharePoint-ryhmien avulla 
 
-SharePoint-ryhmä on kokoelma käyttäjiä, joilla kaikilla on samat käyttöoikeudet sivustoihin ja sisältöön. Sen sijaan, että määrittäisit käyttöoikeudet yksi henkilö kerrallaan, voit käyttää ryhmiä, kun haluat määrittää saman käyttöoikeustason kätevästi useille henkilöille kerralla.
+SharePoint-ryhmä on kokoelma käyttäjiä, joilla kaikilla on samat käyttö oikeudet sivustolle ja sisällölle. Käyttö oikeuksien määrittäminen yhdelle henkilölle kerrallaan voit määrittää saman käyttö oikeus tason kätevästi useille henkilöille yhtä aikaa ryhmien avulla.
 
-[SharePoint-sivuston käyttöoikeuksien mukauttaminen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+[SharePoint-sivuston käyttö oikeuksien mukauttaminen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

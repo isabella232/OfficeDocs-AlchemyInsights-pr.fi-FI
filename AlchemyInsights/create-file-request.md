@@ -1,7 +1,7 @@
 ---
-title: Tiedostopyynnön luominen
-ms.author: v-todmc
-author: todmccoy
+title: Tiedosto pyynnön luominen
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 933681a19d8128c49ed1ddf4494b64d46c12a5f9
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235258"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785986"
 ---
-# <a name="how-to-create-a-file-request"></a>Tiedostopyynnön luominen
+# <a name="how-to-create-a-file-request"></a>Tiedosto pyynnön luominen
 
-OneDriven tiedostopyyntöominaisuuden avulla voit valita kansion, johon muut voivat ladata tiedostoja lähettämäsi linkin avulla. Käyttäjät, joista pyydät tiedostoja, eivät näe kansion tietoja – he voivat ladata siihen vain tiedostoja.
+OneDriven tiedosto pyyntö-toiminnon avulla voit valita kansion, johon muut voivat ladata tiedostoja, käyttämällä linkkiä, jonka lähetät heille. Käyttäjät, joilta pyydät tiedostoja, eivät näe kansiossa olevia tietoja – he voivat ladata tiedostoja vain siihen.
 
-**Huomautus**: Järjestelmänvalvojan on otettava käyttöön [Kuka tahansa -linkit](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) OneDrivessa, jotta tiedostopyynnöt toimisin.
+**Huomautus**: järjestelmänvalvojan on otettava käyttöön [käyttäjät](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) , jotka voivat käyttää OneDrive-tiedosto pyyntöjä.
 
-- Lisätietoja on kohdassa [Tiedostopyynnön luominen](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Lisä tietoja on Ohje aiheessa [tiedosto pyynnön luominen](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

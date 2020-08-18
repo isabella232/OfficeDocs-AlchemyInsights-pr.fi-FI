@@ -1,7 +1,7 @@
 ---
-title: SharePoint-käyttöoikeustasojen käyttäminen
-ms.author: v-todmc
-author: todmccoy
+title: SharePointin käyttö oikeus tasojen käyttö
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e0a3270af310e25cd7b8b37faccbd29214ea4b47
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705478"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786382"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>SharePoint-käyttöoikeustasojen käyttäminen
+# <a name="working-with-sharepoint-permission-levels"></a>SharePointin käyttö oikeus tasojen käyttö
 
-SharePointissa on oletuskäyttöoikeustasot, joita voit käyttää, kuten **Osallistu** ja **Näytä vain**. Mutta jos jokin näistä ei vastaa tarpeitasi, voit luoda uuden käyttöoikeustason. Muista, että käyttöoikeustasojen seuraaminen on helpompaa, jos oletusarvoja ei muuteta.
+SharePointissa on käytössä oletusarvoiset käyttö oikeus tasot, kuten **osallistuja** ja **vain tarkastelu**. Jos jokin näistä ei vastaa tarpeitasi, voit luoda uuden käyttö oikeus tason. Muista, että käyttö oikeus tasoja on helpompi seurata, jos oletus arvoja ei ole muutettu.
 
-[Käyttöoikeustasojen luominen ja muokkaaminen](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Käyttö oikeus tasojen luominen ja muokkaaminen](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

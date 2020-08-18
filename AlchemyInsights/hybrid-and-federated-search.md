@@ -1,7 +1,7 @@
 ---
-title: Hybridi-ja Federated Search
-ms.author: v-todmc
-author: todmccoy
+title: Yhdistelmä-ja liittoutunut haku
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768976"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787174"
 ---
-# <a name="hybrid-and-federated-searches"></a>Hybridi-ja Federated haut 
+# <a name="hybrid-and-federated-searches"></a>Yhdistelmä-ja liittoutumis haut 
 
-Lisä tietoja hybridi-ja Federated Search in SharePoint Onlinessa on kohdassa [SharePoint-hybridi haku](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Lisä tietoja yhdistelmä hausta ja organisaation ulkopuolisen haun käytöstä SharePoint Onlinessa on kohdassa [yhdistelmä haku SharePointissa](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-Lisä tietoja hybridi-Federated Search-ohjelman suunnittelusta on kohdassa [Suunnittele Hybrid Federated Search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+Lisä tietoja yhdistelmä ympäristön ulkopuolisen haun suunnittelusta on Ohje aiheessa [yhdistelmä ympäristön ulkopuolisen haun suunnitteleminen SharePoint Serverissä](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).

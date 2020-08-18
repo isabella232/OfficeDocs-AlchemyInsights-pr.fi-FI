@@ -1,7 +1,7 @@
 ---
 title: SharePoint-kalenterin lisääminen
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 0668ed8270e9b70f17dd7f0cf87386fec95fda99
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911001"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786724"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint-kalenterin lisääminen
 
-SharePoint-kalenterit ovat klassisia luettelotyyppejä, jotka joskus sekoitetaan Microsoft 365 -ryhmäkalentereisiin.
+SharePoint-kalenterit ovat klassisia luettelon tyyppejä, jotka sekoitetaan toisinaan Microsoft 365-ryhmä kalentereihin.
  
-Voit luoda SharePoint-kalenterin seuraavasti:
+Jos haluat luoda SharePoint-kalenterin, toimi seuraavasti:
  
-1.  Valitse **Asetukset-rataskuvake** ja valitse sitten **Lisää sovellus**.
-2.  Kirjoita **Etsi sovellus** -hakuruutuun **Kalenteri** ja paina Enter-näppäintä.
-3.  Valitse kalenteri -niminen sovellus ja kirjoita sitten kalenterin nimi. **Calendar**
+1.  Valitse **Asetukset** -hammas ratas kuvake ja valitse sitten **Lisää sovellus**.
+2.  Kirjoita **Etsi sovellus** haku-ruutuun **kalenteri** ja paina ENTER-näppäintä.
+3.  Valitse **kalenteri**-niminen sovellus ja kirjoita sitten kalenterin nimi.
 
-Lisätietoja Microsoft 365 -ryhmistä on ohjeaiheessa [Lisätietoja Microsoft 365 -ryhmistä](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Lisä tietoja Microsoft 365-ryhmistä on artikkelissa [lisä tietoja microsoft 365-ryhmistä](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
