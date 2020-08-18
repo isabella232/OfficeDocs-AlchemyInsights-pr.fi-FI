@@ -1,5 +1,5 @@
 ---
-title: SharePoint-sivuston luominen
+title: Luo ja Muokkaa nykyaikaisia sivuja SharePoint-sivustossa
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "2407"
 - "9000246"
-ms.openlocfilehash: 9cb0597c892d263a1757247e54ce260b6172e4ad
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 725de4832982cdebbfab76610ced3bee8a24a574
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534807"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786094"
 ---
-# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a><span data-ttu-id="36e75-102">SharePoint-sivuston nykyaikaien sivujen luominen ja muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="36e75-102">Create and edit modern pages on a SharePoint site</span></span>
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a><span data-ttu-id="2d2cc-102">Luo ja Muokkaa nykyaikaisia sivuja SharePoint-sivustossa</span><span class="sxs-lookup"><span data-stu-id="2d2cc-102">Create and edit modern pages on a SharePoint site</span></span>
 
-<span data-ttu-id="36e75-103">Voit muokata tiedostoja ja sivuja nopeasti ja helposti, ja ne näyttävät upeilta millä tahansa laitteella.</span><span class="sxs-lookup"><span data-stu-id="36e75-103">You can edit files and pages quickly and easily, and they look great on any device.</span></span> <span data-ttu-id="36e75-104">Lisätietoja saat alla olevista linkeistä.</span><span class="sxs-lookup"><span data-stu-id="36e75-104">For more information, please visit the links below.</span></span>
+<span data-ttu-id="2d2cc-103">Voit muokata tiedostoja ja sivuja nopeasti ja helposti, ja ne näyttävät hyvältä millä tahansa laitteella.</span><span class="sxs-lookup"><span data-stu-id="2d2cc-103">You can edit files and pages quickly and easily, and they look great on any device.</span></span> <span data-ttu-id="2d2cc-104">Lisätietoja saat alla olevista linkeistä.</span><span class="sxs-lookup"><span data-stu-id="2d2cc-104">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="36e75-105">SharePoint-sivuston nykyaikaien sivujen luominen ja muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="36e75-105">Create and edit modern pages on a SharePoint site</span></span>](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- [<span data-ttu-id="36e75-106">Sharepoint-sivuston klassikkosivujen luominen ja muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="36e75-106">Create and edit classic pages on a Sharepoint Site</span></span>](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
-- <span data-ttu-id="36e75-107">[Asiakirjoja ei voi muokata selaimessa](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span><span class="sxs-lookup"><span data-stu-id="36e75-107">[Unable to edit documents in browser](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span></span>
-- [<span data-ttu-id="36e75-108">Asiakirjan muokkaaminen asiakirjakirjastossa</span><span class="sxs-lookup"><span data-stu-id="36e75-108">Edit a document in a document library</span></span>](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
-- [<span data-ttu-id="36e75-109">Tiedostotyypit, joita tuetaan tiedostojen esikatselussa OneDrivessa, SharePointissa ja Teamsissa</span><span class="sxs-lookup"><span data-stu-id="36e75-109">File types supported for previewing files in OneDrive, SharePoint, and Teams</span></span>](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
-- [<span data-ttu-id="36e75-110">Virheelliset tiedostonimet ja tiedostotyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa</span><span class="sxs-lookup"><span data-stu-id="36e75-110">Invalid file names and file types in OneDrive, OneDrive for Business, and SharePoint</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [<span data-ttu-id="2d2cc-105">Luo ja Muokkaa nykyaikaisia sivuja SharePoint-sivustossa</span><span class="sxs-lookup"><span data-stu-id="2d2cc-105">Create and edit modern pages on a SharePoint site</span></span>](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [<span data-ttu-id="2d2cc-106">Perinteisten sivujen luominen ja muokkaaminen SharePoint-sivustossa</span><span class="sxs-lookup"><span data-stu-id="2d2cc-106">Create and edit classic pages on a Sharepoint Site</span></span>](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
+- <span data-ttu-id="2d2cc-107">[Tiedostoja ei voi muokata selaimessa](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span><span class="sxs-lookup"><span data-stu-id="2d2cc-107">[Unable to edit documents in browser](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).</span></span>
+- [<span data-ttu-id="2d2cc-108">Asia kirjan muokkaaminen tiedosto kirjastossa</span><span class="sxs-lookup"><span data-stu-id="2d2cc-108">Edit a document in a document library</span></span>](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
+- [<span data-ttu-id="2d2cc-109">Tiedostojen esikatselun tukemat tiedosto tyypit OneDrivessa, SharePointissa ja Teamsissa</span><span class="sxs-lookup"><span data-stu-id="2d2cc-109">File types supported for previewing files in OneDrive, SharePoint, and Teams</span></span>](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- [<span data-ttu-id="2d2cc-110">Virheelliset tiedosto nimet ja tiedosto tyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa</span><span class="sxs-lookup"><span data-stu-id="2d2cc-110">Invalid file names and file types in OneDrive, OneDrive for Business, and SharePoint</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)

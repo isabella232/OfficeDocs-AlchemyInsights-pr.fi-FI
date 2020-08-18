@@ -1,7 +1,7 @@
 ---
-title: Peittokuvan lisääminen SharePoint-kalenteriin
-ms.author: v-todmc
-author: todmccoy
+title: Peiton lisääminen SharePoint-kalenteriin
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 08b3cc8539e36f1babaa9c6949ac9b71fdae0591
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908845"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786814"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a><span data-ttu-id="dec9b-102">Peittokuvan lisääminen SharePoint-kalenteriin</span><span class="sxs-lookup"><span data-stu-id="dec9b-102">Adding an Overlay to a SharePoint calendar</span></span>
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a><span data-ttu-id="f2a5e-102">Peiton lisääminen SharePoint-kalenteriin</span><span class="sxs-lookup"><span data-stu-id="f2a5e-102">Adding an Overlay to a SharePoint calendar</span></span>
 
-<span data-ttu-id="dec9b-103">SharePoint-kalenterit ovat klassisia luettelotyyppejä, jotka joskus sekoitetaan Microsoft 365 -ryhmäkalentereisiin.</span><span class="sxs-lookup"><span data-stu-id="dec9b-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
+<span data-ttu-id="f2a5e-103">SharePoint-kalenterit ovat klassisia luettelon tyyppejä, jotka sekoitetaan toisinaan Microsoft 365-ryhmä kalentereihin.</span><span class="sxs-lookup"><span data-stu-id="f2a5e-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
  
-<span data-ttu-id="dec9b-104">Jos käytät sivuston SharePoint-kalenteria, voit luoda yhdistetyn kalenterinäkymän päällekkäin oman Exchange-kalenterin päälle.</span><span class="sxs-lookup"><span data-stu-id="dec9b-104">If you use a SharePoint calendar on your site, you can overlay your own Exchange calendar onto it to create a combined calendar view.</span></span> <span data-ttu-id="dec9b-105">Voit myös korvata toisen SharePoint-kalenterin niin kauan kuin molemmat SharePoint-kalenterit ovat samassa sivustokokoelmassa.</span><span class="sxs-lookup"><span data-stu-id="dec9b-105">Alternatively, you can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span>
+<span data-ttu-id="f2a5e-104">Jos käytät SharePoint-kalenteria sivustossa, voit luoda yhdistetyn Kalenteri näkymän luomalla oman Exchange-kalenterin sen päälle.</span><span class="sxs-lookup"><span data-stu-id="f2a5e-104">If you use a SharePoint calendar on your site, you can overlay your own Exchange calendar onto it to create a combined calendar view.</span></span> <span data-ttu-id="f2a5e-105">Vaihtoehtoisesti voit lisätä toisen SharePoint-kalenterin päällekkäin, kunhan molemmat SharePoint-kalenterit ovat samassa sivustokokoelmassa.</span><span class="sxs-lookup"><span data-stu-id="f2a5e-105">Alternatively, you can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span>
  
-<span data-ttu-id="dec9b-106">Jos haluat lisätä peittokuvan perinteiseen SharePoint-kalenteriin, noudata ohjeaiheessa [SharePoint-kalenterin peittoexchange- tai SharePoint-kalenterin peittokuvan käyttäminen](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span><span class="sxs-lookup"><span data-stu-id="dec9b-106">To add an Overlay to a classic SharePoint calendar, follow the steps in [Overlay a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span></span>
+<span data-ttu-id="f2a5e-106">Jos haluat lisätä kerrostus tiedoston perinteiseen SharePoint-kalenteriin, noudata ohjeita kohdassa [SharePoint-kalenterin käyttäminen Exchange-tai SharePoint-](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)kalenterissa.</span><span class="sxs-lookup"><span data-stu-id="f2a5e-106">To add an Overlay to a classic SharePoint calendar, follow the steps in [Overlay a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span></span>

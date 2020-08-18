@@ -1,7 +1,7 @@
 ---
-title: SharePoint-käyttöoikeustasojen käyttäminen
-ms.author: v-todmc
-author: todmccoy
+title: SharePointin käyttö oikeus tasojen käyttö
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e0a3270af310e25cd7b8b37faccbd29214ea4b47
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705478"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786382"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a><span data-ttu-id="5218a-102">SharePoint-käyttöoikeustasojen käyttäminen</span><span class="sxs-lookup"><span data-stu-id="5218a-102">Working with SharePoint permission levels</span></span>
+# <a name="working-with-sharepoint-permission-levels"></a><span data-ttu-id="861de-102">SharePointin käyttö oikeus tasojen käyttö</span><span class="sxs-lookup"><span data-stu-id="861de-102">Working with SharePoint permission levels</span></span>
 
-<span data-ttu-id="5218a-103">SharePointissa on oletuskäyttöoikeustasot, joita voit käyttää, kuten **Osallistu** ja **Näytä vain**.</span><span class="sxs-lookup"><span data-stu-id="5218a-103">SharePoint comes with default permission levels that you can use, such as **Contribute** and **View only**.</span></span> <span data-ttu-id="5218a-104">Mutta jos jokin näistä ei vastaa tarpeitasi, voit luoda uuden käyttöoikeustason.</span><span class="sxs-lookup"><span data-stu-id="5218a-104">But if one of these doesn't meet your needs, you can create a new permission level.</span></span> <span data-ttu-id="5218a-105">Muista, että käyttöoikeustasojen seuraaminen on helpompaa, jos oletusarvoja ei muuteta.</span><span class="sxs-lookup"><span data-stu-id="5218a-105">Keep in mind that it's easier to keep track of permission levels if you don't change the defaults.</span></span>
+<span data-ttu-id="861de-103">SharePointissa on käytössä oletusarvoiset käyttö oikeus tasot, kuten **osallistuja** ja **vain tarkastelu**.</span><span class="sxs-lookup"><span data-stu-id="861de-103">SharePoint comes with default permission levels that you can use, such as **Contribute** and **View only**.</span></span> <span data-ttu-id="861de-104">Jos jokin näistä ei vastaa tarpeitasi, voit luoda uuden käyttö oikeus tason.</span><span class="sxs-lookup"><span data-stu-id="861de-104">But if one of these doesn't meet your needs, you can create a new permission level.</span></span> <span data-ttu-id="861de-105">Muista, että käyttö oikeus tasoja on helpompi seurata, jos oletus arvoja ei ole muutettu.</span><span class="sxs-lookup"><span data-stu-id="861de-105">Keep in mind that it's easier to keep track of permission levels if you don't change the defaults.</span></span>
 
-[<span data-ttu-id="5218a-106">Käyttöoikeustasojen luominen ja muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="5218a-106">How to create and edit permission levels</span></span>](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[<span data-ttu-id="861de-106">Käyttö oikeus tasojen luominen ja muokkaaminen</span><span class="sxs-lookup"><span data-stu-id="861de-106">How to create and edit permission levels</span></span>](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

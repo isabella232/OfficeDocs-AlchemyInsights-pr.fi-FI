@@ -1,7 +1,7 @@
 ---
 title: Käyttäjien poistaminen SharePoint-ryhmästä
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: c22bbf8ae5c6ff1dfdf729454330ebe498090581
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d2f1ead4de04bbecb55c805a9b085bc81029a2ae
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510677"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787354"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a><span data-ttu-id="bf228-102">Käyttäjien poistaminen SharePoint-ryhmästä</span><span class="sxs-lookup"><span data-stu-id="bf228-102">Remove users from a SharePoint group</span></span>
+# <a name="remove-users-from-a-sharepoint-group"></a><span data-ttu-id="385f2-102">Käyttäjien poistaminen SharePoint-ryhmästä</span><span class="sxs-lookup"><span data-stu-id="385f2-102">Remove users from a SharePoint group</span></span>
 
-<span data-ttu-id="bf228-103">SharePoint-ryhmä on kokoelma käyttäjiä, joilla kaikilla on samat käyttöoikeudet sivustoihin ja sisältöön.</span><span class="sxs-lookup"><span data-stu-id="bf228-103">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="bf228-104">Sen sijaan, että määrittäisit käyttöoikeudet yksi henkilö kerrallaan, voit määrittää ryhmien avulla kätevästi saman käyttöoikeustason monille ihmisille kerralla.</span><span class="sxs-lookup"><span data-stu-id="bf228-104">Rather than assign permissions one person at a time, you can use groups to conveniently assign the same permission level to many people at once.</span></span>
+<span data-ttu-id="385f2-103">SharePoint-ryhmä on kokoelma käyttäjiä, joilla kaikilla on samat käyttö oikeudet sivustolle ja sisällölle.</span><span class="sxs-lookup"><span data-stu-id="385f2-103">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="385f2-104">Käyttö oikeuksien määrittäminen yhdelle henkilölle kerrallaan voit määrittää saman käyttö oikeus tason kätevästi useille henkilöille yhtä aikaa ryhmien avulla.</span><span class="sxs-lookup"><span data-stu-id="385f2-104">Rather than assign permissions one person at a time, you can use groups to conveniently assign the same permission level to many people at once.</span></span>
 
-- [<span data-ttu-id="bf228-105">Käyttäjien poistaminen ryhmästä</span><span class="sxs-lookup"><span data-stu-id="bf228-105">Remove users from a group</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [<span data-ttu-id="bf228-106">Jäsenten lisääminen Microsoft 365 -ryhmiin tai poistaminen siitä hallintakeskuksen avulla</span><span class="sxs-lookup"><span data-stu-id="bf228-106">Add or remove members from Microsoft 365 Groups using the admin center</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [<span data-ttu-id="385f2-105">Käyttäjien poistaminen ryhmästä</span><span class="sxs-lookup"><span data-stu-id="385f2-105">Remove users from a group</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
+- [<span data-ttu-id="385f2-106">Jäsenten lisääminen tai poistaminen Microsoft 365-ryhmistä hallinta keskuksen avulla</span><span class="sxs-lookup"><span data-stu-id="385f2-106">Add or remove members from Microsoft 365 Groups using the admin center</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
