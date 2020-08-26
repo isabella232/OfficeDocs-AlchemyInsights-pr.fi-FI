@@ -1,5 +1,5 @@
 ---
-title: Vanhojen eDiscovery-työkalujen eläkkeelle siirtyminen
+title: Vanhojen eDiscoveryn poistaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650565"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902617"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Vanhojen eDiscovery-työkalujen eläkkeelle siirtyminen
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Vanhojen eDiscoveryn poistaminen
 
-Microsoft 365 Compliance Centerin uusien ja parannettujen eDiscovery-toimintojen ansiosta seuraavat vanhat eDiscovery-työkalut ja komentokomennot poistetaan lähikuukausina:
+Microsoft 365-yhteensopivuus keskuksen uusien ja parannettujen eDiscoveryn toimintojen tuloksena seuraavat vanhat eDiscoveryn työkalut ja komentosovelmat poistuvat käytöstä lähikuukausina:
 
-- [Exchange-hallintakeskuksessa on käytössä eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) ja [in-place-pito.](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)
+- Exchange-hallinta keskuksen käytössä oleva [etsimis](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) -ja pito [paikka](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) .
 
-- Exchange Online PowerShell -cmdlet-komennot, jotka tukevat in-place eDiscovery- ja in-Place Holds -komentoja. (Nämä cmdlet-komennot tunnistetaan yhdessä *-MailboxSearch-cmdlet-komennoiksi.) Tämä sisältää seuraavat cmdlet-komennot:
+- Exchange Online PowerShellin cmdlet-komentosovelmat, jotka tukevat sijaintia etsimis-ja paikallaan. (Nämä cmdlet-komentosovelmat tunnistetaan yhteisesti *-posti laatikon haun cmdlet-komentosovelmat.) Tämä sisältää seuraavat cmdlet-komento:
 
-    - [Uusi mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Aloita postilaatikon haku](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-MailboxHaku](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Aseta-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Uusi-Mailposti-haku](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Käynnistä-posti laatikon haku](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Pysäytä-posti laatikon haku](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Asetukset-posti laatikon haku](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Exchange](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) Online PowerShellin Search-Mailbox-cmdlet-komento.
-- Seuraavat Exchange Web Services -ohjelmointirajapinnan toiminnot:
-    - [GetSearchableMailboxes -kohteet](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailboxes-kohteet](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxes -kohteet](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- [Search-Mailbox-cmdlet-](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) vaihto Exchange Online PowerShellissä.
+- Seuraavat Exchange Web Services-ohjelmointi raja pinnan toiminnot:
+    - [Getsearchtablemailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [Asetholdonposti laatikot](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [Geosholdonpostilaatikkoposti laatikot](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Kehittynyt eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscoveryn v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Eläkkeelle siirtymisen aikataulu**:
-- 1.4.2020: Et voi luoda uusia hakuja ja pitoja, mutta voit silti suorittaa, muokata ja poistaa olemassa olevia hakuja omalla vastuullasi. Microsoftin tuki ei enää tue EAC:n in-Place eDiscovery & Holds -&.
+**Eläkkeelle siirtymisen aika Jana**:
+- **1. heinä kuuta 2020** Et voi enää luoda uusia hakuja ja pitää niitä, mutta voit suorittaa, muokata ja poistaa olemassa olevia hakuja omalla vastuullasi. Microsoft-tuki ei enää tue paikan päällä olevaa eDiscoverya & pätee EAC:ssä.
+    
+- **1. loka kuuta, 2020** Paikan päällä oleva eDiscoveryn &-toiminto on käytettävissä vain luku-tilassa, joten voit poistaa vain olemassa olevat haut ja ruumat.
 
-- 1.7.2020: EDiscovery & Holds -toiminto eAC:ssä sijoitetaan vain luku -tilaan. Tämä tarkoittaa, että voit poistaa vain olemassa olevat haut ja pidot.
+Lisä **tietoja on kohdassa**:
 
-**Lisätietoja on kohdassa**:
-
- - [Vanhojen eDiscovery-hakujen ja pitotietojen siirtäminen Microsoft 365 -yhteensopivuuskeskukseen](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Vanhojen eDiscovery-työkalujen eläkkeelle siirtyminen](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Usein kysyttyjä kysymyksiä in-place eDiscovery- ja in-Place Holds -laatoista](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Vanhojen eDiscoveryn hakujen ja Pitojen siirtäminen Microsoft 365-yhteensopivuus keskukseen](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Vanhojen eDiscoveryn poistaminen](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Usein kysyttyjä kysymyksiä paikasta ja paikasta](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
