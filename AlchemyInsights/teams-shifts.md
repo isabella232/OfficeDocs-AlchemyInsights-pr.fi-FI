@@ -1,5 +1,5 @@
 ---
-title: Joukkueet vuorot
+title: Teams siirtyy
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737449"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289980"
 ---
-# <a name="using-teams-shifts"></a><span data-ttu-id="67634-102">Teams Shift -vuorojen käyttäminen</span><span class="sxs-lookup"><span data-stu-id="67634-102">Using Teams Shifts</span></span>
+# <a name="using-teams-shifts"></a><span data-ttu-id="56722-102">Teams-vuorojen käyttäminen</span><span class="sxs-lookup"><span data-stu-id="56722-102">Using Teams Shifts</span></span>
 
-<span data-ttu-id="67634-103">Lisätietoja Teamsin vuoroista, kuten siirtymisestä Microsoft Staffhubista, on ohjeaiheessa [Teamsin vuorot](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="67634-103">To learn more about Shifts for Teams, including how to migrate from Microsoft Staffhub, see [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> 
+<span data-ttu-id="56722-103">Lisä tietoja työvuorot-sovelluksen Hallin nasta, kuten työvuorojen määrittämisestä, käyttäjien työvuorojen ottamisesta käyttöön ja työvuorojen hallinta sovelluksesta, on kohdassa:</span><span class="sxs-lookup"><span data-stu-id="56722-103">For information about managing the Shifts app, including how to set up shifts, enable Shifts for users, and manage the Shifts app, see:</span></span>
+ 
+- <span data-ttu-id="56722-104">[Hallitse organisaatiosi työvuorot-sovellusta Microsoft teamsissa](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).</span><span class="sxs-lookup"><span data-stu-id="56722-104">[Manage the Shifts app for your organization in Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).</span></span>
+- <span data-ttu-id="56722-105">Voit [ottaa käyttöön tai poistaa käytöstä muutoksia organisaation tietyille käyttäjille](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).</span><span class="sxs-lookup"><span data-stu-id="56722-105">[Enable or disable Shifts for specific users in your organization](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).</span></span>
 
-<span data-ttu-id="67634-104">Microsoft Staffhub [poistetaan](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 31.12.2019.</span><span class="sxs-lookup"><span data-stu-id="67634-104">Microsoft Staffhub will be [retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) on December 31, 2019.</span></span> 
+<span data-ttu-id="56722-106">Jos haluat lisä tietoja tiimien muutoksista, kuten Vuorotyövuorojen Hallin nasta, katso [tiimien muutokset](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="56722-106">To learn more about Shifts for Teams, including managing a Shifts schedule see [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span>
+
+<span data-ttu-id="56722-107">**Voimassa 30. kesä kuuta 2020**Microsoft Staffhub on poistettu käytöstä.</span><span class="sxs-lookup"><span data-stu-id="56722-107">**Effective June 30, 2020**, Microsoft Staffhub has been retired.</span></span> <span data-ttu-id="56722-108">Lisä tietoja [on kohdassa Microsoft StaffHub on poistettu](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)käytöstä.</span><span class="sxs-lookup"><span data-stu-id="56722-108">For more info, see [Microsoft StaffHub has been retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).</span></span>
 
