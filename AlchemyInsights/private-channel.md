@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005435"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316196"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="0f7c9-102">Yksityiset kanavat Microsoft Teamsissa</span><span class="sxs-lookup"><span data-stu-id="0f7c9-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="4b97a-102">Yksityiset kanavat Microsoft Teamsissa</span><span class="sxs-lookup"><span data-stu-id="4b97a-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="0f7c9-103">Yksityiset kanavat ovat microsoft Teamsin uusi ominaisuus.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-103">Private channels is a new feature in Microsoft Teams.</span></span> <span data-ttu-id="0f7c9-104">Huomaa, että yksityisiä kanavia ei voi muuntaa vakiokanavista tai päinvastoin.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-104">Note that private channels cannot be converted from standard channels or vice versa.</span></span>
+<span data-ttu-id="4b97a-103">Microsoft teamsin yksityiset kanavat luovat kohdennettuja väli lyöntejä teamsin sisällä tapahtuvaa yhteistyötä varten.</span><span class="sxs-lookup"><span data-stu-id="4b97a-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="4b97a-104">Vain ne tiimin jäsenet, jotka ovat yksityisen kanavan omistajia tai jäseniä, voivat käyttää kanavaa.</span><span class="sxs-lookup"><span data-stu-id="4b97a-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="4b97a-105">Kuka tahansa, mukaan lukien vieraat, voidaan liittää yksityiseen kanavaan, kunhan käyttäjä on jo tiimin jäsen.</span><span class="sxs-lookup"><span data-stu-id="4b97a-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="0f7c9-105">Lisätietoja yksityisistä kanavista, kuten [yksityiskanavien luomisesta ja jäsenyydestä](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) sekä [yksityisestä SharePoint-sivustoista](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), on kohdassa [Microsoft Teamsin yksityiset kanavat](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="0f7c9-105">For details about private channels, such as information on [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), see [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> 
+<span data-ttu-id="4b97a-106">Jos haluat lisä tietoja, Aloita [yksityisten kanavien käyttäminen Microsoft teamsissa](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="4b97a-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="4b97a-107">Tämä sisältää tietoja, kuten [yksityisen kanavan luomisen sekä jäsenyyden](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ja [yksityisen kanavan SharePoint-sivustot](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span><span class="sxs-lookup"><span data-stu-id="4b97a-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="0f7c9-106">**Huomautus:** Koska yksityisten kanavien viestien säilyttämisen määritystä ei vielä tueta, vuokraajat, joiden säilytyskäytännöt ovat käytössä, eivät oletusarvoisesti ota käyttöön yksityisiä kanavia.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-106">**Note:** Because configuration for retention of private channel messages is not yet supported, tenants with retention policies enabled will not have private channels enabled by default.</span></span> <span data-ttu-id="0f7c9-107">Yksityiset kanavat voidaan ottaa käyttöön Teams-hallintakeskuksessa.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-107">Private channels can be enabled in the Teams admin center.</span></span> <span data-ttu-id="0f7c9-108">Huomaa myös, että vaikka yksityisten kanavien viestien säilyttämistä ei tueta, yksityisissä kanavissa jaettujen tiedostojen säilyttämistä tuetaan.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-108">Also, note that while retention of private channel messages is not supported, retention of files shared in private channels is supported.</span></span>
+<span data-ttu-id="4b97a-108">**Tarvitsetko uuden tiimin omistajan?**</span><span class="sxs-lookup"><span data-stu-id="4b97a-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="0f7c9-109">**Tarvitsetko uuden tiimin omistajan?**</span><span class="sxs-lookup"><span data-stu-id="0f7c9-109">**Need a new team owner?**</span></span>
+<span data-ttu-id="4b97a-109">Jos yksityisen kanavan omistaja lähtee organisaatiosta tai poistetaan ryhmästä, yksityisen kanavan jäsen ylennettiin automaattisesti yksityisen kanavan omistajaksi.</span><span class="sxs-lookup"><span data-stu-id="4b97a-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="0f7c9-110">Jos yksityinen kanavasi omistaja lähtee, voit lisätä uuden tiimin omistajan Teams Powershellin kautta.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-110">If your private channel owner leaves, you can add a new team owner via Teams Powershell.</span></span>
-
-
-- <span data-ttu-id="0f7c9-111">[Siirry tästä](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) asentaaKsesi Teams Powershellin.</span><span class="sxs-lookup"><span data-stu-id="0f7c9-111">Go [here](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) to install Teams Powershell.</span></span>
-
-<span data-ttu-id="0f7c9-112">Tässä on cmdlet tarvitset:</span><span class="sxs-lookup"><span data-stu-id="0f7c9-112">Here is the cmdlet you will need:</span></span>
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-<span data-ttu-id="0f7c9-113">Lisätietoja Teams Powershellistä on kohdassa [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span><span class="sxs-lookup"><span data-stu-id="0f7c9-113">For more information on Teams Powershell, see [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span></span>
+<span data-ttu-id="4b97a-110">Järjestelmänvalvojat voivat myös tarkastella [yksityisten kanavien hallintaa Microsoft teamsissa](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , jotta saat lisä tietoja käytännöistä, jotka voivat luoda yksityisiä kanavia, sekä tapoja, joiden avulla voit muodostaa kyselyjä eDiscoveryyn tai laillisiin ruumaan.</span><span class="sxs-lookup"><span data-stu-id="4b97a-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
