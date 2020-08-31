@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005435"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316196"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Yksityiset kanavat Microsoft Teamsissa
 
-Yksityiset kanavat ovat microsoft Teamsin uusi ominaisuus. Huomaa, että yksityisiä kanavia ei voi muuntaa vakiokanavista tai päinvastoin.
+Microsoft teamsin yksityiset kanavat luovat kohdennettuja väli lyöntejä teamsin sisällä tapahtuvaa yhteistyötä varten. Vain ne tiimin jäsenet, jotka ovat yksityisen kanavan omistajia tai jäseniä, voivat käyttää kanavaa. Kuka tahansa, mukaan lukien vieraat, voidaan liittää yksityiseen kanavaan, kunhan käyttäjä on jo tiimin jäsen.
 
-Lisätietoja yksityisistä kanavista, kuten [yksityiskanavien luomisesta ja jäsenyydestä](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) sekä [yksityisestä SharePoint-sivustoista](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), on kohdassa [Microsoft Teamsin yksityiset kanavat](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
-
-**Huomautus:** Koska yksityisten kanavien viestien säilyttämisen määritystä ei vielä tueta, vuokraajat, joiden säilytyskäytännöt ovat käytössä, eivät oletusarvoisesti ota käyttöön yksityisiä kanavia. Yksityiset kanavat voidaan ottaa käyttöön Teams-hallintakeskuksessa. Huomaa myös, että vaikka yksityisten kanavien viestien säilyttämistä ei tueta, yksityisissä kanavissa jaettujen tiedostojen säilyttämistä tuetaan.
+Jos haluat lisä tietoja, Aloita [yksityisten kanavien käyttäminen Microsoft teamsissa](https://docs.microsoft.com/MicrosoftTeams/private-channels). Tämä sisältää tietoja, kuten [yksityisen kanavan luomisen sekä jäsenyyden](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ja [yksityisen kanavan SharePoint-sivustot](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
 **Tarvitsetko uuden tiimin omistajan?**
 
-Jos yksityinen kanavasi omistaja lähtee, voit lisätä uuden tiimin omistajan Teams Powershellin kautta.
+Jos yksityisen kanavan omistaja lähtee organisaatiosta tai poistetaan ryhmästä, yksityisen kanavan jäsen ylennettiin automaattisesti yksityisen kanavan omistajaksi.
 
-
-- [Siirry tästä](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) asentaaKsesi Teams Powershellin.
-
-Tässä on cmdlet tarvitset:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Lisätietoja Teams Powershellistä on kohdassa [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Järjestelmänvalvojat voivat myös tarkastella [yksityisten kanavien hallintaa Microsoft teamsissa](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , jotta saat lisä tietoja käytännöistä, jotka voivat luoda yksityisiä kanavia, sekä tapoja, joiden avulla voit muodostaa kyselyjä eDiscoveryyn tai laillisiin ruumaan.
