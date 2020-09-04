@@ -1,8 +1,8 @@
 ---
-title: Maksaminentavan muuttaminen
+title: Maksu tavan muuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939652"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364584"
 ---
-# <a name="change-how-often-you-pay"></a>Maksaminentavan muuttaminen
+# <a name="change-how-often-you-pay"></a>Maksu tavan muuttaminen
 
-Voit muuttaa tilauksen laskutus- ja maksuttomien toimien muuttamista seuraavasti Microsoft 365 -hallintakeskuksessa. 
-1. Siirry kohtaan **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Etsi tilaus, jota haluat muuttaa. Valitse **Laskutus-osan** **Laskutettu kuukausittain-** tai **Laskutettu vuosittain**-kohdan vierestä **Muokkaa**. 
-3. Valitse laskutustusvaihtoehto ja valitse sitten **Muuta**.
+Jos haluat muuttaa sitä, kuinka usein sinua laskutetaan ja maksat tila uksesta, suorita seuraavat vaiheet Microsoft 365-hallinta keskuksessa.
 
-**Huomautus:** Kuukausi- tai vuosilaskutus ovat ainoat vaihtoehdot.
+1. Siirry **laskutus**  >  [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+2. Valitse **tuotteet** -väli lehdessä tilaus, jota haluat muuttaa. 
+3. Valitse tila uksen tiedot-sivun **tilaus-ja maksu asetukset** -osassa **Muokkaa laskutus tiheyttä**.
+4. **Muokkaa laskutus tiheyttä** -ruudussa voit määrittää, kuinka usein haluat laskuttaa, ja valitse sitten **Muuta**.
 
-Lisätietoja on ohjeaiheessa [Maksutiheyden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Huomautus**: kuukausi-tai vuosi laskutus ovat ainoat vaihto ehdot.
+
+Katso lisätietoja artikkelissa [Laskutuksen tiheyden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

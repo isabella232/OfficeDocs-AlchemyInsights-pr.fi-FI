@@ -14,21 +14,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431178"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364620"
 ---
 # <a name="billing-or-invoice-faq"></a>Laskutukseen ja laskuihin liittyvät usein kysytyt kysymykset
 
 - Laskujen maksut voidaan **hylätä** useasta syystä, esimerkiksi vanhentuneen luottokortin vuoksi. Lisätietoja ongelman ratkaisemiseksi on artikkelissa [Maksutavan vaihtaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
 - Jos laskusi on **erääntynyt**, lähetä maksu uudelleen **Suorita maksu** -toiminnon avulla. Lisätietoja ongelman ratkaisemiseksi on artikkelissa [Entä jos laskuni on erääntynyt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Sinua veloitetaan edelleen käyttöoikeuksista, joita ei ole määritetty käyttäjille. Voit estää tarpeettomat veloitukset poistamalla käyttöoikeudet käyttöoikeusmäärän vähentämiseksi. Katso [Käyttöoikeuksien lisääminen tai poistaminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) tilauksesta.
+- Sinulta veloitetaan edelleen käyttö oikeuksista, joita ei ole määritetty käyttäjille. Voit estää tarpeettomat veloitukset poistamalla käyttämättömät käyttö oikeudet, jotta voit pienentää käyttö oikeuksien määrää. Lisä tietoja on kohdassa [käyttö oikeuksien lisääminen tila ukseen tai poistaminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) siitä.
 - Jos haluat muuttaa **laskutusvälin** kuukausittaiseksi tai vuosittaiseksi, lue [Laskutusvälin muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Jos tarvitset apua laskun kanssa, lue [Laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Jos tarvitset apua laskun **tarkastelemiseksi**, lue [Laskun tarkasteleminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Jos haluat muuttaa laskutustietoja, lue [laskuprofiilin hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) tai [laskutusosoitteen muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Jos haluat muuttaa laskutus tietoja, tutustu Ohje aiheeseen [laskutus profiilin hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) tai [laskutus osoitteen muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Lisätietoja on kohdassa [Laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Lisä tietoja on Ohje aiheessa [laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

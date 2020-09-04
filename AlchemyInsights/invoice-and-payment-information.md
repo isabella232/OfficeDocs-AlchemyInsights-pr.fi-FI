@@ -1,8 +1,8 @@
 ---
-title: Lasku- ja maksutiedot
+title: Laskutus-ja maksu tiedot
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579970"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364764"
 ---
-# <a name="invoice-and-payment-information"></a>Lasku- ja maksutiedot
+# <a name="invoice-and-payment-information"></a>Laskutus-ja maksu tiedot
 
 **Maksu**
 
-Kun ostat Microsoft 365 for Business -tilauksen suoraan Microsoftilta, voit maksaa luotto- tai pankkikortilla.  Joissakin maissa/joillakin alueilla voit maksaa myös pankkitilillä.  Voit opetella hallitsemaan ja tekemään näiden maksutapojen vianmäärityksen [Microsoft 365 for Businessin luottokortin tai muun maksutavan lisääminen, päivittäminen tai poistaminen](https://go.microsoft.com/fwlink/?linkid=2118133).  Tämä sisältää ongelmien ratkaisemisen, kun luottokorttisi hylätään, ja maksutietojen päivittäminen.
+Kun ostat Microsoft 365 for Business-tila uksen suoraan Microsoftilta, voit maksaa luotto-tai maksu kortilla.  Joissakin maissa/joillakin alueilla voit myös maksaa pankki tilillä.  Näiden maksu tapojen hallinta ja vian määritys ovat käytettävissä [maksu tapojen hallinnassa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Tähän sisältyy ongelmien ratkaiseminen, kun luotto kortti hylätään ja maksu tiedot päivitetään.
 
-**Lasku/lasku**
+**Laskutus/lasku**
 
-Voit etsiä ja ladata laskusi **Laskutus > [laskut & maksusivulla.](https://go.microsoft.com/fwlink/p/?linkid=848039) **  
+Voit etsiä ja ladata laskut **laskutus**  >  [laskujen & maksu](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivulla.  
 
-**Huomautus:** Jos laskuja ei ole näkyvissä, päivämääräaluesuodatinta on ehkä muutettava.  Oletusarvon mukaan näytetään viimeiset 3 kuukautta laskuja.
+**Huomautus**: Jos laskuja ei ole näkyvissä, sinun on ehkä muutettava päivämäärä välin suodatinta.  Oletus arvon mukaan laskujen viimeiset kolme kuukautta ovat näkyvissä.
 
-Laskut luodaan kuukausittain tai vuosittain oston aikana valitun maksutiheyden mukaan.  Jos maksat vuosittain, voit saada laskun puolivälissä, kun lisäät tai poistat tilauksen käyttöoikeuksia.
- 
-- Lisätietoja on ohjeaiheessa [Microsoft 365 for Business -laskun ymmärtäminen](https://go.microsoft.com/fwlink/?linkid=2119101).
+Laskut on suunniteltu kuukausittain tai vuosittain sen mukaan, kuinka usein laskutus on valittu oston yhteydessä.  Jos maksat vuosittain, voit saada lasku kauden, kun lisäät tai poistat käyttö oikeuksia tila ukseen.
+
+- Lisä tietoja on Ohje aiheessa [Microsoft 365 for Businessin laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
