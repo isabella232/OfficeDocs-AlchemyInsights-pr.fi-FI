@@ -1,5 +1,5 @@
 ---
-title: Mover
+title: Siirtäjä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157571"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406323"
 ---
-# <a name="mover"></a>Mover
+# <a name="mover"></a>Siirtäjä
 
-21. lokakuuta 2019 Microsoft osti **Moverin,** joka on johtava pilvitiedostojen siirron tarjoaja.
+21. loka kuuta 2019 Microsoft osti  **Mover**-palvelun, joka on johtava pilvi tiedostojen siirto toimittaja.
 
-Lisätietoja Moverista on seuraavissa artikkeleissa:
+Tällä hetkellä [pyydämme sinua ohjaamaan kaikki tuki pyynnöt](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **täällä**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [Muuttoliikkeen siirto-oppaat](https://mover.io/guides/)
-- [Yleistä muuttoa koskevia usein kysyttyjä kysymyksiä](https://mover.io/guides/general/)
-- [Mover liittimet](https://mover.io/connectors/)
+Jos haluat lisä tietoja Liikkujana, tutustu seuraaviin artikkeleihin:
 
-Tällä hetkellä **ohjaa kaikki tukipyynnöt** [support@mover.io](mailto:support@mover.io) apua tuotteen kanssa. 
-
- 
+- [Mover-siirto oppaat](https://mover.io/guides/)
+- [Yleistä siirron usein kysytyt kysymykset](https://mover.io/guides/general/)
