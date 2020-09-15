@@ -1,23 +1,24 @@
 ---
-title: Dynamics 365 muokattava ruudukkonäkymä kysymykset ja vastaukset
+title: Dynamics 365-muokattavien ruudukon usein kysytyt kysymykset
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1464"
 - "6200013"
-ms.openlocfilehash: 35cfe1da0cbf191bb47af95c2fb63161994cc16b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 8f2876a10ac09d9ba293b14aa818dc8024179129
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678249"
 ---
-# <a name="dynamics-365-editable-grid-faqs"></a><span data-ttu-id="5b36b-102">Dynamics 365 muokattava ruudukkonäkymä kysymykset ja vastaukset</span><span class="sxs-lookup"><span data-stu-id="5b36b-102">Dynamics 365 editable grid FAQs</span></span>
+# <a name="dynamics-365-editable-grid-faqs"></a><span data-ttu-id="e7597-102">Dynamics 365-muokattavien ruudukon usein kysytyt kysymykset</span><span class="sxs-lookup"><span data-stu-id="e7597-102">Dynamics 365 editable grid FAQs</span></span>
 
-* [<span data-ttu-id="5b36b-103">Usein kysyttyjä kysymyksiä muokattava ruudukkonäkymä</span><span class="sxs-lookup"><span data-stu-id="5b36b-103">Editable grid frequently asked questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
+* [<span data-ttu-id="e7597-103">Muokattavan ruudukon usein kysytyt kysymykset</span><span class="sxs-lookup"><span data-stu-id="e7597-103">Editable grid frequently asked questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
 
-* [<span data-ttu-id="5b36b-104">Ruudukon muokattavat pikanäppäimet</span><span class="sxs-lookup"><span data-stu-id="5b36b-104">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="e7597-104">Muokattavat ruudukon pikanäppäimet</span><span class="sxs-lookup"><span data-stu-id="e7597-104">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
