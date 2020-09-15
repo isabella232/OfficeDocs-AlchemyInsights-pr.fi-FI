@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: a9d967032c0b2f13f8c33b989077897c0f3ae20d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712240"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685523"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Exchange Online PowerShell -käytön estäminen käyttäjille
-Järjestelmänvalvojana voit estää Exchange Online PowerShellin käytön käyttäjillesi. Lisätietoja on seuraavissa ohjeaiheissa:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Exchange Online PowerShellin käytön estäminen käyttäjille
+Järjestelmänvalvojana sinulla on mahdollisuus estää Exchange Online PowerShellin käyttö oikeus käyttäjille. Lisä tietoja on seuraavissa artikkeleissa:
 
 - [Exchange Online PowerShellin käytön ottaminen käyttöön tai poistaminen käytöstä](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Client Access -säännöt Exchange Onlinessa](https://technet.microsoft.com/library/mt842508.aspx) (etsi **RemotePowerShell-protokolla)** 
+- [Asiakkaan käyttö oikeus säännöt Exchange Onlinessa](https://technet.microsoft.com/library/mt842508.aspx) (Etsi **Remote PowerShell** -protokolla) 
 
-**Huomautus**: Kuten ohjeaiheessa on kuvattu, varo estämään Exchange Online PowerShellin käyttöä järjestelmänvalvojille.
+**Huomautus**: Katso ohje aiheen ohjeiden mukaisesti, ettet estä järjestelmänvalvojien Exchange Online PowerShellin käyttöä.

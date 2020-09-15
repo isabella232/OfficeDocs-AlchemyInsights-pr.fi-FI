@@ -5,56 +5,57 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686027"
 ---
 # <a name="billing-and-payment"></a>Laskutus ja maksaminen
 
-Laskusi löytyvät **Billing**  >  [Laskutuslaskut & maksut](https://go.microsoft.com/fwlink/p/?linkid=848039) -välilehdestä.  Oletuksena näytetään viimeiset 3 kuukautta laskuja.  Voit tarkastella vanhempia laskuja muuttamalla suodatinta.  Voit tarkastella laskua napsauttamalla **Lataa laskun PDF -linkkiä.**
+Laskujasi löytyy **laskutus**  >  [laskujen & maksut](https://go.microsoft.com/fwlink/p/?linkid=848039) -väli lehdestä.  Oletus arvon mukaan laskujen viimeiset kolme kuukautta ovat näkyvissä.  Jos haluat tarkastella vanhoja laskuja, säädä suodatinta.  Voit tarkastella laskua valitsemalla **Lataa laskun PDF-** linkki.
 
-**Vastaanota laskuja sähköpostitse**
+**Laskujen saaminen sähköpostitse**
 
-**Billing**  >  [Laskutuslaskutusilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853212) -sivulla voit ottaa tämän ominaisuuden **käyttöön** ja hallita käyttäjiä, jotka vastaanottavat laskun sähköpostin liitteenä. Lasku lähetetään ilmoituksen vastaanottajien luettelon käyttäjien sähköpostiosoitteisiin. Luettelo sisältää kaikki laskutus- ja yleiset järjestelmänvalvojat.  Voit hallita laskuilmoitusten saajia muuttamalla roolia.  Yleisen järjestelmänvalvojan roolin poistaminen poistaa kyseisen käyttäjän vastaanottajaluettelosta ja yleisen järjestelmänvalvojan roolin lisääminen lisää käyttäjän vastaanottajaluetteloon.
+**Laskutuksen**  >  [ilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853212) -sivulla voit ottaa tämän ominaisuuden käyttöön ja hallita niitä **on** käyttäjiä, jotka saavat laskun Sähkö posti viestin liitteenä. Lasku lähetetään käyttäjien Sähkö posti osoitteisiin ilmoituksen vastaanottajat-luettelossa. Luettelossa on kaikki laskutus ja yleiset järjestelmänvalvojat.  Voit hallita sitä, kuka saa lasku ilmoitukset, muokkaamalla roolia.  Yleisen tai laskutuksen järjestelmänvalvojan roolin poistaminen poistaa käyttäjän vastaanottajaluettelosta, ja yleisen tai laskutusvalvojan roolin lisääminen lisää käyttäjän vastaanottajaluetteloon.
 
-**Huomautus:** Saat kaksi erillistä sähköpostia: sellaisen, joka kertoo, että laskusi on valmis, ja ohjeet kirjautua hallintakeskukseen tarkastellaksesi sitä, ja toisen sähköpostiviestin, joka sisältää laskutusilmoituksen liitteenä.
+**Huomautus**: näyttöön tulee kaksi erillistä Sähkö posti viestiä: yksi, jonka avulla tiedät, että lasku on valmis, sekä ohjeet, joiden avulla voit kirja utua hallinta keskukseen ja tarkastella sitä, sekä toinen Sähkö posti viesti, joka sisältää laskutus ilmoituksen liitteenä.
 
 **Maksu**
 
-Jos maksat luottokortilla tai pankkitilillä, tilaukseesi liittyvä maksutapa veloitetaan muutaman päivän kuluessa laskun luomisesta. Jos maksu epäonnistuu, päivitä tai muuta maksutapaasi.
+Jos maksat luotto kortilla tai pankki tilillä, pakettisi liittyvä maksu tapa veloitetaan muutaman päivän kuluessa laskusta. Jos maksu epäonnistuu, Päivitä tai muuta maksu tapaa.
 
-Jos olet lisännyt uuden kortin ja saat edelleen hylkäämisilmoituksen vanhalle luottokortille, sinun on ehkä liitettävä kyseinen uusi kortti tilaukseen.
+Jos olet lisännyt uuden kortin ja olet edelleen saamassa lasku ilmoituksen vanhalla luotto kortilla, sinun on ehkä liitettävä uusi kortti tila ukseen.
 
-1. Siirry hallintakeskuksessa **Billing**  >  **Laskutuslaskut & maksut**  >  [Maksutavat -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Siirry hallinta keskuksessa **laskutus**  >  **laskut-&**  >  [Maksu tavat](https://go.microsoft.com/fwlink/p/?linkid=2018806) -sivulle.
 
-2. Valitse korvattavan maksutavan rivi. Oikeanpuoleisessa ruudussa on luettelo kaikista laskutusprofiileista ja yksittäisistä tilauksista, jotka käyttävät valittua maksutapaa.
+2. Valitse korvattavan maksu tavan rivi. Oikeanpuoleisessa ruudussa luetellaan kaikki laskutus profiilit ja yksittäiset tila uksia, jotka käyttävät valittua maksu tapaa.
 
-3. Valitse oikeanpuoleisessa ruudussa **Korvaa kaikkien nimikkeiden maksutapa**.
+3. Valitse oikeanpuoleisesta ruudusta **Vaihda maksu tapa kaikille nimikkeille**.
 
-4. Jos haluat käyttää aiemmin luotua maksutapaa, valitse sellainen avattavasta luettelosta ja valitse sitten **Korvaa**.
+4. Jos haluat käyttää aiemmin luotua maksu tapaa, valitse se avattavasta luettelosta ja valitse sitten **Vaihda**.
 
     > [!NOTE]
-    > Jos sinulla on laskutusprofiiliin liittyviä tilauksia, voit maksaa niistä vain luotto- tai pankkikortilla. Jos maksutavat-sivulla on **Payment methods** pankkitilit, niitä ei voi valita avattavasta luettelosta.
+    > Jos sinulla on tila uksia, jotka liittyvät laskutus profiiliin, voit käyttää luotto-tai maksu korttia vain maksamiseen. Jos sinulla on pankki tili, joka on listattu **Maksu tavat** -sivulla, niitä ei voi valita avattavasta luettelosta.
 
-5. Jos haluat lisätä uuden maksutavan, valitse **Lisää maksutapa**.
+5. Jos haluat lisätä uuden maksu tavan, valitse **Lisää maksu tapa**.
 
-6. Kirjoita Tilin tiedot **Lisää maksutapa** -ruutuun ja valitse sitten **Tallenna**. Sinun on käytettävä maksutapaa samasta maasta kuin vuokralainen.
+6. Kirjoita **Lisää maksu tapa** -ruutuun tili tiedot ja valitse sitten **Tallenna**. Sinun on käytettävä maksu tapaa samasta maasta kuin vuokraajaasi.
 
-7. Uusi maksutapa on jo valittuna avattavasta luettelosta. Valitse **Korvaa**.
+7. Uusi maksu tapa on jo valittuna avattavassa luettelossa. Valitse **Vaihda**.
 
-Lisätietoja on ohjeaiheessa [Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Lisä tietoja on Ohje aiheessa [maksu tapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-**Laskutustiheys**
+**Laskutus väli**
 
-Laskut luodaan kuukausittain tai vuosittain riippuen laskutustavatiheydestä, joka on valittu kassalla.  
+Laskut luodaan kuukausittain tai vuosittain sen mukaan, mitä laskutus väliä on valittu kassalla.  
 
-**Huomautus:** Tilaukset, joissa on vuosilaskutus, voivat saada laskun puolivälissä, jos on tehty muutoksia, kuten käyttöoikeuksien lisääminen tai poistaminen. [Laskutustiheyden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Huomautus**: vuosi laskutusta koskevat tila ukset voivat saada laskun, jos muutoksia on tehty, kuten käyttö oikeuksien lisääminen tai poistaminen. [Vaihda laskutus tiheyttä](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

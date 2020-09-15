@@ -1,26 +1,27 @@
 ---
-title: Toimialueen vahvistaminen Bluehostilla
+title: Toimi alueen tarkistaminen Bluehost-sivuston avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 64c74827e28618ab08cca16c1e8ac4eb7689bb0d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 09164223d31584e0127e87a9a158d1b5932faca8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759401"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689447"
 ---
-# <a name="verify-your-domain-with-bluehost"></a>Toimialueen vahvistaminen Bluehostilla
+# <a name="verify-your-domain-with-bluehost"></a>Toimi alueen tarkistaminen Bluehost-sivuston avulla
 
-Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden vahvistamiseksi. 
+Jos haluat vahvistaa toimi alueesi, sinun on lisättävä toimi alueen rekisteröinti palveluun TXT-tietue, jotta voit vahvistaa, että omistat toimi alueen. 
 
-Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja sitten **Lisää toimialue**.
+Seuraa ensin [ohjattua toimi alueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> -toimi **alueet**ja **Lisää sitten toimi alue**.
   
-Vaiheittaiset ohjeet ovat kohdassa [DNS-tietueiden luominen Bluehostissa Microsoft 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost)
+Vaiheittaiset ohjeet ovat artikkelissa [DNS-tietueiden luominen osoitteessa Bluehost Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) .
