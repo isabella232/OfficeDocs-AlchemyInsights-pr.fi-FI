@@ -1,24 +1,25 @@
 ---
-title: 934 POP- ja IMAP-tilien ottaminen käyttöön
+title: 934 Ota POP-ja IMAP-tunnukset käyttöön
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: 733b70f50991ba8d73c566e04521aec0d78889b7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc0ffa7f014e3a329deb8b56ca73148922c18d72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703387"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709652"
 ---
-# <a name="pop-and-imap4-settings"></a>POP- ja IMAP4-asetukset
+# <a name="pop-and-imap4-settings"></a>POP-ja IMAP4-asetukset
 
-Lisätietoja oman postilaatikon POP3- ja IMAP4-palvelinasetuksista on ohjeaiheessa [Outlookin POP- ja IMAP-sähköpostiasetukset](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Jos haluat etsiä POP3-ja IMAP4-palvelin asetukset omaa posti laatikkoasi varten, katso [Outlookin Pop-ja IMAP-Sähkö posti asetukset](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
 
-Järjestelmänvalvojat voivat ottaa POP3:n ja IMAP4:n käyttöön ja määrittää sen paikallisissa Exchange-organisaatioissa. Lisätietoja on ohjeessa [POP3:n ottaminen käyttöön ja määrittäminen Exchange-palvelimissa](https://technet.microsoft.com/library/bb124934.aspx) ja [IMAP4:n ottaminen käyttöön ja määrittäminen Exchange-palvelimissa](https://technet.microsoft.com/library/bb124489.aspx).
+Järjestelmänvalvojat voivat ottaa käyttöön ja määrittää POP3-ja IMAP4-yhteyden paikallisessa Exchange-organisaatiossa. Lisä tietoja on Ohje aiheissa [POP3-yhteyden ottaminen käyttöön ja määrittäminen Exchange-palvelimissa](https://technet.microsoft.com/library/bb124934.aspx) sekä IMAP4-yhteyden ottaminen käyttöön ja [määrittäminen Exchange-palvelimissa](https://technet.microsoft.com/library/bb124489.aspx).
