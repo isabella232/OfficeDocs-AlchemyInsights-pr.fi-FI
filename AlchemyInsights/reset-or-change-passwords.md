@@ -1,10 +1,11 @@
 ---
-title: Salasanojen vaihtaminen tai vaihtaminen
+title: Sala sanojen palauttaminen tai muuttaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511433"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692148"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="1b4f3-102">Salasanojen vaihtaminen tai vaihtaminen</span><span class="sxs-lookup"><span data-stu-id="1b4f3-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="1469a-102">Sala sanojen palauttaminen tai muuttaminen</span><span class="sxs-lookup"><span data-stu-id="1469a-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="1b4f3-103">Käyttäjä voi vaihtaa oman salasanansa **Oma tili**Security  >  [& tietosuoja](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="1b4f3-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="1469a-103">Käyttäjä voi vaihtaa oman Sala sanansa **tilin**  >  [Suojaus & tieto suoja-asetukset](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="1469a-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="1b4f3-104">Jos käyttäjä on unohtanut salasanansa, järjestelmänvalvoja voi **Users**palauttaa salasanan valitsemalla  >  [Käyttäjät Aktiiviset käyttäjät](https://portal.office.com/adminportal/home#/users), valitsemalla käyttäjät ja valitsemalla Palauta **salasana**.</span><span class="sxs-lookup"><span data-stu-id="1b4f3-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="1469a-104">Jos käyttäjä on unohtanut Sala sanansa, järjestelmänvalvoja voi vaihtaa Sala sanan siirtymällä **käyttäjät**  >  [aktiiviset käyttäjät](https://portal.office.com/adminportal/home#/users)-kohtaan, valitsemalla käyttäjä (a) ja valitsemalla sitten **Vaihda sala sana**.</span><span class="sxs-lookup"><span data-stu-id="1469a-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="1b4f3-105">Saat lisätietoja tai antaa käyttäjien palauttaa omat unohtuneet salasanansa [napsauttamalla tätä.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)</span><span class="sxs-lookup"><span data-stu-id="1b4f3-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="1469a-105">[Napsauta tätä, jos haluat lisä tietoja](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)tai jos haluat, että käyttäjät voivat vaihtaa omia unohdettuja Sala sanoja.</span><span class="sxs-lookup"><span data-stu-id="1469a-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
