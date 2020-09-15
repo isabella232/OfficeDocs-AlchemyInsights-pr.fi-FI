@@ -1,34 +1,35 @@
 ---
-title: SHAREPointin, OneDriven ja Microsoft Teamsin ATP
+title: ATP SharePointissa, OneDrivessa ja Microsoft Teamsissa
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: e9437d04815d4ca2f55cf9133ef6a4b429cd2476
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508409"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715558"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SHAREPointin, OneDriven ja Microsoft Teamsin ATP
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP SharePointissa, OneDrivessa ja Microsoft Teamsissa
 
-Ota uhkien lisäsuojaus käyttöön seuraavasti:
+Ota Advanced Threat Protectionin suojaus käyttöön seuraavasti:
 
-1. Siirry [https://protection.office.com](https://protection.office.com) yleiseen järjestelmänvalvojan tai suojauksen järjestelmänvalvojan tiliin ja kirjaudu sisään.
+1. Siirry [https://protection.office.com](https://protection.office.com) ja Kirjaudu sisään yleisen valvojan tai suojausvalvojan tilillä.
 
-2. Valitse **Uhkien hallinta**-kohdan vasemmasta siirtymisruudusta **Policy** \> **Käytäntöturvallisit liitteet**.
+2. Valitse vasemman siirtymis ruudun **uhkien hallinta**-kohdassa **käytännön** \> **turvalliset liitteet**.
 
-3. Valitse **Ota ATP käyttöön SharePointissa, OneDrivessa ja Microsoft Teamsissa**.
+3. Valitse **Ota käyttöön SharePoint-, OneDrive-ja Microsoft TEAMSIN ATP**.
 
-4. [Luo toimintavaroituskäytäntö, jotta](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) saat ilmoituksia, kun havaitsemme haitallisia tiedostoja.
+4. [Luo toiminta ilmoitus käytäntöä](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) ilmoitusten vastaanottamista varten, kun tunnistamme vahingollisia tiedostoja.
 
-Täydelliset ohjeet ovat tässä [ohjeaiheessa](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Katso täydelliset ohjeet tästä [aiheesta](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Huomautus:** ATP ei tarkista jokaista SharePoint Onlinen, OneDrive for Businessin tai Microsoft Teamsin tiedostoa. Tiedostot skannataan asynkronisesti prosessilla, joka käyttää jakamistoimintaa, vierastoimintaa ja uhkasignaaleja haitallisten tiedostojen tunnistamiseen. Lisätietoja on tässä [ohjeaiheessa](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Huomautus**: kun ATP on suunniteltu, se ei tarkista jokaista tiedostoa SharePoint Onlinessa, OneDrive for Businessissa tai Microsoft teamsissa. Tiedostot tarkistetaan asynkronisesti prosessi, joka käyttää jakamis toimintaa, vieras toimintaa ja uhka signaaleja haitallisten tiedostojen tunnistamiseksi. Lisä tietoja [on tässä artikkelissa](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

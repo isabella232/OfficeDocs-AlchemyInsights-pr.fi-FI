@@ -1,10 +1,11 @@
 ---
-title: Laskutusosoitteen muuttaminen
+title: Laskutus osoitteen muuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943940"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714433"
 ---
-# <a name="change-your-billing-address"></a>Laskutusosoitteen muuttaminen
+# <a name="change-your-billing-address"></a>Laskutus osoitteen muuttaminen
 
 Laskussa tai laskussa on kolme osoitetta.
 
-**Maksutavan laskutusosoitteen muuttaminen**
+**Maksu tavan laskutus osoitteen muuttaminen**
 
-1. Siirry hallintakeskuksessa kohtaan **Laskutus > [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
-2. Valitse muutettava luottokortti tai pankkitili.
-3. Valitse **Maksutavan tiedot** -sivulla **Muokkaa**.
-4. Päivitä laskutusosoitteesi ja valitse sitten **Tallenna > valmis**.
+1. Siirry hallinta keskuksessa kohtaan **laskutus > [Maksu tavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Valitse luotto kortti tai pankki tili, jota haluat muuttaa.
+3. Valitse **maksu tapa tiedot** -sivulla **Muokkaa**.
+4. Päivitä laskutus osoitteesi ja valitse sitten **tallenna > valmis**.
 
-Lisätietoja osoitteiden ja ilmoitusten muutoksista on ohjeaiheessa [Microsoft 365 for Businessin laskutusosoitteiden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Lisä tietoja osoitteen ja ilmoitusten muutoksista on Ohje aiheessa [Microsoft 365 for Businessin laskutus osoitteiden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-**Laskutustilin tietojen muuttaminen**
+**Laskutus tilin tietojen muuttaminen**
 
-1. Siirry hallintakeskuksessa **Laskutus- > [laskutustilit -kohtaan](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
-2. Valitse **Muokkaa laskutustilin tietoja**.
-3. Päivitä laskutustilin tiedot ja valitse sitten **Tallenna > valmis**.
+1. Siirry hallinta keskuksessa kohtaan **laskutus > [laskutus tili](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Valitse **Muokkaa laskutus tilin tietoja**.
+3. Päivitä laskutus tilin tiedot ja valitse sitten **tallenna > valmis**.
 
-**Huomautus:** Maata tai aluetta ei voi muuttaa. Jos tätä kenttää on muutettava, sinun on ostettava uusi vuokraaja.
+**Huomautus**: et voi muuttaa maata/aluetta. Jos tätä kenttää on muutettava, sinun on ostettava uusi vuokraaja.
