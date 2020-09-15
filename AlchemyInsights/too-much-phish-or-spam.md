@@ -1,25 +1,26 @@
 ---
-title: 665 Oletko saanut liikaa Phish tai roska postia posti laatikkoon?
+title: 665 Saatko liian paljon Phish-tai roska postia posti laatikkoosi?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911628"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700236"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Oletko saanut liikaa Phish tai roska postia posti laatikkoon?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Saatko liian paljon Phish-tai roska postia posti laatikkoosi?
 
-Microsoft 365 Adminissa paras tapa selvittää, miksi tietojenkalastelu tai roska posti viesti toimitettiin, on lähettää näyte Microsoftille [lähetysten hallinnassa](https://protection.office.com/reportsubmission). Saat välitöntä palautetta, joka liittyy viestien suodattamiseen ja miksi on ongelmia.
+Microsoft 365-järjestelmänvalvojana paras tapa selvittää, miksi tietojen kalastelu-tai roska posti viesti toimitettiin, on lähettää malli Microsoftille [Lähetetyt](https://protection.office.com/reportsubmission)-sovelluksessa. Saat välitöntä palautetta viestin suodattamisesta ja siitä, miksi ongelmia on.
 
-Jotta se helpoisi, voit antaa käyttäjien raportoida suoraan Microsoftille [raportti viesti-apuohjelman](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)kautta.
+Voit määrittää, että käyttäjät voivat raportoida suoraan Microsoftille [raportti viesti-apuohjelman](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)kautta.
 
-**Tiesitkö tätä?**: Voit nyt lähettää näytteitä suoraan [viestin jäljestä](https://protection.office.com/messagetrace) ja E5/ATP-suunnitelma 2 asiakkaat voivat lähettää näytteitä [Threat Explorerista](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Tiesitkö**, että voit nyt lähettää näytteitä suoraan [viestin jäljityksestä](https://protection.office.com/messagetrace) ja E5/ATP-sopimus 2-asiakkaat voivat lähettää näytteitä [Threat Explorerista](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
