@@ -1,29 +1,30 @@
 ---
-title: Yrityksen nimen poiston käytöstäpoiston
+title: Yrityksen nimen purku poistumisesta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469224"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681005"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Muutokset yrityksen nimien louhinnassa SharePoint Onlinessa
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Yrityksen nimen kopioinnin muutokset SharePoint Onlinessa
 
-15. marraskuuta 2019 alkaen [poistamme yritys nimien poiston SharePoint Onlinista](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Yrityksen nimen poiminta SharePointissa mahdollistaa sen, että haku järjestelmä Poimi yrityksen nimet tietystä ehtojen mukaisesta sisällöstä käyttämällä valmiiksi täytettyä sana kirjaa tai käyttämällä yrityksen inkluusion-tai yrityksen Poissulkemisluetteloita. Vaikka yrityksen nimen poiminta on tullut luetuksi ratkaisuksi, joka johtaa yhden tai useamman yrityksen nimen SharePoint Onlinen sisällöstä, sekä sanasto että sen pohjana oleva ominaisuus on vanhentunut.
+Me poistamme [yritys nimien purkamisen SharePoint Onlinesta](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)15. joulu kuuta 2019 alkaen. Yrityksen nimen poimiminen SharePointissa haku järjestelmä voi poimia yritysten nimet tietystä ehtojen joukosta ennalta määritetyn sanaston avulla tai käyttämällä yrityksen sulkemisia tai yrityksen Poissulkemisluetteloita. Vaikka yrityksen nimien erottamisesta on muodostunut vedoksena yksi tai useampi yritys nimi SharePoint Onlinen sisällöstä, sekä sanasto että sen pohjana olevat ominaisuudet vanhenevat.
 
-- [Mistä tiedän, onko yrityksen nimen poiminta otettu käyttöön?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Mistä tiedän, onko yrityksen nimien poiminta käytössä ominaisuudelle?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Mitä tapahtuu, kun yrityksen nimen poiminta on vanhentunut?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Mitä tapahtuu, kun yrityksen nimen purku on syrjäytetty?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Onko yrityksen nimen louhinta vaihto ehtoja?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Onko yrityksen nimien erottamisessa vaihto ehtoja?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

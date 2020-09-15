@@ -1,33 +1,34 @@
 ---
-title: Peruuta edistynyt uhkien suojaus
+title: Advanced Threat Protectionin peruuttaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: dc228b5c4ebc1bd1f981868e0eb44fa444e7e7da
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707894"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683687"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Peruuta edistynyt uhkien suojaus
+# <a name="cancel-advanced-threat-protection"></a>Advanced Threat Protectionin peruuttaminen
 
-Advanced Threat Protection voidaan peruuttaa **Microsoft 365 -hallintakeskuksessa**.
+Advanced Threat Protectionin voi peruuttaa **Microsoft 365-hallinta keskuksessa**.
 
-1. Siirry **Billing**  >  [Laskutustuotteesi-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Etsi peruutettava uhkien suojaussuunnitelma.
+1. Siirry **laskutus**  >  [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+2. Etsi Advanced Threat-suojaus sopimus, jonka haluat peruuttaa.
 3. Valitse **Peruuta tilaus**.
 
-Hyvitys: Kaikki prorated-hyvitykset palautetaan sinulle seuraavan laskutusjakson aikana.
+Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.
 
-**Huomautus**: Jos peruutusvaihtoehtoa ei näy, voit tarkastella tietoja napsauttamalla tilausta ja näet **Asetukset & Toiminnot -kohdassa Peruuta** **tilaus** -vaihtoehdon.
+**Huomautus**: Jos et näe Peruuta-vaihto ehtoa, saat lisä tietoja valitsemalla tila uksen ja näet **Peruuta tilaus** -vaihto ehdon kohdassa **Asetukset & toiminnot**.
 
-Lisätietoja on [ohjeaiheessa Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

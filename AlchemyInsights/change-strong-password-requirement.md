@@ -1,30 +1,31 @@
 ---
-title: Muuta vahva salasanavaatimus
+title: Vahvan salasana vaatimuksen muuttaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: a054735a0c139c90d76098297bb9984d37464d3b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706558"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681869"
 ---
-# <a name="change-strong-password-requirement"></a>Vahvan salasanavaatimuksen muuttaminen
+# <a name="change-strong-password-requirement"></a>Vahvan salasana vaatimuksen muuttaminen
 
-Microsoft vaatii oletusarvoisesti vahvat salasanat. 
+Microsoft vaatii oletusarvoisesti vahvat Sala sanat. 
 
-PowerShellin avulla voit poistaa tiettyjen käyttäjien vahvat salasanat käytöstä tällä komennolla:<br>
-*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired $false*
+PowerShellin avulla voit poistaa käytöstä tiettyjen käyttäjien vahvat Sala sanat tällä komennolla:<br>
+*Määrittäminen-MsolUser-UserPrincipalName <UserPrincipalName> – strongpasswordrequired $false*
 
-- [Lisätietoja salasanakäytännöstä](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Yhteyden muodostaminen Microsoft 365:een PowerShellin avulla](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Lisätietoja PowerShell MsolUser -komennoista](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Lisä tietoja salasana käytännöstä](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Yhteyden muodostaminen Microsoft 365 ja PowerShellin avulla](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Lisä tietoja PowerShell MsolUser-komennoista](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
