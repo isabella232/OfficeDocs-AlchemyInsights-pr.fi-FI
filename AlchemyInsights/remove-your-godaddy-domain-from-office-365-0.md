@@ -1,24 +1,25 @@
 ---
-title: GoDaddy-toimialueen poistaminen Microsoft 365:stä
-ms.author: v-crytho
+title: GoDaddy-toimi alueen poistaminen Microsoft 365-palvelussa
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 13b3bfaf1af9fb26c721e6d9c637b85d7da2332d
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789083"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701496"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="1008c-102">GoDaddy-toimialueen poistaminen Microsoft 365:stä</span><span class="sxs-lookup"><span data-stu-id="1008c-102">Remove your GoDaddy domain from Microsoft 365</span></span>
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="ff43e-102">GoDaddy-toimi alueen poistaminen Microsoft 365-palvelussa</span><span class="sxs-lookup"><span data-stu-id="ff43e-102">Remove your GoDaddy domain from Microsoft 365</span></span>
 
-<span data-ttu-id="1008c-103">GoDaddy-toimialuetta ei voi poistaa Microsoft 365:stä puolestasi.</span><span class="sxs-lookup"><span data-stu-id="1008c-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="1008c-104">Soita [GoDaddyn asiakaspalveluun.](https://aka.ms/contact-godaddy)</span><span class="sxs-lookup"><span data-stu-id="1008c-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
+<span data-ttu-id="ff43e-103">Emme voi poistaa GoDaddy-toimi aluettasi Microsoft 365-palvelussa puolestasi.</span><span class="sxs-lookup"><span data-stu-id="ff43e-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="ff43e-104">Saat apua godaddyssä [asiakas palvelussa](https://aka.ms/contact-godaddy) .</span><span class="sxs-lookup"><span data-stu-id="ff43e-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   
