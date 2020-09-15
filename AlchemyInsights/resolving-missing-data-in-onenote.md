@@ -1,41 +1,42 @@
 ---
-title: Puuttuvia tietoja OneNote-ratkaiseminen
+title: Puuttuvien tietojen ratkaiseminen OneNotessa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800325"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662313"
 ---
-# <a name="resolving-missing-data-in-onenote"></a>Puuttuvia tietoja OneNote-ratkaiseminen
+# <a name="resolving-missing-data-in-onenote"></a>Puuttuvien tietojen ratkaiseminen OneNotessa
 
-**Muistikirjan puuttuu**
+**Puuttuva muisti kirja**
 
-- Jos OneDrive muistikirjan oli vahingossa poistettu, voit palauttaa sen noudattamalla Palauta [Poistetut tiedostot tai kansiot OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- Voit palauttaa poistetun OneDrive muistikirjan 30 päivän kuluessa oletusarvon mukaan kun se on julkaistu ohjeita [poistetun OneDrive palauttaminen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
-- OneNote saattaa käyttää jotakin muuta tiliä kuin odotit. Lisäksi henkilökohtainen Microsoft-tili on työ- tai koulun antama tilin, jos tarvitset lisää muut tilisi voit näyttää kaikki muistikirjat (katso ohjeet [OneNotessa Lisää tili](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+- Jos OneDriven muisti kirja on poistettu vahingossa, voit palauttaa sen noudattamalla ohjeita kohdassa [poistettujen tiedostojen tai kansioiden palauttaminen OneDrivessa](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f) .
+- Voit palauttaa muisti kirjan poistetusta OneDrivesta 30 päivän kuluessa oletusarvoisesti noudattamalla kohdassa [poistetun OneDriven palauttaminen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) annettuja ohjeita.
+- OneNotessa saattaa olla käytössä eri tili kuin odotit. Jos sinulla on työpaikan tai oppi laitoksen tarjoama tili henkilökohtaisen Microsoft-tilisi lisäksi, sinun on lisättävä toinen tili, jotta näet kaikki muisti kirjasi (Katso ohjeet [tilin lisäämiseen OneNotessa](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
 
-**Puuttuvat muistiinpanot muistikirjan**
+**Muisti kirjan muistiinpanot puuttuvat**
 
-Synkronointivirhe on yksi yleisimmistä syistä puuttuvien sivujen tai muistikirjan osia. Tässä tapauksessa tiedot on menetetty ja voidaan palauttaa, kun synkronointi toimii. Tarkista jokaisen asiakkaan käyttäjät ovat käyttäneet tunnistaa Jos joku niistä näyttää virheen muistikirjan ja jos tapahtuu virhe, katso [korjaamista OneNote ei voi synkronoida kun](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)OneNote.
+Yksi yleisimmistä muisti kirjan puuttuvien sivujen tai osan syistä on synkronointi virhe. Tässä tapa uksessa tietoja ei menetetä ja ne voidaan palauttaa synkronoinnin jälkeen. Tarkista, että kaikki OneNote-asiakas ohjelman käyttäjät ovat tunnistaneet, onko muisti kirjan virhe, ja jos virhe on olemassa, Katso lisä tietoja artikkelista [ongelmien korjaaminen, kun OneNote-synkronointi ei onnistu](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
-- OneNote for Windows 10-kolmion muotoinen keltainen varoituskuvake todennäköisesti näkyy muistikirjan vieressä.
-- OneNote-2016-muistikirjan nimen valintanauhan alapuolelle, napsauta hiiren kakkospainikkeella ja valitse ”muistikirjan synkronoinnin tilan-
-- Tarkista muistikirjan kuvakkeessa lähellä keltainen huutomerkki OneNotessa Mac
-- OneNotessa iPhone Siirry Muistion ja valitsemalla toiminto-painiketta oikeassa yläkulmassa
-- Siirry Android OneNoten muistikirjat->View synkronointivirheitä
+- OneNote for Windows 10: ssä muisti kirjan vieressä näkyy todennäköisesti keltainen kolmion muotoinen varoitus kuvake.
+- Napsauta OneNote 2016-sovelluksen valinta nauhan alapuolella olevaa muisti kirjan nimeä hiiren kakkos painikkeella ja valitse muisti kirjan synkronoinnin tila.
+- Jos käytössäsi on OneNOte for Mac, tarkista, että muisti kirjan kuvakkeen lähellä on keltainen huuto merkki
+- Siirry OneNote for iPhonessa muisti kirjaan ja napsauta oikeassa yläkulmassa olevaa Toiminto-painiketta.
+- Siirry OneNote for Androidissa muihin muisti kirjoihin->Näytä synkronointi virheet
 
-Ohjeiden etsiminen, synkronoida tiedoston tai palauttaa muistiinpanojen [Etsi kadonneet muistiinpanot](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) .
+Etsi, Synkronoi tiedostosi tai Palauta muistiinpanot noudattamalla [Etsi kadonneet muistiinpanoni](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) -kohdan ohjeita.
 
-Jos käytät OneNotea 2016, saatat pystyä, [poistettujen muistiinpanojen palauttaminen](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) varmuuskopioista.
+Jos käytössäsi on OneNote 2016, pystyt ehkä [palauttamaan poistetut muistiinpanot](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) varmuus kopioista.

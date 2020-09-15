@@ -1,40 +1,41 @@
 ---
-title: Outlook Desktopin sähköpostiviestin peruuttaminen tai korvaaminen
+title: Outlookin Työpöytä version peruuttaminen tai sähkö posti viestin korvaaminen
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 578e2690061286bde74ee0b4b74a197630716f59
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502316"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663987"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook-sähköpostiviestin peruuttaminen tai korvaaminen
+# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook-Sähkö posti viestin peruuttaminen tai korvaaminen
 
-- Järjestelmänvalvojana voit **palauttaa viestit käyttäjien puolesta PowerShellin avulla.** Et voi palauttaa viestejä hallintakeskuksesta.
-- Voit **palauttaa vain organisaation henkilöille lähetetyt viestit.** Jos viesti on lähetetty esimerkiksi Gmail-osoitteeseen, et muista sitä.
-- Voit **palauttaa outlook 2016:sta lähetetyt viestit vain tietokoneessa**. Jos käyttäjä lähettää viestin Outlook for Macilla tai Outlookin verkkoversiossa, et muista sitä.
+- Järjestelmänvalvojana voit **peruuttaa viestejä käyttäjien puolesta PowerShellin avulla**. Et voi peruuttaa viestejä hallinta keskuksesta.
+- Voit **peruuttaa vain organisaation henkilöille lähetetyt viestit**. Jos viesti on lähetetty Gmail-osoitteeseen, et voi esimerkiksi peruuttaa sitä.
+- Voit **vain peruuttaa viestit, jotka on lähetetty Outlook 2016-tieto koneesta**. Jos käyttäjä lähettää viestin käyttämällä Outlook for Macia tai Outlookin verkko versiota, et voi peruuttaa sitä.
 
-Sähköpostiviestin peruuttaminen tai korvaaminen:
+Sähkö posti viestin peruuttaminen tai korvaaminen:
 
-1. Valitse Outlook-ikkunan vasemmalla puolella olevasta kansioruudusta Lähetetyt-kansio.
-1. Avaa se kaksoisnapsauttamalla viestiä, jonka haluat palauttaa.
-1. Valitse **Viesti-välilehti** ja valitse sitten **Toiminnot**  >  **peruuta tämä viesti**.
-1. Valitse **Poista tämän viestin lukemattomat kopiot** tai Poista **lukemattomat kopiot ja korvaa se uudella viestillä**ja valitse sitten **OK**.
+1. Valitse Outlook-ikkunan vasemmalla puolella olevassa kansio ruudussa Lähetetyt-kansio.
+1. Avaa viesti, jonka haluat peruuttaa, kaksoisnapsauttamalla sitä.
+1. Valitse **viesti** -väli lehti ja valitse sitten **toiminnot**, jotka  >  **palauttavat tämän viestin**.
+1. Valitse **Poista tämän viestin lukemattomat kopiot** tai **Poista lukemattomat kopiot ja vaihda uuteen viestiin**ja valitse sitten **OK**.
 1. Jos lähetät korvaavan viestin, kirjoita viesti ja valitse sitten **Lähetä**.
-1. Viestin palauttamisen onnistuminen tai epäonnistuminen riippuu vastaanottajan outlookin asetuksista. Lisätietoja palautusten tarkistamisesta on [tässä artikkelissa](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Viestin peruuttamisen onnistuminen tai epäonnistuminen määräytyy sen mukaan, mitä vastaanottajia koskevat asetukset ovat Outlookissa. Jos haluat tarkistaa peruutuksen, Lue [Tämä artikkeli](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Sähköpostiviestien etsiminen ja poistaminen organisaatiossa
+Sähkö posti viestien etsiminen ja poistaminen organisaatiossa
 
-- Jos et ole yleinen järjestelmänvalvoja, tilisi on lisättävä eDiscovery Manager -rooliin tai yhteensopivuushaun hallintarooliin, jotta voit etsiä viestejä. Jos haluat poistaa viestejä, sinun on liityttävä Organisaation hallinta -rooliryhmään tai Haun ja Tyhjennä -hallintarooliin. Näiden roolien käyttöoikeudet määritetään [Suojaus- ja yhteensopivuuskeskuksessa.](https://go.microsoft.com/fwlink/?linkid=2083731)
-- Etsi poistettava viesti [luomalla sisältöhaku.](https://docs.microsoft.com/microsoft-365/compliance/content-search)
-- [Muodosta yhteys Tietoturva- ja Compliance Center PowerShell -sovellukseen.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)
+- Jos et ole yleinen järjestelmänvalvoja, tili on lisättävä eDiscoveryn hallinta rooliin tai yhteensopivuuden haun hallinta rooliin, jotta voit hakea viestejä. Jos haluat poistaa viestejä, sinun on liitytä organisaation hallinta-rooli ryhmään tai Hae ja poista hallinta-rooliin. Näiden roolien käyttö oikeudet määritetään [tieto turva-ja yhteensopivuus keskuksessa](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Luo sisältö haku](https://docs.microsoft.com/microsoft-365/compliance/content-search) , jos haluat etsiä poistettavan viestin.
+- [Muodosta yhteys tieto turva-ja yhteensopivuus keskuksen PowerShellin avulla](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Jos käytät monivaiheista todennusta, katso [lisätietoja ohjeaiheesta Yhteyden muodostaminen Microsoft 365 :n tietoturvaan ja Compliance Center PowerShelliin monivaiheisen todennuksen avulla](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Jos käytät monimenetelmäistä todennusta, Katso lisä tietoja artikkelista [yhteyden muodostaminen Microsoft 365-tieto turva-ja yhteensopivuus keskuksen PowerShellin avulla monimenetelmäinen todentaminen-toiminnolla](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

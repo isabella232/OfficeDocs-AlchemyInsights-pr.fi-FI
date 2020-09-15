@@ -1,26 +1,27 @@
 ---
-title: Hallitun metatietopalvelun virhesanoma
+title: Hallitun metatietojen palvelun virhe sanoma
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 5bdea7c1c0e74ca622fc4c5d5595cc5dada3c5e0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762494"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662862"
 ---
-# <a name="managed-metadata-service-error-message"></a>Hallitun metatietopalvelun virhesanoma
+# <a name="managed-metadata-service-error-message"></a>Hallitun metatietojen palvelun virhe sanoma
 
-Kun avaat termisäilön, näyttöön saattaa tulee virhesanoma: "Hallittu metatietopalvelu tai yhteys ei ole tällä hetkellä käytettävissä. Sovellussarjaa tai Hallittuja metatietoja -Www-palvelua ei ehkä ole käynnistetty. Ota yhteyttä järjestelmänvalvojaan."
+Kun avaat termi säilön, näyttöön voi tulla virhe sanoma: hallittujen metatietojen palvelu tai yhteys ei ole tällä hetkellä käytettävissä. Sovellus sarjaa tai hallittua metatietojen verkko palvelua ei ehkä ole käynnistetty. Ota yhteyttä järjestelmänvalvojaasi. "
   
-Jos tämän ongelman ensimmäisestä näkemästäsi on kulunut yli 24 tuntia, kirjaudu tukitapaukseen. Ymmärrämme, että 24 tuntia voi tuntua pitkältä ajalta. Monissa tapauksissa olemme jo työstää ratkaisua niin antakaa meille vähintään 24 tuntia.
+Jos sinulla on kulunut yli 24 tuntia siitä, kun olet ensimmäisen kerran nähnyt tämän ongelman, kirjaudu tuki pyyntöön. Ymmärrämme, että 24 tuntia voi tuntua pitkältä aika väliltä. Monissa tapa uksissa pyrimme jo ratkaisemaan ongelman, joten antakaa meille vähintään 24 tuntia.
   

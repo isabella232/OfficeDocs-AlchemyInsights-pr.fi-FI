@@ -1,10 +1,11 @@
 ---
-title: Työnkulun vianmääritys
+title: Työn kulun vian määritys
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: a409db3a997e970ff2bf7a1288a81e0881105567
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582052"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688979"
 ---
-# <a name="workflow-troubleshooting"></a>Työnkulun vianmääritys
+# <a name="workflow-troubleshooting"></a>Työn kulun vian määritys
 
-Lisätietoja SharePoint-työnkulkujen virheenkorjauksesta on seuraavissa kysytsissä:
-- Työnkulkujen virheenkorjaus muistuttaa aiempien versioiden työnkulkuja.  Lisätietoja on kohdassa [SharePoint-työnkulkujen virheenkorjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Lisätietoja vianmäärityksestä on [ohjeaiheessa SharePoint Serverin työnkulun vahvistusvirheiden vianmääritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Jos haluat lisä tietoja SharePoint-työn kulkujen vian määrityksestä, tarkista seuraavat asiat:
+- Virheen korjaus työn kulut muistuttavat aiempia versioita.  Lisä tietoja on kohdassa [SharePoint-työn kulkujen virheen korjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- Lisä tietoja vian määrityksestä on Ohje aiheessa [SharePoint Server-työn kulun tarkistus virheiden vian määritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Aiheeseen liittyvät artikkelit
 Haluatko kokeilla Microsoft Flow'ta SharePoint Onlinessa?
-- [Luo työnkulku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ja Työnkulku](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Työn kulun luominen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ja Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 

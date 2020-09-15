@@ -1,32 +1,33 @@
 ---
-title: Microsoft Intunen rekisteröintiasetuksiin liittyvien ongelmien vianmääritys
+title: Rekisteröinti asetuksiin liittyvien ongelmien vian määritys Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 15b843bdf4a2152c2ddd5d25b623d36734bdf4a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43735189"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665211"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Microsoft Intunen rekisteröintiasetuksiin liittyvien ongelmien vianmääritys
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Rekisteröinti asetuksiin liittyvien ongelmien vian määritys Microsoft Intune
 
-Ratkaise ongelma nyt alla olevien resurssien avulla.
+Ratkaise ongelma nyt alla lueteltujen resurssien avulla.
   
-- [Etsi vastauksia ja ratkaisuja yleisiin ongelmiin Intune TechNetistä.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
+- [Voit etsiä vasta uksia ja ratkaisuja yleisiin ongelmiin tarkistamalla Intune TechNetin](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
 
-- [Intune Troubleshooting Portalin](https://aka.ms/intunetroubleshooting) avulla voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä. Lisätietoja on [tässä asiakirjassa.](https://docs.microsoft.com/intune/help-desk-operators)
+- Käytä [Intune-vian määritys portaalia](https://aka.ms/intunetroubleshooting) yleisten rekisteröinti virheiden diagnosointiin ja ratkaisemiseen. Katso lisä tietoja [tästä asia kirjasta](https://docs.microsoft.com/intune/help-desk-operators) .
 
-- Tässä [asiakirjassa](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) on luettelo yleisistä virheistä, jotka estävät rekisteröitymisen ja ratkaisut kuhunkin.
+- Tarkista [Tämä asia kirja](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , jossa on luettelo yleisistä virheistä, jotka estävät rekisteröinnin ja päätös lauselmien kunkin.
 
-- [Lisätietoja Microsoft Intunen rekisteröintiasetuksista](https://docs.microsoft.com/intune/enrollment-options).
+- [Lisä tietoja Microsoft Intune-rekisteröinti vaihtoehdoista](https://docs.microsoft.com/intune/enrollment-options).

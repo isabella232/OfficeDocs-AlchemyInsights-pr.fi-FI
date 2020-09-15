@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148034"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662430"
 ---
 # <a name="restore-a-deleted-form"></a>Poistetun lomakkeen palauttaminen
 
-Jos poistit lomakkeen Microsoft Formsissa vahingossa, voit palauttaa sen. Kirjaudu Microsoft Formsiin poistetun lomakkeen omistajana. Valitse **roskakori,** valitse palautettava lomake ja valitse **Palauta**. Kun olet palauttanut, valitse **Takaisin lomakkeisiin -sivunuoli.**
+Jos olet poistanut lomakkeen Microsoft Formsissa vahingossa, voit palauttaa sen. Kirjaudu sisään Microsoft Formsin poistetun lomakkeen omistajaksi. Valitse **roska kori**, valitse palautettava lomake ja valitse **Palauta**. Kun olet palauttanut, valitse **takaisin omiin lomakkeisiin-sivun** nuoli.
 
-Vain lomakkeen omistaja voi palauttaa sen. Jos lomakkeen omistajan tili on poistettu käytöstä tai poistettu vuokraajasta, vain yleinen järjestelmänvalvoja voi palauttaa lomakkeen. Yleisellä järjestelmänvalvojalla on oltava lomakekäyttöoikeus, jotta hän voi suorittaa palautuksen. Vain lomakkeet, jotka on luotu 30 päivän kuluessa siitä, kun käyttäjätili on poistettu käytöstä tai poistettu vuokraajasta, voidaan palauttaa.
+Vain lomakkeen omistaja voi palauttaa sen. Jos lomakkeen omistajan tili on poistettu käytöstä tai se on poistettu vuokra ajasta, vain yleinen hallinnoija voi palauttaa lomakkeen. Yleisellä järjestelmänvalvojalla on oltava lomakkeiden käyttö oikeus, jotta se voi suorittaa palautuksen. Vain ne lomakkeet, jotka on perustettu 30 päivän kuluessa siitä, kun käyttäjä tili on poistettu käytöstä tai poistettu vuokra ajasta, voidaan palauttaa.
 
-Jos olet vuokraajan yleinen järjestelmänvalvoja ja haluat palauttaa lomakkeen poistetulta tai käytöstä poistetulta tililtä, korvaa [sähköpostiosoite] poistetun tai käytöstä poistetun käyttäjän sähköpostiosoitteella seuraavassa URL-osoitteessa: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [sähköpostiosoite]** Jos sähköpostiosoitteesi on esimerkiksi johndoe@contoso.com, URL-osoite on: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Jos olet vuokra ajan yleinen hallinnoija ja haluat palauttaa lomakkeen tililtä, joka on poistettu tai poistettu käytöstä, Vaihda [Sähkö posti osoite], jonka nimi on poistettu tai poistettu käytöstä, seuraavassa URL-osoitteessa: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [Sähkö posti osoite]** Jos esimerkiksi sähkö posti osoitteesi on Johndoe@contoso.com, URL-osoite on: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Kun olet voinut käyttää käyttäjän poistettuja lomakkeita, valitse siirrettävä lomake ja valitse sitten **Lisää lomaketoimintoja**  >  **.**
+Kun olet saanut käyttäjän poistettujen lomakkeiden käyttö oikeuden, valitse siirrettävä lomake ja valitse sitten **Lisää lomake toimintoja**  >  **Siirrä**.
 
-Jos haluat palauttaa lomakkeen, jossa se on poistettu ja käyttäjä on poistettu organisaatiosta, yleinen järjestelmänvalvoja voi halutessaan palauttaa käyttäjän, palauttaa kyseisen käyttäjän salasanan ja sitten kirjautuneena sisään kyseisenä käyttäjänä, voit siirtää sen toiselle aktiiviselle käyttäjälle lomakkeella. 
+Jos haluat palauttaa lomakkeen, jossa se on poistettu ja käyttäjä on poistettu organisaatiosta, Yleinen järjestelmänvalvoja voi halutessaan palauttaa käyttäjän, palauttaa käyttäjän Sala sanan ja sen jälkeen, kun olet kirjautunut sisään käyttäjänä, siirtyä lomakkeeseen ja siirtää sen toiseen aktiiviseen käyttäjään. 

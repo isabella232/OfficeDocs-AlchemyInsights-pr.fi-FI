@@ -1,10 +1,11 @@
 ---
-title: Videon lataamisen oletuskäyttöoikeuksien rajoittaminen
+title: Videon oletus latauksen käyttö oikeuksien rajoittaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: ccfacd6ea910937d3474cf94b9ff8e19c456832c
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692004"
 ---
-# <a name="restrict-default-video-upload-permissions"></a>Videon lataamisen oletuskäyttöoikeuksien rajoittaminen
+# <a name="restrict-default-video-upload-permissions"></a>Videon oletus latauksen käyttö oikeuksien rajoittaminen
 
-Kun käyttäjät lataavat videon Microsoft Streamiin Stream-portaalin kautta ryhmän tai ryhmäkanavan kontekstin ulkopuolella, Salli kaikkien yrityksen katsella tätä videota -valintaruutu on oletusarvoisesti valittuna. Tämä tekee videon kaikkien yrityksen imettämien nähtäville.
+Kun käyttäjät lataavat videon Microsoft Streamille ryhmä-tai ryhmä kanavan ulkopuolella olevan suora toisto portaalin kautta, Salli kaikkien yrityksesi käyttäjien tarkastella tätä videota-valinta ruutu on oletusarvoisesti valittuna. Tämä mahdollistaa sen, että kaikki yrityksesi käyttäjät näkevät videon.
 
-- [Videon lataamisen oletuskäyttöoikeuksien määrittäminen](https://docs.microsoft.com/stream/default-video-permissions)
+- [Videon oletus lataus oikeuksien määrittäminen](https://docs.microsoft.com/stream/default-video-permissions)
