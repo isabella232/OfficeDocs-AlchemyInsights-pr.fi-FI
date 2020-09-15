@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743414"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694236"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>Outlook.com-tilin vahvistaminen
 
-Kaksivaiheinen vahvistus auttaa suojaamaan sinua vaikeuttamalla jonkun muun kirjautumista Microsoft-tiliisi. Se käyttää kahta eri identiteettiä: salasanaasi ja yhteydenottotapaa (jota kutsutaan myös suojaustiedoiksi).
+Kaksivaiheisen tarkistamisen avulla voit suojata käyttäjää vaikeamalla sitä, että joku muu voi kirja utua Microsoft-tiliisi. Siinä käytetään kahta eri tunniste tieto muotoa: Sala sanaa ja yhteys tieto menetelmää (tunnetaan myös nimellä tieto turva tiedot).
   
-Kaksivaiheisen vahvistuksen ottaminen käyttöön tai poistaminen käytöstä:
+Kaksivaiheisen tarkistuksen ottaminen käyttöön tai poistaminen käytöstä:
   
-1. Siirry [Suojauksen perusteet -sivulle](https://go.microsoft.com/fwlink/?linkid=842325) ja kirjaudu sisään Microsoft-tililläsi.
-2. Valitse **Lisää suojausasetuksia**.
-3. Valitse **Kaksivaiheinen vahvistus**-kohdassa **Määritä kaksivaiheinen vahvistus** ja noudata ohjeita.
+1. Siirry [tieto turvan perusteet-sivulle](https://go.microsoft.com/fwlink/?linkid=842325) ja Kirjaudu sisään Microsoft-tililläsi.
+2. Valitse **Lisää käyttö oikeus asetuksia**.
+3. Valitse **kaksivaiheinen tarkistaminen**-kohdassa **Määritä kaksivaiheinen tarkistaminen** ja noudata ohjeita.
 
-Jos otat kaksivaiheisen vahvistuksen käyttöön, tarvitset aina kaksi tunnistusmuotoa. Jos kadotat yhteydenottotapasi, salasanasi ei yksin pääse takaisin tilillesi - ja käyttö voi kestää 30 päivää.
+Jos otat käyttöön kaksivaiheisen tarkistamisen, tarvitset aina kaksi tunnistus vaihtoehtoa. Jos kadotat yhteys tieto menetelmänsä, Sala sanasi ei jää takaisin tilillesi – ja se voi viedä sinut 30 päivää takaisin käyttöösi.
   
-Lisätietoja [kaksivaiheisesta vahvistuksesta](https://go.microsoft.com/fwlink/?linkid=872270).
+Lue lisä tietoja [kaksivaiheisesta tarkistamisesta](https://go.microsoft.com/fwlink/?linkid=872270).
   
