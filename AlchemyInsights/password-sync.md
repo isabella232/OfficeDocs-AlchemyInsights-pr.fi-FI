@@ -1,5 +1,5 @@
 ---
-title: Salasanan synkronoinnin tilan tarkistaminen
+title: Sala sanan synkronoinnin tilan tarkistaminen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765590"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665643"
 ---
-# <a name="enable-password-sync"></a>Ota salasanan synkronointi käyttöön
+# <a name="enable-password-sync"></a>Ota Sala sanojen synkronointi käyttöön
 
-1.  Valitse Microsoft 365 -hallintakeskuksen kotisivulta **DirSync-tila.** 
+1.  Valitse **DirSync-tila** Microsoft 365-hallinta keskuksen aloitus sivulla. 
     
-     *Vaihtoehtoisesti voit siirtyä **Käyttäjät** \> **aktiiviset käyttäjät**-kohtaan ja valita Aktiiviset käyttäjät -sivulla **Lisää** \> **hakemistosynkronointia.*** 
+     *Vaihtoehtoisesti voit siirtyä **käyttäjät** \> **Aktiiviset**käyttäjät-sivulle ja valita aktiiviset käyttäjät-sivulla **Lisää** \> **Hakemisto synkronointia.*** 
     
-2. Valitse Hakemistosynkronointi-ruudussa **Siirry DirSync-hallintaan**. 
+2. Valitse hakemisto synkronointi-ruudussa **Siirry DirSync-hallintaan**. 
     
-3. Nyt näet tilasi ja teet muutoksia:
+3. Näet nyt tilasi ja teet muutoksia:
     
-    **Salasanan synkronointi käytössä:** (Tosi tai Epätosi). Määrittää, onko paikallisen ja vuokraajan välillä otettu käyttöön salasanan synkronointi. 
+    **Salasana synkronointi käytössä:** (tosi tai EPÄTOSI). Määrittää, onko Sala sanojen synkronointi käytössä paikallisen ja vuokra ajan välillä. 
     
-    **Viimeisin salasanan synkronointi:** (Viimeksi kun salasanan synkronointi on loppunut). Näyttöön tulee varoitus ja linkki vianmääritystyökaluun, jos viimeinen synkronointi oli yli kolme päivää sitten. 
+    **Viimeisin Sala sanan synkronointi:** (viimeksi Sala sanan synkronointi suoritettiin). Tämä näyttää varoituksen ja linkin vian määritys työkaluun, jos viimeinen synkronointi on ollut yli kolme päivää sitten. 
     
 

@@ -1,40 +1,41 @@
 ---
-title: Postilaatikoissa sijoitettujen piin tunnistaminen
+title: Posti laatikoissa olevien ruuttujen tunnistaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508877"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668091"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Postilaatikoiden pitojen tunnistaminen
+# <a name="identify-holds-placed-on-mailboxes"></a>Posti laatikoissa olevien ruuttujen tunnistaminen
 
-Onko sinulla Microsoft 365 -sisältöä, **jota** **ei** voi tunnistaa? Haluatko **selvittää,** missä pito sijaitsee **postilaatikossa?** Pitoa (*säilytysominaisuuksia*) voidaan käyttää jollakin seuraavista tavoista:
+Onko sinulla Microsoft 365-sisältöä, jota **säilytetään** sellaisella **pidossa** , jota et tunnista? Tarvitsetko **lisä** tietoja siitä, missä pito sijaitsee **Posti laatikossa** ? *Pito ominaisuuksia (säilytys ominaisuudet*) voi käyttää jollakin seuraavista tavoista:
   
-- Riita-asioiden pito
+- Oikeus toimiin liittyvään pitoon
 
-- eDiscovery-pito
+- eDiscoveryn pito
 
-- Pito paikan edessä
+- Pito paikka
 
-- Microsoft 365:n säilytyskäytäntö 
+- Microsoft 365-säilytys käytännöt 
 
-  - Erityiset sijainnin säilytyskäytännöt
+  - Erityiset sijainnin säilytys käytännöt
 
-  - Organisaation laajuiset säilytyskäytännöt
+  - Organisaation laajuiset säilytys käytännöt
 
-- Microsoft 365 -tarrat
+- Microsoft 365-Tunnisteet
 
-Lisätietoja pidon tyypistä käytetään käyttäjän postilaatikossa ohjeaiheessa [Exchange Online -postilaatikkoon sijoitetun pidon tyypin tunnistaminen](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Jos haluat selvittää, minkä tyyppistä pitoa käyttäjän posti laatikossa käytetään, Katso lisä tietoja artikkelista [Exchange Online-posti laatikkoon sijoitetun pito tyypin tunnistaminen](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

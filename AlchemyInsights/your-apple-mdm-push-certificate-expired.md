@@ -1,25 +1,26 @@
 ---
-title: Applen MDM Push -varmenne on vanhentunut
+title: Apple MDM-push-varmenne on vanhentunut
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 6d0b262e877487ed827496ca2a6e9e58a20a8422
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141426"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668812"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Applen MDM Push -varmenne on vanhentunut
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Apple MDM-push-varmenne on vanhentunut
 
-Applen MDM Push -varmenne on voimassa yhden vuoden, ja se on uudistettava vuosittain iOS-ja macOS-laitteiden hallinnan ylläpitämiseksi. Jos varmenne vanhenee, rekisteröityihin Apple-laitteisiin ei voi ottaa yhteyttä, eikä uusia laitteita voi rekisteröidä.
+Applen MDM Push -varmenne on voimassa yhden vuoden, ja se on uudistettava vuosittain iOS-ja macOS-laitteiden hallinnan ylläpitämiseksi. Jos varmenne vanhenee, siihen ei voi ottaa yhteyttä Apple-laitteisiin, eikä uusia laitteita voi kirjata.
 
-Lisätietoja Applen MDM Push -varmenteen uusimisesta on [ohjeaiheessa Applen MDM-push-varmenteen uusiminen](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Ohjeita Apple MDM-push-varmenteen uusimiseen on artikkelissa [Apple MDM-push-Varmenteen uusiminen](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
