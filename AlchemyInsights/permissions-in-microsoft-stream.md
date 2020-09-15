@@ -1,26 +1,27 @@
 ---
-title: Käyttöoikeudet Microsoft Streamissa
+title: Käyttö oikeudet Microsoft streamissä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721408"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Käyttöoikeudet Microsoft Streamissa
+# <a name="permissions-in-microsoft-stream"></a>Käyttö oikeudet Microsoft streamissä
 
-Kun lataat videon, videon käyttöoikeudet määritetään oletusarvoisesti koko yritykselle. Jos haluat määrittää käyttöoikeudet tietyille käyttäjille/ryhmille, voit mukauttaa videon käyttöoikeuksia.
+Kun lataat videon, voit oletusarvoisesti määrittää, että video näkyy koko yrityksessä. Jos haluat määrittää käyttö oikeudet tietyille käyttäjille/ryhmille, voit mukauttaa videon käyttö oikeuksia.
 
 - [Käyttöoikeudet ja tietosuoja Microsoft Streamissa](https://docs.microsoft.com/stream/portal-permissions)
 
