@@ -1,24 +1,25 @@
 ---
-title: Kirjautuminen Outlook.com tai sieltä pois
+title: Kirjautuminen sisään tai ulos Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: ce8425a22b5a20a0854c75c07ab4d394d4c81cb3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763269"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703297"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="20b98-102">Kirjautuminen Outlook.com tai sieltä pois</span><span class="sxs-lookup"><span data-stu-id="20b98-102">How to sign in to or out of Outlook.com</span></span>
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="a22e2-102">Kirjautuminen sisään tai ulos Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a22e2-102">How to sign in to or out of Outlook.com</span></span>
 
-<span data-ttu-id="20b98-103">Jos et pysty kirjautumaan Outlook.com, Hotmail-, Live- tai MSN-sähköpostitiliisi tai et ole varma, miten kirjaudut sisään tai ulos, [tässä on joitakin ratkaisuja](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="20b98-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
+<span data-ttu-id="a22e2-103">Jos et voi kirja utua sisään Outlook.com-, Hotmail-, Live-tai MSN-Sähkö posti tiliin tai et ole varma, miten kirja udut sisään tai ulos, [tässä on joitakin ratkaisuja](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="a22e2-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
   
-<span data-ttu-id="20b98-104">Jos sisäänkirjautumisessa on edelleen ongelmia, katso lisätietoja ohjeaiheesta [Kun et voi kirjautua Microsoft-tiliisi](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="20b98-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="a22e2-104">Jos sisäänkirjautumisessa ilmenee edelleen ongelmia, Katso lisä tietoja artikkelista [kun kirjautuminen Microsoft-tiliin ei onnistu](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="a22e2-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
