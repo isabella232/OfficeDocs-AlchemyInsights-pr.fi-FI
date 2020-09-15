@@ -1,24 +1,25 @@
 ---
-title: Muistutukset
+title: Muistutuksia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 1c72edc59b372b2cf0bbe84b2510dd71132e21a3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628095"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693696"
 ---
-# <a name="cannot-dismiss-reminders"></a>Muistutusten hylkäys ei onnistu
+# <a name="cannot-dismiss-reminders"></a>Muistutuksia ei voi hylätä
 
-Lisä tietoja siitä, mitä tehdä, kun et pysty hylkäämään kalenteri muistutuksia, on artikkelissa [kalenteri muistutusten ohittaminen Outlookissa ei](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)onnistu.
+Lisä tietoja siitä, mitä tehdä, kun kalenteri muistutuksia ei voi ohittaa, on Ohje aiheessa [et voi ohittaa kalenteri muistutuksia Outlookissa](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
 

@@ -1,25 +1,26 @@
 ---
-title: Päivitys skenaarioiden vian määritys-ruudun virheet
+title: Päivitys skenaarioiden vian määritys-ruutu virheet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748825"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690672"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Päivitys skenaarioiden vian määritys-ruudun virheet
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Päivitys skenaarioiden vian määritys-ruutu virheet
 
-Jos Power BI-palvelussa ilmenee ruutu päivitys virheitä, odota noin 10-15 minuuttia, jotta päivitys näkyi koonti näytön ruuduissa. Jos se ei vieläkään näy, kiinnitä visualisointi uudelleen koonti näyttöön.
+Jos kohtaat näytön päivitys virheitä Power BI-palvelussa, odota noin 10-15 minuuttia, jotta päivitys näkyisi koonti näyttö ruuduissa. Jos se ei edelleenkään näy, kiinnitä visualisointi uudelleen koonti näyttöön.
 
-Lisä tietoja:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Lisä tietoja: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

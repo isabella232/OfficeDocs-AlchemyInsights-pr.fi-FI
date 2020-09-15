@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666702"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693660"
 ---
 # <a name="price-doesnt-look-correct"></a>Hinta ei näytä oikealta?
 
-Jos laskun hinta ei näytä oikealta, tämä voi johtua hinnanmuutoksesta uusimisen yhteydessä. Jos et usko, että tämä selittää ongelman, käytä "Anna meidän soittaa sinulle" -vaihtoehtoa puhuaksesi tukiteknikolle.
+Jos laskun hinta ei Näytä oikeistosta, tämä voi johtua siitä, että hinnan muutos uudistetaan. Jos et usko, että tämä selittää ongelman, voit keskustella tuki henkilön kanssa käyttämällä "Anna meidän soittaa sinulle"-vaihto ehtoa.

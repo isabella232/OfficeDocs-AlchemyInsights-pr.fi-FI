@@ -1,26 +1,27 @@
 ---
-title: Viimeaikaiset tiedot altistuminen
+title: Viimeaikaiset tietojen valotus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724911"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693228"
 ---
-# <a name="recent-data-exposure"></a>Viimeaikaiset tiedot altistuminen
+# <a name="recent-data-exposure"></a>Viimeaikaiset tietojen valotus
 
-Kolmannen osapuolen tutkija tiesi Microsoftille, että tietokanta, jossa microsoftin tukitietoja isännöitiin, oli käytettävissä ilman todennusta. 31. joulukuuta 2019 Microsoft varmisti tietokannan.
+Kolmannen osapuolen tutkija on tehnyt Microsoftille tiedon siitä, että tieto kanta, joka isännöi Microsoftin tuki tietoja, oli käytettävissä ilman todennusta. Microsoft varmisti tieto kannan 31. joulu kuuta 2019.
 
-Olemme sitoutuneet asiakkaidemme yksityisyyteen ja turvallisuuteen ja ryhdymme toimiin estääksemme tämän ongelman tulevat tapahtumat. Olemme aloittaneet ilmoitukset asiakkaille, joiden tiedot olivat tässä hävitetyssä tietokannassa. Lisätietoja on kohdassa [Viimeaikaiseen tietoaltistumiseen liittyvät asiakastietoisuustiedot](https://aka.ms/privacyinfo).
+Olemme sitoutuneet asiakkaidemme tieto suojaan ja tieto turvaan ja olemme ryhtyneet toimenpiteisiin estääkseen tämän ongelman ilmenemisen tulevaisuudessa. Olemme aloittaneet ilmoitukset asiakkaille, joiden tiedot ovat käytettävissä tässä Redacted-tieto kannassa. Jos haluat lisä tietoja, tutustu [äskettäin tehtyyn tietojen altistumiseen liittyviin asiakas tiedotukseen](https://aka.ms/privacyinfo).
