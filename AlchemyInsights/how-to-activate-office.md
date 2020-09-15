@@ -1,30 +1,30 @@
 ---
-title: Officen aktivoiminen
-ms.author: jillz
-author: jillz
+title: Officen Akti voiminen
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: c7577905545c5a8c889a1e9e8852a5c144cc72fb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a3dcb4e87965ad655164c100f43b2355675c620b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495912"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705080"
 ---
-# <a name="how-to-activate-office"></a>Officen aktivoiminen
+# <a name="how-to-activate-office"></a>Officen Akti voiminen
 
-Jos haluat asentaa ja aktivoida Officen onnistuneesti, järjestelmänvalvojan on täytynyt määrittää [Office-käyttöoikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) käyttäjän työpaikan tai oppilaitoksen tilille.
+Jotta Office voidaan asentaa ja aktivoida, järjestelmänvalvojan on täytynyt määrittää [Office-käyttö oikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) käyttäjän työpaikan tai oppi laitoksen tilille.
   
-Officen asentamisen jälkeen sovellukset aktivoituvat monissa tapauksissa automaattisesti, ja jos käyttäjää ei pyydetä aktivoimaan, he voivat aloittaa Officen käytön heti.
+Kun Office on asennettu, sovellukset käynnistyvät useissa tapa uksissa automaattisesti, ja jos käyttäjää ei kehoteta Akti voimaan, hän voi aloittaa Officen käytön heti.
   
-Jos käyttäjää pyydetään **kirjautumaan Officen määrittämiseen,** hänen on kirjauduttava sisään työpaikan tai oppilaitoksen tilillä, jolla on jo [määritetty Office-käyttöoikeus.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+Jos käyttäjää pyydetään **Kirjautu maan Officen määrittämiseen**, hänen on kirjauduttava sisään työpaikan tai oppi laitoksen tilillä, jolla on jo oltava [määritetty Office-käyttö oikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
   
-Lisätietoja on ohjeissa [Officen aktivoiminen PC-tietokoneessa](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) tai [Officen aktivoiminen Macissa](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Lisä tietoja on kohdassa [Officen Akti voiminen PC-tieto koneeseen](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) tai [Officen Akti voiminen Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA)-koneessa.
   

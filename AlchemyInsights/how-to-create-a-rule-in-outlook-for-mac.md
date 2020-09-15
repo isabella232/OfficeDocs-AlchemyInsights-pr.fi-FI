@@ -1,31 +1,32 @@
 ---
-title: 1800021 säännön luominen Outlookin Mac-järjestelmässä
+title: 1800021 säännön luominen Outlook for Macissa
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769084"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704342"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Säännön luominen Outlookin Mac-järjestelmässä
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Säännön luominen Outlook for Macissa
 
-1. Jos haluat luoda kansion, jossa on säännön lähettämät Sähkö posti viestit, valitse juuri posti laatikko, valitse **Järjestä** -väli lehdestä **Uusi kansio**, kirjoita kansion nimi ja paina ENTER-näppäintä.
+1. Jos haluat luoda kansion, joka sisältää säännön lähettämät Sähkö posti viestit, valitse Pääposti laatikko, valitse **Järjestä** -väli lehdessä **Uusi kansio**, kirjoita kansion nimi ja paina ENTER-näppäintä.
 
-2. Valitse viesti luettelosta Sähkö posti viesti, jonka haluat o Luo sääntö.
+2. Valitse viesti luettelosta Sähkö posti viesti, johon haluat luoda säännön.
 
-3. Valitse **Aloitus** -väli lehdestä **säännöt**ja valitse sitten **Luo sääntö**.
+3. Valitse **Aloitus** -väli lehdessä **säännöt**ja valitse sitten **Luo sääntö**.
 
-4. **Kun uusi viesti saapuu** , Muokkaa ehtoja tarpeidesi mukaan. 
+4. **Kun uusi viesti saapuu** -kohdassa, Muokkaa ehtoja tarpeidesi mukaan. 
 
-Lisä tietoja mukautettujen sääntöjen luomisesta on Ohje aiheessa [säännön luominen Outlookin Mac-](https://aka.ms/AA1uy0v) tieto koneessa
+Yksityiskohtaisia ohjeita mukautettujen sääntöjen luomisesta on artikkelissa [säännön luominen Outlook for Macissa](https://aka.ms/AA1uy0v)
   

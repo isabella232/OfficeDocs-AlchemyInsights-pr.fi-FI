@@ -1,11 +1,12 @@
 ---
-title: Auttaa ymmärtämään arvonlisäveroa (ALV)
+title: Lisä tietoja arvon lisä verosta (ALV)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710116"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705490"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Auttaa ymmärtämään arvonlisäveroa (ALV)
+# <a name="help-understanding-value-added-tax-vat"></a>Lisä tietoja arvon lisä verosta (ALV)
 
-Jos olet maassa, joka käyttää arvonlisäveroa (ALV), kuten Yhdistynyttä kuningaskuntaa, Microsoft Invoicing laskee ALV:n puolestasi ja kohdistaa summan laskuihisi.
+Jos olet maassa, joka käyttää arvon lisä veroa (ALV), kuten Yhdistynyttä kuningas kuntaa, Microsoft-laskutus laskee arvon lisä veron puolestasi ja käyttää summaa laskuissasi.
   
-Verosyistä alv-rekisterinumero on määritettävä myös Laskutus-asetuksissa.
+Vero syistä sinun on määritettävä ALV-rekisteröinti numerosi myös laskutus asetuksissa.
   
-Alv-hintoja ei voi lisätä tai poistaa, mutta voit muuttaa alv-oletuskorkoa Asetuksissa. Laskutus käyttää oletusarvoisesti palvelua ALV-rekisteröintinumeroiden vahvistamiseen, mutta suosittelemme, että luet Euroopan komission julkaiseman [VIES-vastuuvapauslausekkeen.](https://go.microsoft.com/fwlink/?LinkID=841741) Jos poistat palvelun käytöstä, sinun on tarkistettava kaikki ALV-rekisteröintinumerot.
+Et voi lisätä tai poistaa ALV-maksuja, mutta voit muuttaa oletus arvon mukaista alv-kantaa asetuksissa. Oletusarvoisesti laskutus käyttää palvelua ALV-rekisteröinti numeroiden vahvistamiseen, mutta suosittelemme, että luet Euroopan komission julkaiseman [VIES-vastuu vapaus lausekkeen](https://go.microsoft.com/fwlink/?LinkID=841741) . Jos päätät poistaa palvelun käytöstä, sinun on tarkistettava kaikki ALV-rekisteröinti numerot.
