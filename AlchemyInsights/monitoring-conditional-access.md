@@ -1,40 +1,41 @@
 ---
-title: Ehdollisen käytön valvonta
+title: Ehdollisen käytön valvominen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702900"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Ehdollisen käytön valvonta Exchangessa
+# <a name="monitoring-conditional-access-for-exchange"></a>Ehdollisen Exchange-yhteyden valvonta
 
-Ehdolliseen käyttöön kohdistetut käyttäjät saavat sähköposti-ilmoituksen, jos he eivät täytä organisaatiosi käyttövaatimuksia. Ratkaisua suositellaan vähintään yhtä seuraavista ratkaisuista:
+Ehdolliseen käyttöön kohdistetut käyttäjät saavat ilmoitus Sähkö posti viestin, jos he eivät täytä organisaatiosi käyttö oikeus vaatimuksia. Ratkaisu on suositeltava vähintään yksi seuraavista ratkaisuista:
   
-- Jos laitteen oletetaan olevan rekisteröitynyt, kehota käyttäjää menemään Yritysportaali-sovellukseen ja varmistamaan, että se näkyy yritysportaalissa. Jos näin ei ole, käyttäjän on rekisteröitava laite.
+- Jos laitteen oletetaan olevan rekisteröity, kehota käyttäjää siirtymään yritys portaali-sovellukseen ja vahvistamaan, että se näkyy yritys portaalissa. Jos näin ei tapahdu, käyttäjän on rekisteröitävä laite.
     
-- Siirry Azure-portaalissa **Kohtaan \> Intune Device compliance**. Valitse **Näyttö-kohdassa** **Laitteen yhteensopivuus**. Tarkista laitteen yhteensopivuusraportista, että käyttäjän laite on merkitty yhteensopivaksi. 
+- Valitse Azure-portaalissa **Intune- \> laitteen yhteensopivuus**. Valitse **näyttö** -kohdassa **laitteen yhteensopivuus**. Tarkastele laitteesi yhteensopivuus raporttia varmistaaksesi, että käyttäjän laite on merkitty yhteensopivaksi. 
     
-- Siirry Azure-portaalissa **Kohtaan \> Intune Device compliance**. Valitse **Hallinta**-kohdassa **Käytännöt**. Varmista yhteensopivuuskäytäntöjen luettelosta, että käyttäjän laitteelle on määritetty profiili. Jos profiilia ei ole määritetty, Intune ei voi vahvistaa laitteen vaatimustenmukaisuuden tilaa. 
+- Valitse Azure-portaalissa **Intune- \> laitteen yhteensopivuus**. Valitse **hallinta**-kohdassa **käytännöt**. Varmista yhteensopivuus käytäntöjen luettelosta, että profiili on määritetty käyttäjän laitteelle. Jos profiilia ei ole määritetty, Intune ei pysty vahvistamaan laitteen yhteensopivuus tilaa. 
     
 - Muokkaa käyttäjän ehdollisen käytön määritystä.
     
-1. Siirry Azure-portaalissa **Intune-ehdollisen \> käytön \> käytäntöihin**
+1. Azure-portaalissa Siirry **Intune-sivuston \> ehdollisen käytön \> käytäntöihin**
     
-2. Käytännön valitseminen luettelosta
+2. Valitse käytännöstä luettelosta
     
-3. Valitse **Käyttäjät ja ryhmät.**
+3. Valitse **käyttäjät ja ryhmät**
     
-4. Jos haluat kohdistaa tietyn käytännön johonkin, lisää hänet **Sisällytä-luetteloon.** Voit varmistaa, että henkilö jätetään pois käytännöstä, lisäämällä hänet **Pois-luetteloon.** 
+4. Jos haluat kohdentaa tiettyyn käytäntöön jollekulle, lisää ne **Sisällytä** -luetteloon. Jos haluat varmistaa, että henkilö jätetään pois käytännöstä, Lisää hänet **Jätä pois** -luetteloon. 
     
-Lue lisää: [Ehdollisen käytön laitteiden valvonta](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Lue lisää: [ehdollisen pääsyn valvonta laitteiden valvominen](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

@@ -1,27 +1,28 @@
 ---
-title: Microsoft Teamsin puhelimet
+title: Microsoft teamsin puhelimet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: d211d05321e2be107ae10924643a06085a1ad146
-ms.sourcegitcommit: 60e8e348131d4db4d0d34ffe5b321bc92d7bf7e9
+ms.openlocfilehash: 8d417e2cda53935f57aa211972e76f32e12ad6b6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "41969396"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701820"
 ---
-# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Etsitkö puhelimia, jotka ovat yhteensopivia Teamsin kanssa?
+# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Etsitkö puhelimia, jotka ovat yhteensopivia teamsin kanssa?
 
-Järjestelmänvalvojana [hallitset kaikkia](https://docs.microsoft.com/microsoftteams/device-management) organisaatiosi Teamsin kanssa käytettäviä laitteita Microsoft 365 -hallintakeskuksesta. Lisätietoja: 
+Järjestelmänvalvojana [hallitset kaikkia](https://docs.microsoft.com/microsoftteams/device-management) organisaatiosi teamsin käyttämiä laitteita Microsoft 365-hallinta keskuksesta. Lisätietoja: 
 
-- Tarkista Microsoft [Teamsin puhelinluettelo](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
-- Tarkista tällä [hetkellä sertifioitujen IP-puhelimien](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones)luettelo . 
-- Tarkista luettelo [laitteista, joilla on tunnettuja rajoituksia ja ongelmia](https://support.office.com/article/control-calls-using-a-headset-in-teams-65d6e104-444d-4013-b8c2-f11317dd69a8). 
+- Tutustu [Microsoft teamsin puhelinten](https://docs.microsoft.com/microsoftteams/phones-for-teams)luetteloon. 
+- Tarkista [tällä hetkellä sertifioidut IP-puhelimet](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones). 
+- Tarkista laitteiden luettelo, [jossa on tunnettuja rajoituksia ja ongelmia](https://support.office.com/article/control-calls-using-a-headset-in-teams-65d6e104-444d-4013-b8c2-f11317dd69a8). 
