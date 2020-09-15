@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976050"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677673"
 ---
-# <a name="troubleshoot-your-printer"></a>Tulostimen vian määritys
+# <a name="troubleshoot-your-printer"></a>Tulostimen vianmääritys
 
-Jos sinulla on tulostin ongelmia, kokeile ensin **tulostimen virran käyttö jaksoa**. Toimi seuraavasti:
+Jos sinulla on tulostimeen liittyviä ongelmia, kokeile ensin **tulostimen virran käyttö jaksoa**. Toimi seuraavasti:
 
-1. Sammuta tulostin ja irrota sen virta johto.
+1. Sammuta tulostin ja irrota sen virtajohto.
 2. Odota 30 sekuntia.
-3. Kytke tulostin takaisin pisto rasiaan ja kytke tulostimeen virta.
+3. Kytke virtajohto takaisin paikoilleen ja käynnistä tulostin.
 
-Jos tämä ei ratkaissut ongelmaasi, Suorita tulostimen vian määritys siirtymällä kohtaan **Aloita** > **asetusten** > **päivittäminen & suoja uksen** > **vian määritys**. Valitse **tulostin**ja valitse sitten **Suorita vian määritys**.
+Jos tämä ei ratkaissut ongelmaa, Suorita tulostimen vian määritys siirtymällä kohtaan **Käynnistä**  >  **asetusten**  >  **päivitys & tieto turvan**  >  **vian määritys**. Valitse **tulostin**ja valitse sitten **Suorita vian määritys**.

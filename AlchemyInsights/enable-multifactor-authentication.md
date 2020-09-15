@@ -1,5 +1,5 @@
 ---
-title: Ota monitekijätodennus käyttöön
+title: Ota käyttöön multifactor-todennus
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703459"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678033"
 ---
-# <a name="enable-multi-factor-authentication"></a>Ota monivaiheinen todennus käyttöön
+# <a name="enable-multi-factor-authentication"></a>Monimenetelmäisen todentamisen käyttöönotto
 
-Monivaiheisen todennuksen ottaminen käyttöön Microsoft 365 -hallintakeskuksessa:
+Monimenetelmäisen todentamisen ottaminen käyttöön Microsoft 365-hallinta keskuksessa:
 
-1. Siirry **Käyttäjät** \> **aktiiviset käyttäjät -sivulle.**
+1. Siirry **käyttäjät** \> **aktiiviset käyttäjät** -sivulle.
     
-2. Valitse sivun yläreunasta **Monivaiheinen todennus**. 
+2. Valitse sivun ylälaidassa **monimenetelmäinen todentaminen**. 
     
-3. Etsi käyttäjä tai käyttäjät, jotka haluat ottaa käyttöön monivaiheista todennusta varten. Jos haluat nähdä kaikki käyttäjät, sinun on ehkä muutettava yläosassa olevaa **monitekijätodennuksen** tilasuodatinta.
+3. Etsi käyttäjä tai käyttäjät, joille haluat ottaa käyttöön monimenetelmäisen todentamisen. Jos haluat nähdä kaikki käyttäjät, sinun on ehkä muutettava **Multi-Factor auth-tila** suodatinta yläreunassa.
     
-4. Valitse niiden käyttäjien vieressä oleva valintaruutu, jotka haluat ottaa käyttöön.
+4. Valitse niiden käyttäjien valinta ruudut, jotka haluat ottaa käyttöön.
     
-5.  Valitse oikeanpuoleisen käyttäjätietoruudun **pikavaiheissa** **Ota käyttöön**. 
+5.  Valitse oikea käyttäjä tiedot-ruudun **pikatoiminnot**-kohdassa **Ota käyttöön**. 
     
-6. Valitse avautuvasta valintaikkunasta **ota käyttöön monivaiheinen todennus**. 
+6. Valitse avautuvassa valinta ikkunassa **Ota Multi-Factor auth käyttöön**. 
     
 

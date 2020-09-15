@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: e4718ffb672b9c0e5b78c52b2fcd3e15ae58f7dd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705982"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680968"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>SharePointin valvonta-asetusten määrittäminen
 
-SharePoint-sivustokokoelman järjestelmänvalvojat voivat seurata sisällön käyttäjien toimia määrittämällä valvonta-asetukset.
+SharePoint-sivustokokoelman järjestelmänvalvojat voivat valvoa käyttäjien toimintoja sisällön mukaan määrittämällä valvonta-asetukset.
   
 1. Avaa SharePoint-sivusto.
     
-2. Napsauta Asetukset-kuvaketta ja valitse sitten **Sivuston asetukset**. Jos sivuston asetukset -kohtaa ei näy, valitse **Sivuston tiedot**ja valitse sitten **Näytä kaikki sivuston asetukset**.
+2. Napsauta Asetukset-kuvaketta ja valitse sitten **sivuston asetukset**. Jos et näe sivuston asetukset-kohtaa, valitse **sivuston tiedot**ja valitse sitten **Näytä kaikki sivuston asetukset**.
     
-3. Valitse **Sivustokokoelman hallinta**-kohdassa **Sivustokokoelman valvonta-asetukset**. (Jos et näe sitä, valitse ensin **Siirry ylimmän tason sivuston asetuksiin.)** 
+3. Valitse sivustokokoelman **hallinta**-kohdassa **sivustokokoelman valvonta-asetukset**. (Jos et näe sitä, valitse ensin **Siirry ylimmän tason sivustoasetuksiin** .) 
     
-Lisätietoja SharePointin valvontalokiraportteihin sisältyvistä tiedoista ja niiden tarkastelemisesta on [ohjeaiheessa Sivustokokoelman valvonta-asetusten määrittäminen](https://go.microsoft.com/fwlink/?linkid=404050).
+Lisä tietoja SharePoint-valvonta lokien raporteista ja niiden tarkastelu tavasta on kohdassa [sivustokokoelman valvonta-asetusten määrittäminen](https://go.microsoft.com/fwlink/?linkid=404050).
   
 
