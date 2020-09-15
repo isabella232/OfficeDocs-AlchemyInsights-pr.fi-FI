@@ -1,25 +1,26 @@
 ---
-title: Siirtää lomakkeen omistajuuden toiselle käyttäjälle
+title: Lomakkeen omistajuuden siirtäminen toiselle käyttäjälle
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 6c975955b596a0c8ab2693aa73074ad7c86913e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507196"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700128"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="f1a92-102">Microsoft-Form omistusoikeuden siirtäminen</span><span class="sxs-lookup"><span data-stu-id="f1a92-102">Transfer ownership of a Microsoft Form</span></span>
+# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="7bac0-102">Microsoft-lomakkeen omistajuuden siirtäminen</span><span class="sxs-lookup"><span data-stu-id="7bac0-102">Transfer ownership of a Microsoft Form</span></span>
 
-<span data-ttu-id="f1a92-103">Siirrät tutkimuksen, tentin tai kyselyn Microsoft Forms-ryhmään niin kaikkien ryhmän jäsenten tulee muodossa omistajille.</span><span class="sxs-lookup"><span data-stu-id="f1a92-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="f1a92-104">Voit myös siirtää lomakkeen omistajuuden toiselle käyttäjälle Jos Edellinen omistaja on lähtenyt organisaatiosta.</span><span class="sxs-lookup"><span data-stu-id="f1a92-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
+<span data-ttu-id="7bac0-103">Voit siirtää kyselyn, kokeen tai kyselyn Microsoft Formsissa ryhmään niin, että kaikki ryhmäsi jäsenet muuttuvat kyseisen lomakkeen omistajille.</span><span class="sxs-lookup"><span data-stu-id="7bac0-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="7bac0-104">Voit myös siirtää lomakkeen omistajuuden toiselle käyttäjälle, jos edellinen omistaja on poistunut organisaatiosta.</span><span class="sxs-lookup"><span data-stu-id="7bac0-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
 
-<span data-ttu-id="f1a92-105">Lisätietoja [lomakkeen omistusoikeuden siirtäminen](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span><span class="sxs-lookup"><span data-stu-id="f1a92-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
+<span data-ttu-id="7bac0-105">Lisä tietoja [on kohdassa lomakkeen omistajuuden siirtäminen](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span><span class="sxs-lookup"><span data-stu-id="7bac0-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>

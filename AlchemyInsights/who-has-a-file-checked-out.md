@@ -1,30 +1,31 @@
 ---
-title: Kuka on kassalla?
+title: Kuka on kuitannut tiedoston ulos?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 1f834d972829aa643edd90f7ae2419b402e3a8f5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765122"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699192"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="4c08c-102">Kuka on kassalla?</span><span class="sxs-lookup"><span data-stu-id="4c08c-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="8d0d7-102">Kuka on kuitannut tiedoston ulos?</span><span class="sxs-lookup"><span data-stu-id="8d0d7-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="4c08c-103">Voit tarkistaa, kuka on kuitannut tiedoston SharePointissa, jommallakummalla seuraavista tavoista:</span><span class="sxs-lookup"><span data-stu-id="4c08c-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
+<span data-ttu-id="8d0d7-103">Jos haluat nähdä, kuka on kuitannut tiedoston ulos SharePointissa, voit tehdä jommankumman seuraavista toimista:</span><span class="sxs-lookup"><span data-stu-id="8d0d7-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="4c08c-104">Vie hiiren osoitin **Ulos kuitattujen** tiedostojen päälle, niin näet työkaluvihjeen, joka kertoo, kuka on kuitannut tiedoston ulos.</span><span class="sxs-lookup"><span data-stu-id="4c08c-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="8d0d7-104">Saat näkyviin työkalu vihjeen, jossa kerrotaan, kuka on kuitannut tiedoston ulos, pitämällä osoitinta **uloskuitattuna** .</span><span class="sxs-lookup"><span data-stu-id="8d0d7-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="4c08c-105">Lisää **Uloskuittaaminen-sarake** kirjaston oletusnäkymään.</span><span class="sxs-lookup"><span data-stu-id="4c08c-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="4c08c-106">Näin kaikki näkevät helposti, kuka on kuitannut asiakirjan ulos.</span><span class="sxs-lookup"><span data-stu-id="4c08c-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="8d0d7-105">Lisää **kirjattu ulos** -sarake kirjaston oletus näkymään.</span><span class="sxs-lookup"><span data-stu-id="8d0d7-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="8d0d7-106">Näin kaikki voivat helposti nähdä, kuka on kuitannut tiedoston ulos.</span><span class="sxs-lookup"><span data-stu-id="8d0d7-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="4c08c-107">Lisätietoja Uloskuittaamalla-sarakkeen lisäämiseen SharePointissa on [ohjeaiheessa Sarakkeen luominen luetteloon tai kirjastoon](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="4c08c-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="8d0d7-107">Lisä tietoja uloskuitatun sarakkeen lisäämisestä SharePointissa on artikkelissa [luettelon tai kirjaston sarakkeen luominen](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="8d0d7-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="4c08c-108">Lisätietoja sisään- tai uloskirjautumisesta on [ohjeaiheessa Uloskirjautumista ja uloskuittaamisesta liittyviä kysymyksiä.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="4c08c-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="8d0d7-108">Katso lisää usein kysyttyjä kysymyksiä sisäänkuittauksesta tai uloskuittauksesta, Katso lisä tietoja uloskuittausta ja sisäänkuittausta [koskevista](https://go.microsoft.com/fwlink/?linkid=2018786)kysymyksistä.</span><span class="sxs-lookup"><span data-stu-id="8d0d7-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 
