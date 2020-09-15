@@ -1,33 +1,34 @@
 ---
-title: Yksi paikallisista federation-palvelutodistuksistasi vanhenee
+title: Yksi paikallisista liittoutumis palvelun varmenteista vanhenee
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: dafa344ec649002900e98a5e183b3e5f759707e1
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: a4c78f3fdbba7786785f31098c9e80e77a165623
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785300"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673494"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Yksi paikallisista federation-palvelutodistuksistasi vanhenee
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Yksi paikallisista liittoutumis palvelun varmenteista vanhenee
 
-Voit ratkaista tämän ongelman seuraavasti:
+Voit korjata ongelman toimimalla seuraavasti:
   
-- Asenna Windows PowerShellin Microsoft Azure Active Directory -moduuli tietokoneeseen (jos moduulia ei ole vielä asennettu). Voit tehdä tämän siirtymällä [Azure Active Directory PowerShell for Graphiin](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+- Asenna Windows PowerShellin Microsoft Azure Active Directory-moduuli tieto koneeseen (jos moduulia ei ole vielä asennettu). Voit tehdä tämän siirtymällä [Azure Active Directory PowerShell for Graphiin ](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
     
-- Noudata AD FS:n skenaario1: AD FS -tunnuksen allekirjoitusvarmenne vanhentunut -osan ohjeita, [kun liitetty käyttäjä kirjautuu Microsoft 365:een, Azureen tai Intuneen.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
+- Seuraa "skenaario 1: AD FS-tunnuksen allekirjoitus varmenne vanhentunut"-osan ohjeita, joiden mukaan [sivuston käytössä ilmeni virhe AD FS:ssä, kun organisaation ulkopuolinen käyttäjä kirjautuu Microsoft 365-, Azure-tai Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)-järjestelmään.
     
-- Noudata ohjeaiheen [Liitetyn toimialueen asetusten päivittäminen tai korjaaminen Microsoft 365:ssä, Azuressa tai Intunessa annettuja](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)ohjeita.
+- Noudata ohjeita, jotka [liittyvät organisaation ulkopuolisen toimi alueen asetusten päivittämiseen tai korjaamiseen Microsoft 365-, Azure-tai Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)-sovelluksessa.
     
-Lisätietoja yhdistämisvarmenteiden uusimisesta on [ohjeaiheessa O365:n ja Azure AD:n varmenteiden uusiminen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+Lisä tietoja liittämis varmenteiden uusimisesta on kohdassa [Varmenteen uusiminen O365 ja Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)AD:ssä.
   
 

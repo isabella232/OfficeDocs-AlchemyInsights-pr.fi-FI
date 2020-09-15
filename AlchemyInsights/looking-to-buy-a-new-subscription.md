@@ -1,5 +1,5 @@
 ---
-title: Haluatko ostaa uuden tilauksen?
+title: Haluatko ostaa uuden tila uksen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505540"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675170"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Haluatko ostaa uuden tilauksen?
+# <a name="looking-to-buy-a-new-subscription"></a>Haluatko ostaa uuden tila uksen?
 
-Jos sinulla on jo Microsoft 365 for Business -tilaus ja haluat ostaa **Billing** organisaatiollesi toisen tilauksen, siirry \> [Laskutusostoksen palvelut -sivulle,](https://go.microsoft.com/fwlink/p/?linkid=868433) niin näet luettelon organisaatiosi saatavilla olevista tilauksista.
+Jos sinulla on jo Microsoft 365 for Business-tilaus ja haluat ostaa uuden tila uksen organisaatiollesi, siirry **laskutuksen** \> [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulle ja Katso luettelo organisaatiosi käytettävissä olevista paketeista.
  
 1. Valitse haluamasi tilaus ja valitse sitten **Osta**.
 
-2. Valitse, miten haluat maksaa, ja tarvittavien käyttöoikeuksien määrä.
+2. Valitse, miten haluat maksaa, ja tarvittavien käyttö oikeuksien määrä.
 
-3. Valitse **Kuittaa ulos nyt**. Seuraavalla sivulla voit tarkastella tilausta ja suorittaa ostoksen loppuun.
+3. Valitse **Kuittaa ulos nyt**. Seuraavalla sivulla voit tarkistaa tila uksen ja viimeistellä oston.
 
-4. Kun ostoksesi on valmis, sinun on ehkä määritettävä käyttöoikeudet uudelleen tai peruutettava tilaus. Lisätietoja tästä on alla olevassa Lisätietoja-osiossa.
+4. Kun ostoksesi on suoritettu, sinun on ehkä määritettävä käyttö oikeudet uudelleen tai peruutettava tilaus. Lisä tietoja on alla olevassa lisä resurssit-osiossa.
 
- **Lisäresurssit:**
+ **Lisä resurssit:**
   
-- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Käyttö oikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 - [Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Jos olet kiinnostunut vaihtamaan tilauksia, katso [lisätietoja ohjeaiheesta Siirtyminen toiseen Microsoft 365 for Business -palvelupakettiin.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Jos haluat vaihtaa tila uksia, Katso lisä tietoja artikkelista [Siirtyminen toiseen Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan) -palvelu pakettiin.

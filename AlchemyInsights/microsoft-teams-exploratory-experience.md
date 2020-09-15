@@ -1,27 +1,28 @@
 ---
-title: Microsoft Teamsin eksploratiivisia kokemuksia
+title: Microsoft teamsin valmisteleva kokemus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612344"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674935"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teamsin eksploratiivisia kokemuksia
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft teamsin valmisteleva kokemus
 
-Microsoft Teamsin eksploratiivisen kokemuksen avulla organisaatiosi käyttäjät, joilla on Azure Active Directory (AAD) ja joilla ei ole Teamiin lisensoitua käyttäjää, voivat käynnistää Teamsin eksploratiivisen kokemuksen. Järjestelmänvalvojat voivat ottaa tämän ominaisuuden käyttöön tai poistaa sen käytöstä organisaatiossaan. (Aiempaa Microsoft Commercial Cloud Trial -kokeiluversiota kutsutaan nyt Teamsin eksploratiiviseksi kokemukseksi.)
+Microsoft teamsin valmisteleva kokemus mahdollistaa sen, että organisaatioosi kuuluvat käyttäjät, joilla on Azure Active Directory (AAD) ja joilla ei ole käyttö oikeutta, voivat aloittaa teams-kokemuksen. Järjestelmänvalvojat voivat ottaa tämän toiminnon käyttöön organisaation käyttäjille tai poistaa sen käytöstä. (Aikaisempaa Microsoftin kaupallista pilvi palvelua kutsutaan nyt teamsin valmisteleva käyttö kokemukseksi.)
 
-Microsoft Teamsin eksploratiivista kokemusta ei ole saatavilla ilman lisäkustannuksia ennen seuraavaa yrityssopimuksen vuosipäivää tai uusimista tammikuussa 2021 tai sen jälkeen. Tuolloin Microsoft-eksploratiivisen käyttökokemuksen käyttöoikeuden loppukäyttäjän on siirryttävä maksulliseen lisenssiin, joka sisältää Teamsin.
+Microsoft teamsin valmisteleva kokemus on saatavilla maksutta ennen seuraavaa yritys sopimus vuotta tai uusimista tammi kuun 2021 tai sen jälkeen. Tällä hetkellä Microsoftin valmistelevan käyttö oikeuden loppu käyttäjien on siirryttävä maksulliseen käyttö oikeuteen, joka sisältää tiimit.
 
-Lisätietoja on kohdassa [Microsoft Teamsin eksploratiivisen käyttöoikeuden hallinta](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+Lisä tietoja [on kohdassa Microsoft teamsin valmistelevan käyttö oikeuden hallinta](https://docs.microsoft.com/microsoftteams/teams-exploratory/).

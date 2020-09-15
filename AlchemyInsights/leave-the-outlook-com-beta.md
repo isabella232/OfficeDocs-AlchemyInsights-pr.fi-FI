@@ -1,11 +1,12 @@
 ---
-title: 8000035 Jätä Outlook.com beta
+title: 8000035 poistu Outlook.com-beetaversiosta
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -18,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762746"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676339"
 ---
 # <a name="the-new-outlookcom"></a>Uusi Outlook.com
 
-Se ei ole enää mahdollista jättää Outlook.com beta ja palata klassiseen versioon Outlook.com.
+Ei ole enää mahdollista poistua Outlook.com-beetaversiosta ja palata Outlook.com-version perinteiseen versioon.
   
-Jos haluat antaa palautetta uudesta Outlook.com, siirry [UserVoice-keskustelupalstalle](https://go.microsoft.com/fwlink/p/?linkid=851599). Voit äänestää ideoista tai asioista, joita haluat käsitellä, ja vastaamme suoraan tärkeimpiin kommentteihin ja ehdotuksiin.
+Jos haluat antaa palautetta uudesta Outlook.com, siirry [uservoice-keskustelu palstalle](https://go.microsoft.com/fwlink/p/?linkid=851599). Voit äänestää ajatuksista tai ongelmista, joita haluat tarkastella, ja vasta amme suoraan alkuun kommentteja ja ehdotuksia.
   
-[Lue lisää uudesta Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Lisä tietoja uudesta Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   
