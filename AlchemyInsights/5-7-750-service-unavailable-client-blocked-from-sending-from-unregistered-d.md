@@ -1,26 +1,27 @@
 ---
-title: 1048 5.7.750 Palvelu ei ole käytettävissä. Asiakas on estetty lähettämästä rekisteröimättömiltä toimialueilta
+title: 1048 5.7.750-palvelu ei ole käytettävissä. Asiakas on estynyt lähettämästä rekisteröimättömiä toimi alueita
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676710"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664239"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="8785e-103">5.7.750 Asiakas estetty lähettämästä rekisteröimätöntä verkkotunnusta</span><span class="sxs-lookup"><span data-stu-id="8785e-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="fed47-103">5.7.750-asiakas on estynyt lähettämästä rekisteröimätöntä toimi aluetta</span><span class="sxs-lookup"><span data-stu-id="fed47-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="8785e-104">Virhe ilmenee, kun suuri määrä viestejä lähetetään toimialueilta, joita ei ole valmisteltu vuokraajassa (lisätty hyväksytyiksi toimialueiksi ja vahvistettu).</span><span class="sxs-lookup"><span data-stu-id="8785e-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
+<span data-ttu-id="fed47-104">Virhe ilmenee, kun suuri määrä viestejä lähetetään toimi alueilta, joita ei ole valmisteltu vuokra ajassa (lisätty hyväksyttyjen toimi alueiden mukaan ja vahvistettu).</span><span class="sxs-lookup"><span data-stu-id="fed47-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="8785e-105">Voit välttää tämän virheen käyttämällä varmennepohjaista postin kulkuliitintä, jossa varmenteen toimialue on valmisteltu toimialue, tai voit valmistella kaikki lähettävät toimialueet.</span><span class="sxs-lookup"><span data-stu-id="8785e-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="fed47-105">Voit välttää tämän virheen käyttämällä sertifikaattipohjaista postin kulku yhdistintä, jossa varmenteen toimi alue on valmisteltu toimi alue, tai voit valmistella kaikki lähetys toimi alueet.</span><span class="sxs-lookup"><span data-stu-id="fed47-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
