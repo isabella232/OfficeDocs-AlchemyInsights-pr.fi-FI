@@ -1,32 +1,33 @@
 ---
-title: Kirjautuminen ulos Outlookin verkkoversiosta
+title: Kirjautuminen ulos Outlookin verkko versiosta
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742946"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802126"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kirjautuminen ulos Outlookin verkkoversiosta
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kirjautuminen ulos Outlookin verkko versiosta
 
-Jos haluat kirjautua ulos Outlookin verkkoversiosta, valitse nimesi tai kuvasi oikeasta yläkulmasta ja valitse **Kirjaudu ulos**.
+Jos haluat kirja utua ulos Outlookin verkko versiosta, valitse nimesi tai kuvasi oikeassa yläkulmassa ja valitse **Kirjaudu ulos**.
 
-Voit lopettaa työpaikan tai oppilaitoksen tilin automaattisen kirjautumisen:
+Jos haluat lopettaa automaattisesti kirjautumisen työpaikan tai oppi laitoksen tiliin, toimi seuraavasti:
 
 1. Valitse nimesi tai kuvasi ja valitse **Kirjaudu ulos**.
-1. Siirry [Outlook.office.com](https://outlook.office.com/) ja valitse **Käytä toista tiliä**.
-1. Kirjaudu sisään sähköpostiosoitteella, jota haluat käyttää.
+1. Siirry [Outlook.Office.com](https://outlook.office.com/) ja valitse **Käytä toista tiliä**.
+1. Kirjaudu sisään käyttämällä Sähkö posti osoitetta, jota haluat käyttää.
 
-Lisätietoja on [ohjeaiheessa Outlookin verkkoversioon kirjautuminen tai siitä uloskirjautuminen](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Lisä tietoja on artikkelissa [Outlookin verkko version sisään-ja uloskirjautuminen](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

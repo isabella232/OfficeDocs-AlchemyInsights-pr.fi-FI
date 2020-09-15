@@ -1,42 +1,43 @@
 ---
-title: Ulkoisen sähköpostin edelleenlähetyksen tunnistaminen valvontalokeissa
+title: Valvonta lokien posti laatikoiden ulkoinen sähkö postin lähettäminen edelleen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508949"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696294"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ulkoisen sähköpostin edelleenlähetyksen määrittäminen postilaatikoissa
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Määritä, milloin ulkoinen sähkö postin välitys on määritetty posti laatikoihin
 
-Kun Microsoft 365 -käyttäjä määrittää postilaatikon ulkoisen sähköpostin edelleenlähetyksen, aktiviteettia valvotaan osana **Set-Mailbox-cmdlet-komentoa.** Voit tarkastella toimintaa valvontalokin haun avulla Suojaus- & Yhteensopivuuskeskuksessa.
+Kun Microsoft 365-käyttäjä määrittää posti laatikon ulkoiseen sähkö postin lähettämiseen, toiminta tarkastetaan osana **joukko posti laatikon cmdlet-** komentosovelmaa. Voit tarkastella aktiviteettia valvonta loki haun avulla tieto turva-& yhteensopivuus keskuksessa.
 
-1. Kirjaudu Microsoft [365 Security & Compliance Centeriin.](https://protection.office.com/)
+1. Kirjaudu sisään [Microsoft 365-tieto turva & Compliance Centeriin](https://protection.office.com/).
 
-2. Siirry **Haun**  >  **valvontalokin hakusivulle.**
+2. Siirry **haun**  >  **valvonta lokien haku** sivulle.
 
-3. Valitse päivämääräalue **Aloituspäivä-** ja **Päättymispäivä-kentissä.** Käyttäjänimeä ei tarvitse määrittää. Tarkista, että **Aktiviteetit-kentän** arvoksi on määritetty **Näytä kaikkien aktiviteettien tulokset**.
+3. Valitse päivämäärä väli **alkamis päivä** -ja **päättymis päivä** -kenttiin. Sinun ei tarvitse määrittää käyttäjä nimeä. Varmista, että **aktiviteetit** -kenttä on valittu **näyttämään kaikkien toimintojen tulokset**.
 
 4. Valitse **Hae**.
 
-Valitse tuloksista **Suodata tulokset** ja kirjoita aktiviteettisuodatinruutuun **Set-Mailbox.** Valitse seurantatietue tuloksista. Valitse **Details** Tiedot-pikaikkunassa **Lisätietoja**. Sinun on tarkasteltava kunkin valvontatietueen tietoja ja määritettävä, liittyykö aktiviteetti sähköpostin edelleenlähetykseen.
+Valitse tulokset-kohdassa **Suodata tulokset** ja kirjoita **Määritä-posti laatikko** aktiviteetin suodatus-ruutuun. Valitse seuranta tietue tuloksista. Valitse **tiedot** -valikosta **lisä tietoja**. Sinun on tarkasteltava kunkin valvonta tietueen tietoja määrittääksesi, onko toiminto yhteydessä sähkö postin lähettämiseen.
 
-- **ObjectId**: Muokattavan postilaatikon aliasarvo.
+- **ObjectID**: muutetun posti laatikon alias-arvo.
 
-- **Parametrit**: _ForwardingSmtpAddress_ ilmaisee kohdesähköpostiosoitteen.
+- **Parametrit**: _fordingingsmtpaddress_ osoittaa kohde Sähkö posti osoitteen.
 
-- **UserId**: Käyttäjä, joka on määrittänyt sähköpostin edelleenlähetyksen **postilaatikkoon ObjectId-kentässä.**
+- **UserID**: käyttäjä, joka määritti sähkö postin lähettämisen **objectID** -kentässä olevalle posti laatikolle.
 
-Lisätietoja on [ohjeaiheessa Postilaatikon sähköpostin edelleenlähetyksen määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Lisä tietoja [on kohdassa sähkö postin lähettämisen määrittäminen Posti laatikolle](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
