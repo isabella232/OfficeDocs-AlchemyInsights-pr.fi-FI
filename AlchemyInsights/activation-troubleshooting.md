@@ -1,32 +1,32 @@
 ---
-title: Aktivoinnin vianmääritys
-ms.author: jillz
-author: jillz
+title: Akti voinnin vian määritys
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676422"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697482"
 ---
-# <a name="activation-troubleshooting"></a>Aktivoinnin vianmääritys
+# <a name="activation-troubleshooting"></a>Akti voinnin vian määritys
 
-Etsi **Office-sovellus Ohjauspaneelin** \> **Ohjelmat ja toiminnot -kohdasta.** Sinun pitäisi nähdä Microsoft 365 Apps for Enterprise tai Microsoft 365 Apps for Business. Jos näet luettelossa useamman kuin yhden Office-version, poista sen version asennus, jota et käytä.
+Etsi Office-sovellus **ohjaus paneelin** \> **ohjelmat ja toiminnot**-kohdassa. Sinun pitäisi nähdä Microsoft 365-sovellukset Enterprise-tai Microsoft 365-sovelluksissa yrityksille. Jos näet luettelossa useamman kuin yhden Office-version, poista sen version asennus, jota et käytä.
   
-Jos asennuksen poistaminen ei onnistu Ohjauspaneelin avulla, poista käyttämäsi version asennus [tuki- ja palautusavustajan](https://aka.ms/SARA-OfficeUninstall-Alchemy) avulla.
+Jos asennuksen poistaminen ei onnistu ohjaus paneelissa, käytä [tuki-ja palautus avustajaa](https://aka.ms/SARA-OfficeUninstall-Alchemy) , jotta voit poistaa käyttämäsi version asennuksen.
   
-Jos Officella ei vieläkään ole käyttöoikeuksia, palaa Ohjauspaneelin Ohjelmat ja toiminnot **-kohtaan.** \> **Programs and Features** Napsauta jäljellä olevaa Office-asennusta hiiren kakkospainikkeella, valitse **Muokkaa** (tai Muuta) ja valitse sitten **Online Repair**. Online-korjaus saattaa kestää jonkin aikaa. Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä.
+Jos Office on edelleen käyttöoikeudeton, palaa **ohjaus paneelin** \> **ohjelmiin ja ominaisuuksiin**. Napsauta hiiren kakkos painikkeella jäljellä olevaa Office-asennusta, valitse **Muokkaa** (tai muuta) ja valitse sitten **online-korjaus**. Online-korjaus saattaa kestää jonkin aikaa. Käynnistä Office sitten uudestaan ja kirjaudu pyydettäessä sisään työpaikan tai oppilaitoksen tilillä.
   
-Jos Officella ei vieläkään ole käyttöoikeuksia, korjaa aktivointiongelmat lataamalla ja suorittamalla [aktivoinnin vianmääritys](https://aka.ms/SARA-OfficeActivation-Alchemy) haavoittuvuuden sisältävässä tietokoneessa.
+Jos Office on edelleen käyttöoikeudeton, Lataa aktivointi ongelmat lataamalla ja suorittamalla [Akti voinnin vian määritys](https://aka.ms/SARA-OfficeActivation-Alchemy) haavoittuvuuden sisältävissä tieto koneessa.
   
-Lisätietoja on kohdassa [Käyttöoikeudeton tuote- ja aktivointivirhe Officessa](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Lisä tietoja on artikkeleissa [käyttöoikeudettomat tuote-ja aktivointi virheet Officessa](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

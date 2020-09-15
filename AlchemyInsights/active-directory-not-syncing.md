@@ -1,31 +1,32 @@
 ---
-title: Active Directoryei synkronoidu
+title: Active Directory ei synkronoidu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3abad160ab28922685d235a1fa546105e31757fb
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265194"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697626"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directoryei synkronoidu
+# <a name="active-directory-not-syncing"></a>Active Directory ei synkronoidu
 
-Jos saat synkronointivirheitä, kuten "ei viimeaikaista synkronointia", tai huomaat hakemistosynkronoinnin tilan Office-hallintaportaalissa, sanoo "Viimeksi synkronoitu yli kolme päivää sitten", AADConnectin asetukset tai riittämättömät asetukset synkronoinnin suorittamiseen tarvittavat käyttöoikeudet.  
+Jos saat synkronointi virheitä, kuten "ei hiljattain tehtyä synkronointia" tai huomaat, että Office-hallinta portaalin hakemisto synkronoinnin tilana lukee "synkronoitu viimeksi yli 3 päivää sitten", voi olla, että AADConnect-asetukset ovat virheelliset tai käyttö oikeudet eivät riitä synkronoinnin suorittamiseen.  
 
-AADConnectin asentaminen uudelleen pika-asetusten avulla saattaa ratkaista ongelman nopeasti:
+AADConnect-toiminnon uudelleenasentaminen Pika-asetuksilla voi korjata ongelman nopeasti:
 
-1. [Lataa AADConnectin uusin versio](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Lataa AADConnect-tiedoston uusin versio](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Noudata pikaasennusohjeita.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Noudata pika-asennus ohjeita](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Lisätietoja AADConnect-palvelutileistä on kohdassa [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Lisä tietoja AADConnect-palvelu tileiltä on Ohje aiheessa [Azure AD Connect: Asiakkaat ja käyttö oikeudet](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
