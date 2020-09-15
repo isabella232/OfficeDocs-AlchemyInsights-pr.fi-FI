@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908812"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685883"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="3c954-102">BitLocker-palautus avainten käyttäminen</span><span class="sxs-lookup"><span data-stu-id="3c954-102">Accessing Bitlocker recovery keys</span></span>
+# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="b7d6c-102">BitLocker-palautus avainten käyttäminen</span><span class="sxs-lookup"><span data-stu-id="b7d6c-102">Accessing Bitlocker recovery keys</span></span>
 
-<span data-ttu-id="3c954-103">Kun määrität BitLocker-asetuksia Intune-pääte pisteen suojaus käytännölle, on mahdollista määrittää, tallennetaanko BitLocker-palautus tiedot Azure Active Directoryyn.</span><span class="sxs-lookup"><span data-stu-id="3c954-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
+<span data-ttu-id="b7d6c-103">Kun määrität BitLocker-asetukset Intune-pääte pisteen suojaus käytännöksi, on mahdollista määrittää, tallennetaanko BitLocker-palautus tiedot Azure Active Directoryyn.</span><span class="sxs-lookup"><span data-stu-id="b7d6c-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
 
-<span data-ttu-id="3c954-104">Jos tämä asetus on määritetty, tallennettujen palautus tietojen tulee näkyä Intune Adminissa osana Intune Devices Blade-laitteen tietue dataa kahdella tavalla:</span><span class="sxs-lookup"><span data-stu-id="3c954-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
+<span data-ttu-id="b7d6c-104">Jos tämä asetus on määritetty, tallennettujen palautus tietojen pitäisi näkyä Intune-järjestelmänvalvojalle osana laitteen tietue tietoja Intune-laitteiden Blade-sovelluksessa kahdella tavalla:</span><span class="sxs-lookup"><span data-stu-id="b7d6c-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
 
-<span data-ttu-id="3c954-105">Laitteet-Azure AD Devices-> "laite" tai laitteet-> kaikki laitteet-> "laite"-> palautus avaimet</span><span class="sxs-lookup"><span data-stu-id="3c954-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
+<span data-ttu-id="b7d6c-105">Laitteet-Azure AD Devices-> "laite" tai laitteet-> kaikki laitteet-> "laite"-> palautus näppäimet</span><span class="sxs-lookup"><span data-stu-id="b7d6c-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
 
-<span data-ttu-id="3c954-106">Vaihtoehtoisesti, jos sinulla on järjestelmänvalvojan oikeudet itse laitteeseen, palautus avain (sala sana) voidaan nähdä suorittamalla seuraava komento järjestelmänvalvojan oikeuksin suoritettavaan komento kehotteeseen:</span><span class="sxs-lookup"><span data-stu-id="3c954-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
+<span data-ttu-id="b7d6c-106">Jos itse laitteessa on järjestelmänvalvojan oikeudet, palautus avain (sala sana) näkyy suorittamalla seuraava komento järjestelmänvalvojan oikeuksin suoritettavalla komento kehotteesta:</span><span class="sxs-lookup"><span data-stu-id="b7d6c-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-<span data-ttu-id="3c954-107">Jos laite on salattu ennen ilmoittautumista Intunessa, palautus avain on saatettu liittää "Microsoft Account" (MSA)-tiliin, jota käytetään kirjautumiseen laitteeseen OOBE-prosessin aikana.</span><span class="sxs-lookup"><span data-stu-id="3c954-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="3c954-108">Jos näin oli, yhteyden otto https://onedrive.live.com/recoverykey ja kirjautuminen kyseiseen MSA-tieto koneeseen olisi osoitettava laitteet, joihin palautus avaimet on tallennettu.</span><span class="sxs-lookup"><span data-stu-id="3c954-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
+<span data-ttu-id="b7d6c-107">Jos laite on salattu ennen sen rekisteröimisestä Intune-avaimeen, palautus avain on ehkä liitetty "Microsoft-tiliin" (MSA), jota käytettiin laitteeseen kirjautumiseen OOBE-prosessin aikana.</span><span class="sxs-lookup"><span data-stu-id="b7d6c-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="b7d6c-108">Tässä tapa uksessa  https://onedrive.live.com/recoverykey tämän MSA-palvelun käyttö ja sisäänkirjautuminen olisi osoitettava laitteet, joihin palautus avaimet on tallennettu.</span><span class="sxs-lookup"><span data-stu-id="b7d6c-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
  
-<span data-ttu-id="3c954-109">Jos laite on salattu kokoonpanon seura uksena toimi alueeseen perustuvan ryhmä käytännön kautta, palautus tiedot voidaan tallentaa paikalliseen Active Directoryyn.</span><span class="sxs-lookup"><span data-stu-id="3c954-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
+<span data-ttu-id="b7d6c-109">Jos laite on salattu kokoonpanon perusteella toimi alue perusteista ryhmä käytäntöä käyttämällä, palautus tiedot saatetaan tallentaa paikalliseen Active Directoryyn.</span><span class="sxs-lookup"><span data-stu-id="b7d6c-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
  
 
