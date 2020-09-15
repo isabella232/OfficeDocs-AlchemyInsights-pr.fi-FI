@@ -1,26 +1,27 @@
 ---
-title: Toimialueen vahvistaminen 123-reg.co.uk avulla
+title: Toimi alueen tarkistaminen 123-reg.co.uk-sivuston avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e84e56a839754e65eaa0945c68abdedcec1a7733
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 838406ef6dd45fce436a72cd60888cd9498baa35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766346"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657525"
 ---
-# <a name="verify-your-domain-with-123-regcouk"></a><span data-ttu-id="77aa7-102">Toimialueen vahvistaminen 123-reg.co.uk avulla</span><span class="sxs-lookup"><span data-stu-id="77aa7-102">Verify your domain with 123-reg.co.uk</span></span>
+# <a name="verify-your-domain-with-123-regcouk"></a><span data-ttu-id="ab9d6-102">Toimi alueen tarkistaminen 123-reg.co.uk-sivuston avulla</span><span class="sxs-lookup"><span data-stu-id="ab9d6-102">Verify your domain with 123-reg.co.uk</span></span>
 
-<span data-ttu-id="77aa7-103">Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden vahvistamiseksi.</span><span class="sxs-lookup"><span data-stu-id="77aa7-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="ab9d6-103">Jos haluat vahvistaa toimi alueesi, sinun on lisättävä toimi alueen rekisteröinti palveluun TXT-tietue, jotta voit vahvistaa, että omistat toimi alueen.</span><span class="sxs-lookup"><span data-stu-id="ab9d6-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="77aa7-104">Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja sitten **Lisää toimialue**.</span><span class="sxs-lookup"><span data-stu-id="77aa7-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="ab9d6-104">Seuraa ensin [ohjattua toimi alueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> -toimi **alueet**ja **Lisää sitten toimi alue**.</span><span class="sxs-lookup"><span data-stu-id="ab9d6-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="77aa7-105">Vaiheittaiset ohjeet ovat kohdassa [DNS-tietueiden luominen Microsoft 365:n 123-reg.co.uk.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk)</span><span class="sxs-lookup"><span data-stu-id="77aa7-105">See [Create DNS records at 123-reg.co.uk for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) for step-by-step instructions.</span></span>
+<span data-ttu-id="ab9d6-105">Vaiheittaiset ohjeet ovat artikkelissa [DNS-tietueiden luominen osoitteessa 123-reg.co.uk Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) .</span><span class="sxs-lookup"><span data-stu-id="ab9d6-105">See [Create DNS records at 123-reg.co.uk for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) for step-by-step instructions.</span></span>
