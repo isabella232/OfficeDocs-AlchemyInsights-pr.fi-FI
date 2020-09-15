@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-Dynamics 365 Unified Interface-liittymän väärät koonti näyttöjen esitykset
+title: Dynamics 365-väärä koonti näyttö näytetään Dynamics 365 Unified Interface-liittymässä
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528548"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711272"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dynamics 365 Unified Interface-liittymän väärät koonti näyttöjen esitykset
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Väärä koonti näyttö näytetään Dynamics 365 Unified Interface-liittymässä
 
-On useita syitä, miksi saatat nähdä eri koonti näytön kuin mitä odotat:
+On useita syitä siihen, miksi näyttöön voi tulla jokin muu koonti näyttö kuin odotit:
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>Käyttäjä on määrittänyt käyttäjän oletus koonti näytön 
 
-Yleensä voit tunnistaa käyttäjän oletus koonti näytön, jos **Aseta oletus** arvoksi-painike ei näy koonti näytön komento palkissa. Käyttäjän oletus koonti näyttö ohittaa kaikki muut oletus koonti näytöt, vaikka käyttäjän oletus koonti näyttö ei olisi nykyisessä sovelluksessa.
+Yleensä käyttäjä voi määrittää oletus koonti näytön, jos **Määritä oletukseksi** -painike ei näy koonti näytön komento palkissa. Käyttäjän oletus koonti näyttö ohittaa kaikki muut oletusarvoiset raportti näkymät, vaikka käyttäjän oletus koonti näyttö ei olisi nykyisessä sovelluksessa.
 
-Poista oletus koonti näytön asetus käytöstä seuraavan kierto tavan avulla.
+Voit poistaa oletus koonti näytön käytöstä noudattamalla seuraavia vaihto ehtoista vaihto ehtoista menetelmää.
 
 1. Luo uusi henkilökohtainen koonti näyttö.
 
-2. Määritä uusi koonti näyttö käyttäjän oletus arvoksi.
+2. Uuden koonti näytön määrittäminen käyttäjän oletukseksi.
 
-3. Poista kyseinen koonti näyttö.
+3. Poista raportti näkymä.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Koonti näyttö on määritetty sivustokartassa
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Koonti näyttö määritetään sivustokarttaan
 
-Olet ehkä määrittänyt organisaation oletus koonti näytön valitsemalla koonti näytön ja valitsemalla "Määritä oletukseksi" kohdassa "Mukauta järjestelmää". Sivustokartan suunnittelu ohjelmassa määritetty koonti näyttö ohittaa kuitenkin tämän koonti näytön, jos käyttäjällä on siihen käyttö oikeus.
+Olet ehkä määrittänyt organisaation oletus koonti näytön valitsemalla koonti näytön ja valitsemalla "Määritä oletukseksi" kohdassa "Mukauta järjestelmää". Sivustokartta Designerissa määritetty koonti näyttö ohittaa tämän koonti näytön, jos käyttäjä voi käyttää sitä.
 
-Jotta käyttäjät näkevät koonti näytön, jonka olet määrittänyt organisaation oletus arvoksi, voit joko:
+Jos haluat, että käyttäjät näkevät koonti näytön, jonka olet määrittänyt organisaation oletukseksi, voit joko:
 
-* Määritä tämä koonti näyttö sivustokartassa
+* Näyttö näkymän asettaminen sivustokarttaan
 
-* Poista käyttö oikeudet sivustokartan määritettyyn koonti näyttöön näille käyttäjille
+* Sivustokartan käyttö oikeuden poistaminen määritettyjen käyttäjien koonti näytöstä

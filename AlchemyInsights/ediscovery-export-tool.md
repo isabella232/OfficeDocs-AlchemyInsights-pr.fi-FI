@@ -1,10 +1,11 @@
 ---
-title: eDiscovery-vientityökalu
+title: eDiscoveryn vienti työkalu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507167"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711092"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>EDiscovery Export Tool -työkalun asentaminen tai suorittaminen ei onnistu?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Etkö voi asentaa tai suorittaa eDiscoveryn vienti työkalua?
 
-Jos et pysty asentamaan tai suorittamaan eDiscovery Export Tool -työkalua hakutulosten lataamiseksi, tarkista seuraavat asiat:
+Jos et voi asentaa tai käyttää eDiscoveryn vienti työkalua haku tulosten lataamiseen, tarkista seuraavat asiat:
   
-- Käyttämäsi tietokone täyttää seuraavat edellytykset:
+- Käyttämäsi tieto kone täyttää seuraavat vaatimukset:
 
-  - Windows 7:n ja uudempien versioiden 32- tai 64-bittiset versiot
+  - 32-tai 64-bittiset Windows 7-versiot ja uudemmat versiot
 
   - Microsoft .NET Framework 4.7
 
-  - Tuettu selain:
+  - Tuetulla selaimella:
 
-  - Microsoft Reuna
+  - Microsoft Edge
 
     TAI
 
   - Internet Explorer 10 ja uudemmat versiot
 
-    Muita selaimia, kuten Google Chromea ja Mozilla Firefoxia, ei tueta.
+    Muita selaimia, kuten Google Chromea ja Mozilla Firefoxia, ei voi tukea.
 
-- Organisaatiosi voi muodostaa yhteyden päätepisteeseen Azuressa, joka on ** \* .blob.core.windows.net** (yleismerkki edustaa vientityön yksilöllistä tunnusta).
+- Organisaatiosi voi muodostaa yhteyden Azure-pääte pisteeseen, joka on ** \* . blob.Core.Windows.net** (Yleismerkki vastaa vienti työn yksilöllistä tunnistetta).
 
-- Sinulle on määritetty Vie-rooli Microsoft 365 Security &amp; Compliance Centerissä. Oletusarvon mukaan tämä rooli määritetään vain eDiscovery Manager -rooliryhmälle. Katso [eDiscovery-käyttöoikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Olet määrittänyt vienti roolin Microsoft 365-tieto turva &amp; yhteensopivuus keskuksessa. Oletusarvoisesti tämä rooli määritetään vain eDiscoveryn hallinta-rooli ryhmälle. Lisä tietoja on Ohje aiheessa [eDiscoveryn käyttö oikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Lisä tietoja on Ohje aiheessa [sisältö haun tulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
