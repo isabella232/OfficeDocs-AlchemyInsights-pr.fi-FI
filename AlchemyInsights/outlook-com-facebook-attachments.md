@@ -1,29 +1,30 @@
 ---
-title: Outlook.com sähköpostitilaukset
-ms.author: lpyfer
-author: lpyfer
+title: Outlook.com-Sähkö posti tilaukset
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723528"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672090"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Tiedostoja ei voi liittää tai ladata Facebookista
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Tiedostojen liittäminen tai lataaminen ei onnistu Facebookista
 
-Facebookin käyttöehtojen muutoksen vuoksi 23.10.2019 jälkeen et voi enää ladata liitteitä suoraan Facebookista, eikä Facebook enää näy pilvisijaintiesi luettelossa. 
+Facebookin käyttö ehtojen muutoksen takia, 2019 jälkeen, et voi enää ladata liitteitä suoraan Facebookista, eikä Facebook näy enää pilvi sijaintien luettelossa. 
 
-Voit hallita [tallennustilatilien](https://go.microsoft.com/fwlink/?linkid=2111075)muiden pilvisijaintien luetteloa.
+Voit hallita [muisti kirjan](https://go.microsoft.com/fwlink/?linkid=2111075)muiden pilvi sijaintien luetteloa.
 
-Lisätietoja [tallennustileistä](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Lisä tietoja [tallennus tila tileistäsi](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

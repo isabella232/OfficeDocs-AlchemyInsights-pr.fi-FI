@@ -1,45 +1,46 @@
 ---
-title: "\"Puuttuvien tiedostojen tai kansioiden vianmääritys"
+title: "\"Puuttuvien tiedostojen tai kansioiden vian määritys"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3b344e7a4a5f663b15a9f3820d1ff7b28ad61b4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511217"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670649"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Puuttuvien tiedostojen tai kansioiden vianmääritys OneDrivessa tai SharePointissa
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Puuttuvien tiedostojen tai kansioiden vian määritys OneDrivessa tai SharePointissa
 
-- [Tarkista sivuston roskakori](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Sivuston roska korin tarkistaminen](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [SharePoint-sivuston roskakorin kohteiden palauttaminen](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [SharePoint-sivuston roska korin kohteiden palauttaminen](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
 **Tiedostojen palauttamisominaisuus**
 
-Jos useita OneDrive- tai SharePoint-tiedostoja poistetaan, korvataan, vioittuu tai haittaohjelmatartuuttaa, voit palauttaa koko OneDrive- tai Sharepoint-kirjaston edelliseen aikaan tiedostojen palautustoiminnon avulla.
+Jos monet OneDrive-tai SharePoint-tiedostosi poistetaan, korvautuvat, vioittuvat tai tartuttavat haitta ohjelmia, voit palauttaa koko OneDrive-tai SharePoint-kirjaston aiemman ajan kohdan Tiedostojen palauttaminen-toiminnon avulla.
 
 - [OneDrive-kirjaston palauttaminen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Tiedostokirjaston palauttaminen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Tarkista tiedoston historia valvontalokin tai tiedostoaktiviteettiruudun avulla**
+**Tarkista tiedoston historia käyttämällä valvonta lokia tai tiedoston toiminta-ruutua.**
 
-[Tarkista tarkastusraportit](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> navigoimalla [täällä](https://protection.office.com/#/unifiedauditlog)
+[Tarkista valvonta raportit](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> siirtymällä [tästä](https://protection.office.com/#/unifiedauditlog)
 
-Tarkista tiedoston historia [tiedostoaktiviteettiruudun](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) avulla.
+Tarkista tiedoston historia [tiedoston toiminta-](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) ruudun avulla.
 
-Tarkista OneDrive Sync Client paikallisesta tietokoneesta.  Jos synkronoit tietokoneen tiedostot OneDrive Sync -asiakasohjelman kautta, tarkista paikallisesta synkronointikansiosta, että ne on ladattu oikein. Tarkista myös paikallisen tietokoneen roskakori.
+Valitse paikallisen tieto koneen OneDrive-synkronointi sovellus.  Jos synkronoit tieto koneesi tiedostoja OneDrive-synkronointi sovelluksen kautta, tarkista Paikallinen synkronointi-kansio ja varmista, että se on ladattu oikein. Varmista, että tarkistat myös paikallisen tieto koneen roska korin.
 
 
 

@@ -1,23 +1,24 @@
 ---
-title: Outlook web-tilin hakkeroitu
+title: Outlookin verkko tili hakkeroitu
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a988656beee1da0cc763b36de001777b18842956
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510245"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671333"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook web-tilin hakkeroitu
+# <a name="outlook-on-the-web-account-hacked"></a>Outlookin verkko tili hakkeroitu
 
-Jos tilisi on hakkeroitu, noudata kohdassa [Sähköpostitoiminnon suojaaminen ja palauttaminen epäiltyihin Microsoft 365 -tiliin ja postilaatikkoon annettuja](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)ohjeita.
+Jos tiliisi on murtauduttu, noudata ohjeita, jotka koskevat [Sähkö posti-toiminnon suojaamista ja palauttamista epäiltyyn Microsoft 365-tiliin ja-posti laatikkoon](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
 
-Lisätietoja lisävaiheista, joilla voit estää tilisi vaarantumisen, on [ohjeaiheessa Vaarantuneen sähköpostitilin vastaaminen Microsoft 365:ssä](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Lisä tietoja muista toimenpiteistä, joilla voit estää tilisi vaarantumisen, on artikkelissa [Microsoft 365-sovelluksen vaarantuneen Sähkö posti tilin vastaaminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
