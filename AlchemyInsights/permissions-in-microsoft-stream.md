@@ -1,29 +1,30 @@
 ---
-title: Käyttöoikeudet Microsoft Streamissa
+title: Käyttö oikeudet Microsoft streamissä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721408"
 ---
-# <a name="permissions-in-microsoft-stream"></a><span data-ttu-id="e5ad4-102">Käyttöoikeudet Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="e5ad4-102">Permissions in Microsoft Stream</span></span>
+# <a name="permissions-in-microsoft-stream"></a><span data-ttu-id="d7c70-102">Käyttö oikeudet Microsoft streamissä</span><span class="sxs-lookup"><span data-stu-id="d7c70-102">Permissions in Microsoft Stream</span></span>
 
-<span data-ttu-id="e5ad4-103">Kun lataat videon, videon käyttöoikeudet määritetään oletusarvoisesti koko yritykselle.</span><span class="sxs-lookup"><span data-stu-id="e5ad4-103">By default, when you upload a video, the permissions are set for the video to be visible to the whole company.</span></span> <span data-ttu-id="e5ad4-104">Jos haluat määrittää käyttöoikeudet tietyille käyttäjille/ryhmille, voit mukauttaa videon käyttöoikeuksia.</span><span class="sxs-lookup"><span data-stu-id="e5ad4-104">If you want to specify permissions to specific users/groups, you can customize the video permissions.</span></span>
+<span data-ttu-id="d7c70-103">Kun lataat videon, voit oletusarvoisesti määrittää, että video näkyy koko yrityksessä.</span><span class="sxs-lookup"><span data-stu-id="d7c70-103">By default, when you upload a video, the permissions are set for the video to be visible to the whole company.</span></span> <span data-ttu-id="d7c70-104">Jos haluat määrittää käyttö oikeudet tietyille käyttäjille/ryhmille, voit mukauttaa videon käyttö oikeuksia.</span><span class="sxs-lookup"><span data-stu-id="d7c70-104">If you want to specify permissions to specific users/groups, you can customize the video permissions.</span></span>
 
-- [<span data-ttu-id="e5ad4-105">Käyttöoikeudet ja tietosuoja Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="e5ad4-105">Permissions and privacy in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-permissions)
+- [<span data-ttu-id="d7c70-105">Käyttöoikeudet ja tietosuoja Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="d7c70-105">Permissions and privacy in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-permissions)
 
-- [<span data-ttu-id="e5ad4-106">Ryhmän käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="e5ad4-106">Group permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [<span data-ttu-id="d7c70-106">Ryhmän käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="d7c70-106">Group permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [<span data-ttu-id="e5ad4-107">Kanavan käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="e5ad4-107">Channel permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [<span data-ttu-id="d7c70-107">Kanavan käyttöoikeudet</span><span class="sxs-lookup"><span data-stu-id="d7c70-107">Channel permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
