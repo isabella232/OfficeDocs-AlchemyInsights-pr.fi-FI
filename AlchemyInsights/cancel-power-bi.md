@@ -1,10 +1,11 @@
 ---
-title: Peruuta Power BI
+title: Power BI:n peruuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: a1fac32c7f15d7e9a1382acaf87125877ee14782
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44282743"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683471"
 ---
-# <a name="cancel-power-bi"></a><span data-ttu-id="c97d8-102">Peruuta Power BI</span><span class="sxs-lookup"><span data-stu-id="c97d8-102">Cancel Power BI</span></span>
+# <a name="cancel-power-bi"></a><span data-ttu-id="2f9d7-102">Power BI:n peruuttaminen</span><span class="sxs-lookup"><span data-stu-id="2f9d7-102">Cancel Power BI</span></span>
 
-<span data-ttu-id="c97d8-103">Power BI voidaan peruuttaa **Microsoft 365 -hallintakeskuksessa**.</span><span class="sxs-lookup"><span data-stu-id="c97d8-103">Power BI can be canceled in the **Microsoft 365 admin center**.</span></span>  
+<span data-ttu-id="2f9d7-103">Power BI voidaan peruuttaa **Microsoft 365-hallinta keskuksessa**.</span><span class="sxs-lookup"><span data-stu-id="2f9d7-103">Power BI can be canceled in the **Microsoft 365 admin center**.</span></span>  
 
-1. <span data-ttu-id="c97d8-104">Siirry \*\*Laskutus > [Tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\*</span><span class="sxs-lookup"><span data-stu-id="c97d8-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="2f9d7-104">Siirry \*\*laskutus > [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* -sivulle.</span><span class="sxs-lookup"><span data-stu-id="2f9d7-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="c97d8-105">Etsi peruutettava Power BI -suunnitelma.</span><span class="sxs-lookup"><span data-stu-id="c97d8-105">Locate the Power BI Plan to cancel.</span></span>
+2. <span data-ttu-id="2f9d7-105">Etsi Power BI-tilaus, jonka haluat peruuttaa.</span><span class="sxs-lookup"><span data-stu-id="2f9d7-105">Locate the Power BI Plan to cancel.</span></span>
 
-3. <span data-ttu-id="c97d8-106">Valitse **Peruuta tilaus**.</span><span class="sxs-lookup"><span data-stu-id="c97d8-106">Click **Cancel subscription**.</span></span>
+3. <span data-ttu-id="2f9d7-106">Valitse **Peruuta tilaus**.</span><span class="sxs-lookup"><span data-stu-id="2f9d7-106">Click **Cancel subscription**.</span></span>
 
-<span data-ttu-id="c97d8-107">**Hyvitys: Kaikki prorated-hyvitykset palautetaan sinulle seuraavan laskutusjakson aikana.**</span><span class="sxs-lookup"><span data-stu-id="c97d8-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
+<span data-ttu-id="2f9d7-107">**Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.**</span><span class="sxs-lookup"><span data-stu-id="2f9d7-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-<span data-ttu-id="c97d8-108">**Huomautus**: Jos et näe peruutusvaihtoehtoa, napsauta tilausta nähdäksesi tiedot ja näkyviin pitäisi näkyä **Peruuta tilaus** -vaihtoehto Kohdassa Asetukset **& Toiminnot**.</span><span class="sxs-lookup"><span data-stu-id="c97d8-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
+<span data-ttu-id="2f9d7-108">**Huomautus**: Jos et näe Peruuta-vaihto ehtoa, saat lisä tietoja valitsemalla tila uksen ja näet **Peruuta tilaus** -vaihto ehdon kohdassa **Asetukset & toiminnot**.</span><span class="sxs-lookup"><span data-stu-id="2f9d7-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
 
-<span data-ttu-id="c97d8-109">Lisätietoja on ohjeaiheessa [Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="c97d8-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="2f9d7-109">Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="2f9d7-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
