@@ -1,26 +1,27 @@
 ---
-title: Toimialueen vahvistaminen Dreamhostin avulla
+title: Toimi alueen tarkistaminen Dreamhost avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766238"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669028"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a><span data-ttu-id="23a3f-102">Toimialueen vahvistaminen Dreamhostin avulla</span><span class="sxs-lookup"><span data-stu-id="23a3f-102">Verify your domain with Dreamhost</span></span>
+# <a name="verify-your-domain-with-dreamhost"></a><span data-ttu-id="35b43-102">Toimi alueen tarkistaminen Dreamhost avulla</span><span class="sxs-lookup"><span data-stu-id="35b43-102">Verify your domain with Dreamhost</span></span>
 
-<span data-ttu-id="23a3f-103">Toimialueen vahvistamiseksi sinun on lisättävä TXT-tietue toimialueen rekisteröintipalveluun toimialueen omistajuuden vahvistamiseksi.</span><span class="sxs-lookup"><span data-stu-id="23a3f-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="35b43-103">Jos haluat vahvistaa toimi alueesi, sinun on lisättävä toimi alueen rekisteröinti palveluun TXT-tietue, jotta voit vahvistaa, että omistat toimi alueen.</span><span class="sxs-lookup"><span data-stu-id="35b43-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="23a3f-104">Noudata ensin [ohjattua toimialueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> **toimialueet**ja sitten **Lisää toimialue**.</span><span class="sxs-lookup"><span data-stu-id="23a3f-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="35b43-104">Seuraa ensin [ohjattua toimi alueen lisäämistä](https://portal.office.com/adminportal/home#/Domains) valitsemalla **Asetukset** \> -toimi **alueet**ja **Lisää sitten toimi alue**.</span><span class="sxs-lookup"><span data-stu-id="35b43-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="23a3f-105">Vaiheittaiset ohjeet ovat kohdassa [DNS-tietueiden luominen Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) :ssä.</span><span class="sxs-lookup"><span data-stu-id="23a3f-105">See [Create DNS records at Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) for step-by-step instructions.</span></span>
+<span data-ttu-id="35b43-105">Vaiheittaiset ohjeet ovat artikkelissa [DNS-tietueiden luominen Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) .</span><span class="sxs-lookup"><span data-stu-id="35b43-105">See [Create DNS records at Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) for step-by-step instructions.</span></span>
