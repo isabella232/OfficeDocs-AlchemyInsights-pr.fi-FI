@@ -1,35 +1,36 @@
 ---
-title: Pääsypalvelut eläkkeelle
+title: Palveluiden käytön keskeytys
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687255"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698679"
 ---
-# <a name="access-services-retirement"></a>Pääsypalvelut eläkkeelle
+# <a name="access-services-retirement"></a>Palveluiden käytön keskeytys
 
-Kuten alun perin ilmoitimme MC97576:ssa maaliskuussa 2017 ja jatkoimme viestintää kuluneen vuoden aikana Access-palvelut ovat eläkkeellä. Tämän prosessin seuraava vaihe on Sellaisten Access Web -tietokantojen poistaminen, jotka käyttävät SharePoint-luetteloita pohjana olevina tietojen tallennina.
+Kuten alun perin ilmoitettiin MC97576, maaliskuussa 2017 ja jatkoi viestintää kuluneen vuoden aikana, palvelu on poistettu käytöstä. Tämän prosessin seuraava vaihe on sellaisten Accessia käyttävien verkko tieto kantojen poistaminen, jotka käyttävät SharePoint-luetteloita pohjana olevien tietojen tallentamiseen.
 
 **Miten tämä vaikuttaa minuun?**
 
-Kesäkuusta 2019 alkaen lopetamme uusien Access-tietokantojen luomisen SharePoint Onlinessa ja suljemme palvelun ja muut jäljellä olevat sovellukset huhtikuuhun 2020 mennessä.
+Kesä kuun 2019 jälkeen lopetamme uusien tieto kantojen luomisen SharePoint Onlinessa ja suljet palvelun ja kaikki jäljellä olevat sovellukset huhtikuuhun 2020 mennessä.
 
-**Mitä minun on tehtävä valmistautuakseni tähän muutokseen?**
+**Mitä minun on tehtävä tämän muutoksen valmistelemiseksi?**
 
-Suosittelemme, että luot siirtymäsuunnitelman organisaation Access-verkkotietokannoille. Järjestelmänvalvojat voivat hankkia [SharePoint Access -sovellusskannerin](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) avulla luettelon sivustoissa käytettävistä Access-sovelluksista.
+Kehotamme sinua luomaan siirtymäsuunnitelmat organisaation verkko tieto kantoja varten. Järjestelmänvalvojat voivat käyttää [SharePoint-sovelluksen sovellus skanneria](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , joka hankkii luettelon käyttö oikeus sovelluksista, joita sivustot käyttävät.
 
-Access-verkkotietokantojen tiedot voidaan siirtää usealla eri tavalla:
+Voit siirtää Accessia koskevia verkko tieto kanta tietoja usealla eri tavalla:
 
-- Tuodaan paikalliseen Access-tietokantaan (. ACCDB) tai Excel-tiedostoon.
-- Microsoft suosittelee myös tutustumaan Microsoft PowerAppsiin vaihtoehtoisena alustana, jotta voit luoda koodittomia liiketoimintaratkaisuja verkko- ja mobiililaitteille.
+- Tuominen paikalliseen tieto kantaan (. ACCDB) tai Excel-tiedostoon.
+- Suosittelemme myös tutustumaan Microsoft PowerApps-sovelluksiin vaihtoehtoisena ympäristönä, jotta voit luoda ei-koodi ratkaisuja verkko-ja mobiililaitteisiin.

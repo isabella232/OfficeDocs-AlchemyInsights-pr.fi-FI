@@ -1,37 +1,38 @@
 ---
-title: Ohjelmistosovellusten käyttöoikeuksien aktivoiminen ja määrittäminen
+title: Ohjelmisto-as-a-palvelu sovelluksen käyttö oikeuksien Akti voiminen ja määrittäminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062137"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698534"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Ohjelmistosovellusten käyttöoikeuksien aktivoiminen ja määrittäminen 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Ohjelmisto-as-a-palvelu sovelluksen käyttö oikeuksien Akti voiminen ja määrittäminen 
 
-## <a name="to-activate-apps"></a>Sovellusten aktivoiminen
+## <a name="to-activate-apps"></a>Sovellusten Akti voiminen
 
-1. Siirry hallintakeskuksessa **Billing**  >  **[Laskutustuotteesi-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse sitten **Sovellukset-välilehti.**
+1. Siirry hallinta keskuksessa **laskutus**  >  **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle ja valitse sitten **sovellukset** -väli lehti.
 
 2. Etsi ja valitse sovellus, jota haluat hallita.
 
-3. Valitse **Käyttöoikeudet -kohdassa** **Määritä tili**.  
+3. Valitse **käyttö oikeudet**-kohdassa **Määritä tili**.  
 
-## <a name="to-assign-app-licenses"></a>Sovelluskäyttöoikeuksien määrittäminen
+## <a name="to-assign-app-licenses"></a>Sovelluksen käyttö oikeuksien määrittäminen
 
-1. Siirry hallintakeskuksessa **Billing**  >  **[Laskutustuotteesi-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse sitten **Sovellukset-välilehti.**
+1. Siirry hallinta keskuksessa **laskutus**  >  **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle ja valitse sitten **sovellukset** -väli lehti.
 
 2. Etsi ja valitse sovellus, jota haluat hallita.  
 
-3. Valitse **Asetukset & toiminnot -kohdasta** **Publisherin portaalissa Hallinta -linkki**.
+3. Valitse **Asetukset & toiminnot**-kohdassa **Publisherin portaalissa hallittavat**linkit.
