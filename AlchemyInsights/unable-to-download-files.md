@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439555"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669172"
 ---
 # <a name="unable-to-download-files"></a>Tiedostoja ei voi ladata
 
-- Lataukset ovat näiden rajojen alaisia: Yksilöllinen tiedostokokorajoitus: 10 Gt; zip-tiedoston kokorajoitus: 20 Gt; tiedostojen kokonaismäärärajoitus: 10 000; kansion kokorajoitus: 200 tiedostoa.
-- Tiedostoja tai kansioita, jotka sisältävät tiedoston tai kansion nimen hajautustunnuksen (#), ei voi lisätä .zip-tiedostoihin.  
+- Latauksia koskevat seuraavat rajoitukset: yksittäisen tiedoston koko rajoitus: 10 gt; zip-tiedoston koko rajoitus: 20 Giga tavua; Tiedostojen enimmäismäärä: 10 000; kansion koko rajoitus: 200-tiedostot.
+- Tiedostoja tai kansioita, jotka sisältävät avain sanan (#) tiedoston tai kansion nimessä, ei voi lisätä. zip-tiedostoihin.  
     
-- OneNote-muistikirjoja ei voi ladata. Jos lataat Kansion, joka sisältää OneNote-muistikirjan, .zip-tiedosto sisältää virhesanoman .txt-tiedoston muodossa.  
+- Et voi ladata OneNote-muisti kirjoja. Jos lataat kansion, joka sisältää OneNote-muisti kirjan,. zip-tiedosto sisältää. txt-tiedoston muodossa olevan virhe sanoman.  
     
-- Et voi ladata tiedostoja suoraan **Jaetusta** näkymästä. Avaa tiedosto ja tallenna kopio haluamaasi sijaintiin.  
+- Tiedostoja ei voi ladata suoraan **jaetusta**  näkymästä. Avaa tiedosto ja Tallenna kopio haluamaasi sijaintiin.  
     
-- OneDrive for Businessissa et voi ladata kansioita tai useita tiedostoja Internet Explorerin avulla. Microsoft Edgen tai Google Chromen avulla voit ladata kansioita tai useita tiedostoja.  
+- OneDrive for Businessissa et voi käyttää Internet Exploreria kansioiden tai useiden tiedostojen lataamiseen. Lataa kansioita tai useita tiedostoja Microsoft Edgellä tai Google Chromella.  
     
-- **Lataa-painike** katoaa joskus, jos päivität verkkosivun kansion katselun aikana. Voit kiertää tämän siirtymällä kansiohakemistoon yhden tason ylöspäin ja palaamaan tai sulkemalla kyseisen välilehden selaimessa ja siirtymällä kansioon uudelleen.  
+- **Lataa** -painike katoaa joskus, jos päivität verkko sivun, kun tarkastelet kansiota. Voit kiertää ongelman siirtymällä kansio hakemistossa ylöspäin ja palaamiseen tai sulkemalla väli lehden selaimessa ja siirtymällä sitten kansioon uudelleen.  
     
-Lisätietoja on [ohjeaiheessa Tiedostojen ja kansioiden lataaminen OneDrivesta tai SharePointista](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Lisä tietoja on Ohje aiheessa [tiedostojen ja kansioiden lataaminen OneDrivesta tai SharePointista](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

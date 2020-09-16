@@ -1,35 +1,36 @@
 ---
-title: Suojaus- & compliance centerin yhtenäiset säilytyskäytännöt
+title: Yhtenäiset säilytys käytännöt tieto turva-& yhteensopivuus keskuksessa
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: d9d92e9284f34c7c1edba6af56f02ac88d3cd956
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088343"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669208"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Suojaus- & compliance centerin yhtenäiset säilytyskäytännöt
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Yhtenäiset säilytys käytännöt tieto turva-& yhteensopivuus keskuksessa
 
-Säilytyskäytäntöjen avulla voit hallita organisaation sisältöä säilytys- ja poistoasetusten avulla. Voit luoda yhtenäisiä säilytyskäytäntöjä Office 365 Security & Compliance Centerissä tai Microsoft 365 Compliance Centerissä. 
+Säilytys käytäntöjen avulla voit hallita organisaatiosi sisältöä säilytys-ja poisto asetuksilla. Voit luoda yhtenäisiä säilytys käytäntöjä Office 365-tieto turva & yhteensopivuus keskuksessa tai Microsoft 365-yhteensopivuus keskuksessa. 
 
-1. Valitse [Tietoturva-& Yhteensopivuuskeskus](https://go.microsoft.com/fwlink/p/?linkid=2077143)-kohdassa **Tietojen**  >  **hallinnan säilyttäminen**  >  **+Luo**. <br/>
-    Valitse [Microsoft 365 Compliance Centerissä](https://go.microsoft.com/fwlink/p/?linkid=2077149) **Policies**  >  **Käytännöt- > Säilytys- > + Uusi säilytyskäytäntö.**
-2. Lisää **nimi**, **asetukset**ja **valitse sijainnit**.
-3. Tarkista asetukset ja valitse sitten **Luo tämä käytäntö** tai Tallenna myöhempää käyttöä **varten**.  
+1. Valitse [tieto turva-& yhteensopivuus keskuksessa](https://go.microsoft.com/fwlink/p/?linkid=2077143) **tietojen hallinnan**  >  **säilyttäminen**  >  **+ Luo**. <br/>
+    Valitse [Microsoft 365-yhteensopivuus keskuksessa](https://go.microsoft.com/fwlink/p/?linkid=2077149) **käytännöt**  >  **tiedot > säilytys > + uusi säilytys käytäntö.**
+2. Lisää **nimi**, **Asetukset**ja **Valitse sijainnit**.
+3. Tarkista asetukset ja valitse sitten **Luo tämä menettely** tai **Tallenna myöhempää käsittelyä varten**.  
       
-Lisätietoja sisällön, kuten Exchange-sähköpostin, OneDriven, SharePointin ja Teamsin sisällön, säilytyskäytännöistä on [ohjeaiheessa Säilytyskäytäntöjen yleiskatsaus](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Lisä tietoja sisällön säilytys käytännöistä, kuten Exchange-sähkö postista, OneDrivesta, SharePointista ja teamsin sisällöstä, on kohdassa [yleistä säilytys käytännöistä](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Jos käytät säilytyskäytäntöjä rinnakkain Exchange-hallintakeskuksessa ja Tietoturva-& -yhteensopivuuskeskuksessa, katso tämä suositus [Säilytyskäytännön käyttäminen vanhempien ominaisuuksien sijaan](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Jos käytät säilytys käytäntöjä Exchange-hallinta keskuksessa ja tieto turva & yhteensopivuus keskuksessa, Lue tämä suositus, jos haluat [käyttää säilytys käytäntöä vanhojen ominaisuuksien sijaan](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
     
-Lisätietoja ryhmien säilyttämisestä on kohdassa [Ryhmien säilytyskäytännöt](https://docs.microsoft.com/microsoftteams/retention-policies).
+Tarkempia tietoja teamsin säilyttämisestä [on kohdassa teamsin säilytys käytännöt](https://docs.microsoft.com/microsoftteams/retention-policies).
