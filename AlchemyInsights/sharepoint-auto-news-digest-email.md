@@ -1,30 +1,31 @@
 ---
-title: SharePointin automaattinen koontisähköposti
+title: SharePointin automaattinen Digest-Sähkö posti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: fbca2ef975b46451c833bcc2691e008a9d82c28f
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846944"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751168"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePointin automaattinen koontisähköposti
+# <a name="sharepoint-auto-digest-email"></a>SharePointin automaattinen Digest-Sähkö posti
 
-SharePoint Auto-News Digest lähettää yrityksellesi automaattista sähköpostia uusimmista uutisjulkaisuista, joita he eivät ole vielä lukeneet ja jotka liittyvät heidän kannaltaan.
+SharePointin automaattinen uutisten Digest-toiminto lähettää yrityksesi käyttäjille automatisoituja Sähkö posti viestejä viimeisimmistä uutis viesteistä, joita he eivät vielä ole lukeneet.
 
-Lisätietoja osoitteessa[https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Lisä tietoja on osoitteessa [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft 365 :n etenemissuunnitelman tunnus: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Ajoitus: Kohdennetut julkaisuasiakkaat **heinäkuun puolivälissä (aiemmin kesäkuussa** ja täydellinen kaikille asiakkaille **elokuun puoliväliin mennessä (aiemmin elokuun alussa)**.
-- Käyttöönotto: Käyttäjätason käyttöönotto
-- Ohjaustyyppi: Käyttäjän ohjaus, ** Admin ohjaus kautta PowerShell (tulossa pian)
+- Microsoft 365 Roadmap ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Ajoitus: kohdistetut julkaisun asiakkaat  **heinä kuun puoli välissä (aiemmin kesä kuussa**  ja valmiina kaikille asiakkaille elokuun  **puoli väliin mennessä (aiemmin elokuun alku)**.
+- Koonti: käyttäjä tason koonti
+- Ohjaus objektin tyyppi: käyttäjän hallinta, * * järjestelmänvalvojan hallinta PowerShellin avulla (tulossa pian)
