@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -12,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: aecbf4043c6456ece73f7deed6b068040f0691a2
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068396"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771898"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint tai OneDrive hidas, ei käytettävissä tai ei saatavilla useille käyttäjille
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePointin tai OneDriven hidas, saavuttamattomissa tai poissa käytöstä useille käyttäjille
 
-SharePoint tai OneDrive voi olla hidas, ei käytettävissä tai se ei ole saatavilla, tai se saattaa näyttää palvelun poissa käytöstä tai 503 virhettä useista syistä:
+SharePoint tai OneDrive voi olla hidas, käyttökelvoton tai ei käytettävissä tai se voi näyttää palvelua ei ole käytettävissä tai 503-virheitä useista syistä:
   
-- Jos SharePoint-tai OneDrive-sivustosi on hidas tai viivästynyt useille käyttäjille, saattaa olla tilapäinen palvelu ongelma, jossa käyttäjät kokevat ajoittaisia viiveitä tai siirtymis virheitä SharePoint-sivustoja tai OneDrive-sisältöä käytettäessä. Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiossasi vaikutusta.
+- Jos SharePoint-tai OneDrive-sivustosi on hidas tai viivästynyt useille käyttäjille, kyseessä saattaa olla väliaikainen palvelu ongelma, jossa käyttäjät saavat ajoittaisia viiveitä tai siirtymis virheitä SharePoint-sivustoja tai OneDrive-sisältöä käytettäessä. Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiosi vaikuttanut siihen.
   
-- Käyttäjät saattavat saada *503-palvelimen, on varattu* -virhe yritettäessä siirtyä SharePoint-tai OneDrive-sivustoihin. Tämä virhe voi johtua rajoittamalla SharePoint-palvelussa. SharePoint Online käyttää rajoituksia SharePoint Online-palvelun optimaalisen suoritus kyvyn ja luotettavuuden ylläpitämiseen. Rajoitus rajoittaa käyttäjän toimien tai samanaikaisten kutsujen (komento sarjojen tai koodien) määrää resurssien liikan käytön estämiseksi. Jos haluat lisä tietoja kuristus kohdasta, [Vältä rajoittumatta tai estetty SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Käyttäjät voivat saada *503-palvelin on varattu* -virhe, kun yrität siirtyä SharePoint-tai OneDrive-sivustoihin. Tämä virhe voi johtua siitä, että SharePoint-palvelussa käytetään rajoitusta. SharePoint Online käyttää rajoittamista SharePoint Online -palvelun optimaalisen suorituskyvyn ja luotettavuuden ylläpitämiseen. Rajoittaminen rajoittaa käyttäjien toimien tai samanaikaisten kutsujen määrää (komentosarjojen tai koodin avulla), jotta resurssien liikakäyttö estetään. Lisä tietoja rajoittimen käyttämisestä on Ohje aiheessa [SharePoint Onlinessa ei saa estää tai estää niiden käytön estämistä](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-- Jos suoritus kyky on hidas **perinteisen** tai **modernin** SharePoint-sivuston tai-sivun avulla, analysoi sivut [sivun diagnostiikka työkalulla](https://aka.ms/perftool) .
+- Jos suoritus kyky on hidas **perinteisen** tai **modernin** SharePoint-sivuston tai-sivun avulla, analysoi sivut käyttämällä [sivun diagnostiikka-työkalua](https://aka.ms/perftool) .
   
-- Jos kohtaat edelleen yleistä hidasta suoritus kykyä, Lue tämän artikkelin alaosassa olevat resurssit: [johdanto SharePoint Onlinen suoritus kyvyn säätöön](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Jos sinulla on edelleen yleinen hidas suoritus kyky, tutustu tämän artikkelin lopussa oleviin resursseihin: [SharePoint Onlinen suoritus kyvyn](https://go.microsoft.com/fwlink/?linkid=2024334) parantaminen
   

@@ -1,10 +1,11 @@
 ---
-title: Kiristysohjelmahyökkäys SharePointissa tai OneDrivessa
+title: Kiristys ohjelmat-hyökkäys SharePointissa tai OneDrivessa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
@@ -12,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6c48ebc0bccba40398b64f7002291cf844e10fc9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511613"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771421"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Kiristysohjelmahyökkäys SharePointissa tai OneDrivessa
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Kiristys ohjelmat-hyökkäys SharePointissa tai OneDrivessa
 
-1.  Jos etsit apua siihen, mitä tehdä, kun haitalliseksi suunniteltu tiedosto löytyy OneDrivesta tai SharePointista tai Teamsista, katso [lisätietoja artikkelista Mitä tehdä, kun haitallinen tiedosto löytyy](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Jos etsit, miten voit suojata tietosi kiristysohjelmista, katso:
+1.  Jos etsit apua siitä, mitä voit tehdä, kun OneDrive-tai SharePoint-tai Teamsissa on vahingollisia tiedostoja, Katso lisä tietoja artikkelista [mitä tehdä, kun haitalli seksi suunniteltu tiedosto löydetään](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Jos etsit tietoja siitä, miten voit suojata tiedot kiristys ohjelman avulla, Katso:
     - [Tietojen suojaaminen SharePointissa ja OneDrivessa](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Ransomware uhka suojaus](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+    - [Kiristys ohjelmien uhan suojaus](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Vaikuttavatko kaikki OneDrive- tai SharePoint-tiedostot ransomware- tai haittaohjelma- tai salausvirukseen? 
+3.  Ovatko kaikki OneDrivessa tai SharePointissa olevat tiedostot, joihin kiristys ohjelmisto tai haitta ohjelma tai salaus virus vaikuttaa? 
 
-Lopeta/keskeytä OneDrive Sync (jos sellainen on) tai irrota Explorer-näkymä, joka on yhdistetty kirjastoon haavoittuvuuden sisältävästä tietokoneesta (jos sellainen on), ja voit palauttaa koko OneDrive- tai SharePoint-kirjaston edelliseen aikaan tiedostojen palautustoiminnon avulla. 
+Pysäytä tai Keskeytä välittömästi OneDrive-synkronointi (jos sellainen on) tai katkaise yhteys Resurssienhallintanäkymään, joka on yhdistetty kirjastoon tieto koneesta (jos sellainen on), ja voit palauttaa koko OneDrive-tai SharePoint-kirjaston aiemman ajan kohdan Tiedostojen palauttaminen-toiminnon avulla. 
 
-Lisätietoja palauttamisesta on seuraavissa ohjeissa:
+Lisä tietoja palauttamisesta on kohdassa:
 
 - [OneDrive-kirjaston palauttaminen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 - [Tiedostokirjaston palauttaminen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Lisätietoja ATP (Advanced Threat Protection) -suojauksesta on seuraavissa ohjeissa:
-- [SHAREPointin, OneDriven ja Teamsin ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Uhkanhallinnan näkymät](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+Lisä tietoja Advanced Threat Protectionin (ATP) hankkimisesta on kohdassa:
+- [ATP SharePointissa, OneDrivessa ja Teamsissa](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Uhkien hallinta näkymät](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 Lisätietoja:
 
-- [Viruksen tunnistus SPO:ssa](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Tietojen salaus ODB:ssä ja SPO:ssa](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Ransomware Havaitseminen ja tiedostojen palauttaminen](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Uhkanhallinta ja reaaliaikaiset tunnistimet](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Virusten tunnistaminen SPO:ssa](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [ODB-ja SPO-tietojen salaus](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Kiristys ohjelmien tunnistus ja tiedostojen palauttaminen](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Uhkien hallinta ja reaaliaikaiset havainnot](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

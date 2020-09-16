@@ -1,33 +1,34 @@
 ---
-title: Poista sähköpostiviesti pysyvästi Outlookissa
+title: Sähkö postin poistaminen pysyvästi Outlookissa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: d9b74b39c344559c87147d9f8efb6b6e6f8238b3
-ms.sourcegitcommit: e5e09d841fe397a6f841d617a9ae0a560d41a3f2
+ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42395718"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771682"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Poista sähköpostiviesti pysyvästi Outlookissa
+# <a name="permanently-delete-an-email-in-outlook"></a>Sähkö postin poistaminen pysyvästi Outlookissa
 
-- Paina Saapuneet-kansion näkymässä viestiä pitkään, niin näet roskakorikuvakkeen. Poista viesti napauttamalla tätä kuvaketta.
+- Paina Saapuneet-näkymässä pitkään viestiä, niin näet roska kori-kuvakkeen. Poista viesti napauttamalla tätä kuvaketta.
 
-- Voit myös asettaa "poistaa" pyyhkäisemällä vaihtoehto (**Asetukset -> Pyyhkäise asetukset**); ja pyyhkäise sitten poistettavaa postia sormella. 
+- Voit myös määrittää "Poista"-toiminnon pyyhkäisy asetukseksi (**Asetukset-> pyyhkäisy asetukset**); Sipaise sitten sormella Sähkö posti viestiä, jonka haluat poistaa. 
 
-- Jos haluat poistaa viestin avoimesta sähköpostinäkymästä, napauta näytön yläreunassa olevaa roskakorikuvaketta. Poistetut viestit siirretään Roskakori-kansioon. 
+- Jos haluat poistaa viestin avoimesta sähkö Posti näkymästä, napauta roska kori kuvaketta näytön yläreunassa. Poistetut viestit siirretään roska kori-kansioon. 
 
-**Sähköpostin poistaminen pysyvästi**
+**Sähkö posti viestin poistaminen pysyvästi**
 
-- Avaa roskakori postinäkymästä, napauta tilikuvaketta (3 riviä) ja napauta roskakoria.
+- Käytä roska kori-kansiota Sähkö posti-näkymässä, napauta tili-kuvaketta (3 riviä) ja napauta roska kori-kansiota.
 
-- Poista yksittäisiä sähköposteja tai merkitse useita sähköposteja ja poista ne täältä; ne poistetaan pysyvästi.
+- Poista yksittäisiä sähkö posteja tai merkitse useita Sähkö posti viestejä ja poista ne tästä. ne poistetaan pysyvästi.

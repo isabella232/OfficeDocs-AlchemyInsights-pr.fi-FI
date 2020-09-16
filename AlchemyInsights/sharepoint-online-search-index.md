@@ -4,31 +4,32 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341127"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770764"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Sisällön indeksointi sharepoint online -tilassa
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Sisällön indeksointi ja indeksointi SharePoint Onlinessa
 
-Sisältö on indeksoitava ja lisättävä hakuindeksiin, jotta käyttäjät voivat etsiä etsivänsä sisältöä SharePoint Onlinessa.
+Sisältöä on selattava ja se on lisättävä haku indeksiin, jotta käyttäjät löytävät etsimänsä SharePoint Onlinesta.
 
-- Varmista, että sisältö löytyy [tekemällä sivuston sisällöstä hakukelpoinen](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Varmista, että sisältö löytyy, kun [sivuston sisältö on haettavissa](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Kun olet muuttanut hallittua ominaisuutta tai olet muuttanut indeksoitujen ja hallittujen ominaisuuksien yhdistämismääritystä, sivusto on indeksoitava uudelleen, ennen kuin muutokset näkyvät hakuindeksissä.
+- Kun olet muuttanut hallittua ominaisuutta tai kun olet muuttanut selattujen ja hallittujen ominaisuuksien yhdistämis määritystä, sivusto on indeksoidaan uudelleen, ennen kuin muutokset näkyvät haku hakemistossa.
 
-- Lisätietoja on [ohjeaiheessa Sivuston, kirjaston tai luettelon indeksoinnin pyytäminen manuaalisesti](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Lisä tietoja on Ohje aiheessa [sivuston, kirjaston tai luettelon indeksoimisen ja uudelleenindeksoinnin pyytäminen manuaalisesti](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- Odota vähintään 24 tuntia indeksoinnin ja täyden uudelleenindeksin manuaalisen pyytämisen jälkeen ja tarkista, onko ongelma edelleen olemassa.
+- Odota vähintään 24 tuntia sen jälkeen, kun olet pyytänyt indeksointia ja täydellistä uudelleenindeksiä, jotta näet, ilmeneekö ongelma edelleen.
 
-- Jos indeksoinnin aloittamisesta ja täyden uudelleenindeksoinnin käynnistämisestä on kulunut yli 24 tuntia, kirjaa tukitapaus lokiin. Monissa tapauksissa olemme jo työstänyt ratkaisua. Anna meille vähintään 24 tuntia aikaa tehdä ratkaisu.
+- Jos indeksoinnin ja koko uudelleenindeksin aloittamisesta on kulunut yli 24 tuntia, kirjaudu tuki pyyntöön. Monissa tapa uksissa pyrimme jo ratkaisemaan ongelman. Anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
 
-**Tärkeää**: Jos sivusto, asiakirja (kirjasto) tai luettelo on poistettu ja hakutuloksissa näkyy edelleen, käyttäjien tulee saada **virhe404-tiedosto, jota ei löydy,** kun he yrittävät käyttää sitä. Tämä ongelma olisi kirjattava tukitapauksena lisätutkimuksia varten.
+**Tärkeää**: Jos sivusto, tiedosto (Kirjasto) tai luettelo on poistettu ja näkyy edelleen haku tuloksissa, käyttäjien pitäisi saada **virhe 404-tiedostoa ei löydy** , kun se yrittää käyttää sitä. Tämän ongelman pitäisi olla kirjautuneena tuki tapauksena lisä tutkimuksia varten.
 
 
 
