@@ -1,28 +1,29 @@
 ---
-title: Omatoimipalvelun oston kysymys
+title: Itsepalvelun osto kysymys
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 14218f995430a8a5c7a2f4a0db51fe79c59824d0
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913494"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740002"
 ---
-# <a name="self-service-purchase"></a>Omatoimipalvelun ostaminen
+# <a name="self-service-purchase"></a>Omatoiminen ostos
 
-**Mitä ominaisuuksia ylläpitäjänä on itsepalveluostoihin?**
+**Mitä ominaisuuksia järjestelmänvalvojalla on omatoimisille ostoille?**
 
-Järjestelmänvalvojat voivat tarkastella kaikkia organisaatiossa tehtyjä itsepalveluostoja Microsoft 365-hallinta keskuksessa. He näkevät tuotteen, ostajan nimen, ostetut tila ukset, vanhentumis päivämäärän, tilaus historian, osto hinnan ja määritetyt käyttäjät kunkin itsepalveluoston osalta.  Järjestelmänvalvojat voivat poistaa itsepalveluostoksen tuotekohtaisesti PowerShellin kautta, jos se on tarpeen niiden organisaatiossa.  Ylläpitäjät voivat käyttää samoja tietojen hallinta-ja käyttö käytäntöjä kuin itsepalveluostosta tai keskitetysti ostetut tuotteet.
+Järjestelmänvalvojat voivat tarkastella kaikkia organisaatiollaan tehtyjä itsepalveluostojaan Microsoft 365-hallinta keskuksessa. He näkevät tuotteen, ostajan nimen, ostetut tila uksen, vanhenemis päivän, tilaus historian, osto hinnan ja määritetyt käyttäjät kunkin itsepalveluostoksen yhteydessä.  Järjestelmänvalvojilla on tarvittaessa oikeus poistaa itsepalveluostot käytöstä tuotekohtaisesti PowerShellin kautta.  Järjestelmänvalvojilla on samat tietojen hallinta-ja käyttö oikeus käytännöt, jotka koskevat omatoimisen oston tai keskitetyn palvelun kautta ostettujen tuotteiden käyttöä.
 
-[Itsepalvelu oston usein kysytyt kysymykset](https://aka.ms/self-service-purchase-faq)
+[Itsepalvelun oston usein kysytyt kysymykset](https://aka.ms/self-service-purchase-faq)
 
