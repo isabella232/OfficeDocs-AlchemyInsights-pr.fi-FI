@@ -1,25 +1,26 @@
 ---
-title: Yhteystietojen näyttämän sivun etsiminen
+title: Etsi sivu, joka sisältää omat yhteys tiedot
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: ae9d45741f5bdd8ab6df1bc35c51663f7b937a47
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573474"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745271"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a>Yhteystietojen näyttämän sivun etsiminen
+# <a name="find-the-page-that-shows-my-contacts"></a>Etsi sivu, joka sisältää omat yhteys tiedot
 
-Voit etsiä yhteystietoja samalla tavalla kuin etsit sähköpostejasi.
+Voit etsiä kontaktejasi samalla tavalla kuin haet sähkö posteja.
  
-Napauta suurennuslasin hakukuvaketta ja kirjoita sitten yhteystietohakupyyntösi näytön yläreunassa olevaan ruutuun. (**Protip**: Voit kaksoisnapauttaa suurennuslasia tuodaksesi kohdistuksen hakukenttään.) Tulokset näkyvät Yhteystiedot-osiossa.
+Napauta suurennus lasi-haku kuvaketta ja kirjoita sitten yhteys tieto haun pyyntö näytön yläreunassa olevaan ruutuun. (**PROTIP**: Voit lisätä kohdistuksen haku ruutuun kaksoisnapauttamalla suurennus lasia.) Tulokset tulevat näkyviin yhteys henkilöt-osioon.

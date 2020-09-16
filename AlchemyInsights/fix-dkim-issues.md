@@ -1,28 +1,29 @@
 ---
-title: DKIM-asennusongelmien korjaaminen
+title: DKIM-määritys ongelmien korjaaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 8195b0e3fada6da033b2d95b1fc6600e7fa3341e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506771"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744947"
 ---
-# <a name="fix-dkim-setup-issues"></a>DKIM-asennusongelmien korjaaminen
+# <a name="fix-dkim-setup-issues"></a>DKIM-määritys ongelmien korjaaminen
 
-Jos sinulla on ongelmia DKIM:n käyttöönotossa mukautetussa toimialueessa, toimi seuraavasti:
+Jos sinulla on ongelmia, jotka mahdollistavat mukautetun toimi alueen DKIM-toiminnon, noudata seuraavia ohjeita:
 
-- Useimmat DKIM:n asennusongelmat liittyvät virheellisiin DNS-tietueisiin. Varmista, että DKIM CNAME -tietue **(ei** TXT-tietue) on muotoiltu oikein. Lisätietoja on tässä [ohjeaiheessa](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+- Useimmat DKIM-määritys ongelmat liittyvät virheellisiin DNS-tietue isiin. Varmista, että DKIM CNAME-tietue (**ei** TXT-tietue) on oikeassa muodossa. Lisä tietoja [on tässä artikkelissa](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-- Kun olet luonut tai päivittänyt DKIM DNS -tietueet toimialueesi DNS-isännöintipalvelussa (yleensä toimialueen rekisteröintipalvelussa), odota DNS-tietueiden levittämistä.
+- Kun olet luonut tai päivittänyt DKIM DNS-tietueet toimi alueesi DNS-isännöinti palvelussa (yleensä toimi alueen rekisteröinti palvelussa), odota, että DNS-tietueet leviävät.
 
-- Jos et voi luoda DKIM DNS -tietueita hallintakeskuksessa, voit korvata \<CustomDomain\> sen mukautetulla toimialueella (esimerkiksi contoso.com) ja suorittaa tämän komennon [Exchange Online PowerShellissä](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- Jos et voi luoda DKIM DNS-tietueita hallinta keskuksessa, voit vaihtaa \<CustomDomain\> mukautetun toimi alueen (esimerkiksi contoso.com) ja suorittaa tämän komennon [Exchange Online PowerShellissä](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .

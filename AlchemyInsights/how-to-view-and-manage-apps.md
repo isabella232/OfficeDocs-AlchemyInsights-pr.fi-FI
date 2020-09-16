@@ -6,23 +6,24 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 7ee232ccd037b64c7591b7332ab58931b86ba349
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: e931d1a7762f27c889ae115b9be8f591ba51b3c0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063722"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743830"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Sovellusten tarkasteleminen ja hallinta
 
-Voit tarkastella sovelluksiasi Microsoft 365 -hallintakeskuksessa. 
+Voit tarkastella sovelluksiasi Microsoft 365-hallinta keskuksessa. 
 
-1. Siirry hallintakeskuksessa **Billing**  >  **[Laskutus tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry hallinta keskuksessa **laskutus**  >  **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle.
 
-2. Valitse **[Tuotteesi-sivulla](https://go.microsoft.com/fwlink/p/?linkid=842054)** **Sovellukset-välilehti.**
+2. Valitse **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulla **sovellukset** -väli lehti.

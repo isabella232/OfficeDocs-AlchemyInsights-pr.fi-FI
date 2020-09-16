@@ -1,43 +1,44 @@
 ---
-title: Tiedostojen jakaminen verkon kautta Windows 10:ssä
+title: 'Tiedostojen jakaminen verkossa Windows 10: ssä'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584373"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745388"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Tiedostojen jakaminen verkon kautta Windows 10:ssä
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Tiedostojen jakaminen verkossa Windows 10: ssä
 
-**Huomautus:** Jos olet aiemmin käyttänyt kotiryhmää tiedostojen jakamiseen, huomaa, että kotiryhmä on poistettu Windows 10:stä (versio 1803). Voit nyt jakaa tulostimia ja tiedostoja Käyttämällä Windows 10:n sisäisiä ominaisuuksia.
+**Huomautus**: Jos olet aiemmin käyttänyt koti ryhmää tiedostojen jakamiseen, Huomaa, että koti ryhmä on poistettu Windows 10 (versio 1803). Voit nyt jakaa tulostimia ja tiedostoja Windows 10: n valmiiden ominaisuuksien avulla.
 
-**Tiedostojen tai kansioiden jakaminen verkon kautta**
+**Tiedostojen tai kansioiden jakaminen verkossa**
 
-- Valitse **Resurssienhallinnassa**tiedosto > valitse **Jaa-osan** > **jako** -välilehdestä **Tietyt henkilöt**.
+- Valitse **Resurssienhallinnassa**tiedosto **> Jaa-väli lehden** **Jaa-osion yläosassa** > valitse sitten **tietyt henkilöt**.
 
-    ![Tiedoston jakaminen tiettyjen henkilöiden kanssa.](media/share-with-specific-people.png)
+    ![Jaa tiedosto tietyille henkilöille.](media/share-with-specific-people.png)
           
-- Jos valitset useita tiedostoja kerralla, voit jakaa ne kaikki samalla tavalla. Se tehdas ajaksi kansio, kanssa.
+- Jos valitset useita tiedostoja kerralla, voit jakaa ne kaikki samalla tavalla. Se toimii myös kansioissa.
 
-**Tiedostojen jakavien verkossa olevien laitteiden tarkasteleminen**
+**Tiedostojen jakamista verkossa käyttävien laitteiden tarkasteleminen**
 
-- Valitse **Resurssienhallinnassa** **Verkko**. Jos verkon etsiminen ei ole käytössä, näyttöön tulee virhesanoma "Verkon etsiminen on poistettu käytöstä..."
+- Siirry **Resurssienhallinnassa** **verkko**-kohtaan. Jos verkon etsintä ei ole käytössä, näyttöön tulee virhe sanoma "verkon etsiminen on poistettu käytöstä..."
 
-- Valitse **Verkon etsiminen on poistettu käytöstä** -banneri ja valitse sitten Ota verkon etsiminen ja tiedostojen **jakaminen käyttöön**.
+- Valitse **verkon etsiminen on poistettu käytöstä** -ilmoitus ja valitse sitten **Ota verkon etsiminen ja tiedostojen jakaminen käyttöön**.
 
     ![Ota verkon etsiminen ja tiedostojen jakaminen käyttöön.](media/turn-on-network-discovery.png)
 
-[Lisätietoja tiedostojen jakamisesta verkon kautta](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[Lisä tietoja tiedoston jakamisesta verkossa](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Tiedostojen jakaminen sovellusten, OneDriven, sähköpostien ja monessa esimerkissä](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Tiedostojen jakaminen käyttämällä sovelluksia, OneDrivea, sähkö posteja ja paljon muuta](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
