@@ -1,39 +1,40 @@
 ---
-title: Outlook-yhteystietojen synkronoiminen osoitteistoon
+title: Outlook-yhteys tietojen synkronointi osoite kirjaan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767066"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737374"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook-yhteystietojen synkronoiminen osoitteistoon
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook-yhteys tietojen synkronointi osoite kirjaan
 
-Outlookin avulla voit viedä yhteystiedot Androidin OletusYhteystiedot-sovellukseen. Näin näet yhteyshenkilön nimen, kun saat puhelun tai tekstiviestin, ja tarkastella kaikkia yhteystietoja suoraan Oletusyhteystiedot-sovelluksessa.
+Outlookin avulla voit viedä yhteys tiedot Androidin oletusarvoiseen yhteys tieto sovellukseen. Näin näet yhteys henkilön nimen, kun saat puhelun tai teksti viestin, ja tarkastelet kaikki yhteys tietonsa suoraan oletusarvoisessa yhteys tieto sovelluksessa.
  
-**Voit ottaa tämän ominaisuuden käyttöön:**
+**Ota tämä toiminto käyttöön**seuraavasti:
  
-1. Valitse laitteessa **Asetukset**.
+1. Siirry laitteessa **Asetukset**-kohtaan.
 
-2. Napauta **Tilit-kohdassa**tiliä, jonka kanssa haluat synkronoida yhteystiedot.
+2. Valitse **tilit**-kohdassa tili, jonka kanssa haluat synkronoida yhteyshenkilöitä.
 
-3. Ota **Synkronoi yhteystiedot -liukusäädin** käyttöön.
+3. Siirrä **Synkronoi yhteys tiedot** -liuku säädin päälle.
  
-Kaksisuuntaista yhteystietojen vientiä tuetaan Microsoft 365:ssä, Outlook.com ja paikallisten postilaatikoiden modernissa hybriditodennuksessa. Kaksisuuntainen tuki varmistaa, että kaikki lisäämäsi uudet yhteystiedot tai aiemmin luodut yhteystiedot synkronoidaan laitteesi ja Outlook-tilien välillä.
+Kaksisuuntainen yhteys tieto vienti on käytettävissä, kun käytössä on Microsoft 365, Outlook.com ja yhdistelmä moderni todennus paikallisissa posti laatikoissa. Kaksisuuntainen tuki varmistaa, että kaikki lisättävät uudet yhteys henkilöt tai muokkaamasi yhteys henkilöt synkronoidaan laitteesi ja Outlook-tilisi välillä.
  
-Vanhojen Exchange-tilien osalta voit viedä yhteystiedot laitteeseen tallennettavien yhteystietojen viemiseksi. Kun **Yhteystietojen synkronointi** on käytössä, outlookin yhteystietoihin lisätyt uudet yhteystiedot ja muokkaukset tallennetaan laitteesi Yhteystiedot-sovellukseen. Suoraan laitteen Yhteystiedot-sovelluksessa tehtyjä muokkauksia ei kuitenkaan tallenneta Outlookiin. Huomaa, että emme tue yhteystietojen lisäämistä tai muokkaamista Outlook for Androidista paikallisille vaihtotileille, joten sinun on hallittava yhteystietojasi toisesta Outlook-asiakasohjelmasta.
+Jos kyseessä on vanha Exchange-käyttäjä, voit viedä yhteys tiedot laitteeseen tallentamista varten. Kun **Synkronoi yhteys tiedot** -toiminto on käytössä, Äskettäin lisätyt yhteys tiedot ja Outlookin yhteys tietoihin tehdyt muokkaukset tallennetaan laitteesi yhteys tieto-sovellukseen. Suoraan laitteesi yhteys tieto sovellukseen tehtyjä muokkauksia ei kuitenkaan tallenneta Outlookiin. Huomaa, että Microsoft ei tue yhteys tietojen lisäämistä tai muokkaamista Outlook for Androidissa paikallisissa Exchange-tileissä, joten sinun on hallittava yhteys tietojasi eri Outlook-asiakas ohjelmassa.
  
-Toistaiseksi gmailin ja iCloudin yhteystietojen synkronointia ei tueta.
+Nyt ei tue yhteys tietojen synkronointia GMAILIIN ja iCloudiin.
  
-Jos haluat poistaa nämä synkronoidut yhteystiedot, voit vaihtaa **Synkronoi yhteystiedot** milloin tahansa ja ne poistetaan osoitteistosta.
+Jos haluat poistaa nämä synkronoidut yhteys tiedot, voit vaihtaa **synkronointi yhteyshenkilöitä** milloin tahansa ja poistaa ne osoite kirjasta.
