@@ -1,27 +1,28 @@
 ---
-title: Videoiden jakaminen Microsoft Streamissa
+title: Videoiden jakaminen Microsoft streamissä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44015758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727312"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Videoiden jakaminen Microsoft Streamissa
+# <a name="share-your-videos-in-microsoft-stream"></a>Videoiden jakaminen Microsoft streamissä
 
-Haluat ehkä jakaa videoita Microsoft Streamissa henkilöiden kanssa, joilla ei muuten ole käyttöoikeuksia. Voit jakaa videoita eri tavoin:
+Haluat ehkä jakaa videoita Microsoft streamissä sellaisten henkilöiden kanssa, joilla ei ole muuten Accessia. Videoita voi jakaa monella eri tavalla:
 
-- [Videoiden jakaminen Microsoft Streamissa](https://docs.microsoft.com/stream/portal-share-video)
+- [Videoiden jakaminen Microsoft streamissä](https://docs.microsoft.com/stream/portal-share-video)
 
-- [Videon käyttöoikeudet](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [Videon käyttö oikeudet](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
