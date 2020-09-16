@@ -1,33 +1,34 @@
 ---
-title: Microsoft 365 -sovellusten korjaaminen Office-käyttöoikeuksille ei löytynyt viestiä
+title: Fixing Microsoft 365-sovellukset eivät löytäneet Office-käyttö oikeuksiin liittyvää viestiä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd127d6287b4438f6105a6158abdbd5b964b7e70
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580438"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747692"
 ---
-# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Microsoft 365 -sovellusten "Office-käyttöoikeuksia ei löytynyt" -sanoman korjaaminen
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Microsoft 365-sovellusten korjaaminen "Office-käyttö oikeuksien etsimistä ei löytynyt"-viesti
 
-Jos näyttöön tulee tämä sanoma, kokeile seuraavaa:
+Jos saat tämän viestin, kokeile seuraavaa:
 
-1. Tarkista palomuurin, virustentorjuntaohjelmiston ja välityspalvelimen asetukset ja varmista, että ne eivät estä Microsoft 365 -sovellusten Internet-käyttöä. Lisätietoja on [microsoft 365:n URL-osoitteissa ja IP-osoitealueissa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-2. Poista [Office-käyttöoikeus](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) ja määritä se uudelleen haavoittuvuuden sisältävälle käyttäjälle. 
-3. Avaa Office-sovellus ja [kirjaudu ulos](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) olemassa olevista käyttäjätileistä.
-4. Siirry Windowsin asetukset > **Tilit**  >  **Sähköposti & -tileille**ja poista kaikki työtilit kyseistä tiliä lukuun ottamatta.
-5. Siirry Windowsin asetukset > **Tilit**  >  **Accessin työpaikan tai oppilaitoksen**käyttöön ja katkaise kaikkien työtilien yhteys lukuun ottamatta tiliä, jota haavoittuvuus koskee.
+1. Tarkista palo muurin, virustentorjuntaohjelman ja välitys palvelimen asetukset ja varmista, että ne eivät estä Internet-yhteyttä Microsoft 365-sovelluksiin. Katso [Microsoft 365-URL-osoitteet ja IP-osoite alueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+2. Poista kyseisen käyttäjän [Office-käyttö oikeus ja määritä se](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) uudelleen. 
+3. Avaa Office-sovellus ja [Kirjaudu ulos](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) olemassa olevista käyttäjä tileistäsi.
+4. Siirry kohtaan Windowsin asetukset > **tilit**  >  -**Sähkö posti & tilit**ja poista kaikki työtilit, paitsi kyseinen tili.
+5. Siirry kohtaan Windowsin asetukset > **tilit**  >  **käyttää työpaikan tai oppi laitoksen**ja Katkaise kaikki työtilit, paitsi kyseinen tili.
 6. Palauta Officen aktivoinnin tila. [Ohjeet](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
-7. [Kirjaudu sisään](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) käyttämällä kyseistä käyttäjätiliä.
+7. [Kirjaudu sisään](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) haavoittuvuuden sisältävän käyttäjä tilin avulla.
 
-Lisätietoja vianmäärityksestä on artikkelissa [Käyttöoikeudeton tuote- ja aktivointivirheet Officessa](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Lisä tietoja vian määrityksestä on kohdassa käyttö oikeuden sisältävän [tuotteen ja aktivointi virheen määrittäminen Officessa](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

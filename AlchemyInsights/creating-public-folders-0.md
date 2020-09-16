@@ -5,30 +5,31 @@ author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715357"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746684"
 ---
 # <a name="creating-public-folders"></a>Yleisten kansioiden luominen
 
-Ennen kuin käyttäjät voivat käyttää yleisiä kansioita, sinun on luotava vähintään yksi yleisen kansion postilaatikko. Voit luoda:
+Ennen kuin käyttäjät voivat käyttää yleisiä kansioita, sinun on luotava vähintään yksi yleisen kansion posti laatikko. Luo:
   
-1. Siirry Microsoft 365 -hallintakeskuksessa **Kohtaan Hallintakeskukset** \> **Exchange**.
+1. Siirry Microsoft 365-hallinta keskuksessa kohtaan **hallinta keskusten** \> **Exchange**.
 
-2. Siirry **Yleiset kansiot** \> **-kansioon Yleiset kansiot -postilaatikot**ja valitse sitten **Lisää**.
+2. Siirry **yleisten kansioiden** \> **julkiset**kansiot-kansioon ja valitse sitten **Lisää**.
 
-3. Kirjoita **Yleisen kansion postilaatikkoon**yleisen kansion postilaatikon nimi.
+3. Kirjoita **yleisen kansion posti laatikko**-kohtaan yleisen kansion posti laatikon nimi.
 
 4. Valitse **Tallenna**.
 
-Kun postilaatikko on luotu, voit aloittaa yksittäisten kansioiden luomisen tai pyytää käyttäjiä [aloittamaan yleisten kansioiden luomisen ja käyttämisen Outlookissa](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Kun posti laatikko on luotu, voit alkaa luoda yksittäisiä kansioita tai käsketä käyttäjiä [aloittamaan yleisten kansioiden luomisen ja käyttämisen Outlookissa](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   
