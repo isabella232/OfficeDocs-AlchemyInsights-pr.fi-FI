@@ -1,26 +1,27 @@
 ---
-title: Hakusanastojen hallinta SharePoint Onlinessa
+title: Haun sanastojen hallinta SharePoint Onlinessa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: b3e00aecfaa4d6ca969da1b19e54dc06ff443e8e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720657"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777896"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="4a281-102">Hakusanastojen hallinta</span><span class="sxs-lookup"><span data-stu-id="4a281-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="69484-102">Haku sanastojen hallinta</span><span class="sxs-lookup"><span data-stu-id="69484-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="4a281-103">SharePoint Onlinen hakusanastoja hallitaan SharePoint Online -termisäilössä, joka sijaitsee uudessa SharePoint-hallintakeskuksessa.</span><span class="sxs-lookup"><span data-stu-id="4a281-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="4a281-104">Lisätietoja hakusanastojen lisäämisestä tai muokkaamisesta on kohdassa [Hakusanastojen hallinta](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="4a281-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="69484-103">SharePoint Onlinen sanastoja on hallinnoitu SharePoint Onlinen termi kaupassa, joka sijaitsee uudessa SharePoint-hallinta keskuksessa.</span><span class="sxs-lookup"><span data-stu-id="69484-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="69484-104">Lisä tietoja hakujen sanastojen lisäämisestä ja muokkaamisesta on Ohje aiheessa [haku sanastojen hallinta](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="69484-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="4a281-105">Jos termisäilössä ei näy hakusanaston termijoukkoa, odota 24 tuntia.</span><span class="sxs-lookup"><span data-stu-id="4a281-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="4a281-106">Jos sanakirja ei vieläkään näy 24 tunnin kuluttua, kirjaudu tukipyyntö lokiin.</span><span class="sxs-lookup"><span data-stu-id="4a281-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="69484-105">Jos et näe haku sanaston termi joukkoa, joka näkyy termi säilössä, odota 24 tuntia.</span><span class="sxs-lookup"><span data-stu-id="69484-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="69484-106">Jos sanasto ei edelleenkään näy 24 tunnin kuluttua, kirjaudu tuki lipulla.</span><span class="sxs-lookup"><span data-stu-id="69484-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   

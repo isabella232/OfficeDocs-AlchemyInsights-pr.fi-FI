@@ -1,25 +1,26 @@
 ---
-title: Synkronoitujen käyttäjätilien hallinta
+title: Synkronoitujen käyttäjä tunnusten hallinta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 2982874127396370894c7be3291d6b999be936cd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720621"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777816"
 ---
-# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="c0f2d-102">Synkronoitujen käyttäjätilien hallinta</span><span class="sxs-lookup"><span data-stu-id="c0f2d-102">Manage synchronized user accounts</span></span>
+# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="354df-102">Synkronoitujen käyttäjä tunnusten hallinta</span><span class="sxs-lookup"><span data-stu-id="354df-102">Manage synchronized user accounts</span></span>
 
-<span data-ttu-id="c0f2d-103">Yleensä käyttäjätilejä lisätään ja muutetaan Microsoft 365 -hallintakeskuksen avulla.</span><span class="sxs-lookup"><span data-stu-id="c0f2d-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="c0f2d-104">Et kuitenkaan voi käyttää sitä, jos hakemiston sychronization tai SSO on käytössä.</span><span class="sxs-lookup"><span data-stu-id="c0f2d-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="c0f2d-105">Hallitse käyttäjiä Sen sijaan Windows PowerShellillä kohdassa [Käyttäjätilin ominaisuuksien määrittäminen Office 365 PowerShellin avulla](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )kuvatulla tavalla.</span><span class="sxs-lookup"><span data-stu-id="c0f2d-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
+<span data-ttu-id="354df-103">Yleensä voit lisätä ja muuttaa käyttäjä tunnuksia Microsoft 365-hallinta keskuksen avulla.</span><span class="sxs-lookup"><span data-stu-id="354df-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="354df-104">Et kuitenkaan voi käyttää sitä, jos hakemiston sychronization tai KERTAKIRJAUTUMINEN on käytössä.</span><span class="sxs-lookup"><span data-stu-id="354df-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="354df-105">Sen sijaan voit hallita käyttäjiä Windows PowerShellin avulla kohdassa [käyttäjä tilin ominaisuuksien määrittäminen Office 365 PowerShellissä](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )kuvatulla tavalla.</span><span class="sxs-lookup"><span data-stu-id="354df-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
   
 
