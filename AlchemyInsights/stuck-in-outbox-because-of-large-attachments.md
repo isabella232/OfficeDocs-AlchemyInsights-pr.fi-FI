@@ -1,10 +1,11 @@
 ---
-title: Jumissa Lähtevät-kansiossa suurten liitteiden vuoksi
+title: Juuttunut Lähtevät-kansioon suurten liitteiden takia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 8eddefaafaf22c53b0b5e4e461dae6009a0b10c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542005"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726628"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a><span data-ttu-id="24811-102">Outboxiin jumiutuvien viestien korjaaminen SaRA:n avulla</span><span class="sxs-lookup"><span data-stu-id="24811-102">Fix messages that are stuck in the Outbox with SaRA</span></span>
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a><span data-ttu-id="cc166-102">Lähtevät-kansioon juuttuvan viestin korjaaminen SaRA-nimellä</span><span class="sxs-lookup"><span data-stu-id="cc166-102">Fix messages that are stuck in the Outbox with SaRA</span></span>
 
-<span data-ttu-id="24811-103">Microsoft suosittelee, että aloitat suorittamalla skenaarion ["Minulla on ongelmia sähköpostiviestien lähettämisessä, vastaanottamisessa tai etsimisessä"](https://aka.ms/SaRA-OutlookSendReceive) [microsoftin tuki- ja palautusavustajatyökalusta.](https://diagnostics.office.com/#/)</span><span class="sxs-lookup"><span data-stu-id="24811-103">We recommend that you start by running the scenario ["I'm having problems sending, receiving, or finding email messages"](https://aka.ms/SaRA-OutlookSendReceive) on the effected machine from the [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) tool.</span></span>
+<span data-ttu-id="cc166-103">Suosittelemme, että aloitat suorittamalla skenaarion ["Minulla on ongelmia Sähkö posti viestien lähettämisessä, vastaanottamisessa tai etsimisessä"](https://aka.ms/SaRA-OutlookSendReceive) [Microsoftin tuki-ja palautus avustaja (SaRa)](https://diagnostics.office.com/#/) -työkalun avulla.</span><span class="sxs-lookup"><span data-stu-id="cc166-103">We recommend that you start by running the scenario ["I'm having problems sending, receiving, or finding email messages"](https://aka.ms/SaRA-OutlookSendReceive) on the effected machine from the [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) tool.</span></span>

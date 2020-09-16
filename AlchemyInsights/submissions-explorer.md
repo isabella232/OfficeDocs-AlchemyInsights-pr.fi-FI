@@ -1,22 +1,23 @@
 ---
-title: 2554 Uusi ominaisuus, joka auttaa diagnosoimaan EOP:n ja ATP:n
+title: 2554 uusi ominaisuus, jonka avulla voit diagnosoida EDIS:N ja ATP:N.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: e5beb273d598ba81fe54e150f54d870c80f5eb22
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43718154"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726484"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a><span data-ttu-id="09457-102">Uusi ominaisuus, joka auttaa diagnosoimaan EOP:n ja ATP:n</span><span class="sxs-lookup"><span data-stu-id="09457-102">New feature to help diagnose EOP and ATP</span></span>
+# <a name="new-feature-to-help-diagnose-eop-and-atp"></a><span data-ttu-id="7bb2c-102">Uusi ominaisuus, jonka avulla voit diagnosoida EDIS:N ja ATP:N.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-102">New feature to help diagnose EOP and ATP</span></span>
 
-<span data-ttu-id="09457-103">Järjestelmänvalvojana voit nyt helposti ilmoittaa epäilyttävistä sähköpostiviesteistä, URL-osoitteista ja sisällöstä Microsoftille [Submissions Explorerissa.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="09457-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="09457-104">Voit jopa käyttää sitä, jotta ymmärrät, miksi oikeutettu viesti on merkitty väärin.</span><span class="sxs-lookup"><span data-stu-id="09457-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="09457-105">Lisätietoja on tässä [ilmoituksessa](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="09457-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+<span data-ttu-id="7bb2c-103">Järjestelmänvalvojana voit nyt raportoida epäilyttävistä Sähkö posti viesteistä, URL-osoitteista ja sisällöistä Microsoftille [Lähetetyt](https://protection.office.com/reportsubmission)-sovelluksessa.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="7bb2c-104">Sen avulla voit myös ymmärtää, miksi perusteltu viesti on merkitty virheellisesti.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="7bb2c-105">Lisä tietoja on tämän [tiedotteen](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)kohdassa.</span><span class="sxs-lookup"><span data-stu-id="7bb2c-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
