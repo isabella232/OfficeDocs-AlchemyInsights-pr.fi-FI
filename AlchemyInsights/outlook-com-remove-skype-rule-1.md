@@ -1,25 +1,26 @@
 ---
-title: Outlook.com Skypen poistaminen
+title: Outlook.com Poista Skype
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743810"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723315"
 ---
-# <a name="skype-icon-missing"></a><span data-ttu-id="0ef83-102">Skype-kuvake puuttuu</span><span class="sxs-lookup"><span data-stu-id="0ef83-102">Skype icon missing</span></span>
+# <a name="skype-icon-missing"></a><span data-ttu-id="e02e5-102">Skype-kuvake puuttuu</span><span class="sxs-lookup"><span data-stu-id="e02e5-102">Skype icon missing</span></span>
 
-<span data-ttu-id="0ef83-103">Olemme poistaneet Skype-kuvakkeen tilapäisesti Outlook.com osana suunnittelun päivitystä ja ominaisuuksien päivitystä olemme innoissamme, kun olemme mukana ottamassa käyttöön. Arvostamme kärsivällisyyttäsi samalla kun valmistamme sinulle uuden ja paremman kokemuksen.</span><span class="sxs-lookup"><span data-stu-id="0ef83-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we are excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
+<span data-ttu-id="e02e5-103">Skype-kuvake on poistettu tilapäisesti Outlook.com osana rakenteen päivittämistä ja ominaisuuksien päivittämistä. Arvostamme kärsivällisyyttäsi, kun valmistamme sinulle uuden ja parannetun käyttö kokemuksen.</span><span class="sxs-lookup"><span data-stu-id="e02e5-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we are excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
 
-<span data-ttu-id="0ef83-104">Voit edelleen käyttää Skypeä selaimesi kautta [web.skype.com](https://web.skype.com/).</span><span class="sxs-lookup"><span data-stu-id="0ef83-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com/).</span></span>
+<span data-ttu-id="e02e5-104">Voit edelleen käyttää Skypeä selaimen kautta osoitteessa [Web.Skype.com](https://web.skype.com/).</span><span class="sxs-lookup"><span data-stu-id="e02e5-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com/).</span></span>

@@ -1,11 +1,12 @@
 ---
-title: Sähköpostin vastaanottaminen Outlook.com
+title: Estettyjen lähettäjien sähkö postien vastaanottaminen Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
@@ -13,21 +14,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723676"
 ---
-# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="16423-102">Sähköpostin vastaanottaminen estetyt lähettäjät</span><span class="sxs-lookup"><span data-stu-id="16423-102">Receiving email from blocked senders</span></span>
+# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="2d855-102">Estettyjen lähettäjien sähkö postien vastaanottaminen</span><span class="sxs-lookup"><span data-stu-id="2d855-102">Receiving email from blocked senders</span></span>
 
-<span data-ttu-id="16423-103">Jos estämän lähettäjän sähköposti näkyy edelleen Outlook.com Saapuneet-kansiossasi, lähettäjä saattaa piilottaa oikean sähköpostiosoitteensa.</span><span class="sxs-lookup"><span data-stu-id="16423-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="16423-104">Lähettäjän oikean sähköpostiosoitteen tarkistaminen:</span><span class="sxs-lookup"><span data-stu-id="16423-104">To check a sender's real email address:</span></span>
+<span data-ttu-id="2d855-103">Jos torjuttujen lähettäjien Sähkö posti viestit näkyvät edelleen Outlook.com Saapuneet-kansiossa, Lähettäjä saattaa piilottaa oikean Sähkö posti osoitteensa.</span><span class="sxs-lookup"><span data-stu-id="2d855-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="2d855-104">Lähettäjän oikean Sähkö posti osoitteen tarkistaminen:</span><span class="sxs-lookup"><span data-stu-id="2d855-104">To check a sender's real email address:</span></span>
   
-1. <span data-ttu-id="16423-105">Valitse kolme pistettä</span><span class="sxs-lookup"><span data-stu-id="16423-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="16423-106">viesti-ikkunan yläreunassa ja valitse **Näytä viestin lähde**.</span><span class="sxs-lookup"><span data-stu-id="16423-106">at the top of the message window and select **View message source**.</span></span>
-2. <span data-ttu-id="16423-107">Vieritä **Viestin lähde -ikkunassa** alaspäin, kunnes löydät **Mistä-kentän.**</span><span class="sxs-lookup"><span data-stu-id="16423-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
-3. <span data-ttu-id="16423-108">Korosta sähköpostiosoite, joka \< \> on suljettu ja napsauta hiiren kakkospainiketta **kopioinnin**</span><span class="sxs-lookup"><span data-stu-id="16423-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
-4. <span data-ttu-id="16423-109">Estä lähettäjä kopioimasi osoitteen avulla.</span><span class="sxs-lookup"><span data-stu-id="16423-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="16423-110">Lisätietoja lähettäjien estämisestä on [ohjeaiheessa Sähköpostin merkitseminen roskapostiksi tai lähettäjien estäminen Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="16423-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="2d855-105">Valitse kolme pistettä</span><span class="sxs-lookup"><span data-stu-id="2d855-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="2d855-106">viesti-ikkunan yläosassa ja valitse **Näytä viestin lähde**.</span><span class="sxs-lookup"><span data-stu-id="2d855-106">at the top of the message window and select **View message source**.</span></span>
+2. <span data-ttu-id="2d855-107">Vieritä **viestin lähde** -ikkunassa alaspäin, kunnes löydät **Lähettäjä** -kentän.</span><span class="sxs-lookup"><span data-stu-id="2d855-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
+3. <span data-ttu-id="2d855-108">Korosta Sähkö posti osoite, jonka \< \> haluat **kopioida** , ja napsauta sitä hiiren kakkos painikkeella</span><span class="sxs-lookup"><span data-stu-id="2d855-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
+4. <span data-ttu-id="2d855-109">Käytä osoitetta, jonka kopioit lähettäjän estääksesi.</span><span class="sxs-lookup"><span data-stu-id="2d855-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="2d855-110">Lisä tietoja lähettäjien estämisestä on artikkelissa [sähkö postin merkitseminen roska postiksi tai torjuttujen lähettäjien Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2d855-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="16423-111">Lisätietoja on kohdassa [Sähköpostin vastaanottaminen Outlook.com estetyt lähettäjät](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="16423-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="2d855-111">Lisä tietoja on Ohje aiheessa [estettyjen lähettäjien sähkö postien vastaanottaminen Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2d855-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
