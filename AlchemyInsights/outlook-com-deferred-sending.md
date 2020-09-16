@@ -1,30 +1,31 @@
 ---
-title: Deferred sending in Outlook.com
+title: Lykätty lähetys Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760409"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752068"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Sähköpostiviestien lähettämisen viivästyminen tai ajoittaminen
+# <a name="delay-or-schedule-sending-email-messages"></a>Sähkö posti viestien lähettämisen viivyttäminen tai ajoittaminen
 
-Valitettavasti et voi lykätä tai ajoittaa sähköpostiviestien lähettämistä mobiilisovelluksessa tai verkkoselaimessa. Voit tehdä tämän Outlook [for Windowsin tai Outlook for Macin](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)avulla.
+Valitettavasti et voi lykätä tai ajoittaa Sähkö posti viestien lähettämistä mobiilisovelluksessa tai selaimessa. Voit tehdä tämän käyttämällä [Outlook for Windowsia tai Outlook for Macia](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
-**Kumoa lähetys**
+**Peruuta lähetys**
 
-Voit muuttaa Outlook.com asetuksia, jos haluat viivyttää viestin lähettämistä enintään 10 sekunnin ajan. Voit peruuttaa viestin lähettämisen tänä aikana. Voit ottaa tämän ominaisuuden käyttöön avaamalla [Kumoa lähetysasetukset.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
+Voit muuttaa Outlook.com-asetuksia niin, että viestin lähettäminen viivästyy jopa 10 sekuntia. Voit peruuttaa viestin lähettämisen tämän ajan kuluessa. Jos haluat ottaa tämän toiminnon käyttöön, avaa [Kumoa lähetys](https://outlook.live.com/mail/options/mail/messageContent/undoSend) asetukset.
 
-Lisätietoja [sähköpostin palauttamisesta on Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lue lisää [sähkö postin palauttaja Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

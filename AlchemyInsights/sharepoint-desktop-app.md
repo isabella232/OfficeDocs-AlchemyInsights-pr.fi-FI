@@ -1,22 +1,23 @@
 ---
-title: SharePoint-Työpöytä sovellus
+title: SharePointin Työpöytä sovellus
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 9c7d5eb8a6b0e86736dcae3be950d512e58f067c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 548f1f5b834d84a41fe6f5befc4c9e9630aa9d91
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044160"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800857"
 ---
-# <a name="desktop-app-for-sharepoint"></a>SharePoint-Työpöytä sovellus
+# <a name="desktop-app-for-sharepoint"></a>SharePointin Työpöytä sovellus
 
-Organisaatiosi on kirjoitettu SharePoint-Työpöytä sovelluksen yksityiseen Esikatseluohjelmaan.
+Organisaatiosi on lisätty SharePoint-Työpöytä sovelluksen yksityiseen esiversio-ohjelmaan.
 
-Microsoft ei tue tällä hetkellä SharePointin Työpöytä sovellusta (yksityinen esikatselu). Saat lisä ohjeita SharePoint-Työpöytä sovellukseen käyttämällä luetteloitu Microsoft Private Preview Partners-sovellusta.
+Microsoft ei tällä hetkellä tue SharePointin Työpöytä sovellusta (yksityinen esikatselu). Hanki ohjeita SharePoint-Työpöytä sovellukseen käyttämällä värvätty Microsoft Private Preview-kumppaneita.
 

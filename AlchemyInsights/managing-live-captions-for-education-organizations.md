@@ -1,32 +1,33 @@
 ---
-title: Koulutusorganisaatioiden live-kuvatekstien hallinta
+title: Live-tekstitysten hallinta oppi laitoksille
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
-ms.translationtype: MT
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46555183"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812760"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Koulutusorganisaatioiden live-kuvatekstien hallinta
+# <a name="managing-live-captions-for-education-organizations"></a>Live-tekstitysten hallinta oppi laitoksille
 
-Suosittelemme, että koulutusorganisaatioiden ylläpitäjät harkitsevat opiskelija- ja opettajaturvallisuus- ja opettajaturvallisuuspakettien käytäntöpakettien käyttöä. Lisätietoja:   
+Suosittelemme, että oppilaitos organisaatioiden järjestelmänvalvojat harkitsevat opiskelijoiden ja kouluttajien turvallisuus-ja koulutus käytäntöjen käyttöä. Lisätietoja:   
 
-- [Microsoft Teamsin käytäntöpaketit](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Microsoft teamsin käytäntöjen paketit](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Politiikat, jotka tulisi määrittää opiskelijoiden turvallisuuden vuoksi.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [Käytännöt, jotka pitäisi määrittää opiskelijan turvallisuudelle](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Politiikat, jotka olisi annettava opettajille](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Opettajille määritettyinä olevat käytännöt](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Jos haluat hallita vain mahdollisuutta ottaa käyttöön live-kuvatekstejä, katso [Live-kuvatekstien ottaminen käyttöön](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Lisätietoja on kohdassa [Kokouskäytäntöjen hallinta Teamsissa](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Jos haluat hallita vain Live-kuva tekstien ottamista käyttöön, Katso lisä tietoja artikkelista [Live-kuva tekstien ottaminen käyttöön](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Lisä tietoja on Ohje aiheessa [Kokous käytäntöjen hallinta tiimeissä](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
