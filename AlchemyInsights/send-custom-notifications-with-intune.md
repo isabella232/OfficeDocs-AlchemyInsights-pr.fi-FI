@@ -1,35 +1,36 @@
 ---
-title: Mukautettujen ilmoitusten lähettäminen Intune-ominaisuuden avulla
+title: Mukautettujen ilmoitusten lähettäminen Intunella
 ms.author: brenduns
 author: brenduns
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 969649084a2ac536ee1b41f225c3be5415a27c4b
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886854"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720643"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kuinka lähettää mukautettuja ilmoituksia hallittujen iOS-ja Android-laitteiden käyttäjille
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Mukautettujen ilmoitusten lähettäminen hallittujen iOS-ja Android-laitteiden käyttäjille
 
-Yritys portaali-sovellus käsittelee Intune-sovelluksen mukautetut ilmoitukset käyttäjän laitteessa. Sovellus luo sitten push-ilmoituksen kyseiselle laitteelle.
+Yritys portaali-sovellus käsittelee Intune-sovelluksen mukautetut ilmoitukset käyttäjän laitteessa. Sovellus luo sitten push-ilmoituksen kyseiseen laitteeseen.
 
-Seuraavat ovat laitteen edellytyksiä, jotka tukevat mukautettujen ilmoitusten vastaanottoa, ja jotta sovellus luo push-ilmoituksen:
+Seuraavat ovat laitteiden edellytykset, jotka tukevat mukautettujen ilmoitusten vastaanottamista, ja sovellus voi sitten luoda push-ilmoituksen:
 
-- Laitteessa on oltava asennettuna yritys portaali-sovellus.  
+- Laitteessa on oltava asennettuna yritys portaali sovellus.  
 
-- Laitteen on sallittava yritys portaali-sovelluksen lähettää push-ilmoituksia. Kun sovellus on asennettu tai päivitetty, se kehottaa käyttäjää sallimaan ilmoitukset.
+- Laitteen on sallittava yritys portaali-sovelluksen lähettää push-ilmoituksia. Kun sovellus on asennettu tai päivitetty, se pyytää käyttäjää sallimaan ilmoitukset.
 
-- Android-laitteissa on oltava Google Play-Palvelut asennettuna.
+- Android-laitteissa on oltava asennettuna Google Play-Palvelut.
 
-- Laite tulee rekisteröidä Intune.
+- Laitteen on oltava rekisteröity Intunella.
 
-Lisä tietoja, kuten viestin lähettäminen, on [ominaisuuden dokumentaatiossa](https://docs.microsoft.com/intune/custom-notifications).
+Lisä tietoja viestin lähettämisestä on kohdassa [ominaisuuksien ohjeet](https://docs.microsoft.com/intune/custom-notifications).
