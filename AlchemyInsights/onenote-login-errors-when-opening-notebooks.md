@@ -1,33 +1,34 @@
 ---
-title: OneNote - virheitä, kun avaat muistikirjan loki
+title: OneNote-Kirjaudu sisään-virheet muisti kirjojen avaamisen yhteydessä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643891"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729292"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>OneNote-muistikirjat-kirjautumisen ongelmia
+# <a name="issues-signing-in-to-onenote-notebooks"></a>OneNote-muisti kirjoihin kirjautumista koskevat ongelmat
 
-Jos näyttöön tulee kirjautuminen tai salasanan virhe yritettäessä avata muistikirjan, toimi seuraavasti:
+Jos näyttöön avautuu kirjautumis-tai salasana virhe, kun yrität avata muisti kirjaa, kokeile seuraavaa:
 
-- Jos SharePoint Online OneDrive tai on tallennettu muistikirjan, joka ei avaudu, kokeile avata muistikirjan OneNote sivustossa (www.onenote.com). Muistikirjaa ei ole luettelossa, jos voi ei ole oikeutta käyttää sitä. Jos jaetun muistikirjan, pyydä omistajaa jakaa sen ja varmistaa, että käytät oikea tili Kirjaudu sisään.
+- Jos muisti kirja, jota ei voi avata, on tallennettu OneDriveen tai SharePoint Onlineen, yritä avata muisti kirja OneNotessa verkossa (osoitteessa www.onenote.com). Jos muisti kirjaa ei ole luettelossa, sinulla ei ehkä ole sen käyttö oikeuksia. Jos kyseessä on jaettu muisti kirja, pyydä omistajaa jakamaan se ja varmista, että käytät oikeaa tiliä kirjautumiseen.
 
-- Jos muistikirja avautuu OneNote Web, varmista, että johon kirjaudut nykyiset käyttäjätiedot OneNotessa. 
+- Jos muisti kirja avautuu OneNotessa verkossa, varmista, että kirja udut sisään nykyisillä tunniste tiedoilla OneNotessa. 
 
-- Poista [Office-tunnistetiedot](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) [Windows tunnistetietojen hallinnan](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager)avulla.
+- Poista [Officen tunniste tiedot](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) käyttämällä [Windows Credential Manageria](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Valitse OneNote-2016 **-Tiedosto** > **tili** ja **Kirjaudu ulos** kaikista tileistä. Kirjaudu uudelleen käyttäen käyttäjätilin, jolla on voimassa oleva käyttöoikeus. Yksityiskohtaisia lisätietoja [Office-tilit](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Valitse OneNote 2016-sovelluksessa **tiedosto**  >  **tili** ja **Kirjaudu ulos** kaikista tileistäsi. Kirjaudu uudelleen sisään käyttämällä käyttäjä tiliä, jolla on voimassa oleva käyttö oikeus. Saat lisätietoja artikkelista [Office-tilit](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Valitse Windowsin OneNote pistettä (****...) yläosassa oikealla puolella näytön, valitse **asetukset** > **tilit**ja varmistaa, että työaikaa tai oppilaitos-tili näkyy.
+- Valitse OneNote for Windowsissa näytön oikeassa yläkulmassa kolme pistettä (**...**), valitse **Asetukset**  >  **tilit**ja varmista, että työpaikan tai oppi laitoksen tili on luettelossa.
