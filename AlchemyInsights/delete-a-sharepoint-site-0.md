@@ -1,53 +1,54 @@
 ---
 title: SharePoint-sivuston poistaminen
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580294"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731200"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365 -ryhmään kuuluvien sivustojen poistaminen
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365-ryhmään kuuluvien alueiden poistaminen
 
-Kun käyttäjät luovat uuden ryhmäsivuston SharePoint Homesta tai luot uuden ryhmäsivuston uudesta SharePoint-hallintakeskuksesta, vastaava Microsoft 365 -ryhmä luodaan automaattisesti. Microsoft 365:siin yhdistetyt ryhmäsivustot luodaan myös, kun luot Microsoft 365 -ryhmän tai ryhmän Microsoft Teamsissa. Jos haluat poistaa Microsoft 365 -ryhmään kuuluvan SharePoint-sivuston, sinun on poistettava Itse Microsoft 365 -ryhmä. 
+Kun käyttäjä luo uuden ryhmäsivuston SharePoint Homesta tai luo uuden ryhmäsivuston uudesta SharePoint-hallinta keskuksesta, vastaava Microsoft 365-ryhmä luodaan automaattisesti. Microsoft 365-ryhmään yhdistetyt ryhmä sivustot luodaan myös, kun luot Microsoft 365-ryhmän tai-tiimin Microsoft Teamsissa. Jos haluat poistaa SharePoint-sivuston, joka kuuluu Microsoft 365-ryhmään, sinun on poistettava Microsoft 365-ryhmä itse. 
   
-1. Siirry [Microsoft 365 -hallintakeskuksen Ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).
+1. Siirry [Microsoft 365-hallinta keskuksen ryhmät-sivulle](https://portal.office.com/adminportal/home#/groups).
     
-2. Valitse ryhmän vieressä oleva valintaruutu.
+2. Valitse ryhmän vieressä oleva valinta ruutu.
     
 3. Valitse **Poista**.
     
-HUOMAUTUS: Kun poistat ryhmän, sivuston poistaminen SharePointista voi olla viive.
+Huomautus: Kun poistat ryhmän, sivustossa voi olla viive, ennen kuin sivusto poistetaan SharePointista.
   
-**Viestintäsivustojen tai klassikkosivustojen poistaminen:**
+**Viestintä-ja perinteisten kohteiden poistaminen:**
 
-1. Mene sivustolle.
+1. Siirry sivustoon.
   
-2. Napsauta **Settings** oikeassa yläkulmassa olevaa Asetukset-kuvaketta. 
+2. Napsauta oikeassa yläkulmassa olevaa **Asetukset** -kuvaketta. 
   
-3. Valitse **Sivuston asetukset**. Valitse **Sivuston tiedot-** tai **Sivuston toiminnot -kohdassa** **Poista tämä sivusto**ja valitse sitten **Poista**.
+3. Valitse **sivuston asetukset**. Valitse **sivuston tiedot** -tai **sivuston toiminnot**-kohdassa **Poista tämä sivusto**ja valitse sitten **Poista**.
   
 **SharePoint-sivustokokoelman poistaminen:**
 
 Sivuston poistaminen:
   
-1. Valitse uudessa SharePoint-hallintakeskuksessa Sivustot-sivulla poistettavan sivuston vieressä **oleva valintaruutu.** 
+1. Napsauta uuden SharePoint-hallinta keskuksen sivustot-sivulla sen sivuston vieressä olevaa **valinta ruutua** , jonka haluat poistaa. 
     
-2. Valitse valintanauhan työkaluriviltä **Poista.**
+2. Valitse valinta nauhan työkalu riviltä **Poista.**
     
-**Poistettu sivuston vahingossa?**
+**Oletko poistanut sivuston vahingossa?**
 
-Katso [Poistetun sivustokokoelman palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660).
+Katso [poistetun sivustokokoelman palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660).
   
 
