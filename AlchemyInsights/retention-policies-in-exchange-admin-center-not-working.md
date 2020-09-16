@@ -1,66 +1,67 @@
 ---
-title: Exchange-hallintakeskuksen säilytyskäytännöt eivät toimi
+title: Exchange-hallinta keskuksen säilytys käytännöt eivät toimi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522804"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740507"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Säilytyskäytännöt Exchange-hallintakeskuksessa
+# <a name="retention-policies-in-exchange-admin-center"></a>Exchange-hallinta keskuksen säilytys käytännöt
 
-Jos haluat meidän tarkistavan alla mainitut asetukset automaattisesti, valitse tämän sivun yläreunasta < takaisin-painike ja kirjoita sitten sen käyttäjän sähköpostiosoite, jolla on säilytyskäytäntöihin liittyviä ongelmia.
+Jos haluat, että suoritat automaattiset tarkistukset alla mainittuihin asetuksiin, valitse Edellinen-painike <--tämän sivun yläosassa ja kirjoita sitten sen käyttäjän Sähkö posti osoite, jolla on ongelmia säilytys käytäntöjen kanssa.
 
- **Numero:** Exchange-hallintakeskuksen äskettäin luodut tai päivitetyt säilytyskäytännöt eivät koske postilaatikoita tai kohteita ei siirretä arkistopostilaatikkoon tai poisteta. 
+ **Ongelma:** Exchange-hallinta keskuksen uudet tai päivitetyt säilytys käytännöt eivät koske posti laatikoita tai kohteita ei siirretä Arkisto posti laatikkoon tai niitä ei poisteta. 
   
- **Perussyitä:**
+ **Perimmäiset syyt:**
   
-- Tämä voi johtua siitä, että **hallitun kansion avustaja** ei ole käsitellyt käyttäjän postilaatikkoa. Hallitun kansion hallinta yrittää käsitellä pilvipohjaisen organisaation jokaista postilaatikkoa seitsemän päivän välein. Jos muutat säilytystunnistetta tai käytät postilaatikkoon eri säilytyskäytäntöä, voit odottaa, kunnes hallittu kansioavustin käsittelee postilaatikon, tai voit käynnistää hallitun kansion hallinnan suorittamalla Start-ManagedFolderAssistant-cmdlet-otoksen ja käynnistää tietyn postilaatikon. Tämän cmdlet-esityksen suorittaminen on hyödyllistä säilytyskäytännön tai säilytystunnisteen asetusten testaamisessa tai vianmäärityksessä. Lisätietoja on [ohjeaiheessa Hallitun kansion hallinnan suorittaminen](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Tämä voi johtua siitä, että **Hallittujen kansioiden hallinta** ei ole käsitellyt käyttäjän posti laatikkoa. Hallittujen kansioiden avustaja yrittää käsitellä jokaista pilvipohjaisen organisaatiosi posti laatikkoa kerran seitsemän päivän välein. Jos muutat säilytys tunnisteen tai käytät eri säilytys käytäntöä posti laatikolle, voit odottaa, että hallittujen kansioiden avustaja käsittelee posti laatikkoa, tai voit käynnistää hallitun kansion avustajan käsittelemään tietyn posti laatikon suorittamalla Käynnistä-Managedfoldannestention-cmdlet-toiminnon. Tämän cmdlet-toiminnon suorittaminen on hyödyllistä säilytys käytännön tai säilytyksen tunniste asetusten testaamiseen tai vian määritykseen. Lisä tietoja on Ohje aiheessa [hallitun kansion avustajan suorittaminen](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Ratkaisu:** Käynnistä tietyn postilaatikon hallitun kansion hallintaohjelma suorittamalla seuraava komento:
+  - **Ratkaisu:** Käynnistä hallitun kansion avustaja tietylle posti laatikolle suorittamalla seuraava komento:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Näin voi käydä myös, jos **RetentionHold** on otettu **käyttöön** postilaatikossa. Jos postilaatikko on sijoitettu Säilytyspalvelun säilyttämiseen, postilaatikon säilytyskäytäntöä ei käsitellä kyseisenä aikana. Lisätietoja RetentionHold-asetuksesta on kohdassa [Postilaatikon säilytyspito](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Tämä voi ilmetä myös, jos **RetentionHold** on **otettu käyttöön** posti laatikossa. Jos posti laatikko on asetettu RetentionHold-kohtaan, posti laatikon säilytys käytäntöä ei prosessoida tuona aikana. Lisä tietoja on kohdassa RetentionHold-asetus Katso: [Posti laatikon säilytyksen pito](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Ratkaisu:**
+    **Ratkaisu**
     
-  - Tarkista [exo powershellin](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)postilaatikon RetentionHold-asetuksen tila:
+  - Tarkasta RetentionHold-asetuksen tila tietyssä posti laatikossa [EXO PowerShellin](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)avulla:
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Poista RetentionHold **käytöstä** tietyssä postilaatikossa suorittamalla seuraava komento:
+  - Suorita seuraava komento, jos haluat poistaa RetentionHold-toiminnon **käytöstä** tietyssä posti laatikossa:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Suorita nyt hallitun kansion hallintaohjelma uudelleen:
+  - Suorita sitten hallitun kansion avustaja uudelleen:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Huomautus:** Jos postilaatikon koko on alle 10 megatavua, hallitun kansion hallinta ei käsittele postilaatikkoa automaattisesti.
+ **Huomautus:** Jos posti laatikko on pienempi kuin 10 Mt, hallittujen kansioiden hallinta ohjelma ei käsittele posti laatikkoa automaattisesti.
  
-Lisätietoja Exchange-hallintakeskuksen säilytyskäytännöistä on seuraavissa ohjeissa:
-- [Säilytystunnisteet ja säilytyskäytännöt](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Säilytyskäytännön käyttäminen postilaatikoissa](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Säilytystunnisteiden lisääminen tai poistaminen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Postilaatikkoon sijoitetun pitoon asetetun pidon tyypin tunnistaminen](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+Lisä tietoja Exchange-hallinta keskuksen säilytys käytännöistä on kohdassa:
+- [Säilytys Tunnisteet ja säilytys käytännöt](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Säilytys käytännön käyttäminen posti laatikoissa](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Säilytys tunnisteiden lisääminen tai poistaminen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Posti laatikkoon sijoitetun pidon tyypin selvittäminen](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
