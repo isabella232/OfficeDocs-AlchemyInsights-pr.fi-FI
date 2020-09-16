@@ -1,41 +1,42 @@
 ---
-title: Kalenterin käyttöoikeudet
+title: Kalenterin käyttö oikeudet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: 78f27014c60badc801212177dd455ef2a0de5a9e
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: cfee520e26587c0a649c08084853c31232d027f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862096"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748790"
 ---
-# <a name="calendar-permissions"></a>Kalenterin käyttöoikeudet
+# <a name="calendar-permissions"></a>Kalenterin käyttö oikeudet
 
-Käyttäjät voivat muuttaa omia kalenterioikeuksiaan Outlookin web-sivustolla tai muissa asiakkaissa, mutta järjestelmänvalvojana sinun on ehkä tutkittava myös.  
-Exchange PowerShellin cmdlet-liittimessä näytetään käyttäjän kalenterin käyttöoikeudet:
+Käyttäjät voivat muuttaa oman kalenterin käyttö oikeuksiaan Outlookin verkko versiossa tai muissa asiakkaissa, mutta sinun on ehkä tutkittava ne myös järjestelmänvalvojana.  
+Exchange PowerShellin cmdlet-toiminnolla näet käyttö oikeuden käyttäjän kalenteriin:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
-Lisätietoja on seuraavissa ohjeissa:
+Lisä tietoja on seuraavissa artikkeleissa:
 
-- [Get-MailboxFolderPermission (Get-MailboxFolderPermission) -kansion](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
+- [Get-Mailoff-kansion käyttö oikeudet](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
-- [Aseta mailbox-kansionroisti](https://docs.microsoft.com/powershell/module/exchange/set-mailboxfolderpermission?view=exchange-ps)
+- [Asetukset-Mailposti kansion käyttö oikeudet](https://docs.microsoft.com/powershell/module/exchange/set-mailboxfolderpermission?view=exchange-ps)
 
-- [Lisää postilaatikkokansioPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
+- [Lisää-Mailposti kansion käyttö oikeus](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Kalenterin käyttöoikeuksia käytetään kalenterien jakamisessa, jotta saat lisätietoja Outlook-kalenterin jakamisesta, katso seuraavat artikkelit:
+Kalenterin käyttö oikeuksia käytetään kalenterien jakamiseen, jos haluat lisä tietoja Outlook-kalenterin jakamisesta, tutustu seuraaviin artikkeleihin:
 
 - [Outlook-kalenterin jakaminen muiden kanssa](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Kalenterin jakaminen Outlookin verkkoversiossa yrityksille](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Kalenterin jakaminen Outlookin verkko versiossa yrityksille](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Voit tehdä kalenterin käyttöoikeuksien vianmäärityksen [tuki- ja palautusavustajatyökalun](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) avulla.
+Voit suorittaa kalenterin käyttö oikeuksien vian määrityksen [tuki-ja palautus avustaja](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) -työkalulla.

@@ -1,29 +1,30 @@
 ---
-title: Leikepöydällä on ongelma.
+title: Leike pöydällä on ongelma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44263874"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750268"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Excelin leikepöydän virheen ratkaiseminen
+# <a name="resolving-excel-clipboard-error"></a>Excel-leike pöydän virheen ratkaiseminen
 
-Jos saat Excelissä ilmoituksen "Leikepöydällä on ongelma, mutta voit silti liittää sisällön tähän työkirjaan", kokeile poistaa Live Preview -ominaisuus käytöstä seuraavasti:
+Jos saat Excelissä virhe ilmoituksen, jossa lukee "leike pöydällä on ongelma, mutta voit silti liittää sisältöä tähän työkirjaan", kokeile Live Preview-toiminnon poistamista käytöstä noudattamalla seuraavia ohjeita:
 
-1. Valitse Excelissä **Tiedoston**  >  **asetukset**.
-3. Valitse **Excelin asetukset** -valintaikkunassa **Yleiset**.
-4. Poista **Käyttöliittymän asetukset**-kohdassa **Ota reaaliaikainen esikatselu käyttöön**.
+1. Valitse Excelissä **tiedosto**  >  **Asetukset**.
+3. Valitse **Excelin asetukset** -valinta ikkunassa **Yleiset**.
+4. Poista **käyttö liittymän asetukset**-kohdassa **Ota reaaliaikainen esikatselu käyttöön**.
 5. Valitse **OK**.
 6. Käynnistä Excel uudelleen.
