@@ -1,30 +1,31 @@
 ---
-title: PowerShellin itsepalveluosto
+title: PowerShellin Omatoiminen ostaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 5e47e08e3309b3d58908e10ee06021da00f230bb
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091693"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739967"
 ---
-# <a name="self-service-purchase-of-powershell"></a>PowerShellin itsepalveluosto
+# <a name="self-service-purchase-of-powershell"></a>PowerShellin Omatoiminen ostaminen
 
-Jotta voit käyttää MSCommerce PowerShell -moduulia, se on asennettava Windows 10 -laitteeseen, jossa on TLS 1.2 (paikallisen järjestelmänvalvojan oikeudet vaaditaan).  Tuo ja muodosta yhteys MSCommerce-moduuliin.  Kun sinua pyydetään kirjautumaan sisään, sinun on käytettävä yleisen tai laskutuksen järjestelmänvalvojan roolin tunnistetietoja.  
+Jos haluat käyttää MSCommerce PowerShell-moduulia, sinun on asennettava se Windows 10-laitteeseen, jossa on TLS 1,2 (paikallisten järjestelmänvalvojien oikeudet vaaditaan).  Tuo ja muodosta yhteys MSCommerce-moduuliin.  Kun sinua pyydetään Kirjautu maahan, sinun on käytettävä yleisiä tai Laskutusjärjestelmänvalvojan roolin tunniste tietoja.  
 
-Jos sinulla ei ole TLS 1.2:ta, näyttöön saattaa tulla seuraava virhe, kun yrität saada tai päivittää käytäntöä:
+Jos sinulla ei ole TLS 1,2, näyttöön voi tulla seuraava virhe, kun yrität hakea tai päivittää käytäntöä:
 
-*ErrorMessage -Pohjana oleva yhteys suljettiin: Lähetysvirhe tapahtui*.
+*Erroxmessage-taustalla oleva yhteys suljettiin: Odottamaton virhe*lähetettäessä.
 
 
 

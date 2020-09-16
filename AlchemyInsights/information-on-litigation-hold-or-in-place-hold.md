@@ -1,32 +1,33 @@
 ---
-title: Tiedot oikeudenkäynnin hallussapidosta tai pidosta
+title: Tietoja oikeus toimiin liittyvästä pidosta tai pito paikasta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508697"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755452"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Tietoja oikeudenkäynneistä ja paikallaan pidot
+# <a name="about-litigation-holds-and-in-place-holds"></a>Tietoja oikeuden käynneistä ja pito paikka-osuuksista
 
-- Jos haluat ottaa oikeustoimiin liittyvän pidon tai postilaatikon pidon paikan päällä, [tarvitaan Exchange Online Plan 2 -käyttöoikeus.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Jos sinulla on jokin muu Palvelupaketti, määritä tilille erillinen [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) -käyttöoikeus. 
+- Jos haluat ottaa käyttöön oikeus toimiin liittyvän pidon tai pito tilan posti laatikkoon, [Exchange Online-paketin 2 käyttö oikeus](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) on pakollinen. Jos sinulla on jokin muu sopimus, Määritä tilille erillinen [Exchange Online-arkistointi](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) käyttö oikeus. 
     
-- **Jos haluat ottaa oikeustoimiin liittyvän pidon käyttöön** yksittäiselle käyttäjälle, noudata [tässä](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)kuvattuja ohjeita. Kun oikeustoimiin liittyvä pito on käytössä, kaikki postilaatikon sisältö asetetaan pitoon.
+- **Jos haluat ottaa käyttöön oikeus toimiin liittyvän pidon** yksittäiselle käyttäjälle, noudata [tässä](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)kuvattuja ohjeita. Kun oikeus toimiin liittyvään pitoon on otettu käyttöön, kaikki posti laatikon sisältö asetetaan pitoon.
     
-- Jos haluat käyttää käytössä olevaa **pitoa yksittäisissä käyttäjissä** tai pitoa **kaikissa postilaatikoissa koko organisaatiossa,** voit käyttää Säilytyskäytäntöjä Microsoft 365 Security and Compliance centerissä noudattamalla [tässä]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)kuvattuja ohjeita .
+- Jos haluat käyttää **Pidossa olevaa pitoa vain yhdellä käyttäjällä** tai **koko organisaation posti laatikoista**, käytä säilytys käytäntöjä Microsoft 365-tieto turva-ja yhteensopivuus keskuksessa noudattamalla [tässä]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)kuvattuja ohjeita.
     
     > [!NOTE]
-    > Organisaatiotason säilytyskäytännöissä uudet käyttäjät lisätään automaattisesti pitoon. 
+    > Organisaatio tason säilytys käytäntöjä varten uudet käyttäjät lisätään automaattisesti pitoon. 
   
-- Jos haluat tarkastella tai löytää pidossa olevaa postilaatikon sisältöä, käytä **eDiscovery Search and Export -toiminnolla**. Lisätietoja **eDiscovery Search and Export -toiminnon**käyttämisestä on [tässä](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)kuvatuissa vaiheissa .
+- Jos haluat tarkastella tai etsiä pidossa olevaa posti laatikon sisältöä, käytä **eDiscoveryn haku-ja vienti**toimintoa. Jos haluat lisä tietoja **eDiscoveryn hausta ja viennistä**, noudata [tässä](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)kuvattuja ohjeita.
     
 
