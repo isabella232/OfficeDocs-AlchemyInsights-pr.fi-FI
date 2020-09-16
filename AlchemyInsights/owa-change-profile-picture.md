@@ -1,28 +1,29 @@
 ---
-title: Profiilikuvan muuttaminen Outlookin verkkoversiossa
+title: Profiili kuvan vaihtaminen Outlookin verkko versiossa
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: cce75481d3102aa6516fe18939e06fc9d5ff47bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d8357eae3d8765df454922c50a86308253406d32
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759144"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Profiilikuvan muuttaminen Outlookin verkkoversiossa
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Profiili kuvan vaihtaminen Outlookin verkko versiossa
 
-1. Valitse nimesi tai profiilikuvasi sivun yläreunasta.
-1. Valitse Oma **tili** -ruudussa profiilikuvasi.
-1. Valitse **Muuta valokuvaa -valintaikkunassa** **Lataa uusi kuva**.
-1. Valitse ladattava kuva ja valitse **Käytä**.
+1. Valitse sivun ylälaidassa nimesi tai profiili kuvasi.
+1. Valitse **Oma tili** -ruudussa profiili kuvasi.
+1. Valitse **Vaihda kuva** -valinta ikkunassa **Lataa uusi valo kuva**.
+1. Valitse ladattava valo kuva ja valitse **Käytä**.
 
-*Huomautus:* Uusi kuva tulee näkyviin, kun seuraavan kerran kirjaudut Microsoft 365:een.
+*Huomautus:* Uusi kuvasi tulee näkyviin, kun kirja udut sisään Microsoft 365-tiliisi seuraavan kerran.
 
-Lisätietoja on [ohjeaiheessa Valokuvan ja tilin tietojen muuttaminen Outlookin verkkoversiossa](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Lisä tietoja on Ohje aiheessa [valo kuvan ja tili tietojen muuttaminen Outlookin verkko](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)versiossa.

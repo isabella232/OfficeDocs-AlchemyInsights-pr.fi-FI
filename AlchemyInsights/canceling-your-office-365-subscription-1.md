@@ -1,11 +1,12 @@
 ---
-title: Peruutetaanko Microsoft 365 -tilauksesi?
+title: Peruutamme Microsoft 365-tila uksen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: a8443f0cdab72d8760ae72e9d20dd3f49870f585
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757225"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 -tilauksesi?
+# <a name="canceling-your-microsoft-365-subscription"></a>Peruutamme Microsoft 365-tila uksen?
 
-Olemme pahoillamme, että lähdet, mutta tässä on tilauksen peruutusvaihtoehdot:
+Valitettavasti et näe sinua, mutta voit peruuttaa tilauksesi seuraavien vaihto ehtojen avulla:
   
-- **Uskomme organisaatiosi tietojen perusteella, että kaikki nykyiset tilauksesi ovat Kokeilutilauksia. Kokeiluversion tilausta ei tarvitse nimenomaisesti peruuttaa, koska Kokeiluversion tilaukset eivät edellytä maksuja, eikä velvollisuutta ole kokeilujakson päättymisen jälkeen.**
+- **Organisaation tietojen perusteella uskomme, että kaikki nykyiset tilauksesi ovat Koepaketteja. Kokeilun tilausta ei tarvitse erikseen peruuttaa, koska Koepaketit eivät vaadi maksuja, eikä mitään velvoitetta ole asetettu kokeilun päätyttyä.**
 
-- Lisätietoja tilauksen peruuttamisesta tai vaiheittaiset ohjeet ovat tässä artikkelissa: [Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- Lisä tietoja tila uksen peruuttamisesta tai vaiheittaiset ohjeet ovat artikkelissa tämä artikkeli: [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
