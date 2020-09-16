@@ -1,41 +1,41 @@
 ---
-title: Herkkyysotsikot eivät näy
+title: Herkkyys Tunnisteet eivät ilmesity
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581012"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801181"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Herkkyysotsikot eivät näy
+# <a name="sensitivity-labels-not-appearing"></a>Herkkyys Tunnisteet eivät ilmesity
 
-Herkkyystarrojen avulla voit luokitella ja suojata arkaluonteista sisältöäsi. Ne voidaan luoda Microsoft 365 -yhteensopivuuskeskuksessa, Microsoft 365-tietoturvakeskuksessa tai Microsoft 365:n tietoturvakeskus & Compliance Centerissä kohdassa Luokittelu > Herkkyysetsaaminen. Lisätietoja tästä ominaisuudesta on [ohjeaiheessa Herkkyystarrojen yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Herkkyys merkintöjen avulla voit luokitella ja suojata arkaluontoista sisältöä. Ne voidaan luoda Microsoft 365-yhteensopivuus keskuksessa, Microsoft 365-tieto turva keskuksessa tai Microsoft 365-tieto turva & yhteensopivuus keskuksessa luokittelu > herkkyys-selitteissä. Lisä tietoja tästä ominaisuudesta on artikkelissa [herkkyys merkkien yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Jos olet määrittänyt herkkyystarrat, mutta ne eivät näy Microsoft 365 -sovelluksissa, tarkista seuraavat asiat:
+Jos olet määrittänyt luottamuksellisuustunnisteet, mutta ne eivät näy Microsoft 365-sovelluksissa, tarkista seuraavat asiat:
 
-- Varmista, että herkkyysotsikko on [julkaistu](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) haluamillesi käyttäjille ja ryhmille.
+- Varmista, että luottamuksellisuustarra on [julkaistu](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) käyttäjille ja ryhmille, jotka haluat määrittää.
 
-- Varmista, että käyttäjä käyttää herkkyystarroja tukevaa sovellusta - katso [asiakirjan herkkyysotsikot](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Varmista, että käyttäjä käyttää sovellusta, joka tukee herkkyys otsikoita-Katso [asia kirjan herkkyys otsikoita](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Jos siirrät [Azure Information Protection -tunnisteita,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)ota huomioon [tässä](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)luetellut seikat .
+- Jos olet [siirtämässä Azure-tieto turva-otsikoita](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ota huomioon [tässä](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)luetellut seikat.
 
-- Tietojen menetyksen estäminen (DLP) -tuki: Tällä hetkellä vain säilytysmerkintöjä voidaan käyttää ehtona DLP-käytännöissä.  DLP-käytännön herkkyysmerkintöjen tuki ei ole vielä käytettävissä, mutta työstämme sitä parhaillaan.
+- Tietojen menetyksen estämisen (DLP) tuki: tällä hetkellä DLP-käytäntöjen ehtona voidaan käyttää vain säilytys otsikoita.  DLP-käytäntöjen luottamuksellisuusmerkintöjen tuki ei ole vielä käytettävissä, mutta työskentelemme sen parissa.
 
-- Kun salaus on käytössä herkkyysotsikko, voit valita joko:
-    - Käyttöoikeuksien määrittäminen nyt
-    - Salli käyttäjien määrittää käyttöoikeudet
+- Kun salaus on otettu käyttöön luottamuksellisuustarrassa, voit valita jommankumman seuraavista:
+    - Määritä käyttö oikeudet nyt
+    - Salli käyttäjien määrittää käyttö oikeuksia
 
 
-Lisätietoja mahdollisista ongelmista on kohdassa [Tunnetut herkkyystarroihin liittyvät ongelmat](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Lisä tietoja mahdollisista ongelmista on kohdassa [arkaluonteisiin tunniste tietoihin liittyvät tunnetut ongelmat](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
