@@ -1,42 +1,43 @@
 ---
-title: Sähköpostiprofiilien käyttäminen Intunen kanssa
+title: Sähkö posti profiilien käyttäminen Intunella
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46554977"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653285"
 ---
-# <a name="using-email-profiles-with-intune"></a>Sähköpostiprofiilien käyttäminen Intunen kanssa
+# <a name="using-email-profiles-with-intune"></a>Sähkö posti profiilien käyttäminen Intunella
 
-Intune voidaan luoda ja ottaa käyttöön sähköpostiprofiileja natiivi (sisäänrakennettu) sähköpostiohjelma useilla laitealustoilla.
+Intunella voi luoda ja ottaa käyttöön Sähkö posti profiileja, jotka koskevat alkuperäistä (sisäänrakennettua) sähkö posti ohjelmaa useilla laite alustoilla.
 
-Lisätietoja joistakin sähköpostiprofiileihin liittyvistä rajoituksista, kuten olemassa olevien profiilien käsittelytapa ja sähköpostiprofiilien poistaminen, on [ohjeaiheessa Sähköpostiasetusten lisääminen laitteisiin Intune -toiminnolla](https://docs.microsoft.com/intune/email-settings-configure).
+Lisä tietoja Sähkö posti profiileihin liittyvistä rajoituksista, kuten olemassa olevien profiilien käytöstä ja Sähkö posti profiilien poistamisesta, on Ohje aiheessa [Sähkö posti asetusten lisääminen laitteisiin Intune-toiminnon avulla](https://docs.microsoft.com/intune/email-settings-configure).
 
-Lisätietoja sähköpostiprofiilien luomisesta kullekin laitealustalle on ohjeaiheessa:
+Lisä tietoja Sähkö posti profiilien luomisesta kullekin laite alustalle on kohdassa:
 
-[Android-laitteen asetukset sähköpostin, todennuksen ja synkronoinnin määrittämiseen Intuessa](https://docs.microsoft.com/intune/email-settings-android)  
-[Sähköpostiasetusten lisääminen iOS- ja iPadOS-laitteille Microsoft Intutiin](https://docs.microsoft.com/intune/email-settings-ios)  
-[Microsoft Intunen sähköpostiprofiilin asetukset Windows Phone 8.1 -laitteissa](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[Sähköpostiprofiiliasetukset laitteille, joissa on Windows 10 Microsoft Intunen](https://docs.microsoft.com/intune/email-settings-windows-10)
+[Android-laitteen asetukset sähkö postin, todennuksen ja synkronoinnin määrittämiseen Intunella](https://docs.microsoft.com/intune/email-settings-android)  
+[Sähkö posti asetusten lisääminen iOS-ja iPadOS-laitteille Microsoft Intunella](https://docs.microsoft.com/intune/email-settings-ios)  
+[Sähkö posti profiilin asetukset Microsoft Intunella Windows Phone 8,1-laitteita varten](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Windows 10: n laitteiden Sähkö posti profiilin asetukset Microsoft Intunella](https://docs.microsoft.com/intune/email-settings-windows-10)
 
-**Yleinen synkronointiongelma**
+**Yleinen synkronointi ongelma**
 
-**KNOX Android-sähköpostiprofiilissa estää käyttäjän yhteystietojen, kalenterin ja tehtävien synkronoinnin käyttäjän laitteisiin.**
+**Android-Sähkö posti profiilissa oleva KNOX estää käyttäjä kontakteja, kalenteria ja tehtäviä synkronoimasta käyttäjän laitteisiin.**
 
-Knox Android KNOX -sähköpostiprofiilissa tarjoaa järjestelmänvalvojalle mahdollisuuden päättää, mitkä sisältötyypit synkronoidaan laitteeseen asettamalla kukin käyttöön.
+Android-KNOX-Sähkö posti profiilissa oleva KNOX tarjoaa järjestelmänvalvojalle mahdollisuuden määrittää, mitkä sisältö tyypit synkronoidaan laitteeseen, määrittämällä kukin käyttöön.
 
-Jos jonkin sisältötyypin asetuksena on **Ei määritetty** (oletusasetus), kyseistä sisältötyyppiä ei synkronoida automaattisesti. Käyttäjä saattaa ottaa haluamasi sisältötyypin käyttöön suoraan laitteeseen manuaalisesti, mutta Intune-käytäntöasetus korvaa kyseisen kokoonpanon ja kyseisen sisältötyypin synkronointi pysähtyy.
+Jos minkä tahansa sisältö tyypin asetusta **ei ole määritetty** (oletus arvo), kyseistä sisältö tyyppiä ei synkronoida automaattisesti. Käyttäjä voi ottaa käyttöön sisältö tyypin, jonka he haluavat suoraan laitteeseen manuaalisesti, mutta tämä kokoonpano korvataan Intune-asetuksella ja sisältö tyypin synkronointi pysähtyy.
 

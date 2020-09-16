@@ -1,28 +1,29 @@
 ---
-title: Käyttöoikeudeton ominaisuudet poistettu käytöstä Business Standard -käyttäjille
+title: Business Standard-käyttäjien käytöstä poistamattomat käyttöoikeudettomat ominaisuudet
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 6bba3b5a53304a78daa52268761fbfa8e3bc0431
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197835"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658002"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Käyttöoikeudeton ominaisuudet poistettu käytöstä Business Standard -käyttäjille
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Business Standard-käyttäjien käytöstä poistamattomat käyttöoikeudettomat ominaisuudet
 
-Joillakin Microsoft 365 Business Standard -käyttäjillä ja -organisaatioilla on tällä hetkellä enemmän ominaisuuksia kuin heillä on käyttöoikeus. Näitä ominaisuuksia ovat seuraavat CLP (Luokitus-, merkintä- ja suojausasetukset) ja digitaalisten oikeuksien hallinnan (DRM) asetukset:
+Joillakin Microsoft 365 Business Standard-käyttäjillä ja-organisaatioilla on tällä hetkellä käytettävissä enemmän ominaisuuksia kuin heillä on käyttö oikeus. Nämä ominaisuudet sisältävät seuraavat luokittelu-, merkintä-ja suojaus asetukset (CLP) ja digitaalisten oikeuksien hallinta (DRM):
     
-30.6.2020 näiden käyttäjien lisäominaisuudet on poistettu käytöstä Microsoft Excelissä, Microsoft Wordissa, Microsoft PowerPointissa ja Microsoft Outlookissa.
+2020-palvelun lisä ominaisuudet on poistettu käytöstä seuraavissa Microsoft Excelin, Microsoft Word-, Microsoft PowerPoint-ja Microsoft Outlook-käyttäjille.
 
-Harkitse suoritetun käyttäjän käyttöoikeustyypin muuttamista lisenssiksi, joka sisältää nämä ominaisuudet. 
+Harkitse käyttäjän käyttö oikeus tyypin vaihtamista käyttö oikeuteen, joka sisältää nämä ominaisuudet. 
 
-Lisätietoja on [ohjeaiheessa Microsoft 365 Business Standard -käyttäjille annetut käyttöoikeudeton ominaisuudet](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Lisä tietoja on kohdassa [Microsoft 365 Business Standard-käyttäjille annetut käyttöoikeudettomat ominaisuudet](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview) .

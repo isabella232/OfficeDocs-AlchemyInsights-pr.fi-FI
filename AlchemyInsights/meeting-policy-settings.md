@@ -1,34 +1,35 @@
 ---
-title: Kokouskäytännön asetukset
+title: Kokous käytäntöjen asetukset
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042841"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794331"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Kokouskäytäntöjen hallinta Microsoft Teamsissa
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Kokous käytäntöjen hallinta Microsoft Teamsissa
 
-**Huomautus: Käytäntömuutosten voimaantulo käyttäjille voi kestää jopa 24 tuntia.** Et ehkä voi tehdä muutoksia uusiin käytäntöihin välittömästi. odota 4 tuntia ja yritä muokata juuri luotua käytäntöä uudelleen.
+**Huomautus: käytäntöjen muutokset voivat kestää jopa 24 tuntia, ennen kuin käyttäjät astuvat voimaan.** Et ehkä voi tehdä muutoksia juuri luotuihin käytäntöihin välittömästi. Odota neljä tuntia ja yritä muokata juuri luotua käytäntöä uudelleen.
 
-Kokouskäytäntöjen avulla hallitaan ominaisuuksia, jotka ovat kokouksen osallistujien käytettävissä organisaation käyttäjien ajoittamien kokousten aikana. Joitakin kokouskäytäntöjen ominaisuuksia ei ehkä ole vielä otettu käyttöön Teams-hallintakeskuksessa (niiden dokumentaatiossa lukee "tulossa pian"). Tässä tapauksessa tai jos saat Microsoft Teams -hallintakeskuksen virheen, kuten "Emme voi päivittää käytäntöä juuri nyt, mutta yritä sitä myöhemmin uudelleen", microsoft suosittelee, että luot tai muokkaat Teamsin kokouskäytäntöjä PowerShellin avulla. 
+Kokous käytäntöjen avulla voit hallita koko uksen osallistujien käytettävissä olevia koko uksia, jotka organisaation käyttäjät ovat ajoittanut. Joitain Kokous käytäntöjen ominaisuuksia ei ehkä ole vielä toteutettu teamsin hallinta keskuksessa (ne on merkitty asia kirjoihin "tulossa pian"). Tässä tapa uksessa tai jos saat virhe ilmoituksen, kuten "emme voi päivittää käytäntöä juuri nyt, mutta yritä myöhemmin uudelleen" Microsoft teamsin hallinta keskuksessa, suosittelemme, että käytät PowerShellin avulla teamsin Kokous käytäntöjen luomista tai muokkaamista. 
 
-Lisätietoja kokouskäytännöistä on seuraavissa resursseissa:
+Lisä tietoja Kokous käytännöistä on seuraavissa resursseissa:
 
-- Lisätietoja käytäntöjen luomisesta, muutosten tekemisestä ja käyttäjien määrittämisestä käytäntöön on kohdassa [Kokouskäytäntöjen hallinta Teamsissa](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Lisä tietoja käytäntöjen luomisesta, muutosten tekemiseen ja käyttäjien määrittämisestä käytäntöön on artikkelissa [Kokous käytäntöjen hallinta tiimeissä](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- Lisätietoja käytäntömuutoksista PowerShellin cmdlet-komennoilla on artikkelissa [Teams PowerShellin yleiskatsaus](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Sinun on käytettävä Teamsin kokouskäytäntöjen [Skype for Business PowerShell -moduulia.](https://www.microsoft.com/download/details.aspx?id=39366) 
-    - Lisätietoja on [*-CsTeamsMeetingPolicy-cmdlet-komentojen ohjeissa.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
+- Jos haluat muuttaa käytäntöjen muutoksia PowerShellin cmdlet-komennolla, tutustu [teamsin PowerShellin yleiskatsaukseen](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Sinun on käytettävä teamsin Kokous käytäntöjen [Skype for Business PowerShell-moduulia](https://www.microsoft.com/download/details.aspx?id=39366) . 
+    - Lisä tietoja on [*-csteamsmeetingpolicy-cmdlet-ohjeissa](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
 

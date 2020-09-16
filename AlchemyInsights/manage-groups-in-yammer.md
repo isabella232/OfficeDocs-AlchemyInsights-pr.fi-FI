@@ -5,26 +5,27 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: aa97486edfddc3f68c108d9a360d789bb99241cf
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ff325ea3d4b736b115b09bf4d8513938a61b1a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505504"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778040"
 ---
 # <a name="manage-groups-in-yammer"></a>Ryhmien hallinta Yammerissa
 
-- **Ryhmän luontioikeudet.** Yammer ei valvo, kuka voi luoda ryhmän. Voit kuitenkin hallita yhdistettyjen Microsoft 365 -ryhmien ryhmän luontia. Lisätietoja [on ohjeaiheessa Microsoft 365 -ryhmien luominen.](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+- **Ryhmän luomisen käyttö oikeus.** Yammer ei valvo sitä, kuka voi luoda ryhmän. Yhdistettyjen Microsoft 365-ryhmien ryhmän luontia voi kuitenkin hallita. Lisä tietoja on Ohje aiheessa [ketkä voivat luoda Microsoft 365-ryhmiä](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) .
 
-- **Dynaaminen ryhmän jäsenyys.** Lisätietoja [dynaamisen jäsenyyden luomisesta](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) Yammeriin yhdistetyille Microsoft 365 -ryhmille on kohdassa Dynaamisen ryhmän luominen Yammerissa.
+- **Dynaaminen ryhmän jäsenyys.** Lisä tietoja dynaamisten jäsenyyksien luomisesta Yammerissa on kohdassa [dynaamisen ryhmän luominen Yammeriin](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) , joka on yhdistetty Microsoft 365-ryhmät.
 
-- **Palautetaan poistettuja ryhmiä.** Yammeriryhmien palauttaminen on mahdollista [Palauta poistettu Microsoft 365 -ryhmä](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) Ei yhdistettyjä ryhmiä ei voi palauttaa poistamisen jälkeen.
+- **Poistettujen ryhmien palauttaminen** Yammer-ryhmien palauttaminen on mahdollista [Palauta poistetun Microsoft 365-ryhmän](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) ei-yhdistettyjä ryhmiä ei voi palauttaa poistamisen jälkeen.
 
-Lisätietoja ryhmän hallinnasta on kohdassa [Ryhmän hallinta Yammerissa](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Lisätietoja yhdistetyistä Microsoft 365 -ryhmistä on kohdassa [Yammer- ja Microsoft 365 Groups -ryhmät](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
+Lisä tietoja ryhmän Hallin nasta on kohdassa [ryhmän hallinta Yammerissa](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Lisä tietoja yhdistetyistä Microsoft 365-ryhmistä on kohdassa [Yammer ja microsoft 365-ryhmät](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   
