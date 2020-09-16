@@ -1,29 +1,30 @@
 ---
-title: Palvelutapahtuma käynnissä
-ms.author: v-crytho
+title: Palvelu häiriö käynnissä
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: 535b0b35548044e950c3b29e6479bff50882b227
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ce3c53bcf6c84c0f30a832f1b34eacb7ee2d53d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719764"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767704"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="2da9b-102">Palvelutapahtuma käynnissä</span><span class="sxs-lookup"><span data-stu-id="2da9b-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="7fa8b-102">Palvelu häiriö käynnissä</span><span class="sxs-lookup"><span data-stu-id="7fa8b-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="2da9b-103">Sinua saattaa vaikuttaa parhaillaan tutkittava palvelutapahtuma tai neuvonta.</span><span class="sxs-lookup"><span data-stu-id="2da9b-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="2da9b-104">Voit tarkistaa viimeisimmän tilan palvelun [kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulta.</span><span class="sxs-lookup"><span data-stu-id="2da9b-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="7fa8b-103">Sinulla voi olla palvelu häiriö tai neuvo, jota tutkitaan parhaillaan.</span><span class="sxs-lookup"><span data-stu-id="7fa8b-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="7fa8b-104">Voit tarkistaa uusimman tilan siirtymällä [palvelun kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulle.</span><span class="sxs-lookup"><span data-stu-id="7fa8b-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="2da9b-105">Löydät yhteenvedon tästä tapauksesta alla:</span><span class="sxs-lookup"><span data-stu-id="2da9b-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="7fa8b-105">Löydät tästä tapahtumasta yhteenvedon seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="7fa8b-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="2da9b-106">**Tapahtuman numero:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="2da9b-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="7fa8b-106">**Tapahtuma numero:**[{incidendend}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="7fa8b-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="2da9b-107">Vaikutuskuvaus: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="2da9b-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="7fa8b-107">Vaikutus kuvaus: {IMPAC Tdescription}</span><span class="sxs-lookup"><span data-stu-id="7fa8b-107">Impact description: {ImpactDescription}</span></span>
