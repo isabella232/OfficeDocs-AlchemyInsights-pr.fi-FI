@@ -1,26 +1,27 @@
 ---
-title: DNS-tietueiden päivittäminen Cloudflaressa
+title: DNS-tietueiden päivittäminen cloudflare-palvelun avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 73e143cbb62937ade55fe9f7fa260e0f897f8bb3
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 2faa5c37b57e4c49da2cdd212e1bebba76276eb1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657678"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>DNS-tietueiden päivittäminen Cloudflaressa
+# <a name="update-dns-records-at-cloudflare"></a>DNS-tietueiden päivittäminen cloudflare-palvelun avulla
 
-Seuraavien linkkien avulla voit päivittää DNS-tietueet.
+Alla olevien linkkien avulla voit päivittää DNS-tietueita.
 
-- [DNS-tietueiden luominen Cloudflaressa](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
+- [DNS-tietueiden luominen cloudflare-palvelun avulla](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
 - [Mukautettujen DNS-tietueiden lisääminen tai muokkaaminen Office 365:ssä](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

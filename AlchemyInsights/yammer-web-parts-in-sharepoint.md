@@ -1,46 +1,47 @@
 ---
-title: Yammer-www-osat SharePointissa
+title: Yammer-verkko-osat SharePointissa
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: 6868d7cdbbcc7d73e7e65fa0b0c954b4cba619ff
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198062"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664347"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Yammer-www-osat SharePointissa
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer-verkko-osat SharePointissa
 
-Yammer-keskustelut ja Yammer-korostukset parantavat yhteistyötä moderneilla ja klassisilla SharePoint-sivuilla. Lisätietoja on kohdassa [Yammer-keskustelut](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) ja [Yammerin kohokohdat](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
+Yammer-keskustelut ja Yammer-verkko-osat paran tavat yhteistyötä moderneissa ja klassisissa SharePoint-sivuissa. Lisä tietoja on kohdassa [Yammer-keskustelut](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  ja  [Yammer-korostukset](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
 
-Modernia Yammer-keskustelujen verkko-osaa päivitetään uuteen Yammer-kokemukseen, ja se on käytettävissä kohdennetuille julkaisuvuokralaisille. GA käyttöönotto on alkanut. Uusia ominaisuuksia ovat mahdollisuus aloittaa keskustelun tahansa postitse (Kysymykset, Gallupit, Kehua) ja merkitä parhaat vastaukset suoraan SharePoint. Lisätietoja on kohdassa [Yammerin uudet asiakasehdot ja usein kysytyt kysymykset](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+Modernia Yammer-keskusteluiden verkko-osaa päivitetään uuteen Yammer-kokemukseen, ja se on saatavilla kohdennetuille julkaisun vuokralaisille. GA-käyttöönotto on aloitettu. Uudet ominaisuudet sisältävät mahdollisuuden aloittaa keskustelun minkä tahansa viestin kanssa (kysymykset, kyselyt, kehut) ja merkitä parhaat vasta ukset suoraan SharePointista. Lisä tietoja on kohdassa [uudet Yammer-asiakas ehdot ja usein kysytyt kysymykset](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
 
- Lisätietoja siitä, mikä WWW-osa ja kokoonpano sopii sinulle, on [ohjeaiheessa Yammer-verkko-osan käyttäminen SharePoint Onlinessa](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
+ Jos haluat tietää, mikä verkko-osa ja kokoonpano on sopiva, Katso lisä tietoja artikkelista [Yammer-verkko-osan käyttäminen SharePoint Onlinessa](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
 
-**Www-osien käyttäminen SharePoint Serverin kanssa**  
+**Verkko-osien käyttäminen SharePoint Serverissä**  
 
-Web-osia voidaan käyttää nykyaikaisissa ja klassisissa sivuissa paikallisissa ympäristöissä.
+Verkko-osia voi käyttää moderneissa ja klassisissa sivuissa paikallisissa ympäristöissä.
 
-- Lisätietoja moderneista sivuista [on ohjeaiheessa Yammer-syötteen lisääminen sharepoint server 2019:n modernille sivulle](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
-- Lisätietoja klassisista sivuista [on ohjeaiheessa Yammer-syötteen lisääminen sharepoint-palvelinten 2013, 2016 ja 2019 perinteiselle sivulle](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
+- Lisä tietoja nykyaikaisista sivuista on Ohje aiheessa [Yammer-syötteen lisääminen moderniin sivuun SharePoint Server 2019: ssa](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
+- Lisä tietoja klassisista sivuista on Ohje aiheessa [Yammer-syötteen lisääminen perinteiseen sivuun SharePoint-palvelimissa 2013, 2016 ja 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
 
-**Yammerin upotus**  
+**Yammer-upotus**  
 
-Käytä Upota kokoonpano -työkalua upotamisen käytön testaamiseen. Upota-päivityksen tuleva päivitys mahdollistaa uuden Yammer-kokemuksen. Lisätietoja on [Yammer-upotusmääritystyökalussa](https://aka.ms/YammerEmbedConfigureTool). Lisätietoja Yammerin upotus-komponentista on [ohjeaiheessa Syötteen upottaminen](https://aka.ms/YammerDevDocs).
+Testaa upota käyttö käyttämällä upota määritys-työkalua. Uusi upotettava päivitys antaa uuden Yammer-käyttö kokemuksen. Lisä tietoja on [Yammer Embed-määritys työkalussa](https://aka.ms/YammerEmbedConfigureTool). Lisä tietoja Yammer-upotus osasta on Ohje aiheessa [syötteen upottaminen](https://aka.ms/YammerDevDocs).
 
 **Tunnetut ongelmat ja rajoitukset**
 
-- Ryhmätunnukset eivät ole käytettävissä uusista Yammerin URL-osoitteista, jotka ovat muuttuneet. Siirry takaisin perinteiseen tilaan ja hanki ryhmätunnukset tai muut tunnukset URL-osoitteista.
-- Mukautettuja (turhamaisuus) toimialueita ei tueta.
-- Yammer-upotus ei ole optimoitu mobiililaitteille. Käytä moderneja sivuja Yammer Keskustelut-verkko-osan avulla parhaan käyttökokemuksen saat.
-- Mukautetut teemat voivat vaikuttaa Yammer-keskustelut-verkko-osan ulkoasuun ja käytettävyyteen. Avaa tukitapaus ongelmien raportoimiseksi.
+- Ryhmä tunnukset eivät ole käytettävissä uusissa Yammer-URL-osoitteissa, jotka ovat muuttuneet. Siirry takaisin perinteiseen tilaan, jos haluat saada ryhmä tunnukset tai muut tunnukset URL-osoitteista.
+- Mukautettuja (turhamaisuus) toimi alueita ei voi tukea.
+- Yammer-upottamista ei ole optimoitu mobiililaitteille. Käytä nykyaikaisia sivuja Yammer Conversations-verkko-osassa parhaan käyttö kokemuksen takaamiseksi.
+- Mukautetut teemat voivat vaikuttaa Yammer-keskusteluiden verkko-osan ulkoasuun ja käytettävyyteen. Avaa tuki tapa, jos haluat raportoida ongelmista.

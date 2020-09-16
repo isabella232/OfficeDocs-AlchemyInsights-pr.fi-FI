@@ -1,38 +1,39 @@
 ---
-title: 'AIP: Portaalin seuraaminen ja peruuttaminen'
+title: 'AIP: portaalin seuranta ja peruuttaminen'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: 32cd346c9af145f733b0a62746a0ee1b632fa5ab
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357633"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663150"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: Portaalin seuraaminen ja peruuttaminen
+# <a name="aip-track-and-revoke-portal"></a>AIP: portaalin seuranta ja peruuttaminen
 
-Azure-portaalin **tiedostojen seurantasivuston** avulla voit seurata ja peruuttaa asiakirjoja Azure Information Protectionin avulla. Office-sovelluksia (Word, Excel ja PowerPoint) ja Resurssienhallintaa voidaan käyttää myös asiakirjojen seurantaan ja kumoamiseen.
+Käytä Azure-portaalin **asia kirjan seuranta-sivustoa** , jotta voit seurata ja kumota tiedostoja Azure Information Protectionin avulla. Office-sovelluksia (Word, Excel ja PowerPoint) ja Resurssienhallintaa voi käyttää myös tiedostojen seuraamiseen ja peruuttamiseen.
 
-1. Valitse asiakirjan seurantasivustossa **Peruuta käyttöoikeus**. Asiakirjan peruuttaminen poistaa käyttöoikeudet valtuutetuilta käyttäjiltä. asiakirjaa ei poisteta.
+1. Valitse asia kirjan seuranta-sivustossa **Peruuta käyttäminen**. Asia kirjan peruuttaminen poistaa käyttö oikeudet valtuutetuilta käyttäjiltä; tiedostoa ei poisteta.
 2. Office-sovelluksessa:
-    - Avaa suojattu asiakirja, jota haluat seurata tai peruuttaa.
-    - Valitse **Aloitus-välilehden** **Suojaus-ryhmästä** **Suojaa > seuraa ja peruuta**.
+    - Avaa suojattu asia kirja, jota haluat seurattavan tai kumota.
+    - Valitse **Aloitus** -väli lehden **Suojaus** -ryhmästä **suojaa > seuranta ja Kumoa**.
 
-- Lisätietoja asiakirjan seurannasta ja peruuttamisesta on kohdassa [Seuranta ja peruuttaminen](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Lisä tietoja asia kirjan seuran nasta ja peruuttamisesta on kohdassa [Jäljitä ja Peruuta](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-Lisätietoja PowerShellin käyttämisestä asiakirjan seurantasivuston hallintaan ja kirjaamisen tietoihin on seuraavissa ohjeissa:
-- [Käyttöopas: Seuraa ja peruuta asiakirjojasi, kun käytät Azure Information Protectionia](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Järjestelmänvalvojan opas: Asiakirjojen seurannan määrittäminen ja käyttäminen Azure Information Protectionissa](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Rights Managementin käyttölisenssi](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Azure Information Protection -tilausten ja -ominaisuuksien tarkasteleminen](https://azure.microsoft.com/pricing/details/information-protection)
-- [Azure-tietojen suojausta koskevat vaatimukset](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Azure Information Protectionin pika-aloitusopas](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Lisä tietoja asia kirjan seuranta-sivuston Hallin nasta PowerShellin avulla on loki tiedot-kohdassa:
+- [Käyttö opas: tiedostojen jäljittäminen ja peruuttaminen käytettäessä Azure Information Protectionin käyttöä](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Järjestelmänvalvojan opas: tiedostojen seurannan määrittäminen ja käyttäminen Azure Information Protectionin kanssa](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Oikeuksien hallinta käyttö oikeus](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Azure Information Protectionin pakettien ja ominaisuuksien tarkasteleminen](https://azure.microsoft.com/pricing/details/information-protection)
+- [Azure Information Protectionin vaatimukset](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Azure Information Protectionin Pika-aloitus opas](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

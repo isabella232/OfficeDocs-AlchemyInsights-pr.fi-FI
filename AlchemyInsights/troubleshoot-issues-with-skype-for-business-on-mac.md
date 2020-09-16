@@ -1,28 +1,29 @@
 ---
-title: Skype for Businessin Mac-versioon liittyvien ongelmien vianmääritys
+title: Skype for Businessin ongelmien vian määritys Mac-tieto koneessa
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 5062148ea5bb258cb7d122154d231164310df49d
-ms.sourcegitcommit: b9c57ee50d59189784dc57d70a235fe15a9ee6c7
+ms.openlocfilehash: 794ec70971fc2eff31047f8346284118eb9d6add
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46555088"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665031"
 ---
-# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Skype for Businessin Mac-versioon liittyvien ongelmien vianmääritys
+# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Skype for Businessin ongelmien vian määritys Mac-tieto koneessa
 
 Lisätietoja on seuraavissa artikkeleissa: 
 
-- Jotkin ominaisuudet, kuten Vastausryhmä-toiminnot tai Pysyvä keskustelu, eivät ehkä ole käytettävissä tai tuettuja Mac-ympäristössä. Varmista, että toiminnallisuutta tuetaan Mac-ympäristössä. Lisätietoja Mac-ominaisuuksien saatavuudesta on ohjeaiheessa Skype for Businessin ja [työpöytäsovelluksen mobiilikäyttöohjelmiston ominaisuuksien vertailu Skype for Businessissa](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). [Mobile client feature comparison for Skype for Business](https://technet.microsoft.com/library/Dn951412.aspx)
-- Jos Skype for Business Mac -sovelluksessa on kirjautumisongelma, varmista, että todennustopologia on tuettu. Lisätietoja tuetusta menetelmästä on ohjeaiheessa [Modernin todennuksen tukemat Skype for Business -topologiot](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- Jos nämä tiedot eivät vastaa kysymyksiisi, avaa tukipyyntö. Kerää mahdollisimman paljon tietoa ennen lipun avaamista. Voit esimerkiksi kerätä kaikki lokit ja virhesanomat. Jos haluat kerätä lokeja Macissa, siirry  **kohtaan SfB App**  >  **Preferences**  >  **Collect logs**.  Lokin tulisi sisältää mahdollisimman paljon yksityiskohtia kirjautumisesta epäonnistumispisteeseen.
+- Jotkin ominaisuudet, kuten vastaus ryhmän toiminnallisuus tai pysyvä keskustelu, eivät ehkä ole käytettävissä tai niitä ei voi tukea Mac-käyttö ympäristössä. Varmista, että Mac-käyttö ympäristö tukee toimintoa. Lisä tietoja Mac-ominaisuuksien käytettävyydestä on kohdassa [mobiilisovellusten vertailu Skype for Businessin](https://technet.microsoft.com/library/Dn951412.aspx) ja [Työpöytä sovelluksen ominaisuuksien vertailuun Skype for Businessissa](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison).
+- Jos kohtaat kirjautumisongelman Skype for Business Mac-sovelluksessa, varmista, että todennus topologiaa tuetaan. Lisä tietoja tuetuista menetelmistä on [nykyaikaisen todennuksen tukemissa Skype for Businessin topologioissa](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
+- Jos tämä tieto ei vastaa kysymyksiisi, avaa tuki pyyntö. Kerää mahdollisimman paljon tietoja ennen lipun avaamista. Kerää esimerkiksi kaikki lokit ja virhe sanomat. Jos haluat kerätä lokeja Mac-tieto koneessa, siirry  **SFB-sovelluksen**  >  **asetuksiin**  >  **keräämään lokeja**.  Lokissa pitäisi olla mahdollisimman paljon tietoja kirjautumisesta virhe pisteeseen.

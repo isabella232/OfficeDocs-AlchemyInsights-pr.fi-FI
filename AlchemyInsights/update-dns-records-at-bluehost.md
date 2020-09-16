@@ -1,26 +1,27 @@
 ---
-title: Dns-tietueiden päivittäminen Bluehostissa
+title: DNS-tietueiden päivittäminen Bluehost-palvelun avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: ceaa1901b2ab3cabd3df055815270d1c1471542f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707866"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657714"
 ---
-# <a name="update-dns-records-at-bluehost"></a>Dns-tietueiden päivittäminen Bluehostissa
+# <a name="update-dns-records-at-bluehost"></a>DNS-tietueiden päivittäminen Bluehost-palvelun avulla
 
-Seuraavien linkkien avulla voit päivittää DNS-tietueet.
+Alla olevien linkkien avulla voit päivittää DNS-tietueita.
 
-- [DNS-tietueiden luominen Bluehostissa](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [DNS-tietueiden luominen Bluehost-palvelun avulla](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
 - [Mukautettujen DNS-tietueiden lisääminen tai muokkaaminen Office 365:ssä](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
