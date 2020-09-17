@@ -1,31 +1,32 @@
 ---
-title: Microsoft 365 -tilauksen peruuttaminen
+title: Microsoft 365-tila uksen peruuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b53dc3017cb2a47b25e5c603dcbc5e76fb8dc675
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508301"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811843"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 -tilauksesi?
+# <a name="cancelling-your-microsoft-365-subscription"></a>Peruuttamalla Microsoft 365-tilauksesi?
 
-Olemme pahoillamme, että lähdet, mutta tässä on tilauksen peruutusvaihtoehdot:
+Valitettavasti et näe sinua, mutta voit peruuttaa tilauksesi seuraavien vaihto ehtojen avulla:
   
-- Jos olet kokeiluasiakas, mitään peruutettavaa ei ole. Kokeiluversiotilaukset vanhenevat automaattisesti, ellet anna maksutapaa.
+- Jos olet koeasiakas, mitään ei voi peruuttaa. Koekäyttö liittymä vanhenee automaattisesti, ellet anna maksu tapaa.
 
-- Jos sinulla on alle 25 määritettyä käyttöoikeutta, voit peruuttaa tilauksesi verkossa. Siirry **kohtaan Laskutus** \> **[tuotteesi](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Valitse **Asetukset & Toiminnot -osassa** **Peruuta tilaus**.
+- Jos sinulla on alle 25 määritettyä käyttö oikeutta, voit peruuttaa tilauksesi verkossa. Siirry kohtaan **laskutus** \> **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Valitse **Asetukset & toiminnot** -kohdassa **Peruuta tilaus**.
 
-- Jos sinulla on yli 25 määritettyä käyttöoikeutta, voit joko poistaa käyttäjiä, kunnes sinulla on alle 25, tai käyttää "Anna meidän soittaa sinulle" -vaihtoehdon avulla puhuaksesi tukihenkilölle.
+- Jos sinulla on yli 25 määritettyä käyttö oikeutta, voit joko poistaa käyttäjiä, kunnes sinulla on vähemmän kuin 25 tai käyttää "Soita meille"-vaihto ehtoa, jos haluat keskustella tuki henkilön kanssa.
 
-Lisätietoja on [ohjeaiheessa Tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
