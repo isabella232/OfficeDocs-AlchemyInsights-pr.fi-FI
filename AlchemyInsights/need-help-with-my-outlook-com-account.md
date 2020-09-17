@@ -1,29 +1,30 @@
 ---
-title: Tarvitsetko apua minun Outlook.com huomioon
+title: Tarvitsetko apua Outlook.com-tilini kanssa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288209"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803278"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Tarvitsetko apua minun Outlook.com huomioon
+# <a name="need-help-with-my-outlookcom-account"></a>Tarvitsetko apua Outlook.com-tilini kanssa
 
-Jos tarvitset apua Outlook.com-palvelun kanssa, meillä on oma apu auttaa sinua. Tuen saaminen suoraan verkkosovelluksessa: 
+Jos tarvitset apua Outlook.com-palvelussa, olemme omistautuneet auttamaan sinua. Tuen saaminen suoraan verkko sovellukseen: 
 
-1. Klikkaa ? -kuvaketta näytön oikeassa yläkulmassa. 
+1. Napsauta? -kuvake näytön oikeassa yläkulmassa. 
 
-2. Kirjoita, mitä tarvitset apua, ponnahduspaneelissa näkyvään ohjeruutuun ja valitse **Lähetä**. 
+2. Kirjoita tarvitsemasi ohjeet ohje-ruutuun, joka näkyy ponnahdus ikkunassa ja valitse **Lähetä**. 
 
-3. Jos ratkaisua ei esitetä, vieritä sivupaneelia alaspäin ja valitse **lähetä meille sähköpostia.**
+3. Jos ratkaisua ei ole esitetty, vieritä sivu paneelia alaspäin ja valitse **Lähetä meille sähkö postia**.

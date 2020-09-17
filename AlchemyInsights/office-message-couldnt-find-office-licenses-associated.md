@@ -1,24 +1,25 @@
 ---
-title: Microsoft 365 -sovellusten sanoma - Office-käyttöoikeuteen ei löytynyt liitettyjä käyttöoikeuksia
+title: Microsoft 365-sovellusten viesti-ei löytynyt Office-käyttö oikeuksia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581648"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802774"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 -sovellusten sanoma - Office-käyttöoikeuteen ei löytynyt liitettyjä käyttöoikeuksia
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-sovellusten viesti-ei löytynyt Office-käyttö oikeuksia
 
 Voit korjata ongelman toimimalla seuraavasti:
 
@@ -38,10 +39,10 @@ Jos ongelma jatkuu, kokeile seuraavaa:
 
 - Palauta Officen aktivoinnin tila. Katso [Palauta aktivointitila Microsoft 365 -yrityssovelluksille](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Tarkista palomuuri-, virustentorjuntaohjelmisto- ja välityspalvelinasetuksistasi, että ne eivät estä Microsoft 365 -sovelluksia käyttämästä Internetiä. 
+- Tarkista palo muurin, virustentorjuntaohjelman ja välitys palvelimen asetukset ja varmista, että ne eivät estä Microsoft 365-sovelluksia, jotka käyttävät Internetiä. 
 
 Lisätietoja vianmäärityksestä on seuraavissa artikkeleissa:
 
 [Ei käyttöoikeutta -virheet ja aktivointivirheet Officessa](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365:n URL-osoitteet ja IP-osoitealueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365-URL-osoitteet ja IP-osoite alueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

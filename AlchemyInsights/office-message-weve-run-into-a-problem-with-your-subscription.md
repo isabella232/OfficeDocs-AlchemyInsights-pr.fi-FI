@@ -1,24 +1,25 @@
 ---
-title: Microsoft 365 -sovellusten sanoma – Olemme törmänneet tilaukseesi liittyvässä ongelmassa
+title: Microsoft 365-sovellukset-viesti-olemme joutuneet paketissasi ongelmaksi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581552"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802702"
 ---
-# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 -sovellusten sanoma – Olemme törmänneet tilaukseesi liittyvässä ongelmassa
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365-sovellukset-viesti-olemme joutuneet paketissasi ongelmaksi
 
 - Jos olet hiljattain vaihtanut tilausta/pakettia, noudata ohjeita kohdassa [“Tili-ilmoitus” ilmestyy Officeen palvelupaketin vaihtamisen jälkeen](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) Officen päivittämistä tai uudelleenasennusta varten.
 

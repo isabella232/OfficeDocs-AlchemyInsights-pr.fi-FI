@@ -1,23 +1,24 @@
 ---
-title: Kuvan muuttaminen Outlook.com
+title: Vaihda kuva Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.custom:
 - "8000036"
 - "793"
-ms.openlocfilehash: 436cc95f9157b7ed2284d9f26cb54c14f553c52e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 9b3f884bc30f2d61bab47cacbf0188f05e00c343
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760697"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802450"
 ---
 # <a name="change-your-microsoft-account-picture"></a>Microsoft-tilin kuvan vaihtaminen
 
@@ -25,6 +26,6 @@ ms.locfileid: "43760697"
 2. Valitse **Vaihda kuva**.
 3. Valitse **Uusi kuva**.
 4. Valitse kuva, jota haluat käyttää, ja valitse **Avaa**.
-5. Vedä kuvaruutua tai muuta sen kokoa ja valitse **Tallenna**.
+5. Vedä kuvan ruutua tai muuta sen kokoa ja valitse **Tallenna**.
 
-Anna profiilikuvasi muutosten tulla voimaan jopa 24 tuntia.
+Ota käyttöön jopa 24 tuntia, ennen kuin profiilisi valo kuvaan tehdyt muutokset tulevat voimaan.
