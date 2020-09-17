@@ -1,58 +1,59 @@
 ---
-title: Arkistopostilaatikon ottaminen käyttöön
+title: Arkisto posti laatikon ottaminen käyttöön
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522732"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811702"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="688ae-102">Arkistopostilaatikon ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="688ae-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="fbd0a-102">Arkisto posti laatikon ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="fbd0a-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="688ae-103">Jos haluat meidän tekevän automaattisia tarkistuksia varmistaaksemme, että arkistopostilaatikko voidaan määrittää, valitse tämän sivun yläreunasta < takaisin-painike ja kirjoita sitten tilin sähköpostiosoite.</span><span class="sxs-lookup"><span data-stu-id="688ae-103">If you want us to run automated checks to ensure an archive mailbox can be configured, select the back button <-- at the top of this page, and then enter the email address of the account.</span></span>
+<span data-ttu-id="fbd0a-103">Jos haluat, että suoritat automaattiset tarkistukset varmistaaksesi, että Arkisto posti laatikko voidaan määrittää, valitse Edellinen-painike <--tämän sivun yläosassa ja kirjoita sitten tilin Sähkö posti osoite.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-103">If you want us to run automated checks to ensure an archive mailbox can be configured, select the back button <-- at the top of this page, and then enter the email address of the account.</span></span>
 
-<span data-ttu-id="688ae-104">Arkisto postilaatikot Microsoft 365 (kutsutaan myös *Online Archives* tai *In-Place Arkisto*) tarjota käyttäjille lisää sähköpostin varastointi.</span><span class="sxs-lookup"><span data-stu-id="688ae-104">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="688ae-105">Käyttäjät voivat siirtää tai kopioida kohteita arkistopostilaatikkoonsa, ja järjestelmänvalvojat voivat luoda arkistokäytännön, joka siirtää kohteet automaattisesti arkistopostilaatikoihin.</span><span class="sxs-lookup"><span data-stu-id="688ae-105">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
+<span data-ttu-id="fbd0a-104">Posti laatikoiden arkistoiminen Microsoft 365 (kutsutaan myös *online-arkistoihin* tai *in-Place-arkistoihin*) Lisää sähkö postin tallennus tilaa käyttäjille.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-104">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="fbd0a-105">Käyttäjät voivat siirtää tai kopioida kohteita Arkisto posti laatikkoon, ja järjestelmänvalvojat voivat luoda arkistointi käytäntöjä, jotka siirtävät kohteet automaattisesti Arkisto posti laatikoihin.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-105">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
   
-<span data-ttu-id="688ae-106">Voit luoda arkistopostilaatikon seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="688ae-106">Here's how to create an archive mailbox:</span></span>
+<span data-ttu-id="fbd0a-106">Voit luoda Arkisto posti laatikon seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="fbd0a-106">Here's how to create an archive mailbox:</span></span>
   
-1. <span data-ttu-id="688ae-107">Siirry osoitteeseen [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="688ae-107">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="fbd0a-107">Siirry osoitteeseen [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="fbd0a-107">Go to [https://protection.office.com](https://protection.office.com).</span></span>
 
-2. <span data-ttu-id="688ae-108">Kirjaudu Microsoft 365:lle järjestelmänvalvojan tililläsi.</span><span class="sxs-lookup"><span data-stu-id="688ae-108">Sign in to Microsoft 365 using your admin account.</span></span>
+2. <span data-ttu-id="fbd0a-108">Kirjaudu sisään Microsoft 365-tiliisi käyttämällä järjestelmänvalvojan tiliä.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-108">Sign in to Microsoft 365 using your admin account.</span></span>
 
-3. <span data-ttu-id="688ae-109">Valitse Tietoturvan yhteensopivuuskeskuksen vasemmasta ruudusta &amp; **Tietojen hallinta** \> **Arkisto**.</span><span class="sxs-lookup"><span data-stu-id="688ae-109">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
+3. <span data-ttu-id="fbd0a-109">Valitse tieto turva &amp; -yhteensopivuus keskuksen vasemmanpuoleisesta ruudusta **tietojen hallinta** - \> **Arkisto**.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-109">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
 
-4. <span data-ttu-id="688ae-110">Valitse käyttäjä, jonka arkistopostilaatikon haluat ottaa käyttöön.</span><span class="sxs-lookup"><span data-stu-id="688ae-110">Select the user whose archive mailbox you want to enable.</span></span>
+4. <span data-ttu-id="fbd0a-110">Valitse käyttäjä, jonka Arkisto posti laatikon haluat ottaa käyttöön.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-110">Select the user whose archive mailbox you want to enable.</span></span>
 
-5. <span data-ttu-id="688ae-111">Valitse oikeanpuoleisessa tietoruudussa **Ota käyttöön** ja ota arkistopostilaatikko käyttöön valitsemalla varoitusviestissä **Kyllä.**</span><span class="sxs-lookup"><span data-stu-id="688ae-111">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
+5. <span data-ttu-id="fbd0a-111">Valitse oikealla olevassa tieto ruudussa **Ota käyttöön** ja ota Arkisto posti laatikko käyttöön napsauttamalla varoitus viestissä **Kyllä** .</span><span class="sxs-lookup"><span data-stu-id="fbd0a-111">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="688ae-112">Voit myös ottaa arkistopostilaatikot käyttöön joukkoon valitsemalla useita käyttäjiä **(Vaihto-** tai Ctrl-näppäimillä) ja valitsemalla sitten **tietoruudussa Ota käyttöön.** **Ctrl**</span><span class="sxs-lookup"><span data-stu-id="688ae-112">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
+<span data-ttu-id="fbd0a-112">Voit myös ottaa Arkisto posti laatikot joukkona käyttöön valitsemalla useita käyttäjiä (käyttämällä **vaihto** -tai **CTRL** -näppäimiä) ja valitsemalla sitten tieto ruudussa **Ota käyttöön** .</span><span class="sxs-lookup"><span data-stu-id="fbd0a-112">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
   
-### <a name="shared-mailboxes"></a><span data-ttu-id="688ae-113">Jaetut postilaatikot</span><span class="sxs-lookup"><span data-stu-id="688ae-113">Shared mailboxes</span></span>
+### <a name="shared-mailboxes"></a><span data-ttu-id="fbd0a-113">Jaetut postilaatikot</span><span class="sxs-lookup"><span data-stu-id="fbd0a-113">Shared mailboxes</span></span>
 
-<span data-ttu-id="688ae-114">Jaetun postilaatikon arkiston käyttöönotto edellyttää Exchange Online -palvelupaketin 2 käyttöoikeutta tai Exchange Online -palvelupaketin 1 käyttöoikeutta, jolla on Exchange Online Archiving -käyttöoikeus.</span><span class="sxs-lookup"><span data-stu-id="688ae-114">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
+<span data-ttu-id="fbd0a-114">Jos haluat ottaa käyttöön arkiston jaetulle posti laatikolle, Exchange Online-tila uksen 2 käyttö oikeus tai Exchange Online-käyttö oikeus sopimus 1-lisenssi edellyttää Exchange Online-arkistointi käyttö oikeutta.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-114">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
 
-<span data-ttu-id="688ae-115">Jaetun postilaatikon arkiston ottaminen käyttöön:</span><span class="sxs-lookup"><span data-stu-id="688ae-115">To enable the archive for a shared mailbox:</span></span>
+<span data-ttu-id="fbd0a-115">Jos haluat ottaa käyttöön arkiston jaetulle posti laatikolle:</span><span class="sxs-lookup"><span data-stu-id="fbd0a-115">To enable the archive for a shared mailbox:</span></span>
 
-1. <span data-ttu-id="688ae-116">Siirry [Exchange-hallintakeskukseen](https://outlook.office365.com/ecp) ja kirjaudu sisään järjestelmänvalvojan tililläsi.</span><span class="sxs-lookup"><span data-stu-id="688ae-116">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
+1. <span data-ttu-id="fbd0a-116">Siirry Exchange- [hallinta keskukseen](https://outlook.office365.com/ecp) ja Kirjaudu sisään käyttämällä järjestelmänvalvojan tiliä.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-116">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
 
-2. <span data-ttu-id="688ae-117">Siirry **Jaettuihin vastaanottajiin**  >  **Shared**.</span><span class="sxs-lookup"><span data-stu-id="688ae-117">Go to **Recipients** > **Shared**.</span></span>
+2. <span data-ttu-id="fbd0a-117">Siirry **Recipients**  >  **jaettavat**vastaanottajat-kohtaan.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-117">Go to **Recipients** > **Shared**.</span></span>
 
-3. <span data-ttu-id="688ae-118">Valitse jaettu postilaatikko.</span><span class="sxs-lookup"><span data-stu-id="688ae-118">Select the shared mailbox.</span></span>
+3. <span data-ttu-id="fbd0a-118">Valitse jaettava posti laatikko.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-118">Select the shared mailbox.</span></span>
 
-4. <span data-ttu-id="688ae-119">Valitse oikealla olevan tietoruudun **In-Place Archive -kohdassa** **Ota käyttöön**ja ota arkistopostilaatikko käyttöön valitsemalla **Kyllä.**</span><span class="sxs-lookup"><span data-stu-id="688ae-119">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
+4. <span data-ttu-id="fbd0a-119">Valitse oikealla olevan tiedot **-ruudun kohta Arkisto**-kohdassa **Ota käyttöön**ja valitse sitten **Kyllä** , jos haluat ottaa Arkisto posti laatikon käyttöön.</span><span class="sxs-lookup"><span data-stu-id="fbd0a-119">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="688ae-120">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="688ae-120">For more information, see:</span></span>
+<span data-ttu-id="fbd0a-120">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="fbd0a-120">For more information, see:</span></span>
   
-- [<span data-ttu-id="688ae-121">Arkistopostilaatikoiden ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="688ae-121">Enable archive mailboxes</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
+- [<span data-ttu-id="fbd0a-121">Arkisto posti laatikoiden ottaminen käyttöön</span><span class="sxs-lookup"><span data-stu-id="fbd0a-121">Enable archive mailboxes</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [<span data-ttu-id="688ae-122">Arkisto- ja poistokäytännön määrittäminen</span><span class="sxs-lookup"><span data-stu-id="688ae-122">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [<span data-ttu-id="fbd0a-122">Arkistointi-ja poisto käytäntöjen määrittäminen</span><span class="sxs-lookup"><span data-stu-id="fbd0a-122">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
