@@ -1,27 +1,28 @@
 ---
-title: Kokouksen virallinen lopettaminen
+title: Koko uksen virallinen lopettaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 1d11e4421559aefd50638555d1309bfcae12d50f
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708653"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780416"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Kokouksen virallinen lopettaminen
+# <a name="how-to-formally-end-a-meeting"></a>Koko uksen virallinen lopettaminen
 
-Kokouksen järjestäjät voivat lopettaa kokouksen kaikille ryhmien kokouksen osallistujille valitsemalla kokouksen ohjausobjekteista **Lopeta kokous.**  
+Koko uksen järjestäjät voivat lopettaa koko uksen koko uksen osallistujille Teamsissa **valitsemalla koko uksen koko** uksen koko uksen aikana.  
 
-Jos haluat lopettaa kaikkien osallistujien keskeneräisen kokouksen, valitse kokouksen ohjausobjektit, valitse 3-pisteen kuvake ja napsauta Lopeta kokous. Sinua pyydetään vahvistamaan valintasi. Valinnan vahvistaminen lopettaa kokouksen kaikille.
+Jos haluat lopettaa käynnissä olevan koko uksen kaikille osallistujille, valitse koko uksen hallinta, valitse 3-piste-kuvake ja valitse sitten Lopeta kokous. Sinua pyydetään vahvistamaan valintasi. Kun vahvistat valintasi, Kokous lopetetaan kaikille.
 
-HUOMAUTUS: Vain kokouksen järjestäjä voi "lopettaa" kokouksen.
+Huomautus: vain koko uksen järjestäjä voi lopettaa koko uksen.

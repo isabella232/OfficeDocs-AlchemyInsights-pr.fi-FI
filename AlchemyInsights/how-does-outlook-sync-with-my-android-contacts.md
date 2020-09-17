@@ -1,33 +1,34 @@
 ---
-title: Miten Outlook synkronoituu Android-yhteystietojeni kanssa?
+title: Miten Outlook synkronoi Android-yhteys henkilöni kanssa?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 8a41923b7c3395c30414cbc39b74011c54267d78
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286093"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781352"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Miten Outlook synkronoituu Android-yhteystietojeni kanssa?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Miten Outlook synkronoi Android-yhteys henkilöni kanssa?
 
-Kun kirjoitat sähköpostiviestin Outlookissa, etsimme vastaanottajia sekä Android-osoitteistostasi että Outlook-osoitteistostasi. Lisäksi annamme sinulle mahdollisuuden synkronoida yhteystietoja sähköpostitileiltäsi Android-osoitteistoosi käytettäväksi muissa sovelluksissa. 
+Kun kirjoitat sähkö postia Outlookissa, etsimme vastaanottajien sekä Androidin osoite kirjasta että Outlook-osoitteistosta. Lisäksi annamme sinulle mahdollisuuden synkronoida yhteys tietoja Sähkö posti tileistäsi Android-osoitteistoon käytettäväksi muissa sovelluksissa. 
  
-**Voit ottaa tämän ominaisuuden käyttöön:**
+**Ota tämä toiminto käyttöön**seuraavasti:
  
-1. Valitse laitteessa **Asetukset**.
+1. Siirry laitteessa **Asetukset**-kohtaan.
 
-2. Napauta **Tilit -kohdassa**tiliä, jonka kanssa haluat synkronoida yhteystiedot.
+2. Valitse **tilit**-kohdassa tili, jonka kanssa haluat synkronoida yhteyshenkilöitä.
 
-3. Ota **Synkronoi yhteystiedot** -liukusäädin käyttöön.
+3. Siirrä **Synkronoi yhteys tiedot** -liuku säädin päälle.
  
-**Huomautus:** Kun yrität ottaa yhteystietojen synkronoinnin käyttöön Microsoft Outlook for Androidissa, jos **Synkronointiyhteystietojen** vaihtovaihtoehto on poistettu käytöstä, näyttöön saattaa tulla teksti, *Yhteystietojen synkronointi ei ole käytössä järjestelmäasetuksissa*. Tämä saattaa johtua siitä, että **Automaattinen synkronointi -asetus** on poistettu käytöstä järjestelmäasetuksissa. Voit korjata tämän ongelman ottamalla automaattisen synkronoinnin tiedot käyttöön **Android-järjestelmän** **asetukset**-valikon **Tilit-valikossa.** Tämä vaihtoehto löytyy yleensä pystysuuntaisesta kolmesta tai kolminkertaisesta palkista (-) ( **Tilit-valikko** voi olla eri sijainneissa laitteen ja Android-version mukaan. Useimmissa uudessa malleissa **tilejä** voi hakea **Asetukset -kohdasta.**
+**Huomautus**: kun yrität ottaa yhteys tietojen synkronoinnin käyttöön Microsoft Outlook for Androidissa, jos **Synkronoi yhteys tiedot** -vaihto ehto ei ole käytössä, näkyviin voi tulla teksti, jossa näkyy viestin yhteydessä *yhteys tietojen synkronointi ei ole käytössä järjestelmä asetuksissa*. Tämä voi johtua siitä, että **automaattisen synkronoinnin tiedot-** asetus on poistettu käytöstä järjestelmä asetuksissa. Jos haluat korjata ongelman, ota **automaattisen synkronoinnin tiedot** käyttöön Android-järjestelmän **Asetukset**-kohdan **Asiakkaat** -valikossa. Tämä asetus on yleensä pystysuuntaisessa ellipsi sovelluksessa (⋮) tai kolminkertaisessa palkissa (⫼). **Asiakkaat** -valikko voi olla eri paikoissa riippuen laitteen ja Android-version mallista. Useimmissa uusissa malleissa **tileissä** voi hakea **asetuksia**.

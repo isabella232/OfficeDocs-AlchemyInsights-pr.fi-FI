@@ -1,42 +1,43 @@
 ---
-title: VatID:n lisääminen tai muokkaaminen
+title: VatID-tiedoston lisääminen tai muokkaaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: b17b6f8bb75ac77ae012db70d16b4cc55b553ae5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46505146"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781172"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>VatID:n lisääminen tai muokkaaminen
+# <a name="how-to-add-or-edit-a-vatid"></a>VatID-tiedoston lisääminen tai muokkaaminen
 
-**Huomautus:** Jos olet maassa, joka käyttää arvonlisäveroa (ALV), kuten Iso-Britannia, Microsoft Laskutus laskee ALV:n puolestasi ja kohdistaa summan laskuihin. Lisätietoja on Euroopan komission julkaisemassa [VIES-vastuuvapauslausekkeessa.](https://go.microsoft.com/fwlink/p/?LinkID=841741)
+**Huomautus**: Jos olet maassa, joka käyttää arvon lisä VEROA (ALV), kuten Yhdistynyttä kuningas kuntaa, Microsoft-laskutus laskee arvon lisä veron puolestasi ja käyttää summaa laskuissasi. Lisä tietoja on kohdassa Euroopan komission julkaisema [VIES-vastuu vapaus lauseke](https://go.microsoft.com/fwlink/p/?LinkID=841741) .
 
-**VatID-tunnus:n lisääminen tai muokkaaminen**
+**VatID-tiedoston lisääminen tai muokkaaminen**
 
-1. Siirry Microsoft 365 -hallintakeskuksessa **Billing** \> [Laskutustuotteesi-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Siirry Microsoft 365-hallinta keskuksessa **laskutus** \> [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
 
-2. Etsi päivitettävän tilauksen tilauskortti.
+2. Etsi tilaus kortti tila uksesta, jonka haluat päivittää.
 
-3. Valitse **Asetukset & Toiminnot -osassa** **Muokkaa palvelun käyttöosoitetta**.
+3. Valitse **Asetukset & toiminnot** -osiossa **Muokkaa palvelun käyttö osoitetta**.
 
-4. Kirjoita **Muokkaa palvelun käyttöosoitetta -sivun** **ALV-tunnus ALV-numero** -ruutuun ja valitse sitten **Tallenna**.
+4. Kirjoita ALV-TUNNUKSESI **Muokkaa palvelun käyttö osoitetta** -sivulla **ALV-numero** -ruutuun ja valitse sitten **Tallenna**.
 
-    Kun olet valmis, seuraavaa laskuasi ei veloiteta arvonlisäverosta.
+    Kun olet valmis, ALV ei veloiteta seuraavasta laskusta.
 
-Lisätietoja on ohjeaiheessa [Mitä veroa Microsoft 365:stä veloitetaan?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
+Lisä tietoja on artikkelissa [mitä veroa veloitetaan Microsoft 365-ohjelman kautta?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
 
 **Lisäresurssit**
 
-[Lisää ALV-tunnuksesi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Lisää ALV-tunnus](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
