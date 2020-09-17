@@ -1,27 +1,28 @@
 ---
-title: Excelin pikasuodatuksen ongelma
-ms.author: chrsm
-author: chrsm
+title: Excelin Pikasuodatusongelma
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: 10566c6ddd69d1e1002193b09a070dcc1103d26f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714183"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783368"
 ---
-# <a name="excel-autofilter-issue"></a><span data-ttu-id="d66c2-102">Excelin pikasuodatuksen ongelma</span><span class="sxs-lookup"><span data-stu-id="d66c2-102">Excel AutoFilter issue</span></span>
+# <a name="excel-autofilter-issue"></a><span data-ttu-id="fa2d3-102">Excelin Pikasuodatusongelma</span><span class="sxs-lookup"><span data-stu-id="fa2d3-102">Excel AutoFilter issue</span></span>
 
-<span data-ttu-id="d66c2-103">Kun käytät Excel 2016:ta, jos avattava pikasuodatus ei näytä kaikkia käytettävissä olevia valintaruutuja tai jos valintaruutuja ei voi napsauttaa, se saattaa johtua tunnetusta excel-versioiden ongelmasta.</span><span class="sxs-lookup"><span data-stu-id="d66c2-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
+<span data-ttu-id="fa2d3-103">Jos Excel 2016-ohjelmassa ei näy Pikasuodatusavattavassa valikossa kaikkia käytettävissä olevia valinta ikkunoita tai valinta ruutua ei voi napsauttaa, syynä saattaa olla Excelin aiempien koonti versioiden tunnettu ongelma.</span><span class="sxs-lookup"><span data-stu-id="fa2d3-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
   
-<span data-ttu-id="d66c2-104">Tämä ongelma on nyt korjattu **versiossa 1707 (8326.2073)** tai uudemmassa.</span><span class="sxs-lookup"><span data-stu-id="d66c2-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="d66c2-105">Saat päivityksen heti avaamalla Excelin ja valitsemalla **File** \> **Account** \> **Update Options** \> Update **Now**.</span><span class="sxs-lookup"><span data-stu-id="d66c2-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="fa2d3-104">Tämä ongelma on nyt korjattu **versiossa 1707 (8326,2073)** tai uudemmassa.</span><span class="sxs-lookup"><span data-stu-id="fa2d3-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="fa2d3-105">Jos haluat, että päivitys tulee heti näkyviin, avaa Excel ja valitse **tiedosto** \> **tilin** \> **päivitys asetukset** - \> **päivitys nyt**.</span><span class="sxs-lookup"><span data-stu-id="fa2d3-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
