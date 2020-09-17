@@ -1,27 +1,28 @@
 ---
-title: Keskusteluhistoria Microsoft Teamsissa
+title: Keskustelu historia Microsoft Teamsissa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3b2821f1ad12db70d5c52cbd8d763fe8a3c9c397
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580582"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812436"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Keskusteluhistorian tarkasteleminen Microsoft Teamsissa
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Keskustelu historian tarkasteleminen Microsoft Teamsissa
 
-Jos haluat tarkastella Teamsin keskusteluhistoriaa, voit käyttää [Sisältöhakua](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [Tietoturva-& -yhteensopivuuskeskuksesta,](https://sip.protection.office.com/insightdashboard)jossa voit etsiä Microsoft 365 -ryhmään tai Microsoft-ryhmään liittyvästä postilaatikosta. 
+Jos haluat tarkastella teamsin keskustelu historiaa, voit käyttää [sisältö hakua](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [tieto turva-& yhteensopivuus keskuksesta](https://sip.protection.office.com/insightdashboard), jossa voit hakea Microsoft 365-ryhmään tai Microsoft-tiimiin liitettyä posti laatikkoa. 
 
-Lisätietoja hakuominaisuuksista on [ohjeaiheessa Microsoft Teams- ja Microsoft 365 -ryhmien](https://docs.microsoft.com/microsoft-365/compliance/content-search) etsiminen. 
+Lisä tietoja tieto turva-ja yhteensopivuus keskuksen haku toiminnoista on artikkelissa [Microsoft teamsin ja microsoft 365-ryhmien hakeminen](https://docs.microsoft.com/microsoft-365/compliance/content-search) . 
 
-**Huomautus:** Keskusteluhistorian varmuuskopioiminen, vieminen, tulostaminen ja arkistointi ei ole tällä hetkellä suoraan microsoft Teamsin käytettävissä. Ole hyvä ja äänestää tästä valmiudesta [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Huomautus:** Keskustelu historian varmuus kopiointia, vientiä, tulostamista ja arkistointia ei tällä hetkellä ole saatavilla suoraan Microsoft Teamsista. Ole hyvä ja äänestä tätä ominaisuutta [uservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)-sovelluksessa. 
