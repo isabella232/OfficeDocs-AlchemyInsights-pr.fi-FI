@@ -1,10 +1,11 @@
 ---
-title: SPF:n määrittäminen
+title: SPF-asetusten määrittäminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509417"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795565"
 ---
-# <a name="set-passwords-to-never-expire"></a>Salasanojen määrittäminen vanhenemaan ei koskaan
+# <a name="set-passwords-to-never-expire"></a>Sala sanojen asettaminen ei vanhene koskaan
 
-Jos haluat asettaa KAIKKI salasanat vanhentumaan, siirry Microsoft 365 -hallintakeskuksessa **Asetukset**  >  [Suojauksen &amp; tietosuoja](https://portal.office.com/adminportal/home#/settings/security) -sivulle. Valitse **Salasanakäytäntö-kohdan**vierestä **Muokkaa** ja ota liukusäädin **käyttöön**.
+Jos haluat, että kaikki Sala sanat eivät vanhene koskaan, siirry Microsoft 365-hallinta keskuksessa **Asetukset**-  >  [tieto &amp; suoja](https://portal.office.com/adminportal/home#/settings/security) -sivulle. Valitse **Muokkaa** **salasana käytäntöä**-kohdan vierestä ja käännä liuku säädin **käytössä**-asentoon.
   
-Lisätietoja on seuraavissa ohjeissa: 
+Tarkempia tietoja on kohdassa: 
 
-- [Määritä organisaation salasanan vanhentumiskäytäntö.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Voit säätää organisaation Sala sanan vanhenemis käytäntöä.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Salasanan määrittäminen vanhenemaan koskaan tietyille käyttäjille](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Sala sanan määrittäminen tietyille käyttäjille ei vanhene koskaan](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Salasanan on täytettävä monimutkaisuusvaatimukset](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Sala sanan on vastattava monimutkaisuus vaatimuksia](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
