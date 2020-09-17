@@ -1,32 +1,33 @@
 ---
-title: Poista käyttäjä tili Windows 10-käyttö liittymässä
+title: 'Poista käyttäjä tili Windows 10: ssä'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 2cb95fc0c202d4bbec361531b8234a50bbdcfa2a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738531"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801325"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Tilin poistaminen Windows 10-sovelluksen kautta
+# <a name="remove-an-account-in-windows-10"></a>Tilin poistaminen Windows 10: ssä
 
-Voit poistaa tilin Windows 10: stä
+Näin voit poistaa tilin Windows 10: stä.
 
-1. Valitse **Aloitus** > **Asetukset** > **-tili** > **perhe & muut henkilöt** (tai **Muut ihmiset**, jos käytät Windows 10 Enterprisen).
-2. Valitse poistettava tili, valitse **Poista**ja valitse sitten **Poista tili ja tiedot**.
+1. Siirry kohtaan **Käynnistä**  >  **Asetukset**  >  **tili**  >  **perhe & muut henkilöt** (tai **Muut henkilöt**, jos käytössäsi on Windows 10 Enterprise).
+2. Valitse tili, jonka haluat poistaa, valitse **Poista**ja valitse sitten **Poista tili ja tiedot**.
  
-**Huom:** Et voi poistaa tiliä, johon olet tällä hetkellä kirjautuneena.  Jos sinun on korvattava tili, johon olet kirjautuneena:
+**Huomautus:** Et voi poistaa tiliä, johon olet kirjautuneena.  Jos sinun on korvattava tili, johon olet kirjautunut, toimi seuraavasti:
 
 1. Lisää uusi käyttäjä tili.
-2. Tee uudesta käyttäjä tilistä järjestelmänvalvoja tieto koneessa.
-3. Poista vanha käyttäjä tili. Kun poistat käyttäjä tilin, kaikki kyseiseen käyttäjään liittyvät asetukset, tiedostot ja tiedot menetetään pysyvästi. [Varmuuskopioi kaikki, mitä haluat tallentaa, toimimalla](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore)seuraavasti.
+2. Luo uusi käyttäjä tili tieto koneen järjestelmänvalvojaksi.
+3. Poista vanha käyttäjä tili. Kun poistat käyttäjä tilin, menetät pysyvästi kaikki kyseiseen käyttäjään liittyvät asetukset, tiedostot ja tiedot. [Varmuuskopioi kaikki tiedot, jotka haluat tallentaa, noudattamalla näitä ohjeita](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).

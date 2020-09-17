@@ -5,22 +5,23 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: cd281c5f503e5e7f7d4d4012183c173316b7e364
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 97466d2505cccecb2087f15b1df97a5d46868b72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235438"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800461"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Tunnistetietoviestit SharePointissa tai OneDrivessa
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Tunniste tietojen viestit SharePointissa tai OneDrivessa
 
-Office saattaa ajoittain pyytää käyttäjiä antamaan SharePoint Onlinen tai OneDriven tunnistetiedot, kun he yrittävät avata tiedostoja.
+Office voi ajoittain pyytää käyttäjiä antamaan tunniste tiedot SharePoint Onlineen tai OneDriveen yrittäessään avata tiedostoja.
 
-Jos sinulla on näitä oireita, kokeile [tässä artikkelissa](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)olevia ohjeita.
+Jos kohtaat näitä ongelmia, kokeile [tässä artikkelissa](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)annettuja ohjeita.
 
-Vaihtoehtoisesti jos käytät kertakirjautumista (SSO) todennukseen, tutustu tämän artikkelin sijaan [tähän artikkeliin.](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10)
+Jos käytössäsi on kertakirjautuminen (SSO), voit käyttää todennusta myös [tässä artikkelissa](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) .
