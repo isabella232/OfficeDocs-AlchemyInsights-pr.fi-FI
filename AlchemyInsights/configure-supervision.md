@@ -1,33 +1,34 @@
 ---
-title: Määritä valvonta
+title: Valvonnan määrittäminen
 ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507763"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807512"
 ---
-# <a name="configure-supervision-policies"></a>Valvontakäytäntöjen määrittäminen
+# <a name="configure-supervision-policies"></a>Valvonta käytäntöjen määrittäminen
 
-Microsoft 365:n valvontakäytäntöjen avulla voit valvoa organisaation sisällä ja sen ulkopuolella lähetettyjä Exchange-sähköpostiviestejä, Skype for Business Onlinea, Microsoft Teameja ja kolmannen osapuolen viestintää. Nimetyt tarkistajat voivat tarkastella valvottuja viestejä varmistaakseen, että ne ovat organisaatiosi käytäntöjen, riskienhallinnan ja säädösten mukaisuuden standardien mukaisia, ja ratkaista ne luokitustyypillä.
+Microsoft 365-valvonta käytäntöjen avulla voit valvoa Exchange-sähkö postia, Skype for Business Online-, Microsoft teams-ja 3rd Party-viestejä, jotka on lähetetty organisaation sisä-ja ulkopuolelta. Nimetyt tarkistajat voivat tarkastaa Seuratut viestit varmistaakseen, että ne ovat organisaatiosi käytäntöjen, riskin hallinnan ja säädösten mukaisia, ja ratkaisemaan ne luokittelu tyypin avulla.
 
-Jos haluat käyttää organisaatiosi valvontakäytäntöjä, sinun on
+Jos haluat käyttää organisaatiosi valvonta käytäntöjä, sinun on tehtävä seuraavat toimet:
 
-- Määritä seurattava tietoliikenne.
-- Päätä, kuka suorittaa viestinnän tarkistuksen.
-- Asetusten valvonnan käytännöt
+- Määrit valvoa tieto liikennettä.
+- Päätä, ketkä suorittavat tiedon välityksen tarkistuksen.
+- Valvonta käytäntöjen määrittäminen
 
 Opi lisää:
 
-- [Yleiskatsaus valvontakäytäntöihin](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Valvontakäytäntöjen määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Yleistä valvonta käytännöistä](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Valvonta käytäntöjen määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: 1679f1b0452314395c5067b326f6b753f9baa84e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 857af422c77fbb719c120951314d21160f0fa1b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912147"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807332"
 ---
 # <a name="what-are-groups"></a>Mitä ryhmät ovat?
 
-Microsoft 365 -ryhmien avulla voit valita joukon henkilöitä, joiden kanssa haluat tehdä yhteistyötä, ja määrittää helposti resurssikokoelman, jonka avulla kyseiset henkilöt voivat jakaa. Sinun ei tarvitse huolehtia käyttöoikeuksien manuaalisesta määrittämisestä kaikille näille resursseille, koska jäsenten lisääminen ryhmään antaa heille automaattisesti oikeudet, joita he tarvitsevat ryhmän tarjoamiin työkaluihin. Lisäksi ryhmät ovat uusi ja parannettu kokemus siitä, mitä käytimme jakeluluetteloiden tai jaettujen postilaatikoiden käyttämiseen.  Lisätietoja [on ohjeaiheessa Lisätietoja Microsoft 365 -ryhmistä.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 
+Microsoft 365-ryhmien avulla voit valita joukko henkilöitä, joiden kanssa haluat tehdä yhteistyötä, ja määrittää helposti resursseja, jotka jaetaan muille käyttäjille. Sinun ei tarvitse huolehtia käyttö oikeuksien manuaalisesta määrittämisestä kaikkiin näihin resursseihin, koska jäsenten lisääminen ryhmään antaa hänelle automaattisesti käyttö oikeudet, jotka he tarvitsevat ryhmäsi työkaluihin. Lisäksi ryhmät ovat uusi ja parannettu käyttö kokemus siitä, mitä käytimme jakamis luetteloiden tai jaettujen posti laatikoiden käyttämiseen.  Lisä tietoja on artikkelissa tietoja [Microsoft 365-ryhmistä](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
