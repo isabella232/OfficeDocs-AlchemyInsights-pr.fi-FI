@@ -1,37 +1,38 @@
 ---
-title: Yrityksen varastointiyksikköjen postilaatikon koon suurentaminen
+title: Kasvata yrityksen posti laatikon kokoa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1af9775706a6e40aaed8f23b67a9329efe841090
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508769"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778220"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Mitä tehdä, jos postilaatikon koko on jo 100 Gt
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Toiminta tapa, jos posti laatikon koko on jo 100GB
 
-E3- tai E5-suunnitelman avulla postilaatikon koko on jo 100 Gigatavua, eikä sitä voi suurentaa. Poista sen sijaan vanha sähköposti tai ota sähköpostin arkistointi käyttöön, jotta se voidaan tallentaa pilveen. 
+Jos käytössäsi on E3-tai E5-tilaus, posti laatikon koko on jo 100 Giga tavua, eikä sitä voi enää suurentaa. Poista sen sijaan vanha Sähkö posti tai ota sähkö postin arkistointi käyttöön, jotta voit tallentaa sen pilvi palveluun. 
   
-Sähköpostin arkistoinnin ottaminen käyttöön:
+Sähkö postin arkistoinnin ottaminen käyttöön:
   
-1. Siirry Microsoft 365 -hallintakeskuksessa **Exchange-hallintakeskuksiin** \> **Exchange**. 
+1. Siirry Microsoft 365-hallinta keskuksessa kohtaan **hallinta keskusten** \> **Exchange**. 
     
-2. Valitse **Recipients** \> **Vastaanottajat-postilaatikot**ja valitse postilaatikko. 
+2. Valitse **vastaanottajat** \> - **Posti laatikot**ja valitse sitten posti laatikko. 
     
-3. Valitse **In-Place Archive**-kohdan tietoruudussa **Ota käyttöön**. 
+3. Valitse tieto ruudun **Arkisto-** kohdassa **Ota käyttöön**. 
     
-4. Muutaman minuutin kuluttua käyttäjän Outlookin verkkoversiossa tai Online Archive - - *Outlook-sovelluksessa,* jonka nimi on *Online Archive - \<name\> * , näkyy uusi kansio. Käyttäjä voi vetää ja pudottaa sähköpostia arkistoon. 
+4. Muutaman minuutin kuluttua uusi kansio näkyy käyttäjän Outlookin verkko versiossa, jonka nimi on *Arkisto* , tai Outlook-sovelluksessa, jonka nimi on *Online- \<name\> Arkisto* . Käyttäjä voi vetää ja pudottavat sähkö postit arkistoon. 
     
-Voit käyttää rajoittamatonta tallennustilaa arkistointia varten. Lisätietoja on [ohjeaiheessa Rajoittamattoman arkistoinnin ottaminen käyttöön](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Voit käyttää arkistointia varten rajoittamatonta tallennus tilaa. Lisä tietoja on artikkelissa [rajoittamattoman arkistoinnin ottaminen käyttöön](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 

@@ -1,40 +1,41 @@
 ---
-title: Sovelluskäyttöoikeuksien hallinta
+title: Sovellusten käyttö oikeuksien hallinta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063866"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778148"
 ---
-# <a name="manage-app-licenses"></a>Sovelluskäyttöoikeuksien hallinta
+# <a name="manage-app-licenses"></a>Sovellusten käyttö oikeuksien hallinta
 
-## <a name="to-change-license-quantity"></a>Käyttöoikeuden määrän muuttaminen
+## <a name="to-change-license-quantity"></a>Käyttö oikeus määrän muuttaminen
 
-1. Siirry **Tuotteiden laskutus**  >  **[-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse **sitten Sovellukset-välilehti.**
-
-2. Etsi ja valitse sovellus, jota haluat hallita.  
-
-3. Valitse **Lisää tai poista käyttöoikeuksia**.
-
-4. Anna tarvittava uusi käyttöoikeuksien määrä. Jos sinulla on esimerkiksi tällä hetkellä viisi käyttöoikeutta ja tarvitset vain 4, kirjoita **Yhteensä käyttöoikeudet** -ruutuun 4. Jos sinulla on tällä hetkellä 5 lisenssiä ja tarvitset 10 yhteensä lisenssejä, kirjoita 10 **Yhteensä käyttöoikeudet** laatikko.
-
-## <a name="to-assign-app-licenses"></a>Sovelluskäyttöoikeuksien määrittäminen
-
-1. Siirry **Tuotteiden laskutus**  >  **[-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse **sitten Sovellukset-välilehti.**
+1. Siirry **laskutus**  >  **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle ja valitse sitten **sovellukset** -väli lehti.
 
 2. Etsi ja valitse sovellus, jota haluat hallita.  
 
-3. Valitse **Asetukset & toiminnot**-kohdassa **Publisherin portaalin Hallinta-linkki**.
+3. Valitse **Lisää tai poista käyttö oikeuksia**.
+
+4. Anna uusi tarvittavien käyttö oikeuksien määrä. Jos sinulla on tällä hetkellä esimerkiksi viisi käyttö oikeutta ja tarvitset vain 4, kirjoita **Kaikki käyttö oikeudet** -ruutuun 4. Jos sinulla on tällä hetkellä viisi käyttö oikeutta ja sinulla on 10 käyttö oikeutta, kirjoita **Total lisenssit** -ruutuun 10.
+
+## <a name="to-assign-app-licenses"></a>Sovelluksen käyttö oikeuksien määrittäminen
+
+1. Siirry **laskutus**  >  **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle ja valitse sitten **sovellukset** -väli lehti.
+
+2. Etsi ja valitse sovellus, jota haluat hallita.  
+
+3. Valitse **Asetukset & toiminnot**-kohdassa **Publisherin portaalissa hallittavat**linkit.

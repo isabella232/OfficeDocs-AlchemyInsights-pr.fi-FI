@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 67c52866f683c6d14171ac8e96b82f75d821017a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063830"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778184"
 ---
 # <a name="manage-recurring-billing"></a>Toistuvan laskutuksen hallinta
 
-Voit ottaa toistuvan laskutuksen käyttöön tai poistaa sen käytöstä Microsoft 365 -hallintakeskuksessa.
+Voit ottaa toistuvan laskutuksen käyttöön tai poistaa sen käytöstä Microsoft 365-hallinta keskuksessa.
   
-1. Siirry hallintakeskuksessa **Billing** \> **[Laskutus tuotteet -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry hallinta keskuksessa **laskutus** \> **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle.
 
-2. Valitse **Laskutus -kohdan** **Uusi uusiminen** - tai **Vanheneminen -kohdassa** **Muokkaa**.
+2. Valitse **laskutus**-kohdan uudis-tai **päättyy**- **kohdan** vieressä **Muokkaa**.
 
-3. Poista käytöstä valitsemalla **Toistuvat laskutusasetukset** -ruudussa **Poista** käytöstä. Jos toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **Kuukausittain** tai **Kerran.**
+3. Valitse **Toistuva laskutus asetukset** -ruudussa **Poista** käytöstä, jos haluat poistaa sen käytöstä. Jos Toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **kuukausi** tai **kerran** .
 
 4. Valitse **Lähetä muutos**.
 

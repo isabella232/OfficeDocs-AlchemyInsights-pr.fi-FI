@@ -1,35 +1,36 @@
 ---
-title: Käyttöoikeuspyyntöjen hallinta
+title: Hallitse oikeus pyyntöjä
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579718"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778316"
 ---
-# <a name="manage-access-requests"></a>Käyttöoikeuspyyntöjen hallinta
+# <a name="manage-access-requests"></a>Hallitse oikeus pyyntöjä
 
-Kun käyttäjä yrittää käyttää kohdetta SharePointissa eikä hänellä ole oikeuksia, hän näkee viestin, että hänellä on kohteen käyttöoikeus. Käyttäjä voi pyytää käyttöoikeutta (joissakin tapauksissa tiettyyn kohteeseen tai liittyä ryhmään) ja sivuston omistaja voi hyväksyä tai hylätä pyynnön. Jos joku, joka ei ole sivuston omistaja, jakaa sivuston toisen henkilön kanssa, sivuston omistaja saa myös käyttöoikeuspyynnön uudelle käyttäjälle. Käyttöoikeuspyyntöjen hyväksyminen tai hylkääminen:
+Kun käyttäjä yrittää käyttää kohdetta SharePointissa ja hänellä ei ole käyttö oikeutta, hän näkee viestin, jossa hän tarvitsee kohteen käyttö oikeuden. Käyttäjä voi pyytää käyttö oikeutta (joissain tapa uksissa tiettyyn kohteeseen tai ryhmään liittymistä) ja sivuston omistaja voi hyväksyä tai hylätä pyynnön. Jos henkilö, joka ei ole sivuston omistaja, jakaa sivuston toisen henkilön kanssa, sivuston omistaja saa myös uuden käyttäjän käyttö oikeus pyynnön. Voit hyväksyä tai hylätä tapaamis pyyntöjä seuraavasti:
   
-1. Siirry sivustoon, napsauta oikeassa yläkulmassa olevaa Asetukset-kuvaketta ja valitse sitten **Sivuston asetukset**. (Jos sivuston asetukset eivät näy, valitse **Sivuston käyttöoikeudet**ja valitse sitten **Käyttöoikeuksien lisäasetukset**. Etsi banneri, jossa on linkki nimeltä "Näytä käyttöoikeuspyynnöt ja kutsut.")
+1. Siirry sivustoon, napsauta oikeassa yläkulmassa olevaa asetukset-kuvaketta ja valitse sitten **sivuston asetukset**. (Jos et näe sivuston asetuksia, valitse **sivuston käyttö oikeudet**ja valitse sitten **lisä käyttö oikeus asetukset**. Etsi banneri, jossa on linkki "Näytä käyttö oikeus pyynnöt ja kutsut".
     
-2. Valitse **Käyttäjät ja käyttöoikeudet**-kohdasta **Käyttöoikeuspyynnöt ja -kutsut**. (Jos tämä ei tule näkyviin, käyttöoikeuspyyntöjä ei ole tehty.)
+2. Valitse **käyttäjät ja käyttö oikeudet**-kohdassa **käyttö oikeus pyynnöt ja kutsut**. (Jos tämä ei ole näkyvissä, mitään tuki pyyntöjä ei ole tehty.)
     
-3. Jos haluat antaa käyttäjälle käyttöoikeudet erikseen, valitse **Hyväksy** tai **Hylkää**. Jos haluat valita tietyn käyttöoikeustason, napsauta ensin henkilön nimen vieressä olevaa kolmea pistettä (...). Voit myös lisätä käyttäjän ryhmään, jolla on sivuston käyttöoikeudet. Viestintäsivustoissa ja klassisissa ryhmäsivustoissa voit tehdä tämän Sivuston asetukset -sivulla. Jos sivusto kuuluu Microsoft 365 -ryhmään, voit lisätä käyttäjän ryhmään.
+3. Jos haluat antaa käyttäjälle käyttö oikeuden yksitellen, valitse **Hyväksy** tai **Hylkää**. Jos haluat valita tietyn käyttö oikeus tason, napsauta ensin henkilön nimen vieressä olevaa kolmea pistettä (...). Voit myös lisätä käyttäjän ryhmään, jolla on sivuston käyttö oikeudet. Voit tehdä tämän sivuston asetukset-sivulla, kun käytät viestintä sivustoja ja klassisia ryhmä sivustoja. Jos kyseessä on Microsoft 365-ryhmään kuuluva sivusto, voit lisätä käyttäjän ryhmään.
     
-    [Käyttöoikeuspyyntöjen hallinta](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Hallitse oikeus pyyntöjä ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Lisätietoja käyttöoikeustasoista](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Lisä tietoja käyttö oikeus tasoista](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

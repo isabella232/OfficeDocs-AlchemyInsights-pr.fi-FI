@@ -1,11 +1,12 @@
 ---
-title: MSA-Outlook.com
+title: Outlook.com MSA-vedokset
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745898"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776915"
 ---
-# <a name="security-info-and-security-codes"></a>Suojaustiedot ja turvakoodit
+# <a name="security-info-and-security-codes"></a>Tieto turva tiedot ja turva koodit
 
-Suojaustietojen lisääminen Microsoft-tiliisi:
+Tieto turva tietojen lisääminen Microsoft-tiliin:
 
-1. Kirjaudu [Suojaus-perusasioihin](https://account.microsoft.com/security) Microsoft-tililläsi.
-1. Valitse **Suojausyhteystiedot**.
-1. Valitse **Lisää suojaustiedot** ja anna puhelinnumero tai sähköpostiosoite noudattamalla ohjeita.
-1. Saat suojauskoodin kyseiseen puhelinnumeroon tai sähköpostiosoitteeseen. Kirjoita saamasi suojauskoodi **Lisää suojaustiedot** -ikkunaan ja valitse **Seuraava**.
+1. Kirjaudu sisään [turvallisuussyistä](https://account.microsoft.com/security) Microsoft-tililläsi.
+1. Valitse **turva yhteys tiedot**.
+1. Valitse **Lisää tieto turva tiedot** ja anna Puhelin numero tai sähkö posti osoite noudattamalla ohjeita.
+1. Saat turva koodin kyseiseen Puhelin numeroon tai sähkö posti osoitteeseen. Kirjoita saamasi turva koodi **Lisää tieto turva tiedot** -ikkunaan ja valitse **Seuraava**.
 
-Jos haluat poistaa puhelinnumeron tai sähköpostiosoitteen, valitse sen vierestä **Poista.**
+Jos haluat poistaa puhelin numeron tai sähkö posti osoitteen, valitse sen vierestä **Poista** .
 
-Jos haluat muuttaa, mikä puhelinnumero tai sähköpostiosoite vastaanottaa suojaushälytyksiä, valitse **Muuta hälytysasetuksia**.
+Jos haluat muuttaa sitä, mikä Puhelin numero tai sähkö posti osoite vastaanottaa turva hälytyksiä, valitse **Muuta ilmoitus asetuksia**.
 
-Lisätietoja on ohjeaiheessa [Microsoft-tilin suojaustiedot ja vahvistuskoodit](https://support.microsoft.com/help/12428/).
+Jos haluat lisä tietoja, Lue [Microsoft-tilin tieto turva tiedot ja vahvistus koodit](https://support.microsoft.com/help/12428/).
