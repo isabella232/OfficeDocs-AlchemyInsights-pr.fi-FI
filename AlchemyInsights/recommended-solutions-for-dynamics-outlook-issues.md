@@ -1,9 +1,10 @@
 ---
-title: Suositellut ratkaisut Dynamics 365 varastointia ongelmat
+title: Dynamics 365-tallennus ongelmien suositellut ratkaisut
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 7ab6d5b4ba468505b22ce5a4258cc962e9e3a268
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: c1abfd5a5f52e1a4ec77f319375dfe2cf53f76a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753180"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801469"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="91d94-102">Suositellut ratkaisut Dynamics 365 varastointia ongelmat</span><span class="sxs-lookup"><span data-stu-id="91d94-102">Recommended solutions for Dynamics 365 storage issues</span></span>
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="683a1-102">Dynamics 365-tallennus ongelmien suositellut ratkaisut</span><span class="sxs-lookup"><span data-stu-id="683a1-102">Recommended solutions for Dynamics 365 storage issues</span></span>
 
-* [<span data-ttu-id="91d94-103">App: Hakutuloksia ei palauteta liittyy haku</span><span class="sxs-lookup"><span data-stu-id="91d94-103">App: No search results returned in Regarding lookup</span></span>](https://support.microsoft.com/help/4489111)
+* [<span data-ttu-id="683a1-103">Sovellus: haku tuloksia ei palauteta koskien hakua</span><span class="sxs-lookup"><span data-stu-id="683a1-103">App: No search results returned in Regarding lookup</span></span>](https://support.microsoft.com/help/4489111)
 
-* [<span data-ttu-id="91d94-104">App: Virhesanoma tulee näyttöön avattaessa Outlook App</span><span class="sxs-lookup"><span data-stu-id="91d94-104">App: Error appears when opening App for Outlook</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [<span data-ttu-id="683a1-104">Sovellus: virhe tulee näkyviin, kun avaat Outlookin sovelluksen</span><span class="sxs-lookup"><span data-stu-id="683a1-104">App: Error appears when opening App for Outlook</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [<span data-ttu-id="91d94-105">App: Sähköpostiviesti tai tapaaminen näkyy ”radan odottava”</span><span class="sxs-lookup"><span data-stu-id="91d94-105">App: Email or appointment shows as "Track Pending"</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [<span data-ttu-id="683a1-105">Sovellus: Sähkö posti tai tapaamiset-kohta näytetään "Jäljitä keskeneräiset"-tilassa</span><span class="sxs-lookup"><span data-stu-id="683a1-105">App: Email or appointment shows as "Track Pending"</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [<span data-ttu-id="91d94-106">App: Tyhjä sivu tulee näyttöön avattaessa Outlook App</span><span class="sxs-lookup"><span data-stu-id="91d94-106">App: Blank page appears when opening App for Outlook</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [<span data-ttu-id="683a1-106">Sovellus: tyhjä sivu tulee näkyviin, kun Outlookin sovellus avataan</span><span class="sxs-lookup"><span data-stu-id="683a1-106">App: Blank page appears when opening App for Outlook</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [<span data-ttu-id="91d94-107">Koko asiakas: Ei saa yhteyttä D365 Outlookin versio 8.x, 9.x D365 version esiintymään</span><span class="sxs-lookup"><span data-stu-id="91d94-107">Full Client: Can't connect D365 for Outlook version 8.x to a version 9.x D365 instance</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [<span data-ttu-id="683a1-107">Täysi asiakas: D365 ei voi yhdistää Outlook-versioon 8. x versioon 9. x D365-esiintymään</span><span class="sxs-lookup"><span data-stu-id="683a1-107">Full Client: Can't connect D365 for Outlook version 8.x to a version 9.x D365 instance</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [<span data-ttu-id="91d94-108">Koko asiakas: ”odottaa sivu haetaan CRM server...” näyttöön tulee</span><span class="sxs-lookup"><span data-stu-id="91d94-108">Full Client: "Waiting for a page to be retrieved from a CRM server..." message appears</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [<span data-ttu-id="683a1-108">Täysi asiakas: "odottaa, että sivu noudetaan CRM-palvelimesta..." viesti tulee näkyviin</span><span class="sxs-lookup"><span data-stu-id="683a1-108">Full Client: "Waiting for a page to be retrieved from a CRM server..." message appears</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [<span data-ttu-id="91d94-109">Koko asiakas: Diagnosoida ongelmia Outlook D365</span><span class="sxs-lookup"><span data-stu-id="91d94-109">Full Client: Diagnose D365 for Outlook issues</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [<span data-ttu-id="683a1-109">Täysi asiakas ohjelma: D365 for Outlook-ongelmien vian määritys</span><span class="sxs-lookup"><span data-stu-id="683a1-109">Full Client: Diagnose D365 for Outlook issues</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [<span data-ttu-id="91d94-110">App: D365 App vianmääritys Outlook</span><span class="sxs-lookup"><span data-stu-id="91d94-110">App: Troubleshooting D365 App for Outlook</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [<span data-ttu-id="683a1-110">Sovellus: Outlookin D365-sovelluksen vian määritys</span><span class="sxs-lookup"><span data-stu-id="683a1-110">App: Troubleshooting D365 App for Outlook</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [<span data-ttu-id="91d94-111">App: Ottamisesta</span><span class="sxs-lookup"><span data-stu-id="91d94-111">App: How to deploy</span></span>](https://go.microsoft.com/fwlink/p/?linkid=857071)
+* [<span data-ttu-id="683a1-111">Sovellus: käyttöönotto</span><span class="sxs-lookup"><span data-stu-id="683a1-111">App: How to deploy</span></span>](https://go.microsoft.com/fwlink/p/?linkid=857071)
 
-* [<span data-ttu-id="91d94-112">App: Käyttöopas</span><span class="sxs-lookup"><span data-stu-id="91d94-112">App: User Guide</span></span>](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [<span data-ttu-id="683a1-112">Sovellus: käyttö opas</span><span class="sxs-lookup"><span data-stu-id="683a1-112">App: User Guide</span></span>](https://go.microsoft.com/fwlink/p/?linkid=857091)
