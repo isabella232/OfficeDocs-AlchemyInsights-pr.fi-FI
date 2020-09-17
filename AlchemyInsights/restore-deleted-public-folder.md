@@ -5,35 +5,36 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: cd85dd3c0eb14f6e02ac4f912e733468403387aa
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158496"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774528"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Poistetun yleisen kansion palauttaminen
 
-**Poistettujen kohteiden palauttaminen yleisestä kansiosta:**
+**Poistettujen kohteiden palauttaminen julkisesta kansiosta**:
 
-- Lisätietoja [on ohjeaiheessa Poistettujen kohteiden palauttaminen outlook 2016:n muusta kuin sähköpostin yleisestä kansiosta](https://aka.ms/pfrec)ei voi palauttaa.
+- Katso [, ettet voi palauttaa poistettuja kohteita muusta kuin sähkö postin julkisesta kansiosta Outlook 2016: ssä](https://aka.ms/pfrec).
  
-**Poistetun yleisen kansion palauttaminen (minkä tahansa tyyppinen)**: 
+**Poistetun yleisen kansion (minkä tahansa tyypin) palauttaminen**: 
 
-- Käytä seuraavaa EXO PowerShell -komentoa:
+- Käytä seuraavaa EXO PowerShell-komentoa:
 
-    Syntaksi:
+    Syntaksi
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Esimerkki: Seuraava komento palauttaa Alikansion1 ja sijoittaa sen \Parent1:n alle:
+    Esimerkki: seuraava komento palauttaa Subfolder1 ja sijoittaa sen \Parent1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Lisätietoja on ohjeaiheessa [Poistetun yleisen kansion palauttaminen.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder)
+Lisä tietoja [on kohdassa poistetun julkisen kansion palauttaminen](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .

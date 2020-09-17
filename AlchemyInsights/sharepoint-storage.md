@@ -1,10 +1,11 @@
 ---
-title: SharePoint-tallennustila
+title: SharePoint-tallennus tila
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,26 +13,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512623"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773736"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online -tallennustilan hallinta
+# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online-tallennus tilan hallinta
 
-Lue, miten [vuokraajan tallennustila lasketaan](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) palvelupakettisi perusteella.
+Katso, miten [vuokra ajan tallennus tila lasketaan](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) palvelu paketin perusteella.
 
-Useimmissa organisaatioissa SharePoint-tallennustilaa hallitaan automaattisesti, joten sivustokokoelman rajoituksia ei tarvitse asettaa.
+Useimmat organisaatiot voivat hallita SharePoint-tallennus tilaa automaattisesti, joten sinun ei tarvitse asettaa rajoituksia sivustokokoelmaa kohden.
 
-Tietoja [organisaation tallennustilan ja käytettävissä olevan tallennustilan tarkastelemisesta](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+Opi, miten voit [tarkastella organisaatiosi kokonaistallennustilaa ja käytettävissä olevaa tallennus tilan määrää](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
 
-Tietoja [yksittäisten sivustokokoelman tallennusrajojen hallinnasta](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+Opi [hallitsemaan sivustokokoelman yksittäisiä tallennus rajoituksia](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
 
-Jos sivustosi tila on lopussa tai haluat tietää, mikä kirjasto tai luettelo käyttää tilaa, siirry **sivuston asetusten**  >  **tallennusmuuttujiin** (Sivustokokoelman järjestelmänvalvojan oikeudet ovat pakollisia).
+Jos sivustosi tila ei riitä tai haluat tietää, mikä kirjasto tai luettelo käyttää tilaa, siirry kohtaan **sivuston asetusten**  >  **tallennus** tilan tiedot (pakollinen sivustokokoelman järjestelmänvalvojien käyttö oikeudet).
 
-Tietoja [sivuston tallennusrajojen valvonnasta PowerShellin avulla](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Opettele [tarkkailemaan sivuston tallennus tilan rajoituksia PowerShellin avulla](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
 
-Opi [ostamaan ylimääräistä tallennustilaa](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+Opi [ostamaan lisää tallennus tilaa](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
   

@@ -1,40 +1,41 @@
 ---
-title: Tilauksen tila
+title: Tila uksen tila
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063218"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773484"
 ---
-# <a name="subscription-status"></a>Tilauksen tila
+# <a name="subscription-status"></a>Tila uksen tila
 
-Tilauksen tila on Microsoft 365 -hallintakeskuksen **Tuotteet-sivulla.**
+Tila uksen tila löytyy Microsoft 365-hallinta keskuksen **Omat tuotteet** -sivulta.
 
-1. Siirry **kohtaan Laskutus**  >  **[tuotteesi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Siirry kohtaan **laskutus**  >  **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Jos jonkin tilauksen tilassa on ongelma, tilauksen vieressä näkyy joko punainen varoituskuvake tai tilauksen tietojen Laskutus-osiossa "vanhentunut" tai "poistettu käytöstä".
+2. Jos jonkin tila uksen tilana on ongelma, tila uksen vieressä näkyy joko punaista varoitus kuvaketta tai tila uksen tietojen laskutus-osan "vanhentunut" tai "poistettu käytöstä".
 
-3. Jos haluat aktivoida vanhentuneen tai käytöstä poistetun tilauksen uudelleen, valitse **Aktivoi uudelleen nyt**.
+3. Jos haluat aktivoida vanhentuneen tai käytöstä poistetun tila uksen uudelleen, valitse **Aktivoi uudelleen nyt**.
 
-**Vanhentumispäivä**
+**Vanhentumis päivä**
 
-1. Siirry **kohtaan Laskutus**  >  **[tuotteesi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Siirry kohtaan **laskutus**  >  **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Näkymän mukaan vanhentumispäivämäärä näkyy oikeassa reunassa olevassa sarakkeessa, jonka nimi on **Päivämäärä,** tai Tilauksen tietojen **Laskutus-osassa** **Kohdassa Vanheneminen käytössä**.
+2. Sen mukaan, mitä näkymää on kulunut, vanhentumis päivämäärä tulee näkyviin oikeassa reunassa olevaan sarakkeeseen, jonka nimi on **päivä määrä** tai tila uksen tiedot-kohdan **laskutus** **-osassa.**
 
 **Lisenssit**
 
-Ostettujen ja käytössä olevien käyttöoikeuksien määrä näkyy tilauksesi mukaan **Sinun tuotteet -sivulla.**
+Ostettujen ja käytössä olevien käyttö oikeuksien määrä näkyy tilaus-kohdassa **Omat tuotteet** -sivulla.
 
