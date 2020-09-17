@@ -1,29 +1,30 @@
 ---
-title: Päivitä Microsoft Teamsin täysversioon
+title: Päivitä Microsoft teamsin täysversioon
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766526"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808344"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="fbfdf-102">Päivitä Microsoft Teamsin täysversioon</span><span class="sxs-lookup"><span data-stu-id="fbfdf-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="a225b-102">Päivitä Microsoft teamsin täysversioon</span><span class="sxs-lookup"><span data-stu-id="a225b-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="fbfdf-103">Haluatko päivittää maksuttomasta Microsoft Teamsin täysversioon?</span><span class="sxs-lookup"><span data-stu-id="fbfdf-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="fbfdf-104">Katso [Microsoft Teamsin maksuttoman microsoft 365 -tilausversion päivittäminen](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="fbfdf-104">See [Upgrade Microsoft Teams free to Microsoft 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
+<span data-ttu-id="a225b-103">Haluatko päivittää Microsoft teamsin ilmaisesta täydellisestä versiosta?</span><span class="sxs-lookup"><span data-stu-id="a225b-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="a225b-104">Katso [Microsoft teamsin päivittäminen microsoft 365-tilaus versioon](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="a225b-104">See [Upgrade Microsoft Teams free to Microsoft 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
 
-<span data-ttu-id="fbfdf-105">Sinun on täytettävä seuraavat vaatimukset:</span><span class="sxs-lookup"><span data-stu-id="fbfdf-105">You'll need to meet these requirements:</span></span>
+<span data-ttu-id="a225b-105">Sinun on täytettävä seuraavat vaatimukset:</span><span class="sxs-lookup"><span data-stu-id="a225b-105">You'll need to meet these requirements:</span></span>
 
-- <span data-ttu-id="fbfdf-106">Olet henkilö, joka on rekisteröitynyt Teamsin nykyiseen ilmaiseen versioon.</span><span class="sxs-lookup"><span data-stu-id="fbfdf-106">You're the person who signed up for the current free version of Teams.</span></span>
-- <span data-ttu-id="fbfdf-107">Jos sinulla on oma toimialue, sitä ei voi vielä liittää Azure Active Directoryyn.</span><span class="sxs-lookup"><span data-stu-id="fbfdf-107">If you have your own domain, it can't already be associated with Azure Active Directory.</span></span>
-- <span data-ttu-id="fbfdf-108">Jos haluat siirtää tietoja päivityksen yhteydessä, sinun on tilattava päivityksen aikana.</span><span class="sxs-lookup"><span data-stu-id="fbfdf-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="fbfdf-109">Jos ostit tilauksen päivitysprosessin ulkopuolella, et voi siirtää tietoja.</span><span class="sxs-lookup"><span data-stu-id="fbfdf-109">If you bought a subscription outside of the upgrade process, you can't transfer data.</span></span>
+- <span data-ttu-id="a225b-106">Olet henkilö, joka on rekisteröitynyt teamsin nykyiseen ilmaiseen versioon.</span><span class="sxs-lookup"><span data-stu-id="a225b-106">You're the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="a225b-107">Jos sinulla on oma toimi alue, sitä ei voi jo yhdistää Azure Active Directoryyn.</span><span class="sxs-lookup"><span data-stu-id="a225b-107">If you have your own domain, it can't already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="a225b-108">Jos haluat siirtää tietoja päivitettäessä, sinun on tilattava päivitys prosessin aikana.</span><span class="sxs-lookup"><span data-stu-id="a225b-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="a225b-109">Jos ostit tila uksen päivitys prosessin ulkopuolelta, et voi siirtää tietoja.</span><span class="sxs-lookup"><span data-stu-id="a225b-109">If you bought a subscription outside of the upgrade process, you can't transfer data.</span></span>
