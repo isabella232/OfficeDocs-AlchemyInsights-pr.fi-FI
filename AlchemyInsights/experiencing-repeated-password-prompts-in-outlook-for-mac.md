@@ -1,26 +1,27 @@
 ---
-title: Koet toistuvat salasanakehotteet Outlook for Macissa?
-ms.author: v-crytho
+title: Ilmeneminen toistuvasti salasana kehotteita Outlook for Macissa?
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 63dfac8c97246082ceaa4c532b4aba82596e5ffa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c70d9b41d8905f668c8c413f298f61588ca8b9e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702951"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783008"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Koet toistuvat salasanakehotteet Outlook for Macissa?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Ilmeneminen toistuvasti salasana kehotteita Outlook for Macissa?
 
-Voimme auttaa tarjoamaan erikoistuneempia Outlook for Mac -ohjeita suoraan sovelluksesta.
+Voimme auttaa sinua entistä erikoistuneempia Outlook for Mac-ohjeita suoraan sovelluksesta.
   
-Siirry haavoittuvuuden sisältävään käyttäjän Maciin, avaa Outlook ja valitse **Ohje** \> **Ota yhteyttä tukeen**.
+Siirry haavoittuvuuden sisältävään käyttäjän Mac-tieto koneessa, avaa Outlook ja valitse **Ohje** \> **Ota yhteyttä tukeen**.
   
-Lisätietoja Outlook for Macin sovelluksen asiakastuen käyttämisestä on tässä artikkelissa: [Outlook 2016 for Macin uusi ota yhteyttä tukeen -ominaisuus](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Lisä tietoja Outlook for Macin Sovelluskohtaisen asiakas tuen käyttämisestä on tässä artikkelissa: [Uusi ota yhteyttä tukeen-toiminto outlook 2016 for Macissa](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 
