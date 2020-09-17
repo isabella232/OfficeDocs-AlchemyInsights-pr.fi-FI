@@ -1,49 +1,50 @@
 ---
-title: XLS-tiedosto ei avaudu kaksoisnapsautuksella
+title: XLS-tiedostoa ei avattu Kaksoisnapsautettaessa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530744"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796321"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-tiedosto ei avaudu
+# <a name="excel-file-doesnt-open"></a>Excel-tiedosto ei aukea
 
-Kokeile jotakin näistä ehdotuksista:
+Kokeile jotain seuraavista ehdotuksista:
 
-**Valitse oletus arvona Excel**
+**Excelin valitseminen oletukseksi**
 
-* Napsauta hiiren kakkos painikkeella laskenta taulukkoa, valitse **Avaa**ja valitse sitten **Excel**
+* Napsauta laskenta taulukkoa hiiren kakkos painikkeella, valitse **Avaa**ja valitse sitten **Excel** .
 
-**Suorita Nopea korjaus**
+**Suorita pikakorjaus**
 
 1. Siirry **ohjaus paneeliin > ohjelmat > ohjelmat ja toiminnot**.
 
-2. Valitse korjattava Office-tuote ja valitse sitten **Muuta**.
+2. Valitse Office-tuote, jonka haluat korjata, ja valitse sitten **Muuta**.
 
 3. Valitse **pikakorjaus** -vaihto ehto ja valitse sitten **Korjaa**.
 
-**Poista Office-versioita, joita et käytä**
+**Ei käytössä olevan Office-version asennuksen poistaminen**
 
-1. Siirry **ohjaus paneeliin > Poista ohjelman asennus**ja valitse sitten Officen versio, jonka haluat poistaa.
+1. Siirry **ohjaus paneeliin > Poista ohjelma**ja valitse sitten poistettava Office-versio.
 
 2. Valitse **Poista asennus**.
 
 3. Käynnistä tieto kone uudelleen.
 
-**Suorita tämä vian määritys ja määritä Officen tiedosto Tunnisteet avaamaan Officessa**
+**Suorita tämä vian määritys, jos haluat asettaa Office-tiedosto päätteet avattua Officessa**
 
-1. Suorita tämä vian määritys https://aka.ms/diag_officefile:.
+1. Suorita tämä vian määritys: https://aka.ms/diag_officefile .
 
-2. Selaimesta riippuen **Avaa** tai **Tallenna** vian määritys työpöydälle ja **Suorita** se sitten.
+2. **Avaa** tai **Tallenna** vian määritys selaimen mukaan työpöydälle ja **Suorita** se sitten.

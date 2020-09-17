@@ -1,33 +1,34 @@
 ---
-title: Profiilitietojen päivittäminen tai kuvan muuttaminen
+title: Profiili tietojen päivittäminen tai oman kuvan vaihtaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720098"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796933"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Profiilitietojen päivittäminen tai kuvan muuttaminen
+# <a name="update-my-profile-information-or-change-my-picture"></a>Profiili tietojen päivittäminen tai oman kuvan vaihtaminen
 
-Tällä hetkellä profiilitietoja ei voi muokata ja päivittää suoraan Outlook for iOS:stä, mutta näitä tietoja voi muokata muualla. 
+Tällä hetkellä profiili tietoja ei voi muokata ja päivittää suoraan iOS:n Outlook-sovelluksessa, mutta näitä tietoja voi muokata myös muualla. 
 
-Voit päivittää profiiliasi joko Outlook for Windowsissa tai Outlookin verkkoversiossa (OWA). 
+Voit tehdä profiiliisi päivityksiä joko Outlook for Windowsissa tai Outlookin verkko versiossa (OWA). 
 
-**Outlook for Windows**: Outlook in Windows - 
+**Outlook for Windows**: 
 
-- **File** > **Office Account** > **Käyttäjätiedot** > **Tietoja minusta** (tuo sinut Microsoft 365-profiiliin verkossa) > **Päivitysprofiili** tai napsauta kamerakuvaketta muuttaaksesi valokuvaasi  
+- **Tiedosto**  >  **Office-tili**  >  **Käyttäjä tiedot**  >  **Tietoja minusta** (tuo näyttöön Microsoft 365-profiili verkossa) > **Päivitä profiili** tai napsauta kameran kuvaketta, jos haluat muuttaa valo kuvaasi  
   
-**Outlookin Verkkoversio (OWA)**: 
+**Outlookin verkko versio (OWA)**: 
 
-- **Profiilikuva** > **Oma profiili** > **Päivitysprofiili**
+- **Profiili kuva**  >  **Oma profiili**  >  **Päivitä profiili**

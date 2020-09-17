@@ -1,29 +1,30 @@
 ---
-title: Palvelutapahtuma käynnissä
-ms.author: v-crytho
+title: Palvelu häiriö käynnissä
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 8f3cc2d96e981edf4f573d4a5c2ceb9750d11367
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719607"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799057"
 ---
-# <a name="service-incident-in-progress"></a>Palvelutapahtuma käynnissä
+# <a name="service-incident-in-progress"></a>Palvelu häiriö käynnissä
 
-Sinua saattaa vaikuttaa parhaillaan tutkittava palvelutapahtuma tai neuvonta. Voit tarkistaa viimeisimmän tilan palvelun [kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulta.
+Sinulla voi olla palvelu häiriö tai neuvo, jota tutkitaan parhaillaan. Voit tarkistaa uusimman tilan siirtymällä [palvelun kunto](https://admin.microsoft.com/adminportal/home#/servicehealth) -sivulle.
   
-Löydät yhteenvedon tästä tapauksesta alla:
+Löydät tästä tapahtumasta yhteenvedon seuraavasti:
   
-> **Tapahtuman numero:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Tapahtuma numero:**[{incidendend}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
-> Vaikutuskuvaus: {ImpactDescription}
+> Vaikutus kuvaus: {IMPAC Tdescription}
