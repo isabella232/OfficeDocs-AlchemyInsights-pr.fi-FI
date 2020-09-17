@@ -1,22 +1,23 @@
 ---
-title: Kysymyksiä sisään- ja uloskuittaustiedostoista
+title: Kysymyksiä tiedostojen sisäänkuittauksesta ja uloskirjautumisesta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 3e744c70e890e63890a0488e73dcf5bca4e4e54c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 784b4c3e3375930a9391b4665f245f30a4567fe5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698307"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811932"
 ---
-# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="7677a-102">Kysymyksiä sisään- ja uloskuittaustiedostoista</span><span class="sxs-lookup"><span data-stu-id="7677a-102">Questions about check in and out files</span></span>
+# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="d4a68-102">Kysymyksiä tiedostojen sisäänkuittauksesta ja uloskirjautumisesta</span><span class="sxs-lookup"><span data-stu-id="d4a68-102">Questions about check in and out files</span></span>
 
-<span data-ttu-id="7677a-103">Lisätietoja usein kysytyistä kysymyksistä, kuten tiedostojen sisään- ja uloskirjautumisesta sekä uloskuittauksen hylkäämisestä SharePoint Onlinessa, on [ohjeaiheessa Uloskuittaamiseen ja uloskuittaamiseen liittyvät kysymykset.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="7677a-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="d4a68-103">Jos haluat tarkastella usein kysyttyjä kysymyksiä, kuten tiedostojen kuittausta sisään ja ulos, ja miten voit hylätä uloskuittauksen SharePoint Onlinessa, Katso lisä tietoja kohdasta [uloskuittaus ja sisäänkuittaus.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="d4a68-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
   
 
