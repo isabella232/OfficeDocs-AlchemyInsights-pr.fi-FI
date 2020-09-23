@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676987"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236122"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Ongelmat kirjautumisessa Microsoft 365-sovelluksiin
 
@@ -25,6 +25,8 @@ Jos haluat korjata kirjautumisongelmat Microsoft 365-sovelluksissa, kokeile seur
 
 - Windowsissa on ohjeet [yleisten kirjautumisongelmien ratkaisemiseen](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) .
 - Katso lisä tietoja artikkelista  [Kirjautuminen Office 2016 for Mac-sovellukseen ei onnistu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Vinkki** Windows-koneilla voimme diagnosoida ja korjata automaattisesti useita tavallisia Officen kirjautumisongelmia. Lataa ja suorita  **[Microsoftin tuki-ja palautus avustaja](https://aka.ms/SaRA-OfficeSignInScenario)** , jotta voit käyttää automaattista työkalua.
 
 **Huomautus:** Modernin todentamisen (ADAL) tai verkko tilin hallinnan (WAM) poistamista käytöstä kirjautumis-tai aktivointi ongelmien korjaamiseksi ei  **suositella**. Jos virhe ilmenee, kun muodostat yhteyden Microsoft 365-palveluun Office 2013-sovelluksen avulla, varmista, että olet [ottanut käyttöön modernin todentamisen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  Office-asiakas ohjelmassa.
 
