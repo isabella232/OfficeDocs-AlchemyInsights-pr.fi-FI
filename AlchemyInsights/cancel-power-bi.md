@@ -2,7 +2,7 @@
 title: Power BI:n peruuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683471"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287171"
 ---
 # <a name="cancel-power-bi"></a>Power BI:n peruuttaminen
 
-Power BI voidaan peruuttaa **Microsoft 365-hallinta keskuksessa**.  
+Power BI voidaan peruuttaa Microsoft 365-hallinta keskuksessa.
 
-1. Siirry **laskutus > [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) ** -sivulle.
-
-2. Etsi Power BI-tilaus, jonka haluat peruuttaa.
-
-3. Valitse **Peruuta tilaus**.
+1. Siirry hallinta keskuksessa **laskutus > [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) ** -sivulle.
+2. Etsi **tuotteet** -väli lehdestä tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
+3. Valitse **Peruuta tilaus** -ruudussa syy, miksi peruutat peruutuksen. Voit myös antaa palautetta.
+4. Valitse **Tallenna**.
 
 **Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.**
 
-**Huomautus**: Jos et näe Peruuta-vaihto ehtoa, saat lisä tietoja valitsemalla tila uksen ja näet **Peruuta tilaus** -vaihto ehdon kohdassa **Asetukset & toiminnot**.
+> [!NOTE]
+> Jos et näe Peruuta-vaihto ehtoa, voit tarkastella tiedot-sivua valitsemalla tila uksen. Valitse **tilaus-ja maksu asetukset** -osiossa **Peruuta tilaus**.
 
 Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

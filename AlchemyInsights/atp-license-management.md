@@ -1,8 +1,8 @@
 ---
 title: Advanced Threat Protectionin käyttö oikeuksien hallinta
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715378"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287099"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Advanced Threat Protectionin käyttö oikeuksien hallinta
 
 Office 365 Advance Threat Protectionin (ATP) käyttö oikeuksien hallinta voidaan suorittaa  **Microsoft 365-hallinta keskuksessa**.
 
-- Jos haluat ostaa Office 365 Advance Threat Protectionin, siirry kohtaan **laskutuksen**  >  [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433), valitse lisä **osat-** sivu **muista luokista, jotka saattaisivat kiinnostaa sinua**, valitse ostettava Advanced Threat Protectionin palvelu sopimus ja valitse sitten niiden käyttäjien määrä, jotka käyttävät Advanced Threat Protectionin suojausta. Lisä tietoja on kohdassa [Purchase-tilaus](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Jos haluat määrittää Office 365-ennakko uhkien suojaus käyttö oikeuksia, siirry kohtaan **laskutus**  >  **käyttö oikeudet**. Lisä tietoja on kohdassa  [käyttö oikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Jos haluat lisätä tai poistaa käyttö oikeuksia Office 365 Advance Threat Protectionin, siirry kohtaan **laskutus**  >  **tuotteistasi**, Etsi tilaus, johon haluat lisätä tai poistaa käyttö oikeuksia, ja valitse **Lisää tai poista käyttö oikeuksia**.  
-- Lisä tietoja on Ohje aiheessa [käyttö oikeuksien lisääminen tai poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)Business-tila uksesta.
+- Jos haluat ostaa Office 365 Advance Threat Protectionin, toimi seuraavasti:
+    1. Siirry kohtaan **laskutuksen**  >  [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433).
+    2. Valitse sivun alareunasta **lisä osat**.
+    3. Valitse **Osta palveluita** -sivulla haluamasi Advanced Threat Protectionin palvelu sopimus, anna niiden käyttäjien määrä, jotka tarvitsevat käyttö oikeutta, ja valitse sitten **Kuittaa ulos nyt**. Lisä tietoja on Ohje aiheessa [apuohjelman ostaminen](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Jos haluat määrittää Office 365-ennakko uhkien suojaus käyttö oikeuksia, siirry kohtaan **laskutus**  >  **käyttö oikeudet**. Lisä tietoja on kohdassa [käyttö oikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Jos haluat lisätä tai poistaa käyttö oikeuksia Office 365 Advance Threat Protectionin kautta, siirry kohtaan **laskutus**  >  **tuotteistasi**. Valitse tilaus, jonka haluat päivittää, ja valitse sitten **Osta käyttö oikeuksia** tai ***Poista käyttö oikeuksia**. Lisä tietoja on Ohje aiheessa [tilaus käyttö oikeuksien ostaminen tai poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

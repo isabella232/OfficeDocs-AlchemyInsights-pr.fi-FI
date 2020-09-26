@@ -2,7 +2,7 @@
 title: Tilaus tiedot
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,29 +14,25 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: dcf016e451cf1d88484578b9bc250fdf2ee11624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737590"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286991"
 ---
 # <a name="subscription-information"></a>Tilaus tiedot
 
-Saat lisä tietoja omistamasi tila uksista siirtymällä **laskutus** \> **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle.
+Saat lisä tietoja omistamasi tila uksista siirtymällä **laskutus** \> [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
   
-Kunkin tila uksen tärkeimmät tiedot:
+Taulukko sisältää seuraavat kunkin tila uksen tärkeimmät tiedot:
   
-- Kunkin tila
-
-- Käyttö oikeudet ostettu
-
+- Tuotteen nimi
 - Määritetyt käyttö oikeudet
-
-- Toistuva laskutus tila
-
-- Saldo
-
+- Käyttö oikeudet ostettu
+- Tila
+- Uusimis-tai vanhentumis päivä
 - Maksu tapa
-
-- Seuraava laskutus-tai erääntymis päivä
+- Laskutus tili (tarvittaessa)
+ 
+Jos haluat lisätä tai poistaa sarakkeita, valitse **Valitse sarakkeet**.
