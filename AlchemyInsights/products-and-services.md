@@ -1,8 +1,8 @@
 ---
 title: Omat tuotteet
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799237"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307015"
 ---
 # <a name="your-products"></a>Omat tuotteet
 
-Löydät organisaatiosi omistamat tila uksia **laskutus**  >  **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulla. Seuraavassa on lueteltu tämän sivun Koho kohtia sekä linkkejä, joiden avulla saat lisä tietoja kustakin ominaisuudesta:
+Löydät organisaatiosi omistamat tila uksia **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla. Tässä on joitain tämän sivun Koho kohtia sekä linkkejä, joiden avulla saat lisä tietoja kustakin ominaisuudesta:
 
-1. Hallitse jokaisesta tila uksesta ostettujen käyttö oikeuksien määrää ja sitä, kuinka monta käyttö oikeutta on käytössä.  **Huomautus**: käyttö oikeudet, jotka eivät ole käytössä (ei määritetty käyttäjälle), ladataan edelleen.  Jos haluat, että käyttämättömiä käyttö oikeuksia ei veloiteta, vähennä ostettujen käyttö oikeuksien määrää. Lisä tietoja käyttö oikeuksien lisäämisestä tai poistamisesta tila uksesta on Ohje aiheessa [käyttö oikeuksien lisääminen tai vähentäminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
-
-2. Näytä tila uksen uusimis-tai vanhentumis päivämäärä.  Voit hallita uusintaa napsauttamalla **uusimis-tai umpeutuu-** päivä määrän vieressä olevaa **Muokkaa** -linkkiä.  Lisä tietoja toistuvan laskutuksen Hallin nasta on kohdassa [Microsoft 365 for Businessin uusiminen](https://go.microsoft.com/fwlink/?linkid=2119216) .
-
-3. [Vanhentuneen tai käytöstä poistetun tila uksen Akti Voiminen uudelleen](https://go.microsoft.com/fwlink/?linkid=2117519).
-
-4. [Muokkaa tila uksen maksamiseen käytettävää maksu tapaa](https://go.microsoft.com/fwlink/?linkid=2117167).
-
-5. Määritä, [kuinka usein sinua laskutetaan](https://go.microsoft.com/fwlink/?linkid=2119112).
-
+1. Tarkastele määritettyjen käyttö oikeuksien määrää ja sitä, kuinka monta käyttö oikeutta on ostettu kustakin tila uksesta.
+    > [!NOTE]
+    > Sinulta veloitetaan edelleen käyttö oikeuksia, jotka eivät ole käytössä (ei määritetty käyttäjälle). Jos haluat, että käyttämättömiä käyttö oikeuksia ei veloiteta, vähennä ostettujen käyttö oikeuksien määrää. Lisä tietoja käyttö oikeuksien lisäämisestä tai poistamisesta tila uksesta on Ohje aiheessa [käyttö oikeuksien lisääminen tai vähentäminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+2. Näytä kunkin tila uksen tila. Lisä tietoja tila uksen uudelleenaktivoimisesta on artikkelissa [tila uksen Akti Voiminen uudelleen](reactivate-your-subscription.md).
+3. Näytä kunkin tila uksen uusimis-tai vanhentumis päivämäärä. Voit hallita uusintaa valitsemalla tila uksen ja valitsemalla sitten **Muokkaa toistuvaa laskutusta**. Lisä tietoja toistuvan laskutuksen Hallin nasta on artikkelissa [toistuvan laskutuksen hallinta](manage-auto-renewal.md).
+4. Näytä kunkin tila uksen käyttämä maksu tapa. Lisä tietoja maksu tavan muuttamisesta on artikkelissa [maksu tavan muuttaminen](change-payment-method.md).
+5. Määritä, [kuinka usein maksat](change-how-often-you-pay.md).
 6. [Peruuta tilaus](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Voit ostaa lisää tila uksia **laskutuksen**  >  [**Osto Palvelut**](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
+Voit ostaa lisää tila uksia **laskutuksen**  >  [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.

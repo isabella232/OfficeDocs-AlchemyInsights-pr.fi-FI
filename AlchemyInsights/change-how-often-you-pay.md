@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733619"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307339"
 ---
 # <a name="change-how-often-you-pay"></a>Maksu tavan muuttaminen
 
 Jos haluat muuttaa sitä, kuinka usein sinua laskutetaan ja maksat tila uksesta, suorita seuraavat vaiheet Microsoft 365-hallinta keskuksessa.
 
 1. Siirry **laskutus**  >  [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Valitse **tuotteet** -väli lehdessä tilaus, jota haluat muuttaa. 
+2. Valitse **tuotteet** -väli lehdessä tilaus, jota haluat muuttaa.
 3. Valitse tila uksen tiedot-sivun **tilaus-ja maksu asetukset** -osassa **Muokkaa laskutus tiheyttä**.
-4. **Muokkaa laskutus tiheyttä** -ruudussa voit määrittää, kuinka usein haluat laskuttaa, ja valitse sitten **Muuta**.
+4. Valitse **Muokkaa laskutus tiheyttä** -ruudussa, kuinka usein haluat laskuttaa, ja valitse sitten **Muuta**.
 
-**Huomautus**: kuukausi-tai vuosi laskutus ovat ainoat vaihto ehdot.
+> [!NOTE]
+> Kuukausi-tai vuosi laskutus ovat ainoat vaihto ehdot.
 
 Katso lisätietoja artikkelissa [Laskutuksen tiheyden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
