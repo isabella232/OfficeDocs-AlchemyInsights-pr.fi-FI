@@ -1,8 +1,8 @@
 ---
 title: Oletus uusiminen subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745856"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416627"
 ---
 # <a name="renewing-your-subscription"></a>Tila uksen uusiminen
 
@@ -25,8 +25,10 @@ Jos maksat luotto kortilla tai pankki tilillä, Toistuva laskutus on oletusarvoi
 
 Jos olet prepaid-pakettiisi tuote avaimella, pakettiisi vanhenee tilaus jakson lopussa. Voit ottaa käyttöön toistuvan laskutuksen ja antaa luotto kortti-tai pankki tili tiedot, jotta pakettiasi laskutetaan joka vuosi tilaamasi päivän aikana.
 
-Voit ottaa toistuvan laskutuksen käyttöön seuraavasti: 
+Voit ottaa toistuvan laskutuksen käyttöön seuraavasti:
 
-1. Siirry kohtaan **laskutus**  >  **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Valitse tilaus, jonka toistuvan laskutuksen haluat hallita.
-3. Valitse **laskutus**-kohdassa **Muokkaa** ja tee haluamasi muutokset **toistuvan laskutuksen asetukset** -ikkunassa. 
+1. Siirry hallinta keskuksessa **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+2. Valitse **tuotteet** -väli lehdessä tilaus, jota haluat muuttaa.
+3. Valitse tila uksen tiedot-sivun **tilaus-ja maksu asetukset**-kohdassa **Muokkaa toistuvaa laskutusta**.
+4. Valitse **Muokkaa toistuvia laskutus asetuksia** -ruudussa **käytössä**, **käytössä, mutta uusi kerran**tai **Poista käytöstä**.
+5. Valitse **Tallenna**. 

@@ -2,8 +2,8 @@
 title: Peruutamme Microsoft 365-tila uksen?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 661c962d7a6f19c7de036da87a02b44f8e463b86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683003"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416235"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Peruutamme Microsoft 365-tila uksen?
 
 Olemme pahoillamme, että olet valmis!
   
-Organisaation tietojen perusteella uskomme, että kaikissa nykyisissä pakettiisi on yli 25 määritettyä käyttö oikeutta. Voit poistaa käyttäjiä, kunnes sinulla on alle 25 jäsentä, ja siirtymällä sitten **laskutus** \> **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle. Valitse **Asetukset & toiminnot** -kohdassa **Peruuta tilaus**.
- 
-**Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.** 
+Organisaation tietojen perusteella uskomme, että kaikissa nykyisissä pakettiisi on yli 25 määritettyä käyttö oikeutta. Poista käyttö oikeuksia käyttäjiltä, kunnes sinulla on alle 25 lisensoimaa käyttäjää. Siirry seuraavaksi **laskutus** \> [Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle. Etsi **tuotteet** -väli lehdestä tilaus, jonka haluat peruuttaa, valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
 
-**Huomautus**: Jos et näe Peruuta-vaihto ehtoa, saat lisä tietoja valitsemalla tila uksen ja näet **Peruuta tilaus** -vaihto ehdon kohdassa **Asetukset & toiminnot**. 
+**Hyvitys:** Mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.
 
 Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

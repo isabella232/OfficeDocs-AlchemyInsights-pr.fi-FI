@@ -2,36 +2,32 @@
 title: Peruuta Project-tilaus
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683520"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416475"
 ---
 # <a name="cancel-project-subscription"></a>Peruuta Project-tilaus
 
-Järjestelmänvalvojat voivat peruuttaa organisaatiolleen Project-tila uksen **Microsoft 365-hallinta keskuksesta**.
+Järjestelmänvalvojat voivat peruuttaa organisaatiolleen Project-tila uksen Microsoft 365-hallinta keskuksessa.
 
-1. Siirry **laskutus > [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) ** -sivulle.
+1. Siirry **laskutus** \> [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+2. Etsi **tuotteet** -väli lehdestä projekti tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
+3. Valitse **Peruuta tilaus** -ruudussa syy, miksi peruutat peruutuksen. Voit myös antaa palautetta.
+4. Valitse **Tallenna**.
 
-2. Etsi peruutettava projekti sopimus.
-
-3. Valitse **Peruuta tilaus**.
-
-**Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.**
-
-**Huomautus**: Jos et näe Peruuta-vaihto ehtoa, saat lisä tietoja valitsemalla tila uksen ja näet **Peruuta tilaus** -vaihto ehdon kohdassa **Asetukset & toiminnot**.
+**Hyvitys:** Mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.
 
 Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

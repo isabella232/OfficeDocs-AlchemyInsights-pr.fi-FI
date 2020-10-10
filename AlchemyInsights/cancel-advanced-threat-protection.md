@@ -1,8 +1,8 @@
 ---
 title: Advanced Threat Protectionin peruuttaminen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683687"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416259"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Advanced Threat Protectionin peruuttaminen
 
-Advanced Threat Protectionin voi peruuttaa **Microsoft 365-hallinta keskuksessa**.
+Järjestelmänvalvojat voivat peruuttaa organisaatiolleen Advanced Threat Protectionin tila uksen Microsoft 365-hallinta keskuksessa.
 
 1. Siirry **laskutus**  >  [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Etsi Advanced Threat-suojaus sopimus, jonka haluat peruuttaa.
-3. Valitse **Peruuta tilaus**.
+2. Etsi **tuotteet** -väli lehdessä Advanced Threat Protectionin sopimus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
+3. Valitse **Peruuta tilaus** -ruudussa syy, miksi peruutat peruutuksen. Voit myös antaa palautetta.
+4. Valitse **Tallenna**.
 
-Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.
-
-**Huomautus**: Jos et näe Peruuta-vaihto ehtoa, saat lisä tietoja valitsemalla tila uksen ja näet **Peruuta tilaus** -vaihto ehdon kohdassa **Asetukset & toiminnot**.
+**Hyvitys:** Mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.
 
 Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
