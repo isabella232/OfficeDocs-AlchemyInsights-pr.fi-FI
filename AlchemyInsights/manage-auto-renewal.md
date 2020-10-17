@@ -2,8 +2,8 @@
 title: Automaattisen uusimisen hallinta
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,23 +14,21 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 67c52866f683c6d14171ac8e96b82f75d821017a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26d9976fa4ebcd98ee4a8a0547f706293e78f9a
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778184"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488806"
 ---
 # <a name="manage-recurring-billing"></a>Toistuvan laskutuksen hallinta
 
 Voit ottaa toistuvan laskutuksen käyttöön tai poistaa sen käytöstä Microsoft 365-hallinta keskuksessa.
   
-1. Siirry hallinta keskuksessa **laskutus** \> **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle.
-
-2. Valitse **laskutus**-kohdan uudis-tai **päättyy**- **kohdan** vieressä **Muokkaa**.
-
-3. Valitse **Toistuva laskutus asetukset** -ruudussa **Poista** käytöstä, jos haluat poistaa sen käytöstä. Jos Toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **kuukausi** tai **kerran** .
-
-4. Valitse **Lähetä muutos**.
+1. Siirry hallinta keskuksessa **laskutus** \> [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+2. Valitse **tuotteet** -väli lehdessä tilaus, jota haluat muuttaa.
+3. Valitse tila uksen tiedot-sivun **tilaus-ja maksu asetukset**-kohdassa **Muokkaa toistuvaa laskutusta**.
+4. Valitse **Muokkaa toistuvia laskutus asetuksia** -ruudussa **käytössä**, **käytössä, mutta uusi kerran**tai **Poista käytöstä**.
+5. Valitse **Tallenna**.
 
 Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

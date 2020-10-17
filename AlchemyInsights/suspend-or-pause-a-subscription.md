@@ -1,8 +1,8 @@
 ---
 title: Tila uksen keskeyttäminen tai keskeyttäminen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800137"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488950"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Tila uksen keskeyttäminen tai keskeyttäminen
 
-Jos haluat keskeyttää tai keskeyttää tilauksesi tilapäisesti, voit peruuttaa tila uksen **Microsoft 365-hallinta keskuksesta**.
+Jos haluat keskeyttää tai keskeyttää tilauksesi tilapäisesti, voit peruuttaa tila uksen Microsoft 365-hallinta keskuksessa.
 
-1. Siirry kohtaan **laskutus > [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Siirry hallinta keskuksessa **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
+2. Etsi **tuotteet** -väli lehdestä tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
+3. Tila uksen tila näkyy **poissa käytöstä** ja siinä näkyy päivä määrä, jolloin tilaus peruutettiin. Tilaus säilyy poissa käytöstä 90 päivän ajan, ja sen toiminnallisuus on heikentynyt, kunnes se poistetaan tai [aktivoidaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)uudelleen.
 
-2. Etsi tilaus, jonka haluat peruuttaa, ja valitse **Asetukset & toiminnot**-kohdassa **Peruuta tilaus**.
-
-3. Tilauksesi näkyy nyt käytöstä poistetussa tilassa 90 päivän ajan, ja sen toiminnallisuus on heikentynyt, kunnes se poistetaan tai [aktivoidaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide)uudelleen.
-
-Lisä tietoja on Ohje aiheessa [mitä tapahtuu, kun tilaus peruutetaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) ja [tiedot tallennetaan](https://go.microsoft.com/fwlink/p/?linkid=842054).
+Lisä tietoja on Ohje aiheessa [mitä tapahtuu, kun tilaus peruutetaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) ja [tiedot tallennetaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
