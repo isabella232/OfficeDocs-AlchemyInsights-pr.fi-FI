@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: fi-FI
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473098"
+ms.locfileid: "48478330"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Sähkö postin lähettämisen estäminen tai eston poistaminen
 
 Jos haluat ottaa sähkö postin uudelleenohjauksen käyttöön tai poistaa sen käytöstä tietyssä posti laatikossa, katso [sähkö postin uudelleenohjauksen määrittäminen](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Vuokra ajan tasolla ulkoista lähetystä voidaan hallita lähtevällä roska posti käytännöllä. Voit tarkistaa lähtevän roska postin suodatus käytännöt tieto turva-ja yhteensopivuus keskuksesta [Here] ( https://protection.office.com/antispam) tai käyttämällä [Get-Hostedoutboundspamfilttpolicy-komentoa](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Vuokra ajan tasolla ulkoista lähetystä voidaan hallita lähtevällä roska posti käytännöllä. Voit tarkistaa lähtevän roska postin suodatus käytännöt tieto turva-ja yhteensopivuus keskuksesta [täällä](https://protection.office.com/antispam) tai käyttämällä [Get-Hostedoutboundspamfilttpolicy-komentoa](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
 Jos saat seuraavan virhe ilmoituksen: **"550 5.7.520 käyttö estetty, organisaatiosi ei salli ulkoista edelleenlähetystä"**, varmista, että käytännöt on määritetty niin, että ulkoinen automaattinen edelleensiirto on käytössä.
 
