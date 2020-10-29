@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat-suojaus
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696618"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801224"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat-suojaus
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- Turvalliset liitteet, turvalliset linkit ja anti-phishing ovat osa Office 365 Advanced Threat Protectionin (ATP). Enterprise E5, Education A5 ja Microsoft 365 Business Premium sisältävät ATP:N. Kaikki muut palvelu paketit vaativat Add-on ATP-paketin.
+- Turvalliset liitteet, turvalliset linkit ja Tietojenkalasteluviestit kuuluvat Microsoft Defender for Office 365 (ATP)-sivustoon. Enterprise E5, Education A5 ja Microsoft 365 Business Premium sisältävät ATP:N. Kaikki muut palvelu paketit vaativat Add-on ATP-paketin.
 
 - Sinun on määritettävä tarvittavat käyttö oikeudet, jotta käyttäjät voivat suojata Office 365 ATP:N. [Tässä ohje](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) aiheessa kerrotaan, miten voit määrittää, miten joukko käyttö oikeuksia käytetään käyttäjille.
 
-- Yleiset järjestelmänvalvojat tai suojausjärjestelmänvalvojat voivat käyttää Office 365 ATP-ominaisuuksia tieto turva & yhteensopivuus keskuksessa **uhkien** hallinta- \> **käytännössä**.
+- Yleiset järjestelmänvalvojat tai suojausjärjestelmänvalvojat voivat käyttää Office 365 ATP-ominaisuuksia tieto turva & yhteensopivuus keskuksessa **uhkien** hallinta- \> **käytännössä** .
 
 - Turvalliset liitteet ja turvallisten linkkien käytännöt voidaan määrittää koko organisaatiolle, tietyille toimi alueille tai pienille käyttäjä ryhmille.
 

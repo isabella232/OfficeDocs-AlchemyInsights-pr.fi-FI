@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759216"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801548"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Hyökkäys simulaattori Microsoft 365-sovelluksessa
 
-- Oletko puuttuvasta hyökkäys simulaattorista? Hyökkäys simulaattori edellyttää **office 365 Advanced Threat Protectionin 2-ohjelmaa (ATP-sopimus 2)** tai **Office 365 Enterprise-E5**. Hyökkäys simulaattori **ei** sisälly Office 365 Advanced Threat PROTECTIONIN (ATP-Paketti 1), Office 365 Enterprise E3-ohjelmaan tai mihinkään Microsoft 365-sovellukseen yritys tilauksia varten.
+- Oletko puuttuvasta hyökkäys simulaattorista? Hyökkäys simulaattori edellyttää **Microsoft Defender for office 365-ohjelmaa (ATP-sopimus 2)** tai **Office 365 Enterprise-E5** . Hyökkäys simulaattori ei **sisälly Microsoft** Defender for Office 365-pakettiin (ATP-Paketti 1), Office 365 Enterprise E3-ohjelmaan tai mihinkään Microsoft 365-sovellukseen yritys tilauksia varten.
 
 - Tili, jota käytät simuloitujen hyökkäysten käynnistämiseen, edellyttää yleisten järjestelmänvalvojien tai suojaus järjestelmänvalvojien käyttö oikeuksia ja usean tekijän todennusta. Lisä tietoja hyökkäys simulaattori vaatimuksista on [tässä](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)artikkelissa.
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759216"
 
 - Tärkeitä asioita, jotka on hyvä tietää **Spear phishing** Liitä-simulaatioista:
 
-  - Et voi määrittää mukautettua arvoa **tietojen kalastelu-kirjautumispalvelimen URL-osoitteille**.
+  - Et voi määrittää mukautettua arvoa **tietojen kalastelu-kirjautumispalvelimen URL-osoitteille** .
 
   - Jos vastaanottajalla on käytössä [Ilmoita viestistä-apuohjelma](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) , joka ilmoittaa viestin tietojenkalasteluksi, et ehkä saa ilmoituksia viestistä (koska kyseessä on simuloitu hyökkäys).
 

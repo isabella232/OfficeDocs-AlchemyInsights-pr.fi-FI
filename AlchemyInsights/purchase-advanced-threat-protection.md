@@ -1,5 +1,5 @@
 ---
-title: Osta Office 365 Advanced Threat Protectionin
+title: Osta Microsoft Defender for Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693552"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801144"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Osta Office 365 Advanced Threat Protectionin
+# <a name="purchase-microsoft-defender-for-office-365"></a>Osta Microsoft Defender for Office 365
 
-Office 365 Advanced Threat Protectionin (ATP) on sisällytetty tiettyihin tilauksiisi, kuten Microsoft 365 E5, Office 365 E5, Office 365 A5 ja Microsoft 365 Business Premium. Jos pakettisi ei sisällä Office 365 ATP-tilausta, voit ostaa [ATP-paketin 1tai ATP-paketin 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) lisä osana tiettyyn tila ukseen. Osta Microsoft 365-hallinta keskuksessa seuraavasti:
+Microsoft Defender for Office 365 (ATP) sisältyy tiettyihin tilauksiisi, kuten Microsoft 365 E5, Office 365 E5, Office 365 A5 ja Microsoft 365 Business Premium. Jos pakettisi ei sisällä Office 365 ATP-tilausta, voit ostaa [ATP-paketin 1tai ATP-paketin 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) lisä osana tiettyyn tila ukseen. Osta Microsoft 365-hallinta keskuksessa seuraavasti:
 
 1. Siirry kohtaan **laskutuksen**   >   [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Valitse **lisä osat-**  sivu **muista luokista, jotka saattaisivat kiinnostaa sinua.**
