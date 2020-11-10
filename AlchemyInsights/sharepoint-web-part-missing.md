@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800353"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949814"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Sisältö editori tai komento sarja editorin verkko-osat puuttuvat
 
-Jos sinulta puuttuu verkko-osa, jota käytetään esimerkiksi **sisältö editorin tai Script Editor-verkko-osan**näkemiseen, yrität lisätä [perinteisen verkko-osan moderniin sivuun](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). On tärkeää huomata, että nykyaikaiset sivut voivat käyttää vain nykyaikaisia verkko-osia ja perinteiset sivut voivat käyttää vain klassisia verkko-osia. Monet nykyaikaiset verkko-osat vastaavat samoja tarkoituksia kuin perinteiset verkko-osat, mutta näkyviin tulee eroja ulkonäössä ja toimivissa toiminnoissa.
+Kaksi verkko-osaa, jotka eivät ole käytettävissä SharePoint for Microsoft 365-ohjelmassa, ovat **Script Editor-verkko-osa** ja **sisältö editori-verkko-osa**. On kuitenkin olemassa [nykyaikaisia verkko-osia](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) , jotka voivat täyttää joitain samoja tarkoituksia. Voit myös luoda [mukautettuja verkko-osia tai siirtää aiemmin luodut komento sarja editorin verkko-osat](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePoint-puitteisiin.  
 
-Monet verkko-osat eivät näy [mukautetun komento sarja asetuksen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)vuoksi, joka on oletusarvoisesti poissa käytöstä moderneissa sivustoista. 
-
-Jos haluat nähdä luettelon verkko-osista, jotka eivät ole käytettävissä, Tutustu ominaisuuksiin, jotka [vaikuttavat, kun mukautettu komento sarja estetään](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Lisä tietoja mukautetun komento sarjan tieto turva vaikutuksista on kohdassa [mukautetun komento sarjan salliminen tieto turvaan liittyvistä syistä](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Lisä tietoja on kohdassa [missä sisältö editorin ja komento sarja editorin verkko-osat ovat SharePointissa?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
