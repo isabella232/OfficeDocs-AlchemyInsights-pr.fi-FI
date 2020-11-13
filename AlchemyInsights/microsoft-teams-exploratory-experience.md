@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674935"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019544"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft teamsin valmisteleva kokemus
 
-Microsoft teamsin valmisteleva kokemus mahdollistaa sen, että organisaatioosi kuuluvat käyttäjät, joilla on Azure Active Directory (AAD) ja joilla ei ole käyttö oikeutta, voivat aloittaa teams-kokemuksen. Järjestelmänvalvojat voivat ottaa tämän toiminnon käyttöön organisaation käyttäjille tai poistaa sen käytöstä. (Aikaisempaa Microsoftin kaupallista pilvi palvelua kutsutaan nyt teamsin valmisteleva käyttö kokemukseksi.)
-
-Microsoft teamsin valmisteleva kokemus on saatavilla maksutta ennen seuraavaa yritys sopimus vuotta tai uusimista tammi kuun 2021 tai sen jälkeen. Tällä hetkellä Microsoftin valmistelevan käyttö oikeuden loppu käyttäjien on siirryttävä maksulliseen käyttö oikeuteen, joka sisältää tiimit.
-
-Lisä tietoja [on kohdassa Microsoft teamsin valmistelevan käyttö oikeuden hallinta](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Mitä [teams on valmisteleva](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Microsoft teamsin valmisteleva kokemus mahdollistaa sen, että organisaation käyttäjät, joilla ei ole käyttö oikeuksia tiimeihin, voivat aloittaa teams-kokemuksen. Lisä tietoja on kohdassa [teamsin valmistelevan käyttö kokemuksen sisältö](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Milloin käyttö oikeuteni vanhenee](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Microsoft teamsin valmisteleva kokemus on saatavilla maksutta ennen seuraavan sopimuksen vuosi päivää tai uusimista tammi kuun 2021.
+- Järjestelmänvalvojana voit [päivittää käyttäjiä teamsin valmisteleva](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) käyttö oikeus-toiminnolla ostamalla tila uksen, joka sisältää tiimit, poistamalla tiimistä valmistelevan tila uksen käyttäjältä ja määrittämällä uuden ostetun käyttö oikeuden.
+- Lisä tietoja on kohdassa [teamsin valmistelevan käyttö oikeuden hallinta.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
