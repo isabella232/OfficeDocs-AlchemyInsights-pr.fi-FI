@@ -5,24 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932060"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529015"
 ---
 # <a name="contact-the-sales-team"></a>Ota yhteyttä myyntitiimiin
 
-Microsoft Graph -yhdistimien avulla organisaatiosi voi indeksoida kolmannen osapuolen tiedot, jotta ne näkyvät Microsoft Search -tuloksissa.
+Voit ottaa yhteyttä Microsoft 365:n myyntitiimiin monella eri tavalla.
 
-- [Microsoftin liittimet](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Kumppaniemme liittimet](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Lisätietoja on [ohjeaiheessa Microsoft Graph -yhdistimien yleiskatsaus](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Käytä  [Ota yhteyttä](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) -lomaketta, jos haluat Microsoft 365:n myyntiasiantuntijan ottavan sinuun yhteyttä.
+- Jos haluat ottaa yhteyttä Enterprise Agreement -sopimuksen volyymikäyttöoikeuden asiantuntijaan, aloita [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) -portaalista.
