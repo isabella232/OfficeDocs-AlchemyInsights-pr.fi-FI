@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688475"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571662"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Sähkö posti tunnuksen luominen tai lisääminen käyttäjälle
 
 Haluatko luoda sähkö posti tunnuksen käyttäjälle tai lisätä uuden sähkö posti osoitteen? Noudata näitä ohjeita.
   
-1. Siirry Microsoft 365-hallinta keskuksessa [käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulle tai valitse **käyttäjät** \> **aktiiviset käyttäjät**.
+1. Siirry Microsoft 365-hallinta keskuksessa [käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulle tai valitse **käyttäjät**  >  **aktiiviset käyttäjät**.
     
 2. Valitse **Aktiiviset käyttäjät** -sivulla sen henkilön nimi, jota haluat muokata. 
     

@@ -1,9 +1,9 @@
 ---
 title: Sovellusten laskutus profiilin muokkaaminen
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/02/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: c2059808987efd668f8bd8d31095907b8e318f76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711020"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571734"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Sovellusten laskutus profiilin muokkaaminen
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Sovellusten laskutus profiilin muuttaminen
+**Laskutus profiilien muokkaaminen**
+
+1. Siirry **laskutuslaskut**  >  **[& maksut](https://go.microsoft.com/fwlink/p/?linkid=848039)** -sivulle ja valitse **laskutus profiilit**.
+
+2. Valitse Laskutus profiilien luettelosta se laskutus profiili, jota haluat muokata.
+
+**Sovellusten laskutus profiilin muuttaminen**
 
 1. Siirry **laskutus**  >  **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle ja valitse sitten **sovellukset** -väli lehti.
 
 2. Etsi ja valitse sovellus, jota haluat hallita.  
 
 3. Valitse **laskutus profiili**-kohdan vierestä **Muokkaa** ja valitse Laskutus profiili, jonka haluat liittää sovellukseen.
-
-## <a name="edit-billing-profiles"></a>Laskutus profiilien muokkaaminen
-
-1. Siirry **laskutuslaskut**  >  **[& maksut](https://go.microsoft.com/fwlink/p/?linkid=848039)** -sivulle ja valitse **laskutus profiilit**.
-
-2. Valitse muokattava laskutus profiili luettelosta.
