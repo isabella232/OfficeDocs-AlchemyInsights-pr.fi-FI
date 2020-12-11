@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605706"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653257"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive-PUID-risti riita
 
@@ -26,6 +26,6 @@ Näkyviin tulee se, että OneDrive for Business-palvelussa on [tunniste ristirii
 
 1. Valitse  **Ota yhteyttä tukeen** ja sitten  **Uusi palvelu pyyntö**.
 2. Jätä otsikko ja kuvaus OneDrive-  **sivuston käyttäjä tunnukseksi**.
-3. Kun lippu on lähetetty, voit päivittää sen seuraavilla tiedoilla:
+3. Kun lippu on lähetetty, päivitä se seuraavilla tiedoilla:
     - OneDrive-sivuston URL-osoite, johon ongelma vaikuttaa.
     - Haavoittuvuuden sisältävän käyttäjän täydellinen käyttäjä tunnus (UPN).
