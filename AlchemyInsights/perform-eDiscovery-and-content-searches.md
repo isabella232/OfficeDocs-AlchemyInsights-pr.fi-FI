@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721443"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668511"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisältö hakujen tekeminen ja eDiscoveryn haut
 
-Tieto turva & yhteensopivuus keskuksen sisältö haku työkalun avulla voit nopeasti etsiä Sähkö posti viestejä Exchange-posti laatikoista, SharePoint-sivuston tiedostoista ja OneDrive-tilistä sekä pikaviestintäkeskusteluista Skype for Businessissa. Sisältö haku työkalun avulla voit myös hakea Sähkö posti viestejä, asia kirjoja ja pikaviestikeskusteluja Microsoft 365-yhteistyötyökaluista, kuten Microsoft Teamsista ja Microsoft 365-ryhmistä.
-
-**Sisältö haun suorittaminen**
+**Sisältö haun suorittaminen**:
 
 1. Siirry [tieto turva & yhteensopivuus keskukseen](https://protection.office.com) ja Kirjaudu sisään.
 2. Valitse **hae > sisältö haku**.
 3. Luo uusi haku valitsemalla **Uusi haku** .
-4. Kirjoita vaaditut haku ehdot, kuten avain sanat ja sisältö sijainnit.  
+4. Kirjoita vaaditut haku ehdot, kuten avain sanat ja sisältö sijainnit.
 5. Valitse **tallenna & Suorita** , jos haluat nimetä haun, aloittaa sen ja esikatsella sitten tuloksia.
+
+> [!NOTE]
+> Valitse **M365-yhteensopivuus keskuksen** **ratkaisut**-kohdassa Laajenna **eDiscoveryn** ja valitse haluamasi eDiscoveryn työkalu.
 
 Lisä tietoja sisältö hausta, tulosten viemisestä ja haku tapausten luomisesta tietojen pitoon on artikkelissa [sisältö haku](https://docs.microsoft.com/microsoft-365/compliance/content-search) ja [ediscoveritietotapaukset](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Saat lisä tietoja sisältö hausta tarkastelemalla [vaatimuksia ja rajoituksia](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) sekä  [tutkimalla osittain indeksoidun kohteen](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) ja muiden tulosten ymmärtämistä.
+**Lisä tietoja**:
+
+- Lisä tietoja eDiscoveryn työkaluista Microsoft 365-sovelluksessa on kohdassa [eDiscoverya](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Lisä tietoja niiden käyttö oikeuksista, vaatimuksista ja rajoituksista, joita tarvitaan eDiscoveryn hakujen suorittamiseen käyttö oikeuksista, joita tarvitaan [eDiscoveryn etsinnöissä](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) ja [vaatimuksissa ja rajoituksissa](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
+- Jos suoritat vian määritys toiminnon ongelmia, tutustu Ohje aiheeseen [eDiscoveryn yleisten ongelmien vian määritys](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) ja [osittain indeksoidun kohteen tutkiminen](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
