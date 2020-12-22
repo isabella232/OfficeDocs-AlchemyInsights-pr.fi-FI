@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682085"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726385"
 ---
 # <a name="change-organization-profile"></a>Organisaatio profiilin muuttaminen
 
-Muuta yrityksesi nimeä, osoitetta, teknisiä yhteys tietoja ja muita asetuksia hallinta keskuksessa **Asetukset**-  >  [organisaation profiili](https://go.microsoft.com/fwlink/p/?linkid=2067339) -sivulla.
+Muuta yrityksesi nimeä, osoitetta, teknisiä yhteys tietoja ja muita asetuksia hallinta keskuksessa **Asetukset**  >  organisaatio-**Asetukset**  >  [organisaation profiili](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) -väli lehdessä.
 
 Varmista, että täytät kaikki pakolliset kentät, jotka on merkitty tähdellä *, jos haluat ottaa muutosten tallentamisen käyttöön.
 
