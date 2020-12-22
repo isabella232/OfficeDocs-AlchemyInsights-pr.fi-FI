@@ -1,26 +1,27 @@
 ---
-title: Tarkista Teams-palvelun tila
+title: Teams-palvelun tilan tarkistaminen
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: 8eb7f3f03a56b9e90d2f5483a46940b65910839f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
-ms.translationtype: MT
+ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439345"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724187"
 ---
-# <a name="check-teams-service-status"></a>Tarkista ryhmien palvelun tila
+# <a name="check-teams-service-status"></a>Teams-palvelun tilan tarkistaminen
 
-Voit tarkistaa Microsoft Teams -palvelun nykyisen tilan Microsoft 365 -hallintakeskuksen palvelun kunnon hallintapaneelissa.
+Jos haluat tarkistaa Microsoft Teams -palvelun tilan, siirry sivulle **Palvelun kunto** [Microsoft 365 -hallintakeskuksessa](https://go.microsoft.com/fwlink/p/?linkid=2024339). Lisätietoja kohteessa [Microsoft 365 -palvelun kunnon tarkistaminen](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
-Lisätietoja on [ohjeaiheessa Microsoft 365 -palvelun kunnon tarkistaminen](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Jos ongelma ei liity Microsoft Teams -palveluun, tarvitsemme lisätietoja, jotta löydämme oikeat resurssit. Kuvaile ongelmaasi uudelleen ja mainitse tarkat tuotenimet, ominaisuudet tai virheet. Lähetä hakukysely sitten uudelleen.
