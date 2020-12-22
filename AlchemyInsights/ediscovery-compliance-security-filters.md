@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678676"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727220"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Sisältö haun/viennin aikana ei palautettu tuloksia
 
@@ -26,7 +26,7 @@ Jos kohtaat ongelmia seuraavissa eDiscoveryn skenaarioissa:
 - Sisältö haku/vienti palauttaa tietoja tai odottamattomia tietoja
 - eDiscoveryn haku tai vienti epäonnistuu
 
-Tämä voi johtua siitä, että tietty järjestelmänvalvoja on saattanut määrittää tietyt yhteensopivuuden tieto turva suodattimen, eikä sitä ole toimitettu kaikille järjestelmänvalvojille.
+Tämä voi johtua joistakin vaatimustenmukaisuutta koskevista tieto turva suodattimista, jotka on määritetty tietyn järjestelmänvalvojan toimesta ja joita ei ole toimitettu kaikille järjestelmänvalvojille.
 
 Jos haluat korjata ongelman, tarkista, että seuraavat ongelmat voivat aiheuttaa yhteensopivuus suojausta:
 
