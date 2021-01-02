@@ -1,5 +1,5 @@
 ---
-title: Azure-laskutuksen omistajuuden siirtäminen
+title: Azure-laskutuksen omistajuuden siirto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922073"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736875"
 ---
-# <a name="transfer-azure-billing-ownership"></a>Azure-laskutuksen omistajuuden siirtäminen
+# <a name="transfer-azure-billing-ownership"></a>Azure-laskutuksen omistajuuden siirto
 
-Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/) sen laskutus tilin järjestelmänvalvojana, jonka tila uksen haluat siirtää. Jos et ole varma, onko olet järjestelmänvalvoja tai jos haluat selvittää, kuka on, Katso lisä tietoja artikkelista [tilin laskutuksen hallinnoijan määrittäminen](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Kirjaudu [Azure-portaaliin](https://portal.azure.com/) sen laskutustilin järjestelmänvalvojana, joka sisältää tilauksen, jonka haluat siirtää. Jos et ole varma, oletko järjestelmänvalvoja, tai jos haluat määrittää, kuka on, katso ohjeaihe [Määritä tilin laskutuksen järjestelmänvalvoja](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Etsi **kustannusten hallinta + laskutus**.
-- Valitse **paketteja** vasemmasta ruudusta. Käyttö oikeuksien mukaan sinun on ehkä valittava laskutus alue ja sitten **tila uksia** tai **Azure-tila uksia**.
-- Valitse Siirrä **laskutuksen omistajuus** tilaukselle, jonka haluat siirtää.
-- Kirjoita sen käyttäjän Sähkö posti osoite, joka on sen tilin laskutuksen järjestelmänvalvoja, joka on uuden tila uksen omistaja ja valitse sitten **Lähetä siirto pyyntö**
-- Käyttäjä saa Sähkö posti viestin, jossa on ohjeet siirto pyynnön tarkistamiseen. Jos haluat hyväksyä siirto pyynnön, käyttäjä valitsee Sähkö posti viestissä olevan linkin ja noudattaa annettuja ohjeita.
+1. Hae kohdasta _Kustannustenhallinta ja laskutus_.
+1. Valitse **Tilaukset** vasemmasta ruudusta. Käyttöoikeuksista riippuen, sinun on ehkä valittava laskutuksen laajuus ja sitten **Tilaukset** tai **Azure-tilaukset**.
+1. Valitse **Siirrä laskutuksen omistajuus** tilaukselle, jonka haluat siirtää.
+1. Kirjoita sen käyttäjän sähköpostiosoite, joka on tilin laskutuksen järjestelmänvalvoja ja josta tehdään tilauksen uusi omistaja, ja valitse sitten **Lähetä siirtopyyntö**.
+1. Käyttäjä saa sähköpostiviestin, jossa on ohjeet siirtopyyntösi tarkistamiseen. Käyttäjän on valittava sähköpostissa oleva linkki ja noudatettava annettuja ohjeita, jotta hän voi hyväksyä siirtopyynnön.
 
-**Huomautus** : Jos siirrät tila uksen laskutuksen omistajuuden toisen Azure AD-vuokra ajan käyttäjän tiliin, Kaikki tila uksen resurssien hallintaan tarvittavat [Roolipohjaiset käyttö oikeuksien hallinta](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)tehtävät poistetaan pysyvästi. Vain uudella omistajalla on oikeus hallita tila uksen resursseja. Lisä tietoja on Ohje aiheessa [tila uksen siirtäminen käyttäjälle toisessa Azure AD-vuokra](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)ajassa.
+Huomaa, että jos siirrät tilauksesi laskutuksen omistajuuden toiselle Azure AD vuokralaiseen liittyvälle käyttäjälle, kaikki [roolipohjaiset käytönhallintatehtävät (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support), joiden avulla voit hallita tilauksesi resursseja, poistetaan pysyvästi. Vain uudella omistajalla on sen jälkeen oikeus hallita tilauksen resursseja. Lisätietoja tilauksen hakemiston muuttamisesta löytyy artikkelissa [Tilauksen siirtäminen käyttäjälle, joka kuuluu toiselle Azure AD -vuokralaiselle](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Suositellut asia kirjat**
+_**Tärkeä vaikutus laskutukseesi:**_ Jos olet siirtänyt laskutuksen omistajuuden Azure -tilaukseen, sinulta tehtävät veloitukset ovat pro-rata-perusteisia. Voit käyttää laskuja seuraavasti:  
 
-- [Azure-tila uksen laskutuksen omistajuuden siirtäminen toiselle tilille](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [Tietoja siitä, miten laskutus omistajuus siirretään Azure-tila ukseen](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [Visual Studion, Microsoft-partneri verkoston (MPN) siirtäminen ja maksu tapa-ja kokeilu tilaukset](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Siirrä omistajuuden usein kysytyt kysymykset](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Siirron omistus ongelmien vian määritys](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+1. Valitse tilauksesi  [Tilaukset-sivulta](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure-portaalissa, [käyttäjänä, jolla on laskutuksen käyttöoikeudet](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), ja valitse sitten **Laskut**.
+1. Valitse **Lataa lasku** , jos haluat nähdä kopion PDF-laskusta. Jos siinä lukee _Ei saatavilla_, katso  [Miksi en näe laskua viimeiseltä laskutuskaudelta?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Voit myös tarkastella päiväkohtaista käyttöäsi valitsemalla **laskutusjakson**, jolloin saat PDF-laskun ja yksityiskohtaisen tiedoston päiväkohtaisesta käytöstä (. CSV). Lisätietoja löytyy artikkelista  [Hae laskutus- ja käyttötiedot](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+**Suositellut asiakirjat**
+
+- [Azure-tilauksen laskutuksen omistajuuden siirto toiselle tilille](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Tietoja laskutuksen omistajuuden Azure-tilauksen siirtämisestä](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [Visual Studion, Microsoft-kumppaniverkoston (MPN) ja Maksa käytön mukaan -kehitys-/testitilauksiin](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Omistuksen siirtämiseen liittyvät usein kysytyt kysymykset](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Omistajuuden siirtoon liittyvien ongelmien vianmääritys](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
