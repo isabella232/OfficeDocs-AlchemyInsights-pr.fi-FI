@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598687"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755580"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Tila uksen hallinta – turvallisuus-ja yhteensopivuus pyynnöt – Azure Industry Compliance-akkreditointi
+
+Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
 
 - **Käytännöt**: Jos sinulla on kysyttävää Microsoft-yhteensopivuus tiedostosta, tutustu Ohje aiheeseen [Azure Trust Centerin yhteensopivuus](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
@@ -50,7 +52,7 @@ Lisä tietoja läpäisy testauksesta on kohdassa [levinneisyys testaus](https://
 > [!NOTE]
 > Verkko palvelujen asiakas tiedot ja henkilö tietojen luettelon ilmoitus on täysin automatisoitu. Lisä tietoja on kohdassa Microsofts-tieto turva resurssit.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
 - [Asetusten vieminen ja poistaminen Azure-portaalissa](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [Toiminta raporttien hakeminen Azure-portaalissa](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)

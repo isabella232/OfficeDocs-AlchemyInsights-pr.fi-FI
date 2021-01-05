@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714760"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755616"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Maksu lasku Azure-portaalissa-Suositellut vaiheet
+
+Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
 
 Sinun on oltava laskutus tilin järjestelmänvalvoja, jotta voit maksaa laskuja Azure-portaalissa. Laskutus tilin järjestelmänvalvoja on käyttäjä, joka on alun perin rekisteröitynyt Microsoftin asiakas sopimus tiliin. 
 
 Laskun maksaminen Azure-portaalissa: 
 
 1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-1. Etsi **kustannusten hallinta + laskutus**.
+1. Hae kohdasta **Kustannustenhallinta ja laskutus**.
 1. Valitse vasemmanpuoleisessa ruudussa **laskutus**-kohdassa **laskut**.
 1. Jos jokin laskuistasi erääntyy tai erääntyy erääntyneen, kyseiselle laskulle näkyy sininen **maksa nyt** -linkki. Valitse **maksa nyt**.
 1. Valitse uusi laikka-kohdassa **Valitse maksu tapa** , jos haluat valita olemassa olevan luotto kortin tai lisätä uuden.

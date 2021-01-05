@@ -1,5 +1,5 @@
 ---
-title: Siirry lasku maksuun (Tarkista/pankki siirto)-Modern CL
+title: Maksa laskulla-vaihto (Tarkista/pankki siirto)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706580"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755455"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Siirry lasku maksuun (Tarkista/pankki siirto)-Modern CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Maksa laskulla-vaihto (Tarkista/pankki siirto)
+
+Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
 
 Jos vaihdat maksa maan laskulla, maksat laskun 30 päivän kuluessa laskun päivä määrästä. Jos haluat, että olet oikeutettu maksa maan Azure-tilauksestasi laskulla, Lähetä pyyntö Azure-tukeen. Kun pyyntösi on hyväksytty, voit vaihtaa tila uksen lasku maksuun Azure-portaalissa.
 
@@ -40,7 +42,7 @@ Voit tehdä sen seuraavasti:
 4. Valitse *laskutus profiili* -valikosta **Maksu tavat**.
 5. Valitse banneri, jonka mukaan olet oikeutettu maksa maan sekki-tai pankki siirrolla.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
 - [Pyydä/Lataa/Näytä Azure-laskutus lasku ja käyttö tiedot](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Azure-laskujen lähettäminen suoraan Saapuneet-kansioon](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

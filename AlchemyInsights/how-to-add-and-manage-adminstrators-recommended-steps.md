@@ -1,5 +1,5 @@
 ---
-title: Adminstrators lisääminen ja hallinta – Suositellut vaiheet
+title: Järjestelmänvalvojien lisääminen ja hallinta – Suositellut vaiheet
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677253"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755832"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Adminstrators lisääminen ja hallinta – Suositellut vaiheet
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Järjestelmänvalvojien lisääminen ja hallinta – Suositellut vaiheet
+
+Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
 
 **Tila uksen valvojan tai Yhteishallinnoijan muokkaaminen**
 

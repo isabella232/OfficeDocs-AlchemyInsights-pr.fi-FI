@@ -1,5 +1,5 @@
 ---
-title: Järjestelmänvalvojien lisääminen ja hallinta – MCA FL/CL
+title: Järjestelmänvalvojien lisääminen ja hallinta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692114"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755436"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Järjestelmänvalvojien lisääminen ja hallinta – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Järjestelmänvalvojien lisääminen ja hallinta
+
+Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
 
 Jos haluat hallita Microsoft-asiakas sopimusta (MCA), voit käyttää eri rooleja, joilla on haluttu käyttö oikeus taso. Nämä roolit ovat niiden sisäisten Azure-palvelu roolien lisäksi, joiden avulla voit hallita resurssejasi.
 
@@ -32,7 +34,7 @@ Jos haluat hallita Microsoft-asiakas sopimusta (MCA), voit käyttää eri roolej
 5. Jos haluat antaa käyttäjälle käyttö oikeuden, valitse **Lisää** sivun yläreunasta. Valitse rooli avattavasta *rooli* -luettelosta. Kirjoita sen käyttäjän Sähkö posti osoite, jolle haluat myöntää käyttö oikeuden. Määritä rooli valitsemalla **Tallenna** .
 6. Jos haluat poistaa käyttäjän käyttö oikeuden, valitse käyttäjä, jonka rooli määritystä haluat poistaa. Valitse **Poista**.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
 - [Laskutus rooli määritykset](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Laskutus tilin roolit ja tehtävät](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
