@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731236"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768814"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-Sala uksen ottaminen käyttöön Intunella
 
@@ -30,10 +30,12 @@ Lisä tietoja BitLocker-ongelmien vian määrityksestä on kohdassa [BitLocker-k
  
 **Usein kysytyt kysymykset**
 
- K: mitkä Windows-versiot tukevat laitteen salausta pääte pisteen suojaus käytäntöä käyttäen?<br>
- A: asetukset Intune-pääte pisteen suojaus käytännössä on toteutettu [BitLocker-salaus menetelmän](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)avulla. Kaikki Windowsin versiot eivät tue BitLocker-salaus menetelmän tarjoajaa. <br><br>
-      Tällä hetkellä seuraavat Windows-versiot ovat tuettuja: Enterprise, Education, Mobile, Mobile Enterprise ja Professional (koonti versio 1809 ja uudemmat versiot).
- 
+K: mitkä Windows-versiot tukevat laitteen salausta pääte pisteen suojaus käytäntöä käyttäen?<br>
+A: asetukset Intune-pääte pisteen suojaus käytännössä on toteutettu [BitLocker-salaus menetelmän](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)avulla. Kaikki Windowsin versiot eivät tue BitLocker-salaus menetelmän tarjoajaa. <br><br>
+
+K: Miten BitLocker voidaan ottaa käyttöön laitteissa, jotka eivät edellytä loppu käyttäjän toimia?<br>
+A: niin kauan kuin tarvittavat vaatimukset täyttyvät, BitLocker-salaus voidaan ottaa käyttöön Intuneen kautta. Katso lisä tietoja laitteen vaatimuksista ja esimerkki käytäntöjen asetuksista, jotta hiljainen salaus otetaan käyttöön seuraavassa asia kirjassa: [BitLocker-Sala uksen ottaminen käyttöön](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 K: Jos laite on jo salattu BitLocker-Sala uksella käyttämällä käyttö järjestelmän oletus asetuksia salaus menetelmässä ja Sala kirjoituksen voimakkuus (XTS-AES-128), se soveltaa käytäntöä, jossa on käytössä eri asetukset, jolloin uudet asetukset käyttävät aseman uudelleensalausta automaattisesti.<br>
 V: Ei. Jos haluat käyttää uusia cipher-asetuksia, aseman salaus on ensin purettava.<br><br>
 **Huomautus:** Jos laitteessa on rekisteröity Autopilot, OOBE-toiminnon aikana suoritettava automaattinen salaus ei käynnisty, ennen kuin Intune-käytäntöä arvioidaan, jolloin käytäntöpohjaisia asetuksia voidaan käyttää käyttö järjestelmän oletus arvojen sijasta.
