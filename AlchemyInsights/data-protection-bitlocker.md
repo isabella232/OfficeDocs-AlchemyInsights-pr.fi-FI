@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768814"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778190"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-Sala uksen ottaminen käyttöön Intunella
 
- Intune-pääte pisteen suojaus käytäntöä voidaan käyttää Windows-laitteiden BitLocker-salaus asetusten määrittämiseen. Lisä tietoja on kohdassa [Windows 10: n (tai uudemman) asetukset laitteiden suojaamiseksi Intune-toiminnolla](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Intune-pääte pisteen suojaus käytäntöä voidaan käyttää Windows-laitteiden BitLocker-salaus asetusten määrittämiseen. Lisä tietoja on kohdassa [Windows 10: n (tai uudemman) asetukset laitteiden suojaamiseksi Intune-toiminnolla](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Pääte pisteen suojaus käytäntöjen lisäksi käytettävissä on myös salaus raportti, jossa on tarkempi näkymä laitteiden salaus tilasta. Tätä raporttia voi käyttää MEM-portaalissa kohdassa **laitteet > valvonta** ja valitsemalla sitten **määritys** Valitse [salaus raportti](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Jos huomaat, että BitLocker ei ole käytössä odottamattomalla tavalla tai että BitLocker-Sala uksen käyttöönottoon käytettävä profiili on virhe tilassa, Lue salaus raportti, jotta saat paremman käsityksen siitä, miksi ongelma tapahtuu.
+
+Lisä tietoja raportin tulkitsemisesta eri salaus tilan arvojen mukaan on Ohje aiheessa [laite salauksen valvonta Intunella](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Huomaa, että monet Windows 10: tä käyttävät uudet laitteet tukevat automaattista BitLocker-salausta, joka käynnistyy ilman MDM-käytäntöä. Tämä voi vaikuttaa käytäntöjen soveltamiseen, jos muut kuin oletus asetukset on määritetty. Lisä tietoja on seuraavissa usein kysytyissä kysymyksissä.
- 
+
 Lisä tietoja BitLocker-ongelmien vian määrityksestä on kohdassa [BitLocker-käytäntöjen vian määritys Microsoft Intunella](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
