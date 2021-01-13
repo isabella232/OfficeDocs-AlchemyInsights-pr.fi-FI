@@ -1,5 +1,5 @@
 ---
-title: Sähkö postin uudelleenohjauksen määrittäminen
+title: Sähköpostin edelleenlähetysten määrittäminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801073"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847597"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Posti laatikon sähkö postin välitys asetusten tarkistaminen
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Postilaatikon sähköpostin edelleenlähetysasetusten tarkastaminen
 
-Sähkö postin välitys asetukset on helppo tarkistaa Microsoft 365-posti laatikossa. Noudata näitä ohjeita.
-  
-> Jos kyseessä on käyttäjän posti laatikko, siirry kohtaan **käyttäjät** \> **aktiiviset käyttäjät** ja valitse käyttäjä, jonka posti laatikkoa olet lähettämässä. Valitse **sähkö** posti-väli lehdessä **Hallitse sähkö postin siirtoa**.
+Sähköpostin edelleenlähetys on ensin otettava käyttöön vuokraajan tasolla. Jos olet määrittänyt sähköpostin edelleenlähetystä postilaatikkoon, mutta se ei toimi, katso kohta Ulkoisen sähköpostin automaattisen edelleenlähetysten hallinta [Microsoft 365:ssä.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
-> Jos kyseessä on yhteinen posti laatikko, siirry kohtaan **ryhmät** \> **jaettuihin posti laatikoihin** ja valitse jaettava posti laatikko, jonka olet lähettämässä. Valitse **Muokkaa** sähkö postin siirtoa varten.
+Postilaatikon sähköpostin edelleenlähetysasetukset on helppo vahvistaa. Noudata näitä ohjeita.
+  
+> Jos tämä on käyttäjän postilaatikko, siirry **Aktiiviset** käyttäjät -kansioon ja valitse käyttäjä, \>  jonka postilaatikkoa lähetät edelleen. Valitse **Sähköposti-välilehdessä** **Sähköpostin edelleenlähetysten hallinta.**
 
-Lisä tietoja on Ohje aiheessa [sähkö postin uudelleenohjauksen määrittäminen Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)-sovelluksessa.
+> Jos tämä on jaettu postilaatikko, siirry Ryhmät **jaetut** postilaatikot -kansioon ja valitse jaettu \>  postilaatikko, jonka lähetät edelleen. Valitse **Muokkaa** sähköpostin edelleenlähetystä varten.
+
+Lisätietoja on kohdassa Sähköpostin [edelleenlähetysten määrittäminen Microsoft 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Jos haluat lähettää käyttäjille ohjeita, jotta he voivat määrittää sähkö postin edelleenlähetyksen omille posti laatikoilleen, osoita heitä [välittämään Sähkö posti viestit Microsoft 365](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)-Sähkö posti tilistä toiseen. Huomaa, että voit lähettää viestin vain yhdelle Sähkö posti osoitteelle. Jos haluat määrittää välitettäväksi henkilö ryhmälle, Luo haluamasi käyttäjät ( **ryhmät**-kohdassa), lisää ne siihen ja määritä sitten viestin siirto ryhmälle.
+Jos haluat lähettää käyttäjille ohjeet, jotta he voivat määrittää sähköpostin edelleenlähetystä omissa postilaatikoissaan, osoita microsoft [365:n](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)sähköpostia edelleen toiseen sähköpostitiliin. Huomaa, että voit lähettää edelleen vain yhteen sähköpostiosoitteeseen. Jos haluat määrittää edelleenlähetystä henkilöryhmälle, luo jakeluluettelo (Ryhmät-kohdassa), lisää siihen käyttäjät ja määritä sitten edelleenlähetys tähän ryhmään.
   
-Onko työn tekijä poistunut? Lisä tietoja on artikkelissa [entisen työn tekijän poistaminen Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) -kohdasta Suositellut vaiheet.
+Onko työntekijä poistunut? Katso suositellut vaiheet ohjeista, jotka ovat kohdassa Entisen työntekijän poistaminen [Microsoft 365:stä.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
