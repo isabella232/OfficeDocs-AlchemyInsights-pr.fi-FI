@@ -12,33 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713848"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875121"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Viestinnän yhdenmukaisuus Microsoft 365-sovelluksessa
+# <a name="communication-compliance-in-microsoft-365"></a>Viestinnän yhteensopivuus Microsoft 365:ssä
 
-Viestintä yhteensopivuus on uusi Microsoft 365-yhteensopivuus ratkaisu, joka auttaa organisaatioita noudattamaan valvonta vaatimusten noudattamista ja minimoimaan viestintä riskejä. Se perustuu valvonta toimintoon ja sisältää uusia parannuksia, kuten:
+Viestinnän yhteensopivuus on uusi Microsoft 365 -yhteensopivuusratkaisu, jonka avulla organisaatiot täyttävät valvontavaatimukset ja minimoivat viestintäriskejä. Se perustuu Valvonta-toimintoon ja sisältää uusia parannuksia, kuten:
 
 - Älykkäät mukautettavat mallit
-- Joustavat korjaus työn kulut
-- Käytännöllisiä oivalluksia
+- Joustavat korjaustyönkulkuja
+- Hyödyllisiä näkökulmia
 
-Jos käytät tällä hetkellä [valvonta käytäntöjä](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), suosittelemme, että käytät nyt uutta viestinnän vaatimustenmukaisuutta lainsäädännöllisten tarpeiden käsittelemiseksi.
+Jos käytät tällä hetkellä [valvontakäytäntöjä,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)suosittelemme käyttämään nyt uutta viestinnän yhteensopivuuskäytäntöä lakisääteisten tarpeiden mukaan.
 
-Jos haluat määrittää viestinnän yhteensopivuuden, tutustu Ohje aiheeseen [viestinnän yhteensopivuuden määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Lisätietoja viestinnän yhteensopivuuden määrittämisestä on [kohdassa Viestinnän yhteensopivuuden määrittäminen.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Jos haluat tutkia, tarkastella ja kunnostaa viestinnän vaatimustenmukaisuutta, tutustu Ohje aiheeseen [viestinnän yhteensopivuus ilmoitusten tutkiminen ja](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)tarkistaminen.
+Lisätietoja viestinnän yhteensopivuuden tutkimista, tarkistamista ja korjaamista varten on kohdassa Viestinnän yhteensopivuusilmoituksien [tutkiminen ja hälyttää niitä.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Yleiskatsaus viestinnän vaatimustenmukaisuudesta on kohdassa [viestinnän yhteensopivuus Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)-sovelluksessa.
+Yleiskatsaus viestinnän yhteensopivuusominaisuudesta on kohdassa [Microsoft 365:n viestintä yhteensopivuus.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Käyttö oikeus vaatimukset: viestintä käytäntöjen valvomissa käyttäjillä on oltava jokin seuraavista:
+Käyttöoikeusvaatimukset: Viestintäkäytäntöjen valvomalla käyttäjillä on oltava jokin seuraavista:
 
-- Microsoft 365 E5-yhteensopivuus lisenssi
-- Office 365 Enterprise E3-käyttö oikeus, jossa on tarkennettu yhteensopivuus-lisäosa
-- Office 365 Enterprise E5-tilaus
+- Microsoft 365 E5 -yhteensopivuuskäyttöoikeus
+- Office 365 Enterprise E3 -käyttöoikeus Advanced Compliance -lisäosan kanssa
+- Office 365 Enterprise E5 -tilaus
 
-Jos sinulla ei ole mitään edellä mainituista ja haluat kokeilla viestinnän vaatimustenmukaisuutta, **[Rekisteröi Office 365 Enterprise E5-kokeilu jakso](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Jos sinulla ei ole yllä kuvattuja tietoja ja haluat kokeilla viestinnän vaatimustenmukaisuutta, rekisteröidy **[Office 365 Enterprise E5 -kokeiluversioon.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+
+> [!NOTE]
+> Saattaa kestää jopa 24 tuntia, ennen kuin sähköpostiviestejä käsitellään täydellisesti käytännön mukaisesti. Viestintä Microsoft Teamsissa, Yammer kolmansien osapuolten alustoilla voi kestää jopa 48 tuntia, ennen kuin käytäntö käsitellään täydellisesti.
