@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-ryhmän toimi alueen vaihtaminen
+title: Microsoft 365 -ryhmän toimialueen muuttaminen
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748241"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911764"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Microsoft 365-ryhmän toimi alueen vaihtaminen
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Microsoft 365 -ryhmän toimialueen muuttaminen
 
-Jos haluat muuttaa Microsoft 365-ryhmän toimi aluetta luomisen aikana, noudata ohjeita kohdassa [Valitse toimi alue, jota käytetään luotaessa microsoft 365-ryhmiä](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Jos haluat muuttaa Microsoft 365 -ryhmän toimialuetta luomisen aikana, noudata kohdassa Valitse toimialue, jota käytetään [Microsoft 365 -ryhmien luomiseen.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Kun Microsoft 365-ryhmä on jo perustettu, toimi aluetta ei tällä hetkellä voi muuttaa. Ainoa tapa on luoda uusi Microsoft 365-ryhmä ja poistaa vanha, jos se on tarpeen (muita Sähkö posti osoitteita voidaan lisätä [Exchange-hallinta keskuksessa](https://outlook.office365.com/ecp).
+Voit muuttaa olemassa olevan Microsoft 365 -ryhmän toimialuetta järjestelmänvalvojana siirtymällä Microsoft 365 -hallintakeskukseen ja toimimalla sitten https://admin.microsoft.com seuraavasti:
+
+- Valitse **ryhmät** vasemman reunan valikosta
+- Etsi M365-ryhmä, jota haluat muokata, ja  valitse  se ja valitse sitten Muokkaa Sähköpostiosoitteet-kohdassa **Yleiset-välilehdessä.**
+- Nyt voit muuttaa sen ensisijaisen sähköpostiosoitteen toimialuetta ja voit myös lisätä sähköpostitunnuksia.
+
+> [!IMPORTANT]
+> Tavalliset jakeluryhmät ja sähköpostia käyttävät käyttöoikeusryhmät mahdollistavat pienempien asetusten hallinnan M365-hallintakeskuksen **Ryhmät-osassa.** Jos haluat hallita lisätietoja, napsauta Asetukset-välilehteä, kun muokkaat yhtä niistä M365-hallintakeskuksessa, ja valitse Exchange-hallintakeskuksen vaihtoehdossa Hallitse **lisäasetuksia.** 
