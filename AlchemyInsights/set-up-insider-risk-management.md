@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784544"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951822"
 ---
 # <a name="set-up-insider-risk-management"></a>Insider-riskinhallinnan määrittäminen
 
-Insider-riskinhallinnan käytäntöjen avulla voit tunnistaa riskialttiita toimintoja ja hallintatyökaluja, joilla voit ryhtyä toimenpiteisiin organisaatiosi riski-ilmoitusten parissa. Ennen kuin aloitat Insider-riskinhallinnan käytön, sinun on vahvistettava **Microsoft 365-tilaus**. Jos haluat käyttää Insider-riskinhallintaa, organisaatiollasi **on oltava** jokin seuraavista tilauksista:
+Jos haluat käyttää Insider-riskinhallintaa, organisaatiollasi **on oltava** jokin seuraavista tilauksista:
 
 - **Microsoft 365 E5**-tilaus.
 
@@ -28,16 +29,10 @@ Insider-riskinhallinnan käytäntöjen avulla voit tunnistaa riskialttiita toimi
 
 Jos sinulla ei ole nykyistä **Microsoft 365 E5** -palvelupakettia ja haluat kokeilla Insider-riskin hallintaa, voit lisätä Microsoft 365:n nykyiseen tilaukseesi tai rekisteröityä Microsoft 365 Enterprise E5 -kokeiluversioon.
 
-Insider-riskinhallinnan käytön perusvaiheet ovat seuraavat:
-
-1. Ota käyttöön Insider-riskinhallinnan käyttöoikeudet.
-
-2. Ota valvontaloki käyttöön.
-
-3. Määritä mallin vaatimukset (valinnainen).
-
-4. Määritä Insider-riskin asetukset.
-
-5. Luo Insider-riskinhallinnan käytäntö.
+> [!TIPS]
+- > Data Leaks -mallin käyttäminen: varmista, että sinulla on vähintään yksi DLP-käytäntö määritettynä.
+- > Järjestelmänvalvoja ei näe ilmoituksia: varmista, että käyttäjä on määritetty toiseen näistä ryhmistä:
+    - >**Insider Risk Management -analyytikot**
+    - >**Insider Risk Management -tutkijat**
 
 Jos haluat lisätietoja siitä, miten Insider-riskinhallinta voi auttaa hallitsemaan riskejä organisaatiossasi, tutustu artikkeliin [Insider-riskien hallinta Microsoft 365:ssä](https://go.microsoft.com/fwlink/?linkid=2123907).
