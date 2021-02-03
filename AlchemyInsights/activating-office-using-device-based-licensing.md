@@ -1,5 +1,5 @@
 ---
-title: Officen Akti vointi laitepohjaisella käyttö oikeus toiminnolla
+title: Officen aktivoiminen laitepohjaisten käyttöoikeuksien avulla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697878"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094034"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="65c54-102">Officen Akti vointi laitepohjaisella käyttö oikeus toiminnolla</span><span class="sxs-lookup"><span data-stu-id="65c54-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="56714-102">Officen aktivoiminen laitepohjaisten käyttöoikeuksien avulla</span><span class="sxs-lookup"><span data-stu-id="56714-102">Activating Office using device-based licensing</span></span>
+
+<span data-ttu-id="56714-103">Laitepohjainen käyttöoikeus Microsoft 365 Apps for Enterprise -sovelluksille on saatavana käyttöoikeudena vain joillakin kaupallisilla asiakkailla ja joillakin opetusasiakkailla.</span><span class="sxs-lookup"><span data-stu-id="56714-103">Device-based licensing for Microsoft 365 Apps for enterprise is available as a license only for some commercial customers and some education customers.</span></span> <span data-ttu-id="56714-104">Lisätietoja on kohdassa: Laitepohjainen käyttöoikeus [Microsoft 365 -sovelluksille yrityksille](https://docs.microsoft.com/deployoffice/device-based-licensing)</span><span class="sxs-lookup"><span data-stu-id="56714-104">For detailed information, see: [Device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span></span>
+
+<span data-ttu-id="56714-105">Jos haluat aktivoida Microsoft 365 Apps for Enterprisen laitepohjaisen käyttöoikeuden avulla, katso:</span><span class="sxs-lookup"><span data-stu-id="56714-105">To activate Microsoft 365 Apps for enterprise using Device-based licensing, see:</span></span>
+
+- [<span data-ttu-id="56714-106">Microsoft 365 -sovellusten yrityssovellusten laitepohjaisen käyttöoikeuden käytön vaatimukset</span><span class="sxs-lookup"><span data-stu-id="56714-106">Requirements for using device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="56714-107">Laitepohjaisen käyttöoikeuden määrittäminen Microsoft 365 Apps for Enterprise -sovelluksille</span><span class="sxs-lookup"><span data-stu-id="56714-107">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+<span data-ttu-id="56714-108">Vianmääritysohjeita on kohdassa Microsoft [365](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) -sovellusten yrityssovellusten laitepohjaisen käyttöoikeuden vianmääritys</span><span class="sxs-lookup"><span data-stu-id="56714-108">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="65c54-103">Office [Device-pohjainen Akti vointi](https://aka.ms/officedba) yhdysvaltalaisille koulutus asiakkaille on nyt vanhentunut.</span><span class="sxs-lookup"><span data-stu-id="65c54-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="65c54-104">Kannustamme organisaatioita suunnittelemaan uusia Microsoft 365-sovelluksia Education (Device)-käyttö oikeus oppilaitos asiakkaille.</span><span class="sxs-lookup"><span data-stu-id="65c54-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
-
-<span data-ttu-id="65c54-105">Jos haluat aktivoida Officen laitepohjaisella käyttö oikeudella, sinulla on oltava käytössä Microsoft 365-sovellukset Education (Device)-lisä osien käyttö oikeus, joka on käytettävissä vain oppilaitos asiakkaille ja saatavilla vain oppilaitos ratkaisujen rekisteröimisen kautta.</span><span class="sxs-lookup"><span data-stu-id="65c54-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="65c54-106">Lisä tietoja on kohdassa [laitepohjaisen käyttö oikeuden käytön vaatimukset Microsoft 365-sovellusten](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)yrityksille.</span><span class="sxs-lookup"><span data-stu-id="65c54-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
-
-
-<span data-ttu-id="65c54-107">Lisä tietoja asetuksista on kohdassa:</span><span class="sxs-lookup"><span data-stu-id="65c54-107">For detailed information on setup, see:</span></span>
-
-- [<span data-ttu-id="65c54-108">Vaiheittaiset ohjeet laitepohjaisen käyttö oikeuden määrittämiseen Microsoft 365-sovelluksille yrityksille</span><span class="sxs-lookup"><span data-stu-id="65c54-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="65c54-109">Laitteiden käyttö oikeuksien hallinta</span><span class="sxs-lookup"><span data-stu-id="65c54-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-<span data-ttu-id="65c54-110">Lisä tietoja vian määrityksestä on kohdassa [laitepohjaisen käyttö oikeuden vian määritys Microsoft 365-sovelluksissa](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)yrityksille.</span><span class="sxs-lookup"><span data-stu-id="65c54-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+> <span data-ttu-id="56714-109">Jos Microsoft 365 -sovellukset on jo asennettu ja aktivoitu käyttäjäperusteisten tilausten käyttöoikeuksilla tai jaetun tietokoneen aktivoinnilla, sinun on palautettava laitteen käyttöoikeustila, ennen kuin se siirryt laitepohjaisiin käyttöoikeuksiin.</span><span class="sxs-lookup"><span data-stu-id="56714-109">If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing.</span></span> <span data-ttu-id="56714-110">Lisätietoja aktivoinnin tilan palauttamisesta on kohdassa [Microsoft 365 -sovellusten yritysaktivoinnin tilan palauttaminen](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span><span class="sxs-lookup"><span data-stu-id="56714-110">To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span></span>
