@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560437"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093352"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Ota käyttöön salasanan takaisinkirjoitus Azure AD Connectissa
 
@@ -43,4 +43,4 @@ Kun salasanan takaisinkirjoitus on otettu käyttöön Azure AD Connectissa, mä�
 Lue lisää artikkelista [Azure Active Directoryn salasanan palauttamisen takaisinkirjoitus itsepalveluna paikalliseen ympäristöön](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Kun järjestelmänvalvoja palauttaa käyttäjän salasanan Azure-portaalissa, jos käyttäjä on organisaation ulkopuolinen tai salasanan hajautus on synkronoitu, salasana kirjoitetaan takaisin paikallisesti. Tätä ominaisuutta ei tällä hetkellä tueta Office-hallintaportaalissa.
+>  Kun järjestelmänvalvoja palauttaa käyttäjän salasanan Azure-portaalissa, jos käyttäjä on organisaation ulkopuolinen tai salasanan hajautus on synkronoitu, salasana kirjoitetaan takaisin paikallisesti. Tämä toiminto edellyttää Azure Premium -käyttöoikeutta (P1 tai P2), eikä sitä tällä hetkellä tueta Office-hallintaportaalissa.
