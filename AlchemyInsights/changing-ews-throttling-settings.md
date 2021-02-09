@@ -22,6 +22,6 @@ ms.locfileid: "50075894"
 ---
 # <a name="changing-ews-throttling-settings"></a>Muutetaan EWS-rajoitusasetuksia
 
-Suorita automaattinen testimme, jonka avulla voit muuttaa EWS-rajoituskäytäntöä siirron ajaksi. Huomaa, että suorituksen jälkeen, EWS-tuonnit on silti rajoitettu 150 megatavuun 5 minuutin sisällä per postilaatikko. Jos haluat saavuttaa korkeammat siirtonopeudet, siirrä useampia käyttäjiä samanaikaisesti.
+Suorita automaattinen testimme, jonka avulla voit muuttaa EWS-rajoituskäytäntöä siirron ajaksi. Huomaa, että testin suorituksenkin jälkeen, EWS-tuonnit on silti rajoitettu 150 megatavuun 5 minuutin sisällä postilaatikkoa kohti. Jos haluat saavuttaa korkeammat siirtonopeudet, siirrä useampia käyttäjiä samanaikaisesti.
 
 Huomaa, että EWS-rajoituskäytännön muutoksilla ei ole vaikutusta seuraaviin siirtotyyppeihin (Microsoft-työkaluja käytettäessä): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Yleinen kansio tai PST-tuontipalvelu.
