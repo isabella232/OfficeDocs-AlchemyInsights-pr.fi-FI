@@ -1,37 +1,35 @@
 ---
-title: Miten vaihdan luotto kortti maksuja laskulle?
+title: Miten voin vaihtaa luottokorttimaksusta laskuksi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286731"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152303"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Miten vaihdan luotto kortti maksuja laskulle?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Miten voin vaihtaa luottokorttimaksusta laskuksi?
 
 > [!NOTE]
-> Laskun maksu tapa on käytettävissä vain, jos tilaus maksaa tietyn määrän (joka vaihtelee palvelu sijainnin mukaan). Suurten summien maksaminen laskulla saattaa edellyttää luottotietojen tarkistusta. Lisä tietoja on artikkelissa [tila uksen maksaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Voit vaihtaa maksua laskulla vain, jos tilauksesi hinta on yli tietyn summan. Sinun on ensin maksettava kaikki avoimet saldot luotto- tai debit-kortilla tai pankkitilillä, ennen kuin voit muuttaa laskulla maksettavaksi.
 
-1. Siirry hallinta keskuksessa **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Etsi tilaus, jota haluat muuttaa. Valitse **laskutus**-kohdan maksu tapa-kohdan vierestä **Muokkaa**.
-3. Valitse olemassa olevan maksu tavan vierestä **Muuta**.
-4. Valitse avattavasta valikosta **lasku tai pankki siirto**.
-5. Kirjoita nimesi, osoitteesi ja puhelin numerosi. Voit myös lisätä laskussa näkyvän osto tilaus numeron.
-6. Kun olet valmis, valitse **Tallenna**.
-7. Varmista, että valittu maksu tapa on oikein, ja valitse sitten **Tallenna**.
+1. Siirry hallintakeskuksessa Tuotteiden laskutus   >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat maksaa vaihtoehtoisen maksutavan avulla.
+3. Valitse **Lisää toimintoja** (kolme painiketta) ja valitse sitten Korvaa **maksutapa.**
+4. Valitse **Korvaa maksutapa** -ruudussa **Lisää maksutapa.**
+5. Valitse Lisää **maksutapa -ruudussa** **Lasku tai tilisiirto.**
+6. Kirjoita nimesi, osoitteesi ja puhelinnumerosi. Voit myös lisätä laskussa näytettävän ostotilausnumeron.
+7. Kun olet valmis, valitse **Tallenna.**
 
-Lisä tietoja on Ohje aiheessa [maksu tavan muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Lisätietoja on kohdassa [Tilauksen maksaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

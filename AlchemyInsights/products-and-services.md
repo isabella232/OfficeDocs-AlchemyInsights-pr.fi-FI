@@ -1,5 +1,5 @@
 ---
-title: Omat tuotteet
+title: Tuotteesi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,28 +8,28 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307015"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152415"
 ---
-# <a name="your-products"></a>Omat tuotteet
+# <a name="your-products"></a>Tuotteesi
 
-Löydät organisaatiosi omistamat tila uksia **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla. Tässä on joitain tämän sivun Koho kohtia sekä linkkejä, joiden avulla saat lisä tietoja kustakin ominaisuudesta:
+Organisaatiosi omistamat tilaukset ovat Laskutus   >  [tuotteesi -sivulla.](https://go.microsoft.com/fwlink/p/?linkid=842054) Seuraavassa on joitakin tämän sivun pääkohtia sekä linkkejä, joista saat lisätietoja kustakin ominaisuudesta:
 
-1. Tarkastele määritettyjen käyttö oikeuksien määrää ja sitä, kuinka monta käyttö oikeutta on ostettu kustakin tila uksesta.
+1. Tarkastele määritettyjen käyttöoikeuksien määrää ja kunkin tilauksen käyttöoikeuksien määrää.
     > [!NOTE]
-    > Sinulta veloitetaan edelleen käyttö oikeuksia, jotka eivät ole käytössä (ei määritetty käyttäjälle). Jos haluat, että käyttämättömiä käyttö oikeuksia ei veloiteta, vähennä ostettujen käyttö oikeuksien määrää. Lisä tietoja käyttö oikeuksien lisäämisestä tai poistamisesta tila uksesta on Ohje aiheessa [käyttö oikeuksien lisääminen tai vähentäminen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
-2. Näytä kunkin tila uksen tila. Lisä tietoja tila uksen uudelleenaktivoimisesta on artikkelissa [tila uksen Akti Voiminen uudelleen](reactivate-your-subscription.md).
-3. Näytä kunkin tila uksen uusimis-tai vanhentumis päivämäärä. Voit hallita uusintaa valitsemalla tila uksen ja valitsemalla sitten **Muokkaa toistuvaa laskutusta**. Lisä tietoja toistuvan laskutuksen Hallin nasta on artikkelissa [toistuvan laskutuksen hallinta](manage-auto-renewal.md).
-4. Näytä kunkin tila uksen käyttämä maksu tapa. Lisä tietoja maksu tavan muuttamisesta on artikkelissa [maksu tavan muuttaminen](change-payment-method.md).
-5. Määritä, [kuinka usein maksat](change-how-often-you-pay.md).
-6. [Peruuta tilaus](https://go.microsoft.com/fwlink/?linkid=2119113).
+    > Sinua veloitetaan edelleen käyttöoikeuksista, joita ei ole käytössä (joita ei ole määritetty käyttäjälle). Jotta käyttämättömistä käyttöoikeuksista ei veloiteta, vähennä ostettujen käyttöoikeuksien määrää. Lisätietoja käyttöoikeuksien lisäämisesta tilaukseen tai käyttöoikeuksien poistaminen tilauksesta on kohdassa Käyttöoikeuksien lisääminen [tai pienentäminen.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
+2. Tarkastele kunkin tilauksen tilaa. Lisätietoja tilauksen uudelleenaktivoimisesta on kohdassa [Tilauksen uudelleenaktivoiminen.](reactivate-your-subscription.md)
+3. Tarkastele kunkin tilauksen uusimis- tai vanhentumispäivää. Voit hallita uusimista valitsemalla tilauksen ja valitsemalla sitten Muokkaa **toistuvaa laskutusta.** Lisätietoja toistuvan laskutuksen hallitsemista varten on kohdassa [Toistuvan laskutuksen hallinta.](manage-auto-renewal.md)
+4. Tarkastele kunkin tilauksen maksutapaa. Lisätietoja maksutavan tavasta on kohdassa [Vaihda maksutapaa.](change-payment-method.md)
+5. [Muuta sitä, kuinka usein maksat.](change-how-often-you-pay.md)
+6. [Peruuta tilaus.](https://go.microsoft.com/fwlink/?linkid=2119113)
 
-Voit ostaa lisää tila uksia **laskutuksen**  >  [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla.
+Voit ostaa lisää tilauksia **Laskutusoston**  >  [palvelut -sivulta.](https://go.microsoft.com/fwlink/p/?linkid=868433)
