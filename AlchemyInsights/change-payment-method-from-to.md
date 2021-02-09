@@ -1,30 +1,29 @@
 ---
 title: Maksutavan muuttaminen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933220"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152591"
 ---
 # <a name="change-payment-method-fromto"></a>Maksutavan muuttaminen
 
 1. **Laskun muuttaminen luottokortti- tai pankkitilimaksuksi**
 
-    - Jos haluat muuttaa maksutapaa ja käyttää laskun maksuvälineenä luottokorttia tai pankkitiliä, sinulle luodaan automaattisesti uusi tilaus, käyttäjäsi siirretään uuteen tilaukseen ja vanha tilaus poistetaan käytöstä. Älä huoli, käyttäjäsi eivät koe palveluhäiriöitä ja kaikki heidän tietonsa ovat käytettävissä uuden tilauksen kautta. 
-
-    - Noudata vaiheita kohdassa [Laskun muuttaminen luottokortti- tai pankkitilimaksuksi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Laskulla maksamisesta ei voi automaattisesti siirtyä toiseen maksutapaan. Sinun on sen sijaan [tehtävä toinen tilaus](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), josta maksetaan luotto- tai pankkikortilla tai pankkitilimaksulla, [siirrettävä kaikki käyttäjät uuteen tilaukseen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) ja sitten [peruutettava vanha tilaus](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Luottokortti- tai pankkitilimaksun muuttaminen laskuksi**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933220"
 
     - Jos tilauksesi summa on liian suuri, luottotietosi saatetaan tarkistaa. Silloin näkyviin tulee sanoma "Maksutavaksi ei voi valita laskua. Tilauksesi edellyttää luottotietojen tarkistusta". Tässä tapauksessa voit siirtyä maksamaan laskulla manuaalisesti.
 
-    - Voit vaihtaa maksutavan manuaalisesta noudattamalla vaiheita kohdassa [Luottokortti- tai pankkitilimaksun muuttaminen laskuksi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice).
+    - Voit vaihtaa maksutavan manuaalisesti noudattamalla vaiheita kohdassa [Luottokorttimaksun muuttaminen laskuksi](how-do-i-change-from-credit-card-payments-to-invoice.md).
 
-Lisätietoja on artikkelissa [Maksutavan muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Katso lisätietoja kohdasta [Tilauksen maksaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
