@@ -1,5 +1,5 @@
 ---
-title: Tila uksen keskeyttäminen tai keskeyttäminen
+title: Tilauksen keskeyttäminen tai keskeyttäminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: e5bbc2f7e447cfedeaee2be2bcfe1132e73b24e7
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488950"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231896"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Tila uksen keskeyttäminen tai keskeyttäminen
+# <a name="suspend-or-pause-a-subscription"></a>Tilauksen keskeyttäminen tai keskeyttäminen
 
-Jos haluat keskeyttää tai keskeyttää tilauksesi tilapäisesti, voit peruuttaa tila uksen Microsoft 365-hallinta keskuksessa.
+Jos haluat keskeyttää tilauksen tilapäisesti tai keskeyttää sen, voit peruuttaa tilauksen Microsoft 365 -hallintakeskuksessa.
 
-1. Siirry hallinta keskuksessa **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Etsi **tuotteet** -väli lehdestä tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
-3. Tila uksen tila näkyy **poissa käytöstä** ja siinä näkyy päivä määrä, jolloin tilaus peruutettiin. Tilaus säilyy poissa käytöstä 90 päivän ajan, ja sen toiminnallisuus on heikentynyt, kunnes se poistetaan tai [aktivoidaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)uudelleen.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme painiketta) ja valitse sitten Peruuta **tilaus.**
+3. Tilauksen tilana näkyy **Ei käytössä** ja tilauksen peruutuksen päivämäärä. Tilaus on poissa käytöstä 90 päivän ajan, ja sillä on rajoitetut toiminnot, kunnes se poistetaan tai [aktivoidaan uudelleen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Lisä tietoja on Ohje aiheessa [mitä tapahtuu, kun tilaus peruutetaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) ja [tiedot tallennetaan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Lisätietoja on kohdassa Mitä [tapahtuu, kun peruutat tilauksen ja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [tallennat tiedot.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

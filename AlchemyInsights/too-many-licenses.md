@@ -1,9 +1,8 @@
 ---
-title: Liian monta käyttö oikeutta?
+title: Liian monta käyttöoikeutta?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "540"
 - "1500027"
-ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: a093cd0ac2bc4d165a91276e7a5f1a14a8b7736f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307231"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231968"
 ---
-# <a name="too-many-licenses"></a>Liian monta käyttö oikeutta?
+# <a name="too-many-licenses"></a>Liian monta käyttöoikeutta?
 
-Jos arvelet, että sinua laskutetaan liian monista käyttö oikeuksista, tämä johtuu yleensä siitä, että olet ostanut lisää käyttö oikeuksia.
+Jos sinua laskutetaan mielestäsi liian useista käyttöoikeuksista, tämä johtuu yleensä siitä, että olet ostanut lisää käyttöoikeuksia, joten tarvitset niitä.
   
-**Ostettujen käyttö oikeuksien määrän vähentäminen**
+**Ostettujen käyttöoikeuksien määrän pienentäminen**
+
+**KATSO video,** jossa näytetään, miten voit tehdä tämän: [Olemassa olevien käyttöoikeuksien poistaminen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
   
-1. Siirry hallinta keskuksessa **laskutus** \> **[tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle.
-2. Valitse **tuotteet** -väli lehdessä tilaus, jota haluat muuttaa.
-3. Valitse tila uksen tiedot-sivulla **Poista käyttö oikeudet**.
-4. Kirjoita **Poista käyttö** oikeudet-ruudun **uusi määrä** **yhteensä käyttö oikeudet** -ruutuun, kuinka monta käyttö oikeutta haluat käyttää tähän tila ukseen. Jos sinulla on esimerkiksi 100-käyttö oikeudet ja haluat poistaa niistä 25, kirjoita 75.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi** \> **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Valitse **Tuotteet-välilehdessä** tilaus, jota haluat muuttaa.
+3. Valitse tilauksen tiedot -sivulla **Poista käyttöoikeudet.**
+4. Kirjoita **Poista käyttöoikeuksia -ruudun** Uusi  määrä Yhteensä käyttöoikeudet -ruutuun tämän tilauksen käyttöoikeuksien kokonaismäärä.  Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat poistaa niistä 25, kirjoita 75.
 5. Valitse **Tallenna**.
 
-Lisä tietoja on artikkelissa [tila uksen käyttö oikeuksien ostaminen tai poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lisätietoja on kohdassa [Käyttöoikeuksien ostaminen tai poistaminen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

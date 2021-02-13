@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-ostoksen luominen
+title: Microsoft 365 -oston hankkiminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287135"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232364"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365-ostoksen luominen
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 -oston hankkiminen
 
-Voit ostaa Microsoft 365-tila uksen hallinta keskuksesta.
+Voit ostaa Microsoft 365 -tilauksen hallintakeskuksessa.
   
-- Jos haluat ostaa palvelu paketin, siirry **laskutuksen** \> [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulle.
-- Jos haluat ostaa lisää käyttö oikeuksia, siirry **laskutus** \> [tuotteidesi](https://go.microsoft.com/fwlink/p/?linkid=842054) sivulle. Valitse tilaus, jota haluat muuttaa, ja valitse sitten **Osta käyttö oikeuksia** tai **Poista käyttö**oikeuksia.
+- Jos haluat ostaa palvelupakettia, siirry **Laskutusoston** \> **[palvelut -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Jos haluat ostaa lisää käyttöoikeuksia, siirry **Tuotteiden** \> **[laskutus -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valitse tilaus, jota haluat muuttaa, ja valitse sitten **Osta käyttöoikeuksia**.\
+**KATSO video,** jossa näytetään, miten voit tehdä tämän: [Osta uusia käyttöoikeuksia](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Lisä tietoja on artikkelissa [käyttö oikeuksien ostaminen Microsoft 365 for Business-tila ukseen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Lisätietoja on kohdassa [Käyttöoikeuksien ostaminen tai poistaminen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Vianmääritys**
 
 Jos sinulla on ongelmia sivun lataamisessa, yritä avata verkkosivu toisessa selaimessa tai yksityisessä selainikkunassa, kuten Microsoft Edgen InPrivate-ikkunassa tai Google Chromen incognito-ikkunassa.
 
-**Lisä resurssit**
+**Lisäresursseja**
   
-- [Käyttö oikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 - [Microsoft 365 for Businessin peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
