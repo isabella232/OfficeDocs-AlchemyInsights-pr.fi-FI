@@ -1,9 +1,10 @@
 ---
-title: Käyttöönoton lisä asetukset saalis kaikki sääntö
+title: Edistyneen käyttöönoton kaikkien sääntöjen hallinta
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696689"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448640"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Microsoft 365-sovellusten käyttöönotto
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Officen asentaminen Microsoft 365 -sovellusten käyttöönottoneuvojan avulla
 
-Jos haluat ottaa käyttöön Microsoft 365-sovelluksia useille käyttäjille käyttämällä Windowsin asennus työkalua, Microsoft pääte pisteiden määritysten hallintaa osana käyttö järjestelmän levy tiedostoa tai jaetussa tieto koneessa, jossa on käytössä Windows Server ja Etätyöpöytä palvelut (RDS) tai pääte palvelut, kannattaa ottaa käyttöön vaihe vaiheelta-opas **microsoft 365-sovelluksissa Enterprise käyttöönottoa varten**.
+[Microsoft 365 -sovellusten](https://admin.microsoft.com/adminportal/home) käyttöönottoneuvojan avulla saat käyttäjien laitteet, joissa on käytössä Office-tuotteiden, kuten Wordin, Excelin, PowerPointin ja OneNoten, uusin versio.
   
-Aloita varmistamalla, että olet kirjautunut sisään vuokra ajan järjestelmänvalvojana tai yleisenä järjestelmänvalvojana, ja napsauta sitten tätä: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Saat ohjeita erilaisiin käyttöönottomenetelmiin, jotka sisältävät helppoja itseasennuksen vaihtoehtoja, sekä yrityksen käyttöönotot hallintatyökalujen avulla. Ohjeet auttavat ympäristön arvioimiseen, käyttöönottovaatimusten selvittämiseen ja tarvittavien tukityökalujen käyttöönottoon onnistuneen asennuksen varmistamiseksi.
   

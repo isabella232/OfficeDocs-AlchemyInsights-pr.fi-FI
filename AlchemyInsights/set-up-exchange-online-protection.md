@@ -1,10 +1,10 @@
 ---
-title: Exchange Online-suojaus asetusten määrittäminen
+title: Exchange Online Protectionin määritäminen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/04/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 27cc84b4fd1cde1738f875321cc6609ab384065a
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678200"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448955"
 ---
-# <a name="set-up-exchange-online-protection"></a>Exchange Online-suojaus asetusten määrittäminen
+# <a name="set-up-exchange-online-protection"></a>Exchange Online Protectionin määritäminen
 
-Microsoft Exchange Online Protection (ESIP) on pilvipohjainen sähkö postin suodatus palvelu roska postia ja haitta ohjelmia vastaan, ja siinä on ominaisuuksia, jotka suojaavat organisaatiotasi viestintä käytäntöjen loukkauksista.
+Microsoft Exchange Online Protection (EOP) on pilvipohjainen sähköpostin suodatuspalvelu roskapostilta ja haittaohjelmilta suojaamista varten. Se sisältää ominaisuuksia, joilla organisaatiota voidaan suojata viestintäkäytäntörikkomuksista.
 
-[Exchange Online Protection-määritys oppaan](https://admin.microsoft.com/adminportal/home#/modernonboarding/prepareyourenvironment) avulla voit määrittää esip-toiminnon valitsemalla kolmesta käyttöönotto skenaariosta – paikalliset posti laatikot, yhdistelmä (paikallisten ja pilvi posti laatikoiden yhdistelmä) tai kaikki pilvi posti laatikot – jotka sopivat organisaatioosi. Oppaassa on tietoja ja resursseja, joiden avulla voit määrittää EDIS:N ja tarkistaa käyttäjän käyttö oikeuden, määrittää käyttö oikeudet Microsoft 365-hallinta keskuksessa ja määrittää organisaation haitta ohjelmien torjunta-ja roska posti käytännöt suojaus & yhteensopivuus keskuksessa.
+Exchange [Online Protectionin](https://go.microsoft.com/fwlink/?linkid=2071067) määritysoppaan avulla voit määrittää EOP:n valitsemalla kolmesta käyttöönottoskenaariosta: paikallisesta postilaatikosta, yhdistelmäympäristöstä (yhdistelmä paikallisista ja pilvipalveluista) postilaatikoista tai kaikista pilvipostilaatikoista, jotka sopivat organisaatioosi. Oppaassa on tietoja ja resursseja EOP:n määrittämiseen ja käyttäjän käyttöoikeuksien tarkistamiseen, käyttöoikeuksien määrittämiseen Microsoft 365 -hallintakeskuksessa sekä organisaation haittaohjelmien ja roskapostin torjuntakäytäntöjen määrittämiseen Tietoturva- ja & yhteensopivuuskeskuksessa.

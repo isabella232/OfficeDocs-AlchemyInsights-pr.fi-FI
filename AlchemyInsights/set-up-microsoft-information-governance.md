@@ -1,9 +1,10 @@
 ---
-title: Microsoft Information hallinta-asetusten määrittäminen
+title: Microsoftin tietojen hallinnan määritäminen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.audience: Admin
+ms.date: 03/02/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004220"
 - "7428"
-ms.openlocfilehash: c404e541d54094c2189c38576399b1cbe04e32e2
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "9000273"
+- "9245"
+ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678186"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448755"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Microsoft Information hallinta-asetusten määrittäminen
+# <a name="set-up-microsoft-information-governance"></a>Microsoftin tietojen hallinnan määritäminen
 
-[Microsoft Information hallinta-määritys oppaassa](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) on tietoja, jotka tarvitset organisaation hallinta strategian määrittämiseen ja hallintaan, jotta voit varmistaa, että tiedot luokitellaan ja hallitaan määritettyjen elin kaari ohjeiden mukaisesti.
+[Microsoft information governance setup guide](https://go.microsoft.com/fwlink/?linkid=2146529) provides you'll need to set up and manage your organization's governance strategy, to ensure that your data is classified and managed to the specific lifecycle guidelines to set to specific lifecycle guidelines to set.
 
-Tämän oppaan avulla opit luomaan, käyttämään automaattisesti tai julkaisemaan otsikoita, tarra käytäntöjä ja säilytys käytäntöjä, joita käytetään organisaation Uudelleenkäytettävään sisältöön ja yhteensopivuus tietueisiin. Saat myös tietoja CSV-tiedostojen tuomisesta tiedosto piirrolla joukko skenaarioista tai niiden käyttämisestä manuaalisesti yksittäisiin tiedostoihin.
+Tämän oppaan avulla opit luomaan, käyttämään automaattisesti tai julkaisemaan selitteet, osoitetarrakäytännöt ja säilytyskäytännöt, joita käytetään organisaation uudelleenkäytettävässä sisällössä ja yhteensopivuustietueissa. Saat myös tietoja CSV-tiedostojen tuomiseen joukkoskenaarioita varten tai niiden manuaaliseen käyttöön yksittäisissä asiakirjoissa.
