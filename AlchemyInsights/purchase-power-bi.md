@@ -1,37 +1,36 @@
 ---
-title: Osta Power BI
+title: Power BI:n ostaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693336"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469623"
 ---
-# <a name="purchase-power-bi"></a>Osta Power BI
+# <a name="purchase-power-bi"></a>Power BI:n ostaminen
 
-Power BI:n voi ostaa **Microsoft 365-hallinta keskuksesta**.
+Power BI:n voi ostaa **Microsoft 365 -hallintakeskuksessa.**
 
-1. Siirry **laskutus > [Osto Palvelut](https://go.microsoft.com/fwlink/p/?linkid=868433) ** -sivulle.
+1. Siirry **Laskutus- ja > [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+2. Hakuruudun avulla voit etsiä hakusanalla "Power BI".
+3. Valitse Power BI -palvelupaketti, jonka haluat ostaa, valitse **Tiedot** ja valitse sitten **Osta.**
+4. Anna haluamasi käyttöoikeuksien määrä ja valitse, maksatko kuukausittain vai vuosittain. Valitse, haluatko määrittää automaattisesti käyttöoikeudet kaikille käyttäjille, joilla ei ole tällä hetkellä käyttöoikeuksia. Valitse sitten **Tutustu nyt.**
+5. Tarkista hintatiedot ja valitse **Seuraava.**
+6. Anna maksutietosi ja valitse sitten Tee **tilaus**  >  **Siirry järjestelmänvalvojan aloitussivulle.**
 
-2. Hae haku-ruudun avulla "Power BI".
+Lisätietoja käyttöoikeuksien määrittämisestä käyttäjille on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-3. Valitse Power BI-tilaus, jonka haluat ostaa.
-
-4. Valitse niiden käyttäjien määrä, joilla on Power BI.
-
-Lisä tietoja käyttö oikeuksien määrittämisestä käyttäjille on kohdassa [käyttö oikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-
-Jos haluat ostaa lisää tai poistaa käyttöoikeuksia, lue [Käyttöoikeuksien lisääminen ja poistaminen tilaukselta](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Lisätietoja käyttöoikeuksien ostamisesta tai käyttöoikeuksien poistamisesta on kohdassa [Business-tilauksen käyttöoikeuksien ostaminen tai poistaminen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
