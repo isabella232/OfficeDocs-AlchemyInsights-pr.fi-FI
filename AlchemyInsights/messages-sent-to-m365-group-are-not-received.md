@@ -1,27 +1,32 @@
 ---
-title: Kaikki jäsenet eivät vastaanota Microsoft 365 -ryhmälle lähetettyjä viestejä
+title: Kaikki jäsenet eivät saa Microsoft 365 -ryhmälle lähetettyjä viestejä
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 2c98841aaa278c1bc18b3ec9007240b1e856f41e
-ms.sourcegitcommit: 743a9e4967993c5463272240280c22e27a8dc5b6
-ms.translationtype: MT
+ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
+ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45051496"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430680"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Kaikki jäsenet eivät vastaanota Microsoft 365 -ryhmään lähetettyjä viestejä
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Kaikki jäsenet eivät saa Microsoft 365 -ryhmälle lähetettyjä viestejä
 
-Varmista, että kaikki ryhmän jäsenet ovat tilanneet vastaanottamaan sähköpostit. Lisätietoja [on ohjeaiheessa Ryhmän seuraaminen Outlookissa](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
+Varmista, että kaikki ryhmän jäsenet ovat valinneet sähköpostiviestien vastaanottamisen. Katso [Seuraa ryhmää Outlookissa](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
 
-Voit tarkistaa ryhmäsähköpostien tilaaneiden jäsenten viestin tilan suorittamalla seuraavan komennon [EXO PowerShellissä:](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps)
+Voit tarkistaa ryhmän sähköpostiviestit tilanneiden jäsenten tilan suorittamalla seuraavan komennon [EXO PowerShellissä](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true): 
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
+
+Määritä kaikki ryhmän jäsenet vastaanottamaan Microsoft 365 -ryhmälle lähetettyjä sähköpostiviestejä Saapuneet-kansioonsa suorittamalla seuraavan EXO PowerShell -komennon: 
+
+`$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`

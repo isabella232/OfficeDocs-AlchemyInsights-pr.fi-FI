@@ -1,5 +1,5 @@
 ---
-title: Microsoft teamsin valmisteleva kokemus
+title: Microsoft Teamsin kokeminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
+ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019544"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50480716"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft teamsin valmisteleva kokemus
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teamsin kokeminen
 
-- Mitä [teams on valmisteleva](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Microsoft teamsin valmisteleva kokemus mahdollistaa sen, että organisaation käyttäjät, joilla ei ole käyttö oikeuksia tiimeihin, voivat aloittaa teams-kokemuksen. Lisä tietoja on kohdassa [teamsin valmistelevan käyttö kokemuksen sisältö](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Milloin käyttö oikeuteni vanhenee](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Microsoft teamsin valmisteleva kokemus on saatavilla maksutta ennen seuraavan sopimuksen vuosi päivää tai uusimista tammi kuun 2021.
-- Järjestelmänvalvojana voit [päivittää käyttäjiä teamsin valmisteleva](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) käyttö oikeus-toiminnolla ostamalla tila uksen, joka sisältää tiimit, poistamalla tiimistä valmistelevan tila uksen käyttäjältä ja määrittämällä uuden ostetun käyttö oikeuden.
-- Lisä tietoja on kohdassa [teamsin valmistelevan käyttö oikeuden hallinta.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Mikä [teamsin explorator on?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Microsoft Teamsin explorator-käyttökokemuksen avulla organisaatiosi käyttäjät, joilla ei ole Teamsin käyttöoikeutta, voivat aloittaa Teamsin koekäyttökokemuksen. Lisätietoja on Teamsin kokeminen [-käyttökokemuksessa.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Kuinka kauan Teamsin kokeminen kestää?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Microsoft Teamsin explorator-käyttökokemus on käytettävissä ilman lisämaksua 12 kuukaudelle (käyttäjän alkuperäisestä rekisteröitymisajanjaksosta) sekä 30 päivän lisäajan.
+- Järjestelmänvalvojana voit päivittää käyttäjiä [Teamsin explorator-käyttöoimesta](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) ostamalla Teamsin, poistamalla teamsin exploratory-tilauksen käyttäjältä ja määrittämällä juuri hankitun käyttöoikeuden.
+- Lisätietoja on kohdassa [Teamsin exploratory-käyttöoikeuden hallinta.](https://docs.microsoft.com/microsoftteams/teams-exploratory)

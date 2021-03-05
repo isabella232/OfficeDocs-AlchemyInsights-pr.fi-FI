@@ -1,32 +1,34 @@
 ---
 title: Microsoft 365 F3 -tilauksesta ja käyttöoikeuksien hallinnasta usein kysytyt kysymykset
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5472"
-ms.openlocfilehash: 25aa28ef98e35ec75f63c45bade34844730e74e5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+- commerce
+ms.openlocfilehash: 0efc3353924a1c21f174d0d95071dad76b16e563
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944143"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469767"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Microsoft 365 F3 -tilauksesta ja käyttöoikeuksien hallinnasta usein kysytyt kysymykset
 
 - Jos haluat **tutustua ja ostaa** F3-tilauksen, katso [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab).
-- Katso ohjeet **paketin vaihtamisesta** artikkelista [Microsoft 365:n vaihtaminen yrityspalvelupaketteihin manuaalisesti](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Jos haluat **määrittää** käyttäjien F3-käyttöoikeuksia, siirry kohtaan **Laskutus > [Käyttöoikeudet](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisätietoja saa kohdasta [Käyttöoikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Jos haluat **lisätä tai poistaa** F3-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valitse **Lisää tai poista käyttöoikeuksia**. Lisätietoja: [Käyttöoikeuksien lisääminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Jos haluat **peruuttaa** F3-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valitse **Asetukset ja toiminnot** ja napsauta **Peruuta tilaus**. Katso lisätietoja kohdasta [Peruuta tilaus](https://docs.microsoft.com/officF365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Jos haluat **vaihtaa palvelupakettia**, katso [Päivitä toiseen palvelupakettiin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Jos haluat **määrittää** F3-käyttöoikeuksia käyttäjille, siirry kohtaan **Laskutus > [Käyttöoikeudet](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lisätietoja: [Käyttöoikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Jos haluat **ostaa tai poistaa** F3-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Lisätietoja: [Käyttöoikeuksien ostaminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Jos haluat **peruuttaa** F3-käyttöoikeuksia, siirry kohtaan **Laskutus > [Tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)**, valitse tilaus ja valitse **Tilaus- ja maksuasetukset** -osiosta **Peruuta tilaus**. Katso lisätietoja kohdasta [Peruuta tilaus](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Jos haluat **aktivoida** F3-tilauksen, katso kohta [Tilauksen aktivoiminen](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Jos haluat **uudelleenaktivoida ** F3-tilauksen, katso kohta [Tilauksen uudelleenaktivointi](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Jos haluat **pidentää** F3-kokeiluaikaa, katso kohta [Kokeiluajan pidentäminen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Jos haluat **uudelleenaktivoida** F3-tilauksen, katso kohta [Tilauksen uudelleenaktivointi](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Jos haluat **pidentää** F3-kokeiluaikaa, katso kohta [Kokeiluajan pidentäminen](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Lisätietoja: [Tilauskäyttöoikeuksien hallinta](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Lisätietoja: [Käyttöoikeuksien ostaminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
