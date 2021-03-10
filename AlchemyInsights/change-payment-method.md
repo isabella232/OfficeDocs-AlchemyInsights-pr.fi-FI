@@ -9,16 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152375"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601136"
 ---
 # <a name="change-payment-method"></a>Maksutavan muuttaminen
 
@@ -31,7 +30,7 @@ Voit muuttaa maksutapaa **Microsoft 365 -hallintakeskuksessa.**
     > [!NOTE]
     > Jos sinulla on laskutusprofiiliin liitettyjä tilauksia, voit maksaa ne vain luotto- tai debit-kortilla. Jos maksutavat-sivulla on  pankkitilit, niitä ei voi valita avattavasta luettelosta.
 5. Jos haluat lisätä uuden maksutavan, valitse **Lisää maksutapa.**
-6. Kirjoita **Lisää maksutapa -ruutuun** tilin tiedot ja valitse **sitten Tallenna.** Sinun on käytettävä samassa maassa kuin vuokraajasi maksutapaa.
+6. Kirjoita **Lisää maksutapa -ruutuun** tilitiedot ja valitse **sitten Tallenna.** Sinun on käytettävä samassa maassa kuin vuokraajasi maksutapaa.
 7. Uusi maksutapa on jo valittu avattavasta luettelosta. Valitse **Korvaa.**
 
 Lisätietoja maksutapojen lisäämis-, päivitys-, korvaus- ja poistotavoista on kohdassa [Maksutapojen hallinta.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
