@@ -1,10 +1,10 @@
 ---
-title: Sovelluksen välityspalvelimen URL-osoiteongelmat
+title: Sovellusvälityspalvelimen URL-ongelmat
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50035929"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641479"
 ---
-# <a name="application-proxy-url-issues"></a>Sovelluksen välityspalvelimen URL-osoiteongelmat
+# <a name="application-proxy-url-issues"></a>Sovellusvälityspalvelimen URL-ongelmat
 
-Lisätietoja sovelluksen välityspalvelimen URL-osoitteeseen liittyvien ongelmien vianmäärityksestä on ohjeaiheessa:
+Lisätietoja sovellusvälityspalvelimen URL-ongelmien vianmäärityksestä:
 
-- [Sivun linkit eivät toimi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  sovelluksen välityspalvelinsovelluksessa – Ohjeita siihen, miksi Azure Active Directory (AD) -välityspalvelimen sovelluksen linkit eivät toimi oikein.
+- [Sovellusvälityspalvelimen sivun linkit eivät toimi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem) – Ohjeita Azure Active Directory (AD) -sovellusvälityspalvelimen toimimattomien linkkien vianmääritykseen.
 
-- [Mukautettujen toimialueiden määrittäminen Azure AD -sovelluksen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  välityspalvelimen avulla – tietoja ulkoisen URL-osoitteen luomisesta käyttäjille.
+- [Mukautettujen verkkotunnusten luominen Azure AD -sovellusvälityspalvelimella ](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – Tietoa ulkoisten URL-osoitteiden luomisesta käyttäjille.
 
-- [Ohjaa hard-coded-linkit Azure AD -sovelluksen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  välityspalvelimella julkaistuille sovelluksille – tietoja line-URL-osoitteiden kääntämiseen
+- [Azure AD -sovellusvälityspalvelimella julkaistujen sovellusten pysyväiskoodattujen linkkien uudelleenohjaus ](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  – Tietoa sisäisten URL-osoitteiden kääntämisestä
+
+- [Mukautetun aloitussivun määrittäminen julkaistuille sovelluksille Azure AD -sovellusvälityspalvelimella](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Kun julkaiset sovelluksen sovellusvälityspalvelimella, määrität sisäisen URL-osoitteen, mutta joissain tapauksissa käyttäjien ei tule nähdä kyseistä sivua ensimmäisenä. Määritä mukautettu aloitussivu, jotta käyttäjät pääsevät heti oikealle sivulle avatessaan sovelluksen. Käyttäjät näkevät määrittämäsi mukautetun aloitussivun riippumatta siitä, käyttävätkö he sovellusta Azure Active Directoryn omista sovelluksista vai Microsoft 365:n sovellusvalikosta.
+
+- Onko sinulla kysyttävää sovellusvälityspalvelimen URL-määrityksistä? Katso lisätietoja [paikallisen sovelluksen lisäämisestä Azure Active Directoryyn](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+ 
 
