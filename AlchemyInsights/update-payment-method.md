@@ -1,5 +1,5 @@
 ---
-title: Päivitä maksu tapa
+title: Korttien ja maksutapojen hallinta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,43 +11,52 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003546"
-- "6461"
-ms.openlocfilehash: a8809cf77b0904596137a305fc3a8e05b988dc75
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+- "6462"
+ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807467"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707987"
 ---
-# <a name="updatedelete-payment-method"></a>Päivitä tai poista maksu tapa
+# <a name="manage-card-and-payment-method"></a>Korttien ja maksutapojen hallinta
 
-Azure-portaalissa tilin järjestelmänvalvojana voit lisätä uuden luotto kortin, päivittää olemassa olevan luotto kortin tai poistaa luotto kortin, jota et käytä. [Microsoft-asiakas sopimukselle](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)Maksu tavat liittyvät [laskutus profiileihin](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Vain Azuresta rekisteröitynyt käyttäjä voi päivittää maksu tapaa.
+Azure-portaalissa tilin järjestelmänvalvojana voit lisätä uuden debit-/credit-kortin, päivittää olemassa olevan debit-/credit card-kortin tai poistaa sellaisen debit/credit card -kortin, jota et käytä. [Microsoftin asiakassopimuksen maksutavat](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)liittyvät [laskutusprofiileihin.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Vain Azureen rekisteröitynyt käyttäjä voi päivittää maksutapaa.
 
-**Olemassa olevan luotto-tai maksu kortin päivittäminen/muuttaminen/poistaminen**
+**Uuden debit- tai credit card -kortin lisääminen Azure-tilaukseen**
 
-1.  Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/) [tilin](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)järjestelmänvalvojana. Hae **kustannusten hallinta + laskutus** .
-2.  Valitse **Maksu tavat** . Napsauta luotto-tai maksu korttia, jota haluat muokata. Luotto kortti lomake tulee näkyviin oikealle.
-3.  Päivitä luotto-tai maksu kortin tiedot. Valitse **Tallenna** .
-4.  Jos haluat **poistaa** , valitse poistettavan kortin vieressä oleva valinta ruutu.
-5.  Valitse **Poista** .
+1. Kirjaudu Sisään [Azure-portaaliin](https://ms.portal.azure.com/) tilin [järjestelmänvalvojana.](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Valitse **Kustannusten hallinta + laskutus.**
+2. Valitse tilaus, jonne haluat lisätä debit- tai credit card -kortin. Valitse **Maksutavat.**
+3. Lisää kortti valitsemalla vasemmassa **+** yläkulmassa. Oikealla näkyy debit/credit card -lomake. Anna debit- tai credit card details (Pankki- tai luottokorttitiedot).
+4. Jos haluat tehdä tästä kortista aktiivisen  maksutavan, valitse lomakkeen yläosassa Tee tämä aktiivinen maksutapa -kohdan vieressä oleva valintaruutu. Tästä kortista tulee aktiivinen maksuväline kaikissa tilauksia varten, jotka käyttävät samaa korttia kuin valittu tilaus. Valitse **Seuraava**.
+5. Valitse **Aseta aktiivinen.** 
+ 
+**Aiemmin luodun debit- tai credit card -kortin päivittäminen, muuttaminen tai poistaminen**
 
-**Huomautus** : et voi poistaa luotto korttia, jos se on liitetty muihin aktiivisiin Microsoft-tilauksiisi. Sinun on poistettava luotto kortti kaikista aktiivisista Microsoft-paketeista ja yritettävä uudelleen.
+1.  Kirjaudu Sisään [Azure-portaaliin](https://portal.azure.com/) tilin [järjestelmänvalvojana.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Hae kustannusten **hallintaa ja laskutusta.**
+2.  Valitse **Maksutavat.** Napsauta veloitus- tai luottokorttia, jota haluat muokata. Oikealla näkyy debit/credit card -lomake.
+3.  Päivitä debit- tai credit card -tiedot. Valitse **Tallenna**.
+4.  Jos **haluat** poistaa kortin, valitse sen kortin vieressä olevaa valintaruutua, jonka haluat poistaa.
+5.  Valitse **Poista**.
 
-Lisä tietoja: [maksu tapojen päivittäminen, muuttaminen tai poistaminen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+**Huomautus:** Et voi poistaa pankkikorttiasi tai luottokorttiasi, jos se on liitetty muihin aktiivisten Microsoft-tilausten kanssa. Sinun on poistettava debit/credit card kaikista aktiivisista tilauksistasi Microsoftilla ja yritettävä uudelleen.
 
-**Maksu ongelmien vian määritys**
+Lisätietoja on kohdassa [Maksutapojen päivittäminen, muuttaminen tai poistaminen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Katso lisä tietoja [maksu ongelmien vian määrityksestä](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) ja tarkista, ratkesiko ongelma.
+**Maksuongelmien vianmääritys**
 
-Jos kortissa on odottava maksu, sillä rahoitus laitos on hylännyt kortin, ota yhteyttä **rahoitus laitokseen** ja ratkaise ongelma. Käytä alla olevia osoittimia:
+Katso [maksuongelmien tai -virheskenaarioiden](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) vianmäärityksestä, ratkaiseeko ongelma ongelman.
 
-- Saatat joutua tarkistamaan pankin kanssa, onko kansainvälinen tapahtuma otettu käyttöön kortissa
-- Jos kortilla on luotto raja saldon tilittämiseen
-- Jos kortilla on käytössä toistuva maksu
+Jos kortissa on odottava maksu sen vuoksi, että rahoituslaitos hylkää korttisi, ota yhteyttä rahoituslaitostasi ongelman ratkaisemiseksi.  Käytä alla olevia osoitinta:
 
-**Suositellut asia kirjat**
+- Sinun täytyy ehkä tarkistaa pankki, jotta näet seuraavat: 
+    - Jos kansainvälinen tapahtuma on otettu käyttöön kortissa
+    - Jos kortissa on saldon maksamiseen rajoitus
+    - Jos kortissa on käytössä toistuva maksu
 
-- [Laskutuksen määrittäminen](https://azure.microsoft.com/pricing/invoicing/)
-- [Maksu tavan muuttaminen – usein kysytyt kysymykset](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Laskutus profiilin maksu tavan muuttaminen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Microsoft-asiakas sopimuksen käytön tarkistaminen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+**Suositellut asiakirjat**
+
+- [Määritä laskutus](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
+- [Vaihda maksutapaa – usein kysytyt kysymykset](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Laskutusprofiilin maksutavan muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Microsoftin asiakassopimuksen käytön tarkastaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

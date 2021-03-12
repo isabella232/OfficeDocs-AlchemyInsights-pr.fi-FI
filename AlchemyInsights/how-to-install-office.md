@@ -5,25 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: bee23ad0d8d6324937b2b0dd7bda08410ddbfa25
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509237"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707735"
 ---
 # <a name="how-to-install-office"></a>Officen asennusohjeet
 
 Jos haluat asentaa Office-asiakassovelluksia, varmista, että sinulla on Business-tilaus, kuten Microsoft 365 Business Premium Standard, Microsoft 365 Apps for Business tai Office 365 Education.
   
-*HUOMAUTUS:[ Office Home & Business](https://products.office.com/home-and-business) on [kotikäyttöön tarkoitettu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) tuote eikä kuulu Business-tilauksiin. Saat tarkat Visiota tai Projectia koskevat ohjeet artikkeleista [Vision asentaminen](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Projectin asentaminen](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+*HUOMAUTUS:[ Office Home & Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) on [kotikäyttöön tarkoitettu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) tuote eikä kuulu Business-tilauksiin. Saat tarkat Visiota tai Projectia koskevat ohjeet artikkeleista [Vision asentaminen](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) tai [Projectin asentaminen](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
 Luo käyttäjätilit ja lisää toimialueesi. Varmista, että käyttäjällä on [käyttöoikeudet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 

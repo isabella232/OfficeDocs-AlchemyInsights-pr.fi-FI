@@ -1,5 +1,5 @@
 ---
-title: Käytä automaattisesti luottamuksellisuusotsikoita
+title: Luottamuksellisuusotsikoiden automaattinen käyttö
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715162"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707231"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Käytä automaattisesti luottamuksellisuusotsikoita
+# <a name="auto-apply-sensitivity-labels"></a>Luottamuksellisuusotsikoiden automaattinen käyttö
 
-Herkkyys-otsikoita voidaan käyttää manuaalisesti käyttäjien sisältöön, tai voit määrittää, että ne otetaan automaattisesti käyttöön sisällössä.
+Käyttäjät voivat lisätä luottamuksellisuusotsikot manuaalisesti sisältöön, tai voit määrittää ne automaattisesti käyttöön sisällössä.
 
-Herkkyys merkintöjen automaattinen käyttö poistaa tarpeen kouluttaa käyttäjiä siitä, miten sisältö luokitellaan ja miten on tarpeen ilmoittaa heille käytäntöjen määrittämisestä.
+Luottamuksellisuusotsikoiden automaattinen käyttö poistaa tarpeen, jotta käyttäjiä voidaan kouluttaa sisällön luokitetmiseksi ja heidän on ilmoitettava heille käytännön määrityksistä.
 
-Jos haluat käyttää otsikoita automaattisesti, sinun on käytettävä seuraavaa:
+Jos haluat käyttää selitteet automaattisesti, seuraavat ovat pakollisia:
 
-- Azure Information Protectionin P2-tilaus
-- [Azure Information Protectionin yhdistetyn merkintä sovelluksen lataaminen ja asentaminen](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection P2 -tilaus
+- [Azure Information Protectionin yhdistetyn osoitetarrojen asiakasohjelman lataaminen ja asentaminen](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Työskentelemme alkuperäisen tuen parissa, joka ei edellytä Azure Information Protectionin yhtenäistä merkintä ohjelmaa tulevaisuudessa.
+Työskentelemme alkuperäisen tuen kanssa, joka ei edellytä Azure Information Protectionin yhtenäistä osoitetarraohjelmaa tulevaisuudessa.
 
-Tällä hetkellä vain Windows tukee yhtenäistä merkintä ohjelmaa.  Mac, iOS ja Android eivät vielä tue ominaisuutta.
+Tällä hetkellä vain Windows tukee yhdistettyä seliteohjelmaa.  Ominaisuutta ei tueta vielä Macissa, iOS:ssä ja Androidissa.
 
-Lisä tietoja luottamuksellisuusmerkinnöistä ja niiden käyttämisestä automaattisesti sisältöön on kohdassa:
+Lisätietoja luottamuksellisuusmerkinnöistä ja niiden automaattinen käyttö sisällössä on sisällössä:
 
-- [Yleistä luottamuksellisuusmerkinnöistä](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Luottamuksellisuusselitteen käyttäminen sisällössä automaattisesti](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Luottamuksellisuusotsikoiden yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Luottamuksellisuusmerkinnän automaattinen käyttö sisällössä](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
