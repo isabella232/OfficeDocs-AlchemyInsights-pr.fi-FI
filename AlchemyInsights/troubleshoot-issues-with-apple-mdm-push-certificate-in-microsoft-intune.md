@@ -1,5 +1,5 @@
 ---
-title: Apple MDM-push-varmenteeseen liittyvien ongelmien vian määritys Microsoft Intunella
+title: Apple MDM Push Certificate -varmenteen ongelmien vianmääritys Microsoft Intunessa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: f27b515ea460b55afb653b789682591f09bc2906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efb67cb3609266b40c564569941c1598637b5898
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690131"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709031"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Apple MDM-push-varmenteeseen liittyvien ongelmien vian määritys Microsoft Intunella
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Apple MDM Push Certificate -varmenteen ongelmien vianmääritys Microsoft Intunessa
 
-Ratkaise ongelma nyt alla lueteltujen resurssien avulla.
+Ratkaise ongelmasi nyt alla lueteltujen resurssien avulla.
   
-1. Tarkista [Tämä asia kirja](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , jos haluat määrittää Apple MDM-push-varmenteen tai uudistaa sen.
+1. Määritä [tai uusi](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) Apple MDM -push-varmenne tarkistamalla tämä asiakirja.
 
-2. Käytä [Intune-vian määritys portaalia](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) yleisten rekisteröinti virheiden diagnosointiin ja ratkaisemiseen. Katso lisä tietoja [tästä asia kirjasta](https://docs.microsoft.com/intune/help-desk-operators) .
+2. [Intunen vianmääritysportaalin avulla](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä. Katso [lisätietoja tästä](https://docs.microsoft.com/intune/help-desk-operators) asiakirjasta.
 
-3. Tutustu näihin asia kirjoihin, jos haluat luettelon yleisistä virheistä, jotka estävät rekisteröinnin ja päätös lauselmien kunkin: [vian määritys opas](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [vian määritys-asiak](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+3. Tarkistamalla nämä asiakirjat saat luettelon yleisistä virheistä, jotka estävät rekisteröitymisen ja ratkaisut kuhunkin: [vianmääritysopas](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [vianmäärityksen asiakirja.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)

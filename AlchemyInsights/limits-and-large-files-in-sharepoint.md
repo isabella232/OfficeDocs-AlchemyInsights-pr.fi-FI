@@ -1,5 +1,5 @@
 ---
-title: Rajoitukset ja suuret tiedostot SharePointissa
+title: SharePointin rajoitukset ja suuret tiedostot
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675763"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709175"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Tiedostot, joita ei voi ladata SharePoint Onlineen
 
-Jos tiedosto ei lataudu SharePoint Onlineen, varmista seuraavat asiat:
+Jos tiedostoa ei ladata SharePoint Onlineen, varmista, että:
   
-- Se on kooltaan alle 15 Giga tavua.
+- Se on kooltaan alle 15 Gt.
     
-- Koko polku, mukaan lukien tiedoston nimi, on pienempi kuin 400 merkkiä.
+- Koko polku, tiedostonimi mukaan lukien, on alle 400 merkkiä pitkä.
     
-- Tiedoston nimi ei sisällä merkkejä " \* : \< \> ? / \ | eikä se ole [virheellisten nimien](https://go.microsoft.com/fwlink/?linkid=866430)luettelossa.
+- Tiedostonimi ei sisällä merkkejä " \* : \< \> ? / \ | eikä se ole virheellisten nimien [luettelossa.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Jos yrität ladata tiedoston OneDrive-Työpöytä sovelluksella, tutustu Ohje aiheeseen [rajoitukset ja rajoitukset, kun synkronoit tiedostoja ja kansioita](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) tai [korjaat OneDrive-synkronointi ongelmia](https://go.microsoft.com/fwlink/?linkid=866431).
+Jos yrität ladata tiedoston OneDrive-työpöytäsovelluksella, katso [](https://go.microsoft.com/fwlink/p/?LinkID=717734) lisätietoja rajoituksista, kun synkronoit tiedostoja ja kansioita tai korjaat [OneDriven synkronointiongelmia.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

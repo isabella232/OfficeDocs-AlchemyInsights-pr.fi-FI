@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 (ATP)-määritys
+title: Microsoft Defender for Office 365 (ATP) -määritys
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801072"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708635"
 ---
 # <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender for Office 365 (ATP)
 
-Office 365 ATP sisältää [turvalliset liitteet](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [Turvalliset linkit](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [kehittyneet tietojenkalastelutekniikat](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)ja paljon muuta. 
+Office 365 ATP sisältää esimerkiksi [turvalliset liitteet,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)turvalliset [linkit](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)ja kehittyneen tietojen [kalastelun](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)torjunnan. 
 
-ATP sisältyy tilauksiisi, kuten Office 365 Enterprise E5, Office 365 Education A5 ja Microsoft 365 Business Premium. Jos tilauksesi ei sisällä ATP-pakettia, voit ostaa ATP:N lisä osana. Lisä tietoja on artikkelissa [Office 365 ATP-palvelun kuvaus](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP sisältyy tilauksia, kuten Office 365 Enterprise E5, Office 365 Education A5 ja Microsoft 365 Business Premium. Jos tilauksesi ei sisällä ATP:tä, voit mahdollisesti ostaa ATP:n lisäosana. Lisätietoja on Office [365:n ATP-palvelukuvauksessa.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>Office 365 ATP:N määrittäminen
+## <a name="set-up-office-365-atp"></a>Office 365 ATP:n määritäminen
 
-Jos ATP-suojaus on voimassa, sinun on määritettävä käytännöt. Tutustu [Pika-aloitus oppaaseen: Microsoft Defender for Office 365-toiminnon määrittäminen](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Jotta ATP-suojaus on voimassa, sinun on määritettävä käytännöt. Katso [pika-aloitusopas: Microsoft Defenderin määritys Office 365:lle.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916849"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708563"
 ---
 # <a name="myapps-portal-issues"></a>MyApps-portaalin ongelmat
 
@@ -28,9 +28,9 @@ Lisätietoja Ongelmien vianmäärityksestä, joita ilmenee, kun kirjaudut sisä�
 
 Ohjeita siitä, miksi odottamiesi sovellusten näkyminen sovelluksen käyttöpaneelissa ei näy:
 
-- [En tiedä, miksi määritetty sovellus ei näy käyttöpaneelissa](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [En tiedä, miksi määritetty sovellus ei näy käyttöpaneelissa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [En tiedä, miksi sovellus näkyy käyttöpaneelissa](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [En tiedä, miksi sovellus näkyy käyttöpaneelissa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Minulla on ongelmia sovelluksen käyttöpaneeliin kirjautumisessa**
 

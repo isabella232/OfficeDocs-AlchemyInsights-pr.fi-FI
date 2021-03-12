@@ -1,5 +1,5 @@
 ---
-title: Windows-laitteiden rekisteröimisen ongelmien vian määritys Microsoft Intunella
+title: Windows-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intunessa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,35 +12,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88105671ef6dc34553a265937bf1fb3463353963
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658875"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708887"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Windows-laitteiden rekisteröimisen ongelmien vian määritys Microsoft Intunella
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Windows-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intunessa
 
-Ratkaise ongelma nyt alla lueteltujen resurssien avulla.
+Ratkaise ongelmasi nyt alla lueteltujen resurssien avulla.
   
-Yleisiä virhe sanomia ja ratkaisu vaiheita:
+Joitakin yleisiä virhesanomia ja ratkaisuvaiheita:
   
- **Ohjelmistoa ei voi asentaa, 0x80cf4017:** Tili varmenne on vanhentunut. Lataa uudelleen PC-asiakas ohjelmisto paketti Intune-hallinta konsolissa. Katso lisä tietoja tästä dokumentaatiosta.
+ **Ohjelmistoa ei voi asentaa, 0x80cf4017:** Tilivarmenne on vanhentunut. Lataa PC Client -ohjelmistopaketti uudelleen Intune-hallintakonsolissa. Saat lisätietoja tästä ohjeista.
   
- **Virhe koodi 0x801c0003:** Virhe voi ilmetä seuraavissa tilanteissa:
+ **Virhekoodin 0x801c0003:** Virhe voi ilmetä seuraavissa tilanteissa:
   
--  Käyttäjällä on enemmän laitteita, jotka ovat rekisteröityneet kuin laitteen raja. Tarkista nämä asia kirjat, jos haluat [poistaa laitteen](https://docs.microsoft.com/intune/devices-wipe) tai [muuttaa laitteen rajoitusta](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Käyttäjällä on enemmän laitteita, jotka on rekisteröity laiterajoitusta enemmän. Voit poistaa laitteen [tai muuttaa laiterajoitusta](https://docs.microsoft.com/intune/devices-wipe) [tarkistamalla nämä asiakirjat.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
 
--  "Käyttäjät voivat liittyä laitteisiin Azure AD:hen"-asetuksena on "ei mitään". Määritä se kaikille tai valitse käyttäjät. Katso lisä tietoja [tästä dokumentaatiosta](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) .
+-  Käyttäjät voivat liittyä laitteisiin Azure AD:ssä -asetuksena on Ei mitään. Määritä se kaikille tai valitse käyttäjille. Saat [lisätietoja tästä](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) ohjeista.
 
--  Toinen käyttäjä on jo rekisteröinyt laitteen. Jos näin on, Poista laite Azure Intune-konsolista tai rekisteröi laite manuaalisesti, ennen kuin yrität uudelleen.
+-  Toinen käyttäjä on jo rekisteröinyt laitteen. Jos näin on, poista laite Azure Intune -konsolista tai poista laitteen tilaus manuaalisesti, ennen kuin yrität uudelleen.
 
--  Laite on Windows 10 Home. Vain Windows 10 Pro, Education ja Enterprise SKUs voivat liittyä Azure Active Directoryyn.
+-  Laite on Windows 10 Home. Vain Windows 10 Pro-, Education- ja Enterprise-käyttäjät voivat liittyä Azure Active Directoryyn.
 
-Lisä resursseja ongelman ratkaisemiseen:
+Lisäresursseja ongelman ratkaisemiseen:
   
--  Käytä [Intune-vian määritys portaalia](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) yleisten rekisteröinti virheiden diagnosointiin ja ratkaisemiseen. Katso lisä tietoja [tästä asia kirjasta](https://docs.microsoft.com/intune/help-desk-operators) .
+-  [Intunen vianmääritysportaalin avulla](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä. Katso [lisätietoja tästä](https://docs.microsoft.com/intune/help-desk-operators) asiakirjasta.
 
--  Tutustu näihin asia kirjoihin, jos haluat luettelon yleisistä virheistä, jotka estävät rekisteröinnin ja päätös lauselmien kunkin: [vian määritys opas](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ja [vian määritys-asiak](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Tarkistamalla nämä asiakirjat saat luettelon yleisistä virheistä, jotka estävät rekisteröitymisen ja ratkaisut kuhunkin: [vianmääritysopas](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ja [vianmäärityksen asiakirja.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Opi rekisteröimään Windows-laitteet Microsoft Intunella](https://docs.microsoft.com/intune/windows-enroll).
+[Opi rekisteröimaan Windows-laitteita Microsoft Intunessa.](https://docs.microsoft.com/intune/windows-enroll)

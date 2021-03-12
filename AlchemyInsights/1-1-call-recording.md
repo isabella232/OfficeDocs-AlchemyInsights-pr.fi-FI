@@ -1,5 +1,5 @@
 ---
-title: 1:1 puhelun tallennus
+title: 1:1-puhelutallenne
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721936"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733846"
 ---
-# <a name="11-call-recording"></a>1:1 puhelun tallennus
+# <a name="11-call-recording"></a>1:1-puhelutallenne
 
-1:1 soitto tallennuksen käytäntöjen muutokset tiimeissä ovat tulossa pian. Lisä tietoja on seuraavassa viesti keskuksen viestissä:
+Järjestelmänvalvojien on nyt jatkettava 1:1-puheluiden tallentamista.
+ 
+12. huhtikuuta 2021 alkaen otamme käyttöön uuden Teams-puhelukäytäntövaihtoehdon *AllowCloudRecordingForCalls.* 
 
-[1:1 puhelun tallennus käytäntöjen esittely](https://admin.microsoft.com/AdminPortal/Home)
+Tällä hetkellä yhden puhelun tallennusominaisuuksia hallitaan Teamsin *kokouskäytäntöjen AllowCloudRecording-vaihtoehdolla.* Jos käyttäjät voivat tallentaa Teams-kokouksia, he voivat myös tallentaa 1:1-puheluita.
+
+Jos haluat estää kaikkia käyttäjiä nauhoittamaan 1:1-puheluita, sinun ei tarvitse tehdä mitään. *AllowCloudRecordingForCalls-puhelukäytäntöasetus* $False oletusarvoisesti.
+
+Tämä muutos on dokumentoitu seuraavassa viestikeskuksen viestissä: [(Päivitetty) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Puhelun tallennuskäytännön esittely Teams-puhelukäytäntövaihtoehdon valitsemiseen on käytettävä [Teams PowerShelliä.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+
+**Puhelutallenteen ottaminen käyttöön 1:1-puheluissa:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+**Puhelun tallennuksen poistaminen käytöstä 1:1-puheluissa:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+

@@ -1,5 +1,5 @@
 ---
-title: Mac OS-laitteiden ilmoittamiseen liittyvien ongelmien vian määritys Microsoft Intunella
+title: MacOS-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intunessa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 485615a706d574076f103973e09539d71498e457
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dc43348237784e9e34273cd467aaba00269aed4
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699804"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708923"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Mac OS-laitteiden ilmoittamiseen liittyvien ongelmien vian määritys Microsoft Intunella
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>MacOS-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intunessa
 
-Ratkaise ongelma nyt alla lueteltujen resurssien avulla.
+Ratkaise ongelmasi nyt alla lueteltujen resurssien avulla.
   
-1. Käytä [Intune-vian määritys portaalia](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) yleisten rekisteröinti virheiden diagnosointiin ja ratkaisemiseen. Katso lisä tietoja [tästä asia kirjasta](https://docs.microsoft.com/intune/help-desk-operators) .
+1. [Intunen vianmääritysportaalin avulla](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä. Katso [lisätietoja tästä](https://docs.microsoft.com/intune/help-desk-operators) asiakirjasta.
 
-2. Tarkista [Tämä asia kirja](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) , jossa on luettelo yleisistä virheistä, jotka estävät rekisteröinnin ja päätös lauselmien kunkin.
+2. Tässä [asiakirjassa on](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) luettelo yleisistä virheistä, jotka estävät kunkin rekisteröinnin ja ratkaisut.
 
-3. [Opi rekisteröimään Mac-laitteet Microsoft Intunella](https://docs.microsoft.com/intune/macos-enroll).
+3. [Lue, miten voit rekisteröidä macOS-laitteita Microsoft Intunessa.](https://docs.microsoft.com/intune/macos-enroll)
 
-[Tutustu loppu käyttäjän oppaaseen, jossa voit rekisteröidä macOS-laitteen Microsoft Intunella](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Katso macOS-laitteen rekisteröinti loppukäyttäjän oppaasta Microsoft Intunessa](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

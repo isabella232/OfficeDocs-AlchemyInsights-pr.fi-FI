@@ -1,5 +1,5 @@
 ---
-title: Ilmeneminen toistuvasti salasana kehotteita Outlook for Macissa?
+title: Onko Outlook for Macissa toistuvia salasanakehotteita?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: c70d9b41d8905f668c8c413f298f61588ca8b9e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783008"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708743"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Ilmeneminen toistuvasti salasana kehotteita Outlook for Macissa?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Onko Outlook for Macissa toistuvia salasanakehotteita?
 
-Voimme auttaa sinua entistä erikoistuneempia Outlook for Mac-ohjeita suoraan sovelluksesta.
+Voimme auttaa tarjoamaan erityisempia Outlook for Mac -ohjeita suoraan sovelluksesta.
   
-Siirry haavoittuvuuden sisältävään käyttäjän Mac-tieto koneessa, avaa Outlook ja valitse **Ohje** \> **Ota yhteyttä tukeen**.
+Siirry käyttäjän Mac-tietokoneeseen, avaa Outlook ja valitse  Ohje ota \> **yhteyttä tukeen.**
   
-Lisä tietoja Outlook for Macin Sovelluskohtaisen asiakas tuen käyttämisestä on tässä artikkelissa: [Uusi ota yhteyttä tukeen-toiminto outlook 2016 for Macissa](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Lisätietoja Outlook for Macin sovelluksen kautta hankittavan asiakastuen käyttämisestä on tässä artikkelissa: [Outlook 2016 for Macin uusi](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517) ota yhteyttä tukeen -ominaisuus
   
 
