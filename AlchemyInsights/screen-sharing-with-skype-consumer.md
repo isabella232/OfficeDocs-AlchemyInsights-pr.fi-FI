@@ -1,5 +1,5 @@
 ---
-title: Näytön jakaminen Skype Consumer-toiminnon avulla
+title: Näytön jakaminen Skype Consumerin kanssa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: 6c89ea3d599fe9944352d9d65ea172658460efeb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebe07d46aa5c5d63bba0403bf05cf57e613bcd0f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774348"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709391"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a><span data-ttu-id="df182-102">Näytön jakaminen Skypen kuluttajakäyttäjillä</span><span class="sxs-lookup"><span data-stu-id="df182-102">Screen sharing with Skype consumer users</span></span>
+# <a name="screen-sharing-with-skype-consumer-users"></a><span data-ttu-id="5837a-102">Näytön jakaminen Skypen kuluttajakäyttäjien kanssa</span><span class="sxs-lookup"><span data-stu-id="5837a-102">Screen sharing with Skype consumer users</span></span>
 
-<span data-ttu-id="df182-103">Yleisiä ohjeita ohjelman jakamisesta, jakamisen rajoituksista ja resurssien vian määrityksestä on artikkelissa [näytön jakaminen Skype for Businessissa](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc).</span><span class="sxs-lookup"><span data-stu-id="df182-103">For general instructions on how to share your program, to learn about restrictions with sharing, and for troubleshooting resources, review [Share your screen in Skype for Business](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc).</span></span>  
+<span data-ttu-id="5837a-103">Yleisiä ohjeita ohjelman jakamiseen, jakamisen rajoituksiin ja resurssien vianmääritykseen on [Skype for Businessissa jaettavassa näytössä.](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)</span><span class="sxs-lookup"><span data-stu-id="5837a-103">For general instructions on how to share your program, to learn about restrictions with sharing, and for troubleshooting resources, review [Share your screen in Skype for Business](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01).</span></span>  
 
-<span data-ttu-id="df182-104">Skype for Businessin käyttäjät eivät tällä hetkellä pysty jakamaan näyttöä Skypen kuluttajakäyttäjien kanssa.</span><span class="sxs-lookup"><span data-stu-id="df182-104">Currently, Skype for Business users are unable to screen share with Skype consumer users.</span></span> <span data-ttu-id="df182-105">[Napsauta tätä](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) , jos haluat antaa palautetta näytön jakamisen käyttöönotosta kuluttajien Skype-käyttäjien kanssa.</span><span class="sxs-lookup"><span data-stu-id="df182-105">Please [click here](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) to provide feedback regarding enabling screen sharing with consumer Skype users.</span></span> 
+<span data-ttu-id="5837a-104">Skype for Business -käyttäjät eivät tällä hetkellä pysty jakamaan näytön Skypen kuluttajakäyttäjien kanssa.</span><span class="sxs-lookup"><span data-stu-id="5837a-104">Currently, Skype for Business users are unable to screen share with Skype consumer users.</span></span> <span data-ttu-id="5837a-105">Napsauta [tätä, jos](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) haluat antaa palautetta näytön jakamisen ottamalla käyttöön kuluttaja Skype-käyttäjien kanssa.</span><span class="sxs-lookup"><span data-stu-id="5837a-105">Please [click here](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) to provide feedback regarding enabling screen sharing with consumer Skype users.</span></span> 
