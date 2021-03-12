@@ -1,5 +1,5 @@
 ---
-title: Lisää, Poista tai estä käyttäjiä vaihtamasta profiili kuvia
+title: Profiilin valokuvien lisääminen, poistaminen tai estäminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687791"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704747"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Lisää, Poista tai estä käyttäjiä vaihtamasta profiili kuvia
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Profiilin valokuvien lisääminen, poistaminen tai estäminen
 
-- **Profiili kuvien lisääminen:** Järjestelmänvalvoja voi lisätä profiili kuvia [Microsoft 365-hallinta keskuksessa, aktiivisten käyttäjien](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) tai  [Azure Active Directory-käyttäjä hallinnan](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)avulla.  Jos et näe muuta valo kuvaa-vaihto ehdon, varmista, että käyttäjälle on määritetty käyttö oikeus. Käyttäjä voi lisätä tai muuttaa valo kuvia käyttäjä profiiliinsa mistä tahansa Microsoft 365-palvelusta napsauttamalla niiden nimi kirjaimia tai valo kuvaa näytön oikeassa yläkulmassa. Lisä tietoja profiili kuvan lisäämisestä on kohdassa [profiili kuvan lisääminen Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Profiilikuviin lisääminen:** Järjestelmänvalvoja voi lisätä profiilikuvia [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) -hallintakeskuksessa, Aktiivisille käyttäjille tai Azure Active [Directoryn käyttäjähallinnassa.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)  Jos et näe Vaihda kuva -vaihtoehtoa, varmista, että käyttäjälle on määritetty käyttöoikeus. Käyttäjä voi lisätä tai muuttaa valokuvia käyttäjäprofiilissa missä tahansa Microsoft 365 -palvelussa napsauttamalla nimikirjainta tai valokuvaa näytön oikeassa yläkulmassa. Lisätietoja profiilikuvan lisäämisestä on kohdassa [Profiilikuvan lisääminen Microsoft 365:lle.](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- **Profiili kuvien poistaminen:** Järjestelmänvalvoja voi poistaa profiili kuvat [Azure Active Directory-käyttäjä hallinnan](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) tai käyttäjän Microsoft teamsin käyttäjä profiilista.
+- **Profiilikuviin poistaminen:** Järjestelmänvalvoja voi poistaa profiilikuvia [Azure Active Directoryn käyttäjähallinnassa](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) tai käyttäjän Microsoft Teams -käyttäjäprofiilissa.
 
-- **Profiili kuvan muutosten estäminen:** Valo kuvien muutokset voidaan estää kaikissa Microsoft 365 *-sovelluksessa lisäämällä Outlook Web App-käytäntöä artikkelia kohden, [lukitsemalla valo kuvia tai rajoittamalla käyttö oikeuksia, jotta voit muuttaa microsoft 365-profiili kuvan](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Profiilikuvamuutosten estäminen:** Valokuvamuutokset voidaan estää kaikissa Microsoft 365*:ssä lisäämällä Artikkelin mukaisesti Outlook Web App -käytäntö, lukitsemalla valokuvia tai rajoittamalla [käyttöoikeuksia Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)-profiilikuvan vaihtamista varten.
 
-* Huomaa, että Microsoft Teamsissa ei tällä hetkellä tueta Outlook Web App-käytäntöä valo kuvien muutosten estämiseen, mutta se suunnittelee tämän ominaisuuden tuen lisäämistä 2020 alku vaiheessa.
+*Microsoft Teams ei tällä hetkellä tue Outlook Web App -käytäntöä valokuvien muutosten estämiseen, mutta se aikoo lisätä tukea tälle ominaisuudelle alkuvuodesta 2020.

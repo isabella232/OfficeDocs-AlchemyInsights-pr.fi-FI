@@ -1,5 +1,5 @@
 ---
-title: Ehdollinen käyttäminen Intunella
+title: Ehdollinen käyttöoikeus Intunen avulla
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807656"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704783"
 ---
-# <a name="conditional-access-with-intune"></a>Ehdollinen käyttäminen Intunella
+# <a name="conditional-access-with-intune"></a>Ehdollinen käyttöoikeus Intunen avulla
 
-**Ehdollisen käyttö oikeuden** käyttäminen Intunella edellyttää kolmea vaihetta:
+Ehdollisen  **käyttöoikeuden käyttäminen**  Intunen kanssa edellyttää kolmea vaihetta:
 
-- Luo  **yhteensopivuus käytäntöä**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), jotta voit määrittää asetukset, joiden on täytyttävä, ennen kuin laite katsotaan yhteensopivaksi. Esimerkiksi laitteessa on oltava vähintään 6-numeroinen PIN-koodi, ennen kuin sen katsotaan olevan yhteensopiva.
-- Luo **Ehdollinen käyttö oikeus menettely**  , joka määrittää, mitä resursseja suojellaan, ja mitkä ehdot on täytettävä, jotta nämä resurssit ovat käytettävissä.  [Esimerkiksi](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  laitteen on oltava yhteensopiva ennen yritys sähkö postin käyttöä.
-- Varmista, että sekä **yhteensopivuus käytännöt**  että  **ehdolliset käyttö oikeus käytännöt**  on kohdistettu halutulle käyttäjä ryhmälle. Tämä saattaa edellyttää tiettyjen käyttäjä ryhmien luomista Azure Active Directoryyn.
+- Luo  **yhteensopivuuskäytäntö** [(Android,](https://docs.microsoft.com/intune/compliance-policy-create-android)  [iOS,](https://docs.microsoft.com/intune/compliance-policy-create-ios)  [Windows)](https://docs.microsoft.com//intune/compliance-policy-create-windows)ja määritä asetukset, jotka on täytettävä, ennen kuin laite on yhteensopiva. Laitteessa on esimerkiksi oltava vähintään kuusinumeroinen nasta, ennen kuin se on yhteensopiva.
+- Luo **ehdollinen käyttöoikeuskäytäntö,**  joka määrittää, mitä resursseja suojataan ja mitkä ehdot on täytettävä, jotta resursseja voi käyttää.  [Laitteen on](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  esimerkiksi oltava yhteensopiva, ennen kuin se voi käyttää yrityksen sähköpostia.
+- Varmista, **että sekä yhteensopivuuskäytännöt**  **että ehdolliset**  käyttöoikeuskäytännöt on kohdennettu halutuille käyttäjäryhmille. Tämä voi edellyttää tiettyjen käyttäjäryhmien luomista Azure Active Directoryssa.
 
 **Hyödyllisiä linkkejä:**
 
 [Laitteen yhteensopivuuden yleiskatsaus](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Varmenteiden myöntäjän vian määritys](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Varmenteiden myöntäjän vianmääritys](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Vian määritys käytännöt](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Vianmäärityskäytäntö](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Jos haluat suojata sähkö postin (Exchange Online) yhteensopimattomien laitteiden käytöltä, molempia asia kirjoja on noudatettava:
+Jotta sähköposti (Exchange Online) voidaan suojata muilta kuin epätavalaisilta laitteilta, molempien asiakirjojen on oltava seuraavat:
 
-1. [Sähkö postin käyttö oikeuksien suojaaminen EAS-laitteiden avulla](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Sähkö postin käyttö oikeuksien suojaaminen nykyaikaisilla todennus ohjelmilla, kuten Outlookilla](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Sähköpostin käytön suojaaminen EAS-laitteella](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Sähköpostin käytön suojaaminen laitteista, kuten Outlookista, modernin varmennusohjelman avulla](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)

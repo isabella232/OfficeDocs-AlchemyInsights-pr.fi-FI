@@ -1,5 +1,5 @@
 ---
-title: OCM on poistettu käytöstä kesä kuussa 2020
+title: OCM, joka on poistettu käytöstä kesäkuussa 2020
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662754"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704819"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM on poistettu käytöstä kesä kuussa 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM, joka on poistettu käytöstä kesäkuussa 2020
 
 
-**30. kesä kuuta 2020**, Outlook Customer Manageriin ja mobiilisovellus poistetaan käytöstä. Voit  **viedä tietoja**  **ennen tätä päivä määrää**.  
+**30. kesäkuuta 2020** voimassa oleva Outlook Customer Manager -apuohjelma ja mobiilisovellus eivät enää ole saatavilla. Voit **viedä tiedot siitä** **ennen tätä päivämäärää.**  
 
-Voit tarkistaa, kuka organisaatiossa on Microsoft 365 Business Standard (tunnettiin aiemmin nimellä Office 365 Business Premium) tai Microsoft 365 Business Premium (tunnettiin aiemmin nimellä Microsoft 365 Business), joka sisältää oikeudet Outlook Customer Manageriisi, napsauttamalla [tätä](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+Voit tarkistaa, kenellä organisaatiossasi on Microsoft 365 Business Standard (tunnettiin aiemmin nimellä Office 365 Business Premium) tai Microsoft 365 Business Premium (tunnettiin aiemmin nimellä Microsoft 365 Business) -tilaus, jolla on outlook customer managerin käyttöoikeudet, napsauttamalla [tätä.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [Outlook Customer Manageriesi tietojen vieminen tai poistaminen](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [Outlook Customer Managerin tietojen vieminen tai poistaminen](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Outlook Customer Manageriin usein kysytyt kysymykset](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Outlookin asiakashallinnan usein kysytyt kysymykset](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)
