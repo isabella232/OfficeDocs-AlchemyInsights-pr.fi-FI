@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667839"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708347"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office-asiakassovellusten asentaminen PC-tai MAC-tieto koneeseen
 
 Jos haluat asentaa Office-asiakassovelluksia, varmista, että sinulla on Office 365- tai Microsoft 365 -tilaus, joka [sisältää Office-asiakassovelluksia](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), kuten Microsoft 365 Business Standard, Microsoft 365 -sovellukset yrityksille tai Microsoft 365 -sovellukset suuryrityksille.
 
-**Huomautus**: [Office Home and Business](https://products.office.com/home-and-business) [on Office for Home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) -tuote, joka ei kuulu mihinkään Business-tilaukseen. Project Online Essentials ei sisällä Projectin työpöytäversiota, joten asennusta ei tarvita. Vision palvelupaketti 1:n käyttäjät voivat käyttää Vision verkkoversiota, sillä palvelupaketti ei sisällä Vision työpöytäversiota. Project- ja Visio-työpöytäsovelluksia ei ole saatavilla Mac-tietokoneelle.
+**Huomautus**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) [on Office for Home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) -tuote, joka ei kuulu mihinkään Business-tilaukseen. Project Online Essentials ei sisällä Projectin työpöytäversiota, joten asennusta ei tarvita. Vision palvelupaketti 1:n käyttäjät voivat käyttää Vision verkkoversiota, sillä palvelupaketti ei sisällä Vision työpöytäversiota. Project- ja Visio-työpöytäsovelluksia ei ole saatavilla Mac-tietokoneelle.
 
-Jos sinulla on paketti, joka sisältää Microsoft 365-sovellukset, et näe sen asennus vaihtoehtoa, ellei sinulla ole [määritettyä käyttö oikeutta](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Jos olet Office 365:n järjestelmänvalvoja ja vastuussa käyttöoikeuksien määrittämisestä, katso [Käyttöoikeuksien määrittäminen käyttäjille](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Lisäksi voit valita [Office‎ -ohjelmiston latausasetusten](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) avulla, voivatko käyttäjät asentaa ‎Office‎ sovelluksia laitteisiinsa.
+Jos sinulla on tilaus, joka sisältää Microsoft 365 -sovelluksia, et näe asennusvaihtoehtoa, ellei sinulla ole [määritettyä käyttöoikeutta.](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) Jos olet Office 365:n järjestelmänvalvoja ja vastuussa käyttöoikeuksien määrittämisestä, katso [Käyttöoikeuksien määrittäminen käyttäjille](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Lisäksi voit valita [Office‎ -ohjelmiston latausasetusten](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) avulla, voivatko käyttäjät asentaa ‎Office‎ sovelluksia laitteisiinsa.
 
-**Huomautus**: [Officen aktivointi raportin](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) avulla voit tarkastella, ketkä käyttäjät ovat asentaneet ja aktivoineet Microsoft 365-sovelluksia vähintään yhdessä laitteessa.
+**Huomautus:** [Officen aktivointiraportista](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) näet, mitkä käyttäjät ovat asentaneet ja aktivoineet Microsoft 365 -sovelluksensa vähintään yhdessä laitteessa.
 
 Kunkin käyttäjän täytyy:
 
