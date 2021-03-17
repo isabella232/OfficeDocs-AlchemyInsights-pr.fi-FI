@@ -1,9 +1,9 @@
 ---
-title: Peruutamme tilauksesi?
+title: Peruutetaanko tilauksesi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348662"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837379"
 ---
-# <a name="canceling-your-subscription"></a>Peruutamme tilauksesi?
+# <a name="canceling-your-subscription"></a>Peruutetaanko tilauksesi?
 
-Valitettavasti et näe sinua, mutta jos haluat peruuttaa tilauksesi, valitse seuraavat vaihto ehdot:
+Ikävää, että siirryt, mutta jos haluat peruuttaa tilauksesi, tässä ovat vaihtoehdot:
   
-- Jos olet koeasiakas, mitään ei voi peruuttaa. Koekäyttö liittymä vanhenee automaattisesti, ellet anna maksu tapaa.
-- Jos sinulla on alle 25 määritettyä käyttö oikeutta, voit peruuttaa tilauksesi verkossa. Siirry **laskutus** \> [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle ja Etsi tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
-- Jos käyttäjille on määritetty yli 25 käyttö oikeutta, voit [peruuttaa tilauksesi soittamalla tuki palveluun](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Jos sinulla on alle 25 määritettyä käyttöoikeutta, voit peruuttaa tilauksen verkossa. Siirry Tuotteiden **laskutus** \> **[-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja etsi tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme painiketta) ja valitse sitten Peruuta **tilaus.**
+- Jos käyttäjille on määritetty yli 25 käyttöoikeutta, voit [peruuttaa tilauksesi soittamaan tukeen.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Hyvitys: mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.**
+**Hyvitys: kaikki prorated credit will be returned to you within the next billing cycle.**
 
 > [!NOTE]
-> Jos et näe Peruuta-vaihto ehtoa, voit tarkastella tiedot-sivua valitsemalla tila uksen. Valitse **tilaus-ja maksu asetukset** -osiossa **Peruuta tilaus**.
+> Jos et näe peruutusvaihtoehtoa, voit tarkastella tietosivua valitsemalla tilauksen. Valitse **Tilaus- ja maksuasetukset -osassa** **Peruuta tilaus.**
 
-Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Lisätietoja on kohdassa [Tilauksen peruuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
