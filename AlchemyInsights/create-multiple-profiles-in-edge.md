@@ -3,7 +3,7 @@ title: Useiden profiilien luominen Microsoft Edgessä
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003923"
 - "6976"
-ms.openlocfilehash: 01f503c797c89ef8f3240b6349f3f7d596fadb32
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+- "9004596"
+- "8216"
+ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678564"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897008"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Useiden profiilien luominen Microsoft Edgessä
 
-Profiilien avulla useat käyttäjät voivat toimia jaetussa ympäristössä säilyttäen samalla niiden mukautettujen selain asetusten, kirjan merkkien ja laajennusten käytön. Jos haluat lisätä useita profiileja Microsoft Edgessä, toimi seuraavasti:
+Profiilien avulla useat käyttäjät voivat toimia jaetussa ympäristössä ja samalla säilyttää mukautetut selainasetukset, kirjanmerkit ja laajennukset. Jos haluat lisätä useita profiileja Microsoft Edgessä, toimi seuraavasti:
 
 1. Käynnistä Microsoft Edge.
-    - Jos et ole kirjautunut sisään, valitse profiili kuvake > **Kirjaudu sisään**. Tämä vie sinut automaattisesti **profiili asetusten hallinta** -sivulle.
-    - Jos olet kirjautunut sisään, valitse profiili-kuvake > **Hallitse profiili asetuksia**.
-2. Valitse **profiili > + Lisää profiili > lisää**.
-3. Valitse Kirjaudu sisään, jos haluat **synkronoida tiedot** , jotta voit muodostaa yhteyden olemassa olevaan tiliin.
-4. Ota käyttöön kirjautumissynkronointi valitsemalla **Kyllä** ja valitse sitten **Vahvista**.
+    - Jos et ole kirjautunut sisään, valitse profiilikuvake > **kirjaudu sisään.** Tämä vie sinut automaattisesti Profiilin **asetusten hallinta -sivulle.**
+    - Jos olet kirjautunut sisään, valitse profiilikuvake > **profiiliasetusten hallinta.**
+2. Valitse **Profiili-> + Lisää profiili > Lisää.**
+3. Synkronoi **tiedot ja muodosta yhteys olemassa olevaan** tiliin valitsemalla Kirjaudu sisään.
+4. Ota  kirjautumissynkronointi käyttöön valitsemalla Kyllä ja valitse **sitten Vahvista.**
 
-    Lisä profiili on nyt käytettävissä.
+    Lisäprofiili on nyt käytettävissä.

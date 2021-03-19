@@ -3,7 +3,7 @@ title: Yhteishallinta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681257"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896792"
 ---
 # <a name="co-management"></a>Yhteishallinta
 
-**Config Manageriasta Intuneen siirtymiseen liittyvät edellytykset**
+**Config Manager -yhdistelmäympäristöstä Intuneen siirron edellytykset**
 
-- Lue [Tämä artikkeli](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Lisää Intune-käyttö oikeus käyttäjille](https://docs.microsoft.com/intune/licenses-assign).
-- Käytä [Edge-selainta](https://www.microsoft.com/windows/microsoft-edge) , kun määrität yhteishallintaa.
+- Tutustu [tähän artikkeliin.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Lisää Intune-käyttöoikeus käyttäjille.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Käytä [Edge-selainta](https://www.microsoft.com/edge) yhteishallinnan määrittämiseen.
 
-**Config-hallinta sovelluksen asentaminen Intune-hallitut laitteet-kohtaan**
+Ohjattu vaiheittainen yhteishallinnan määritystoiminto löytyy [täältä.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Katso [Intune MDM-hallitut Windows-laitteet](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Config Manager -asiakasohjelman asentaminen Intune-hallittuihin laitteisiin**
 
-**Entä jos haluan muuttaa vain MDM-auktoriteettia?**
+Katso [Intune MDM-hallitut Windows-laitteet.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-MDM-viranomaista voidaan muuttaa avaamatta tuki tapausta. Tutustu seuraaviin ohje isiin, jotka helpottavat MDM-myöntäjän vaihtamista:
+**Entä jos haluan vain muuttaa MDM-myöntäjän?**
 
-- [MDM-myöntäjän muuttaminen määritysten Hallin nasta Intune-erilliseksi](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [MDM-myöntäjän vaihtaminen Intune-sovelluksesta kokoonpanon hallintaan](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+MDM-myöntäjän voi muuttaa avaamatta tukitapausta. Tutustu seuraaviin ohjeisiin, jotka auttavat MDM-myöntäjän muuttamisessa:
+
+- [MDM-myöntäjän muuttaminen määritysten hallinnasta Erillisenä Intune-valvojaksi](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MDM-myöntäjän muuttaminen Intune-erillissovelluksesta kokoonpanon hallintaan](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

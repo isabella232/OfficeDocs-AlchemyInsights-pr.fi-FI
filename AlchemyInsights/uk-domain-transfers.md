@@ -1,5 +1,5 @@
 ---
-title: . Ison-Britannian toimi alue siirrot
+title: .uk-toimialueen siirrot
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598700"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896648"
 ---
-# <a name="uk-domain-transfers"></a>. Ison-Britannian toimi alue siirrot
+# <a name="uk-domain-transfers"></a>.uk-toimialueen siirrot
 
-Ota yhteyttä Microsoftin tuki palveluun ja pyydä, että **IPS-tunniste muuttuu** vastaamaan sitä rekisteröinti palvelua, jota haluat hallita toimi aluettasi eteenpäin. Kun tunniste on muutettu, toimi alue siirtyy välittömästi uudelle rekisteröinti palveluun. Sen jälkeen sinun on työskenneltävä uuden rekisteröinti palvelun kanssa, jotta voit suorittaa siirron, maksaa siirto maksut ja lisätä siirretyn toimi alueen tilillesi uuden rekisteröinti palvelun avulla.
+Ota yhteyttä Microsoft-tukeen ja pyydä **IPS-tunnisteen** muutosta vastaamaan rekisteröintipalvelua, jonka haluat hallita toimialuettasi. Kun tunniste on vaihtunut, toimialue siirtyy välittömästi uuteen rekisteröintipalveluun. Tämän jälkeen sinun on suoritettava siirto loppuun uuden rekisteröijän kanssa, maksat todennäköisesti siirtomaksut ja lisäät siirretyn toimialueen tiliisi uuden rekisteröijäsi kanssa.
 
-Lisä tietoja toimi alueen siirroista on kohdassa [toimi alueen siirtäminen Microsoftilta toiseen isäntään](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Lisätietoja toimialueen siirroista on kohdassa [Toimialueen siirtäminen Microsoftista toiseen isäntään.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+
+Valmistaudu antamaan uuden rekisteröijän IPS-tunniste, joka on osoitteessa https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
