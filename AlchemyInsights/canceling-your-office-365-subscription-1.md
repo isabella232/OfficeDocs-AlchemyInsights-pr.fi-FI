@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896900"
+ms.locfileid: "50931645"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 -tilauksesi?
 
@@ -30,3 +30,5 @@ Ikävää, että siirryt, seuraavassa on ohjeet tilauksen peruuttamista varten:
 4. Valitse **Tallenna**.
 
 Lisätietoja tilauksen peruuttamisesta tai asetuksista on kohdassa [Tilauksen peruuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+
+Jos haluat jatkaa tilauksen käytön kokeilujakson ajan, voit poistaa tilauksen toistuvan laskutuksen käytöstä. Lisätietoja on kohdassa [Microsoft 365 for Business -tilauksen uusiminen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
