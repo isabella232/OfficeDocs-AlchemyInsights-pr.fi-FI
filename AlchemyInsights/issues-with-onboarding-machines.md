@@ -1,29 +1,31 @@
 ---
-title: Perehdytyskoneisiin liittyvät ongelmat
+title: Microsoft Defenderin päätepisteiden koneiden käyttöönotto-ongelmat
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141466"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901564"
 ---
-# <a name="issues-with-onboarding-machines"></a>Perehdytyskoneisiin liittyvät ongelmat
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Microsoft Defenderin päätepisteiden koneiden käyttöönotto-ongelmat
 
-MDATP-palveluun liittyvissä koneiden käytössä saattaa olla ongelmia. Jos voit käyttää loppukäyttäjäkonetta, toimi seuraavasti:
+Sinulla voi olla ongelmia koneiden MDE-palvelun käyttöönotossa. Jos pääset loppukäyttäjän tietokoneelle, toimi seuraavasti:
 
-1. Lataa [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) -diagnostiikkatyökalu.
-2. Pura ja suorita MDATPAnalyzer.cmd.
-3. Etsi diagnostiikkaloki kansiosta nimeltä MDATPClientAnalyzerResult, samasta kansiosta, johon Analyzer-työkalu ladataan.
-4. Tarkista lokitiedostosta MDATPClientAnalyzer.txt yhteys- tai internet-välityspalvelimen asetukset.
+1. Lataa uusin[MDE Client Analyzer](https://aka.ms/betamdeanalyzer) -diagnostiikkatyökalun esiversio.
+2. Napsauta **MDEClientAnalyzer.cmd** hiiren kakkospainikkeella ja valitse Suorita järjestelmänvalvojana.
+3. Noudata **MDEClientAnalyzer.htm** -sivulla annettuja ohjeita.
+4. Jos haluat yksityiskohtaisempia lokeja, tutustu **MDEClientAnalyzerResult** nimiseen alikansioon.
+5. Jos tarvitset lisäohjeita, ota yhteyttä [Microsoft Defender for Endpointin tukipalveluun](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) ja anna tuloksena saatava MDEClientAnalyzerResult.zip-tiedosto analyysia varten.
