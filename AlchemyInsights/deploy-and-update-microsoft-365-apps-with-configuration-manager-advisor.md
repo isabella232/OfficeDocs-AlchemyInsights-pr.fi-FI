@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-sovellusten käyttöönotto ja päivitys määritysten hallinnalla
+title: Microsoft 365 -sovellusten käyttöönotto ja päivittäminen Configuration Manager -neuvojan avulla
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fe3cc8693e41639de590450fc4b678c44bd9e784
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678074"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122876"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Microsoft 365-sovellusten käyttöönotto ja päivitys määritysten hallinnalla
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Microsoft 365 -sovellusten käyttöönotto ja päivittäminen Configuration Manager -neuvojan avulla
 
-Configuration manageria käyttävien organisaatioiden kanssa voit luoda [ja päivittää microsoft 365-sovelluksia Configuration Manageriin](https://admin.microsoft.com/adminportal/home#/oppinstall) avulla luomalla komento sarjan, joka määrittää Microsoft 365-sovellusten käyttöönoton automaattisesti FasTrack Engineers-sovelluksen suosittelemien parhaiden käytäntöjen avulla.
+Configuration Manageria käyttäen organisaatioiden, jotka käyttävät Määritysten hallintaa, voit käyttää [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2146549) -sovellusten käyttöönotto- ja päivitysomistajaa Configuration Manager -neuvonantajan kanssa ja luoda komentosarjan, joka määrittää Automaattisesti Microsoft 365 -sovellusten käyttöönoton FastTrack-insinöörien suosittelemia parhaita käytäntöjä käyttäen.
 
-Tämän oppaan avulla voit luoda käyttöönotto ryhmiä, mukauttaa Office-sovelluksia ja-ominaisuuksia, määrittää dynaamisia tai Lean-asennuksia ja käyttää sitten komento sarjaa sovellusten, automaattisten käyttöönotto sääntöjen ja laite kokoelmien luomiseen, jotka sinun on kohdistettava käyttöönottoon.
+Tämän oppaan avulla voit luoda käyttöönottoryhmiä, mukauttaa Office-sovelluksia ja -ominaisuuksia, määrittää dynaamisia tai lean-asennuksia ja suorittaa sitten komentosarjan ja luoda sovellukset, automaattisen käyttöönoton säännöt ja laitekokoelmat, jotka sinun on kohdennettava käyttöönottoon.
