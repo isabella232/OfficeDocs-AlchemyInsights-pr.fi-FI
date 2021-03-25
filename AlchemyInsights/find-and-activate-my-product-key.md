@@ -1,5 +1,5 @@
 ---
-title: Tuoteavaimen etsiminen ja aktivoiminen
+title: Microsoft Open License Program
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: fi-FI
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200706"
+ms.locfileid: "51217930"
 ---
-# <a name="find-and-activate-my-product-key"></a>Tuoteavaimen etsiminen ja aktivoiminen
+# <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
 Jos ostit Microsoft 365 for Businessin [Microsoft Open License -ohjelman](https://go.microsoft.com/fwlink/p/?LinkID=613298)kautta, voit etsiä ja aktivoida tuoteavaimen näin.
 
@@ -30,4 +30,4 @@ Jos ostit Microsoft 365 for Businessin [Microsoft Open License -ohjelman](https:
 1. Kirjaudu sisään työ- tai koulutililläsi sähköpostin linkin avulla, hyväksy Open license -sopimus ja uusi tilaus. Vaiheittaiset ohjeet saat lataamalla PDF-oppaan, [Aktivoi online-palvelut: Microsoft 365 -tilaus.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
 
     > [!NOTE]
-    > Volyymikäyttöoikeusasiakkaat voivat myös aktivoida tilauksia [volyymikäyttöoikeuskeskuksessa.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Lisätietoja on PDF-oppaassa [Active Online Services -palvelussa volyymikäyttöoikeuskeskuksessa.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    > Volyymikäyttöoikeusasiakkaat voivat myös aktivoida tilauksia [volyymikäyttöoikeuskeskuksessa.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Lisätietoja saat lataamalla PDF-oppaan, [Active Online Services -palvelut volyymikäyttöoikeuskeskuksessa.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
