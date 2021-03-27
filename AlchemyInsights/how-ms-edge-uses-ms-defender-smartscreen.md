@@ -1,5 +1,5 @@
 ---
-title: Miten Microsoft Edge käyttää Microsoft Defender SmartScreen-suodatinta?
+title: Miten Microsoft Edge käyttää Microsoft Defender SmartScreeniä?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583428"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398618"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a><span data-ttu-id="744b9-102">Miten Microsoft Edge käyttää Microsoft Defender SmartScreen-suodatinta?</span><span class="sxs-lookup"><span data-stu-id="744b9-102">How Microsoft Edge uses Microsoft Defender SmartScreen</span></span>
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a><span data-ttu-id="37a77-102">Microsoft Edgen käyttäminen Microsoft Defender SmartScreenin avulla</span><span class="sxs-lookup"><span data-stu-id="37a77-102">How Microsoft Edge uses Microsoft Defender SmartScreen</span></span>
 
-<span data-ttu-id="744b9-103">Jos haluat pitää sinut turvassa verkossa, Microsoft Edge käyttää Microsoft Defender SmartScreen-ennakko varoitus järjestelmää verkko sivustoja vastaan, jotka syyllistyvät Tietojenkalasteluhyökkäysten kohteeksi ja levittävät haitta ohjelmia kohdenneten hyökkäysten kautta.</span><span class="sxs-lookup"><span data-stu-id="744b9-103">To keep you safe on the web, Microsoft Edge uses Microsoft Defender SmartScreen as an early-warning system against websites that perpetrate phishing attacks and distribute malware through focused attacks.</span></span>
+<span data-ttu-id="37a77-103">Microsoft Edge suojaa verkkoa suojaamalla Microsoft Defender SmartScreenin ennakkovaroitusjärjestelmänä sivustoista, jotka levittäyvät tietojenkalasteluhyökkäyksiin ja jakavat haittaohjelmia kohdennetuissa hyökkäyksissä.</span><span class="sxs-lookup"><span data-stu-id="37a77-103">To keep you safe on the web, Microsoft Edge uses Microsoft Defender SmartScreen as an early-warning system against websites that perpetrate phishing attacks and distribute malware through focused attacks.</span></span>
 
-<span data-ttu-id="744b9-104">Järjestelmänvalvojat voivat määrittää Microsoft Defender SmartScreen-toiminnon ryhmä käytännön, Microsoft Intusen tai mobiililaitteiden hallinnan (MDM) asetuksilla.</span><span class="sxs-lookup"><span data-stu-id="744b9-104">Admins can configure Microsoft Defender SmartScreen using Group Policy, Microsoft Intune, or mobile device management (MDM) settings.</span></span> <span data-ttu-id="744b9-105">Sen perusteella, miten määrität Microsoft Defender SmartScreen-asetukset, voit näyttää käyttäjille varoitus sivun ja antaa heidän jatkaa sivustoon tai estää sivuston kokonaan.</span><span class="sxs-lookup"><span data-stu-id="744b9-105">Based on how you set up Microsoft Defender SmartScreen, you can show users a warning page and let them continue to the site or block the site entirely.</span></span>
+<span data-ttu-id="37a77-104">Järjestelmänvalvojat voivat määrittää Microsoft Defender SmartScreenin ryhmäkäytäntöjen, Microsoft Intunen tai mobiililaitteiden hallinnan (MDM) asetusten avulla.</span><span class="sxs-lookup"><span data-stu-id="37a77-104">Admins can configure Microsoft Defender SmartScreen using Group Policy, Microsoft Intune, or mobile device management (MDM) settings.</span></span> <span data-ttu-id="37a77-105">Microsoft Defender SmartScreenin määritysten perusteella voit näyttää käyttäjille varoitussivun ja jatkaa sivustoon tai estää sivuston kokonaan.</span><span class="sxs-lookup"><span data-stu-id="37a77-105">Based on how you set up Microsoft Defender SmartScreen, you can show users a warning page and let them continue to the site or block the site entirely.</span></span>
 
-<span data-ttu-id="744b9-106">Lisä tietoja on Microsoft Defender SmartScreen-ja [Microsoft Defender Application Guard-sovelluksen](https://go.microsoft.com/fwlink/?linkid=2132839) [Microsoftin Edge-tuki](https://go.microsoft.com/fwlink/?linkid=2133081) -kohdassa.</span><span class="sxs-lookup"><span data-stu-id="744b9-106">To learn more, see [Microsoft Edge support for Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) and [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).</span></span>
+<span data-ttu-id="37a77-106">Lisätietoja on Microsoft [Edgen Microsoft Defender SmartScreen- ja](https://go.microsoft.com/fwlink/?linkid=2133081) [Microsoft Defender Application Guard -tuessa.](https://go.microsoft.com/fwlink/?linkid=2132839)</span><span class="sxs-lookup"><span data-stu-id="37a77-106">To learn more, see [Microsoft Edge support for Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) and [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).</span></span>

@@ -1,5 +1,5 @@
 ---
-title: Android-laitteen virheen korjaus kehitys tieto koneesta käyttämällä Microsoft Edgestä
+title: Android-laitteen etäkorjaus kehitystietokoneesta Microsoft Edgen avulla
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583543"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398690"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="5b287-102">Android-laitteen virheen korjaus kehitys tieto koneesta käyttämällä Microsoft Edgestä</span><span class="sxs-lookup"><span data-stu-id="5b287-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="00f63-102">Android-laitteen etäkorjaus kehitystietokoneesta Microsoft Edgen avulla</span><span class="sxs-lookup"><span data-stu-id="00f63-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
 
-<span data-ttu-id="5b287-103">Jos haluat, että Android-laitteessa olevaa elävää sisältöä voi korjata etäyhteyden kautta tieto koneesta:</span><span class="sxs-lookup"><span data-stu-id="5b287-103">To remotely debug live content on an Android device from your computer:</span></span>
+<span data-ttu-id="00f63-103">Android-laitteen reaaliaikaisen sisällön etäkorjaus tietokoneesta:</span><span class="sxs-lookup"><span data-stu-id="00f63-103">To remotely debug live content on an Android device from your computer:</span></span>
 
-1. <span data-ttu-id="5b287-104">Määritä Android-laite etävirheen korjausta varten ja löydä se kehitys tieto koneesta.</span><span class="sxs-lookup"><span data-stu-id="5b287-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
-2. <span data-ttu-id="5b287-105">Tutki ja debug Live-sisältöä Android-laitteessa kehitys tieto koneesta.</span><span class="sxs-lookup"><span data-stu-id="5b287-105">From the development computer, inspect and debug live content on the Android device.</span></span>
-3. <span data-ttu-id="5b287-106">Screencast Live-sisältöä Android-laitteesta kehitys tieto koneen DevTools-esiintymään.</span><span class="sxs-lookup"><span data-stu-id="5b287-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
+1. <span data-ttu-id="00f63-104">Määritä Android-laite virheenkorjausta varten ja etsi se kehitystietokoneesta.</span><span class="sxs-lookup"><span data-stu-id="00f63-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
+2. <span data-ttu-id="00f63-105">Tarkista ja virheenkorjaus android-laitteen reaaliaikaisesta sisällöstä kehitystietokoneessa.</span><span class="sxs-lookup"><span data-stu-id="00f63-105">From the development computer, inspect and debug live content on the Android device.</span></span>
+3. <span data-ttu-id="00f63-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span><span class="sxs-lookup"><span data-stu-id="00f63-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
