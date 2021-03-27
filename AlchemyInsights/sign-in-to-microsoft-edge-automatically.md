@@ -1,5 +1,5 @@
 ---
-title: Kirjautuminen Microsoft Edgeen automaattisesti
+title: Microsoft Edgeen kirjautuminen automaattisesti
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677236"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398726"
 ---
-# <a name="sign-in-to-microsoft-edge-automatically"></a>Kirjautuminen Microsoft Edgeen automaattisesti
+# <a name="sign-in-to-microsoft-edge-automatically"></a>Microsoft Edgeen kirjautuminen automaattisesti
 
-Microsoft Edge käyttää käyttö järjestelmän oletus tiliä kirjautuessaan automaattisesti käyttäjän laitteeseen sen mukaan, miten käyttäjän laite on määritetty. 
+Microsoft Edge käyttää käyttöjärjestelmän oletustiliä käyttäjän automaattinen kirjautuminen käyttäjän laitteen määritysten mukaan. 
 
-Seuraavassa kuvataan kunkin laite tyypin ja sen riippuvaisen käyttäjän kirjautumisprosessin skenaariot:
+Kunkin laitekokoonpanon ja sen riippuvaisen käyttäjän kirjautumisprosessin skenaariot on kuvattu alla:
 
-1. **Laite on yhdistelmä/AAD-J**: Tämä vaihto ehto on käytettävissä Windows 10-, alatason Windows-ja sitä vastaavissa palvelin versioissa. Käyttäjät kirjataan automaattisesti sisään Azure Active Directory (AD)-tileihinsä.
-2. **Laite on liitetty toimi alueeseen**: Tämä asetus on käytettävissä Windows 10-, alatason Windows-ja sitä vastaavissa palvelin versioissa. Oletusarvoisesti käyttäjät, joilla on toimi alue tiliä, eivät ole kirjautuneet sisään automaattisesti. Jos haluat ottaa automaattisen kirjautumisen käyttöön, käytä **Configureonenpremisesaccountautosigni** -käytäntöä. Jos haluat ottaa käyttöön automaattisen kirjautumisen käyttäjille, joilla on Azure AD-tilisi, harkitse hybridi-liittymistään laitteisiinsa.
-3. **Käyttö järjestelmän oletus tili on Microsoft-tili**: Tämä vaihto ehto on käytettävissä Windows 10 RS3 (version 1709, koonti versio 10.0.16299) ja uudemmissa versioissa. Skenaario ei todennäköisesti toteudu yritys laitteissa. Jos käyttö järjestelmän oletus tili on Microsoft-tili, Microsoft Edge automaattisesti kirjautuu sisään Microsoft-tilillä.
+- **Laite on yhdistelmäympäristö/AAD-J:** Tämä asetus on käytettävissä Windows 10:ssä, windowsissa ja sitä vastaavissa palvelinversioissa. Käyttäjät kirjautuvat automaattisesti Azure Active Directory (AD) -tileinsä avulla.
+- **Laite on liitetty toimialueeseen:** Tämä asetus on käytettävissä Windows 10:ssä, Windowsissa ja sitä vastaavissa palvelinversioissa. Käyttäjät, joilla on toimialuetili, eivät oletusarvoisesti kirjaudu sisään automaattisesti. jos haluat ottaa automaattisen kirjautumisen käyttöön, käytä **ConfigureOnPremisesAccountAutoSignIn-käytäntöä.** Jos haluat ottaa automaattisen kirjautumisen käyttöön Azure AD -tilejä käyttäjillä, harkitse yhdistelmäympäristön liittämistä heidän laitteisiinsa.
+- **Käyttöjärjestelmän oletustili** on Microsoft-tili: Tämä asetus on käytettävissä Windows 10 RS3:ssa (versio 1709, koontiversio 10.0.16299) ja myommissa versioissa. Skenaariota ei todennäköisesti ilmene yrityslaitteilla. Jos käyttöjärjestelmän oletustili on Microsoft-tili, Microsoft Edge kirjautuu automaattisesti sisään käyttäjälle Microsoft-tilillä.
  
  

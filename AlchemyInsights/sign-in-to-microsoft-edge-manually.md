@@ -1,5 +1,5 @@
 ---
-title: Kirjautuminen Microsoft Edgeen manuaalisesti
+title: Microsoft Edgeen kirjautuminen manuaalisesti
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677245"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398654"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Kirjautuminen Microsoft Edgeen manuaalisesti
+# <a name="sign-in-to-microsoft-edge-manually"></a>Microsoft Edgeen kirjautuminen manuaalisesti
 
-Jos käyttäjä ei ole automaattisesti kirjautunut sisään ensimmäisen käyttö kerran aikana, käyttäjä voi kirja utua sisään manuaalisesti selaimen asetuksista tai käyttäjä tietojen pikavalikosta. Jos haluat hallita sisäänkirjautumista, käytä seuraavia käytäntöjä:
+Jos käyttäjä ei ole kirjautuneena automaattisesti ensimmäisen käyttökokemuksen aikana, käyttäjä voi kirjautua sisään manuaalisesti selaimen asetusten tai käyttäjätietojen pikaikkunan kautta. Jos haluat hallita kirjautumista, käytä seuraavia käytäntöjä:
 
-1. [Nonremovableprofileenabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) -voit varmistaa, että käyttäjällä on aina Työprofiili Microsoft Edgessä.
-2. [Restrictsignintopattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) -voit rajoittaa kirjautumisen luotettujen asiakkaiden joukkoon.
-3. [Browssigni](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – voit poistaa kirjautumisen käytöstä tai pakottaa käyttäjät Kirjautu maan sisään.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Voit varmistaa, että käyttäjällä on aina työprofiili Microsoft Edgessä.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – Voit rajoittaa kirjautumisen luotettujen tilien joukkoon.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Jos haluat poistaa kirjautumisen käytöstä tai pakottaa käyttäjät kirjautumaan sisään.
 
