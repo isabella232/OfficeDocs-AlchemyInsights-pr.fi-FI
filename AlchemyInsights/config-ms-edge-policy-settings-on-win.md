@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge-käytäntöjen asetusten määrittäminen Windowsissa
+title: Microsoft Edgen käytäntöasetusten määrittäminen Windowsissa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583440"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402372"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Microsoft Edge-käytäntöjen asetusten määrittäminen Windowsissa
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Microsoft Edgen käytäntöasetusten määrittäminen Windowsissa
 
-Jos haluat määrittää Microsoft Edgen käytäntö asetukset ja hallitut päivitykset, käytä ryhmä käytäntö objekteja. Voit myös määrittää käytäntöjä rekisteristä. Tämä olisi sopiva (1) Windows-laitteille, jotka on liitetty Microsoft Active Directory-toimi alueeseen ja (2) Windows 10 Pro-ja Enterprise-esiintymiin, jotka on rekisteröity laite hallintaan Microsoft Intunella.
+Voit määrittää Microsoft Edgen käytäntöasetukset ja hallitut päivitykset ryhmäkäytäntöobjektien (GPOs) avulla. Voit myös valmistella käytännön rekisterin kautta. tämä olisi asianmukainen asia( 1) Microsoft Active Directory -toimialueeseen yhdistetyille Windows-laitteille ja (2) Microsoft Intunessa laitehallintaan rekisteröidyille Windows 10 Pro- ja Enterprise-esiintymälle.
 
-Jos haluat määrittää Microsoft Edgen käyttämällä ryhmä käytäntö objekteja, toimi seuraavasti:
+Voit määrittää Microsoft Edgen ryhmäkäytäntöobjektien avulla seuraavasti:
 
-1. Voit asentaa Active Directory-toimi alueen ryhmä käytäntöjen keskus säilöön tai yksittäisten tieto koneiden käytäntöjen määritys malli kansioon kaikki hallinta mallit, jotka lisäävät Microsoft Edgen sääntöjä ja asetuksia.
-2. Määritä tietyt käytännöt, jotka haluat määrittää.
+1. Siirry Active Directory -toimialueen ryhmäkäytäntöjen keskussäilöön tai yksittäisten tietokoneiden Käytäntömääritys-mallikansioon ja asenna kaikki hallintamallit, jotka lisäävät sääntöjä ja asetuksia Microsoft Edgelle.
+2. Määritä määritettävät käytännöt.
 
-Lisä tietoja on artikkelissa [Microsoft Edge-käytäntöjen asetusten määrittäminen Windowsissa](https://go.microsoft.com/fwlink/?linkid=2135024).
+Lisätietoja on ohjeaiheessa [Microsoft Edgen käytäntöasetusten määrittäminen Windowsissa.](https://go.microsoft.com/fwlink/?linkid=2135024)

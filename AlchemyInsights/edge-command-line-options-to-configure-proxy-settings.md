@@ -1,5 +1,5 @@
 ---
-title: Välitys palvelimen asetusten määrittäminen Microsoft Edgessä komento rivi asetuksilla
+title: Microsoft Edgen välityspalvelimen asetusten määrittäminen komentoriviasetusten avulla
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004254"
+- "9004632"
 - "7561"
-ms.openlocfilehash: a54e30034cc0dbfe60a3d88f04ffe119ca451bb6
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+- "8363"
+ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706587"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403416"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Välitys palvelimen asetusten määrittäminen Microsoft Edgessä komento rivi asetuksilla
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Microsoft Edgen välityspalvelimen asetusten määrittäminen komentoriviasetusten avulla
 
-Microsoft Edge-versiossa 77 ja uudemmissa versioissa verkko pino käyttää oletusarvoisesti järjestelmän verkko asetuksia. Yhdistelmä skenaarioissa, joissa käyttäjät pyytävät vaihto ehtoista, Microsoft Edge tukee komento rivi valitsimia mukautettujen välitys palvelin asetusten määrittämiseen. Lisä tietoja on kohdassa:
+Microsoft Edgen versioissa 77 ja sitä uudemmassa versiossa verkkopino käyttää oletusarvoisesti järjestelmän verkkoasetuksia. Yhdistelmäympäristöissä, joissa käyttäjät pyytävät vaihtoehtoista vaihtoehtoa, Microsoft Edge tukee komentoriviasetuksia mukautettujen välityspalvelimen asetusten määrittämiseen. Lisätietoja on kohdassa:
 
-1. [Järjestelmä verkoston asetukset](https://go.microsoft.com/fwlink/?linkid=2133962)
-2. [Välitys palvelimen asetusten komento rivi valitsimet](https://go.microsoft.com/fwlink/?linkid=2134292)
-3. [Määritysten lisä asetukset ja muut asetukset](https://go.microsoft.com/fwlink/?linkid=2134293)
+1. [Järjestelmän verkkoasetukset](https://go.microsoft.com/fwlink/?linkid=2133962)
+2. [Välityspalvelimen asetusten komentoriviasetukset](https://go.microsoft.com/fwlink/?linkid=2134292)
+3. [Määritysten lisäasetukset ja muut asetukset](https://go.microsoft.com/fwlink/?linkid=2134293)
