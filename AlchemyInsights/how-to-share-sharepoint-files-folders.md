@@ -1,5 +1,5 @@
 ---
-title: SharePoint-tiedostojen tai-kansioiden jakaminen
+title: SharePoint- tai OneDrive-tiedostojen tai -kansioiden jakaminen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779012"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408111"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePoint-tiedostojen tai-kansioiden jakaminen
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint- tai OneDrive-tiedostojen tai -kansioiden jakaminen
 
-SharePoint-sivustoon tallennettavat tiedostot ovat yleensä kaikille, joilla on sivuston käyttö oikeudet, mutta haluat ehkä jakaa tietyt tiedostot tai kansiot niiden henkilöiden kanssa, joilla ei muuten ole sivuston käyttö oikeutta. Kun jaat tiedostoja ja kansioita, voit päättää, Haluatko antaa käyttäjien muokata niitä vai vain tarkastella niitä.
+SharePoint-sivustoon tallennetut tiedostot ovat yleensä kaikkien sivuston käyttöoikeudet saa olevien käytettävissä, mutta haluat ehkä jakaa tietyt tiedostot tai kansiot muille, joilla ei muuten ole sivuston käyttöoikeutta. Kun jaat tiedostoja ja kansioita, voit päättää, annatko muiden muokata vai vain tarkastella niitä. Lisätietoja on seuraavissa artikkeleissa:
 
-[SharePoint-tiedostojen tai-kansioiden jakaminen](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[SharePoint-tiedostojen tai -kansioiden jakaminen](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive-tiedostojen ja -kansioiden jakaminen](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
