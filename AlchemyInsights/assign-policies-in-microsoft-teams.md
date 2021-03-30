@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035388"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401796"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Määritä käytäntöjä Microsoft Teamsissa
 
-- Teamsissa on useita tapoja määrittää käytäntöjä käyttäjille, jotta voit hallita organisaation käytäntöjä helposti. Määritä käytäntö suoraan käyttäjille joko yksitellen tai asteikolla erämäärityksen kautta tai ryhmälle, johon käyttäjät ovat jäseniä.  Tällä hetkellä käytäntömääritys ryhmille, jotka käyttävät Microsoft Teams -hallintakeskusta, on käytettävissä vain tietyille käytäntötyypeille. 
-- Käyttäjällä on yksi tehokas käytäntö kullekin käytäntötyypille. Jos haluat tarkistaa järjestyksen, jossa käytäntöjä sovelletaan käyttäjiin, katso, [mikä käytäntö on etusijalla?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Lisätietoja on kohdassa [Käytäntöjen määrittäminen käyttäjille Microsoft Teamsissa.](https://docs.microsoft.com/microsoftteams/assign-policies)
+- Teams tarjoaa useita tapoja määrittää käytäntöjä käyttäjille, jotta käytäntöjen hallinta organisaatiossasi olisi helppoa. Voit määrittää käytännön suoraan käyttäjille joko yksitellen tai suurena joukkomäärityksenä, tai ryhmälle, jonka jäseniä käyttäjät ovat.  Tällä hetkellä käytäntömääritys ryhmille Microsoft Teams -hallintakeskuksen kautta on käytettävissä vain tietyille käytäntötyypeille. 
+- Käyttäjällä on yksi voimassa oleva käytäntö kutakin käytäntötyyppiä kohtaan. Jos haluat tarkistaa käyttäjien käytäntöjen järjestyksen, katso kohta [Mikä käytäntö on etusijalla?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Lisätietoja on kohdassa [Määritä käytäntöjä käyttäjille Microsoft Teamsissa](https://docs.microsoft.com/microsoftteams/assign-policies).
