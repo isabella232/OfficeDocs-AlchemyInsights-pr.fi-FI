@@ -1,5 +1,5 @@
 ---
-title: Microsoft-tiedoston lataaminen ja asentaminen
+title: Lataa ja asenna Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823072"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401940"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="e70ee-102">Microsoft-tiedoston lataaminen ja asentaminen</span><span class="sxs-lookup"><span data-stu-id="e70ee-102">How to download and install Microsoft To Do</span></span>
+# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="9040f-102">Lataa ja asenna Microsoft To Do</span><span class="sxs-lookup"><span data-stu-id="9040f-102">How to download and install Microsoft To Do</span></span>
 
-<span data-ttu-id="e70ee-103">Microsoft to do-sovellus Win32-, iOS-, Android-ja Mac-sovellusten käyttöön voidaan ladata soveltuvaan säilöön.</span><span class="sxs-lookup"><span data-stu-id="e70ee-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
+<span data-ttu-id="9040f-103">Win32-, iOS-, Android- ja Mac-laitteille saatavilla olevan Microsoft To Do -sovelluksen voi ladata sopivasta Storesta.</span><span class="sxs-lookup"><span data-stu-id="9040f-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
 
-<span data-ttu-id="e70ee-104">Jos sinulla on rajoitettu kaupan käyttö oikeus vuokra ajan käyttöön, Katso lisä ohjeet kohdasta [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) offline-asennus ohjelma</span><span class="sxs-lookup"><span data-stu-id="e70ee-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) for offline installer</span></span>
+<span data-ttu-id="9040f-104">Jos Store-käyttöoikeudet ovat rajalliset, katso lisätietoja offline-asennusohjelmasta kohdassa [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps).</span><span class="sxs-lookup"><span data-stu-id="9040f-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) for offline installer</span></span>
 
-<span data-ttu-id="e70ee-105">Jos haluat ladata sovelluksen kaupasta käyttämällä **työtiliäsi** , sovellus on julkaistava yrityksesi **yksityiseen säilöön.**</span><span class="sxs-lookup"><span data-stu-id="e70ee-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="e70ee-106">Lisä tietoja on artikkelissa [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="e70ee-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
+<span data-ttu-id="9040f-105">Jos haluat ladata sovelluksen Storesta käyttämällä **työpaikan** tiliä, sovelluksen on oltava julkaistuna yrityksen **omassa kaupassa.**</span><span class="sxs-lookup"><span data-stu-id="9040f-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="9040f-106">Lisätietoja on kohdassa [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="9040f-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
