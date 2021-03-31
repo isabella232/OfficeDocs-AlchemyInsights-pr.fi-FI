@@ -1,5 +1,5 @@
 ---
-title: 126, että posti laatikkoa ei löydy-virhe OWA-sovelluksessa?
+title: 126 Postilaatikon saaminen ei löydy virheestä OWA:ssa?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706747"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426659"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Etkö löytänyt Sähkö posti laatikkoa virheestä Outlookin verkko versiossa?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Saatko postilaatikon, joka ei löydy -virheestä Outlookin verkkosovelluksessa?
 
-Jos käytät Outlookia verkossa ja saat **Posti laatikkoa ei löydy** virheestä, tilillä, jolla muodostat yhteyden Outlookin verkko versioon, ei ole Exchange Online-käyttö oikeutta, joten tiliin ei ole liitetty posti laatikkoa. Järjestelmänvalvojasi voi määrittää tilillesi käyttö oikeuden noudattamalla seuraavia ohjeita:
+Jos käytät Outlookin verkkotiliä ja  saat virheilmoituksen postilaatikosta, tiliä, jolla muodostat yhteyden Outlookin verkkosovellukseen, ei ole Exchange Online -käyttöoikeutta, joten tiliin ei ole liitetty postilaatikkoa. Järjestelmänvalvoja voi määrittää tilin käyttöoikeuden seuraavasti:
 
-1. Avaa [Microsoft 365-hallinta keskus](https://portal.office.com/adminportal/home#/homepage) ja siirry **käyttäjät** -osion **aktiiviset käyttäjät** -osioon ja valitse käyttäjä, joka näkee virheen.
+1. Avaa [Microsoft 365 -hallintakeskus,](https://portal.office.com/adminportal/home#/homepage) siirry  Aktiiviset käyttäjät -osioon ja valitse käyttäjä, joka näkee virheen. 
 
-2. Siirry avautuvassa käyttäjä sivulla käyttö oikeudet **ja sovellukset** -osioon, valitse sopiva **Sijainti** -arvo ja määritä käyttö oikeus, joka sisältää Exchange Onlinen (Laajenna käyttö oikeus, jotta näet sen tiedot). Kun olet valmis, valitse **Tallenna muutokset**.
+2. Siirry käyttäjäsivulla Käyttöoikeudet ja  sovellukset -osaan, valitse asianmukainen Sijainti-arvo ja määritä käyttöoikeus, joka sisältää Exchange Onlinen (laajenna käyttöoikeus, jotta näet sen tiedot).  Kun olet valmis, valitse **Tallenna muutokset.**
+
+Joissakin tapauksissa, jos käyttöoikeus on jo määritetty käyttäjätilille, käyttöoikeuden poistaminen ja uudelleennimeäminen auttaa ratkaisemaan ongelman ja valmistella sen oikein järjestelmässä: 
+
+- Tarkista, ovatko M365 Exchange Online -tilauksesi (ja muut, jos sinulla on) tilaukset ajan tasalla ja eivät ole hiljattain vanhentuneet.
+
+Kun olet varmistanut, että tilauksesi ei ole päättynyt ja että käyttäjätilille on määritetty kelvollinen käyttöoikeus, käyttöoikeuden valmistelu voi kestää jopa 24 tuntia, joten sinun on ehkä odotettava ongelman ratkaisemista. Lisätietoja on kohdassa [Käyttöoikeuksien määrittäminen ja hallinta.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
