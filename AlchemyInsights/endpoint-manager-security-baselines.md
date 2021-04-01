@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager – suojauksen perusaikataulut
+title: EndPointin hallinta – Suojauksen perustasot
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420878"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440881"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – suojauksen perusaikataulut
+# <a name="endpoint-manager---security-baselines"></a>EndPointin hallinta – Suojauksen perustasot
 
-Suojauksen perusaikataulut ovat valmiiksi määritettyjä Windows-asetusryhmiä, joiden avulla voit ottaa käyttöön asianomaisten suojausryhmien suosittelemia suojausasetuksia. Näitä perusaikatauluja voidaan mukauttaa toimittamaan vain halutut asetukset ja arvot. Lisätietoja suojauksen perusaikatauluista on ohjeaiheessa Windows 10 -laitteiden määrittäminen [Intunessa suojauksen perusaikataulujen avulla.](https://docs.microsoft.com/mem/intune/protect/security-baselines)
+Suojauksen perustasot ovat valmiiksi määritettyjä Windows-asetusryhmiä, joiden avulla voit ottaa käyttöön niitä suojausasetuksia, joita asianomaiset suojausryhmät suosittelevat. Näitä perustasoja voidaan mukauttaa toimittamaan vain halutut asetukset ja arvot. Lisätietoja suojauksen perustasoista on ohjeaiheessa [Windows 10 -laitteiden määrittäminen Intunessa](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Näiden tuotteiden perusaikatauluja on tällä hetkellä:
+Perustasoja on tällä hetkellä näissä tuotteissa:
 
-- Windowsin MDM-suojausasetukset
+- Windows mobiililaitteidenhallinen suojausasetukset
 - Microsoft Defender for EndPoint Security
 - Microsoft Edge
 
-Kukin perusaikataulu päivitetään säännöllisesti ja julkaistaan asteittain. Kukin versio lisää ja poistaa edellisestä versiosta asetukset sen varmistamiseksi, että perusaikataulu vastaa nykyisiä ohjeita. Päätepisteen suojauksen perussolsoleiden avulla eri versioita voidaan verrata tekemällä muutokset versiosta versioon näkyvissä.
+Jokainen perustaso päivitetään säännöllisesti ja julkaistaan asteittaisina versioina. Jokainen versio lisää ja poistaa edellisestä versiosta asetuksia sen varmistamiseksi, että perustaso täyttää nykyiset ohjeet. Päätepisteen suojauksen perustason konsoli sallii eri versioiden vertailun tekemällä muutokset versiosta versioon näkyviksi.
 
-Ohjeita perusaikataulun käyttöönottoversion tehokkaimpaan muutokseen on Kohdassa Suojauksen perusaikataulun profiilien hallinta [Microsoft Intunessa.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Ohjeita siitä, miten voit tehokkaasti muuttaa sitä, mikä perustason versio on käytössä, on kohdassa [Suojauksen perustason profiilien hallinta Microsoft Intunessa](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Kun olet ottanut suojauksen perusaikataulun käyttöön, voit valvoa käyttöönoton tila ja tarkistaa asetukset laitekohtaisesti.
+Kun olet ottanut suojauksen perustasokäyttöön, voit valvoa käyttöönoton tilaa ja tarkastella asetuksia laitekohtaisesti.
 
-**Huomautus:** Perusaikataulujen raportointitiedot voivat näkyä 24 tunnin kuluessa käyttöönotosta laitteeseen ja enintään 6 tuntia lisäpäivityksiä varten. 
+**Huomautus:** Perustasojen raportointitietojen tuleminen näkyviin ensimmäisen käyttöönoton jälkeen laitteeseen voi kestää jopa 24 tuntia ja lisäpäivityksiä varten enintään 6 tuntia. 
 
-Perusaikataulun asetuksen ei yleensä tarvitse olla käytössä, koska samaa asetusta käytetään eri profiilissa. Voit tutkia tätä skenaariota tietyssä laitteessa valitsemalla laitteen Security Baseline -profiilin Laitteen tila -solmussa. Lisätietoja on kohdassa [Suojauksen perusaikataulujen ristiriitojen ratkaiseminen.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Yleisin syy perustason määrittämisen epäonnistumiseen on, että samaa asetusta käytetään eri profiilissa. Tämä skenaario voidaan tutkia tietyssä laitteessa valitsemalla tämä laite Suojauksen perustaso -profiilin Laitteen tila -solmusta. Lisätietoja on kohdassa [Suojauksen perustasojen ristiriitojen ratkaiseminen](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
