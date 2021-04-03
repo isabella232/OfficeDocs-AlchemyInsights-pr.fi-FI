@@ -1,5 +1,5 @@
 ---
-title: Poistetun Microsoft 365-ryhmän palauttaminen
+title: Poistetun Microsoft 365 -ryhmän palauttaminen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774699"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505683"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Poistetun Microsoft 365-ryhmän palauttaminen
+# <a name="restore-a-deleted-microsoft-365-group"></a>Poistetun Microsoft 365 -ryhmän palauttaminen
 
-Poistetut ryhmät säilytetään 30 päivän ajan. Poistetun ryhmän palauttaminen:
-  
-1. Valitse [Exchange-hallinta keskuksessa](https://outlook.office365.com/ecp/)vasemmanpuoleisesta ruudusta **vastaanottajat** ja valitse sitten **ryhmät**. Jos ryhmä on poistettu alle 30 päivää sitten, se näkyy luettelossa ja tila-sarakkeessa on poistettu päivä määrä.
+Voit palauttaa poistetun Microsoft 365 -ryhmän tai Microsoft Teamsin 30 päivän kuluessa poistamisesta.
 
-2. Valitse ryhmä ja valitse sitten komento palkissa **Palauta** tai napsauta tieto ruudun "Palauta napsauttamalla tätä"-linkkiä.
+1. Jos haluat kirjautua Microsoft 365 -hallintakeskukseen ja luetella poistetut ryhmät ja ryhmät, siirry [Microsoft 365 -hallintakeskukseen.](https://aka.ms/RestoreDeletedGroup)
 
-Lisä tietoja ja tietoja ryhmien palauttamisesta PowerShellin avulla [on artikkelissa poistetun Microsoft 365-ryhmän palauttaminen](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Huomautus:** Kirjaudu sisään käyttämällä tiliä, joka on määritetty joko vuokraajan järjestelmänvalvojalle tai ryhmien järjestelmänvalvojan roolille.
+
+1. Valitse palautettava poistettu Microsoft 365 -ryhmä tai Teams ja valitse **palauta ryhmä.**
+
+    Jos ryhmää ei voi palauttaa ristiriitaisten SMTP-osoitteiden vuoksi, etsi ristiriitaa aiheuttava objekti seuraavan komennon avulla ja poista SMTP-osoite:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Huomautus:** Joissakin tapauksissa voi kestää jopa 24 tuntia, ennen kuin ryhmä ja kaikki sen tiedot palautetaan.
+
+    Lisätietoja tai tietoja ryhmien palauttamisesta PowerShellin avulla on ohjeaiheessa [Poistetun Microsoft 365 -ryhmän palauttaminen.](https://go.microsoft.com/fwlink/?linkid=867802)
