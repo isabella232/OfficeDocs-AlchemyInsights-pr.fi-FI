@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694388"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645164"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Ongelmia Exchange Server -päivitysten asentamisessa
 
-Ennen Kuin asennat Exchange Server -päivityksiä, lue artikkelin Parhaat käytännöt -osasta Exchangen päivittäminen [uusimpaan kumulatiivisen päivityksen versioon.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) On erityisen tärkeää asentaa päivitykset järjestelmänvalvojan järjestelmänvalvojan kehotteen avulla (ellei päivityksiä ole asennettu Microsoft Updaten kautta). Tämä koskee sekä kumulatiivisia että suojauspäivityksiä!
+Jos haluat päivittää Exchange Serverin uusimpaan cumulative update (CU) -päivitykseen, voit saada yksityiskohtaiset ohjeet, jotka päivittyvät nykyisestä cu:sta [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) kohdeyksiköksi.
 
-Jos saat virheilmoituksia asennettaessa suojauspäivityksiä tai päivityksen asentamisen jälkeen, katso [lisätietoja vianmäärityksen epäonnistunuksista.](https://aka.ms/exupdatefaq)
+Jos Exchange Server -päivitysten asentamisen aikana tai sen jälkeen ilmenee virheitä, tutustu artikkelin Exchangen päivittäminen uusimpaan kumulatiivisen päivityksen [käytännöt -osaan.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) On erittäin tärkeää asentaa suojauspäivitykset järjestelmänvalvojan oikeuksin asennetun CMD-kehotteen avulla (jos päivityksiä ei ole asennettu Microsoft Updaten kautta).
+
+Jos saat virheilmoituksia suojauspäivityksiä asennettaessa tai päivityksen asentamisen jälkeen, katso artikkelia Exchangen kumulatiivisten ja suojauspäivitysten korjaaminen [epäonnistunneita asennuksia.](https://aka.ms/exupdatefaq)
