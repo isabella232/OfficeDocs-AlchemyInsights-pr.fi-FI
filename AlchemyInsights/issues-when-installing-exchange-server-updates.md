@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694388"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645164"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a><span data-ttu-id="3a8a7-102">Ongelmia Exchange Server -päivitysten asentamisessa</span><span class="sxs-lookup"><span data-stu-id="3a8a7-102">Issues when installing Exchange Server updates</span></span>
+# <a name="issues-when-installing-exchange-server-updates"></a><span data-ttu-id="82f1a-102">Ongelmia Exchange Server -päivitysten asentamisessa</span><span class="sxs-lookup"><span data-stu-id="82f1a-102">Issues when installing Exchange Server updates</span></span>
 
-<span data-ttu-id="3a8a7-103">Ennen Kuin asennat Exchange Server -päivityksiä, lue artikkelin Parhaat käytännöt -osasta Exchangen päivittäminen [uusimpaan kumulatiivisen päivityksen versioon.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates)</span><span class="sxs-lookup"><span data-stu-id="3a8a7-103">Before installing Exchange Server updates, see the 'Best Practices' section of the article [Upgrade Exchange to the latest Cumulative Update](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates).</span></span> <span data-ttu-id="3a8a7-104">On erityisen tärkeää asentaa päivitykset järjestelmänvalvojan järjestelmänvalvojan kehotteen avulla (ellei päivityksiä ole asennettu Microsoft Updaten kautta).</span><span class="sxs-lookup"><span data-stu-id="3a8a7-104">It is especially important to install updates using the elevated CMD prompt (unless updates are installed through Microsoft Update).</span></span> <span data-ttu-id="3a8a7-105">Tämä koskee sekä kumulatiivisia että suojauspäivityksiä!</span><span class="sxs-lookup"><span data-stu-id="3a8a7-105">This applies to both Cumulative and Security updates!</span></span>
+<span data-ttu-id="82f1a-103">Jos haluat päivittää Exchange Serverin uusimpaan cumulative update (CU) -päivitykseen, voit saada yksityiskohtaiset ohjeet, jotka päivittyvät nykyisestä cu:sta [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) kohdeyksiköksi.</span><span class="sxs-lookup"><span data-stu-id="82f1a-103">If you need to update to the latest Cumulative Update (CU) for Exchange Server, you can use [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) to get a detailed set of steps to update from your current CU to the target CU.</span></span>
 
-<span data-ttu-id="3a8a7-106">Jos saat virheilmoituksia asennettaessa suojauspäivityksiä tai päivityksen asentamisen jälkeen, katso [lisätietoja vianmäärityksen epäonnistunuksista.](https://aka.ms/exupdatefaq)</span><span class="sxs-lookup"><span data-stu-id="3a8a7-106">If you see errors when installing security updates or after update was installed, see [this article about troubleshooting failed installations](https://aka.ms/exupdatefaq).</span></span>
+<span data-ttu-id="82f1a-104">Jos Exchange Server -päivitysten asentamisen aikana tai sen jälkeen ilmenee virheitä, tutustu artikkelin Exchangen päivittäminen uusimpaan kumulatiivisen päivityksen [käytännöt -osaan.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates)</span><span class="sxs-lookup"><span data-stu-id="82f1a-104">If there are any errors during or after installation of Exchange Server updates, see the 'Best Practices' section of the article [Upgrade Exchange to the latest Cumulative Update](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates).</span></span> <span data-ttu-id="82f1a-105">On erittäin tärkeää asentaa suojauspäivitykset järjestelmänvalvojan oikeuksin asennetun CMD-kehotteen avulla (jos päivityksiä ei ole asennettu Microsoft Updaten kautta).</span><span class="sxs-lookup"><span data-stu-id="82f1a-105">It is very important to install security updates using the elevated CMD prompt (if updates are not installed through Microsoft Update).</span></span>
+
+<span data-ttu-id="82f1a-106">Jos saat virheilmoituksia suojauspäivityksiä asennettaessa tai päivityksen asentamisen jälkeen, katso artikkelia Exchangen kumulatiivisten ja suojauspäivitysten korjaaminen [epäonnistunneita asennuksia.](https://aka.ms/exupdatefaq)</span><span class="sxs-lookup"><span data-stu-id="82f1a-106">If you see errors when installing security updates or after update was installed, see [Repair failed installations of Exchange Cumulative and Security updates](https://aka.ms/exupdatefaq).</span></span>
