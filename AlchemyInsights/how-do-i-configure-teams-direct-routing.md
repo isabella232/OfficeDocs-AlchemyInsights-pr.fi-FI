@@ -1,5 +1,5 @@
 ---
-title: Teamsin suoran reitityksen määrittäminen
+title: Miten määritän Teamsin suoran reitityksen?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704891"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692139"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a><span data-ttu-id="c79dc-102">Puhelin järjestelmän suora reititys Microsoft Teamsissa</span><span class="sxs-lookup"><span data-stu-id="c79dc-102">Phone System Direct Routing for Microsoft Teams</span></span>
+# <a name="direct-routing-for-microsoft-teams"></a><span data-ttu-id="d2140-102">Microsoft Teamsin suora reititys</span><span class="sxs-lookup"><span data-stu-id="d2140-102">Direct Routing for Microsoft Teams</span></span>
 
-<span data-ttu-id="c79dc-103">Seuraavissa artikkeleissa on lisä tietoja [Puhelin järjestelmän suorasta reitityksestä Microsoft teamsissa](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page):</span><span class="sxs-lookup"><span data-stu-id="c79dc-103">Review the following articles to learn more about [Phone System Direct Routing for Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page):</span></span> 
+<span data-ttu-id="d2140-103">Seuraavissa artikkeleissa on lisätietoja Microsoft [Teamsin suorasta reitityksestä:](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page)</span><span class="sxs-lookup"><span data-stu-id="d2140-103">Review the following articles to learn more about [Direct Routing for Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page):</span></span> 
 
-- [<span data-ttu-id="c79dc-104">Suoran reitityksen suunnittelemiseen</span><span class="sxs-lookup"><span data-stu-id="c79dc-104">Plan Direct Routing</span></span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
-- [<span data-ttu-id="c79dc-105">Suoran reitityksen määrittäminen</span><span class="sxs-lookup"><span data-stu-id="c79dc-105">Configure Direct Routing</span></span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [<span data-ttu-id="c79dc-106">Suoran reitityksen valvonta ja vian määritys</span><span class="sxs-lookup"><span data-stu-id="c79dc-106">Monitor and troubleshoot Direct Routing</span></span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [<span data-ttu-id="d2140-104">Suoran reitityksen suunnitteleminen</span><span class="sxs-lookup"><span data-stu-id="d2140-104">Plan Direct Routing</span></span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [<span data-ttu-id="d2140-105">Suoran reitityksen määrittäminen</span><span class="sxs-lookup"><span data-stu-id="d2140-105">Configure Direct Routing</span></span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
+- [<span data-ttu-id="d2140-106">Suoran reitityksen valvonta ja vianmääritys</span><span class="sxs-lookup"><span data-stu-id="d2140-106">Monitor and troubleshoot Direct Routing</span></span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-<span data-ttu-id="c79dc-107">**Huomautus:** Voit myös tarkistaa [teamsin suora reititys](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube-videon.</span><span class="sxs-lookup"><span data-stu-id="c79dc-107">**Note:** You can also check out the [Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube video.</span></span>
+<span data-ttu-id="d2140-107">**Huomautus:** Voit myös tarkistaa [Teams Academy](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) Direct Routing YouTube -videon.</span><span class="sxs-lookup"><span data-stu-id="d2140-107">**Note:** You can also check out the [Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube video.</span></span>
