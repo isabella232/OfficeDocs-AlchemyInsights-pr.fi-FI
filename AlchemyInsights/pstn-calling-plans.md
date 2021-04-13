@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662502"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692463"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-puhelupaketit
 
@@ -28,4 +28,4 @@ Jos haluat käyttäjien voivan soittaa tavallisiin puhelimiin, eikä sinulla vie
 
 - Määritä [puhelusaldo](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), jotta käyttäjiltä **ei lopu minuutit** kesken. Tutustu hintoihin [täällä](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Lisätietoja on artikkeleissa [Puhelinjärjestelmä ja puhelupalvelupaketit](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ja [Mikä on puhelusaldo?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits).
+- Lisätietoja on ohjeissa [Microsoft TeamsIn puhelin- ja Microsoft Teams -puhelupaketit](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ja [mitä ovat viestintäsyistä?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
