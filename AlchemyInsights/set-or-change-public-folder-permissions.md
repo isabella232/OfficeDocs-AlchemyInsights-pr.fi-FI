@@ -1,8 +1,8 @@
 ---
-title: Julkisten kansioiden käyttö oikeuksien määrittäminen tai muuttaminen
+title: Yleisen kansion käyttöoikeuksien määrittäminen tai muuttaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: c035d56ffade45cc4360a1d0dfca4c63bf110a38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e419c72a890e68fc7b6d40d2b64406e42f9b0769
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789204"
 ---
-# <a name="permissions-and-public-folders"></a>Käyttö oikeudet ja yleiset kansiot
+# <a name="permissions-and-public-folders"></a>Käyttöoikeudet ja yleiset kansiot
 
-Voit muuttaa yleisten kansioiden käyttö oikeuksia Outlookin, Exchange-hallinta keskuksen tai PowerShellin avulla:
+Voit muuttaa julkisten kansioiden käyttöoikeuksia Outlookin, Exchange-hallintakeskuksen (EAC) tai PowerShellin avulla:
   
-- Saat Outlookin ohjeet [napsauttamalla tätä](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Outlookin ohjeet saat [napsauttamalla tätä](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- Katso ohjeet [tämän artikkelin ohje artikkelista](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) . 
+- Jos kyse on EAC:stä, [katso ohjeet](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) tästä artikkelista. 
     
-- Lisä tietoja PowerShell-toiminnon käyttämisestä on [tässä artikkelissa](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) , jossa on lisä tietoja lisää-Publikansiclillclient-käyttö oikeuksien komennossa. Jos tarvitset ohjeita Exchange PowerShellin yhdistämiseen, napsauta [tätä](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Katso PowerShellin tästä [artikkelista](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) ohjeet Add-PublicFolderClientPermission käyttämiseen. Jos tarvitset ohjeita yhteyden muodostamiseen Exchange PowerShelliin, napsauta [tätä](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Jos **ulkoiset käyttäjät eivät voi lähettää sähkö postia sähkö postin julkiseen kansioon**, syynä voi olla se, että yleisestä kansiosta puuttuu ulkoista sähkö postin jakelua varten tarvittavat käyttö oikeudet. Voit korjata tämän käyttämällä Outlook-ohjeita [täällä](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)tai PowerShellin [ohjeita.](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)
+Jos **ulkoiset käyttäjät eivät voi** lähettää sähköpostiviestejä sähköpostia käyttävään julkiseen kansioon, syynä voi olla se, että julkisesta kansiosta puuttuu ulkoisen sähköpostin toimittamiseen tarvittavat käyttöoikeudet. Voit korjata ongelman noudattamalla tässä annettuja [Outlook-ohjeita](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)tai näitä PowerShellin [ohjeita.](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)
   
 

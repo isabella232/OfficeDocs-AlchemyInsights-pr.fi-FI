@@ -1,8 +1,8 @@
 ---
-title: Kuvien sieppaaminen, merkitseminen ja jakaminen SNIP & Sketchin avulla
+title: Sieppaa, & ja jaa kuvia Leike-luonnoksen avulla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773196"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770808"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Kuvien sieppaaminen, merkitseminen ja jakaminen SNIP & Sketchin avulla
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Sieppaa, & ja jaa kuvia Leike-luonnoksen avulla
 
-Näytön luonnos on nyt nimeltään **SNIP & luonnostelu**. **Voit ottaa leikkeen nopeasti**:
+Näyttöluonnoksen nimi on nyt **Leike & luonnostelusta.** **Voit ottaa leikeen nopeasti:**
 
-1. Paina Windows-näppäin **+ vaihto + s.** Näet näyttösi Tummenna ja kohdistin näkyy ristiksi. 
+1. Paina **näppäinyhdistelmää Windows-näppäin + Vaihto + S.** Näyttö tummenee ja kohdistin näkyy ristinä. 
 
-2. Valitse piste sen alueen reunasta, jonka haluat kopioida, ja napsauta kohdistinta hiiren ykkös painikkeella. 
+2. Valitse kopioitaessa olevan alueen reunasta kohta ja napsauta kohdistinta hiiren kakkospainikkeella. 
 
-3. Korosta alue, jonka haluat kaapata, siirtämällä kohdistinta. Siepattu alue näkyy näytössä.
+3. Korosta kohdistimen avulla alue, jonka haluat tallentaa. Näyttökuvasi alue tulee näkyviin näyttöön.
 
-   ![korostettu valinta](media/snipone.png)
+   ![kuva korostetun valinnan kuvasta](media/snipone.png)
 
-Snipped-kuvasi tallennetaan leike pöydälle, joka on valmiina liitettäessä sähkö postiin tai asia kirjaan. 
+Kopioitu kuva tallennetaan leikepöydälle, ja se on valmis liittämistä varten sähköpostiviestiin tai tiedostoon. 
 
-**Jos haluat muokata tai tarkastella kuva**: 
+**Jos haluat muokata kuvaa tai tarkastella sitä:** 
 
-- Napsauta tehtävä palkin oikeassa reunassa olevaa ilmoitukset-kuvaketta. Valitse sitten juuri tallentamasi kuva. Napsaista avautuu leike & luonnos-sovelluksessa.
+- Napsauta tehtäväpalkin oikeassa reunassa olevaa ilmoituskuvaketta. ja napsauta juuri kaappaamaani kuvaa. Leike avautuu Luonnoslehtiö-& leikesovelluksessa.
 
-   ![kuva kuvasta, joka näkyy leikkaus sovelluksessa](media/sniptwo.png)
+   ![kuva kuvasta, joka näkyy näyttösovelluksessa](media/sniptwo.png)

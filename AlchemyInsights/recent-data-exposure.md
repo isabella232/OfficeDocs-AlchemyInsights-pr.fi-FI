@@ -1,8 +1,8 @@
 ---
-title: Viimeaikaiset tietojen valotus
+title: Tietojen viimeaikainen valotus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789357"
 ---
-# <a name="recent-data-exposure"></a>Viimeaikaiset tietojen valotus
+# <a name="recent-data-exposure"></a>Tietojen viimeaikainen valotus
 
-Kolmannen osapuolen tutkija on tehnyt Microsoftille tiedon siitä, että tieto kanta, joka isännöi Microsoftin tuki tietoja, oli käytettävissä ilman todennusta. Microsoft varmisti tieto kannan 31. joulu kuuta 2019.
+Kolmannen osapuolen tutkija on tietonut Microsoftille, että punaisia Microsoft-tukitietoja isännöinyt tietokanta oli käytettävissä ilman todennusta. 31. joulukuuta 2019 Microsoft suojasi tietokannan.
 
-Olemme sitoutuneet asiakkaidemme tieto suojaan ja tieto turvaan ja olemme ryhtyneet toimenpiteisiin estääkseen tämän ongelman ilmenemisen tulevaisuudessa. Olemme aloittaneet ilmoitukset asiakkaille, joiden tiedot ovat käytettävissä tässä Redacted-tieto kannassa. Jos haluat lisä tietoja, tutustu [äskettäin tehtyyn tietojen altistumiseen liittyviin asiakas tiedotukseen](https://aka.ms/privacyinfo).
+Microsoft on sitoutunut suojaamaan asiakkaitaan ja varmistamaan, että ongelma toistuu jatkossa. Olemme alkaneet saada ilmoituksia asiakkaille, joiden tiedot olivat tässä punaisessa tietokannassa. Lisätietoja on kohdassa Asiakkaan tietoisuustiedot, [jotka liittyvät viimeaikaiseen tietojen lisäämiseen.](https://aka.ms/privacyinfo)

@@ -1,8 +1,8 @@
 ---
-title: SPF-asetusten määrittäminen
+title: SPF:n määritäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295603"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788988"
 ---
-# <a name="set-passwords-to-never-expire"></a>Sala sanojen asettaminen ei vanhene koskaan
+# <a name="set-passwords-to-never-expire"></a>Salasanojen vanheneminen
 
-Jos haluat, että kaikki Sala sanat eivät vanhene koskaan, siirry Microsoft 365-hallinta keskuksessa kohtaan **Asetukset**org: n  >  **Asetukset > [Suojaus ja tieto suoja](https://portal.office.com/adminportal/home#/settings/security)  >  [salasanan vanhenemis käytäntö](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** ja poista valinta kohdasta "käyttäjien Sala sanojen määrittäminen vanhenemaan usean päivän kuluttua".
+Jos haluat, että KAIKKI salasanat eivät vanhene koskaan, siirry Microsoft 365 -hallintakeskuksessa kohtaan Asetukset Organisaatioasetukset > Suojaus ja tietosuojaSalasanan vanhenemiskäytäntö ja poista aseta käyttäjien salasanat vanhenemaan muutaman päivän kuluttua -valintaruudun  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** valinta.
   
-Tarkempia tietoja on kohdassa:
+Lisätietoja on ohjeaiheessa:
 
-- [Voit säätää organisaation Sala sanan vanhenemis käytäntöä.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Määritä organisaation salasanan vanhenemiskäytäntö.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Sala sanan määrittäminen tietyille käyttäjille ei vanhene koskaan](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Aseta salasana vanhenemaan vain tietyille käyttäjille](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Sala sanan on vastattava monimutkaisuus vaatimuksia](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Salasanan on täytettävä monimutkaisuusvaatimukset](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

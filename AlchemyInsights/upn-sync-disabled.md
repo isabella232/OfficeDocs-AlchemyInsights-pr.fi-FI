@@ -2,7 +2,7 @@
 title: UPN-synkronointi poistettu käytöstä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749511"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782148"
 ---
 # <a name="upn-sync-disabled"></a>UPN-synkronointi poistettu käytöstä
 
-Jos aloit synkronoinnin Azure AD:hen ennen 30 päivää maaliskuuta 2016, suorita seuraava Azure AD PowerShell-cmdlet-komento, jotta voit ottaa UPN Soft Match-sovelluksen käyttöön vain organisaatiossa:
+Jos aloitit synkronoinnin Azure AD:n kanssa ennen 30. maaliskuuta 2016, suorita seuraava Azure AD PowerShellin cmdlet-komento, jotta voit ottaa käyttöön vain organisaation upn-pehmeän vastineen:
   
- **Aseta-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-Ota käyttöön $True**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-UPN Soft Match-toiminto otetaan automaattisesti käyttöön organisaatioille, jotka aloittivat synkronoinnin Azure AD:hen 2016 maaliskuun 30.
+UPN-pehmeä vastaavuus on automaattisesti käytössä organisaatioissa, jotka ovat aloittaneet synkronoinnin Azure AD:n kanssa 30. maaliskuuta 2016 tai sen jälkeen.
   
-Lisä tietoja Soft Match-toiminnon ottamisesta käyttöön UPN:ssä ja muissa synkronointi ominaisuuksissa on artikkelissa [Azure AD Connect-synkronointi palvelun ominaisuudet](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Lisätietoja pehmeän vastaavuuden ottamalla käyttöön upnissa ja muissa synkronointiominaisuuksissa saat [Azure AD Connect -synkronointipalvelun ominaisuuksista.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

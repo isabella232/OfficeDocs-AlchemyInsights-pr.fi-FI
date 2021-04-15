@@ -2,7 +2,7 @@
 title: Mitä ryhmät ovat?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: 857af422c77fbb719c120951314d21160f0fa1b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9011c8219f7aec09454ecf08fc1c5ad2959e89a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807332"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770700"
 ---
 # <a name="what-are-groups"></a>Mitä ryhmät ovat?
 
-Microsoft 365-ryhmien avulla voit valita joukko henkilöitä, joiden kanssa haluat tehdä yhteistyötä, ja määrittää helposti resursseja, jotka jaetaan muille käyttäjille. Sinun ei tarvitse huolehtia käyttö oikeuksien manuaalisesta määrittämisestä kaikkiin näihin resursseihin, koska jäsenten lisääminen ryhmään antaa hänelle automaattisesti käyttö oikeudet, jotka he tarvitsevat ryhmäsi työkaluihin. Lisäksi ryhmät ovat uusi ja parannettu käyttö kokemus siitä, mitä käytimme jakamis luetteloiden tai jaettujen posti laatikoiden käyttämiseen.  Lisä tietoja on artikkelissa tietoja [Microsoft 365-ryhmistä](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
+Microsoft 365 -ryhmien avulla voit valita joukon henkilöitä, joiden kanssa haluat tehdä yhteistyötä, ja luoda helposti resurssikokoelman, jonka he voivat jakaa. Sinun ei tarvitse määrittää käyttöoikeuksia manuaalisesti kaikkiin näihin resursseihin, koska jäsenten lisääminen ryhmään antaa heille automaattisesti käyttöoikeudet ryhmän työkaluihin. Ryhmät ovat myös uusi ja parannettu käyttökokemus, jota käytettiin jakeluluetteloiden tai jaettujen postilaatikoiden käytössä.  Lisätietoja [on kohdassa Lisätietoja Microsoft 365 -ryhmistä.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 

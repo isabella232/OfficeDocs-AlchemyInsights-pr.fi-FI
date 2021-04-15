@@ -1,8 +1,8 @@
 ---
-title: 'Virhe: tämän tieto koneen säännöt eivät täsmää'
+title: 'Virhe: Tämän tietokoneen säännöt eivät vastaa toisiaan'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782949"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Virhe: tämän tieto koneen säännöt eivät täsmää
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Virhe: Tämän tietokoneen säännöt eivät vastaa toisiaan
 
-Jos haluat nähdä tämän tunnetun ongelman päivitetyn tilan, katso [tämän tieto koneen säännöt eivät vastaa Microsoft Exchangen sääntöjä](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0) .
+Jos haluat nähdä tämän tunnetun ongelman päivitetyn tilan, katso tämän tietokoneen säännöt [eivät vastaa Microsoft Exchangen sääntöjä.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Outlook-tiimi on toteuttanut korjaus tiedoston koonti versio 12928,10000. Korjaus on jo Insider Fast-ohjelmassa ja se siirtyy kuukausi kanavaan 2020 kesä kuun lopulla. Kun sinulla on korjattu koonti versio, näyttöön voi tulla kehote "mitä sääntöjä haluat säilyttää". Valitse palvelin pyydettäessä ja palaa sitten Outlook-ohjelmassa uudelleen ja ota käyttöön kaikki käytöstä poistetut säännöt.
+Outlook-työryhmä on tehnyt korjauksen koontiversiossa 12928.10000. Korjaus on jo Insider-kanavan nopeassa käytössä, ja se tulee kuukausittaiseen kanavaan kesäkuun 2020 lopulla. Kun sinulla on korjattu koontiversio, saatat saada vielä kerran kehotteen "Mitkä säännöt haluat säilyttää". Valitse pyydettäessä Palvelin, palaa Sitten Outlookiin ja ota uudelleen käyttöön käytöstä poistetut säännöt.
 
-Ennen kuin korjaus on käytettävissä, käytä seuraavaa vaihto ehtoista menetelmää:
+Käytä seuraavaa vaihtoehtoista tapaa, kunnes korjaus on saatavilla:
 
-**Vaihtoehtoinen**menetelmä: Viimeaikaiset raportit ovat aiheuttaneet ongelman niille, jotka ovat luoneet vain asiakas sääntöjä Outlookin Työpöytä versiossa. Jos ongelma jatkuu edelleen, kannattaa harkita sääntöjen poistamista ja luoda ja muokata sääntöjä vain OWA (Outlook Web App)-sovelluksessa, ennen kuin ongelma on ratkaistu.
+**Vaihtoehtoinen menetelmä: Viimeaikaisissa** raporteissa ongelma on ilmennyt niillä raporteissa, jotka ovat vain luoneet asiakassääntöjä Outlookin työpöytäversiossa. Jos ongelma jatkuu, voit poistaa säännöt ja luoda ja muokata sääntöjä vain OWA:ssa (Outlook Web App), kunnes ongelma on ratkaistu.
 
-Jos et voi poistaa sääntöjä manuaalisesti, voit suorittaa Outlook-komennon, kun käynnistät Outlookin suorittamalla Outlook.exe/cleanrules. Tämä toiminto poistaa sekä asiakas-että palvelin säännöt. Se poistaa kaikki säännöt kaikille Outlook-profiilissa oleville tileille. Tämä komento on edelleen dokumentoitu komento rivi valitsimien artikkelissa.
+Jos et voi poistaa sääntöjä manuaalisesti, voit suorittaa Outlook-komennon, kun käynnistät Outlookin suorittamalla komennon /cleanrulesOutlook.exe /cleanrules. Tämä poistaa sekä asiakkaan että palvelimen säännöt. Se poistaa kaikki säännöt kaikista Outlook-profiilin tileistä. Tämä komento on edelleen dokumentoitu Komentorivivalitsimet-artikkelissa.
 

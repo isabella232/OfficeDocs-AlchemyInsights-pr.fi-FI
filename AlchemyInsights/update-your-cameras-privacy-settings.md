@@ -1,8 +1,8 @@
 ---
-title: Kameran tieto suoja-asetusten päivittäminen
+title: Kameran tietosuoja-asetusten päivittäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274765"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782652"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Kameran tieto suoja-asetusten päivittäminen
+# <a name="update-your-cameras-privacy-settings"></a>Kameran tietosuoja-asetusten päivittäminen
 
-Tämä virhe koodi tarkoittaa, että kameran tieto suoja-asetukset vaikuttavat sovellukseen. Päivitä kameran tieto suoja-asetukset noudattamalla näitä ohjeita:
+Tämä virhekoodi tarkoittaa, että kameran tietosuoja-asetukset vaikuttavat sovellukseen. Päivitä kameran tietosuoja-asetukset seuraavasti:
 
-- Avaa **Käynnistä-painike > asetukset > tieto suoja > kamera**.
-- Valitse **Salli kameran käyttäminen tässä laitteessa**-kohdassa **Muuta**. Varmista, että kytkin on käytössä **.**
-- Varmista seuraavaksi, että **Salli sovellusten käyttää kameraa**-kohdassa on **käytössä-vaihto ehto.**
-- Valitse sitten **Valitse, mitkä sovellukset voivat käyttää kameraasi**ja varmista, että haluamasi sovelluksen vieressä oleva valitsin on käytössä.
+- Avaa **Aloitus-painike > asetukset > tietosuoja-> kameraan.**
+- Valitse **Salli kameran käyttö tässä laitteessa -kohdassa** **Muuta**. Varmista, että vaihtopainike on **käytössä**.
+- Varmista sitten **Kohdassa Salli sovellusten käyttää kameraa,** että vaihtopainike on **käytössä**.
+- Varmista sitten **Valitse, mitkä sovellukset voivat käyttää kameraasi**-kohdassa, että haluamasi sovelluksen vieressä on käytössä.

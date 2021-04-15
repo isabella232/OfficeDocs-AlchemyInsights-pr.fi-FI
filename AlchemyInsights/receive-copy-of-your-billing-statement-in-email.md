@@ -1,8 +1,8 @@
 ---
-title: Laskutus raportin kopion saaminen sähköpostitse
+title: Laskutusotteen kopion vastaanottaminen sähköpostitse
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789429"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Laskutus raportin kopion saaminen sähköpostitse
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Laskutusotteen kopion vastaanottaminen sähköpostitse
 
 Voit halutessasi saada laskutusselvityksen kopion sähköpostiviestin liitteenä. Jos valitset tämän mahdollisuuden, huomioi seuraavat seikat:
   
 - Sähköposti lähetetään kaikkien ilmoituksen vastaanottajiksi merkittyjen henkilöiden ensisijaiseen ja vaihtoehtoiseen sähköpostiosoitteeseen.
 
-- Näyttöön tulee kaksi erillistä Sähkö posti viestiä: yksi, jonka avulla tiedät, että lasku on valmis, sekä ohjeet, joiden avulla voit kirja utua hallinta keskukseen ja tarkastella sitä sekä toinen Sähkö posti viesti, joka sisältää laskutus ilmoituksen liitteenä.
+- Saat kaksi erillistä sähköpostiviestiä: toisen, joka ilmoittaa laskusi valmiista, ja ohjeet, joiden avulla voit kirjautua hallintakeskukseen sen tarkastelemista varten, ja toinen sähköpostiviesti, joka sisältää laskutusotteen liitteenä.
 
-Laskutus ilmoituksen saaminen sähköpostitse:
+Saat laskutustiedot sähköpostitse:
   
-1. Siirry hallinta keskuksessa **laskutus** \> [laskutuksen ilmoitukset](https://go.microsoft.com/fwlink/p/?linkid=853212) -sivulle.
+1. Siirry hallintakeskuksessa Laskutuslaskun **ilmoitukset** \> [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=853212)
 
-2. Siirry kohtaan **laskutus ilmoituksen lähettäminen sähkö postin liitteenä?**-kohdassa Vaihda- **asetukseksi käytössä**. Voit lopettaa laskutusselvityssähköpostien vastaanottamisen milloin tahansa vaihtamalla tilaksi **Ei käytössä**.
+2. Vaihda **kohdassa Saako laskutuserä sähköpostin liitteenä?** käytössä -vaihtopainike **asentoon Käytössä.** Voit lopettaa laskutusselvityssähköpostien vastaanottamisen milloin tahansa vaihtamalla tilaksi **Ei käytössä**.
