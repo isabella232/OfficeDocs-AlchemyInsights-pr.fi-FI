@@ -1,8 +1,8 @@
 ---
-title: Officen käyttöönotto työkalun (ODT) käyttöä koskevia kysymyksiä
+title: Kysymyksiä Officen käyttöönottotyökalun (ODT) käytöstä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086153"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790329"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Officen käyttöönotto työkalun (ODT) käyttöä koskevia kysymyksiä
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Kysymyksiä Officen käyttöönottotyökalun (ODT) käytöstä
 
-Lataa Officen käyttöönotto työkalu [Microsoft Download Centeristä](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+Lataa Officen käyttöönottotyökalu [Microsoft Download Centeristä.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-Kun olet ladannut tiedoston, suorita itse purkautuva suoritettava tiedosto, joka sisältää Officen käyttöönotto työkalun suoritettavan tiedoston (setupodt.exe) ja esimerkki määritys tiedoston (configuration.xml).
+Kun olet ladanut tiedoston, suorita suoritettava suoritettava tiedosto, joka sisältää suoritettavan Officen käyttöönottotyökalun (setup.exe) ja mallimääritystiedoston (configuration.xml).
   
- **Jos haluat sulkea pois tai poistaa Microsoft 365-sovelluksia yritys tuotteista asiakas tieto koneista:**
+ **Jos haluat jättää Microsoft 365 -sovellukset yritystuotteiden ulkopuolelle tai poistaa ne asiakastietokoneista:**
   
-Kun asennat yritys käyttöön tarkoitettuja Microsoft 365-sovelluksia, voit jättää tietyt tuotteet pois. Jos haluat tehdä näin, noudata ohjeita, jotka koskevat Officen asentamista ODT-ohjelman avulla, mutta Sisällytä ExcludeApp-elementti määritys tiedostoon. Tämä määritys tiedosto asentaa esimerkiksi kaikki yritys tuotteita koskevat Microsoft 365-sovellukset, paitsi Publisherin:
+Kun asennat Microsoft 365 -sovelluksia yrityksille, voit jättää tietyt tuotteet pois. Noudata ohjeita Officen asentamiseen ODT:n kanssa, mutta sisällytä ExcludeApp-elementti määritystiedostoon. Esimerkiksi tämä määritystiedosto asentaa kaikki Microsoft 365 -sovellukset yritystuotteille Publisheria lukuun ottamatta:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ Kun asennat yritys käyttöön tarkoitettuja Microsoft 365-sovelluksia, voit jä
 </Add>
 ```
 
-[Yleistä Officen käyttöönotto työkalusta](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Officen käyttöönottotyökalun yleiskatsaus](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

@@ -2,7 +2,7 @@
 title: Muisti ei riitä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772583"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791121"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Muisti ei riitä toiminnon suorittamiseen
 
-Kun käsittelet Microsoft Excel-tiedostoa, näyttöön tulee jokin seuraavista viesteistä:
+Kun käytät Microsoft Excel -tiedostoa, näyttöön tulee jokin seuraavista ilmoituksista:
 
-- Excel ei voi suorittaa tätä tehtävää käytettävissä olevien resurssien avulla. Valitse pienemmät tiedot tai sulje muut sovellukset.
-- Muisti loppui
-- Järjestelmä resurssit eivät riitä täydelliseen näyttämiseen
-- Muisti ei riitä toiminnon suorittamiseen. Kokeile käyttää aiempaa vähäisempää tietoa tai sulkea muita sovelluksia. Jos haluat lisätä muistin käytettävyyttä, harkitse: 
-    - Käytetään Microsoft Excelin 64-bittistä versiota.
+- Excel ei voi suorittaa tehtävää ja käytettävissä olevia resursseja. Valitse vähemmän tietoja tai sulje muut sovellukset.
+- Muisti on lopussa
+- Järjestelmäresurssit eivät riitä näyttämiseen kokonaan
+- Muisti ei riitä toiminnon suorittamiseen. Kokeile käyttää vähemmän tietoja tai sulkea muita sovelluksia. Harkitse muistin käytettävyyden kasvattaminen: 
+    - Microsoft Excelin 64-bittisen version käyttäminen.
     - Muistin lisääminen laitteeseen.
 
-Lisä tietoja virheiden vian määrityksestä on Ohje aiheessa [käytettävissä olevien resurssien virheiden vian määritys Excelissä](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Lisätietoja näiden virheiden vianmäärityksestä on kohdassa Käytettävissä olevat resurssit [-virheiden vianmääritys Excelissä.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
