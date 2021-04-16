@@ -1,8 +1,8 @@
 ---
-title: Lisä tietoja arvon lisä verosta (ALV)
+title: Apua arvonlisäveron (ALV) ymmärtämiseen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705490"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811633"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Lisä tietoja arvon lisä verosta (ALV)
+# <a name="help-understanding-value-added-tax-vat"></a>Apua arvonlisäveron (ALV) ymmärtämiseen
 
-Jos olet maassa, joka käyttää arvon lisä veroa (ALV), kuten Yhdistynyttä kuningas kuntaa, Microsoft-laskutus laskee arvon lisä veron puolestasi ja käyttää summaa laskuissasi.
+Jos olet maassa, jossa käytetään arvonlisäveroa (ALV), kuten Yhdistyneessä kuningaskunnassa, Microsoft Invoicing laskee ALV:n ja soveltaa summaa laskuihin.
   
-Vero syistä sinun on määritettävä ALV-rekisteröinti numerosi myös laskutus asetuksissa.
+Verosyistä sinun on myös määritettävä ALV-rekisteröintinumerosi Invoicing-asetuksissa.
   
-Et voi lisätä tai poistaa ALV-maksuja, mutta voit muuttaa oletus arvon mukaista alv-kantaa asetuksissa. Oletusarvoisesti laskutus käyttää palvelua ALV-rekisteröinti numeroiden vahvistamiseen, mutta suosittelemme, että luet Euroopan komission julkaiseman [VIES-vastuu vapaus lausekkeen](https://go.microsoft.com/fwlink/?LinkID=841741) . Jos päätät poistaa palvelun käytöstä, sinun on tarkistettava kaikki ALV-rekisteröinti numerot.
+Et voi lisätä tai poistaa ALV-hintoja, mutta voit muuttaa oletusarvoista ALV-verokantaa asetuksissa. Oletusarvoisesti Invoicing vahvistaa ALV-numerot palvelun avulla, mutta suosittelemme lukemaan Euroopan komission julkaiseman [VIES-vastuuvapauslausekkeen.](https://go.microsoft.com/fwlink/?LinkID=841741) Jos haluat poistaa palvelun käytöstä, sinun on vahvistettava kaikki ALV-numerot.

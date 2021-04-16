@@ -1,8 +1,8 @@
 ---
-title: Yleisen kansion siirto erä, jossa on Completedwithapperrors-tila
+title: Yleisen kansion siirtoerä, jonka tila on CompletedWithErrors
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744110"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812461"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Yleisen kansion siirto erä, jossa on Completedwithapperrors-tila
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Yleisen kansion siirtoerä, jonka tila on CompletedWithErrors
 
-Viimeistele erä suorittamalla seuraavat vaiheet, Ohita suuret/Virheelliset kohteet: 
-1. Siirto erän ohitettujen kohteiden hyväksyminen:
+Suorita erä loppuun noudattamalla seuraavia ohjeita ja ohita suuret/huonot kohteet: 
+1. Hyväksy ohitetut kohteet siirtoerässä:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Käytä seuraavaa komentoa, jos haluat hyväksyä ohitettujen kohteiden siirto pyynnöt, jotka on synkronoitu, mutta joita ei ole täytetty:
+2. Seuraavan komennon avulla voit hyväksyä ohitetut kohteet siirtopyynnöissä, jotka on "synkronoitu", mutta joita ei ole suoritettu loppuun:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Siirto erän ja pyyntöjen pitäisi jatkua ja valmistu muutamassa minuutissa.
+3. Siirtoerän ja pyyntöjen pitäisi jatkua ja valmistua muutaman minuutin kuluttua.
 

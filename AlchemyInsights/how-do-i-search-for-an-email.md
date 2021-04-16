@@ -1,8 +1,8 @@
 ---
-title: Sähkö posti viestin hakeminen
+title: Miten voin hakea sähköpostiviestiä?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781676"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811093"
 ---
-# <a name="how-do-i-search-for-an-email"></a>Sähkö posti viestin hakeminen
+# <a name="how-do-i-search-for-an-email"></a>Miten voin hakea sähköpostiviestiä?
 
-Voit hakea Sähkö posti viestiä etsimällä Sähkö posti viestin lähettänyttä yhteys henkilöä tai hakemalla Sähkö posti viestissä olevaa avain sanaa.
+Voit etsiä sähköpostiviestiä etsimällä sähköpostiviestin lähettäneen yhteyshenkilön tai etsimällä sähköpostiviestin sisältämän avainsanan.
 
-Napauta suurennus lasia alemmassa siirtymis palkissa. Kirjoita sitten Haku pyyntösi näytön yläreunassa olevaan ruutuun. 
+Napauta suurennuslasia alareunan siirtymispalkissa. Kirjoita sitten hakupyyntö näytön yläreunan ruutuun. 
 
-**Vinkki:** Voit tuoda kohdistuksen haku ruutuun kaksoisnapauttamalla suurennus lasia. Tulokset tulevat näkyviin, kun kirjoitat pyyntöäsi. 
+**Vinkki:** Voit tuoda kohdistuksen hakuruutuun kaksoisnapauttamalla suurennuslasia. Tulokset tulevat näkyviin, kun kirjoitat pyyntöäsi. 

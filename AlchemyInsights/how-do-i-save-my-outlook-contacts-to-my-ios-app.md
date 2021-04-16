@@ -1,8 +1,8 @@
 ---
-title: Miten tallennan Outlook-yhteys tiedot iOS:n yhteys tieto sovellukseen?
+title: Miten tallennan Outlook-yhteystietoni iOS-yhteystietosovellukseen?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781784"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811129"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Miten tallennan Outlook-yhteys tiedot iOS:n yhteys tieto sovellukseen?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Miten tallennan Outlook-yhteystietoni iOS-yhteystietosovellukseen?
 
-Outlook-yhteys tietojen tallentaminen omaan osoitteistoon:
+Outlook-yhteystietojen tallentaminen alkuperäiseen osoitteistaan:
  
-1. Siirry **laite asetukset**  >  -**yhteys tietoihin** ja varmista, että **oletus tili** on **iCloud**-asetus. Huomaa, että tämä asetus on käytettävissä vain, jos laitteeseesi on lisätty useampi kuin yksi tili. Jos laitteeseen ei ole liitetty tiliä, Outlook-yhteys tiedot tallennetaan paikallisesti, mutta niitä ei synkronoida muihin laitteisiin.
+1. Siirry **laiteasetusten**  >  **yhteystietoihin** ja varmista, että **oletustiliksi** on määritetty **iCloud.** Huomaa, että tämä asetus on käytettävissä vain, jos laitteeseesi on lisätty useampi kuin yksi tili. Jos laitteeseen ei ole liitetty tiliä, Outlookin yhteystiedot tallennetaan paikallisesti, mutta niitä ei synkronoida muihin laitteisiin.
  
-2. Avaa Outlook for iOS ja Valitse vasemmassa siirtymis ruudussa asetukset-hammas ratas, valitse **Valitse tili**ja ota käyttöön **Tallenna yhteys tiedot** -painike.
+2. Avaa Outlook for iOS, valitse vasemmassa siirtymisruudussa Asetukset-hammaspyörä, valitse **Valitse** tilisi ja ota Tallenna yhteystiedot **-vaihtopainike** käyttöön.
  
-Tallennetut yhteys tiedot lisätään iCloud-tilisi yhteys tietoihin. Nämä yhteys tiedot synkronoidaan kaikkiin laitteisiin, jotka ovat kirjautuneet samalle iCloud-tilille. Huomaa, että voit viedä yhteys tietoja vain yhdeltä laitteelta kerrallaan.
+Tallennetut yhteystiedot lisätään iCloud-tilin yhteystietoihin. Nämä yhteystiedot synkronoidaan kaikkiin laitteisiin, jotka ovat kirjautuneet sisään samalla iCloud-tilillä. Huomaa, että voit viedä yhteystietoja vain yhdestä laitteesta kerrallaan.
  
-Jos käyttäjä on ottanut yhteyttä-viennin käyttöön, sekä iPadin että iPhonen on oltava poissa käytöstä risti riitojen välttämiseksi. Päällekkäisyydet voivat kestää jopa 24 tuntia, jotta ne voidaan sovitettua uudelleen.
+Jos käyttäjällä on yhteystietojen vienti käytössä, sekä iPad- että iPhone-sovellus on otettava käyttöön, jotta ristiriidat voidaan välttää. Kaksoiskappaleiden uudelleenkonktioon voi kestää jopa 24 tuntia.

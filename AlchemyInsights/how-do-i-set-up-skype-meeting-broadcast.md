@@ -1,8 +1,8 @@
 ---
-title: Skype-Kokous lähetyksen määrittäminen
+title: Miten Skype-kokouslähetys määritetään
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781460"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811021"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Etkö pysty aloittamaan tai liittymään Skype-Kokous lähetykseen?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Etkö voi aloittaa Skype-kokouslähetystä tai liittyä siihen?
 
-Jos sinulla on ongelmia Skype-Kokous lähetyksen aloittamisessa tai liittämisessä tapahtuma tiimin jäseneksi (koko uksen tuottaja), Tarkista määritykset. Skype-Kokous lähetys vaatii manuaalisia määritys vaiheita. Noudata tämän artikkelin ohjeita varmistaaksesi, että verkko-ja Skype for Business Online-portaali on määritetty oikein ja että ristiriitainen käyttö oikeus ei estä haavoittuvuuden sisältävää käyttäjää:
+Jos Skype-kokouslähetyksen (kokouksen tuottajan) on vaikea aloittaa tai liittyä Skype-kokouslähetykseen, muista tarkistaa määrityksesi uudelleen. Skype-kokouslähetys edellyttää joitakin manuaalisia määritysvaiheita. Noudata tämän artikkelin ohjeita ja varmista, että verkkosi ja Skype for Business Online -portaalisi on määritetty oikein ja että ristiriitainen käyttöoikeus ei estä käyttäjää:
 
-[Verkon määrittäminen Skype-Kokous lähetystä varten](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Verkon määrittäminen Skype-kokouslähetystä varten](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

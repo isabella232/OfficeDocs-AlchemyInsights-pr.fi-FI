@@ -1,8 +1,8 @@
 ---
-title: Miten poistan luotto kortti tietoni?
+title: Miten luottokorttitiedot poistetaan?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: d1772c8060adf49f39269198e169e56b53bb8cca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: da6089404550d8025e4a4df3689f73f382603d65
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781820"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811201"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Miten poistan luotto kortti tietoni?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Miten luottokorttitiedot poistetaan?
 
 1. Siirry Microsoft 365 -hallintakeskuksessa **Laskutus** \> [Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)-sivulle.
 
-2. Valitse poistettava luotto kortti tai pankki tili **Maksu tavat** -sivulla.
+2. Valitse **Maksutavat-sivulla** poistettava luottokortti tai pankkitili.
 
-3. Jos haluat poistaa luotto kortin tai pankki tilin, valitse **Poista maksu tapa.**
+3. Jos haluat poistaa luottokortin tai pankkitilin, valitse **Poista maksutapa.**
 
 > [!NOTE]
 > Et voi poistaa luottokorttia tai pankkitiliä, jos sitä käytetään nykyisin tilauksen maksamiseen.
 
-4. Valitse **Poista maksu tapa** -ruudussa **Poista**.
+4. Valitse **Poista maksutapa** -ruudussa **Poista**.
 
-Lisä tietoja on Ohje aiheessa [maksu tapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Lisätietoja on kohdassa [Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

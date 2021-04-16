@@ -1,8 +1,8 @@
 ---
-title: Windows Update-virheiden korjaaminen
+title: Windows Update -virheiden korjaaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744659"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812641"
 ---
-# <a name="fix-windows-update-errors"></a>Windows Update-virheiden korjaaminen
+# <a name="fix-windows-update-errors"></a>Windows Update -virheiden korjaaminen
 
-Jos saat virhe koodin Windows Updaten lataamisen ja asentamisen aikana, **päivityksen vian määritys** voi auttaa ratkaisemaan ongelman.
+Jos saat virhekoodin, kun lataat ja asennat Windows Updatea, **päivityksen vianmääritys** voi auttaa ratkaisemaan ongelman.
 
-- [Lataa Windows 10-päivityksen vian määritys](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Suorita vian määritys. Kun se on valmis, sinun on parasta käynnistää laitteesi uudelleen. Tarkista sitten uudet päivitykset siirtymällä kohtaan [aloita > asetukset > päivitä & tieto turva > Windows Update](ms-settings:windowsupdate).
+- [Lataa Windows 10:n päivityksen vianmääritys](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Suorita vianmääritys. Kun se on valmis, on parasta käynnistää laite uudelleen. Tarkista uudet päivitykset valitsemalla Windows [Updaten > >-& -> käynnistäminen.](ms-settings:windowsupdate)
 
-Jos nämä eivät edelleenkään toimi, Katso lisä tietoja artikkelista [Windows Update: usein kysytyt kysymykset](https://support.microsoft.com/help/12373/windows-update-faq) .
+Jos ne eivät vieläkään toimi, katso lisätietoja [Windows Update: usein](https://support.microsoft.com/help/12373/windows-update-faq) kysytyistä kysymyksistä.

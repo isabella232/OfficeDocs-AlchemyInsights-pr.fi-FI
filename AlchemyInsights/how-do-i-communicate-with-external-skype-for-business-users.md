@@ -1,8 +1,8 @@
 ---
-title: Miten voin kommunikoida ulkopuolisten Skype for Business-käyttäjien kanssa
+title: Miten voin viestiä ulkoisten Skype for Business -käyttäjien kanssa?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781856"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811273"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Salli ulkoinen yhteys Skype for Businessin avulla 
+# <a name="allow-external-communications-with-skype-for-business"></a>Ulkoisen viestinnän salliminen Skype for Businessissa 
 
-Haluatko sallia Skype for Business-käyttäjien ottaa yhteyttä organisaatiosi ulkopuolisiin käyttäjiin? Lisä tietoja [on kohdassa Salli käyttäjien ottaa yhteyttä ulkoisiin Skype for Business-käyttäjiin](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Haluatko sallia Skype for Business -käyttäjien ottaa yhteyttä organisaation ulkopuolisiin käyttäjiin? Lisätietoja [on kohdassa Salli käyttäjien ottaa yhteyttä ulkoisiin Skype for Business -käyttäjiin.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-DNS-tietueet on määritettävä oikein, jotta ulkoinen tieto liikenteessä toimisi oikein. Tarkista [tästä](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) , onko meillä tarkkoja ohjeita DNS-tietueiden määrittämisestä palveluntarjoajan kanssa. 
+DNS-tietueet ON määritettävä oikein, jotta ulkoinen viestintä toimii oikein. Tarkista [tästä,](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) onko meillä tarkat ohjeet DNS-tietueiden määrittäminen palveluntarjoajasi kanssa. 
 
-Haluatko ottaa Skype for Businessin käyttäjät käyttöön vain ottamalla yhteyttä Skypen kuluttajakäyttäjiin? Katso:
+Haluatko vain antaa Skype for Business -käyttäjillesi yhteyden Skypen kuluttajakäyttäjiin? Katso:
 
-- [Anna Skype for Business-käyttäjien lisätä Skype-kontakteja](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Anna Skype for Business -käyttäjien lisätä Skype-yhteystietoja.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
 
-- [Lisää yhteys henkilö Skype for Businessissa](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Yhteyshenkilön lisääminen Skype for Businessissa](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Jos haluat, että teamsin käyttäjät voivat ottaa yhteyttä organisaatiosi ulkopuolisiin käyttäjiin (mukaan lukien Skype for Business-käyttäjät), tarkista [ulkoisten käyttö oikeuksien hallinta Microsoft teamsissa](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Jos haluat, että Teams-käyttäjät voivat ottaa yhteyttä organisaation ulkopuolisiin käyttäjiin (myös Skype for Business -käyttäjiin), tutustu artikkeliin Ulkoisen käytön hallinta [Microsoft Teamsissa.](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 

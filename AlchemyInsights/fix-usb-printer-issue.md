@@ -1,8 +1,8 @@
 ---
-title: USB-tulostin ongelmien korjaaminen
+title: USB-tulostinongelmiin asentaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677492"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812713"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>USB-tulostin yhteys ongelmien korjaaminen
+# <a name="fix-usb-printer-connection-issues"></a>USB-tulostimen yhteysongelmiin asentaminen
 
-Kokeile näitä **vian määritys ohjeita** , jotta saat USB-tulostimesi toimi uudelleen:
+Yritä saada **USB-tulostin** toimimaan uudelleen näiden vianmääritysohjeiden avulla:
 
-1. Katkaise tulostimesta virta ja irrota USB-kaapeli sekä tieto KONEESTA että tulostimesta.
-2. Tarkista, ettei kaapelissa ole vaurioita.
-3. Liitä johto takaisin tieto koneeseen ja tulostimeen.
+1. Sammuta tulostin ja irrota USB-kaapeli sekä tietokoneesta että tulostimesta.
+2. Tarkista kaapelista, ettei siitä ole vaurioita.
+3. Kytke kaapeli takaisin tietokoneeseen ja tulostimeen.
 
-Jos tämä ei auta, kokeile **USB-tulostimen poistamista ja uudelleenasentamista**:
+Jos tämä ei onnistu, kokeile **USB-tulostimen poistamista ja asentamista uudelleen:**
 
-1. Tulostimen poistaminen asetuksista:
-    1. Irrota tulostimen USB-kaapeli tieto koneesta.
-    2. Valitse **Käynnistä**  >  **Asetukset**  >  **laitteet**  >  **Tulostimet & skannerit**.
-    3. Valitse **tulostimet & skannerit**-kohdassa tulostin, jota olet vian määrityksessä. Valitse **Poista laite**. Poista tulostin kokonaan ohjeiden mukaisesti.
-2. Poista kolmannen osapuolen tulostimen valmistaja ohjelmisto:
-    1. Valitse **Aloita**  >  **Asetukset**  >  -**sovellukset**.
-    2. Vieritä **sovellukset & ominaisuudet**-kohdassa kohtaan tulostimen valmistajalta (kuten HP, Canon tai Epson) asennettujen ohjelmistojen etsiminen.
+1. Poista tulostin Asetuksissa:
+    1. Irrota tulostimen USB-kaapeli tietokoneesta.
+    2. Valitse **Start** Settings Devices  >    >  Printers & scanners (Käynnistä **asetuksetLaitteiden** tulostimet  >  **& skannerit).**
+    3. Valitse **Tulostimet & skannerit**-kohdassa tulostin, jonka vianmääritystä olet. Valitse **Poista laite**. Poista tulostin kokonaan ohjeiden mukaisesti.
+2. Poista mikä tahansa kolmannen osapuolen tulostinvalmistajan ohjelmisto:
+    1. Valitse   >  **Aloitusasetukset**  >  **Sovellukset**.
+    2. Vieritä **sovellukset & -kohdassa** tulostinvalmistajalta asennettuja ohjelmistoja (kuten HP, Kanon tai Xp).
     3. Valitse ohjelmisto ja valitse **Poista asennus**.
 3. Sammuta tulostin ja käynnistä se uudelleen.<br>
-    1. Sammuta tulostin ja irrota sen virtajohto. Odota 30 sekuntia. Kytke tulostin takaisin.
-    2. Kytke tulostimen USB-kaapeli takaisin tieto KONEESEESI. Tieto koneen on rekisteröitävä automaattisesti, että laitteesi on kytketty.
-4. Yritä tulostamista uudelleen.
+    1. Sammuta tulostin ja irrota sen virtajohto. Odota 30 sekuntia. Kytke tulostin takaisin tulostimeen.
+    2. Kytke tulostimen USB-kaapeli takaisin tietokoneeseen. Tietokoneen pitäisi automaattisesti rekisteröidä laitteen verkkovirta.
+4. Yritä tulostaa uudelleen.
