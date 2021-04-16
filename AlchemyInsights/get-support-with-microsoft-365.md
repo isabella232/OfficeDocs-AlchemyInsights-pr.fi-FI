@@ -2,22 +2,25 @@
 title: Microsoft 365 -tuen saaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002319"
 - "4503"
-ms.openlocfilehash: 059655cfcf6ca013d08032ed73b31dd7c470d92b
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+- "9002471"
+- "4818"
+ms.openlocfilehash: f5b3f6aaaeef8931ef04c61baedde02ff35679b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231605"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812101"
 ---
-# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="51590-102">Microsoft 365 -tuen saaminen</span><span class="sxs-lookup"><span data-stu-id="51590-102">Get support with Microsoft 365</span></span>
+# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="04a2a-102">Microsoft 365 -tuen saaminen</span><span class="sxs-lookup"><span data-stu-id="04a2a-102">Get support with Microsoft 365</span></span>
 
-<span data-ttu-id="51590-103">Tarvitsemme yksityiskohtaisempia tietoja, jotta voimme löytää oikeat resurssit ongelmaasi varten.</span><span class="sxs-lookup"><span data-stu-id="51590-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="51590-104">Kuvaile ongelmaasi uudelleen ja mainitse tarkat tuotenimet, ominaisuudet tai virheet. Lähetä kysely sitten uudelleen.</span><span class="sxs-lookup"><span data-stu-id="51590-104">Please restate your issue and include specific product names, features, or errors and submit your query again.</span></span>
+<span data-ttu-id="04a2a-103">Tarvitsemme yksityiskohtaisempia tietoja, jotta voimme löytää oikeat resurssit ongelmaasi varten.</span><span class="sxs-lookup"><span data-stu-id="04a2a-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="04a2a-104">Kuvaile ongelmaasi uudelleen ja mainitse tarkat tuotenimet, ominaisuudet tai virheet. Lähetä kysely sitten uudelleen.</span><span class="sxs-lookup"><span data-stu-id="04a2a-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>

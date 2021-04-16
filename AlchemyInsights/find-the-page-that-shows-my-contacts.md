@@ -1,8 +1,8 @@
 ---
-title: Etsi sivu, joka sisältää omat yhteys tiedot
+title: Yhteystiedot osoittavat sivun etsiminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745271"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812983"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a><span data-ttu-id="aa230-102">Etsi sivu, joka sisältää omat yhteys tiedot</span><span class="sxs-lookup"><span data-stu-id="aa230-102">Find the page that shows my contacts</span></span>
+# <a name="find-the-page-that-shows-my-contacts"></a><span data-ttu-id="333eb-102">Yhteystiedot osoittavat sivun etsiminen</span><span class="sxs-lookup"><span data-stu-id="333eb-102">Find the page that shows my contacts</span></span>
 
-<span data-ttu-id="aa230-103">Voit etsiä kontaktejasi samalla tavalla kuin haet sähkö posteja.</span><span class="sxs-lookup"><span data-stu-id="aa230-103">You can search for your contacts in the same way as you search for your emails.</span></span>
+<span data-ttu-id="333eb-103">Voit hakea yhteystietoja samalla tavalla kuin haet sähköposteja.</span><span class="sxs-lookup"><span data-stu-id="333eb-103">You can search for your contacts in the same way as you search for your emails.</span></span>
  
-<span data-ttu-id="aa230-104">Napauta suurennus lasi-haku kuvaketta ja kirjoita sitten yhteys tieto haun pyyntö näytön yläreunassa olevaan ruutuun.</span><span class="sxs-lookup"><span data-stu-id="aa230-104">Tap the magnifying glass search icon, then type your contact search request into the box at the top of your screen.</span></span> <span data-ttu-id="aa230-105">(**PROTIP**: Voit lisätä kohdistuksen haku ruutuun kaksoisnapauttamalla suurennus lasia.) Tulokset tulevat näkyviin yhteys henkilöt-osioon.</span><span class="sxs-lookup"><span data-stu-id="aa230-105">(**Protip**: You can double-tap on the magnifying glass to bring focus to the search box.) Your results will appear in the Contacts section.</span></span>
+<span data-ttu-id="333eb-104">Napauta suurennuslasin hakukuvaketta ja kirjoita sitten yhteystietojen hakupyyntö näytön yläreunan ruutuun.</span><span class="sxs-lookup"><span data-stu-id="333eb-104">Tap the magnifying glass search icon, then type your contact search request into the box at the top of your screen.</span></span> <span data-ttu-id="333eb-105">(**Protip**: Voit tuoda kohdistuksen hakuruutuun kaksoisnapauttamalla suurennuslasia.) Tulokset näkyvät Yhteystiedot-osassa.</span><span class="sxs-lookup"><span data-stu-id="333eb-105">(**Protip**: You can double-tap on the magnifying glass to bring focus to the search box.) Your results will appear in the Contacts section.</span></span>
