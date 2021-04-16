@@ -1,8 +1,8 @@
 ---
-title: Power BI-raportti palvelimen tuote avain
+title: Power BI Report Serverin tuoteavain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800679"
 ---
-# <a name="power-bi-report-server-product-key"></a>Power BI-raportti palvelimen tuote avain
+# <a name="power-bi-report-server-product-key"></a>Power BI Report Serverin tuoteavain
 
-Jos olet ostanut Power BI Premiumin, Power BI-hallinta portaalin **Premium-asetukset** -väli lehdessä voit käyttää Power BI-raportti palvelimen tuote avainta. Tämä on käytettävissä vain maailmanlaajuisille järjestelmänvalvojille tai käyttäjille, jotka ovat määrittänyt Power BI-palvelun järjestelmänvalvojan roolin.
+Jos olet ostanut Power BI  Premiumin, voit käyttää Power BI Report Serverin tuoteavainta Power BI -hallintaportaalin Premium-asetukset-välilehdessä. Tämä on käytettävissä vain yleisille järjestelmänvalvojille tai Käyttäjille, joilla on Power BI -palvelun järjestelmänvalvojan rooli.
 
-**Power BI-raportti palvelin avaimen** valitseminen tuo näkyviin valinta ikkunan, joka sisältää tuote avaimen. Voit kopioida sen ja käyttää sitä asennuksessa.
+Kun **valitset Power BI Report Server -avaimen,** näkyviin tulee valintaikkuna, joka sisältää tuoteavaimen. Voit kopioida sen ja käyttää sitä asennuksen yhteydessä.
 
-Jos sinulla on SQL Server Enterprise SA-sopimus, voit hankkia tuote avaimen [volyymi käyttö oikeus keskuksesta](https://www.microsoft.com/Licensing/servicecenter/).
+Jos sinulla on SQL Server Enterprise SA -sopimus, voit hankkia tuoteavaimen [Volyymikäyttöoikeuskeskuksesta.](https://www.microsoft.com/Licensing/servicecenter/)
 
-Lisä tietoja: https://docs.microsoft.com/power-bi/report-server/install-report-server
+Lisätietoja: https://docs.microsoft.com/power-bi/report-server/install-report-server
