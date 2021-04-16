@@ -1,8 +1,8 @@
 ---
-title: Yhdistelmä-ja liittoutunut haku
+title: Yhdistelmähaku ja liitetty haku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 43071a3166735d61ca8cd8ae5ce74aa018ed9d15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795873"
 ---
-# <a name="hybrid-and-federated-searches"></a>Yhdistelmä-ja liittoutumis haut 
+# <a name="hybrid-and-federated-searches"></a>Yhdistelmähaku ja liitetyt haut 
 
-Lisä tietoja yhdistelmä hausta ja organisaation ulkopuolisen haun käytöstä SharePoint Onlinessa on kohdassa [yhdistelmä haku SharePointissa](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Lisätietoja yhdistelmä- ja liitetyistä hakuista SharePoint Onlinessa on kohdassa [Yhdistelmähaku SharePointissa.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
 
-Lisä tietoja yhdistelmä ympäristön ulkopuolisen haun suunnittelusta on Ohje aiheessa [yhdistelmä ympäristön ulkopuolisen haun suunnitteleminen SharePoint Serverissä](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+Lisätietoja yhdistelmähakuun liitetyn haun suunnittelusta on kohdassa [SharePoint Serverin](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)yhdistelmähaun suunnitteleminen.

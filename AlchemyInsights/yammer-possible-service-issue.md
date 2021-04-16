@@ -1,8 +1,8 @@
 ---
-title: Yammer-mahdollinen palvelu ongelma
+title: Yammer – mahdollinen palveluongelma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: 51ccf2517a8f4bddcfc63d38011bb9dd2f0f9fc5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf01341a34719326824847bb44d55ab995a9faba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748862"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796233"
 ---
-# <a name="yammer---possible-service-issue"></a>Yammer-mahdollinen palvelu ongelma
+# <a name="yammer---possible-service-issue"></a>Yammer – mahdollinen palveluongelma
 
-Saattaa olla väliaikainen ongelma, jossa käyttäjät saattavat kohdata virheitä Yammerin käytön aikana. Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , vaikuttaako tämä verkkoon.
+Käyttäjillä voi olla tilapäisiä ongelmia, kun he Yammer. Tarkista Palvelun [kunto -koontinäytöstä,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vaikuttaako tämä verkostoon.

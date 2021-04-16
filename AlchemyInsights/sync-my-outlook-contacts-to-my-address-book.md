@@ -1,8 +1,8 @@
 ---
-title: Outlook-yhteys tietojen synkronointi osoite kirjaan
+title: Outlook-yhteystietojen synkronoiminen osoitekirjaan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797538"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook-yhteys tietojen synkronointi osoite kirjaan
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook-yhteystietojen synkronoiminen osoitekirjaan
 
-Outlookin avulla voit viedä yhteys tiedot Androidin oletusarvoiseen yhteys tieto sovellukseen. Näin näet yhteys henkilön nimen, kun saat puhelun tai teksti viestin, ja tarkastelet kaikki yhteys tietonsa suoraan oletusarvoisessa yhteys tieto sovelluksessa.
+Outlookissa voit viedä yhteystiedot Oletusarvoinen Yhteystiedot-sovellukseen Androidissa. Näin näet yhteyshenkilön nimen, kun vastaanotat puhelun tai tekstiviestin, ja voit tarkastella kaikkia hänen yhteystietojaan suoraan oletusarvoisen Yhteystiedot-sovelluksen kautta.
  
-**Ota tämä toiminto käyttöön**seuraavasti:
+**Voit ottaa tämän ominaisuuden käyttöön näin:**
  
-1. Siirry laitteessa **Asetukset**-kohtaan.
+1. Valitse laitteessa Asetukset **.**
 
-2. Valitse **tilit**-kohdassa tili, jonka kanssa haluat synkronoida yhteyshenkilöitä.
+2. Valitse Tilit-kohdassa tili, jonka kanssa haluat synkronoida yhteystiedot.
 
-3. Siirrä **Synkronoi yhteys tiedot** -liuku säädin päälle.
+3. Ota Synkronoi **yhteystiedot -liukusäädin** käyttöön.
  
-Kaksisuuntainen yhteys tieto vienti on käytettävissä, kun käytössä on Microsoft 365, Outlook.com ja yhdistelmä moderni todennus paikallisissa posti laatikoissa. Kaksisuuntainen tuki varmistaa, että kaikki lisättävät uudet yhteys henkilöt tai muokkaamasi yhteys henkilöt synkronoidaan laitteesi ja Outlook-tilisi välillä.
+Microsoft 365, Outlook.com ja modernin yhdistelmäympäristön moderni varmennus paikallisille postilaatikoille tukevat kaksi tapaa yhteystietojen vientiä. Kaksipäinen tuki varmistaa, että kaikki lisääsi uudet yhteystiedot tai aiemmin muokkaamiasi yhteystietoja synkronoidaan laitteen ja Outlook-tilien välillä.
  
-Jos kyseessä on vanha Exchange-käyttäjä, voit viedä yhteys tiedot laitteeseen tallentamista varten. Kun **Synkronoi yhteys tiedot** -toiminto on käytössä, Äskettäin lisätyt yhteys tiedot ja Outlookin yhteys tietoihin tehdyt muokkaukset tallennetaan laitteesi yhteys tieto-sovellukseen. Suoraan laitteesi yhteys tieto sovellukseen tehtyjä muokkauksia ei kuitenkaan tallenneta Outlookiin. Huomaa, että Microsoft ei tue yhteys tietojen lisäämistä tai muokkaamista Outlook for Androidissa paikallisissa Exchange-tileissä, joten sinun on hallittava yhteys tietojasi eri Outlook-asiakas ohjelmassa.
+Vanhojen Exchange-tilien osalta voit viedä yhteystiedot laitteeseen tallennettavaksi. Kun **Synkronoi yhteystiedot** on otettu käyttöön, yhteystietoihin Outlookissa tehdyt uudet lisätyt yhteystiedot ja muokkaukset tallennetaan laitteen Yhteystiedot-sovellukseen. Suoraan laitteen Yhteystietosovelluksessa tehtyjä muokkauksia ei kuitenkaan tallenneta Outlookiin. Huomaa, että emme tue yhteystietojen lisäämistä tai muokkaamista Outlook for Androidissa paikallisille Exchange-tileille, joten sinun on hallittava yhteystietojasi eri Outlook-asiakasohjelmasta.
  
-Nyt ei tue yhteys tietojen synkronointia GMAILIIN ja iCloudiin.
+Gmailin ja iCloudin yhteystietojen synkronointia ei tueta tällä hetkellä.
  
-Jos haluat poistaa nämä synkronoidut yhteys tiedot, voit vaihtaa **synkronointi yhteyshenkilöitä** milloin tahansa ja poistaa ne osoite kirjasta.
+Jos haluat poistaa nämä synkronoidut yhteystiedot,  voit ottaa Synkronoi yhteystiedot -painikkeet käyttöön milloin tahansa ja ne poistetaan osoitteistostasi.

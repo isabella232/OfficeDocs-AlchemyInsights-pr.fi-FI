@@ -1,8 +1,8 @@
 ---
-title: Miten tyhjennät väli muistin tai paikallisesti Palauta/Päivitä asiakas/sovellus?
+title: Miten tyhjennän välimuistin tai paikallisen nollaamisen/päivityksen asiakkaan/sovelluksen?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795945"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Miten tyhjennät väli muistin tai paikallisesti Palauta/Päivitä asiakas/sovellus?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Miten tyhjennän välimuistin tai paikallisen nollaamisen/päivityksen asiakkaan/sovelluksen?
 
-Jos näet puutteellisia tai virheellisiä tietoja, yritä pakottaa Sulje ja avaa sovellus uudelleen.  
+Jos näet puutteellisia tai virheellisiä tietoja, yritä pakottaa sovelluksen sulkeminen ja uudelleenavaaminen.  
 
-Jos tämä ei auta, voit yrittää palauttaa laitteen tilin.
+Jos tämä ei onnistu, voit yrittää palauttaa tilin laitteessa.
  
-Avaa sovellus, siirry **Asetukset**-kohtaan, valitse Sähkö posti tili ja valitse sitten **Palauta tili**.
+Avaa sovellus, valitse **Asetukset**, valitse sähköpostitili ja valitse **Palauta tili**.

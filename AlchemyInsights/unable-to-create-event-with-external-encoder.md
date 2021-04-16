@@ -1,8 +1,8 @@
 ---
-title: 'Tiimit: reaaliaikainen tapahtuma – tapahtumaa ei voi luoda ulkoisella koodaimella'
+title: 'Teams: live-tapahtuma – tapahtuman luominen ulkoisella koodaimella ei onnistu'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796897"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796998"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Haluatko määrittää Live-tapahtumasi ulkoisella koodaimella?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Tarvitseeko sinun määrittää live-tapahtuma ulkoisella kooderilla?
 
-Jos sinulla on vaikeuksia koodata, jotta voit työskennellä teamsin Live-tapahtuman kanssa, Katso lisä tietoja artikkelista koodaajan asennus ohjeet: [Microsoft Streamin koodaus-ja suora toiston määrittäminen](https://docs.microsoft.com/stream/live-encoder-setup)
+Jos sinulla on vaikeuksia saada koodaustoimintosi toimimaan Teamsin live-tapahtuman kanssa, katso ohjeet koodauksen määrittämiseen: Koodauksen määrittäminen suoratoistoa varten [Microsoft Streamissa](https://docs.microsoft.com/stream/live-encoder-setup)
