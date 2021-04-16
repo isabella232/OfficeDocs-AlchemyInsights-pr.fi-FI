@@ -1,8 +1,8 @@
 ---
-title: 'Wi-Fi-verkon Sala sanan tarkasteleminen Windows 10: ssä'
+title: Verkon Wi-Fi tarkasteleminen Windows 10:ssä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689087"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807375"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Wi-Fi-verkon Sala sanan tarkasteleminen Windows 10: ssä
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Verkon Wi-Fi tarkasteleminen Windows 10:ssä
 
-1. Varmista, että Windows 10-tieto koneesi on yhteydessä Wi-Fi-verkkoon.
+1. Varmista, että Windows 10 -tietokoneesi on yhdistetty Wi-Fi verkkoon.
 
-2. Siirry kohtaan **Asetukset > verkko & Internet > tila**tai napsauta tai napauta [tätä](ms-settings:network?activationSource=GetHelp) , jos haluat, että pääset sinne nyt.)
+2. Siirry **Asetukset->, & Internet >**-tila -kohtaan, tai [](ms-settings:network?activationSource=GetHelp) napsauta tai napauta tätä, niin voimme viedä sinut sinne nyt.)
 
-3. Valitse **Verkko-ja jakamis keskus**.
+3. Valitse **Verkko- ja jakamiskeskus**.
 
-    ![Verkko-ja jakamis keskus.](media/network-sharing-center.png)
+    ![Verkko- ja jakamiskeskus.](media/network-sharing-center.png)
 
-4. **Verkko-ja jakamis keskuksessa** **yhteydet**-kohdan vieressä näkyy langattoman verkkosi nimi. Jos verkkosi nimi on esimerkiksi "ABC123", saatat nähdä seuraavat:
+4. Näet **langattoman verkkosi** nimen Verkko- **ja** jakamiskeskuksessa Yhteydet-kohdan vieressä. Jos esimerkiksi verkoston nimi on ABC123, saatat nähdä:
 
-    ![Verkko yhteydet.](media/network-connections.png)
+    ![Verkkoyhteydet.](media/network-connections.png)
 
-    Avaa Wi-Fi-tila ikkuna napsauttamalla langattoman verkon nimeä. 
+    Avaa langattoman verkon nimi napsauttamalla Wi-Fi ikkunaa. 
 
-5. Valitse Wi-Fi-tila-ikkunassa **Langattomat ominaisuudet**, valitse ensin **turvallisuus** -väli lehti ja sitten **Näytä merkit**.
+5. Valitse Wi-Fi-ikkunassa **Langattomat ominaisuudet**, valitse **Suojaus-välilehti** ja valitse **Sitten Näytä merkit**.
 
-    ![Näytä Wi-Fi-Sala sanan merkit.](media/show-password-characters.png)
+    ![Näytä Wi-Fi salasanamerkit.](media/show-password-characters.png)
 
