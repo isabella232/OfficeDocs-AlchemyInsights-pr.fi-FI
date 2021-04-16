@@ -1,8 +1,8 @@
 ---
-title: Toimi alueen vahvistaminen 1&1-IONOS:ssä
+title: Toimialueen tarkistaminen 1&IONOS:n avulla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b01c5647c506086b1ccfa97c13758df1906f1fbd
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 40a5fb44de76ed76b415b909718450c18ea24b50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808023"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="c0df8-102">Toimi alueen vahvistaminen 1&1-IONOS:ssä</span><span class="sxs-lookup"><span data-stu-id="c0df8-102">Verify your domain with 1&1 IONOS</span></span>
+# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="ad2b9-102">Toimialueen tarkistaminen 1&IONOS:n avulla</span><span class="sxs-lookup"><span data-stu-id="ad2b9-102">Verify your domain with 1&1 IONOS</span></span>
 
-<span data-ttu-id="c0df8-103">Jos haluat vahvistaa toimi alueesi, sinun on lisättävä toimi alueen rekisteröinti palveluun TXT-tietue, jotta voit vahvistaa, että omistat toimi alueen.</span><span class="sxs-lookup"><span data-stu-id="c0df8-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="ad2b9-103">Jotta voit vahvistaa toimialueesi, sinun on lisättävä TXT-tietue toimialuerekisteröijään ja varmistettava, että omistat toimialueesi.</span><span class="sxs-lookup"><span data-stu-id="ad2b9-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="c0df8-104">Seuraa ensin [ohjattua toimi alueen lisäämistä](https://admin.microsoft.com/Adminportal#/Domains) valitsemalla **Asetukset** \> -toimi **alueet**ja **Lisää sitten toimi alue**.</span><span class="sxs-lookup"><span data-stu-id="c0df8-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="ad2b9-104">Noudata ensin [ohjattua Toimialueen lisääminen -toimintoa](https://admin.microsoft.com/Adminportal#/Domains) valitsemalla **Asetukset** \> **Toimialueet** ja sitten **Lisää toimialue.**</span><span class="sxs-lookup"><span data-stu-id="ad2b9-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="c0df8-105">Vaiheittaiset ohjeet ovat artikkelissa [DNS-tietueiden luominen 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) .</span><span class="sxs-lookup"><span data-stu-id="c0df8-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
+<span data-ttu-id="ad2b9-105">[Vaiheittaiset ohjeet ovat kohdassa DNS-tietueiden luominen 1.&1 IONOS -palvelussa Microsoft 365:tä](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) varten.</span><span class="sxs-lookup"><span data-stu-id="ad2b9-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
