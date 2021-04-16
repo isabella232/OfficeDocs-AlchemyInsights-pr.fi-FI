@@ -1,8 +1,8 @@
 ---
-title: OneDrive for Business Web OneDrive ohjaa Delvessä
+title: OneDrive for Business Web OneDrive ohjaa uudelleen Delveen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799986"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Uudelleenohjataan Delveen, kun napsautat OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Uudelleenohjattu Delveen, kun valitset OneDrive
 
-Tutustu yksityiskohtaiseen [vian määritys oppaaseen](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Katso yksityiskohtainen [vianmääritysopas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Tämän ongelman ratkaisemiseksi hallinnoijan on annettava käyttäjille oikeus luoda omat sivustot-sivustonsa. Tämä johtuu siitä, että OneDrive for Business-sivu luodaan omiin sivustoon.
+Järjestelmänvalvojan on myönnettävä käyttäjille oikeus luoda omat sivustot -sivustonsa, jotta he voivat ratkaista ongelman. Tämä johtuu siitä, että OneDrive for Business -sivu luodaan Omat sivustot -sivulle.
 
-Jos haluat myöntää tämän oikeuden, toimi seuraavasti:
+Myönnä tämä oikeus seuraavasti:
 
-1. Valitse SharePoint-hallinta keskuksessa **käyttäjä profiilit**.
+1. Valitse SharePoint-hallintakeskuksessa **käyttäjäprofiilit**.
 
-2. Valitse **henkilöt** -osiossa **Hallitse käyttö oikeuksia**.
+2. Valitse **Henkilöt-osassa** **Käyttöoikeuksien hallinta**.
 
-3. Lisää käyttäjät, jotka tarvitsevat käyttö oikeuksia oman sivustonsa luomiseen. Oletusarvoisesti tämä asetus on **Kaikki paitsi ulkoiset käyttäjät**.
+3. Voit lisätä käyttäjiä, jotka tarvitsevat omat sivustot -sivuston luontioikeudet. Asetuksena on oletusarvoisesti Kaikki paitsi **ulkoiset käyttäjät.**
 
-4. Kun olet lisännyt käyttäjän, käyttäjät tai ryhmän, varmista, että lisätty käyttäjä, käyttäjät tai ryhmä on valittuna, vieritä **käyttö oikeudet** -osioon ja valitse sitten Luo oma sivusto-kohdan vieressä oleva valinta ruutu **(pakollinen henkilökohtaiseen tallennus tilaan, uutis syötteeseen ja seurattujen sisältöjen käyttöön)**.
+4. Kun olet lisännyt käyttäjän, käyttäjät tai ryhmän, varmista, että lisätty käyttäjä, käyttäjät tai  ryhmä on valittuna, vieritä Käyttöoikeudet-osioon ja valitse sitten Luo oma sivusto -kohdan vieressä olevaa valintaruutua (tarvitaan henkilökohtaiseen tallennustilaan, uutissyötteen ja seuratulle **sisällölle).**
 
-5. Valitse **OK**ja valitse sitten käyttäjä, joka luo sivuston selaamalla OneDrive-sivulle.
+5. Valitse **OK** ja valitse sitten käyttäjä selaamalla OneDrive-sivulle ja luomaan sivusto.
