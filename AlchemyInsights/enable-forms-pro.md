@@ -1,8 +1,8 @@
 ---
-title: Lomakkeiden Pron ottaminen käyttöön tai poistaminen käytöstä
+title: Forms Pron ottaminen käyttöön tai poistaminen käytöstä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 206cefb7d09b4c9c34ac2d5ca9c3a68d7412bf4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784700"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814225"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Lomakkeiden Pron ottaminen käyttöön tai poistaminen käytöstä
+# <a name="enable-or-disable-forms-pro"></a>Forms Pron ottaminen käyttöön tai poistaminen käytöstä
 
-Microsoft Forms Pro on kehittynyt Dynamics 365-asiakas ääneksi, joka tarjoaa lisä tietoja kyselyjen ominaisuuksista ja yritys eduista. Lisä tietoja on kohdassa [Dynamics 365-asiakas ääni-ohje resurssit](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+Microsoft Forms Pro on kehitetty Dynamics 365 Customer Voiceksi, joka tarjoaa sinulle muita kyselyominaisuuksia ja liiketoimintaetuja. Lisätietoja on kohdassa [Dynamics 365 Customer Voicen ohjeresurssit.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
 
-Microsoft Forms Pro sisältyy osana Dynamics 365 Enterprise-käyttö oikeutta. Vaihtoehtoisesti järjestelmänvalvoja voi ostaa Microsoft Forms Pro-käyttö oikeuden. Voit myös poistaa Microsoft Forms Pro-käyttö oikeuden käyttäjältä.  
+Microsoft Forms Pro sisältyy Dynamics 365 Enterprise -käyttöoikeuteen. Vaihtoehtoisesti järjestelmänvalvoja voi ostaa Microsoft Forms Pro -käyttöoikeuden. Voit myös poistaa käyttäjältä Microsoft Forms Pro -käyttöoikeuden.  
 
-Lisä tietoja käyttö oikeuksista on kohdassa [Microsoft Forms Pron ostaminen](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) ja [Microsoft Forms Pron poistaminen käytöstä](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+Lisätietoja käyttöoikeuksista on vaihtoehdot [Microsoft Forms Pron ostaminen](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) ja [Microsoft Forms Pron poistaminen käytöstä käyttäjältä.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
   
-Lisä tietoja on Ohje aiheessa [lomakkeet Pron ongelmien vian määritys](https://docs.microsoft.com/forms-pro/troubleshoot).
+Lisätietoja ohjeresursseista on kohdassa [Forms Pron ongelmien vianmääritys.](https://docs.microsoft.com/forms-pro/troubleshoot)

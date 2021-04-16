@@ -1,8 +1,8 @@
 ---
-title: eDiscoveryn vienti työkalu
+title: eDiscovery-vientityökalu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,24 +15,24 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277939"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814585"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Etkö voi asentaa tai suorittaa eDiscoveryn vienti työkalua?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Eikö eDiscovery-vientityökalua voi asentaa tai suorittaa?
 
-Jos et voi asentaa tai käyttää eDiscoveryn vienti työkalua haku tulosten lataamiseen, tarkista seuraavat asiat:
+Jos et voi asentaa tai suorittaa eDiscovery-vientityökalua hakutulosten lataamiseksi, tarkista seuraavat asiat:
   
-- Käyttämäsi tieto kone täyttää seuraavat vaatimukset:
+- Käytössäsi on tietokone, joka täyttää seuraavat vaatimukset:
 
-  - 32-tai 64-bittiset Windows 7-versiot ja uudemmat versiot
+  - Windows 7:n ja uudempien versioiden 32- tai 64-bittiset versiot
 
   - Microsoft .NET Framework 4.7
 
-  - Tuetulla selaimella:
+  - Tuettu selain:
 
   - Microsoft Edge
 
@@ -40,12 +40,12 @@ Jos et voi asentaa tai käyttää eDiscoveryn vienti työkalua haku tulosten lat
 
   - Internet Explorer 10 ja uudemmat versiot
 
-    Muita selaimia, kuten Google Chromea ja Mozilla Firefoxia, ei voi tukea.
+    Muita selaimia, kuten Google Chromea ja Mozilla Firefoxia, ei tueta.
 
-- Organisaatiosi voi muodostaa yhteyden Azure-pääte pisteeseen, joka on ** \* . blob.Core.Windows.net** (Yleismerkki vastaa vienti työn yksilöllistä tunnistetta).
+- Organisaatiosi voi muodostaa yhteyden Azuren päätepisteeseen, joka on **\* .blob.core.windows.net** (yleismerkki edustaa vientityön yksilöllistä tunnistetta).
 
-- Olet määrittänyt vienti roolin Microsoft 365-tieto turva &amp; yhteensopivuus keskuksessa. Oletusarvoisesti tämä rooli määritetään vain eDiscoveryn hallinta-rooli ryhmälle. Lisä tietoja on Ohje aiheessa [eDiscoveryn käyttö oikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Sinulle määritetään vientirooli Microsoft 365:n tietoturvan &amp; yhteensopivuuskeskuksessa. Tämä rooli määritetään oletusarvoisesti vain eDiscovery Manager -rooliryhmään. Katso [eDiscovery-oikeuksien määrittäminen.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Lisä tietoja on Ohje aiheessa [sisältö haun tulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Jos viet yli 100 000 posti laatikkoa, sinun on ladattava vienti tulokset seuraavan PowerShellin avulla: vie  [tulokset yli 100k posti laatikosta](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Jos viet yli 100 000 000 postilaatikkoa, sinun on ladattava vientitulokset seuraavan PowerShellin avulla: Tulosten vieminen yli [100 000 000 postilaatikosta.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

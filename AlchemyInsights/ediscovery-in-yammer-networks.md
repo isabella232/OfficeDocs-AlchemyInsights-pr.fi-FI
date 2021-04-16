@@ -1,8 +1,8 @@
 ---
-title: eDiscoverya Yammer-verkoissa
+title: eDiscovery Yammer Networksissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710913"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814477"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscoverya Yammer-verkoissa
+# <a name="ediscovery-in-yammer-networks"></a>eDiscovery Yammer Networksissa
 
-Voit nyt suorittaa eDiscoveryn haut Yammer-sisällöstä.  EDiscoveryn hakujen tai viennin suorittaminen Yammer-sisällössä edellyttää seuraavaa:
+Voit nyt etsiä sisältöä eDiscovery Yammer avulla.  eDiscovery-hakujen suorittaminen tai vieminen Yammer edellyttää seuraavaa:
 
-1. Sinun on ensin siirrettävä Yammer Enterprise-verkosto Native Mode-tilaan, jotta Yammer-viestit ja tiedostot voidaan löytää. **Huomautus: Jos olet uusi asiakas Jan. yhdeksäs 2020 ja Yammer-verkostosi on jo alkuperäisessä tilassa, tiedot on nyt löydettävissä eDiscoveryn avulla**.
+1. Sinun on ensin siirrettävä Yammer Enterprise Network alkuperäiseen tilaan, jotta Yammer viestit ja tiedostot löydettävissä. Huomautus: jos olet uusi asiakas 9. tammikuuta 2020 ja Yammer on jo alkuperäisessä tilassa, tiedot ovat nyt löydettävissä **eDiscovery-haun avulla.**
 
-2. Asiakkaat poistuttaessa Yammerin eDiscoverya on käytettävissä, kun alkuperäinen tilan tasaus työkalu vapautetaan ja alkuperäinen tila siirto on valmis Yammeriin vuokra ajassa.
+2. Asiakkaiden poistumiseen eDiscovery for Yammer on käytettävissä, kun alkuperäinen tilan tasaustyökalu on julkaistu ja alkuperäisen tilan siirto Yammer vuokraajassa.
 
-Lisä tietoja:
+Lisätietoja:
 
-- Yammerin alkuperäinen tila, Katso: [yleistä Native Mode-tilasta](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscoverya Yammer-verkoissa: [Yleiskatsaus eDiscoveryn käyttämisestä Yammer-verkoissa](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscoveryn käyttäminen Microsoft 365-sovelluksessa [on kohdassa eDiscoverya microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)-sovelluksessa.
+- Alkuperäinen tila Yammer: Yleistä [alkuperäistilasta.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- eDiscovery Yammer Networksissa: Yleiskatsaus [eDiscoveryn käyttöön Yammer verkostoissa.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Microsoft [365:n eDiscovery-haku on kohdassa Microsoft 365:n eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

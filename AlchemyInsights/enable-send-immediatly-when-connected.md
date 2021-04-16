@@ -1,8 +1,8 @@
 ---
-title: Ota lähetys käyttöön heti, kun yhteys on muodostettu
+title: Ota Lähetä käyttöön heti, kun yhteys on muodostettu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709580"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813973"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Ota lähetys käyttöön heti, kun yhteys on muodostettu
+# <a name="enable-send-immediately-when-connected"></a>Ota Lähetä käyttöön heti, kun yhteys on muodostettu
  
-1. Valitse tiedosto-väli lehdessä **Asetukset**.
+1. Valitse Tiedosto-välilehdessä **Asetukset**.
 
-2. Valitse Outlookin asetukset-valinta ikkunassa **lisä asetukset**.
+2. Valitse Outlookin asetukset -valintaikkunassa **Lisäasetukset**.
 
-3. Valitse Lähetä ja Näytä-osiossa Ota käyttöön heti, **Kun yhteys on muodostettu**. Valitse **OK**.
+3. Ota Lähetä ja vastaanota -osassa Lähetä heti, kun **yhteys on muodostettuna -asetus käyttöön**. Valitse **OK**.
 
-Katso tarkemmat tiedot artikkelista:
-- [Video: jumittuneen sähkö postin lähettäminen tai poistaminen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Sähkö posti säilyy Lähtevät-kansiossa, kunnes olet aloittanut lähetys-ja vastaanoton käytön manuaalisesti Outlookissa](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Lisätietoja on kohdassa:
+- [Video: Jumittunutn sähköpostiviestin lähettäminen tai poistaminen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Sähköposti pysyy Saapuneet-kansiossa, kunnes käynnistät Outlookin lähetys- ja vastaanottotoiminnon manuaalisesti](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

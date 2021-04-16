@@ -1,8 +1,8 @@
 ---
-title: Oston varattu esiintymä
+title: Osta varattu esiintymä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741363"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809904"
 ---
-# <a name="questions-before-purchase"></a>Kysymykset ennen ostamista
+# <a name="questions-before-purchase"></a>Kysymyksiä ennen ostamista
 
-**Miten varaus alennusta käytetään olemassa olevissa resursseissa?**  
-Varaus etu koskee automaattisesti olemassa olevia resursseja, jotka vastaavat varaus yksikköä, aluetta ja laajuutta. Resurssille ei ole tehty varausta. [Opi lisää](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Miten olemassa oleviin resursseihin käytetään varausalennusta?**  
+Varausetu koskee automaattisesti olemassa olevia resursseja, jotka vastaavat varauksen SKU:ta, aluetta ja laajuutta. Varausta ei merkitä resurssille. [Lisätietoja](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Mikä VM-koko kannattaa ostaa?**  
-Lue tämä artikkeli: [oikean VM-koon määrittäminen ennen ostamista](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Minkä VM-koko minun pitäisi ostaa?**  
+Lue tämä artikkeli: [Määritä on oikea VM-koko ennen ostamista](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Kysymyksiä siitä, miten voit ostaa SQL-varattua kapasiteettia?**  
-Lue tämä artikkeli: [Osta SQL-tieto kanta varattu kapasiteetti](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Kysymyksiä SQL:n varatun kapasiteetin ostamisesta?**  
+Lue tämä artikkeli: [Osta SQL-tietokannan varattua kapasiteettia](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Olenko epäsuoralla EA:N asiakkaalla, pitääkö minun ostaa kumppania?**  
-Ei, voit ostaa ri:n, jos olet EA-tila uksen omistaja.
+**Olen epäsuora EA-asiakas. Tarvitsenko kumppanini ostamaan?**  
+Ei, voit hankkia RI:n, jos olet EA-tilauksen omistaja.
 
-**Vähennetäänkö raha sitoumuksesta?**  
-Kyllä. Jos sinulla ei ole tarpeeksi rahallista sitoutumista, saat yliikälaskun summasta, joka on suurempi kuin käytettävissä oleva raha sitoumus.
+**Vähennetäänkö RI-ostos rahallisesta sitoumuksesta?**  
+Kyllä. Jos sinulla ei ole riittävästi rahallisia sitoumuksia, saat ylikuormituslaskun siitä summasta, joka ylittää käytettävissä olevan rahallisen sitoumuksesi.
 
-**Miten varattu esiintymä koskee Windows VMs-tai SQL-IP-kuluja?**  
-Varattu esiintymä alennus koskee vain Laske-käyttöä. Windowsin IP-tai SQL-IP-kustannukset veloitetaan erikseen, eivätkä ne saa RI-alennusta. [Ohjelmisto kustannukset, jotka eivät sisälly Azure Reserved VM-esiintymiin](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Miten varattu esiintymä koskee Windows VM:ää tai SQL:n IP-kustannuksia?**  
+Varatun esiintymän alennus koskee vain laskettua käyttöä. Windowsin IP- tai SQL IP -kustannuksista veloitetaan erikseen, eikä niistä saa RI-alennusta. [Ohjelmistokustannukset, jotka eivät sisälly Azuren varattuihin VM-esiintymiin](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Varattua esiintymä ostoa laskutetaan**  
+**Laskutus varatun esiintymän ostosta**  
       
-Varatun esiintymän osto veloitetaan maksu tavasta, joka on sidottu osto hetkellä valitsemaksesi tila ukseen. Tilaus tyypin on oltava Enterprise Agreement (tarjous numero: MS-AZR-0017P), pay-as-you-go (tarjous numero: MS-AZR-0003P), Microsoftin asiakas sopimus tai CSP.
+Varatun esiintymän hankinta veloitetaan tilaukseen sidottuna olevalla maksutavalla, jonka valitsit ostohetkellä. Tilaustyypin on oltava Enterprise Agreement (tarjousnumero: MS-AZR-0017P), käytön mukaan laskutettava tilaus (tarjousnumero: MS-AZR-0003P), Microsoftin asiakassopimus tai CSP.
 
--   Jos kyseessä on Enterprise-tilaus, maksut vähennetään rekisteröimisen raha sitoumus saldosta tai veloitetaan ylikautena.
--   Pay-as-you-go-pakettina maksut laskutetaan tila uksen luotto kortilla tai laskulla maksu tavalla.
+-   Enterprise-tilauksen maksut veloitetaan rahallisen sitoumuksen saldosta tai ylimaksuna
+-   Käytön mukaan laskutettavassa tilauksessa maksut laskutetaan tilauksen luottokortti- tai laskumaksulla.
 
-**Palvelu paketin ostaminen:**
+**Palvelupakettien ostaminen:**
 
--   [Cosmos dB:N varattu kapasiteetti ennakkoon](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [SQL-tieto kannan ennakko maksu resurssien laskeminen Azure SQL-tieto kannan varattu kapasiteetti](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Virtuaalisten laitteiden ennakko maksu ja Azure Reserved VM-esiintymät](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Cosmos DB:n varatun kapasiteetin ennakkomaksu](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [SQL-tietokannan resurssien ennakkomaksu Azure SQL -tietokannan varatun kapasiteetin avulla](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Virtuaalikoneiden ennakkomaksu Azuren varatuilla VM-esiintymällä](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Ohjelmisto paketin ostaminen:**
+**Ohjelmistopaketin ostaminen:**
 
--   [Red Hat-ohjelmisto pakettien ennakko maksaminen Azure-vara uksista](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [SUSE-ohjelmisto pakettien ennakko maksaminen Azure-vara uksista](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Red Hat -ohjelmistopakettien ennakkomaksu Azure-varauksissa](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [SUSE -ohjelmistopakettien ennakkomaksu Azure-varauksissa](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

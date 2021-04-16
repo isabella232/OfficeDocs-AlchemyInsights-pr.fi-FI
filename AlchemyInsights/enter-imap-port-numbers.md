@@ -1,8 +1,8 @@
 ---
-title: IMAP-portti numeroiden syöttäminen
+title: IMAP-porttinumeroiden syöttäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709436"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813829"
 ---
-# <a name="enter-imap-port-numbers"></a>IMAP-portti numeroiden syöttäminen
+# <a name="enter-imap-port-numbers"></a>IMAP-porttinumeroiden syöttäminen
 
-Kirjaudu sisään etukäteen-määritys näytössä ja lisää portin tiedot saapuvan ja lähtevän postin palvelimien osoitteet-kohdan taakse. (Voit hankkia nämä tiedot sähkö posti palvelun tarjoajalta.) 
+Kirjaudu sisään edistyksellisellä määritysnäytöllä ja lisää portin tiedot kaksoispisteellä saapuvan ja lähtevän postin palvelinosoitteiden kanssa. (Saat nämä tiedot sähköpostipalveluntarjoajaltasi.) 
 
-Siirry kohtaan **Asetukset**  >  **Lisää tili**  >  **IMAP** -> ja valitse **Näytä lisä asetukset**; anna sitten tietosi. 
+Siirry kohtaan **Asetukset**  >  **Lisää tilin**  >  **IMAP->** ja valitse Näytä **lisäasetukset**; anna tietosi. 
 
-*Saapuvan postin palvelin*: IMAP.servername.com:000 (yleensä 993 tai 143) 
+*Saapuvan postin* palvelin: imap.servername.com:000 (yleensä 993 tai 143) 
 
-*Lähtevän postin palvelin*: SMTP.servername.com:000 (yleensä 465 tai 25) 
+*Lähtevän postin* palvelin: smtp.servername.com:000 (yleensä 465 tai 25) 
 
-Pidä mielessä, että kaksoispiste on tärkeä. 
+Muista, että kaksoispiste on tärkeä. 
