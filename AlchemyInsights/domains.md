@@ -2,7 +2,7 @@
 title: Toimialueet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814838"
 ---
-# <a name="domains"></a><span data-ttu-id="81455-102">Toimialueet</span><span class="sxs-lookup"><span data-stu-id="81455-102">Domains</span></span>
+# <a name="domains"></a><span data-ttu-id="f3e2a-102">Toimialueet</span><span class="sxs-lookup"><span data-stu-id="f3e2a-102">Domains</span></span>
 
-- <span data-ttu-id="81455-103">**Vahvista toimi alueesi** hallinta keskuksessa käyttämällä [ohjattua lisää toimi alue-toimintoa](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span><span class="sxs-lookup"><span data-stu-id="81455-103">**Verify your domain** in the admin center by using the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span></span> <span data-ttu-id="81455-104">Lisä tietoja [on artikkelissa toimi alueen lisääminen Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)-käyttöön.</span><span class="sxs-lookup"><span data-stu-id="81455-104">For more help, read [Add a domain to Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span></span>
-- <span data-ttu-id="81455-105">**Toimi alue käytössä** – sinun on kirjauduttava toiseen organisaatioon ja [poistettava toimi alue](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). Lisää se tähän organisaatioon.</span><span class="sxs-lookup"><span data-stu-id="81455-105">**Domain in use** - you will need to log in to the other organization and [remove the domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); then add it to this organization.</span></span>
-- <span data-ttu-id="81455-106">**Toimi alue käytössä hallitsematon/itsenäinen palvelu**  -  [Liity hallitsemattoman toimi alueen järjestelmänvalvojaksi](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span><span class="sxs-lookup"><span data-stu-id="81455-106">**Domain in use unmanaged / self-service** - [Become an admin of the unmanaged domain](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span></span>
+- <span data-ttu-id="f3e2a-103">**Vahvista toimialueesi** hallintakeskuksessa käyttämällä ohjattua [Toimialueen lisääminen -toimintoa.](https://admin.microsoft.com/Adminportal#/Domains/Wizard)</span><span class="sxs-lookup"><span data-stu-id="f3e2a-103">**Verify your domain** in the admin center by using the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span></span> <span data-ttu-id="f3e2a-104">Lisätietoja on ohjeessa [Toimialueen lisääminen Office 365:ssä.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f3e2a-104">For more help, read [Add a domain to Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span></span>
+- <span data-ttu-id="f3e2a-105">**Käytössä toimialue** – sinun on kirjauduttava sisään toiseen organisaatioon ja [poistettava toimialue](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); lisää se sitten tähän organisaatioon.</span><span class="sxs-lookup"><span data-stu-id="f3e2a-105">**Domain in use** - you will need to log in to the other organization and [remove the domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); then add it to this organization.</span></span>
+- <span data-ttu-id="f3e2a-106">**Domain in use unmanaged / self-service**  -  [Ryhdy hallitsemattoman toimialueen järjestelmänvalvojaksi.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)</span><span class="sxs-lookup"><span data-stu-id="f3e2a-106">**Domain in use unmanaged / self-service** - [Become an admin of the unmanaged domain](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span></span>
 
-<span data-ttu-id="81455-107">Muussa tapa uksessa yritä uudelleenmuotoilua ongelma. Tutustu [toimi alueiden usein kysyttyihin](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) kysymyksiin tai [toimi alueiden ongelmien vian määritykseen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) .</span><span class="sxs-lookup"><span data-stu-id="81455-107">Otherwise, try rephrasing your problem; see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) or [Troubleshoot Domains Issues](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) articles.</span></span>
+<span data-ttu-id="f3e2a-107">Muussa tapauksessa yritä muotoilla ongelmasi uudelleen. Katso [toimialueiden usein kysytyt kysymykset](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) tai [Toimialueiden ongelmien vianmääritys -artikkelit.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f3e2a-107">Otherwise, try rephrasing your problem; see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) or [Troubleshoot Domains Issues](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) articles.</span></span>
