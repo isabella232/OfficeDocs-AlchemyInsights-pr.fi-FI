@@ -1,8 +1,8 @@
 ---
-title: Palauta tai asenna uudelleen
+title: Rollback or reinstall
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 4a5c613cecf9287ca4a7ac709fc5993a480d8bd8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560509"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809220"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Officen asentaminen uudelleen tai takaisin
+# <a name="reinstall-or-roll-back-office"></a>Officen uudelleenasentaminen tai sen asentaminen takaisin
 
-Jos sinulla on yleisiä ongelmia Office-tuote paketin viimeisimmän päivityksen jälkeen, saatat pystyä ratkaisemaan ongelman suorittamalla Officen uudelleenasennuksen tai palaamalla edelliseen Office-versioon.
+Jos office-ohjelmistopäivityksen viimeaikaisen päivityksen jälkeen ilmenee yleisiä ongelmia, voit ehkä ratkaista ongelman suorittamalla Officen uudelleenasentamisen tai palaamalla aiempaan Office-versioon.
 
-Jos haluat **asentaa Officen uudelleen** , tarkista [Lataa ja asenna tai asenna Office 365 tai Office 2019 PC-tai Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)-tieto koneeseen.
+Jos haluat asentaa **Officen uudelleen,** lue kohta [Office 365:n tai Office 2019:n lataaminen ja asentaminen tai uudelleen asentaminen PC- tai Mac-tietokoneeseen.](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
 
-Jos haluat peruuttaa Officen, **Tarkista,** [miten voit palauttaa Officen aikaisemman version](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).
+Jos haluat suorittaa **Officen aiemman** version, lue ohjeet aiemman [Office-version palaaminen.](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)

@@ -2,7 +2,7 @@
 title: Miten jaan lomakkeen?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 5bea2ab14fcf585344c795302f38202a2b582593
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f74e2c7697e040a17341794968fe901dfea0091f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781496"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810985"
 ---
 # <a name="share-a-form"></a>Lomakkeen jakaminen
 
-Jos haluat jakaa tieto kokeen tai lomakkeen Microsoft Formsissa, Katso lisä tietoja artikkelista [lomakkeen jakaminen yhteiskäyttöä varten](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Jos haluat jakaa visan tai lomakkeen Microsoft Formsissa, katso kohta [Lomakkeen jakaminen yhteistyötä varten.](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
 
-Jos haluat hallita mahdollisuutta jakaa lomakkeita ulkoisesti, Katso lisä tietoja artikkelista [Microsoft Formsin määrittäminen](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
+Jos haluat hallita lomakkeiden ulkoisen jakamisen mahdollisuutta, katso [Artikkelia Microsoft Formsin määritäminen.](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240) 
 
-Jos haluat saada yhteenvedon linkin tulosten jakamiseen muiden kanssa:
+Voit jakaa tulokset muiden kanssa yhteenvetolinkin avulla:
 
-1. Valitse **vasta ukset** -väli lehdessä kolme pistettä-painike (**...**).
-3. Valitse **Luo Yhteenveto-linkki**.
+1. Napsauta **Vastaukset-välilehdessä** kolmea pistettä (**...**).
+3. Valitse **Luo yhteenvetolinkki**.
 4. Valitse **Kopioi**.
 
-Kuka tahansa, jonka kanssa jaat tämän linkin, voi tarkastella lomakkeen vastausten yhteenvetoa.
+Kaikki, joiden kanssa jaat tämän linkin, voivat tarkastella lomakkeen vastausten yhteenvetoa.

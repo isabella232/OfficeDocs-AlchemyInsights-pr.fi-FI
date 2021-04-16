@@ -1,8 +1,8 @@
 ---
-title: Luotto kortilla tai tili otteesta veloituksen tunnistaminen
+title: Luottokortin tai tiliotteen maksun tunnistaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780128"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810841"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Luotto kortilla tai tili otteesta veloituksen tunnistaminen
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Luottokortin tai tiliotteen maksun tunnistaminen
 
-Microsoft 365-tila uksen veloitus kuvaus näyttää tältä:
+Microsoft 365 -tilauksen veloituskuvaus näyttää tältä:
   
-MSFT \* E012345ABC 0000-MSBILL.info, WA
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-10 merkin aakkosnumeerinen merkki jono, joka seuraa MSFT:Ä, \* on laskun numero, johon veloitus liittyy. Jos haluat löytää laskun, siirry **laskutus** \> [laskut & maksut](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivulle, jotta voit tarkastella viimeisimpiä laskujasi. Laskun numero on lähellä lasku tiedoston oikeaa kulmaa.
+MSFT-merkkijonon perässä 10 aakkosnumeerinen merkkijono on \* laskunumero, johon veloitus liittyy. Jos haluat etsiä laskun, siirry **Laskut** ja \> [& laskut](https://go.microsoft.com/fwlink/p/?linkid=848039) -sivulle, jotta näet viimeisimmät laskusi. Laskun numero on lähellä laskuasiakirjan oikeaa yläkulmaa.

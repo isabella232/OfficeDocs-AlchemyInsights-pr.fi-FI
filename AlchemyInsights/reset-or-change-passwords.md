@@ -1,8 +1,8 @@
 ---
-title: Sala sanojen palauttaminen tai muuttaminen
+title: Salasanojen vaihtaminen tai palauttaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692148"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810193"
 ---
-# <a name="reset-or-change-passwords"></a>Sala sanojen palauttaminen tai muuttaminen
+# <a name="reset-or-change-passwords"></a>Salasanojen vaihtaminen tai palauttaminen
 
-Käyttäjä voi vaihtaa oman Sala sanansa **tilin**  >  [Suojaus & tieto suoja-asetukset](https://portal.office.com/account/#security).
+Käyttäjä voi vaihtaa oman salasanansa omalta tililtä  >  [suojaus- & tietosuojasta.](https://portal.office.com/account/#security)
   
-Jos käyttäjä on unohtanut Sala sanansa, järjestelmänvalvoja voi vaihtaa Sala sanan siirtymällä **käyttäjät**  >  [aktiiviset käyttäjät](https://portal.office.com/adminportal/home#/users)-kohtaan, valitsemalla käyttäjä (a) ja valitsemalla sitten **Vaihda sala sana**.
+Jos käyttäjä on unohtanut salasanansa, järjestelmänvalvoja voi vaihtaa salasanan valitsemalla Käyttäjät aktiiviset käyttäjät , valitsemalla käyttäjät ja valitsemalla  >  [](https://portal.office.com/adminportal/home#/users)Palauta **salasana.**
   
-[Napsauta tätä, jos haluat lisä tietoja](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)tai jos haluat, että käyttäjät voivat vaihtaa omia unohdettuja Sala sanoja.
+[Napsauttamalla tästä saat lisätietoja tai](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)antaa käyttäjien vaihtaa omat unohtuneet salasanansa.

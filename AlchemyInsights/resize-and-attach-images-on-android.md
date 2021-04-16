@@ -1,8 +1,8 @@
 ---
-title: Kuvien koon muuttaminen ja liittäminen Android-laitteessa
+title: Kuvien koon muuttaminen ja liittäminen Androidissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795673"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809508"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Kuvien koon muuttaminen ja liittäminen Android-laitteessa
+# <a name="resize-and-attach-images-on-android"></a>Kuvien koon muuttaminen ja liittäminen Androidissa
 
-Kun liität Sähkö posti viestiin kuvan, jonka koko on yli 1 Mt, voit halutessasi pakata tai muuttaa kuvien kokoa.
+Kun liität sähköpostiviestiin yli 1 Mt:n kokoisen kuvan, voit pakata kuvia tai muuttaa niiden kokoa viestissä.
  
-- Jos haluat säilyttää alkuperäisen, Kaikki viestin kuvat lähetetään niiden täydessä koossa.
+- Jos säilytät alkuperäisen viestin, kaikki viestin kuvat lähetetään täysikokoisena.
  
-- Jos haluat muuttaa kokoa, Kaikki viestin kuvat pakataan.  Tämä sisältää kuvia, jotka on lisätty myöhemmin, kun luonnos on vielä muokkaamassa.
+- Jos muutat kokoa, viestin KAIKKI kuvat pakataan.  Tämä sisältää kuvat, jotka on lisätty myöhemmin muokatessa luonnosta.
  
-- Jos tallennat luonnoksen ja palaat myöhemmin ja lisäät toisen suuren kuvan, ohjelma kysyy sitä uudelleen ja valinta koskee kaikkia luonnoksia muokkaus istunnon aikana.
+- Jos tallennat luonnoksen ja palaat myöhemmin ja lisäät toisen suuren kuvan, sinulta kysytään uudelleen, ja valintasi koskee kaikkia luonnoksia kyseisen muokkausistunnon aikana.
  

@@ -2,7 +2,7 @@
 title: MFA-ongelmat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fed99ebf553a9bfda436d81797c841987759e98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755128"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810481"
 ---
-# <a name="issues-with-azure-mfa"></a>Azure MFA-ongelmat
-On muutamia asioita, jotka on tarkistettava, jos käyttäjät eivät voi kirja utua sisään monimenetelmäisen todentamisen avulla (MFA)
+# <a name="issues-with-azure-mfa"></a>Azuren MFA-ongelmat
+On muutamia asioita, jotka on hyvä tarkistaa, eivätkö käyttäjät voi kirjautua monimenetelmäisen todentamisen (MFA) avulla
 
-1. Haavoittuvuuden sisältävä käyttäjä on ehkä estynyt Azure Active Directory-portaalissa. Tässä tapa uksessa tietyn käyttäjän todennus yritykset kielletään automaattisesti. [Poista niiden esto noudattamalla tämän artikkelin ohjeita.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Käyttäjä, jota ongelma koskee, on ehkä estetty Azure Active Directory -portaalissa. Jos näin on, todennus yrittää tätä tiettyä käyttäjää varten automaattisesti. [Voit poistaa eston tämän artikkelin ohjeiden mukaisesti.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Jos käyttäjän eston poistaminen ei auttanut tai käyttäjää ei ole torjunut, voit yrittää palauttaa MFA-toiminnon käyttäjää varten, jolloin hän käy rekisteröinti prosessin läpi uudelleen. [Noudata tämän artikkelin ohjeita.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Jos käyttäjän eston poistaminen ei auta tai käyttäjää ei ole estetty, voit yrittää palauttaa käyttäjän MFA-sertifikaatit ja hän käy rekisteröintiprosessin läpi uudelleen. [Noudata tämän artikkelin ohjeita.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Jos tämä on ensimmäinen kerta, kun olet ottanut MFA:N käyttöön ja käyttäjät eivät voi kirja utua muihin kuin selaimiin, kuten Outlookiin, Skypeen, jne, ehkäpä ADAL (Active Directory-todennus kirjasto) ei ole käytössä O365-tila uksessa. Tässä tapa uksessa sinun on muodostettava yhteys Exchange Online PowerShelliin ja suoritettava tämä cmdlet-toiminto:  *asento-OrganizationConfig-OAuth2ClientProfileEnabled: $True*
+Jos tämä on ensimmäinen kerta, kun olet ottanut MFA:n käyttöön ja käyttäjäsi eivät voi kirjautua sisään ei-selaimiin, kuten Outlookiin, Skypeen jne., ehkä ADAL:iin (Active Directory -todentamiskirjasto) ei ole käytössä O365 -tilauksessasi. Tässä tapauksessa sinun täytyy muodostaa yhteys Exchange Online Powershelliin ja suorittaa tämä cmdlet-komento:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*

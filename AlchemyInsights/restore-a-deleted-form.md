@@ -2,7 +2,7 @@
 title: Poistetun lomakkeen palauttaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662430"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809472"
 ---
 # <a name="restore-a-deleted-form"></a>Poistetun lomakkeen palauttaminen
 
-Jos olet poistanut lomakkeen Microsoft Formsissa vahingossa, voit palauttaa sen. Kirjaudu sisään Microsoft Formsin poistetun lomakkeen omistajaksi. Valitse **roska kori**, valitse palautettava lomake ja valitse **Palauta**. Kun olet palauttanut, valitse **takaisin omiin lomakkeisiin-sivun** nuoli.
+Jos poistit lomakkeen Microsoft Formsissa vahingossa, voit palauttaa sen. Kirjaudu Microsoft Formsiin poistetun lomakkeen omistajana. Valitse **roskakori**, valitse palautettava lomake ja valitse **sitten Palauta**. Kun tiedosto on palautettu, valitse **Takaisin omat lomakkeet -sivun nuoli.**
 
-Vain lomakkeen omistaja voi palauttaa sen. Jos lomakkeen omistajan tili on poistettu käytöstä tai se on poistettu vuokra ajasta, vain yleinen hallinnoija voi palauttaa lomakkeen. Yleisellä järjestelmänvalvojalla on oltava lomakkeiden käyttö oikeus, jotta se voi suorittaa palautuksen. Vain ne lomakkeet, jotka on perustettu 30 päivän kuluessa siitä, kun käyttäjä tili on poistettu käytöstä tai poistettu vuokra ajasta, voidaan palauttaa.
+Vain lomakkeen omistaja voi palauttaa sen. Jos lomakkeen omistajan tili on poistettu käytöstä tai poistettu vuokraajassa, vain yleinen järjestelmänvalvoja voi palauttaa lomakkeen. Yleisella järjestelmänvalvojalla on oltava Forms-käyttöoikeus, jotta hän voi suorittaa palauttamisen. Vain lomakkeet, jotka on luotu 30 päivän kuluessa siitä, kun käyttäjätili poistetaan käytöstä tai poistetaan vuokraajassa, voidaan palauttaa.
 
-Jos olet vuokra ajan yleinen hallinnoija ja haluat palauttaa lomakkeen tililtä, joka on poistettu tai poistettu käytöstä, Vaihda [Sähkö posti osoite], jonka nimi on poistettu tai poistettu käytöstä, seuraavassa URL-osoitteessa: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [Sähkö posti osoite]** Jos esimerkiksi sähkö posti osoitteesi on Johndoe@contoso.com, URL-osoite on: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Jos olet vuokraajan yleinen järjestelmänvalvoja ja haluat palauttaa lomakkeen tilistä, joka on poistettu tai poistettu käytöstä, korvaa [sähköpostiosoite] poistetun tai käytöstä poistetun käyttäjän sähköpostiosoitteella seuraavassa URL-osoitteessa: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [sähköpostiosoite]** Jos sähköpostiosoitteesi on johndoe@contoso.com, URL-osoite olisi: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Kun olet saanut käyttäjän poistettujen lomakkeiden käyttö oikeuden, valitse siirrettävä lomake ja valitse sitten **Lisää lomake toimintoja**  >  **Siirrä**.
+Kun sinulla on käyttöoikeus käyttäjän poistettuihin lomakkeisiin, valitse lomake, jonka haluat siirtää, ja valitse sitten Lisää **lomaketoimintoja**  >  **Siirrä**.
 
-Jos haluat palauttaa lomakkeen, jossa se on poistettu ja käyttäjä on poistettu organisaatiosta, Yleinen järjestelmänvalvoja voi halutessaan palauttaa käyttäjän, palauttaa käyttäjän Sala sanan ja sen jälkeen, kun olet kirjautunut sisään käyttäjänä, siirtyä lomakkeeseen ja siirtää sen toiseen aktiiviseen käyttäjään. 
+Jos haluat palauttaa lomakkeen, josta se on poistettu ja käyttäjä on poistettu organisaatiosta, yleinen järjestelmänvalvoja voi palauttaa käyttäjän, vaihtaa käyttäjän salasanan ja käyttää lomaketta kirjautuneena sisään toisena aktiivisena käyttäjänä. 
