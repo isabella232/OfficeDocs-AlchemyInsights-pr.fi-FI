@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-sovellukset puuttuvat
+title: Microsoft 365 -sovellukset puuttuvat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 24ad5efafa7551e9d29c2b1f4a438bfb781a1417
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c3c2e1b590cf5834b71165f3f4b1bf44babd6da
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802882"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810085"
 ---
-# <a name="microsoft-365-apps-missing"></a><span data-ttu-id="2d021-102">Microsoft 365-sovellukset puuttuvat</span><span class="sxs-lookup"><span data-stu-id="2d021-102">Microsoft 365 apps missing</span></span>
+# <a name="microsoft-365-apps-missing"></a><span data-ttu-id="21727-102">Microsoft 365 -sovellukset puuttuvat</span><span class="sxs-lookup"><span data-stu-id="21727-102">Microsoft 365 apps missing</span></span>
 
-<span data-ttu-id="2d021-103">Jos et löydä Office-sovelluksia tieto koneesta asennuksen tai päivityksen jälkeen, Katso lisä tietoja artikkelista [Office-sovellusten löytäminen Windows 10: ssä, Windows 8-tai Windows 7-versioissa ei](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6)onnistu.</span><span class="sxs-lookup"><span data-stu-id="2d021-103">If you are unable to locate Office applications on your computer after an install or update, see [Can't find Office applications in Windows 10, Windows 8, or Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6).</span></span> <span data-ttu-id="2d021-104">Jos et löydä Officen pikakuvakkeita Käynnistä-valikosta tai **Kaikki sovellukset**-kohdasta, tutustu Ohje aiheeseen [Microsoft 365-sovellukset puuttuvat kaikista Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc): n sovelluksista.</span><span class="sxs-lookup"><span data-stu-id="2d021-104">If you can’t find the Office shortcuts on the Start menu or under **All apps**, see [Microsoft 365 apps are missing from all apps on Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc).</span></span> 
+<span data-ttu-id="21727-103">Jos et löydä Office-sovelluksia tietokoneestasi asennuksen tai päivityksen jälkeen, katso etkö [löydä Office-sovelluksia Windows 10:ssä, Windows 8:ssa tai Windows 7:ssä?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6).</span><span class="sxs-lookup"><span data-stu-id="21727-103">If you are unable to locate Office applications on your computer after an install or update, see [Can't find Office applications in Windows 10, Windows 8, or Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6).</span></span> <span data-ttu-id="21727-104">Jos et löydä Officen pikakuvakkeita aloitusvalikosta tai Kaikki sovellukset -kohdasta, katso kohta Microsoft 365 -sovellukset puuttuvat kaikista [Windows 10:n sovelluksista.](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc)</span><span class="sxs-lookup"><span data-stu-id="21727-104">If you can’t find the Office shortcuts on the Start menu or under **All apps**, see [Microsoft 365 apps are missing from all apps on Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc).</span></span> 
 
-<span data-ttu-id="2d021-105">Yritä [korjata Office-sovellus](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) , jos Officen pikakuvakkeet katos ivat tieto koneen kirjautumisen tai uudelleenkäynnistämisen jälkeen.</span><span class="sxs-lookup"><span data-stu-id="2d021-105">Try to [repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) if Office shortcuts disappeared after logging in or restarting the computer.</span></span> 
+<span data-ttu-id="21727-105">Yritä korjata [Office-sovellus, jos](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) Office-pikakuvakkeet katosivat kirjautumisen jälkeen tai käynnistät tietokoneen uudelleen.</span><span class="sxs-lookup"><span data-stu-id="21727-105">Try to [repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) if Office shortcuts disappeared after logging in or restarting the computer.</span></span> 
 
-<span data-ttu-id="2d021-106">**Huomautus:** Jos Microsoft 365-sovelluksia ei ole asennettu Office-portaaliin, siirry kohtaan [Officen asennuksen vian määritys](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) ja siirry **Office for Businessin**  >  **yleisiin ongelmiin**,  >  **joita et näe Officen asennus vaihtoehtoa**.</span><span class="sxs-lookup"><span data-stu-id="2d021-106">**Note:** If Microsoft 365 apps are missing for installation on the Office portal, go to [Troubleshoot installing Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) and go to **Office for business** > **Common issues** > **You don't see an option to install Office**.</span></span> 
+<span data-ttu-id="21727-106">**Huomautus:** Jos Microsoft 365 -sovelluksia ei ole asennettu [](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) Office-portaaliin, siirry Officen asennuksen vianmääritys -ohjeisiin ja siirry Office **for Businessiin** Yleiset ongelmat Et näe  >    >  **Vaihtoehtoa Officen asentamiseen.**</span><span class="sxs-lookup"><span data-stu-id="21727-106">**Note:** If Microsoft 365 apps are missing for installation on the Office portal, go to [Troubleshoot installing Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) and go to **Office for business** > **Common issues** > **You don't see an option to install Office**.</span></span> 

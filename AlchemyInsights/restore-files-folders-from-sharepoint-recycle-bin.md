@@ -1,8 +1,8 @@
 ---
-title: Tiedostojen tai kansioiden palauttaminen SharePointin roska korista
+title: Tiedostojen tai kansioiden palauttaminen SharePointin roskakorista
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3195"
-ms.openlocfilehash: 08690ae1751e85ac85dbae371694763a70f68cca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc401c90c2b07306f2684f2fc8c62863ee469f01
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797725"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809328"
 ---
-# <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a><span data-ttu-id="45c74-102">Tiedostojen tai kansioiden palauttaminen SharePointin roska korista</span><span class="sxs-lookup"><span data-stu-id="45c74-102">Restore files or folders from the SharePoint Recycle Bin</span></span> 
+# <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a><span data-ttu-id="9241d-102">Tiedostojen tai kansioiden palauttaminen SharePointin roskakorista</span><span class="sxs-lookup"><span data-stu-id="9241d-102">Restore files or folders from the SharePoint Recycle Bin</span></span> 
 
-<span data-ttu-id="45c74-103">Kun poistat kohteen SharePoint-tiedosto kirjastosta tai-luettelosta, sitä ei poisteta heti SharePointista.</span><span class="sxs-lookup"><span data-stu-id="45c74-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="45c74-104">Poistetut kohteet siirtyvät sivuston roska koriin tietyn ajan.</span><span class="sxs-lookup"><span data-stu-id="45c74-104">Deleted items go into the site recycle bin for a period of time.</span></span> <span data-ttu-id="45c74-105">Tänä aikana voit palauttaa poistetut kohteet alkuperäiseen sijaintiinsa.</span><span class="sxs-lookup"><span data-stu-id="45c74-105">During that time, you can restore the items you deleted to their original location.</span></span>
+<span data-ttu-id="9241d-103">Kun poistat kohteen SharePoint-tiedostokirjastosta tai -luettelosta, sitä ei poisteta heti SharePointista.</span><span class="sxs-lookup"><span data-stu-id="9241d-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="9241d-104">Poistetut kohteet menevät sivuston roskakoriin tietyn ajan.</span><span class="sxs-lookup"><span data-stu-id="9241d-104">Deleted items go into the site recycle bin for a period of time.</span></span> <span data-ttu-id="9241d-105">Tänä aikana voit palauttaa poistetut kohteet alkuperäiseen sijaintiinsa.</span><span class="sxs-lookup"><span data-stu-id="9241d-105">During that time, you can restore the items you deleted to their original location.</span></span>
 
-- [<span data-ttu-id="45c74-106">Tiedostojen tai kansioiden palauttaminen SharePointin roska korista</span><span class="sxs-lookup"><span data-stu-id="45c74-106">Restore files or folders from the SharePoint Recycle Bin</span></span>](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
-- [<span data-ttu-id="45c74-107">Poistettujen tiedostojen tai kansioiden palauttaminen OneDrivessa</span><span class="sxs-lookup"><span data-stu-id="45c74-107">Restore deleted files or folders in OneDrive</span></span>](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [<span data-ttu-id="9241d-106">Tiedostojen tai kansioiden palauttaminen SharePointin roskakorista</span><span class="sxs-lookup"><span data-stu-id="9241d-106">Restore files or folders from the SharePoint Recycle Bin</span></span>](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [<span data-ttu-id="9241d-107">Poistettujen tiedostojen tai kansioiden palauttaminen OneDrivessa</span><span class="sxs-lookup"><span data-stu-id="9241d-107">Restore deleted files or folders in OneDrive</span></span>](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)

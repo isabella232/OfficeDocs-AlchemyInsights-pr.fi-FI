@@ -1,8 +1,8 @@
 ---
-title: Tiedostojen lataus ongelmien vian määritys OneDriveen tai SharePointiin
+title: Tiedostoja OneDriveen tai SharePointiin ladattaessa ilmenevien ongelmien vianmääritys
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: b4b4e1e3603d7a2758c027c957961ae2651fbfe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f53002cfd8c8437cefe181e48e644cc55f76b568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808932"
 ---
-# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a><span data-ttu-id="faacb-102">Tiedostojen lataus ongelmien vian määritys OneDriveen tai SharePointiin</span><span class="sxs-lookup"><span data-stu-id="faacb-102">Troubleshoot upload file issues to OneDrive or SharePoint</span></span>
+# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a><span data-ttu-id="857b2-102">Tiedostoja OneDriveen tai SharePointiin ladattaessa ilmenevien ongelmien vianmääritys</span><span class="sxs-lookup"><span data-stu-id="857b2-102">Troubleshoot upload file issues to OneDrive or SharePoint</span></span>
 
-<span data-ttu-id="faacb-103">Lue, miten voit [ladata tiedostot OneDriveen](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a).</span><span class="sxs-lookup"><span data-stu-id="faacb-103">Learn how to [upload your files to OneDrive](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a).</span></span> 
+<span data-ttu-id="857b2-103">Lisätietoja [tiedostojen lataamisesta OneDriveen](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a).</span><span class="sxs-lookup"><span data-stu-id="857b2-103">Learn how to [upload your files to OneDrive](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a).</span></span> 
