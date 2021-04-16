@@ -1,8 +1,8 @@
 ---
-title: Tee toinen tili järjestelmänvalvojaksi
+title: Toisen tilin luominen järjestelmänvalvojaksi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794691"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795009"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Tavallisen käyttäjä tilin muuttaminen järjestelmänvalvojaksi Windows 10: ssä
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Tavallisen käyttäjätilin muuttaminen järjestelmänvalvojaksi Windows 10:ssä
 
-Voit muuttaa tavallisen käyttäjä tilin järjestelmänvalvojaksi Windows 10: ssä seuraavasti.
+Voit muuttaa tavallisen käyttäjätilin Järjestelmänvalvojaksi Windows 10:ssä näin:
 
-1. Siirry kohtaan **Käynnistä**  >  **Asetukset**  >  **tili**  >  **perhe & muut henkilöt** (tai **Muut henkilöt**, jos käytössäsi on Windows 10 Enterprise).
+1. Siirry kohtaan  >  **AloitusasetuksetTilin**  >    >  **perhe &** (tai **Muut henkilöt,** jos käytössäsi on Windows 10 Enterprise).
 2. Valitse tili, jonka haluat määrittää järjestelmänvalvojaksi, ja valitse **Vaihda tili**.
-3. Valitse **tili tyyppi**-kohdassa **hallinnoija**ja valitse sitten **OK**.
+3. Valitse **Tilin tyyppi**-kohdassa **Järjestelmänvalvoja** ja valitse sitten **OK**.
 
-**Huomautus:** Voit muuttaa tilejä vain olemassa olevan järjestelmänvalvojan tilin järjestelmänvalvojaksi.
+**Huomautus:** Voit muuttaa tilejä järjestelmänvalvojaksi vain olemassa olevalta järjestelmänvalvojatililtä.
