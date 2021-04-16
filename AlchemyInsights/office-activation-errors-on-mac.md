@@ -2,7 +2,7 @@
 title: Office-aktivointivirheet Mac-laitteissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: 65d4a6d3bb55c648b3d019bf82b5c38a152bfbac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db17f222ccd245b7c9199c159098fbcc8e78c003
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666507"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802560"
 ---
-# <a name="office-activation-errors-on-mac"></a><span data-ttu-id="280e1-102">Office-aktivointivirheet Mac-laitteissa</span><span class="sxs-lookup"><span data-stu-id="280e1-102">Office activation errors on Mac</span></span>
+# <a name="office-activation-errors-on-mac"></a><span data-ttu-id="fd951-102">Office-aktivointivirheet Mac-laitteissa</span><span class="sxs-lookup"><span data-stu-id="fd951-102">Office activation errors on Mac</span></span>
 
-<span data-ttu-id="280e1-103">Yritä ratkaista Mac-laitteiden Office-aktivointivirheet seuraavien vaiheiden avulla.</span><span class="sxs-lookup"><span data-stu-id="280e1-103">Try the following steps to resolve an Office App activation error on a MAC:</span></span>
+<span data-ttu-id="fd951-103">Yritä ratkaista Mac-laitteiden Office-aktivointivirheet seuraavien vaiheiden avulla.</span><span class="sxs-lookup"><span data-stu-id="fd951-103">Try the following steps to resolve an Office App activation error on a MAC:</span></span>
 
-- <span data-ttu-id="280e1-104">Varmista, että käyttöoikeutesi sallii asiakaskäyttöoikeudet ja että [käyttäjälle on määritetty käyttöoikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="280e1-104">Make sure you have a subscription that allows client licenses, and [ensure that the user has a license assigned](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
+- <span data-ttu-id="fd951-104">Varmista, että käyttöoikeutesi sallii asiakaskäyttöoikeudet ja että [käyttäjälle on määritetty käyttöoikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="fd951-104">Make sure you have a subscription that allows client licenses, and [ensure that the user has a license assigned](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
 
-- <span data-ttu-id="280e1-105">Lataa ja suorita [käyttöoikeuden poistotyökalu](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).</span><span class="sxs-lookup"><span data-stu-id="280e1-105">Download and run the [license removal tool](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).</span></span>
+- <span data-ttu-id="fd951-105">Lataa ja suorita [käyttöoikeuden poistotyökalu](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).</span><span class="sxs-lookup"><span data-stu-id="fd951-105">Download and run the [license removal tool](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).</span></span>
 
-- <span data-ttu-id="280e1-106">Palauta tunnistetiedot.</span><span class="sxs-lookup"><span data-stu-id="280e1-106">Reset your credentials.</span></span> <span data-ttu-id="280e1-107">Saat lisätietoja artikkelista [Asennuksen jälkeen Officen aktivointi ei onnistu](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).</span><span class="sxs-lookup"><span data-stu-id="280e1-107">See [Can't activate Office after installation](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).</span></span>
+- <span data-ttu-id="fd951-106">Palauta tunnistetiedot.</span><span class="sxs-lookup"><span data-stu-id="fd951-106">Reset your credentials.</span></span> <span data-ttu-id="fd951-107">Saat lisätietoja artikkelista [Asennuksen jälkeen Officen aktivointi ei onnistu](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).</span><span class="sxs-lookup"><span data-stu-id="fd951-107">See [Can't activate Office after installation](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).</span></span>
 
-- <span data-ttu-id="280e1-108">Käynnistä laite uudelleen ja kirjaudu tililläsi sisään Officeen.</span><span class="sxs-lookup"><span data-stu-id="280e1-108">Restart and sign in to Office with your account.</span></span>
+- <span data-ttu-id="fd951-108">Käynnistä laite uudelleen ja kirjaudu tililläsi sisään Officeen.</span><span class="sxs-lookup"><span data-stu-id="fd951-108">Restart and sign in to Office with your account.</span></span>
 
-<span data-ttu-id="280e1-109">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="280e1-109">For more information, see:</span></span>
+<span data-ttu-id="fd951-109">Lisätietoja on seuraavissa artikkeleissa:</span><span class="sxs-lookup"><span data-stu-id="fd951-109">For more information, see:</span></span>
 
-- [<span data-ttu-id="280e1-110">Office for Macin aktivointi</span><span class="sxs-lookup"><span data-stu-id="280e1-110">Activate Office for Mac</span></span>](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [<span data-ttu-id="fd951-110">Office for Macin aktivointi</span><span class="sxs-lookup"><span data-stu-id="fd951-110">Activate Office for Mac</span></span>](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-- [<span data-ttu-id="280e1-111">Toimintaohjeita tilanteeseen, jossa Office for Macin asennus tai aktivointi ei onnistu</span><span class="sxs-lookup"><span data-stu-id="280e1-111">What to try if you can't install or activate Office for Mac</span></span>](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
+- [<span data-ttu-id="fd951-111">Toimintaohjeita tilanteeseen, jossa Office for Macin asennus tai aktivointi ei onnistu</span><span class="sxs-lookup"><span data-stu-id="fd951-111">What to try if you can't install or activate Office for Mac</span></span>](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
 
-- [<span data-ttu-id="280e1-112">Outlook 2016 for Mac pyytää toistuvasti todentamista</span><span class="sxs-lookup"><span data-stu-id="280e1-112">Outlook 2016 for Mac repeatedly prompts for authentication</span></span>](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
+- [<span data-ttu-id="fd951-112">Outlook 2016 for Mac pyytää toistuvasti todentamista</span><span class="sxs-lookup"><span data-stu-id="fd951-112">Outlook 2016 for Mac repeatedly prompts for authentication</span></span>](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
