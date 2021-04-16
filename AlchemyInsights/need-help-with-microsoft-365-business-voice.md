@@ -1,8 +1,8 @@
 ---
-title: Tarvitsetko apua Microsoft 365 Business Premium-äänellä?
+title: Tarvitsetko apua Microsoft 365 Business Premium Voicen käytössä?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754588"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792597"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Tarvitsetko apua Microsoft 365 Business Premium-äänellä?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Tarvitsetko apua Microsoft 365 Business Premium Voicen käytössä?
 
-Microsoft 365 Business Premium-äänen ansiosta pienten ja keskisuurten organisaatioiden on helppo ottaa Microsoft teamsin käyttöön tehokas ja joustava puhelin järjestelmä. Lisä tietoja yritys äänestä [on kohdassa Mikä on Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voicen avulla pienten ja keskisuurten organisaatioiden on helppo muuttaa Microsoft Teams tehokkaaksi ja joustavaksi puhelinjärjestelmäksi. Lisätietoja Business Voicesta on kohdassa Mikä [on Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Jos olet jo hankkinut Microsoft 365 Business Premium-äänen, ohjatun aloittaminen- [toiminnon](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) avulla voit tehdä asioita. 
+Jos olet jo hankkinut Microsoft 365 Business Premium Voicen, [ohjattu aloitustoiminto](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) auttaa sinua pääsemään alkuun. 
