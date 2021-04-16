@@ -2,39 +2,40 @@
 title: MIP SKD:n käyttäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357738"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770952"
 ---
 # <a name="using-mip-skd"></a>MIP SKD:n käyttäminen
 
-Jos haluat käyttää MIP SDK:ta, sinun on määritettävä ja määritettävä Office 365 -tilaus ja työasema useilla eri vaiheilla. Näitä vaiheita ovat esimerkiksi seuraavat:
+MIP SDK:n käyttäminen edellyttää useita vaiheita Office 365 -tilauksen ja asiakastyöaseman määrittämiseksi ja konfiguroimiseksi. Nämä vaiheet ovat seuraavat:
 
-- Tilaa Office 365 -tilaus.
-- Määritä herkkyysotsikot.
-- Määritä työasema.
-- Rekisteröi asiakassovellus Azure Active Directoryyn.
-- Pyydä tietojen suojauksen integrointisopimusta (IPIA).
-- Varmista, että sovelluksellasi on tarvittava ajonaikainen.
+- Office 365 -tilauksen rekisteröiminen.
+- Luottamuksellisuustunnisteiden määrittäminen.
+- Asiakaskoneen työaseman määrittäminen.
+- Asiakassovelluksen rekisteröiminen Azure Active Directoryyn.
+- Information Protection Integration Agreement -sopimuksen (IPIA) pyytäminen
+- Sen varmistaminen, että sovelluksella on vaadittu suoritusaika.
 
-Lisätietoja näiden vaiheista on ohjeaiheessa [MIP SDK:n määrittäminen ja määrittäminen](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Lisätietoja näistä vaiheista on ohjeartikkelissa [MIP SDK:n asentaminen ja määrittäminen](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
-Lisäresursseja on kohdassa:
+Lisäresursseja:
 
-- [Microsoft Information Protection SDK:n dokumentaatio](https://docs.microsoft.com/information-protection/develop/)
+- [Microsoft Information Protection SDK Documentation](https://docs.microsoft.com/information-protection/develop/)
 - [Azure Information Protection -kehittäjän opas](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Lataa Microsoft Information Protection Software Development Kit](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Microsoft Information Protection (MIP) SDK:n asennus ja määritys](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [MIP SDK:n Azure-koodinäytteet](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [Microsoft Information Protection Software Development Kitin lataaminen](https://www.microsoft.com/download/details.aspx?id=57392)
+- [Microsoft Information Protection (MIP) SDK:n asentaminen ja määrittäminen](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Azure-mallikoodit MIP SDK:lle](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
