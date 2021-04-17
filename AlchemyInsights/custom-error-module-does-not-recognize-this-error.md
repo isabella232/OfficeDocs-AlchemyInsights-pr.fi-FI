@@ -1,8 +1,8 @@
 ---
-title: Saatko mukautettua virhe moduulia ei tunnista tätä virhettä, kun lataat viestin jäljityksen?
+title: Mukautetun virhemoduulin hakeminen ei tunnista tätä virhettä viestin jäljityksen lataamisen yhteydessä?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731956"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815756"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a><span data-ttu-id="46275-102">"Mukautetun virhe moduulin hakeminen ei tunnista tätä virhettä", kun lataat viestin jälkeä?</span><span class="sxs-lookup"><span data-stu-id="46275-102">Getting "custom error module does not recognize this error" when downloading a message trace?</span></span>
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a><span data-ttu-id="f5d23-102">Haetaanko "mukautettu virhemoduuli ei tunnista tätä virhettä", kun viestin jäljitystä ladataan?</span><span class="sxs-lookup"><span data-stu-id="f5d23-102">Getting "custom error module does not recognize this error" when downloading a message trace?</span></span>
 
-<span data-ttu-id="46275-103">Olemme tietoisia ongelmasta ja pyrimme korjaamaan ongelman.</span><span class="sxs-lookup"><span data-stu-id="46275-103">We are aware of the issue and are working on a fix.</span></span>  <span data-ttu-id="46275-104">Yritä tällä välin **tyhjentää selaimen väli muisti**tai käytä InPrivate-tilaa ongelman ratkaisemiseksi.</span><span class="sxs-lookup"><span data-stu-id="46275-104">In the meantime, try **clearing your browser cache**, or using InPrivate mode to resolve this problem.</span></span>
+<span data-ttu-id="f5d23-103">Ongelma on tiedossa ja sitä korjataan.</span><span class="sxs-lookup"><span data-stu-id="f5d23-103">We are aware of the issue and are working on a fix.</span></span>  <span data-ttu-id="f5d23-104">Yritä sillä välin **tyhjentää selainvälimuisti tai** ratkaista ongelma InPrivate-tilassa.</span><span class="sxs-lookup"><span data-stu-id="f5d23-104">In the meantime, try **clearing your browser cache**, or using InPrivate mode to resolve this problem.</span></span>

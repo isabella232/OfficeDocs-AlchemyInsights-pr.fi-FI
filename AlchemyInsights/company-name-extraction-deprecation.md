@@ -1,8 +1,8 @@
 ---
-title: Yrityksen nimen purku poistumisesta
+title: Yrityksen nimen poimimisen poisto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681005"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817385"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a><span data-ttu-id="d5499-102">Yrityksen nimen kopioinnin muutokset SharePoint Onlinessa</span><span class="sxs-lookup"><span data-stu-id="d5499-102">Changes to company name extraction in SharePoint Online</span></span>
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a><span data-ttu-id="b5367-102">Muutokset yrityksen nimen poimintaan SharePoint Onlinessa</span><span class="sxs-lookup"><span data-stu-id="b5367-102">Changes to company name extraction in SharePoint Online</span></span>
 
-<span data-ttu-id="d5499-103">Me poistamme [yritys nimien purkamisen SharePoint Onlinesta](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)15. joulu kuuta 2019 alkaen.</span><span class="sxs-lookup"><span data-stu-id="d5499-103">Beginning on November 15th, 2019, we'll be [removing Company Name Extraction from SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online).</span></span> <span data-ttu-id="d5499-104">Yrityksen nimen poimiminen SharePointissa haku järjestelmä voi poimia yritysten nimet tietystä ehtojen joukosta ennalta määritetyn sanaston avulla tai käyttämällä yrityksen sulkemisia tai yrityksen Poissulkemisluetteloita.</span><span class="sxs-lookup"><span data-stu-id="d5499-104">Company name extraction in SharePoint allows the search system to extract company names from content under a specific set of conditions using a pre-populated dictionary or by using the Company Inclusions or Company Exclusions lists.</span></span> <span data-ttu-id="d5499-105">Vaikka yrityksen nimien erottamisesta on muodostunut vedoksena yksi tai useampi yritys nimi SharePoint Onlinen sisällöstä, sekä sanasto että sen pohjana olevat ominaisuudet vanhenevat.</span><span class="sxs-lookup"><span data-stu-id="d5499-105">While company name extraction has become a relied-upon solution to derive one or more company names from content in SharePoint Online, both the dictionary and its underlying feature set have become obsolete.</span></span>
+<span data-ttu-id="b5367-103">15. marraskuuta 2019 alkaen poistamme yrityksen nimen poimimisen [SharePoint Onlinesta.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)</span><span class="sxs-lookup"><span data-stu-id="b5367-103">Beginning on November 15th, 2019, we'll be [removing Company Name Extraction from SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online).</span></span> <span data-ttu-id="b5367-104">Yrityksen nimen poiminta SharePointissa mahdollistaa sen, että hakujärjestelmä poimii yritysten nimet tietyssä sisällössä käyttämällä valmiiksi täytettyä sanastoa tai käyttämällä Yrityksen sisällyttäminen -luetteloa tai Yrityksen poissulkemiset -luetteloa.</span><span class="sxs-lookup"><span data-stu-id="b5367-104">Company name extraction in SharePoint allows the search system to extract company names from content under a specific set of conditions using a pre-populated dictionary or by using the Company Inclusions or Company Exclusions lists.</span></span> <span data-ttu-id="b5367-105">Yrityksen nimien poiminta on tullut käyttömukautunut ratkaisu, jonka avulla voidaan määrittää yksi tai useampi yrityksen nimi SharePoint Onlinen sisällöstä, mutta sekä sanasto että sen pohjana oleva ominaisuusjoukko ovat vanhentuneet.</span><span class="sxs-lookup"><span data-stu-id="b5367-105">While company name extraction has become a relied-upon solution to derive one or more company names from content in SharePoint Online, both the dictionary and its underlying feature set have become obsolete.</span></span>
 
-- [<span data-ttu-id="d5499-106">Mistä tiedän, onko yrityksen nimien poiminta käytössä ominaisuudelle?</span><span class="sxs-lookup"><span data-stu-id="d5499-106">How do I know if company name extraction is enabled for a property?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [<span data-ttu-id="b5367-106">Mistä tiedän, onko yrityksen nimen poiminta käytössä ominaisuudessa?</span><span class="sxs-lookup"><span data-stu-id="b5367-106">How do I know if company name extraction is enabled for a property?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [<span data-ttu-id="d5499-107">Mitä tapahtuu, kun yrityksen nimen purku on syrjäytetty?</span><span class="sxs-lookup"><span data-stu-id="d5499-107">What happens when company name extraction is deprecated?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [<span data-ttu-id="b5367-107">Mitä tapahtuu, kun yrityksen nimien poiminta on poistettu käytöstä?</span><span class="sxs-lookup"><span data-stu-id="b5367-107">What happens when company name extraction is deprecated?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [<span data-ttu-id="d5499-108">Onko yrityksen nimien erottamisessa vaihto ehtoja?</span><span class="sxs-lookup"><span data-stu-id="d5499-108">Are there alternatives to company name extraction?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [<span data-ttu-id="b5367-108">Onko vaihtoehtoja yrityksen nimen poiminnalle?</span><span class="sxs-lookup"><span data-stu-id="b5367-108">Are there alternatives to company name extraction?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
