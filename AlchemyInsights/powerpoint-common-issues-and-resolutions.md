@@ -2,7 +2,7 @@
 title: PowerPointin yleiset ongelmat ja ratkaisut
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: c43896cd78e46a80ce5751685877ee1aae4ab503
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: dc5e3363183f5beb90ea4f45ad8e4657640a74e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831443"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPointin yleiset ongelmat ja ratkaisut
 
-Seuraavassa on joitakin usein kysyttyjä aiheita PowerPointin kanssa:
+Seuraavassa on joitakin usein kysyttyjä aiheita PowerPointissa:
 
-1. **PowerPointin käyttäminen Microsoft teamsissa**: [PowerPoint-diojen jakaminen koko uksessa teamsissa](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8#ID0EABAAA=Desktop) tai Tiedostojen yhteiskäyttö Microsoft teamsissa.
-1. [PowerPoint ei vastaa, jumittuu tai lakkaa vastaamasta](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d).
-1. **Verkkopohjainen PowerPoint**: [miten tietyt ominaisuudet toimivat verkkopohjaisessa PowerPointissa.](https://support.microsoft.com/office/how-certain-features-behave-in-web-based-powerpoint-a931f0c8-1305-4428-8f7c-9cfa00ef28c5)
-1. [PowerPoint ei voi lisätä videota valitusta tiedostosta](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c).
-1. **Tulostaminen**: saat parhaat käytännöt ja tulostamiseen liittyvät ongelmat tarkistamalla [PowerPoint-diojen ja muistiinpanojen](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4)tulostamisen tiedot. 
-1. **Ominaisuudet**: [Vertaa PowerPointin ominaisuuksia](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) Windows-, Mac-, verkko-ja mobiiliympäristöihin.
+1. **PowerPointin käyttäminen Microsoft Teamsissa:** [PowerPoint-diojen](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8#ID0EABAAA=Desktop) jakaminen Teams-kokouksessa tai tiedostojen yhteiskäyttö Microsoft Teamsissa.
+1. [PowerPoint ei vastaa, jumittuu tai jumittuu](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d).
+1. **Verkkopohjainen PowerPoint:** [tiettyjen ominaisuuksien toiminta verkkopohjaisessa PowerPointissa.](https://support.microsoft.com/office/how-certain-features-behave-in-web-based-powerpoint-a931f0c8-1305-4428-8f7c-9cfa00ef28c5)
+1. [PowerPoint ei voi lisätä videota valitusta tiedostosta.](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c)
+1. **Tulostaminen:** Katso parhaat tulostuskäytännöt ja tulostamiseen liittyvät ongelmat artikkelista [PowerPoint-diojen ja -muistiinpanojen tulostaminen.](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4) 
+1. **Ominaisuudet:** [Vertaa PowerPointin ominaisuuksia](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) Windows-, Mac-, verkko- ja mobiiliympäristöissä.

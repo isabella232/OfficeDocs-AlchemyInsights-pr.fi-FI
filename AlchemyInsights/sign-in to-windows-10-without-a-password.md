@@ -1,8 +1,8 @@
 ---
-title: 'Kirjautuminen Windows 10: een ilman Sala sanaa'
+title: Kirjautuminen Windows 10:ssä ilman salasanaa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719950"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830543"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Kirjautuminen Windows 10: een ilman Sala sanaa
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Kirjautuminen Windows 10:ssä ilman salasanaa
 
-Jos haluat välttyä kirjoittamasta Sala sanaa Windowsin käynnistyessä, suosittelemme, että käytät jotakin Windows Hello-kirjautumisvaihtoehtoa, kuten PIN-koodi, kasvojentunnistus tai sormen jälki, jos se on käytettävissä. Jos haluat todella poistaa suojatun kirjautumisen käytöstä, Lue ohjeet kohdasta "Kirjautuminen Windows 10: een automaattisesti".
+Voit välttää salasanan kirjoittamisen Windowsin käynnistyksen yhteydessä käyttämällä Windows Hellon suojattua kirjautumisvaihtoehtoa, kuten PIN-koodia, kasvojentunnistusta tai sormenjälkeä, jos sellainen on käytettävissä. Jos haluat poistaa suojatun kirjautumisen käytöstä, katso alla olevat Windows 10:lle kirjautuminen automaattisesti -ohjeet.
 
-**Secure Windows Hello-vaihto ehdot tilin Sala sanaksi**
+**Suojaa Windows Hellon vaihtoehtoja tilin salasanalle**
 
-Siirry kohtaan **asetukset > asiakkaat > kirjautumisvaihtoehdot** (tai napsauta [tätä](ms-settings:signinoptions?activationSource=GetHelp)). Käytettävissä olevat kirjautumisvaihtoehdot näkyvät luettelossa. Esimerkiksi:
+Siirry asetukset **> tilit > kirjautumisasetukset** (tai napsauta [tätä).](ms-settings:signinoptions?activationSource=GetHelp) Käytettävissä olevat kirjautumisvaihtoehdot tulevat luetteloon. Esimerkiksi:
 
-![Kirjautumisvaihtoehdot.](media/sign-in-options.png)
+![Kirjautumisasetukset.](media/sign-in-options.png)
 
-Voit määrittää sen napsauttamalla tai napauttamalla jotakin vaihto ehtoa. Kun seuraavan kerran käynnistät tai avaat Windowsin, voit käyttää uutta vaihto ehtoa Sala sanan sijaan. 
+Määritä jokin vaihtoehdoista napsauttamalla tai napauttamalla sitä. Kun seuraavan kerran käynnistät Windowsin tai poistat sen lukituksen, voit käyttää uutta vaihtoehtoa salasanan sijaan. 
 
-**Kirjautuminen automaattisesti Windows 10: een**
+**Windows 10:ksi kirjautuminen automaattisesti**
 
-**Huomautus**: Automaattinen sisäänkirjautuminen on kätevää, mutta se sisältää tieto turva riskin etenkin, jos tieto koneesi on usean henkilön käytettävissä. 
+**Huomautus:** Automaattinen kirjautuminen on kätevää, mutta sisältää tietoturvariskin etenkin, jos tietokone on useiden käyttäjien käytettävissä. 
 
-1. Napsauta tai napauta tehtävä palkin **Käynnistä** -painiketta.
+1. Napsauta tai napauta **tehtäväpalkin** Käynnistä-painiketta.
 
-2. Kirjoita **netplwiz** ja avaa käyttäjä tunnukset-ikkuna painamalla ENTER-näppäintä.
+2. Kirjoita **netplwiz** ja avaa Käyttäjätilit-ikkuna painamalla Enter-näppäintä.
 
-3. Valitse **käyttäjä tilit**-kohdassa tili, johon haluat kirja utua automaattisesti, kun Windows käynnistyy.
+3. Valitse **Käyttäjätilit-kohdassa** tili, johon haluat kirjautua automaattisesti, kun Windows käynnistyy.
 
-4. Poista "käyttäjien on annettava käyttäjä nimi ja sala sana, jotta voit käyttää tätä tieto konetta"-valinta neliötä.
+4. Poista käyttäjien on annettava käyttäjänimi ja salasana tämän tietokoneen käyttöä varten -valintaruudun valinta.
 
-    ![Käyttäjien on annettava käyttäjä nimi ja sala sana-vaihto ehto.](media/users-must-enter-username.png)
+    ![Käyttäjien on annettava käyttäjänimi- ja salasana-vaihtoehto.](media/users-must-enter-username.png)
 
-5. Valitse **OK**. Sinua pyydetään antamaan ja vahvistamaan valitsemasi tilin sala sana. Valitse **OK** , jos haluat viimeistellä. Kun Windows 10 käynnistetään seuraavan kerran, se kirjautuu automaattisesti valitsemaasi tiliin.
+5. Valitse **OK**. Sinua pyydetään antamaan ja vahvistamaan valitsemasi tilin salasana. Lopeta **valitsemalla OK.** Seuraavan kerran, kun Windows 10 käynnistyy, se kirjautuu automaattisesti valitsemallesi tilille.

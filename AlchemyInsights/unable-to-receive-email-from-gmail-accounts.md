@@ -1,8 +1,8 @@
 ---
-title: Sähkö posti viestejä ei voi lähettää Gmail-tileiltä
+title: Sähköpostin vastaanottaminen Gmail-tileiltä ei onnistu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735448"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830390"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Sähkö posti viestejä ei voi lähettää Gmail-tileiltä
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Sähköpostin vastaanottaminen Gmail-tileiltä ei onnistu
 
-**KYSYMYS**
+**ONGELMA**
 
-Olemme tietoisia siitä, että jotkut käyttäjät eivät välttämättä voi saada sähkö postia Gmail-tileiltä. Tutkimme mahdollisia ongelmia.
+Olemme tietoisia siitä, että jotkut käyttäjät eivät ehkä voi vastaanottaa sähköpostia Gmail-tileiltä. Tutkimme parhaillaan mahdollista ongelmaa.
 
-**WORKAROUND**
+**VAIHTOEHTOINEN MENETELMÄ**
 
-Tarkista, ettet ole vahingossa estänyt Gmail-toimi aluetta, kun torjut yhden Gmail-käyttäjän.
+Varmista, että et ole vahingossa estänyt Gmail-toimialuetta, kun estät yhden Gmail-käyttäjän.
 
-1. Avaa [estettyjen lähettäjien luettelosi](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Avaa [estettyjen lähettäjien luettelo](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Jos Gmail.com on luettelossa, napsauta merkinnän vieressä olevaa roska kori kuvaketta ja paina **Tallenna**-näppäintä.
+2. Jos Gmail.com on luettelossa, napsauta merkinnän vieressä olevaa roskakorikuvaketta ja paina **Tallenna.**

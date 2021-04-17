@@ -2,7 +2,7 @@
 title: Tulostaminen paperin molemmille puolille
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801874"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831479"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Tulostaminen paperin molemmille puolille (kaksipuolinen tulostus)
 
-**Onko tulostimeni kaksisuuntainen tulostus?**
+**Pystyykö tulostimeni kaksipuolisen tulostuksen?**
 
-Tulostimen ominaisuuksien yhteenvedon tai käyttö oppaan pitäisi kertoa, pystyykö se tulostamaan paperin molemmille puolille, jotka tunnetaan myös nimellä "kaksipuolinen tulostus". Jos sinulla on Microsoft Office, voit selvittää sen myös avaamalla Office-sovelluksen, kuten Wordin tai Excelin, siirtymällä **tiedostoon > tulosta**, varmistamalla, että oikea tulostin on valittuna, ja etsimällä ominaisuudet asetukset-osasta. Esimerkiksi: 
+Tulostimen ominaisuuksien yhteenvedon tai käyttöoppaan pitäisi kertoa, pystyykö tulostin tulostamaan paperin molemmille puolille eli kaksipuoliseen tulostukseen. Jos sinulla on Microsoft Office, voit selvittää asian myös avaamalla Office-sovelluksen, kuten Wordin tai Excelin, valitsemalla Tiedosto **> Tulosta**, varmistamalla, että oikea tulostin on valittuna, ja etsimällä ominaisuuden Asetukset-osiosta. Esimerkiksi: 
 
 ![Tulostimen asetukset](media/print-settings.png)
 
-**Kaksipuolinen tulostaminen Microsoft Officessa**
+**Kaksipuolinen tulostus Microsoft Officessa**
 
-Jos tulostimesi voi tulostaa molemmilta puolilta, kun siirryt **tiedoston > tulosta** Office-sovelluksessa, näyttöön tulee vaihto ehto "Tulosta molemmille puolille", kuten yllä olevassa esimerkissä on esitetty.  Valitse haluamasi kaksipuolisen tulostuksen tyyppi (käännä pitkän reunan ympäri tai käännä lyhyen reunan ympäri) ja aloita tuloste valitsemalla **Tulosta** .
+Jos tulostin pystyy tulostamaan molemmille puolille ja siirryt Office-sovelluksessa Tiedosto **>** Tulosta -vaihtoehdon, näet vaihtoehdon Tulosta molemmille puolille, kuten edellä olevassa esimerkissä.  Valitse haluamasi kaksipuolisen tulostuksen tyyppi (käännä pitkän reunan ympäri  tai käännä lyhyen reunan ympäri) ja aloita tulostus valitsemalla Tulosta.
 
-**Kaksipuolinen tulostaminen mistä tahansa sovelluksesta**
+**Kaksipuolinen tulostus mistä tahansa sovelluksesta**
 
-Monissa sovelluksissa tulostettaessa näkyviin tulee yleinen tulosta-valinta ikkuna, joka näyttää tältä: 
+Useissa tulostetuissa sovelluksissa näkyy yleinen tulostusvalintaikkuna, joka näyttää tältä: 
 
-![Tulosta-valinta ikkuna](media/print-dialog.png)
+![Tulosta-valintaikkuna](media/print-dialog.png)
 
-Varmista, että oikea tulostin on valittuna, ja avaa sitten tulostimen asetukset-ikkuna valitsemalla **Asetukset** . Jos tulostin kykenee tulostamaan kaksipuoliseen tulostukseen, mahdollisuus ottaa tämä käyttöön nykyisessä tulostustyö näkymässä näkyy kyseisessä ikkunassa.
+Varmista, että oikea tulostin on valittuna, ja avaa **sitten** tulostimen asetusikkuna valitsemalla Asetukset. Jos tulostin pystyy kaksipuoliseen tulostukseen, mahdollisuus ottaa tämä käyttöön nykyisessä tulostustyössä näkyy tässä ikkunassa.

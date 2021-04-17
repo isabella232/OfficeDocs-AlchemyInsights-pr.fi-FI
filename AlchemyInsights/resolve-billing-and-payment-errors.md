@@ -2,33 +2,34 @@
 title: Laskutus- ja maksuvirheiden ratkaiseminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: bcef12a3b1d4438df07a67b73ec8b59ac0f7d8c3
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707895"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830698"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Laskutus- ja maksuvirheiden ratkaiseminen
 
-Seuraavassa on joitakin yleisiä lasku- ja maksuvirheisiin liittyviä skenaarioita
+Seuraavassa on joitakin yleisiä laskutus- ja maksuvirheisiin liittyviä skenaarioita
 
-- **Laskutettu summa** eroaa odottamastasi summasta.
-- Käyttöoikeudet lisättiin tai poistettiin tilauksesta. Kun käyttöoikeuksia muutetaan keskipitkällä aikavälillä, tämä näkyy seuraavassa laskussa. Saatat nähdä edellisen huoltokauden hyvityksen ja uudelleenlaskun, jotta voit ottaa tämän muutoksen huomioon.
+- Laskun  **summa** poikkeaa odotetusta.
+- Tilaukseen on lisätty tai siitä on poistettu käyttöoikeuksia. Jos käyttöoikeuksien määrä muuttuu kauden aikana, muutos näkyy seuraavassa laskussa. Laskussa saattaa olla aiempaa palvelukautta koskeva, muutoksesta johtuva hyvitys tai lisämaksu.
 - Tilaus on peruttu. Saat peruutuksen jälkeen laskun, joka sisältää erääntyvät maksut, joista on vähennetty mahdolliset hyvitykset.
 - Tilauksesi on uusittu uudelle kaudelle ja käyttöoikeuden hinta on muuttunut.
-- Lisätietoja laskustasi on kohdassa [Tietoja laskustasi.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
-- Sinulla on **ongelmia luottokorttimaksun käsittelyssä**
-- Siirry **hallintakeskuksessa** **Billing**   >   **Laskutuslaskut & maksut**   >   **[Maksutavat -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=2018806)** Valitse maksutapa ja varmista, että nimi, vanhentumispäivä ja osoite ovat oikein. Lisätietoja on kohdassa [Maksutapojen vianmääritys](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
+- Lisätietoja laskusta on seuraavassa artikkelissa: [Tietoa laskusta.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Sinulla on  **ongelmia luottokorttimaksun käsittelyssä**
+- Siirry **hallintakeskuksessa** kohtaan **Laskutus**  >  **Laskut ja maksut**  >  **[Maksutavat](https://go.microsoft.com/fwlink/p/?linkid=2018806)**. Valitse maksutapasi ja varmista, että nimi, voimassaoloaika ja osoite ovat oikein. Lisätietoja on artikkelissa [Maksutapojen vianmääritys](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
 
-- Sinun on **muutettava maksutapaa**. Voit [lisätä,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method) [päivittää,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details) [korvata](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method) tai [poistaa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method) maksutavan. Lisätietoja on [ohjeaiheessa Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+- Sinun on  **vaihdettava maksutapaa**. Voit [lisätä](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method),  [päivittää](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details),  [korvata](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method)  tai  [poistaa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method)  maksutavan. Lisätietoja on artikkelissa [Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 - 

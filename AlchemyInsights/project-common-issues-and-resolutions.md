@@ -2,7 +2,7 @@
 title: Projektin yleiset ongelmat ja ratkaisut
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830831"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Projektin yleiset ongelmat ja ratkaisut
 
-Seuraavassa on joitakin usein kysyttyjä aiheita Projectissa:
+Seuraavassa on joitakin Usein kysyttyjä aiheita Projectissa:
 
-1. **Project Onlinen käytön aloittaminen:**  [Aloita](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) Project Onlinen käyttö ja Opi, miten voit tehdä Project [Onlinen suunnittelemisesta, toteuttamisesta ja ylläpidosta](https://docs.microsoft.com/projectonline/project-online) ympäristössäsi. Tarkista tärkeät rajoitukset tarkistamalla [Project Online-ohjelmiston rajoitukset ja rajat](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) .
+1. **Project Onlinen käytön aloittaminen:**  [Aloita Project Onlinen](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) käyttö ja opi suunnittelemaan, toteuttamaan ja [ylläpitämään Project Onlinea](https://docs.microsoft.com/projectonline/project-online) ympäristössä. Tarkista [tärkeitä rajoituksia Project Online -ohjelmiston rajoitukset](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) ja rajat -kohdassa.
 
-2. **Project Onlinen käyttö oikeuden antaminen käyttäjille:** Lisää [henkilöitä, ryhmiä, resursseja ja Jaa Project Onlinea](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) , jotta voit tehdä yhteistyötä muiden kanssa. 
+2. **Anna käyttäjille Project Onlinen käyttöoikeudet:** Lisää [henkilöitä, ryhmiä, resursseja ja jaa Project Online,](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) jotta voit tehdä yhteistyötä muiden kanssa. 
 
-3. Project **Web Appin (PWA) suoritus kyvyn parantaminen Project Onlinessa:** Tutustu joidenkin yleisimpien Project Web App-asetusten [suorituskyky vaikutuksiin ja kompromisseista](https://docs.microsoft.com/projectonline/tune-project-online-performance) .
+3. **Project Web Appin (PWA) suorituskyvyn parantaminen Project Onlinessa:** Tarkastele [yleisimpiä](https://docs.microsoft.com/projectonline/tune-project-online-performance) Project Web App -asetuksia suorituskykyyn ja suorituskykyyn liittyvät vastineet.
 
-4. **Yhdistä Project Onlineen Project Desktop Client-sovelluksella:** Project Online- [Työpöytä sovelluksen](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) avulla voit muodostaa yhteyden Project Onlineen Microsoft 365-ympäristössäsi. 
+4. **Yhteyden muodostaminen Project Onlineen Project-työpöytäsovelluksella:** Project [Online -työpöytäsovelluksen avulla](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) voit muodostaa yhteyden Microsoft 365 -ympäristön Project Onlineen. 
 
-5. **Asenna Project Professional:** [Asenna ja käytä Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) Onlinen tilaus versioita ja project 2019-, 2016-tai 2013-version muita kuin tilaus versioita.
+5. **Project Professionalin asentaminen:** Asenna ja käytä [Project Professionalia](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) Project Onlinen tilausversioiden ja Project 2019:n, 2016:n tai 2013:n ei-tilausversioiden kanssa.
