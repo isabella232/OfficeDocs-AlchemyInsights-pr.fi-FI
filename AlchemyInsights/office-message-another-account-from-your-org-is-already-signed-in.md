@@ -1,24 +1,25 @@
 ---
-title: Office-sovellusten viesti – Pahoittelut, toinen organisaatiosi tili on jo kirjautuneena
+title: Microsoft 365 -sovellusten viesti – Pahoittelut, toinen organisaatiosi tili on jo kirjautuneena
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182575"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836240"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Office-sovellusten viesti – Pahoittelut, toinen organisaatiosi tili on jo kirjautuneena
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 -sovellusten viesti – Pahoittelut, toinen organisaatiosi tili on jo kirjautuneena
 
 Voit korjata ongelman toimimalla seuraavasti:
 
@@ -31,6 +32,8 @@ Voit korjata ongelman toimimalla seuraavasti:
 - Lisää tai yhdistä tili napsauttamalla **+**. Kirjoita kirjautumistiedot ja odota, että prosessi viimeistellään.
 
 - Käynnistä Office-sovellus ja kirjaudu uudelleen tarvittaessa. 
+
+**Vihje** Voimme diagnosoida ja korjata useita Windows-tietokoneiden Officen yleisiä sisäänkirjautumisongelmia puolestasi automaattisesti. Jos haluat käyttää automaattista työkaluamme, lataa ja suorita **[Microsoftin tuki- ja palautusavustaja](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Jos ongelma jatkuu, kokeile seuraavaa: 
 

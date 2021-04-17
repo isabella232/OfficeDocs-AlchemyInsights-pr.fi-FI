@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-sovellusten viesti-ei löytynyt Office-käyttö oikeuksia
+title: Microsoft 365 -sovellusviesti – liitettyjä Office-käyttöoikeuksia ei löytyi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802774"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836204"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-sovellusten viesti-ei löytynyt Office-käyttö oikeuksia
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 -sovellusviesti – liitettyjä Office-käyttöoikeuksia ei löytyi
 
 Voit korjata ongelman toimimalla seuraavasti:
 
@@ -39,10 +39,10 @@ Jos ongelma jatkuu, kokeile seuraavaa:
 
 - Palauta Officen aktivoinnin tila. Katso [Palauta aktivointitila Microsoft 365 -yrityssovelluksille](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Tarkista palo muurin, virustentorjuntaohjelman ja välitys palvelimen asetukset ja varmista, että ne eivät estä Microsoft 365-sovelluksia, jotka käyttävät Internetiä. 
+- Tarkista palomuurin, virustentorjuntaohjelman ja välityspalvelimen asetukset ja varmista, että ne eivät estä Microsoft 365 -sovellusten Internet-yhteyttä. 
 
 Lisätietoja vianmäärityksestä on seuraavissa artikkeleissa:
 
 [Ei käyttöoikeutta -virheet ja aktivointivirheet Officessa](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365-URL-osoitteet ja IP-osoite alueet](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365:n URL-osoitteet ja IP-osoitealue](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

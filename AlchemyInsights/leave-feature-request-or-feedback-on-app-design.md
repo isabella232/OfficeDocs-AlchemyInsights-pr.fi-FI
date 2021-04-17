@@ -1,8 +1,8 @@
 ---
-title: Toiminto pyynnön tai palautteen jättäminen sovelluksen rakenteeseen
+title: Sovelluksen rakenteen ominaisuuspyynnön tai palautteen antaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676519"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836528"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Toiminto pyynnön tai palautteen jättäminen sovelluksen rakenteeseen
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Sovelluksen rakenteen ominaisuuspyynnön tai palautteen antaminen
 
-Arvostamme sitä, että jaat ajatuksesi, kun jatkamme työskentelyä Outlookissa. *Uservoice* on foorumi, jossa voit jättää palautetta ja äänestää toisten ajatuksista.  
+Arvostamme, että jaat ajatuksesi, kun jatkamme Työskentelyä Outlookin kanssa. *UserVoice* on keskustelupalsta, jossa voit antaa palautetta ja äänestää muiden ideoita.  
 
-Jos haluat jättää meille idean: 
+Anna meille idea: 
 
-**Asetukset > ohje & palaute > Ehdota ominaisuutta > Julkaise idea** 
+**Asetukset > ohjeen & ja > ehdota ominaisuutta > idean julkaiseminen** 
 
-**Välitä, miten nimesi/Sähkö posti osoitteesi näkyy?**
+**Miten nimesi/sähköpostiosoitteesi näkyy?**
 
-Kun lisäät kommentin aiemmin luotuun toiminto pyyntöön, sovellus lisää automaattisesti joko nimesi tai sähkö posti osoitteesi sovelluksen määrittämään päätiliisi. Jos haluat valita, mikä nimi näkyy, sinun on lähetettävä **Uusi** ominaisuus pyyntö. 
+Kun lisäät kommentin aiemmin luotuun ominaisuuspyyntöön, sovellus täyttää automaattisesti nimesi tai sähköpostiosoitteesi ensisijaisessa sovelluksessa määritettyä tiliä varten. Jos haluat valita, mikä nimi näytetään, sinun on lähetä **uusi ominaisuuspyyntö.** 
 
-Pyynnön lähettäminen on yksinkertainen kolmivaiheinen prosessi. Kolmannella ja viimeisellä sivulla näkyy rivi Sähkö posti osoitteelle (pakollinen) ja rivi nimeäsi varten. Tässä voit valita, miten nimesi näkyy, tai voit lähettää ajatuksen nimettömästi. 
+Pyynnön lähettäminen on yksinkertainen 3-vaiheinen prosessi. Kolmannella ja viimeisellä sivulla näkyy sähköpostiosoitteesi rivi (pakollinen) ja nimesi rivi. Tässä voit valita, miten nimesi näkyy, tai voit lähettää idean nimettömänä. 
 
-**Huomautus:** Sinun on ehkä muutettava myös Sähkö posti osoitetta, joka on automaattisesti täytetty tällä sivulla. Jos nimesi on määritetty tietyllä tavalla Sähkö posti ohjelman asetuksissa, asetukset voivat ohittaa palautteen lähettämisen nimettömästi. 
+**Huomautus:** Voit myös joutua muuttamaan tällä sivulla automaattisesti täydennettyä sähköpostiosoitetta. Jos nimesi on määritetty tietyllä tavalla sähköpostisovelluksen asetuksissa, asetuksillasi saattaa olla mahdollista muuttaa palautelähetyksen nimettömäksi. 
