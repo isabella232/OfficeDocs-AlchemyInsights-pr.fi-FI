@@ -1,8 +1,8 @@
 ---
-title: Estä vanha todennus Azure AD:lle ehdollisen käyttöoikeuden avulla
+title: Estä vanha todennus Azure AD:ssä ehdollisen käyttöoikeuden avulla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06cfee003edae01b43f4c998485b91f256611a42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685487"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820139"
 ---
-# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a><span data-ttu-id="ba507-102">Estä vanha todennus Azure AD:lle ehdollisen käyttöoikeuden avulla</span><span class="sxs-lookup"><span data-stu-id="ba507-102">Block legacy authentication to Azure AD with Conditional Access</span></span>
+# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a><span data-ttu-id="32eed-102">Estä vanha todennus Azure AD:ssä ehdollisen käyttöoikeuden avulla</span><span class="sxs-lookup"><span data-stu-id="32eed-102">Block legacy authentication to Azure AD with Conditional Access</span></span>
 
-<span data-ttu-id="ba507-103">Suositellut asiakirjat:</span><span class="sxs-lookup"><span data-stu-id="ba507-103">Recommended Docs:</span></span>
+<span data-ttu-id="32eed-103">Suositellut asiakirjat:</span><span class="sxs-lookup"><span data-stu-id="32eed-103">Recommended Docs:</span></span>
 
-- [<span data-ttu-id="ba507-104">Estä vanha todennus Azure AD:lle ehdollisen käyttöoikeuden avulla</span><span class="sxs-lookup"><span data-stu-id="ba507-104">Block legacy authentication to Azure AD with Conditional Access</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [<span data-ttu-id="ba507-105">Käytön estäminen, kun Azure Active Directoryn ehdollinen käyttöoikeus havaitsee istunnon riskin</span><span class="sxs-lookup"><span data-stu-id="ba507-105">Block access when a session risk is detected with Azure Active Directory Conditional Access</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [<span data-ttu-id="32eed-104">Estä vanha todennus Azure AD:ssä ehdollisen käyttöoikeuden avulla</span><span class="sxs-lookup"><span data-stu-id="32eed-104">Block legacy authentication to Azure AD with Conditional Access</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
+- [<span data-ttu-id="32eed-105">Käytön estäminen, kun Azure Active Directoryn ehdollinen käyttöoikeus havaitsee istunnon riskin</span><span class="sxs-lookup"><span data-stu-id="32eed-105">Block access when a session risk is detected with Azure Active Directory Conditional Access</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
