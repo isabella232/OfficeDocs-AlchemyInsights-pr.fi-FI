@@ -2,7 +2,7 @@
 title: Teams-hallintakeskus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670361"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826376"
 ---
 # <a name="teams-admin-center"></a>Teams-hallintakeskus
 
@@ -32,5 +32,5 @@ Jos käyttäjiä ei näy Teams-hallintakeskuksessa, varmista seuraavat asiat:
 
 - Oletko luonut käyttäjiä tai määrittänyt käyttöoikeuksia viimeksi kuluneiden 24 tunnin aikana? Varmista, että odotat vähintään 24 tuntia ennen tukipyynnön avaamista.
 - Varmista, että olet määrittänyt oikeat käyttöoikeudet.
-- Jos käytössäsi on paikallinen Active Directory-hakemisto, varmista, että [paikallisen Active Directoryn ProxyAddresses-kentässä oleva Msrtcssip-Primaruseraddress-tai SIP-osoitteen arvo on yksilöllinen ja että muoto vastaa](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: käyttäjän**käyttäjä nimeä** [Microsoft 365-hallinta keskuksesta](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Jos haluat säilyttää Skype for Business-palvelimen käyttöönoton ja pitää käyttäjät paikallisessa verkossa ja online-tilassa: Seuraa **"Määritä yhdistelmä käyttö teamsin ja Skype for Business Onlinen avulla"** Skype for Business Serverin ohjaus paneelissa ja siirrä käyttäjät online-tilassa.
+- Jos käytössäsi on paikallinen Active Directory, varmista, että [paikallisen Active Directoryn ProxyAddresses-kentän msRTCSIP-PrimaryUserAddress-](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) tai SIP-osoite on yksilöllinen ja muoto vastaa muotoa **sip:** Käyttäjän käyttäjänimi [Microsoft 365 -hallintakeskuksesta.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Jos aiot pitää Skype for Business Serverin käyttöönoton ja määrittää käyttäjät kotikäyttöön paikallisesti ja verkossa: seuraa Skype for Business Serverin Ohjauspaneelissa **olevaa "Set up hybrid with Teams and Skype for Business Online"** (Teamsin ja Skype for Business Onlinen yhdistelmäympäristön määrittäminen) -ohjetta ja siirrä käyttäjiä verkossa.

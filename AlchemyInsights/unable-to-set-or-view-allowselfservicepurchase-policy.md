@@ -1,8 +1,8 @@
 ---
-title: Allowseldo-osto käytäntöä ei voi asettaa tai tarkastella
+title: AllowSelfServicePurchase-käytännön joukon tai tarkasteleminen ei onnistu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735196"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826088"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Allowseldo-osto käytäntöä ei voi asettaa tai tarkastella
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase-käytännön joukon tai tarkasteleminen ei onnistu
 
-Näyttöön tulee seuraava virhe sanoma, kun yrität asettaa tai tarkastella Allowselksservicepurchase-käytäntöä:
+Kun yrität määrittää tai tarkastella AllowSelfServicePurchase-käytäntöä, näyttöön tulee seuraava virhesanoma:
 
-*HandleError: ei voitu noutaa tuote käytäntöä ja PolicyId ' AllowSelfServicePurchase ', ErrorMessage-perustana oleva yhteys suljettiin: Odottamaton virhe lähetettäessä.*
+*HandleError: Tuotekäytännön noutaminen epäonnistui, kun PolicyId on AllowSelfServicePurchase, ErrorMessage - Pohjana oleva yhteys suljettiin: Lähetystä käsiteltäessä tapahtui odottamaton virhe.*
 
-Tämä voi johtua siitä, että TLS on vanha versio. Jos haluat yhdistää MSCommerce-palvelun, sinun on käytettävä TLS 1,2 tai uudempaa.  
+Tämä voi johtua TLS (Transport Layer Security) -suojausversion vanhemman version vuoksi. Jos haluat yhdistää MSCommerce-palvelun, sinun on käytettävä TLS 1.2:ta tai sitä uudempia.  
 
-Kokeile seuraavia vaiheita, jos haluat ottaa TLS-protokollan käyttöön tai asettaa sen 1,2, vahvistaa ja yrittää uudelleen.
- 1. PowerShell-komento kehotteessa (PS C: \) Kirjoita seuraava komento, jos haluat määrittää TLS-protokollan versioon 1,2:
+Seuraavien vaiheiden avulla voit ottaa TLS-protokollan käyttöön tai määrittää sen arvoksi 1.2, tarkistaa ja yrittää uudelleen.
+ 1. Määritä TLS-protokolla versioksi 1.2 kirjoittamalla PowerShell-komentokehotteeseen (PS C: määritä \) TLS-protokolla versioon 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Tarkista käytössä oleva TLS-protokolla ja seuraava komento:
+2. Varmista, että TLS-protokollat ovat käytössä, seuraavalla komennolla:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Yritä hakea tai päivittää komentoja tarvittaessa uudelleen.
+3. Yritä tarvittaessa Hae- tai Päivitä-komentoja uudelleen.
 

@@ -1,8 +1,8 @@
 ---
-title: Desktop Analytics-tilin sulkeminen
+title: Desktop Analytics -tilin sulkeminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825764"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Desktop Analytics-tilin sulkeminen
+# <a name="how-to-close-your-desktop-analytics-account"></a>Desktop Analytics -tilin sulkeminen
 
-Jos määrität Työpöytä analytiikan ympäristössäsi ja päätät, että se on poistettava, käytä seuraavaa linkkiä:
+Jos määrität työpöytäanalyysin ympäristössäsi ja haluat poistaa sen, käytä seuraavaa linkkiä:
 
 [Tilin sulkeminen](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Ensimmäinen vaihe on ottaa yhteyttä Microsoft-tukeen. Avaa tuki palvelu pyyntö, jos haluat sulkea Työpöytä analytiikka tilin. Älä jatka lisä vaiheita, ennen kuin saat vahvistuksen siitä, että Microsoft sulki tilisi.
+Ota ensin yhteyttä Microsoft-tukeen. Sulje Desktop Analytics -tilisi avaamalla tukipyyntö. Älä jatka lisävaiheita, ennen kuin saat vahvistuksen siitä, että Microsoft on sulkenut tilisi.

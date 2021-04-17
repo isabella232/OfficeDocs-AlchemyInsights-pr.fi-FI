@@ -1,8 +1,8 @@
 ---
-title: Niiden henkilöiden hallinta, jotka voivat luoda Microsoft 365-ryhmiä
+title: Hallitse, kuka voi luoda Microsoft 365 -ryhmiä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694742"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827033"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Niiden henkilöiden hallinta, jotka voivat luoda Microsoft 365-ryhmiä
+# <a name="manage-who-can-create-microsoft-365-groups"></a>Hallitse, kuka voi luoda Microsoft 365 -ryhmiä
 
-Oletusarvoisesti kuka tahansa organisaatiossa voi luoda O365-ryhmiä.
+Oletusarvoisesti kuka tahansa organisaatiossasi voi luoda O365-ryhmiä.
   
-Jos haluat muuttaa sitä, voit luoda PowerShellin, joka rajoittaa ryhmän luonnin käyttäjien alijoukkoon.
+Jos haluat muuttaa tätä, voit luoda PowerShellillä käyttöoikeusryhmän, joka rajoittaa ryhmien luomisen vain osalle käyttäjistä.
   
-Noudata vaiheittaisia ohjeita: Hallitse sitä, [ketkä voivat luoda Microsoft 365-ryhmiä](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) .
+Noudata vaiheittaiset ohjeet täällä: Microsoft [365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) -ryhmien luontien hallinta
   
 

@@ -1,8 +1,8 @@
 ---
-title: Office-asiakas ohjelman tilaus ilmoitus
+title: Tilausilmoitus Office-asiakasohjelmassa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: f51d1fe248be9f8b71dc682851622ae6ed171f71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5682ed0496f17ab4a119aa9608d5e05de7bf060e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773664"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827933"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Office-asiakas ohjelman tilaus ilmoitus?
+# <a name="subscription-notice-in-your-office-client"></a>Tilausilmoitus Office-asiakasohjelmassa?
 
-Näyttää siltä, että näet Office-asiakas ohjelmasi tila uksen tilaan liittyvän ilmoituksen. Lisä tietoja ongelman korjaamisesta on tässä artikkelissa: [tilaus ilmoitus tulee näkyviin, kun avaan Microsoft 365-sovelluksen](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx) .
+Näyttää siltä, että näet Office-asiakasohjelmassa tilauksen tilaan liittyvän ilmoituksen. Lisätietoja ongelman korjaamisesta on tässä artikkelissa: Tilausilmoitus tulee näkyviin, kun avaan [Microsoft 365 -sovelluksen](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Jos tilauksesi on ajan tasalla, olet saattanut osua väliaikaiseen ongelmaan, joka aiheutti sen, että Office-Akti vointi epäonnistui. Voit välttää nämä viestit, kuten tarkistaa tieto koneen kellon ajan, käyttää Officea järjestelmänvalvojana ja kirja utua Akti vointiin, noudattamalla yksinkertaisia vaiheita. Tässä artikkelissa on yksityiskohtaisia ohjeita ongelmien korjaamiseen: [Lisensoimattomat tuote-ja aktivointi virheet](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Jos tilauksesi on ajan tasalla, olet ehkä saanut tilapäisen ongelman, joka aiheutti Officen aktivoinnin epäonnistumisen. Voit välttää tällaiset viestit yksinkertaisilla toimilla, kuten tarkistamalla tietokoneen ajan, suorittamalla Officen järjestelmänvalvojana ja kirjautumalla sisään aktivointia varten. Yksityiskohtaiset ohjeet näiden ongelmien korjaamiseen ovat tässä artikkelissa: Ei käyttöomista [-virhe ja aktivointivirheet.](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)
   
-Jos nämä eivät toimi puolestasi, ota meihin yhteyttä alla olevien linkkien avulla ja autamme mielellämme.
+Jos nämä eivät auta, ota meihin yhteyttä alla olevien linkkien avulla, niin autamme mielellämme.

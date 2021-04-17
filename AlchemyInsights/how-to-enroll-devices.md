@@ -2,7 +2,7 @@
 title: Laitteiden rekisteröiminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 8fe73750296cb163789e3b7639f6b2404252bc44
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088714"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825656"
 ---
 # <a name="how-to-enroll-devices"></a>Laitteiden rekisteröiminen
 
-Rekisteröinnin perusteet ovat seuraavat:
+Rekisteröitymisen perusteet ovat seuraavat:
 
-- Lisä tietoja Intune-rekisteröinnistä [on artikkelissa mikä on laite rekisteröinti Intunella?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Lisätietoja Intune-rekisteröinnistä on kohdassa Mikä on intune [laitteen rekisteröinti?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Lisä tietoja tiettyjen ympäristöjen, käyttö ohjeiden ja opetus ohjelmien rekisteröinnistä on kohdassa [laitteiden rekisteröiminen Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) -portaalissa.
+- Lisätietoja laitteista, toimintaoppaita ja opetusohjelmia varten on kohdassa Laitteiden ilmoittaminen [Microsoft Intune -portaalissa.](https://docs.microsoft.com/mem/intune/enrollment/)
 
-**Laitteen rekisteröinti ongelmien vian määritys**
+**Laitteen rekisteröintiongelmien vianmääritys**
 
-- [Laitteen rekisteröinnin vian määritys Microsoft Intunella](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Laitteen rekisteröinnin vianmääritys Microsoft Intunessa](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [IOS:n/iPadOS-laite rekisteröinnin vian määritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [iOS-/iPadOS-laitteen rekisteröinnin vianmääritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Windowsin laite rekisteröinti ongelmien vian määritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Windows-laitteen rekisteröintiongelmien vianmääritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Windows 10-automaattisen rekisteröinnin vian määritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Windows 10:n automaattisen rekisteröinnin vianmääritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Androidin yritys laitteiden ongelmien vian määritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Android Enterprise -laitteen ongelmien vianmääritys](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 

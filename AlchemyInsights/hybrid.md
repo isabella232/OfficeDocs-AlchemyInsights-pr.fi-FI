@@ -1,8 +1,8 @@
 ---
-title: yhdistelmä
+title: yhdistelmäympäristö
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: e89485096fdf0eb4f2b116d367616efe9e854a55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 549a165914bb8fd89c05f0b41d4b0f1e5c0f59d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778976"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825620"
 ---
-# <a name="hybrid-mdm"></a>Yhdistelmä-MDM
+# <a name="hybrid-mdm"></a>MDM-yhdistelmäympäristö
 
-Jos haluat lisä tietoja hybridi-mobiililaitteiden käyttämisestä Microsoft Endpoint Configuration Managerillä ja Microsoft Intunella, tutustu Ohje aiheeseen [yhdistelmä ympäristön määrittäminen kokoonpanon hallinnalla ja Microsoft Intunella](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).
+Lisätietoja yhdistelmäkokoonpanon hallinnasta Microsoft Endpoint Configuration Managerin ja Microsoft Intunen kanssa on kohdassa MTUNE-yhdistelmäympäristön määrittäminen Configuration Managerin ja [Microsoft Intunen avulla.](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm)

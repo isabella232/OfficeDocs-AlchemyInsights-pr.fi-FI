@@ -2,21 +2,22 @@
 title: Kaatuuko Teams?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354049"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826268"
 ---
 # <a name="teams-client-crashing"></a>Kaatuuko Teams?
 
@@ -26,19 +27,19 @@ Jos Teams-ohjelmasi kaatuu, kokeile seuraavia keinoja:
 
 - Varmista, että kaikki [Microsoft 365:n URL-osoitteet ja osoitealueet](https://docs.microsoft.com/microsoftteams/connectivity-issues) ovat käytettävissä.
 
-- Kirjaudu sisään vuokraajan järjestelmänvalvojan tilillä ja tarkista [Palvelun kunnon hallintapaneelista,](https://docs.microsoft.com/office365/enterprise/view-service-health) ettei käyttökatkoja tai palvelun heikkenemistä ole.
+- Kirjaudu sisään vuokraajan järjestelmänvalvojatilillä ja tarkista [Palvelun kunnon koontinäytöstä](https://docs.microsoft.com/office365/enterprise/view-service-health), että palvelussa ei ole käyttökatkoja tai rajoituksia.
 
-- Teams-sovelluksen asennuksen poistaminen ja asentaminen uudelleen (linkki)
-    - Siirry tietokoneen %appdata%\Microsoft\teams\-kansioon ja poista kaikki kyseisen kansion tiedostot.
-    - [Lataa ja asenna Teams-sovellus](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)ja asenna Teams järjestelmänvalvojana (napsauta teams-asennusohjelmaa hiiren kakkospainikkeella ja valitse Suorita järjestelmänvalvojana, jos sellainen on).
+- Teams-sovelluksen asennuksen poistaminen ja uudelleenasentaminen (linkki)
+    - Siirry tietokoneen %appdata%\Microsoft\teams\-kansioon ja poista kaikki tämän hakemiston tiedostot.
+    - [Lataa ja asenna Teams-sovellus](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), ja jos mahdollista, asenna Teams järjestelmänvalvojana (napsauta Teams-asennusohjelmaa hiiren kakkospainikkeella ja valitse Suorita järjestelmänvalvojana, jos saatavilla).
 
-Jos Teams-asiakkaasi kaatuu edelleen, voitko toistaa ongelman? Jos näin on:
+Jos Teams-asiakasohjelmasi kaatuu edelleen, voitko toistaa ongelman? Jos näin on:
 
-1. Ota askeleet vaiheiden avulla.
-    - Sulje kaikki tarpeettomat tai luottamukselliset sovellukset.
-    - Käynnistä Steps Recorder ja toista ongelma, kun olet kirjautunut sisään haavoittuvuuden sisältävällä käyttäjätilillä.
-    - [Kerää joukkueet lokit, jotka kaapata kirjataan repro vaiheet](https://docs.microsoft.com/microsoftteams/log-files). **Huomautus**: Varmista, että sieppaat vaikutusalueen vaikuttaneen käyttäjän kirjautumisosoitteen.
-    - Kerää vedos- ja/tai vikasäilön tiedot (Windows). Käynnistä Windows Powershell tietokoneessa, jossa kaatuminen tapahtuu, ja suorita seuraavat komennot:
+1. Käytä vaiheiden tallenninta vaiheiden tallentamiseen.
+    - Sulje KAIKKI tarpeettomat tai luottamukselliset sovellukset.
+    - Käynnistä vaiheiden tallennin ja toista ongelma kirjautuneena sisään sillä käyttäjätilillä, jota ongelma koskee.
+    - [Kerää teams-lokit, jotka kirjaavat tallennetut toistetut vaiheet](https://docs.microsoft.com/microsoftteams/log-files). **Huomautus**: Varmista, että otat kuvan sen käyttäjän kirjautumisosoitteen, jota ongelma koskee.
+    - Kerää varmuuskopion ja/tai vikasäiliön tiedot (Windows). Käynnistä Windows PowerShell siinä koneessa, jossa kaatuminen ilmenee, ja suorita seuraavat komennot:
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -46,4 +47,4 @@ Jos Teams-asiakkaasi kaatuu edelleen, voitko toistaa ongelman? Jos näin on:
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. Liitä tiedosto tukikoteloosi.
+2. Liitä tiedosto tukitapaukseen.

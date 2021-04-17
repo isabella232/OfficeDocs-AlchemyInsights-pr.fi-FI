@@ -1,8 +1,8 @@
 ---
-title: Skype-teema catcall
+title: Skype-teeman tunnus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826484"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Skype for Businessin yleiset ongelmat ja ratkaisut 
 
-Jos haluat lisä tietoja Skype for Businessista, voit kuvata ongelman lyhyesti, mukaan lukien virheet, käyttämäsi ominaisuudet ja niin edelleen. 
+Jos sinulla on kysyttävää Skype for Businessista, muotoile kysymyksesi lyhyesti uudelleen kuvaamaan ongelmaasi, kuten virheitä ja käytössäsi olevia ominaisuuksia. 
 
 Seuraavassa on joitakin usein kysyttyjä aiheita:
 
-**Skype for Businessin kirjautumisen vian määritys:** Varmista ensin, että [Skype for Business-palvelu](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) on terve. Jos näin on, tarkista [Skype for Business Onlinen kirjautumisvirheiden vian määritys](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) , jotta voit poistaa kirjautumisongelmien yleisimmät syyt.
+**Skype for Business -kirjautumisen vianmääritys:** Varmista ensin, että [Skype for Business -palvelu on](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) kunnossa. Jos se on, tutustu [Skype for Business Onlinen kirjautumisvirheiden](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) vianmääritykseen ja poista kirjautumisvaikeuksia aiheuttavat yleiset syyt.
  
-**Ääni-ja video toimintojen vian määritys Skype for Businessissa:** Tutustu [Skype for Businessin yleisiin ääni-ja video ongelmiin liittyviin ratkaisuihin](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
+**Äänen ja videon vianmääritys Skype for Businessissa:** Tutustu [Skype for Businessin yleisiin ääni- ja video-ongelmiin.](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
 
-**Skype for Businessin yhteys ongelmien vian määritys:** Tutustu [Skype for Businessin yleisiin yhteys ongelmiin liittyviin ratkaisuihin](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
+**Skype for Businessin yhteysongelmien vianmääritys:** Tutustu [Skype for Businessin yleisiin yhteysongelmiin.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-Yhteyden **pito ulkoisiin Skype for Business-yhteys henkilöihin (liittoon):** [Skype for Businessin määrittäminen ottamaan yhteyttä ulkoisiin Skype for](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)Business-käyttäjiin.
+**Viestintä ulkoisten Skype for Business -yhteyshenkilöiden kanssa (liittoutuneet):** Skype for Businessin asettaminen [ottamaan yhteyttä ulkoisiin Skype for Business -käyttäjiin.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-**Kommunikoi Skype-yhteys henkilöiden kanssa:** [Anna Skype for Business-käyttäjien lisätä Skype-kontakteja](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
+**Viestintä Skype-yhteyshenkilöiden kanssa:** [Anna Skype for Business -käyttäjien lisätä Skype-yhteystietoja.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Skype for Businessin päivittäminen Microsoft teamsiin:** Tarkista [Microsoft teams-päivityksen käytön](https://docs.microsoft.com/microsoftteams/upgrade-start-here) aloittaminen ja Opi lisää Microsoft teamsin [rinnakkaiskäytöstä](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) , kun otat teamsin käyttöön organisaatiossa. 
+**Skype for Businessin päivittäminen Microsoft Teamsiksi:** Tarkista [Microsoft Teams -päivityksen käytön aloittaminen](https://docs.microsoft.com/microsoftteams/upgrade-start-here) ja lue lisää Microsoft Teamsin rinnakkaisesta käyttöstä, kun hyväksyt Teamsin organisaatiossasi. [](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) 

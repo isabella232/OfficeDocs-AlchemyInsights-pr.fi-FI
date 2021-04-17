@@ -1,8 +1,8 @@
 ---
-title: Teamsin analytiikka ja raportit teamsin hallinta keskuksessa
+title: Teamsin analytiikka ja raportit Teams-hallintakeskuksessa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826304"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teamsin analytiikka ja raportit teamsin hallinta keskuksessa
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teamsin analytiikka ja raportit Teams-hallintakeskuksessa
 
-Teamsin hallinta keskuksessa on käytettävissä useita **käyttö-ja toiminta raportteja** , kuten käyttäjän toiminta, laitteen käyttö ja live-tapahtumien käyttö. Lisä tietoja on artikkelissa [Microsoft teamsin analytiikka ja raportit](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+Teams-hallintakeskuksessa **on saatavilla useita käyttö-** ja toimintaraportteja, kuten käyttäjien aktiivisuus, laitteiden käyttö ja live-tapahtumien käyttö. Lisätietoja on kohdassa [Microsoft Teamsin analytiikka ja raportointi.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-Huomaa **:** Microsoft 365-hallinta keskuksessa on käytettävissä myös muita teamsin käyttö-ja toiminta raportteja. Katso, [Miten teamsin raportit näkyvät raportit-koonti näytössä](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**Huomautus:** Microsoft 365 -hallintakeskuksessa on saatavilla muita Teamsin käyttö- ja toimintaraportteja. Katso [Teams-raporttien tarkasteleminen Raportit-koontinäytössä](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-Jos etsit raportointia tai Analyticsia, jotka liittyvät **puhe** luun tai puhe luiden **laatuun**, Katso lisä tietoja artikkelista [QoS-ja puhelun laadun valvonta Microsoft teamsissa](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) liittyvissä ohjeissa.
+Jos etsit puheluihin tai puhelujen laatuun liittyvää raportointia tai analysointia, katso aiheeseen liittyvät ohjeet artikkelista [QoS:n](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) ja puhelun laadun valvonta Microsoft Teamsissa.  
 
