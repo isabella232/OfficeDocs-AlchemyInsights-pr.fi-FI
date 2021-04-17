@@ -1,8 +1,8 @@
 ---
-title: Azure-Sähkö posti laskutus
+title: Azure-sähköpostilasku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922058"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820787"
 ---
-# <a name="azure-email-invoicing"></a>Azure-Sähkö posti laskutus
+# <a name="azure-email-invoicing"></a>Azure-sähköpostilasku
 
-Sinulla on oltava tilin järjestelmänvalvojan rooli tila uksessa tai tuki palvelu paketille, jotta voit ottaa laskun vastaan sähköpostitse. Sähkö posti laskut ovat saatavilla vain tila uksille ja tuki paketeille, ei vara uksille tai Azure Marketplace-ostoille. Kun olet valinnut-ohjelmassa, voit lisätä myös muita käyttäjiä, jotka saavat laskun sähköpostitse. Noudata näitä ohjeita.
+Sinulla on oltava tilauksen tai tukisuunnitelman järjestelmänvalvojan rooli, jotta voit vastaanottaa sen laskun sähköpostitse. Sähköpostilaskut ovat saatavilla vain tilauksiin ja tukipalvelusuunnitelmiin, eivät varauksiin tai Azure Marketplace -ostoksiin. Kun olet valinnut vaihtoehdot, voit lisätä vastaanottajia, jotka saavat laskun myös sähköpostitse. Noudata näitä ohjeita.
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-2. Hae **kustannusten hallinta + laskutus**.
-3. Valitse **laskut** vasemmalta puolelta.
-4. Valitse Azure-tila uksen tai tuki palvelu paketin tilaus ja valitse sitten **vastaanoton lasku sähköpostitse**.
-5. Valitse **Sähkö posti lasku** ja hyväksy ehdot.
-6. Lasku lähetetään haluamaasi viestintä Sähkö posti viestiin. Päivitä Sähkö posti viesti valitsemalla **Päivitä profiili** .  
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/).
+2. Hae kohdasta **Kustannustenhallinta ja laskutus**.
+3. Valitse vasemmalta puolelta **Laskut**.
+4. Valitse Azure-tilauksesi tai tukipalvelupakettisi ja valitse sitten **Vastaanota lasku sähköpostitse**.
+5. Valitse **Sähköpostilasku** ja hyväksy ehdot.
+6. Lasku lähetetään haluamaasi sähköpostiosoitteeseen. Valitse **Päivitä profiili** päivittääksesi sähköpostiosoitteen.  
 
-    Haluat ehkä jakaa tilaus-ja tuki palvelu paketille laskut kuukausittain kirjanpito ryhmän kanssa tai lähettää ne johonkin toiseen Sähkö posti osoitteeseen.  
+    Haluat ehkä jakaa laskut tilauksestasi ja tukisuunnitelmastasi kuukausittain kirjanpitotiimisi kanssa tai lähettää ne yhteen muista sähköpostiosoitteistasi.  
 
-7. Noudata edellä annettuja ohjeita, jos haluat ensin ottaa laskun käyttöön sähköpostitse ja valita sitten  **Määritä vastaanottajat.**
-8. Kirjoita Sähkö posti osoite ja valitse sitten **Lisää vastaanottaja.** Voit lisätä useita Sähkö posti osoitteita.
-9. Kun olet lisännyt kaikki sähkö posti osoitteet, valitse **valmis** näytön alareunasta.
+7. Seuraa näitä ohjeita ottaaksesi käyttöön sähköpostilaskutuksen ja valitse sitten **Määritä vastaanottajat.**
+8. Syötä sähköpostiosoite ja valitse sitten **Lisää vastaanottaja**. Voit lisätä useita sähköpostiosoitteita.
+9. Kun olet lisännyt kaikki sähköpostiosoitteet, valitse **Valmis** näytön alareunasta.

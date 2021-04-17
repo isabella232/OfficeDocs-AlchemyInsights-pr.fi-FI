@@ -1,8 +1,8 @@
 ---
-title: Roska postin esto-5.7.23
+title: Roskaposti - 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821408"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Sähkö postin välitys ongelmien korjaaminen virhe koodissa 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Sähköpostin toimitusongelman korjaus virhekoodille 5.7.23
 
-Varmista, että toimi alueesi SPF DNS-tietue on julkisesti saatavilla olevassa SPF-tai DNS-tietueiden tarkistuksessa verkossa.
+Tarkista toimialueen SPF DNS -tietue internetissä yleisesti saatavilla olevan SPF- tai DNS-tietueiden tarkistuspalvelun kautta.
 
-Varmista, että Microsoft ei ole määrittänyt lähtevää viestiä roska postiksi, ja reititetty [suuren riskin lähetys varannon](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)kautta. Suuren riskin vastaanotto varannon viestit eivät läpäise SPF-tarkistuksia, joten kohde Sähkö posti organisaatio ei hyväksy niitä.
+Varmista, että Microsoft ei ole tunnistanut lähtevää viestiä roskapostiksi ja että se reititettiin Suuren riskin [toimitus poolin kautta.](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages) Suuren riskin toimitus poolin viestit eivät läpäise SPF-tarkistuksia, joten kohdesähköpostiorganisaatio ei hyväksy niitä.
 
-Jos ongelma jatkuu, sinun on ehkä otettava yhteyttä sen Sähkö posti palvelimen järjestelmänvalvojaan, johon yrität lähettää sähkö postia. Merkitse muistiin palautus viestissä oleva tarkka ulkoinen virhe. Microsoft-tuki ei ehkä pysty auttamaan.
+Jos ongelma jatkuu, sinun on ehkä otettava yhteyttä sen sähköpostipalvelimen järjestelmänvalvojaan, jolle yrität lähettää sähköpostia. Merkitse yksityiskohtainen ulkoinen virhe muistiin ilmoituksen ilmoitusviestin ilmoituksista. Microsoft-tuki ei ehkä voi auttaa enempää.

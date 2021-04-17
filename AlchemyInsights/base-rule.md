@@ -2,7 +2,7 @@
 title: Perussääntö
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820499"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>MDM-myöntäjän ongelmien vian määritys Microsoft Intunella
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Microsoft Intunen MDM-myöntäjän ongelmien vianmääritys
 
-Seuraavassa on joitakin hyödyllisiä artikkeleita Intune-käytön aloittamisesta:
+Seuraavassa on joitakin Hyödyllisiä artikkeleita Intunen käytön aloittaminen:
 
-- [Mikä on Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Intusen määrittäminen ensimmäistä kertaa](https://docs.microsoft.com/intune/setup-steps)
-- [Intune-toiminnon käyttäminen ja selaaminen](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Mikä Intune on?](https://docs.microsoft.com/intune/what-is-intune)
+- [Intunen ensimmäinen asetus](https://docs.microsoft.com/intune/setup-steps)
+- [Intunen käyttäminen ja siirtyminen](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Jos sinulla on ongelmia MDM-myöntäjän kanssa, Lue [Intune MDM-viran omaisen muuttaminen](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Jos sinulla on ongelmia MDM-myöntäjän kanssa, katso [Muuta Intunen MDM-myöntäjää.](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)

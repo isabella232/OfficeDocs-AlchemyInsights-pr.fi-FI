@@ -1,8 +1,8 @@
 ---
-title: Moderni Azure-Sähkö posti laskutus
+title: Moderni Azure-sähköpostilasku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922059"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820823"
 ---
-# <a name="email-invoicing-in-azure"></a>Sähkö postin laskutus Azuressa
+# <a name="email-invoicing-in-azure"></a>Sähköpostilaskutus Azuressa
 
-Sinulla on oltava omistajan tai osallistujan rooli laskutus profiilissa tai sen laskutus tilillä, jotta voit päivittää Sähkö posti laskun asetuksen. Kun olet valinnut-kohdan, Kaikki käyttäjät, joilla on laskutus profiilissa omistaja, avustaja, lukija ja laskun hallinnan rooli, saavat laskunsa sähköpostitse.
+Sinulla on oltava laskutusprofiilin tai laskutustilin omistajan tai osallistujan rooli, jotta voit päivittää sähköpostilaskutusasetuksia. Kun olet ottanut ominaisuuden käyttöön, kaikki käyttäjät, joilla on laskutusprofiilin omistajan, osallistujan, lukijan tai laskutusvastaavan rooli, saavat laskun sähköpostiinsa.
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-2. Hae **kustannusten hallinta + laskutus**.
-3. Valitse **laskut** vasemmalta puolelta ja valitse sitten sivun yläreunasta **Sähkö posti lasku** .
-4. Jos sinulla on useita laskutus profiileja, valitse Laskutus profiili ja valitse sitten **Ilmoittaudu**.
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/).
+2. Etsi **Kustannustenhallinta ja laskutus**.
+3. Valitse vasemmasta reunasta **Laskut** ja valitse sitten sivun yläreunasta **Sähköpostilasku**.
+4. Jos sinulla on useita laskutusprofiileja, valitse ensin laskutusprofiili ja sitten **Ota käyttöön**.
 
 5. Valitse **Päivitä**.
-6. Jos sinulla on useita laskutus profiileja, valitse Laskutus profiili ja valitse sitten **Ilmoittaudu**.
+6. Jos sinulla on useita laskutusprofiileja, valitse ensin laskutusprofiili ja sitten **Ota käyttöön**.
 
-Voit antaa muille käyttäjille oikeuden tarkastella, ladata ja maksaa laskuja määrittämällä heille MCA-tai MPA-laskutus profiilin laskun hallinnan roolin. Jos olet valinnut, että saat laskun sähköpostitse, käyttäjät saavat laskut myös sähköpostitse.
+Voit antaa muille oikeuden tarkastella, ladata ja maksaa laskuja määrittämällä heille MCA- tai MPA-laskutusprofiilin laskutusvastaavan roolin. Jos olet ottanut sähköpostilaskut käyttöön, käyttäjät saavat myös laskut sähköpostitse.
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-2. Hae **kustannusten hallinta + laskutus**.
-3. Valitse **laskutus profiilit** vasemmalta puolelta. Valitse Laskutus profiilit-luettelosta laskutus profiili, jolle haluat määrittää laskun hallinnan roolin.
-4. Valitse vasemmasta reunasta **käytön hallinta (IAM)** ja valitse sitten **Lisää** sivun yläreunasta.
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/).
+2. Etsi **Kustannustenhallinta ja laskutus**.
+3. Valitse vasemmasta reunasta **Laskutusprofiilit**. Valitse laskutusprofiilien luettelosta profiili, jolle haluat määrittää laskutusvastaavan roolin.
+4. Valitse vasemmasta reunasta **Käyttöoikeuksien valvonta** ja valitse sitten sivun yläreunasta **Lisää**.
 
-Valitse avattavasta rooli-luettelosta **laskun vastuu** henkilö. Kirjoita sen käyttäjän Sähkö posti osoite, jolle haluat myöntää käyttö oikeuden. Määritä rooli valitsemalla **Tallenna** .
+Valitse avattavasta Rooli-luettelosta **Laskutusvastaava**. Myönnä käyttöoikeus kirjoittamalla käyttäjän sähköpostiosoite. Määritä rooli valitsemalla **Tallenna**.

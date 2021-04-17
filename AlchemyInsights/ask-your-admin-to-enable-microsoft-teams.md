@@ -1,8 +1,8 @@
 ---
-title: Pyydä järjestelmänvalvojaa ottamaan Microsoft teamsin käyttöön
+title: Pyydä järjestelmänvalvojaa otamaan Microsoft Teams käyttöön
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716242"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821183"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Sinulta puuttuu! Pyydä järjestelmänvalvojaa ottamaan Microsoft teamsin käyttöön
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jäät paitsi! Pyydä järjestelmänvalvojaa otamaan Microsoft Teams käyttöön
 
-Jos sinulla on EDU-vuokraaja, Microsoft Teams tulee ottaa käyttöön manuaalisesti. Voit tehdä tämän siirtymällä Microsoft 365-hallinta keskukseen > **palvelut ja apuohjelmat > Microsoft teams**. Jos käytössäsi on uusi teamsin hallinta keskus, sinun on poistettava käytöstä **Kokeile uutta hallinta keskusta**,   jotta löydät **palvelut ja apuohjelmat**. 
+Jos sinulla on EDU-vuokraaja, Microsoft Teams tulee ottaa käyttöön manuaalisesti. Voit tehdä tämän Microsoft 365 -hallintakeskuksessa valitsemalla >Palvelut ja  **apuohjelmat > Microsoft Teamsissa.** Jos käytät uutta Teams-hallintakeskusta, sinun täytyy poistaa **** käytöstä Kokeile uutta hallintakeskusta löytääksesi Palvelut ja    **apuohjelmat**. 
 
-**Tärkeää**: saatat joutua odottamaan jopa 24 tuntia, ennen kuin muutokset tulevat voimaan.
+**TÄRKEÄÄ:** Saatat joutua odottamaan 24 tuntia, ennen kuin muutokset tulevat voimaan.

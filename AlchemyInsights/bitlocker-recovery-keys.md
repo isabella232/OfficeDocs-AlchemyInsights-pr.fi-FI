@@ -2,7 +2,7 @@
 title: Bitlocker-palautusavaimet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505065"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820283"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Bitlocker-palautusavainten käyttäminen
+# <a name="accessing-bitlocker-recovery-keys"></a>BitLocker-palautusavainten käyttäminen
 
-Kun määrität Bitlocker-asetuksia Intune Endpoint Protection Policy -palvelussa, on mahdollista määrittää, tallennetaanko Bitlocker-palautustiedot Azure Active Directoryyn.
+Kun määrität BitLocker-asetuksia Intune Endpoint Protection Policy -palvelussa, on mahdollista määrittää, tallennetaanko Bitlocker-palautustiedot Azure Active Directoryyn.
 
-Jos tämä asetus on määritetty, tallennettujen palautustietojen pitäisi näkyä Intune-järjestelmänvalvojalle osana laitteen tietojen tallennusta Intune Devices -laitteissa kahdella tavalla:
+Jos tämä asetus on määritetty, tallennettujen palautustietojen pitäisi näkyä Intune-järjestelmänvalvojalle osana laitteen tietuetietoja Intune-laitteissa kahdella tavalla:
 
-Laitteet - Azure AD -laitteet > "Laite" tai laitteet -> Kaikki laitteet -> "Laite" -> palautusavaimet
+Laitteet - Azure AD -laitteet > "Laite" TAI Laitteet -> Kaikki laitteet -> "Laite" -> palautusavaimet
 
-Jos itse laitteessa on järjestelmänvalvojan käyttöoikeudet, palautusavain (salasana) näkyy suorittamalla seuraava komento järjestelmänvalvojan oikeuksin hallittavasta komentokehotteesta:
+Jos itse laitteella on järjestelmänvalvojan käyttöoikeudet, palautusavain (salasana) voidaan nähdä suorittamalla seuraava komento järjestelmänvalvojan oikeuksin oikeutetussa komentokehotteessa:
 
 ```
 manage-bde -protectors c: -get
@@ -43,9 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Jos laite on salattu ennen intune-kirjautumista, palautusavain on ehkä liitetty Microsoft-tiliin (MSA), jota käytetään kirjautumiseen laitteeseen OOBE-prosessin aikana. Jos näin oli, MSA:n käytön ja sisäänkirjautumisen pitäisi näyttää laitteet,  https://onedrive.live.com/recoverykey joille palautusavaimet on tallennettu.
+Jos laite on salattu ennen intune-salausta, palautusavain on ehkä liitetty Microsoft-tiliin (MSA), jota käytetään laitteeseen kirjautumisessa OOBE-prosessin aikana. Tässä tapauksessa MSA:n käytön ja sisäänkirjautumisen pitäisi näyttää  https://onedrive.live.com/recoverykey laitteet, joiden palautusavaimet on tallennettu.
  
-Jos laite on salattu toimialuepohjaisen ryhmäkäytännön perusteella, palautustiedot saatetaan tallentaa paikalliseen Active Directoryyn.
+Jos laite on salattu toimialuepohjaisen ryhmäkäytännön tuloksena, palautustiedot saatetaan tallentaa paikalliseen Active Directoryyn.
 
-Jos olet määrittänyt Endpoint-suojauskäytännön, joka tallentaa palautusavaimen Azure Active Directoryyn, mutta tietyn laitteen avainta ei ole ladattu, voit käynnistää latauksen kiertämällä laitteen palautusavainta MEM-konsolista. Lisätietoja on kohdassa [BitLocker-palautusavainten kiertäminen.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Jos olet määrittänyt Endpoint-suojauskäytännön, joka tallentaa palautusavaimen Azure Active Directoryyn, mutta tietyn laitteen avainta ei ole ladattu, voit käynnistää latauksen kiertämällä palautusavaimen laitteesta MEM-konsolista. Lisätietoja on kohdassa [BitLocker-palautusavainten kiertäminen.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
