@@ -1,8 +1,8 @@
 ---
-title: Palvelu katkosta johtuva luotto pyyntö
+title: Käyttörajan vuoksi pyydettävä saldopyyntö
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726844"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826448"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a><span data-ttu-id="a15cd-102">Palvelu katkosta johtuva luotto pyyntö</span><span class="sxs-lookup"><span data-stu-id="a15cd-102">Credit request due to a service outage</span></span>
+# <a name="credit-request-due-to-a-service-outage"></a><span data-ttu-id="5e166-102">Käyttörajan vuoksi pyydettävä saldopyyntö</span><span class="sxs-lookup"><span data-stu-id="5e166-102">Credit request due to a service outage</span></span>
 
-<span data-ttu-id="a15cd-103">Jos haluat käyttää luotto pyyntöä palvelu katkoksen vuoksi, avaa palvelu pyyntö.</span><span class="sxs-lookup"><span data-stu-id="a15cd-103">To apply for a credit request due to a service outage, please open a service request.</span></span>
+<span data-ttu-id="5e166-103">Jos haluat käyttää käyttörajan vuoksi maksettavaa luottopyyntöä, avaa palvelupyyntö.</span><span class="sxs-lookup"><span data-stu-id="5e166-103">To apply for a credit request due to a service outage, please open a service request.</span></span>
 
-<span data-ttu-id="a15cd-104">Varmista, että sinulla on tapahtuman tunniste, joka löytyy Microsoft 365-hallinta keskuksen [palvelun kunto-sivulla](https://docs.microsoft.com/office365/enterprise/view-service-health) .</span><span class="sxs-lookup"><span data-stu-id="a15cd-104">Please be sure to have the Incident ID, found in the [service health page](https://docs.microsoft.com/office365/enterprise/view-service-health) in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="5e166-104">Varmista, että saat tapahtumatunnuksen Microsoft [](https://docs.microsoft.com/office365/enterprise/view-service-health) 365 -hallintakeskuksen Palvelun kunto -sivulta.</span><span class="sxs-lookup"><span data-stu-id="5e166-104">Please be sure to have the Incident ID, found in the [service health page](https://docs.microsoft.com/office365/enterprise/view-service-health) in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="a15cd-105">Huomaa, että kun pyyntösi on käsitelty, sen oikeellisuus tarkistukset tarkkailevat katkoksen vaikutusta.</span><span class="sxs-lookup"><span data-stu-id="a15cd-105">Please be advised that, as your request is processed, it will undergo validations to observe the impact of the outage.</span></span>
+<span data-ttu-id="5e166-105">Kun pyyntöäsi käsitellään, sitä on varmistettu havaitsemaan, miten se vaikuttaa uloskäyntiin.</span><span class="sxs-lookup"><span data-stu-id="5e166-105">Please be advised that, as your request is processed, it will undergo validations to observe the impact of the outage.</span></span>

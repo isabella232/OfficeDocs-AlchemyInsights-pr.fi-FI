@@ -1,8 +1,8 @@
 ---
-title: DNS-tietueiden päivittäminen Bluehost-palvelun avulla
+title: DNS-tietueiden päivittäminen Bluehost-palvelussa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ae896816dfe1308e4f1e455fce563e72f2b9617
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657714"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827645"
 ---
-# <a name="update-dns-records-at-bluehost"></a><span data-ttu-id="1f8c0-102">DNS-tietueiden päivittäminen Bluehost-palvelun avulla</span><span class="sxs-lookup"><span data-stu-id="1f8c0-102">Update DNS records at Bluehost</span></span>
+# <a name="update-dns-records-at-bluehost"></a><span data-ttu-id="cb353-102">DNS-tietueiden päivittäminen Bluehost-palvelussa</span><span class="sxs-lookup"><span data-stu-id="cb353-102">Update DNS records at Bluehost</span></span>
 
-<span data-ttu-id="1f8c0-103">Alla olevien linkkien avulla voit päivittää DNS-tietueita.</span><span class="sxs-lookup"><span data-stu-id="1f8c0-103">Use the links below to help update your DNS records.</span></span>
+<span data-ttu-id="cb353-103">Alla olevien linkkien avulla voit päivittää DNS-tietueesi.</span><span class="sxs-lookup"><span data-stu-id="cb353-103">Use the links below to help update your DNS records.</span></span>
 
-- [<span data-ttu-id="1f8c0-104">DNS-tietueiden luominen Bluehost-palvelun avulla</span><span class="sxs-lookup"><span data-stu-id="1f8c0-104">Create DNS records at Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
-- [<span data-ttu-id="1f8c0-105">Mukautettujen DNS-tietueiden lisääminen tai muokkaaminen Office 365:ssä</span><span class="sxs-lookup"><span data-stu-id="1f8c0-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="cb353-104">DNS-tietueiden luonti Bluehost-palvelussa</span><span class="sxs-lookup"><span data-stu-id="cb353-104">Create DNS records at Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [<span data-ttu-id="cb353-105">Mukautettujen DNS-tietueiden lisääminen tai muokkaaminen Office 365:ssä</span><span class="sxs-lookup"><span data-stu-id="cb353-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
