@@ -1,8 +1,8 @@
 ---
-title: Sähkö postin lähettäminen toiselta aliaksesta
+title: Sähköpostin lähettäminen toisesta aliaksesta
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720751"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823676"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="fd169-102">Sähkö posti viestin lähettäminen aliaksesta tai toissijaisesta osoitteesta</span><span class="sxs-lookup"><span data-stu-id="fd169-102">Send email from an alias or secondary address</span></span>
+# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="ac71b-102">Sähköpostin lähettäminen aliakselta tai toissijaiselta osoitteelta</span><span class="sxs-lookup"><span data-stu-id="ac71b-102">Send email from an alias or secondary address</span></span>
 
-<span data-ttu-id="fd169-103">Microsoft 365 ei tällä hetkellä tue sähkö postin lähettämistä aliasta tai toissijaisesta Sähkö posti osoitteesta.</span><span class="sxs-lookup"><span data-stu-id="fd169-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="fd169-104">Sähköpostialiaksia voi käyttää vain sähkö postien vastaanottoon.</span><span class="sxs-lookup"><span data-stu-id="fd169-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="fd169-105">Jos haluat lähettää sähkö postia toisesta Sähkö posti osoitteesta, sinun on luotava yhteinen posti laatikko.</span><span class="sxs-lookup"><span data-stu-id="fd169-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="fd169-106">Jaetuista posti laatikostasi saat toisen Sähkö posti osoitteen ilman erillistä lisenssiä.</span><span class="sxs-lookup"><span data-stu-id="fd169-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
+<span data-ttu-id="ac71b-103">Microsoft 365 ei tällä hetkellä tue sähköpostin lähettämistä aliakselta tai toissijaiselta sähköpostiosoitteilta.</span><span class="sxs-lookup"><span data-stu-id="ac71b-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="ac71b-104">Sähköpostitunnuksia voidaan käyttää vain sähköpostiviestien vastaanottamiseen.</span><span class="sxs-lookup"><span data-stu-id="ac71b-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="ac71b-105">Jos haluat lähettää sähköpostia toisesta sähköpostiosoitteella, sinun on luotava jaettu postilaatikko.</span><span class="sxs-lookup"><span data-stu-id="ac71b-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="ac71b-106">Jaettu postilaatikko antaa sinulle toisen sähköpostiosoitteen ilman toista käyttöoikeutta.</span><span class="sxs-lookup"><span data-stu-id="ac71b-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
   
-- [<span data-ttu-id="fd169-107">Siirry tähän, jos haluat luoda jaetulle posti laatikolle</span><span class="sxs-lookup"><span data-stu-id="fd169-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="ac71b-107">Siirry tänne jaetun postilaatikon luomiseen</span><span class="sxs-lookup"><span data-stu-id="ac71b-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-<span data-ttu-id="fd169-108">Voit myös lukea [Luo yhteinen posti laatikko](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) -artikkelin, jossa kerrotaan kaikki, mitä sinun tarvitsee tietää jaetuista posti laatikoista, kuten niiden käytöstä.</span><span class="sxs-lookup"><span data-stu-id="fd169-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="ac71b-108">Voit myös lukea Jaetun [postilaatikon luominen](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) -artikkelin, jossa on tietoa jaettavissa postilaatikoista, mukaan lukien miten niitä käytetään.</span><span class="sxs-lookup"><span data-stu-id="ac71b-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>

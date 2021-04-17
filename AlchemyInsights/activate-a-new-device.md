@@ -1,8 +1,8 @@
 ---
-title: Uuden laitteen Akti voiminen
+title: Aktivoi uusi laite
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823280"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a><span data-ttu-id="36b57-102">Uuden Windows 10-laitteen Akti vointi</span><span class="sxs-lookup"><span data-stu-id="36b57-102">Activating a new device running Windows 10</span></span>
+# <a name="activating-a-new-device-running-windows-10"></a><span data-ttu-id="3bcf8-102">Uuden Windows 10 -laitteen aktivoiminen</span><span class="sxs-lookup"><span data-stu-id="3bcf8-102">Activating a new device running Windows 10</span></span>
 
-<span data-ttu-id="36b57-103">Jos ostit uuden laitteen, jonka käyttö järjestelmä on Windows 10, se aktivoituu automaattisesti, kun liität laitteesi internetiin.</span><span class="sxs-lookup"><span data-stu-id="36b57-103">If you bought a new device running Windows 10, it will automatically activate when you connect your device to the Internet.</span></span> <span data-ttu-id="36b57-104">Jos aktivointi palvelimet ovat varattuja, sinun on ehkä odotettava jonkin aikaa, ennen kuin voit aktivoida Windowsin.</span><span class="sxs-lookup"><span data-stu-id="36b57-104">If the activation servers are busy, you might need to wait a while for Windows to activate.</span></span>
+<span data-ttu-id="3bcf8-103">Jos ostit uuden laitteen, jossa on Windows 10, se aktivoituu automaattisesti, kun yhdistät laitteesi Internetiin.</span><span class="sxs-lookup"><span data-stu-id="3bcf8-103">If you bought a new device running Windows 10, it will automatically activate when you connect your device to the Internet.</span></span> <span data-ttu-id="3bcf8-104">Jos aktivointipalvelimet ovat varattuja, saatat joutua odottamaan hetken, ennen kuin Windows aktivoituu.</span><span class="sxs-lookup"><span data-stu-id="3bcf8-104">If the activation servers are busy, you might need to wait a while for Windows to activate.</span></span>
 
-<span data-ttu-id="36b57-105">Jos haluat tarkistaa aktivointi tilan, valitse **Aloita** **asetusten**  >  **päivitys & tieto turvan**  >  **Akti vointi**.</span><span class="sxs-lookup"><span data-stu-id="36b57-105">To check activation status, choose **Start** **Settings** > **Update & security** > **Activation**.</span></span>
+<span data-ttu-id="3bcf8-105">Jos haluat tarkistaa aktivoinnin tilan, **valitse** **Aloitusasetusten** päivitys  >  **& suojausaktivointi**  >  .</span><span class="sxs-lookup"><span data-stu-id="3bcf8-105">To check activation status, choose **Start** **Settings** > **Update & security** > **Activation**.</span></span>
 
-<span data-ttu-id="36b57-106">**Huomautus:** Joissain tapa uksissa sinun on ehkä annettava Windows 10: n tuote avain, joka toimitettiin laitteen pakka uksen mukana, tai jotka sisältyvät laitteeseen liitettyyn korttiin tai Certificate of Authenticity-aitous todistukseen.</span><span class="sxs-lookup"><span data-stu-id="36b57-106">**Note:** In some cases, you might need to enter the Windows 10 product key that came with the device packaging, or included as a card or on the Certificate of Authenticity (COA) attached to the device.</span></span>
+<span data-ttu-id="3bcf8-106">**Huomautus:** Joissakin tapauksissa sinun on ehkä annettava laitteen pakkauksen mukana toimitettu Windows 10 -tuoteavain tai se on oltava kortina tai laitteeseen liitetyssä Certificate of Authenticity (COA) -aitoustodistuksessa.</span><span class="sxs-lookup"><span data-stu-id="3bcf8-106">**Note:** In some cases, you might need to enter the Windows 10 product key that came with the device packaging, or included as a card or on the Certificate of Authenticity (COA) attached to the device.</span></span>
 
-[<span data-ttu-id="36b57-107">Lisä tietoja Akti voinnista Windows 10: ssä</span><span class="sxs-lookup"><span data-stu-id="36b57-107">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440)
+[<span data-ttu-id="3bcf8-107">Lisätietoja aktivoinnista Windows 10:ssä</span><span class="sxs-lookup"><span data-stu-id="3bcf8-107">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440)
