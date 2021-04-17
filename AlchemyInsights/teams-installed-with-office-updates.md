@@ -1,8 +1,8 @@
 ---
-title: Office-päivityksiin asennetut tiimit
+title: Office-päivitysten mukana asennetut Teams-ryhmät
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736501"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832379"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams on asennettu Office-päivityksiin
+# <a name="microsoft-teams-installed-with-office-updates"></a>Office-päivitysten mukana asennettu Microsoft Teams
 
-Microsoft teams kuuluu Microsoft 365 Enterprise-, Microsoft 365 Apps for Business-ja Office for Mac-sovellusten ***uusiin asennuksiin*** . Lisä tietoja on kohdassa [Milloin Microsoft teams sisällytetään uusiin Office-asennuksiin?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams sisältyy microsoft  365 -sovellusten, Microsoft 365 -yrityssovellusten ja Office for Macin uusiin asennuksiin. Lisätietoja on kohdassa Milloin [Microsoft Teams sisällytetään uusiin Office-asennuksiin?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Lisäksi, alkaen versiosta 1906 nykyisessä kanavassa, tiimit lisätään asteittain nykyisiin Microsoft 365 Apps for Enterprise (ja Microsoft 365-sovellukset yrityksille)- ***asennuksiin*** laitteissa, joissa on käytössä Windows, kun päivität olemassa olevan asennuksen uusimpaan versioon. Lisä tietoja on Ohje aiheessa [mitä on olemassa olevissa Office-asennuksissa?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Nykyisen kanavan versiosta 1906 alkaen Teams lisätään vaiheittain  olemassa oleviin Microsoft 365 Apps for Enterprise (ja Microsoft 365 Apps for Business) -asennuksiin laitteissa, joissa on Windows, kun päivität olemassa olevan asennuksesi uusimpaan versioon. Lisätietoja on kohdassa Tietoja [nykyisistä Office-asennuksista.](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Huomautus:** Jos et halua odottaa tätä käyttöönotto aikataulua, voit ottaa käyttöön teamsin käyttäjiksi noudattamalla [näitä ohjeita](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)tai voit määrittää käyttäjät asentamaan tiimit itse https://teams.microsoft.com/downloads .
+**Huomautus:** Jos et halua odottaa tätä käyttöönottoaikataulua, voit ottaa Teamsin käyttöön erillisenä käyttäjänä noudattamalla näitä ohjeita [tai](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)antaa käyttäjien asentaa Teamsin itse https://teams.microsoft.com/downloads .
 
-Jos organisaatiosi ei ole valmis ottamaan joukkueita käyttöön, voit ***jättää joukkueita pois*** [uusista](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) tai [olemassa olevista](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office-asennuksista. Jos haluat, että tiimit asennetaan, mutta et halua, että tiimit käynnistyvät automaattisesti käyttäjän asennuksen jälkeen, Katso lisä tietoja artikkelista [Microsoft teamsin automaattisen käynnistymisen estäminen asentamisen jälkeen](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Jos organisaatiosi ei ole vielä valmis ottamaan Teamsta käyttöön, voit jättää ***Teamsin*** pois uusista [tai](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) olemassa olevista Office-asennuksista. [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Jos haluat, että Teams asennetaan, mutta et halua, että Teams käynnistyy automaattisesti käyttäjälle sen asentamisen jälkeen, katso Microsoft Teamsin automaattinen käynnistymisen [estäminen asennuksen jälkeen.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Lisä tietoja ***tiimien poistamisesta*** Windows-laitteesta on Ohje aiheessa [Microsoft teamsin asennuksen poistaminen](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Jos haluat siivota Microsoft teamsin useista kohde koneista tai käyttäjistä, katso [Microsoft teamsin käyttöönoton uudelleenjärjestäminen](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+Jos ***haluat poistaa Teamsin*** Windows-laitteesta, katso Microsoft [Teamsin asennuksen poistaminen.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Jos haluat puhdistaa Microsoft Teamsin useista kohdekoneista tai käyttäjistä, katso [Microsoft Teamsin käyttöönoton puhdistus .](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Jos käytät yhteiskäytössä olevia tieto koneita, Etätyöpöytäpalveluja (RDS) tai Virtual Desktop Infrastructure (VDI), tutustu Ohje aiheeseen jaettujen tieto koneiden ja VDI- [ympäristöjen käyttö Microsoft teamsissa](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Jos käytössäsi on Office for Mac, tutustu [Microsoft teamsin asennuksiin Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)-tieto koneessa.
+Jos käytät jaettuja tietokoneita, Etätyöpöytäpalveluja (RDS) tai Virtual Desktop Infrastructureia (VDI), katso jaetut tietokoneet ja [VDI-ympäristöt Microsoft Teamsissa.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams) Jos käytät Office for Macia, katso [Lisätietoja on kohdassa Microsoft Teams -asennukset Mac-tietokoneessa.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
-**Huomautus:** Kun teamsin asennus on asennettu, se [päivittyy automaattisesti](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) noin kahden viikon välein uusilla ominaisuuksilla ja laatu päivityksillä. 
+**Huomautus:** Kun Teams on asennettu, se [päivitetään automaattisesti noin kahden viikon](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) välein uusilla ominaisuuksilla ja laatupäivityksillä. 

@@ -1,8 +1,8 @@
 ---
-title: Miksi tiedostoa ei voi muokata?
+title: Miksi tätä tiedostoa ei voi muokata?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: 56031848ef23fb4823327970efa65b00d0bf9218
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0e3992ff88e57aa595790b0ef77ff2a1acb4680
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833504"
 ---
-# <a name="sharepoint-migration-is-running-slowly"></a>SharePointin siirto toimii hitaasti
+# <a name="sharepoint-migration-is-running-slowly"></a>SharePoint-siirto toimii hitaasti
 
 Siirron suorituskykyyn voivat vaikuttaa verkkoinfrastruktuuri, tiedoston koko, siirtoaika ja rajoitukset. Tämän ymmärtäminen auttaa suunnittelemaan siirtoa ja maksimoimaan sen tehokkuuden.
 
-Lisä tietoja on osoitteessa:
+Lisätietoja on ohjeaiheessa:
 
 - [Siirron aikana ilmenee suorituskyvyn heikkenemistä tai rajoittumista](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
 - [Yleiset siirron suorituskyvyn ohjeet](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

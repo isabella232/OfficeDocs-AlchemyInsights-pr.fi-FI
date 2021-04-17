@@ -2,7 +2,7 @@
 title: Ongelmia Apple Watchin kanssa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700020"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832271"
 ---
 # <a name="trouble-with-the-apple-watch"></a>Ongelmia Apple Watchin kanssa
 
-Jos Outlookin Apple Watchin käytössä ilmenee ongelmia, kokeile seuraavia vian määritys ohjeita: 
+Jos sinulla on ongelmia Outlookin käytössä Apple Watchissa, seuraavassa on vianmääritysohjeita: 
 
-1. Siirry iPhonen kello-sovellukseen.
+1. Siirry iPhonen Watch-sovellukseen.
 
 2. Vieritä Outlook-sovellukseen.
 
-3. Poista "Näytä sovellus Apple Watchessa"- **vaihto, jos haluat poistaa** asennuksen.
+3. Poista asennus poistamalla "Näytä sovellus  Apple Watchissa" -painikkeesta EI KÄYTÖSSÄ.
 
-4. Vaihda "Näytä sovellus Apple Watchessa"- **asetukseksi päällä** , jotta voit asentaa sen uudelleen kellossa.
+4. Vaihda Näytä sovellus Apple Watchissa -painikkeeksi **KÄYTÖSSÄ,** jos haluat asentaa sen uudelleen Watchiin.
 
-5. Käynnistä Outlook-sovellus Apple Watchessa ja odota, että tiedot synkronoidaan uusimpaan. 
+5. Käynnistä Outlook-sovellus Apple Watchissa ja odota, että tiedot synkronoidaan uusimpaan. 
 
-Jos ongelma ei ratkea, tuki tiimi auttaa mielellään. Siirry **asetuksiin > ohje & palaute > ota yhteyttä tukeen**. 
+Jos ongelmaasi ei ole ratkaistu, tukitiimi voi mielellään auttaa. Siirry **Asetukset-> kohtaan & ja ota > yhteyttä tukeen.** 

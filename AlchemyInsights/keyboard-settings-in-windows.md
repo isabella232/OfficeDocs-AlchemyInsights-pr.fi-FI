@@ -1,8 +1,8 @@
 ---
-title: 'Näppäimistö asetukset Windows 10: ssä '
+title: 'Windows 10:n näppäimistöasetukset '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772800"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832964"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Näppäimistö asetukset Windows 10: ssä
+# <a name="keyboard-settings-in-windows-10"></a>Windows 10:n näppäimistöasetukset
 
-**Kirjoita asetukset**
+**Tyyppiasetukset**
 
-Jos haluat muuttaa Windowsin oikeinkirjoituksen tarkistukseen, automaattiseen korjaukseen, ehdotuksiin ja muihin laitteistosi ja kosketus näppäimistöön liittyviä asetuksia, siirry kohtaan **asetukset > laitteet > kirjoittaminen**. 
+Jos haluat muuttaa Windowsin oikeinkirjoituksen tarkistusta, automaattista korjausta, ehdotuksia ja muita laitteiston ja kosketusnäppäimistön asetuksia, siirry kohtaan Asetukset **> Laitteet > kirjoittaminen**. 
 
-**Kieli-ja näppäimistö asetukset**
+**Kieli- ja näppäimistöasetukset**
 
-Jos haluat muuttaa Windowsin kielen näppäimistö-tai syöttö tapaa koskevia asetuksia, valitse **asetukset > aika & kieli > kieli**. Valitse kielet **ensisijaisten kielten** luettelosta ja valitse **Asetukset** , jos haluat lisätä tai poistaa näppäimistöjä tai syöttö tapoja (IME).
+Jos haluat muuttaa asetuksia, jotka liittyvät mihin näppäimistöön tai syöttötapaan Windows-kielessä, siirry kohtaan Asetukset **> Time & Language > Language**. Valitse kielet Ensisijaiset **kielet -luettelosta** ja **lisää** tai poista näppäimistöjä tai syöttötapoja valitsemalla Asetukset.

@@ -1,8 +1,8 @@
 ---
-title: Power BI-raportti palvelimen asentaminen
+title: Power BI Report Serverin asentaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755092"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832091"
 ---
-# <a name="install-power-bi-report-server"></a>Power BI-raportti palvelimen asentaminen
+# <a name="install-power-bi-report-server"></a>Power BI Report Serverin asentaminen
 
-1. Etsi PowerBIReportServer.exe sijainti ja käynnistä asennus ohjelma.
+1. Etsi sijainnit PowerBIReportServer.exe käynnistä asennusohjelma.
 
-2. Valitse **Asenna Power BI-raportti palvelin**.
+2. Valitse **Asenna Power BI Report Server**.
 
 3. Valitse asennettava versio ja valitse sitten **Seuraava**.
 
-4. Voit valita joko arviointi-tai kehitys versio-kohdan avattavasta luettelosta.  Muussa tapa uksessa voit antaa joko Power BI-palvelusta tai volyymi käyttö oikeus keskuksesta hankitun palvelimen tuote avaimen. Lisä tietoja tuote avaimen hankkimisesta on ennen aloittamista-osiossa. Lue ja hyväksy käyttö oikeus sopimuksen ehdot ja valitse sitten **Seuraava**.
+4. Voit valita avattavasta luettelosta joko Evaluation (Arviointi) tai Developer Edition (Kehitystyökalut).  Muussa tapauksessa voit antaa tuoteavaimen palvelimeen, jonka olet hankkinut joko Power BI -palvelusta tai volyymikäyttöoikeuskeskuksesta. Lisätietoja tuoteavaimen saamista varten on Ennen aloittamista -osassa. Lue ja hyväksy käyttöoikeussopimuksen ehdot ja valitse sitten **Seuraava**.
 
-5. Sinulla on oltava tieto kanta moduuli, joka on käytettävissä raportti palvelin tieto kannan tallentamiseen. Asenna vain raportti palvelin valitsemalla **Seuraava** .
+5. Raporttipalvelimen tietokannan tallennusta varten on oltava tietokantamoduuli. Asenna **vain** raporttipalvelin valitsemalla Seuraava.
 
-6. Määritä raportti palvelimen asennus sijainti. Jatka valitsemalla **Asenna** .
+6. Määritä raporttipalvelimen asennussijainti. Jatka **valitsemalla** Asenna.
 
-7. Kun asennus on onnistunut, valitse **Määritä raportti palvelin** , jotta Reporting Servicesin määritysten vastuu henkilö käynnistetään.
+7. Kun määritys on onnistunut, käynnistä Reporting **Servicesin** määritysten hallinta valitsemalla Määritä raporttipalvelin.
 
-Et tarvitse asennus hetkellä käytettävissä olevaa SQL Server-tieto kanta moduulin palvelinta. Tarvitset yhden, jos haluat määrittää Reporting Servicesin asennuksen jälkeen.
+Et tarvitse SQL Server Database Engine -palvelinta asennuksen aikana. Tarvitset sellaisen Reporting Servicesin määrittämiseen asennuksen jälkeen.
 
-Lisä tietoja: https://docs.microsoft.com/power-bi/report-server/install-report-server
+Lisätietoja: https://docs.microsoft.com/power-bi/report-server/install-report-server

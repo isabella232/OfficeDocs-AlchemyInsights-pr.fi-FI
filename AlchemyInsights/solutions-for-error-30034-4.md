@@ -2,7 +2,7 @@
 title: Virheen 30034-4 ratkaisut
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -14,25 +14,25 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 02f74a04c1f18e176b7044be1de9323109d12aac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2350a49528380683c58a69638040a41d670e1cfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738850"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832487"
 ---
 # <a name="solutions-for-error-30034-4"></a>Virheen 30034-4 ratkaisut
 
-Kokeile näitä ratkaisuja virheen [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)korjaamiseksi:
+Kokeile seuraavia ratkaisuja virheen [30034-4 korjaamiseksi:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
-- Käynnistä tieto kone uudelleen ja yritä [asentaa Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Käynnistä tietokone uudelleen ja asenna [Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus** -kohdasta versio, jonka asennuksen haluat poistaa, ja valitse sitten **Seuraava**.
+1. Kun se avautuu, valitse **Poista Office-tuotteiden** asennus -kohdasta versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
 2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistyksen jälkeen tuki-ja palautus avustaja avautuu automaattisesti uudelleen asennuksen poistamisen jälkeen.
+    Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistoprosessin viimeistelemiseksi.
 
-3. Seuraa jäljellä olevia kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.
+3. Noudata muita kehotteita ja asenna [Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.

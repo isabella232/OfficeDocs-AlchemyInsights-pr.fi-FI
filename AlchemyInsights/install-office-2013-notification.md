@@ -1,8 +1,8 @@
 ---
-title: Asenna Office 2013-ilmoitus
+title: Office 2013:n asentaminen -ilmoitus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,14 +14,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: f966b407fcbd70ab883027f113fe3aeb2b0f6a91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 789b68c3cd2765ac63c59c964727f7ce2f6d6333
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755344"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833216"
 ---
 # <a name="upgrade-to-office-2016"></a>Office 2016:een päivittäminen
 
-Valitettavasti Office 2013 ei ole enää ladattavissa, mutta voit päivittää Office 2016-versioon maksutta. Lisä tietoja ja ohjeita Office 2016-asennuksen käyttämiseen on tässä artikkelissa: [office 2016-asennus tai päivitys](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).
+Valitettavasti Office 2013 ei ole enää ladattavissa, mutta voit päivittää Office 2016:sta maksutta. Lisätietoja Office 2016:n asentamisesta on tässä artikkelissa: [Office 2016:n asentaminen tai päivittäminen.](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx)
   
