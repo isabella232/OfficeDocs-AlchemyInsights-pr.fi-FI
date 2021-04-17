@@ -1,25 +1,26 @@
 ---
-title: Sharepoint-asiakirjoja ei voi avata paikallisessa asiakasohjelmassa
+title: Ei voida avata SharePoint-tiedostoja paikallisessa asiakkaassa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: c08f119b878b5a9e0987f5440e17f43f3a6cc8ef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44841068"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830426"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a><span data-ttu-id="98d7b-102">SharePoint-tiedostoja ei voi avata paikallisessa asiakasohjelmassa</span><span class="sxs-lookup"><span data-stu-id="98d7b-102">Unable to open SharePoint documents in local client</span></span>
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a><span data-ttu-id="bd089-102">Ei voida avata SharePoint-tiedostoja paikallisessa asiakkaassa</span><span class="sxs-lookup"><span data-stu-id="bd089-102">Unable to open SharePoint documents in local client</span></span>
 
-<span data-ttu-id="98d7b-103">Joskus office-tiedostojen ja -tiedostojen avaaminen SharePointista tai OneDrivesta voi olla vaikeaa paikallisilta Office-asiakkailta.</span><span class="sxs-lookup"><span data-stu-id="98d7b-103">At times you may have difficulty opening Office files and documents from SharePoint or OneDrive from your local Office clients.</span></span>
+<span data-ttu-id="bd089-103">Joskus voi olla ongelmia Office-tiedostojen ja -dokumenttien avaamisessa SharePointista tai OneDrivesta paikallisista Office-asiakasohjelmista.</span><span class="sxs-lookup"><span data-stu-id="bd089-103">At times you may have difficulty opening Office files and documents from SharePoint or OneDrive from your local Office clients.</span></span>
 
-- [<span data-ttu-id="98d7b-104">Office-tiedostoja ei voi avata SharePointista tai OneDrivesta</span><span class="sxs-lookup"><span data-stu-id="98d7b-104">Can't open Office files from SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+- [<span data-ttu-id="bd089-104">Office-tiedostoja ei voi avata SharePointista tai OneDrivesta</span><span class="sxs-lookup"><span data-stu-id="bd089-104">Can't open Office files from SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
