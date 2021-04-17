@@ -1,8 +1,8 @@
 ---
-title: Tilin kuvan poistaminen
+title: Poista tilin kuva
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730948"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815540"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Tili kuvan poistaminen Windows 10: ssä
+# <a name="delete-an-account-picture-in-windows-10"></a>Tilikuvan poistaminen Windows 10:ssä
 
-Windowsin avulla voit vaihtaa kolmen viimeisimmän kuvan välillä. Jos sinun on poistettava jokin tilin kuvista:
+Windowsin avulla voit vaihtaa kolmen viimeisimmän kuvan välillä. Jos haluat poistaa tilin kuvan:
 
-1. Avaa Resurssienhallinta tehtävä palkista. Jos et näe Resurssienhallinta-kuvaketta (kansio kuvake) tehtävä palkissa, valitse **Käynnistä** **ja kirjoita Resurssienhallinta**.
+1. Avaa Resurssienhallinta tehtäväpalkista. Jos et näe Resurssienhallintaa (kansiokuvake) tehtäväpalkissa, valitse **Käynnistä ja** kirjoita **Resurssienhallinta**.
 
-2. Siirry kohtaan c:\Users \\ *omanimi*\AppData\Roaming. 
-    - Vaihda *omanimi* tilin nimellä.
-    - Jos AppData-kansiota ei löydy Resurssienhallinnasta, se voi olla piilotettu. Valitse Näytä **-asetus ja** Valitse **Piilotetut kohteet** -valinta ruutu, jos haluat näyttää kaikki kansion kohteet.
+2. Siirry kansioon C:\Käyttäjätnimi \\ \AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Korvaa *nimesi* tilisi nimellä.
+    - Jos et löydä AppData-kansiota Resurssienhallinnassa, se on ehkä piilotettu. Valitse **Näytä-asetus** ja valitse **Piilotetut kohteet** -valintaruutu, jos haluat näyttää kansion kaikki kohteet.
 
-3. Poista tili kuva, jota et enää halua käyttää.
+3. Poista tilin kuva, jota et enää halua käyttää.
  
  

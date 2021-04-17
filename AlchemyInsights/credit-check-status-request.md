@@ -1,8 +1,8 @@
 ---
-title: Saldon tarkistuksen tila pyyntö
+title: Luottotarkistuspyyntö
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b183f344af3e4f26c3da2e134223e14ee111787
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746432"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815936"
 ---
-# <a name="credit-check-status-request"></a>Saldon tarkistuksen tila pyyntö
+# <a name="credit-check-status-request"></a>Luottotarkistuspyyntö
 
-Tilauksesi odottaa luotto vahvistusta. Tämä on yleensä valmis alle 24 tuntiin, mutta se voi kestää jopa 48 tuntia. Kun tilaus on valmis, tilauksesi tila muuttuu Odottavasta aktiivi seksi, ja palvelut ovat käytettävissä.
+Tilauksesi odottaa luottovahvistustietoja. Tämä tapahtuu yleensä alle 24 tunnin kuluttua, mutta se voi kestää jopa 48 tuntia. Kun se on valmis, tilauksesi tila muuttuu Odottaa-tilasta Aktiiviseksi ja palvelut ovat käytettävissä.
 
-Lisä tietoja on kohdassa [Milloin luotto tietojen tarkistus voi olla tarpeen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).
+Lisätietoja on kohdassa, [milloin luottotietojen tarkistus on tarpeen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)

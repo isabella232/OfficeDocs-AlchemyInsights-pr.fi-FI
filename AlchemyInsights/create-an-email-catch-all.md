@@ -1,8 +1,8 @@
 ---
-title: Sähkö posti viestin luominen
+title: Sähköpostiviestin luominen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712983"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816197"
 ---
-# <a name="create-an-email-catch-all"></a>Sähkö posti viestin luominen
+# <a name="create-an-email-catch-all"></a>Sähköpostiviestin luominen
 
-Kaikkien saaliiden käyttöä ei suositella. On parempi antaa lähettäjälle palautetta siitä, että lähettäjä saa viestin, että hänen viestinsä ei voitu toimittaa niin, että he voivat ryhtyä toimiin. Voit myös rajoittaa valvotun posti laatikon koskemaan vain aiemmin kelvollisia Sähkö posti osoitteita. 
+Kaikkien takuiden käyttö ei ole suositeltavaa. On parempi antaa lähettäjälle ilmoitus viestin lähettäjälle siitä, että viestiä ei voitu toimittaa osoitettaan, jotta lähettäjä voi ryhtyä toimenpiteisiin. Voit myös rajoittaa valvotulle postilaatikolle vain aiemmin kelvolliset sähköpostiosoitteet. 
 
-Kaikki saalis kaikki posti laatikot saavat paljon roska postia ja saattavat lopulta täyttyä, jos ne eivät tarkkaan valvo. (Saat rajoituksia.) 
+Kaikki kaikki postilaatikot saavat paljon roskapostia, ja ne saattavat täyty, jos niitä ei valvota tarkasti. (Rajoituksia on.) 
 
-Jos päätät jatkaa, toimi seuraavasti:
+Jos haluat jatkaa, toimi seuraavasti:
 
-1. Luo dynaaminen jako ryhmä, & sisällyttää kaikki vastaanottajatyypit.
+1. Luo dynaaminen jakeluryhmä, & "Kaikki vastaanottajatyypit".
 
-2. Luo oma posti laatikko sähkö postien pyytämisestä, esimerkiksi catchall@domain.com.
+2. Luo erillinen postilaatikko sähköpostiviestien pyytä varten, esimerkiksi catchall@domain.com.
 
-3. Määritä tietylle toimi alueelle DomainType-asetukseksi "intern Relay". Jos poistat kaikki saalis-asetukset myöhemmin, varmista, että toimi alue määritetään takaisin tärkeiksi.
+3. Määritä tietyn toimialueen DomainType-tyypiksi InternalRelay. Jos poistat kaikki toimialueet myöhemmin, muista määrittää toimialue takaisin arvoksi Authoritative.
 
-4. Luo Mailflow-siirto sääntö seuraavasti:
+4. Luo Postinkulku-siirtosääntö seuraavasti:
 
-    - Jos lähettäjä on "organisaation ulkopuolinen"
-    - Viestin uudelleenohjaus Catchall@domain.com
-    - Paitsi, jos edunsaaja on allusers@domain.com-jäsen (Distribution Group sisältää kaikki jäsenet)
-    - Varmista, että uudet posti laatikot lisätään dynaamiseen jakeluun-ryhmään
+    - Jos lähettäjä on Organisaation ulkopuolinen
+    - Ohjaa viesti Catchall@domain.com
+    - Paitsi jos vastaanottaja on jäsen allusers@domain.com (Jakeluryhmä sisältää kaikki jäsenet)
+    - Varmista, että uudet postilaatikot lisätään dynaamiseen jakeluryhmään

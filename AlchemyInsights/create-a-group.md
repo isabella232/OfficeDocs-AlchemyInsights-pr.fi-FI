@@ -2,7 +2,7 @@
 title: Ryhmän luominen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088690"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816345"
 ---
 # <a name="create-a-group"></a>Ryhmän luominen
 
-Tässä ohje aiheessa kerrotaan ryhmän luomisesta.
+Tässä ohjeaiheessa kerrotaan ryhmien luomisesta.
 
-**Ryhmän luomis oikeudet**
+**Ryhmän luontioikeus**
 
-Varmista, että sinulla on oikeus luoda uusi ryhmä. Yleiset järjestelmänvalvojat voivat poistaa ryhmän luomisen käytöstä Azure-portaalissa tai-paneelissa. Sinun on ehkä luotava uusi ryhmä puolestasi tai annettava sinulle tarvittavat käyttö oikeudet.
+Varmista, että sinulla on oikeus luoda uusi ryhmä. Yleiset järjestelmänvalvojat voivat poistaa käytöstä ryhmien luomisen Azure-portaalissa tai käyttöpaneelissa. Tarvitset ehkä järjestelmänvalvojan, jotta voit luoda uuden ryhmän, tai antaa sinulle tarvittavat käyttöoikeudet.
 
-**Ryhmän luomisen käyttö oikeuksien hallinta**
+**Ryhmän luontioikeuksien hallinta**
 
-1. Yleiset järjestelmänvalvojat voivat hallita ryhmän luomis oikeuksia (turvallisuussyistä) tai Office 365-ryhmiä, jotka on luotu Azure-portaalissa tai-ohjaus paneelissa valitsemalla "käyttäjät voivat luoda käyttö oikeus ryhmiä Azure Portals-sovelluksessa" tai "käyttäjät voivat luoda Office 365-ryhmiä Azure Portals"-asetukset **kaikkien ryhmien**  >  **Yleiset-kohdassa (asetukset)**.
-2. Voit myös rajoittaa ryhmän luontia ja valita käyttäjä ryhmän, jos käytössä on Azure Active Directory P1 Premium-käyttö oikeus.
+1. Yleiset järjestelmänvalvojat voivat hallita ryhmien luontioikeuksia (tietoturvasyistä) tai Azure-portaalissa tai -paneelissa luotuja Office 365 -ryhmiä valitsemalla Käyttäjät voivat luoda käyttöoikeusryhmiä Azure-portaaleissa tai Käyttäjät voivat luoda Office 365 -ryhmiä Azure-portaaleissa -vaihtoehdot Kaikki ryhmät Yleiset   >  **(Asetukset)**-kohdassa.
+2. Voit myös rajoittaa ryhmien luomisen valitsemaan käyttäjäryhmän, jos sinulla on Azure Active Directory P1 Premium -käyttöoikeus.
 
-**Tervetuloa-ilmoituksen poistaminen käytöstä uusissa Office 365-ryhmän jäsenille**
+**Tervetuloilmoituksen poistaminen käytöstä uusille Office 365 -ryhmän jäsenille**
 
-Office 365-ryhmiin lisätyille käyttäjille lähetetyt tervetuloilmoitukset voidaan poistaa käytöstä määrittämällä Määritä **yksilöllinen Groupwelcomemessage** -asetukseksi false PowerShellin avulla. Lisä tietoja tästä asetuksesta on [täällä](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+Office 365 -ryhmiin lisätyille käyttäjille lähetettävä tervetuloilmoitus voidaan poistaa käytöstä määrittämällä **UnifiedGroupWelcomeMessageEnabled-arvoksi** Epätosi Powershellissä. Lisätietoja tästä [asetuksesta on täällä](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

@@ -1,8 +1,8 @@
 ---
-title: Laitteet odottavat rekisteröinti tilaa
+title: Laitteet odottavat rekisteröintiä -tilassa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730732"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815351"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Laitteet ovat odottamassa rekisteröintiä-tila
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Laitteet ovat Odottaa rekisteröintiä -tilassa
 
-Desktop Analyticsilla ei ole vian määritys tietoja tälle laitteelle. 
+Työpöytäanalyysissa ei ole diagnostiikkatietoja tälle laitteelle. 
 
-Tämä ongelma voi ilmetä, koska olet äskettäin lisännyt laitteen kohde kokoelmaan eikä se ole vielä lähettänyt tietoja. Se voi myös tarkoittaa, että laite ei kommunikoi oikein palvelun kanssa, ja uusimmat diagnostiikka tiedot ovat yli 28 päivää vanhoja.
+Tämä ongelma voi ilmetä, koska olet äskettäin lisännyt laitteen kohdekokoelmaan eikä se ole vielä lähettänyt tietoja. Tämä voi myös tarkoittaa, että laite ei ole yhteydessä palveluun oikein ja uusimmat diagnostiikkatiedot ovat yli 28 päivää vanhoja.
 
-Varmista, että laite voi kommunikoida palvelun kanssa. Lisä tietoja on kohdassa [Pääte Pisteet](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Varmista, että laite voi viestiä palvelun kanssa. Lisätietoja on kohdassa [Päätepisteet.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Lisä tietoja odottavien rekisteröinti tietojen tilasta on Ohje aiheessa [yhteyden kunnon valvonta](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Lisätietoja odottavasta rekisteröinnin tilasta on kohdassa [Yhteyden tilan valvonta.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

@@ -1,8 +1,8 @@
 ---
-title: Koko uksen ajoittaminen Teamsissa
+title: Kokouksen ajoitminen Teamsissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746900"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815972"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Koko uksen ajoittaminen Teamsissa
+# <a name="schedule-a-meeting-in-teams"></a>Kokouksen ajoitminen Teamsissa
 
-**Tärkeät** asiat Jos sinulla on ongelmia koko uksen luomisessa tai et löydä Kokous vaihtoehtoa Teamsissa, varmista, että haavoittuvuuden sisältävissä käyttäjillä on käytössä Exchange-posti laatikko tuetussa Microsoft teamsin versiossa. Exchange Online-palvelun käyttöä suositellaan, kun Exchange Server 2016 CU3 tai uudempi versio tukee paikallista posti laatikkoa, ja OAuth on määritetty verkossa ja paikallisesti. Lisä tietoja on kohdassa [käyttäjien posti laatikoiden luominen Exchange Onlinessa](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) sekä [paikallisten posti laatikoiden vaatimukset](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Tärkeää** Jos sinulla on kokouksen luomisessa ongelmia tai et löydä kokousvaihtoehtoa Teamsissa, varmista, että käyttäjät, joihin ongelma vaikuttaa, ovat käytössä Exchange-postilaatikossa tuetussa Microsoft Teams -versiossa. Exchange Onlinea suositellaan, mutta paikallisia Exchange-postilaatikoita tuetaan Exchange Server 2016 CU3:ssa tai sitä uudemmassa versiossa, kun OAuth on määritetty onnistuneesti Onlinen ja paikallisen postilaatikon välillä. Lisätietoja on kohdassa Käyttäjien [postilaatikoiden luominen Exchange Onlinessa](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) ja [Paikallisen isännöidyn postilaatikon vaatimukset.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
-1. Voit ajoittaa koko uksen valitsemalla:
+1. Voit ajoittaa kokouksen valitsemalla:
 
-    - **Ajoita** Kokous kuvake viestin teksti ruudun alapuolelle, jos haluat varata koko uksen keskustelun henkilöiden kanssa.
+    - **Ajoita kokouskuvake** keskustelussa tekstiruudun alapuolelle, jos haluat varata kokouksen keskustelun muiden kanssa.
 
-    - **Kalenteri** -kuvake sovelluksen vasemmassa reunassa. Valitse joko **Uusi kokous** oikeassa yläkulmassa tai Valitse kalenterista aika väli, jolloin voit avata aikataulu lomakkeen.
+    - **Kalenteri-kuvake** sovelluksen vasemmassa reunassa. Valitse **joko Uusi** kokous oikeassa yläkulmassa tai valitse kalenterista aikaväli aikataululomakkeen avaamista varten.
 
-2. Samalla tavalla kuin koko uksen ajoittamisessa Outlookissa annat kokoukselle otsikon, kutsut henkilöitä ja lisäät koko uksen tiedot.
+2. Samalla tavalla kuin järjestät kokouksen Outlookissa, annat kokouksille otsikon, kutsut henkilöitä ja lisäät kokoustietoja.
 
-3. Ajoitus lomakkeen oikeassa reunassa voit lisätä kanavan tai yksittäisiä henkilöitä tai jättää molemmat tyhjiksi, jos haluat ajoittaa yksityisen tapaamisen.
+3. Ajoituslomakkeen oikealla puolella voit lisätä kanavan tai yksittäisiä henkilöitä tai jättää molemmat tyhjiksi yksityisen tapaamisen ajoittamista varten.
 
-Lisä tietoja kokousten luomisesta ja ajoittamisesta Microsoft Teamsissa on Ohje aiheessa [koko uksen ajoittaminen teamsissa](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Lisätietoja kokousten luomisesta ja ajoituksesta Microsoft Teamsissa on kohdassa [Kokouksen ajoittaminen Teamsissa.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Lisä tietoja tapaamisten rajoituksista ja määrityksistä on kohdassa [Microsoft teamsin rajoitukset ja tekniset tiedot](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Lisätietoja kokousten rajoituksista ja määrityksestä on kohdassa [Microsoft Teamsin rajoitukset ja tekniset tiedot.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Lisä tietoja teamsin ja Exchangen välisistä vuoro vaikutuksista, erityisesti edustajan ajoitus ongelmista, on kohdassa [Microsoft teamsin ja Exchange Serverin vuorovaikutus ongelmien vian määritys](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Lisätietoja Teamsin ja Exchangen vuorovaikutuksen vianmäärityksestä, erityisesti edustajan ajoitusongelmien varalta, on kohdassa Microsoft Teamsin ja [Exchange Serverin vuorovaikutusongelmien vianmääritys.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

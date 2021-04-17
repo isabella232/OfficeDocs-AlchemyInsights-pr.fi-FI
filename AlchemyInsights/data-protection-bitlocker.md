@@ -1,8 +1,8 @@
 ---
-title: Dataprotectionin-BitLocker
+title: DataProtection – Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778190"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815612"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-Sala uksen ottaminen käyttöön Intunella
+# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-salauksen ottaminen käyttöön Intunen avulla
 
-Intune-pääte pisteen suojaus käytäntöä voidaan käyttää Windows-laitteiden BitLocker-salaus asetusten määrittämiseen. Lisä tietoja on kohdassa [Windows 10: n (tai uudemman) asetukset laitteiden suojaamiseksi Intune-toiminnolla](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+Intune Endpoint Protection -käytännön avulla voidaan määrittää Bitlocker-salausasetukset Windows-laitteita varten. Lisätietoja on kohdassa [Windows 10:n (ja uudemman)](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)asetukset laitteiden suojaamiseksi Intunella.
 
-Pääte pisteen suojaus käytäntöjen lisäksi käytettävissä on myös salaus raportti, jossa on tarkempi näkymä laitteiden salaus tilasta. Tätä raporttia voi käyttää MEM-portaalissa kohdassa **laitteet > valvonta** ja valitsemalla sitten **määritys** Valitse [salaus raportti](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+Endpoint-suojauskäytännön lisäksi on myös salausraportti, jossa on tarkempi näkymä laitteiden salauksen tilasta. Tätä raporttia voi käyttää MEM-portaalin Laitteet > **valvonta**-kohdassa ja valita sitten **Määritys-kohdassa** [Salausraportti](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
 
-Jos huomaat, että BitLocker ei ole käytössä odottamattomalla tavalla tai että BitLocker-Sala uksen käyttöönottoon käytettävä profiili on virhe tilassa, Lue salaus raportti, jotta saat paremman käsityksen siitä, miksi ongelma tapahtuu.
+Jos Huomaat, että Bitlocker ei ole käytössä odotetulla tavalla tai että BitLockerin käyttöönottoon käytettävä profiili on virhetilan päällä, tutustu salausraporttiin, jotta saat paremman käsityksen siitä, miksi toiminta tapahtuu.
 
-Lisä tietoja raportin tulkitsemisesta eri salaus tilan arvojen mukaan on Ohje aiheessa [laite salauksen valvonta Intunella](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+Lisätietoja raportin tulkitseuksesta ja eri salauksen tila-arvoista on kohdassa Laitesalauksen [valvonta Intunella.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
 
-Huomaa, että monet Windows 10: tä käyttävät uudet laitteet tukevat automaattista BitLocker-salausta, joka käynnistyy ilman MDM-käytäntöä. Tämä voi vaikuttaa käytäntöjen soveltamiseen, jos muut kuin oletus asetukset on määritetty. Lisä tietoja on seuraavissa usein kysytyissä kysymyksissä.
+Muista, että monet uudet laitteet, joissa on Windows 10, tukevat automaattista Bitlocker-salausta, joka käynnistyy ilman MDM-käytännön sovellusta. Tämä voi vaikuttaa käytännön sovellukseen, jos oletusasetuksia ei ole määritetty. Lisätietoja on seuraavissa usein kysytyissä kysymyksissä.
 
-Lisä tietoja BitLocker-ongelmien vian määrityksestä on kohdassa [BitLocker-käytäntöjen vian määritys Microsoft Intunella](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Lisätietoja BitLocker-ongelmien vianmäärityksestä on kohdassa [Microsoft Intunen BitLocker-käytäntöjen vianmääritys.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
 **Usein kysytyt kysymykset**
 
-K: mitkä Windows-versiot tukevat laitteen salausta pääte pisteen suojaus käytäntöä käyttäen?<br>
-A: asetukset Intune-pääte pisteen suojaus käytännössä on toteutettu [BitLocker-salaus menetelmän](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)avulla. Kaikki Windowsin versiot eivät tue BitLocker-salaus menetelmän tarjoajaa. <br><br>
+K: Mitkä Windows-versiot tukevat laitteiden salausta Endpoint-suojauskäytännön avulla?<br>
+V: Intune Endpoint Protection -käytännön asetukset on otettu käyttöön [Bitlocker-CSP:n avulla.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Kaikki Windows-versiot tai -koontiversiot eivät tue Bitlockerin CSP:tä. <br><br>
 
-K: Miten BitLocker voidaan ottaa käyttöön laitteissa, jotka eivät edellytä loppu käyttäjän toimia?<br>
-A: niin kauan kuin tarvittavat vaatimukset täyttyvät, BitLocker-salaus voidaan ottaa käyttöön Intuneen kautta. Katso lisä tietoja laitteen vaatimuksista ja esimerkki käytäntöjen asetuksista, jotta hiljainen salaus otetaan käyttöön seuraavassa asia kirjassa: [BitLocker-Sala uksen ottaminen käyttöön](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+K: Miten BitLocker voidaan ottaa käyttöön laitteissa ilman käyttäjän toimia?<br>
+A: Niin kauan kuin tarvittavat edellytykset täyttyvät, Bitlocker"Silent Encryption" voidaan ottaa käyttöön Intunen kautta. Katso laitevaatimuksista ja esimerkkikäytäntöasetuksista, miten voit ottaa hiljaisen salauksen käyttöön seuraavassa tiedostossa: Silently Enable Bitlocker Encryption (Ota [Bitlocker-salaus hiljainen käyttöön).](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
 
-K: Jos laite on jo salattu BitLocker-Sala uksella käyttämällä käyttö järjestelmän oletus asetuksia salaus menetelmässä ja Sala kirjoituksen voimakkuus (XTS-AES-128), se soveltaa käytäntöä, jossa on käytössä eri asetukset, jolloin uudet asetukset käyttävät aseman uudelleensalausta automaattisesti.<br>
-V: Ei. Jos haluat käyttää uusia cipher-asetuksia, aseman salaus on ensin purettava.<br><br>
-**Huomautus:** Jos laitteessa on rekisteröity Autopilot, OOBE-toiminnon aikana suoritettava automaattinen salaus ei käynnisty, ennen kuin Intune-käytäntöä arvioidaan, jolloin käytäntöpohjaisia asetuksia voidaan käyttää käyttö järjestelmän oletus arvojen sijasta.
+K: Jos laite on jo salattu BitLockerilla käyttämällä käyttöjärjestelmän salausmenetelmän ja salauksen vahvuutta (XTS-AES-128), käynnistää aseman uudelleensalauksen automaattisesti eri asetuksilla?<br>
+V: Ei. Jos haluat käyttää uusia salauksen asetuksia, aseman salauksen on ensin oltava salauksen purkaminen.<br><br>
+**Huomautus:** Autopilotiin rekisteröidyissä laitteissa OOBE:n aikana suoritetaan automaattinen salaus vasta, kun Intune-käytäntö on arvioitu, jolloin käytäntöpohjaisia asetuksia voidaan käyttää käyttöjärjestelmän oletusarvojen asennuksissa.
  
-K: Jos laite salataan Intune-käytännöstä johtuvan sovelluksen avulla, salaus puretaan, kun tämä menettely tapa poistetaan?<br>
-A: salaukseen liittyvän käytäntöjen poistaminen ei johda määritettyjen asemien Sala uksen purkamiseen.
+K: Jos laite on salattu Intune-käytännön vuoksi, poistetaanko sen salaus, kun käytäntö poistetaan?<br>
+A: Salauskäytäntöjen poistaminen EI poista määritettyjen asemien salausta.
  
-K: Miksi Intune-yhteensopivuus käytännöt osoittavat, että laitteessani ei ole BitLocker-suojausta käytössä, vaikka se on?<br>
-A: "BitLocker Enabled"-asetus Intune-yhteensopivuus käytännössä käyttää Windows Device Health-ohjelmisto (DHA)-asiakas ohjelmaa. Tämä asiakas mittaa vain laitteen tilan käynnistyksen aikana. Jos laitetta ei ole käynnistetty uudelleen, koska BitLocker-salaus on valmis, DHA-asiakas palvelu ei ilmoita BitLocker-salausta aktiivi seksi.
+K: Miksi Intune-yhteensopivuuskäytäntö näyttää, että laitteeni BitLocker ei ole käytössä, vaikka se on käytössä?<br>
+A: Intune-yhteensopivuuskäytännön Bitlocker käytössä -asetus hyödyntää Windows Device Health Attestation (NÄKÖISTIEDOSTO) -asiakasohjelmaa. Tämä asiakas mittaa vain laitteen tilan käynnistyksen yhteydessä. Jos siis laitetta ei ole käynnistetty uudelleen Bitlocker-salauksen päätyttyä, SOVELLUKSE-asiakaspalvelu ei ilmoita BitLockerista aktiiviseksi.
  
  

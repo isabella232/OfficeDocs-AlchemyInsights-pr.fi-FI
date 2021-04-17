@@ -1,8 +1,8 @@
 ---
-title: Ota meihin yhteyttä napsauttamalla kuuloke painiketta
+title: Ota meihin yhteyttä napsauttamalla kuulokkeiden painiketta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680897"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816953"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Ota meihin yhteyttä napsauttamalla kuuloke painiketta
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Ota meihin yhteyttä napsauttamalla kuulokkeiden painiketta
 
-Jos haluat ottaa yhteyttä Microsoft-tukeen, valitse Ota meihin **yhteyttä** tämän sovelluksen vasemmassa alakulmassa. Kun olet valinnut tuote-ja ongelma-luokan, sinut ohjataan oikeaan tuki kanavaan.
+Jos haluat ottaa yhteyttä Microsoft-tukeen, valitse **Ota yhteyttä** tämän sovelluksen vasemmassa alakulmassa. Pikaikkunan sisällä sinut ohjataan oikeaan tukikanavaan, kun olet valinnut tuote- ja ongelmaluokan.
 
-![Ota meihin yhteyttä napsauttamalla kuuloke kuvaketta.](media/contact-us-headphone-icon.png)
+![Ota meihin yhteyttä napsauttamalla kuulokkeiden kuvaketta.](media/contact-us-headphone-icon.png)
 
-Voit pitää vuoro vaikutuksessa muiden sovellusten kanssa myös sen jälkeen, kun olet aloittanut ota yhteyttä meihin-istunnon. Ota meihin yhteyttä-paneeli voidaan pienentää tilapäisesti napsauttamalla mitä tahansa sovelluksen sisällä. Jos haluat palata samaan istuntoon, valitse Ota meihin **yhteyttä** uudelleen.
+Voit jatkaa sovelluksen muiden sovellusten kanssa vuorovaikutusta myös sen jälkeen, kun olet aloittanut Ota yhteyttä -istunnon. Ota meihin yhteyttä -paneeli voidaan tilapäisesti pienentää napsauttamalla mitä tahansa muuta sovelluksen kohtaa. Voit palata samaan istuntoon valitsemalla Ota **yhteyttä** uudelleen.
