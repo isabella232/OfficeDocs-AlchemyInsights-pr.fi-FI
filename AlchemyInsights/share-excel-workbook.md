@@ -2,7 +2,7 @@
 title: Excel-työkirjan jakaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828437"
 ---
-# <a name="collaborate-on-excel-documents"></a>Yhteistyö Excel-asia kirjoissa
+# <a name="collaborate-on-excel-documents"></a>Excel-tiedostojen yhteiskäyttö
 
-Jos haluat tehdä yhteistyötä työtovereiden kanssa Excel-asia kirjoissa, käytä **yhteismuokkaustoimintoa**. 
+Yhteiskäyttöominaisuutta käyttämällä voit tehdä yhteistyötä työtovereiden kanssa **Excel-tiedostoissa.** 
 
-Lisä tietoja tämän ominaisuuden ottamisesta käyttöön ja käyttämisestä on sen lisäksi, että vasta uksia usein kysyttyihin kysymyksiin jakamis-ja yhteismuokkausskenaarioista on artikkelissa [yhteiskäyttö Excel-työkirjoissa samanaikaisesti yhteismuokkaamisen avulla](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Lue lisää tämän ominaisuuden käyttöön ottamalla käyttöön ja sen lisäksi, miten saat vastauksia usein kysyttyihin kysymyksiin jakamisesta ja yhteiskäyttötilanuksista, on ohjeessa [Excel-työkirjojen](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)yhteiskäyttö yhtä aikaa yhteiskäyttötoiminnon avulla.

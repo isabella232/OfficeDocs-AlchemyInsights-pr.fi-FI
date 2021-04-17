@@ -2,7 +2,7 @@
 title: Yhteyden muodostaminen MSCommerce-moduuliin
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702612"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829733"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce edellyttää yrityksen tai laskutuksen järjestelmänvalvojatiliä
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce edellyttää yrityksen tai laskutuksen järjestelmänvalvojan tiliä
 
-MSCommerce-moduuli vaatii tilin, jossa on yrityksen tai laskutuksen järjestelmänvalvojan oikeudet. Jos saat seuraavan virhe ilmoituksen, sinun on muodostettava yhteys uudelleen toisella tilillä.
+MSCommerce-moduuli edellyttää tiliä, jolla on yrityksen tai laskutuksen järjestelmänvalvojan oikeudet. Jos saat seuraavan virheilmoituksen, sinun on yhdistettävä uudelleen toiseen tiliin.
 
-*Errorimessage-Etäpalvelin palautti virheen: (403) kielletty. Virheen tiedot-at C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-Errorecontext $ _-Custeerroremessage "Failed to retri...*<br>
+*ErrorMessage – etäpalvelin palautti virheen: (403) Kielletty. ErrorDetails – At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Epäonnistui...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Luokan tiedot: Notmääritetty: (:) [Write-Error], Writelerroxception*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. commands. Writterrorception, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : NotSpecified: (:) [Kirjoitusvirhe], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
 Jos tililläsi ei ole yrityksen tai laskutuksen järjestelmänvalvojan oikeuksia, ota yhteyttä IT-järjestelmänvalvojaan.

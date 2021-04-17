@@ -1,8 +1,8 @@
 ---
-title: Office 365-koulutus ilmaiseksi
+title: Office 365 Education maksutta
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 3769774271ac88d359071e8ea741f2a0faa4dc7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca1d0674fb246b0bf7b3899b21fac503675c0a23
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729940"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829625"
 ---
-# <a name="office-365-education-for-free"></a>Office 365-koulutus ilmaiseksi
+# <a name="office-365-education-for-free"></a>Office 365 Education maksutta
 
-[Office 365-koulutus ilmaiseksi](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Office 365 Education maksutta](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-Se ei ole koettelemus! Opiskelijat ja opettajat voivat osallistua Office 365 Education-ohjelmaan, joka sisältää Wordin, Excelin, PowerPointin, OneNoten ja nyt Microsoft teamsin sekä muita luokka huone työkaluja.
+Se ei ole kokeiluversio! Opiskelijat ja opettajat ovat oikeutettuja Office 365 Educationiin, joka sisältää Wordin, Excelin, PowerPointin, OneNoten ja nyt Microsoft Teamsin sekä muita luokkahuonetyökaluja.

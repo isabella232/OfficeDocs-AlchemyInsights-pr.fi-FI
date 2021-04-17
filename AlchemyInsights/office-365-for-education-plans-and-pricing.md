@@ -1,8 +1,8 @@
 ---
-title: Office 365 koulutus suunnitelmille ja hinnoille
+title: Office 365 for Education -palvelupaketit ja hinnoittelu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729580"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829589"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Hanki Microsoft 365 maksutta koko koululle
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Hanki Microsoft 365 maksutta koko koulullesi
 
-Paranna Classroomin ja koulun yhteistyötä ilmaisilla tuottavuus työkaluilla. Sinun on tarkistettava, että olet akkreditoitu oppi laitos, jotta voit hyödyntää näitä tarjouksia.
+Paranna luokkahuoneen ja koulun yhteistyötä ilmaisilla tuottavuustyökaluilla. Sinun on varmistettava, että olet valtuutettu akateeminen oppilaitos, jotta voit hyödyntää näitä tarjouksia.
   
-- [Koulutus suunnitelmien tarkistaminen](https://products.office.com/academic/compare-office-365-education-plans)
+- [Education-palvelusuunnitelmien tarkistaminen](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Vertaa kaikkia Microsoft 365-paketteja](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Vertaa kaikkia Microsoft 365 -tilauksia](https://products.office.com/business/compare-more-office-365-for-business-plans)

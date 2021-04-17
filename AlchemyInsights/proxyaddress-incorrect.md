@@ -1,8 +1,8 @@
 ---
-title: Virheellinen Proproxaddress-osoite
+title: ProxyAddress on virheellinen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801505"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828933"
 ---
-# <a name="proxyaddress-incorrect"></a>Virheellinen Proproxaddress-osoite
+# <a name="proxyaddress-incorrect"></a>ProxyAddress on virheellinen
 
-Kun objekti synkronoidaan Azure AD:hen, Active Directoryn proxyAddresses-määritteessä määritettyjä arvoja verrataan Azure AD-sään töihin, ja proxyAddresses-määrite täytetään Azure AD:ssä. Tämän vuoksi Active Directoryn proxyAddresses-määritteen arvot eivät välttämättä ole samoja kuin Azuren mainosten proxyAddresses-määritteen arvot.
+Kun objekti synkronoidaan Azure AD:n kanssa, ProxyAddresses-määritteessä määritettyjä arvoja verrataan Azure AD -sääntöihin ja proxyAddresses-määrite täytetään Azure AD:ssä. Tämän vuoksi kohteen proxyAddresses-määritteen arvot Active Directoryssa eivät välttämättä ole samoja kuin proxyAddresses-määritteen arvot Azure AD:ssä.
   
-Jos haluat lisä tietoja siitä, miten proproxaddress on täytetty, Katso, [Miten Proproaddress-määrite täytetään Azure](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)AD:ssä.
+Lisätietoja proxyaddress-määrityksestä on kohdassa [Miten proxyAddress-määrite täytetään Azure AD:ssä.](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)
   
 

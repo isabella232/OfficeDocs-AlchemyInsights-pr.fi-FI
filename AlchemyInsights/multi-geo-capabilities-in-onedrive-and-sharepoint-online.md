@@ -1,24 +1,25 @@
 ---
-title: Usean paikan ominaisuudet OneDrivessa ja SharePoint Onlinessa
+title: OneDriven ja SharePoint Onlinen Multi-Geo-ominaisuudet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: e0b22710e4a6924deacea4a624ffeb3188d0629f
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: 75ead5cfd37813d48ed86c23dbf5f6a1f42d95cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357563"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829697"
 ---
-# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Usean paikan ominaisuudet OneDrivessa ja SharePoint Onlinessa
+# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>OneDriven ja SharePoint Onlinen Multi-Geo-ominaisuudet
 
-OneDriven ja SharePoint Onlinen monigeo-ominaisuuksien avulla voit hallita maata tai aluetta, jossa jaetut resurssit, kuten SharePoint-ryhmäsivustot ja Microsoft 365 Group -postilaatikot, tallennetaan levossa.
-- [Monigeo-ominaisuudet OneDrivessa ja SharePoint Onlinessa](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+OneDriven ja SharePoint Onlinen Multi-Geo-ominaisuuksien avulla voit hallita maata tai aluetta, missä jaettuja resursseja, kuten SharePoint-ryhmäsivustot ja Microsoft 365 -ryhmän postilaatikot, säilytetään.
+- [OneDriven ja SharePoint Onlinen Multi-Geo-ominaisuudet](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
