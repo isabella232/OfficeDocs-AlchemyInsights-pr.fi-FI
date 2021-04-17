@@ -1,8 +1,8 @@
 ---
-title: Olemassa olevan näytön vian määritys
+title: Olemassa olevan näytön vianmääritys
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690708"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824576"
 ---
-# <a name="troubleshoot-an-existing-monitor"></a>Aiemmin luodun näytön vian määritys
+# <a name="troubleshoot-an-existing-monitor"></a>Olemassa olevan näytön vianmääritys
 
-Kokeile näitä ratkaisuja näytön vian määritykseen. 
+Kokeile näitä ratkaisuja näytön vianmääritykseen. 
 
-**Näytön näytön päivittäminen:**
+**Päivitä näyttösi näyttö:**
 
-Paina yhtä aikaa seuraavia näppäimiä: Windows-näppäin + Ctrl + vaihto + B. Tämä päivittää tieto liikenteen näytön ohjaimen kanssa. Näytöt vilkkuvat hetkellisesti ja palaavat muutaman sekunnin kuluttua.
+Paina samanaikaisesti seuraavia näppäimiä: Windows-näppäin + Ctrl + Vaihto + B. Tämä päivittää tietoliikenteen grafiikkaohjaimen kanssa. Näytöt vilkkuvat hetkellisesti ja palaavat muutaman sekunnin kuluttua.
 
-**Valvonta laitteiden vian määritys:**
+**Monitorin laitteiston vianmääritys:**
 
-1. Irrota kaapeli, joka yhdistää tieto koneen monitorien ja kytke se takaisin.
-2. Irrota tieto koneesta kaikki muut kuin tärkeät laitteet (kuten sovittimet tai telakat).
+1. Irrota kaapeli, joka yhdistää tietokoneen näyttöön, ja kytke se takaisin sisään.
+2. Irrota kaikki muut kuin tärkeät laitteet tietokoneesta (kuten sovittimet tai telakalla).
 
-**Jos olet äskettäin asentanut päivityksen tieto KONEESEESI, voit palauttaa näyttö ohjaimen seuraavasti:**
+**Jos olet hiljattain asentanut tietokoneeseen päivityksen, voit ottaa näyttöohjaimen takaisin näkyviin:**
 
-1. Valitse **Käynnistä**, kirjoita **laite hallintaan**ja valitse tuloksista **laite hallintaa** .
-2. Laajenna **näyttö sovittimet** -kohta, napsauta näyttösovittimesi hiiren kakkos painikkeella ja valitse **Ominaisuudet**.
-3. Siirry **ohjain** -väli lehteen ja valitse **Edellinen ohjain**. <br>
-Huomautus: Jos tämä ei ole käytettävissä tai se näkyy harmaana, siirry seuraavaan vaiheeseen valitsemalla **ei** alla olevista vaihto ehdoista.
-4. Sinun on ehkä käynnistettävä tieto kone uudelleen, ennen kuin muutokset tulevat voimaan.
+1. Valitse **Käynnistä**, kirjoita **laitehallinta** ja **valitse tuloksista** Laitehallinta.
+2. Laajenna **Näyttösovittimet-osa,** napsauta näyttösovitinta hiiren kakkospainikkeella ja valitse **Ominaisuudet**.
+3. Siirry **Ohjain-välilehteen** ja valitse **Roll Back Driver (Takaisinohjain).** <br>
+Huomautus: Jos tämä ei ole käytettävissä tai se  näkyy harmaana, siirry seuraavaan vaiheeseen valitsemalla alla olevista vaihtoehdoista Ei.
+4. Tietokone on ehkä käynnistettävä uudelleen, ennen kuin muutokset tulevat voimaan.
 
-**Poista näyttö ohjaimen asennus ja asenna se uudelleen:**
+**Poista näyttöohjain ja asenna se uudelleen:**
 
-1. Valitse **Käynnistä**, kirjoita **laite hallintaan**ja valitse tuloksista **laite hallintaa** .
-2. Laajenna **näyttö sovittimet** -kohta, napsauta näyttösovittimesi hiiren kakkos painikkeella, valitse **Poista laite**. 
-3. Valitse **Poista tämän laitteen ohjain ohjelmisto** -kohdan vieressä oleva valinta ruutu ja valitse **Poista asennus**.<br>
-Huomautus: sinua saatetaan pyytää käynnistämään tieto kone uudelleen tässä vaiheessa. Muista kirjoittaa jäljellä olevat ohjeet muistiin ennen uudelleenkäynnistystä.
-4. Avaa laite hallintaa uudelleen.
-5. Laajenna **näyttö sovittimet** -kohta, napsauta näyttösovittimesi hiiren kakkos painikkeella ja valitse **Päivitä ohjain**.
-6. Valitse **Päivitä ohjain ohjelmisto automaattisesti** -kohdassa haku ja noudata asennus ohjeita.
+1. Valitse **Käynnistä**, kirjoita **laitehallinta** ja **valitse tuloksista** Laitehallinta.
+2. Laajenna **Näyttösovittimet-osa,** napsauta näyttösovitinta hiiren kakkospainikkeella ja valitse **Poista laitteen asennus**. 
+3. Valitse kohdan Poista **tämän laitteen ohjainohjelmistot vieressä olevaa ruutua** ja valitse **Poista asennus**.<br>
+Huomautus: Sinua saatetaan pyytää käynnistämään tietokone uudelleen tässä vaiheessa. Muista kirjoittaa loput ohjeet muistiin ennen uudelleenkäynnistystä.
+4. Avaa Laitehallinta uudelleen.
+5. Laajenna **Näyttösovittimet-osa,** napsauta näyttösovitinta hiiren kakkospainikkeella ja valitse **Päivitä ohjain**.
+6. Valitse **Etsi ohjainohjelmisto automaattisesti ja** noudata asennusohjeita.

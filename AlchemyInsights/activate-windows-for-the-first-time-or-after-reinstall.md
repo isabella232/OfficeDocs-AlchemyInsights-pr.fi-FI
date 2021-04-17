@@ -1,8 +1,8 @@
 ---
-title: Aktivoi Windows 10 ensimmäistä kertaa tai uudelleenasentamisen jälkeen
+title: Windows 10:n aktivointi ensimmäistä kertaa tai uudelleenasennuksen jälkeen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823064"
 ---
-# <a name="activate-windows-10"></a>Aktivoi Windows 10
+# <a name="activate-windows-10"></a>Windows 10:n aktivointi
 
-**Windows 10: n Akti voiminen sen asentamisen jälkeen ensimmäistä kertaa**
+**Windows 10:n aktivointi ensimmäisen asennuksen jälkeen:**
 
-- Sinun on käytettävä kelvollista tuote avainta, jotta voit aktivoida Windows 10: n laitteessa, johon ei ole vielä aktivoitu Windows 10: n kopiota.
-- Tarvitset myös kelvollisen tuote avaimen, jos olet asentamassa Windows 10-versiota, jota ei ollut aktivoitu laitteessa aiemmin. Jos haluat esimerkiksi asentaa ja aktivoida Windows 10 Pron laitteessa, johon on asennettu Windows 10 Home, tarvitset kelvollisen Windows 10 Pro-tuote avaimen.
-- Asennuksen aikana sinua pyydetään antamaan kelvollinen tuote avain. Kun asennus on valmis, Windows 10 aktivoituu automaattisesti verkossa. Jos haluat tarkistaa aktivointi tilan Windows 10: ssä, valitse **Aloita** >  **asetusten**  >  **päivitys & tieto turva**  >  **aktivointi**.
+- Windows 10:n aktivointiin on käytettävä voimassa olevaa tuoteavainta laitteessa, jossa ei ole koskaan ollut Windows 10:n aktivoitua kopiota.
+- Tarvitset kelvollisen tuoteavaimen myös, jos asennat Windows 10 -version, jota ei ole aiemmin aktivoitu laitteessa. Jos esimerkiksi haluat asentaa ja aktivoida Windows 10 Pron laitteessa, jossa on Windows 10 Home asennettuna, tarvitset kelvollisen Windows 10 Pro -tuoteavaimen.
+- Asennuksen aikana sinua pyydetään antamaan kelvollinen tuoteavain. Kun asennus on valmis, Windows 10 aktivoidaan automaattisesti verkossa. Jos haluat tarkistaa aktivoinnin tilan Windows 10:ssä, valitse >  **Aloitusasetukset**  >  **Päivitä & suojausaktivointi**  >  .
 
-**Aktivoitaessa Windows 10: n uudelleenasentamisen jälkeen**
+**Aktivointi Windows 10:n uudelleenasentamisen jälkeen:**
 
-- Jos olet aktivoinut Windows 10: n maksutta tai ostanut ja aktivoinut Windows 10: n Microsoft Storesta, sinulla on digitaalinen käyttö oikeus laitteeseesi tuote avaimen sijaan. Tämä tarkoittaa, että voit asentaa uudelleen saman Windows 10-version, johon laitteessasi on digitaalinen käyttö oikeus ilman tuote avaimen syöttämistä.
-- Jos sinua pyydetään antamaan tuote avain uudelleenasennuksen aikana, valitse **Ohita**. Useimmissa tapa uksissa, jos Windows 10 on aktivoitu laitteessasi ennen uudelleenasennusta, se aktivoituu automaattisesti, kun siirryt online-käyttöön.
+- Jos olet aktivoinut maksuttoman Windows 10 -päivityksen tai ostanut ja aktivoinut Windows 10:n Microsoft Storesta, sinulla on laitteellesi digitaalinen käyttöoikeus tuoteavaimen sijaan. Tämä tarkoittaa, että voit asentaa uudelleen saman Windows 10 -version, jota varten laitteellasi on digitaalinen käyttöoikeus, ilman tuoteavainta.
+- Jos sinua pyydetään antamaan tuoteavain uudelleenasennuksen aikana, valitse **Ohita**. Useimmissa tapauksissa jos Windows 10 on aktivoitu laitteessasi ennen sen asentamista uudelleen, se aktivoituu automaattisesti, kun siirryt online-tilaan.

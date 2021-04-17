@@ -1,8 +1,8 @@
 ---
-title: Ratkaisuja Officen asentamiseen Terminal Serveriin liittyviin ongelmiin
+title: Ratkaisut ongelmiin, jotka liittyvät Officen asentamiseen päätepalvelimeen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,28 +10,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738454"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823604"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Ratkaisuja Officen asentamiseen Terminal Serveriin liittyviin ongelmiin
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Ratkaisut ongelmiin, jotka liittyvät Officen asentamiseen päätepalvelimeen
 
-Jos haluat käyttää yhteiskäytössä olevaa tieto koneen Akti vointia, sinulla on oltava Microsoft 365-sovellusten Enterprise-version sisältävä tilaus.
+Jotta voit käyttää jaettua tietokoneen aktivointia, sinulla on oltava Microsoft 365 Apps for Enterprise -tilaus.
   
-- Varmista, että jaettujen tieto koneiden Akti vointi on otettu käyttöön
-- Akti voinnin onnistumisen varmistaminen
-- Jaetussa tieto koneessa tapahtuvan Akti voinnin virhe sanomien tarkasteleminen:
-- "Tililläsi löydettyjä tuotteita ei voi käyttää Officen aktivoimiseen jaetussa tieto kone skenaarioissa"
+- Varmista, että jaetun tietokoneen aktivointi on otettu käyttöön
+- Aktivoinnin onnistumisen varmistaminen
+- Tarkista jaetun tietokoneen aktivoinnin virhesanomat:
+- "Tililtäsi löydettyjä tuotteita ei voi käyttää Officen aktivointiin jaetussa tietokoneessa"
   
-Tämä virhe tarkoittaa, että sinulla ei ole pakettia, joka sisältää Microsoft 365-sovelluksia yritykselle.
+Tämä virhe tarkoittaa, että sinulla ei ole Tilausta, joka sisältää Microsoft 365 -sovellukset yrityksille.
 
-"Käyttöoikeudeton tuote"
+"Ei käyttöollista tuotetta"
 
-- Tarkista, että käyttäjälle on määritetty Microsoft 365-sovellusten käyttö oikeus yritykselle.
-- Tarkista, että käyttäjä kirjautuu käyttäjä tililleen.
-- Tarkista, että jaetussa tieto koneessa ja Inter netissä on yhteys.
+- Tarkista, että käyttäjälle on määritetty Microsoft 365 -yrityssovellusten käyttöoikeus.
+- Tarkista, että käyttäjä kirjautuu sisään käyttäjätilinsä avulla.
+- Tarkista, että jaetun tietokoneen ja Internetin välillä on yhteys.
 
-Lisä tietoja muista vian määritys vihjeistä on Ohje aiheessa [jaettujen tieto koneiden Akti voinnin ongelmien vian määritys](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+Muita vianmääritysvihjeitä on kohdassa Jaetun tietokoneen [aktivoinnin ongelmien vianmääritys](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)

@@ -1,8 +1,8 @@
 ---
-title: Uuden laitteen Akti voiminen
+title: Aktivoi uusi laite
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823280"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Uuden Windows 10-laitteen Akti vointi
+# <a name="activating-a-new-device-running-windows-10"></a>Uuden Windows 10 -laitteen aktivoiminen
 
-Jos ostit uuden laitteen, jonka käyttö järjestelmä on Windows 10, se aktivoituu automaattisesti, kun liität laitteesi internetiin. Jos aktivointi palvelimet ovat varattuja, sinun on ehkä odotettava jonkin aikaa, ennen kuin voit aktivoida Windowsin.
+Jos ostit uuden laitteen, jossa on Windows 10, se aktivoituu automaattisesti, kun yhdistät laitteesi Internetiin. Jos aktivointipalvelimet ovat varattuja, saatat joutua odottamaan hetken, ennen kuin Windows aktivoituu.
 
-Jos haluat tarkistaa aktivointi tilan, valitse **Aloita** **asetusten**  >  **päivitys & tieto turvan**  >  **Akti vointi**.
+Jos haluat tarkistaa aktivoinnin tilan, **valitse** **Aloitusasetusten** päivitys  >  **& suojausaktivointi**  >  .
 
-**Huomautus:** Joissain tapa uksissa sinun on ehkä annettava Windows 10: n tuote avain, joka toimitettiin laitteen pakka uksen mukana, tai jotka sisältyvät laitteeseen liitettyyn korttiin tai Certificate of Authenticity-aitous todistukseen.
+**Huomautus:** Joissakin tapauksissa sinun on ehkä annettava laitteen pakkauksen mukana toimitettu Windows 10 -tuoteavain tai se on oltava kortina tai laitteeseen liitetyssä Certificate of Authenticity (COA) -aitoustodistuksessa.
 
-[Lisä tietoja Akti voinnista Windows 10: ssä](https://support.microsoft.com/help/12440)
+[Lisätietoja aktivoinnista Windows 10:ssä](https://support.microsoft.com/help/12440)

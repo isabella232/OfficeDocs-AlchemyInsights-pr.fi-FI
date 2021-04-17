@@ -1,8 +1,8 @@
 ---
-title: Toimi alueen vahvistaminen GoDaddy-palvelussa
+title: Toimialueen tarkistaminen GoDaddyn avulla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 35ba58e3a28d57d490aee8eb91a8e77f20b14da4
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 248890e78f432015dbaa6eae712f42c96481afaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816178"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824324"
 ---
-# <a name="verify-your-domain-with-godaddy"></a>Toimi alueen vahvistaminen GoDaddy-palvelussa
+# <a name="verify-your-domain-with-godaddy"></a>Toimialueen tarkistaminen GoDaddyn avulla
 
-Jos haluat vahvistaa toimi alueesi, sinun on lisättävä toimi alueen rekisteröinti palveluun TXT-tietue, jotta voit vahvistaa, että omistat toimi alueen. 
+Jotta voit vahvistaa toimialueesi, sinun on lisättävä TXT-tietue toimialuerekisteröijään ja varmistettava, että omistat toimialueesi. 
 
-Seuraa ensin [ohjattua toimi alueen lisäämistä](https://admin.microsoft.com/Adminportal#/Domains) valitsemalla **Asetukset** \> -toimi **alueet**ja **Lisää sitten toimi alue**.
+Noudata ensin [ohjattua Toimialueen lisääminen -toimintoa](https://admin.microsoft.com/Adminportal#/Domains) valitsemalla **Asetukset** \> **Toimialueet** ja sitten **Lisää toimialue.**
   
-Vaiheittaiset ohjeet ovat artikkelissa [DNS-tietueiden luominen osoitteessa GoDaddy Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) .
+Vaiheittaiset ohjeet ovat kohdassa DNS-tietueiden luominen [Microsoft 365:tä](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) varten GoDaddyssä.
