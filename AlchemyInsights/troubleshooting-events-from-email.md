@@ -1,8 +1,8 @@
 ---
-title: Tapahtumien vian määritys sähkö postista
+title: Sähköpostitapahtumien vianmääritys
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658731"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834836"
 ---
-# <a name="troubleshooting-events-from-email"></a>Tapahtumien vian määritys sähkö postista
+# <a name="troubleshooting-events-from-email"></a>Sähköpostitapahtumien vianmääritys
 
-1. Tarkista, että ominaisuus on otettu käyttöön posti laatikolle: **Get-EventsFromEmailConfiguration <mailbox> -Identity**
+1. Tarkista, että ominaisuus on otettu käyttöön postilaatikossa: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Katso sitten tapahtumat sähkö postista-lokit **vienti-Mailposti-Diagnosticlogs <mailbox> -Component timeprofile**
+2. Katso sitten Tapahtumat sähköpostista -lokeja **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. Etsi tapahtumat Sähkö posti-lokista-kohdassa InternetMessageId, joka vastaa posti laatikon kohdetta.  
+3. Etsi Tapahtumat sähköpostista -lokeihin InternetMessageId, joka vastaa postilaatikon kohdetta.  
 
-4. TrustScore määrittää, lisätäänkö kohde vai ei. Tapahtumia lisätään vain, jos Trustiscore = "luotettu".
+4. TrustScore määrittää, lisätäänkö kohde vai ei. Tapahtumat lisätään vain, jos TrustScore = "Luotettu".
 
-TrustScore määräytyy SPF-, DKIM-tai dMarc-ominaisuuksien mukaan, jotka ovat viestin otsikossa.
+TrustScore määritetään SPF-, Dkim- tai Dmarc-ominaisuuksien mukaan, jotka ovat viestin otsikossa.
 
 Voit tarkastella näitä ominaisuuksia seuraavasti:
 
-**Desktop Outlook**
+**Outlookin työpöytäversio**
 
-- Kohteen avaaminen
-- Tiedosto-> ominaisuudet-> Internet-otsikot
+- Avaa kohde
+- Tiedosto -> -> Internet-otsikot
 
 TAI
 
-**Mfcmapia**
+**MFCMapi**
 
-- Saapuneet-kansiossa olevaan kohteeseen siirtyminen
+- Siirtyminen Saapuneet-kansion kohteeseen
 - Etsi PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Nämä ominaisuudet määritetään ja tallennetaan kuljetuksen ja reitityksen aikana. Jos haluat lisä tietoja vian määrityksestä, sinun on ehkä seurattava siirto tukea SPF-, DKIM-ja.-tai DMARC-virheiden varalta.
+Nämä ominaisuudet määritetään ja tallennetaan reitityksen ja reitityksen aikana. Jos tarvitset lisää vianmääritystä, sinun on ehkä seurattava siirtotukea SPF-, DKIM- ja DMARC-virheistä.

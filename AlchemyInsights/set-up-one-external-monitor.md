@@ -1,8 +1,8 @@
 ---
-title: Yhden ulkoiseen näyttöön määrittäminen
+title: Yhden ulkoisen näytön määritäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773907"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835520"
 ---
-# <a name="set-up-one-monitor"></a>Yhden näytön määrittäminen
+# <a name="set-up-one-monitor"></a>Yhden näytön määritäminen
 
-**Tarkista tieto koneesi projekti asetukset**
+**Tietokoneen projektiasetusten tarkastaminen**
 
-1. Avaa projektin asetukset painamalla seuraavia näppäimiä yhtä aikaa: Windows-näppäin (Windows-logon Käynnistä-painike) + P.
-2. Valitse vain **kaksoiskappale**, **Laajenna**tai **toista näyttöä**, riippuen asetuksista.
+1. Avaa projektin asetukset painamalla samanaikaisesti seuraavia näppäimiä: Windows-näppäin (Windows-näppäin Aloituspainike) + P.
+2. Valitse **Monista,** **Laajenna** tai **Vain toinen näyttö** mieltymysten mukaan.
 
-**Huomautus:** Jos tieto KONEESSASI on vain yksi näyttö portti (kuten HDMI tai VGA), usean näytön määrittäminen edellyttää telakointi asemaa tai USB-sovitinta.
+**Huomautus:** Jos tietokoneessa on vain yksi näyttöportti (kuten HDMI tai VGA), useiden näyttöjen asentaminen edellyttää telakointiasemaa tai USB-sovitinta.
 
-Lisäksi jos voit määrittää yhden näytön mutta et useita näyttöjä, tieto koneesi ei ehkä ole yhteensopiva usean näytön kanssa. Katso lisä tietoja tieto koneen alku perä isistä asia kirjoista.
+Jos voit määrittää yhden näytön, mutta et useita näyttöjä, tietokoneesi ei ehkä ole yhteensopiva useiden näyttöjen kanssa. Katso lisätietoja tietokoneen alkuperäisistä asiakirjoista.

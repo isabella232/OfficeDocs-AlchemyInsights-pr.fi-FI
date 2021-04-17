@@ -1,8 +1,8 @@
 ---
-title: Word-tiedostoa ei avattu Kaksoisnapsautettaessa
+title: Word-tiedosto ei avaudu kaksoisnapsauttamalla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794800"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834116"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-asia kirja avattu väärässä sovelluksessa tai se ei avaudu
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-asiakirja avattiin väärään sovellukseen tai se ei avautunut
 
 Kokeile jotain seuraavista ehdotuksista:
 
-**Wordin valitseminen oletukseksi**
+**Wordin valinta oletuskieleksi**
 
-- Napsauta tiedostoa hiiren kakkos painikkeella, valitse **Avaa**ja valitse sitten **Word**
+- Napsauta tiedostoa hiiren kakkospainikkeella, valitse **Avaa kohteessa** ja valitse sitten **Word**
 
-**Suorita pikakorjaus**
+**Pikakorjauksen suorittamisen**
 
-1. Siirry **ohjaus paneeliin > ohjelmat > ohjelmat ja toiminnot**.
+1. Siirry **Ohjauspaneeliin kohdassa > ohjelmat > ominaisuudet.**
 
-2. Valitse Office-tuote, jonka haluat korjata, ja valitse sitten **Muuta**.
+2. Valitse korjattava Office-tuote ja valitse sitten **Muuta**.
 
-3. Valitse **pikakorjaus** -vaihto ehto ja valitse sitten **Korjaa**.
+3. Valitse **Pikakorjaus-vaihtoehto** ja valitse sitten **Korjaa**.
 
-**Ei käytössä olevan Office-version asennuksen poistaminen**
+**Poista niiden Office-versioiden asennus, jotka eivät ole käytössä**
 
-1. Siirry **ohjaus paneeliin > Poista ohjelma**ja valitse sitten poistettava Office-versio.
+1. Siirry **Ohjauspaneeliin > valitse Poista asennettu** ohjelma ja valitse sitten Office-versio, jonka haluat poistaa.
 
 2. Valitse **Poista asennus**.
 
-3. Käynnistä tieto kone uudelleen.
+3. Käynnistä tietokone uudelleen.
 
-**Suorita tämä vian määritys, jos haluat asettaa Office-tiedosto päätteet avattua Officessa**
+**Määritä Office-tiedostotunnisteiden aukeaminen Officessa tämän vianmäärityksen avulla**
 
-1. Suorita tämä vian määritys: https://aka.ms/diag_officefile .
+1. Suorita tämä vianmääritys: https://aka.ms/diag_officefile .
 
-2. **Avaa** tai **Tallenna** vian määritys selaimen mukaan työpöydälle ja **Suorita** se sitten.
+2. Selaimen mukaan avaa **tai** **tallenna** vianmääritys työpöydälle ja sitten **Suorita** se.

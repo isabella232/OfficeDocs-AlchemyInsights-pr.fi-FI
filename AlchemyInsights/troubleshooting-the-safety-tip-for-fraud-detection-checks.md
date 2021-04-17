@@ -1,8 +1,8 @@
 ---
-title: Vian määritys suojaus vihjeestä petosten havaitsemisen tarkistukset
+title: Turvallisuusvihjeen vianmääritys huijausten tunnistustarkistuksissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834728"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Vian määritys suojaus vihjeestä petosten havaitsemisen tarkistukset
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Turvallisuusvihjeen vianmääritys huijausten tunnistustarkistuksissa
 
-Jos saat turva vihjeen, jossa lukee "lähettäjä ei onnistunut huijausten havaitsemisessa, eikä se ehkä ole", lähettäjä ei voinut siirtää DKIM-tai SPF-todennus tarkistuksia. Paras tapa korjata tämä on se, että lähettäjä valtuuttaa itsensä. Jos lähettäjä lähettää viestin puolestasi, sinun on valtuutettava heidät lisäämällä lähettäjän IP-osoite SPF-tietueeseen.
+Jos saat turvallisuusvihjeen, jossa lukee "Lähettäjä ei ole onnistunut havaitsemaan huijauksiamme, mutta he eivät ehkä ole sitä, keitä he näyttävät olevan", lähettäjä ei läpäisynyt DKIM- tai SPF-todennustarkistuksia. Paras tapa ratkaista tämä on se, että lähettäjä voi valtuuttaa itsensä. Jos lähettäjä lähettää viestejä puolestasi, sinun on valtuuttava lähettäjä lisäämällä lähettäjän IP-osoite SPF-tietueeseen.
   
-Lisä tietoja [on kohdassa punaisen (epäilyttävän) suojaus vihjeen vian määritys petosten havaitsemis tarkistuksissa](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
+Lisätietoja [on kohdassa Punaisen (epäilyttävän) turvallisuusvihjeen vianmääritys huijausten tunnistustarkistuksia](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) varten.
   
 Seuraavassa on joitakin muita linkkejä, joista voi olla apua:
   
-- [Tietoja siitä, miten Microsoft käyttää SPF (lähettäjän Policy Framework)-järjestelmää tietojen väärentämisen estämiseen](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Miten Microsoft käyttää SPF (Sender Policy Framework) -kehystä osoitetilemisen estämiseksi](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [SPF-osoitteen määrittäminen estämään tietojen väärentämisen estäminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [SPF:n määritäminen estämään väärentäminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

@@ -1,8 +1,8 @@
 ---
-title: Microsoft Streamin tallennus tila
+title: Microsoft Stream -tallennustila
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833936"
 ---
-# <a name="microsoft-stream-storage"></a>Microsoft Streamin tallennus tila
+# <a name="microsoft-stream-storage"></a>Microsoft Stream -tallennustila
 
-Microsoft Streamin vuokralaiset ovat saaneet 500 Giga tavun tallennus tilaa ja 0,5 Giga tavua lisä tallennus tilaa käyttö oikeutta kohden.
-Lisä tietoja tallennus tilasta on kohdassa:
+Microsoft Stream -vuokralaiset saavat kiinteän 500 Gigatavun tallennustilan ja 0,5 Gigatavun lisätallennustilan käyttöomistajaa kohden.
+Lisätietoja tallennustilasta on kohdassa:
 
-- [Yleistä Microsoft Streamin tallennus tilasta](https://docs.microsoft.com/stream/license-overview#storage)
-- [Tallennus tilan lisääminen Microsoft Streamille](https://docs.microsoft.com/stream/storage-add-on)
-- [Kiintiöt ja rajoitukset Microsoft streamissä](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [Microsoft Stream -tallennustilan yleiskatsaus](https://docs.microsoft.com/stream/license-overview#storage)
+- [Tallennustilan lisääminen Microsoft Streamiin](https://docs.microsoft.com/stream/storage-add-on)
+- [Kiintiöt ja rajoitukset Microsoft Streamissa](https://docs.microsoft.com/stream/quotas-and-limitations)

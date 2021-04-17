@@ -1,8 +1,8 @@
 ---
-title: Microsoft Edgen käyttö eDiscoveryn viennin kromi selaimissa
+title: Microsoft Edgen käyttäminen Ediscovery-vientiin Chromium-selaimilla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734512"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834368"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Microsoft Edgen käyttö eDiscoveryn viennin kromi selaimissa
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Microsoft Edgen käyttäminen Ediscovery-vientiin Chromium-selaimilla
 
-Viimeaikaisen muutoksen vuoksi Microsoft Edge-selaimissa ei enää ole ClickOnce-tukea oletusarvoisesti käytössä. Jos haluat jatkaa Microsoft 365 eDiscoveryn vienti työkalun käyttöä, sinun on joko käytettävä Microsoft Internet Exploreria tai otettava käyttöön ClickOnce-tuki Microsoft Edgessä. 
+Viimeaikaisen muutoksen vuoksi Microsoft Edge -selaimissa ei enää ole ClickOnce-tukea oletusarvoisesti käytössä. Jos haluat jatkaa Microsoft 365:n eDiscovery-vientityökalun käyttöä, sinun on joko käytettävä Microsoft Internet Exploreria tai otettava ClickOnce-tuki käyttöön Microsoft Edgessä. 
 
-Jos haluat ottaa käyttöön ClickOnce-tuen Microsoft Edgessä kromi-perusteella: 
-1. Siirry Microsoft Edge-selaimessa osoitteeseen edge://flags/#edge-click-Once.
-2. Jos haluat määrittää ClickOnce-tuen, muuta **oletus** arvo tai **käytöstä poistettu** -asetus **käytössä**-asetukseksi. 
-3. Valitse selain ikkunan alareunasta **Käynnistä uudelleen**. <br>
- Muutokset tulevat voimaan, kun Microsoft Edge käynnistetään uudelleen. 
+ClickOnce-tuen ottaminen käyttöön Microsoft Edgessä Chromiumin perusteella: 
+1. Siirry Microsoft Edge -selaimessa edge://flags/#edge-click-once.
+2. Jos haluat käyttää ClickOnce-tukiasetusta, muuta **Oletusarvo-** tai Ei **käytössä -asetuksen arvoksi** **Käytössä.** 
+3. Valitse selainikkunan alareunassa Käynnistä **uudelleen**. <br>
+ Muutos tulee voimaan, kun Microsoft Edge on käynnistetty uudelleen. 
 
-Lisä tietoja tästä ja vienti työkalun asennus vaiheista on artikkelissa [ sisältö haun tulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Lisätietoja tästä ja vientityökalun asentamisen vaiheista on seuraavassa kohdassa: [Sisältöhaun tulosten vieminen.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)

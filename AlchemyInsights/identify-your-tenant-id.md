@@ -1,8 +1,8 @@
 ---
-title: Määritä vuokra ajan tunnus
+title: Vuokraajan tunnuksen tunnistaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668271"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834044"
 ---
-# <a name="identify-your-tenant-id"></a>Määritä vuokra ajan tunnus
+# <a name="identify-your-tenant-id"></a>Vuokraajan tunnuksen tunnistaminen
 
-Etsi Microsoft 365-organisaation tunnus (vuokra ajan tunnus) Azure-hallinta keskuksesta.
+Etsi Microsoft 365 -organisaatiotunnus (vuokraajan tunnus) Azure-hallintakeskuksesta.
 
-1. Siirry [Ominaisuudet-sivulla](https://aka.ms/AzurePropertiesPage) **hakemiston tunniste** -ruutuun.
+1. Siirry [Ominaisuudet-sivulla](https://aka.ms/AzurePropertiesPage)Hakemiston tunnus **-ruutuun.**
 
-2. Kopioi tunniste tarpeen mukaan.
+2. Kopioi tunnus tarvittaessa.
 
-Lisä tietoja on Ohje aiheessa [Microsoft 365-organisaatio tunnuksen löytäminen](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+Lisätietoja on kohdassa [Microsoft 365 -organisaatiotunnuksen etsiminen.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

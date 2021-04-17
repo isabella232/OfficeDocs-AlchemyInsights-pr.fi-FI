@@ -1,8 +1,8 @@
 ---
-title: 'Tiimit: Poista keskustelu'
+title: 'Tiimit: keskustelun poistaminen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736789"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835088"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Keskustelun poistaminen Microsoft Teamsissa
 
-Lisä tietoja siitä, miten yksittäiset käyttäjät voivat muokata tai poistaa viestejä, on artikkelissa [lähetetyn viestin muokkaaminen tai poistaminen teamsissa](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263). 
+Lisätietoja siitä, miten yksittäiset käyttäjät voivat muokata tai poistaa viestejä, on Teamsissa [lähetetyn viestin muokkaus- tai poistonäkymässä.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263) 
 
-Poisto vaihtoehdot ovat seuraavat:
+Poistoasetukset sisältävät seuraavat:
 
-- Käyttäjät voivat poistaa omat viestit missä tahansa Teamsissa.
-- Tiimin omistajat voivat valita, voivatko käyttäjät muokata tai poistaa heidän vuokraajansa tai poistaa viestejä, jotka on lähetetty julkiseen kanavaan.
-- Käyttäjät voivat piilottaa tai vaientaa yksityisiä keskustelu ketjujaan (viesti ketjut, jotka tulevat näkyviin, kun napsautat keskustelu kuvaketta).
+- Käyttäjät voivat poistaa omia viestejään missä tahansa Teamsissa.
+- Tiimien omistajat voivat valita, voivatko käyttäjät muokata tai poistaa vuokraajassaan vai poistaako he mitään julkisissa kanavissa julkaistuja viestejä.
+- Käyttäjät voivat piilottaa tai mykistää yksityiset keskusteluketjunsa (keskusteluketjut, jotka tulevat näkyviin, kun napsautat Keskustelu-kuvaketta).
 
-**Huomautus:** Yksityisten keskustelu säikeiden poistaminen on edelleen tarkastelun alaisena, ja sitä voidaan seurata [uservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads)-sovelluksessa. 
+**Huomautus:** Mahdollisuus poistaa yksityisiä keskusteluketjuja on vielä tarkistettava, ja sitä voidaan seurata [UserVoicessa.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads) 

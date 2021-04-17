@@ -1,8 +1,8 @@
 ---
-title: PSTN-Puhelin neuvottelun määrittäminen Skype for Business Onlinessa
+title: PSTN-puhelinneuvottelun määrittäminen Skype for Business Onlinessa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835484"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-Puhelin neuvottelun määrittäminen Skype for Business Onlinessa
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-puhelinneuvottelun määrittäminen Skype for Business Onlinessa
 
-Jos haluat määrittää Skype for Business Onlinen ääni neuvottelu toiminnon, sinun on tehtävä muutamia asioita. 
+Jos haluat määrittää Skype for Business Onlinen puhelinneuvottelun, sinun on tehtävä muutamia asioita. 
 
-- Selvitä, onko maassasi/alueellasi saatavilla ääni neuvotteluja.
+- Selvitä, onko puhelinneuvottelu käytettävissä maassasi tai alueellasi.
 
-- Hanki ja määritä käyttö oikeuksia käyttäjille.
+- Hanki ja määritä käyttöoikeuksia käyttäjille.
 
-- Hanki ja määritä palvelu numeroita.
+- Hanki ja määritä palvelunumerot.
 
-- Viimeistele [Skype for Businessin ääni neuvottelun määrittäminen](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)-kohdan tarkistus luettelo.
+- Täytä tarkistusluettelo Skype [for Businessin puhelinneuvottelun määritäminen -ruudussa.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
