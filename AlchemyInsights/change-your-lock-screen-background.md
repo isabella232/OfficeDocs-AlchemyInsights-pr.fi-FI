@@ -1,8 +1,8 @@
 ---
-title: Lukitus näytön taustan vaihtaminen
+title: Lukitusnäytön taustan muuttaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714469"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818105"
 ---
-# <a name="change-your-lock-screen-background"></a>Lukitus näytön taustan vaihtaminen
+# <a name="change-your-lock-screen-background"></a>Lukitusnäytön taustan muuttaminen
 
-- Siirry **asetusten**  >  **mukauttamisen**  >  **lukitus näyttöön**. Tai napsauta tai napauta [tätä](ms-settings:lockscreen?activationSource=GetHelp).
+- Siirry Asetusten  >  **mukauttaminen**  >  **-lukitusnäyttöön.** Voit myös napsauttaa tai napauttaa [tätä](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Jos haluat määrittää mukautetun tausta kuvan, valitse **kuva** avattavasta **tausta** -luettelosta ja valitse kuva tai **Etsi se selaamalla** .
+- Jos haluat määrittää mukautetun **taustakuvan,** valitse **kuva** avattavasta Tausta-luettelosta ja valitse sitten **Selaa** kuvaan.
 
-  ![Mukautetun tausta kuvan asettaminen.](media/set-custom-background-pic.png)
+  ![Voit määrittää mukautetun taustakuvan.](media/set-custom-background-pic.png)
 
-- Jos haluat määrittää diaesityksen mukautetuista kuvista, valitse **Diaesitys** avattavasta **tausta** -luettelosta ja valitse albumi tai Lisää kansio, joka sisältää diaesityksen kuvat.
+- Jos haluat määrittää mukautettujen kuvien diaesityksen, valitse **Diaesitys** avattavasta Tausta-luettelosta ja valitse albumi tai lisää kansio, joka sisältää diaesityksen kuvat. 
 
-  ![Määritä mukautettuja kuvia sisältävä diaesitys.](media/set-up-slideshow-background.png)
+  ![Mukautettujen kuvien diaesityksen luominen.](media/set-up-slideshow-background.png)

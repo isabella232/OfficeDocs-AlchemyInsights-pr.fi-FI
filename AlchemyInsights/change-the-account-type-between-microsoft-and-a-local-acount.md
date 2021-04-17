@@ -1,8 +1,8 @@
 ---
-title: Tili tyypin vaihtaminen Microsoft-tilin ja paikallisen tilin välillä
+title: Microsoft-tilin ja paikallisen tilin tilin tyypin muuttaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681509"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818429"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Kirjaudu sisään kirjautuvan tili tyypin vaihtaminen
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Muuta tilityyppiä, jolla kirjaudut sisään
 
-Windows 10: een kirjautumiseen käytettävän tilin tyypin vaihtaminen
+Voit muuttaa Windows 10:een kirjautumisen tilin tyypin näin:
 
-1. Valitse **Aloita**  >  **Asetukset**  >  **Accounts**  >  -kohdasta**tietosi**.
-2. Jos käytät paikallista tiliä, joka ei ole linkitetty Sähkö posti osoitteeseen, mutta haluat käyttää Microsoft-tiliä, valitse **sen sijaan Kirjaudu sisään Microsoft-tilillä**.
-3. Jos käytät Microsoft-tiliä, joka on linkitetty Sähkö posti osoitteeseen, mutta haluat käyttää paikallista tiliä, valitse **sen sijaan Kirjaudu sisään paikallisessa tilissä**.
-4. Kirjoita tarvittaessa Sala sanasi ja valitse sitten **Seuraava**.
-5. Käynnistä laite uudelleen. Kun seuraavan kerran kirja udut sisään, tili, johon olet siirtynyt, tulee näkyviin.
+1. Valitse   >  **AloitusasetuksetTilit**  >    >  **tietosi**.
+2. Jos käytät paikallista tiliä, jota ei ole linkitetty sähköpostiosoitteeseen, mutta haluat käyttää Microsoft-tiliä, valitse Kirjaudu sen sijaan **sisään Microsoft-tilillä**.
+3. Jos käytät Microsoft-tiliä, joka on linkitetty sähköpostiosoitteeseen, mutta haluat käyttää paikallista tiliä, valitse Kirjaudu sisään **paikallisella tilillä**.
+4. Kirjoita tarvittaessa salasanasi ja valitse sitten **Seuraava**.
+5. Käynnistä laite uudelleen. Kun seuraavan kerran kirjaudut sisään, näkyviin tulee tili, joksi siirryit.

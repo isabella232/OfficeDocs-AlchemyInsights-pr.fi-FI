@@ -1,8 +1,8 @@
 ---
-title: Bluetooth-äänen laatu on heikko
+title: Bluetooth-äänenlaatu on heikko
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820103"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth-äänen laatu ongelman korjaaminen
+# <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth-äänenlaatuongelman ratkaiseminen
 
-Jos Bluetooth-laite on yhdistetty, mutta äänen laatu on heikko, kokeile seuraavaa:
+Jos Bluetooth-laitteesi on yhdistetty, mutta äänenlaatu on heikko, kokeile seuraavaa:
 
-- Varmista, että ääni toistetaan Bluetooth-laitteen kautta. Valitse **Käynnistä**  >  **Asetukset**  >  **järjestelmän**  >  **ääni**. Valitse **Valitse tulostus laite**-kohdassa Bluetooth-ääni laite.
-- Keskeytä muut Bluetooth-käyttöä mahdollisesti käyttävät asiat, kuten tiedostojen jakaminen Bluetoothin kautta. Lisä tietoja on Ohje aiheessa [ääni ongelmien korjaaminen Windows 10: ssä](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Varmista, että Bluetooth-laitteelle on valittu stereo, jotta voit varmistaa parhaan äänen laadun. Tee näin: 
-    1. Valitse tehtävä palkin oikeassa reunassa **äänen määrä**ja valitse sitten toisto laite valitsemalla nuolen kärki kuvake.
-    2. Valitse Bluetooth-laite ja varmista, että **stereo** -vaihto ehto on valittuna. (Heikompi äänen laatu-vaihto ehto on **handsfree**.)
-    3. Jos stereo-vaihto ehto ei ole käytettävissä, Poista laite **Asetukset**-kohdassa  >  **Devices**  >  **Bluetooth & muut laitteet**ja lisää sitten laite uudelleen. Varmista sitten, että stereo on valittuna, tarkistamalla **ääni** uudelleen.
+- Varmista, että ääni toistetaan Bluetooth-laitteen kautta. Valitse   >  **AloitusasetuksetJärjestelmäääni**  >    >  . Valitse **Valitse tulostuslaite -kohdassa** Bluetooth-äänilaite.
+- Keskeytä muut Bluetoothia mahdollisesti käyttävät asiat, kuten tiedostojen jakaminen Bluetoothin kautta. Lisätietoja on kohdassa [Ääniongelmien ratkaiseminen Windows 10:ssä.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- Varmista, että Bluetooth-laitteelle on valittu stereo, jotta äänenlaatu on paras. Voit tehdä tämän näin: 
+    1. Valitse tehtäväpalkin oikeassa reunassa **Äänenvoimakkuus** ja valitse sitten toistolaite valitsemalla kaksikulmainen kuvake.
+    2. Valitse Bluetooth-laite ja varmista, että **Stereo-vaihtoehto** on valittuna. (Huono äänenlaatuvaihtoehto on **Handsfree.)**
+    3. Jos stereo ei ole käytettävissä vaihtoehtona, poista laite kohdassa  >  **AsetuksetLaitteet**  >  **Bluetooth& muut laitteet** ja lisää sitten laite uudelleen. Varmista sitten **äänenvoimakkuuden paneelista** uudelleen, että stereo on valittuna.
 

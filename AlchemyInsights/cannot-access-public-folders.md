@@ -1,8 +1,8 @@
 ---
-title: Yleisten kansioiden käyttäminen ei onnistu
+title: Julkisten kansioiden käyttö ei ole käytettävissä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812544"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819509"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei voi muodostaa yhteyttä julkisiin kansioihin
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei voi muodostaa yhteyttä yleisiin kansioihin
 
-Jos Julkinen-kansion käyttö ei toimi joillekin käyttäjille, kokeile seuraavaa:
+Jos yleinen kansion käyttö ei toimi joillakin käyttäjillä, kokeile seuraavaa:
 
-Muodosta yhteys EXO PowerShelliin ja Määritä ongelman käyttäjä tilillä oleva Defaunpublic-posti laatikko-parametri vastaamaan toimivan käyttäjä tilin parametria.
+Muodosta yhteys EXO PowerShelliin ja määritä ongelmakäyttäjätilin DefaultPublicFolderMailbox-parametri vastaamaan toimivan käyttäjätilin parametria.
 
-Esimerkiksi
+Esimerkki:
 
-Get-Mailbox WorkingUser | FT Defaja Publictillbox, Effectivepublikansiposti laatikko
+Get-Mailbox WorkingUser-| ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Posti laatikon ProblemUser-Defauspublicifolder-posti laatikon asettaminen \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-Odota vähintään yksi tunti, ennen kuin muutos tulee voimaan.
+Odota vähintään yksi tunti, jotta muutos tulee voimaan.
 
-Jos ongelma jatkuu, noudata [näitä ohjeita](https://aka.ms/pfcte) , jotta voit suorittaa yleisten kansioiden käyttö ongelmien vian määrityksen Outlookin avulla.
+Jos ongelma ei muutu, noudata [näitä ohjeita](https://aka.ms/pfcte) yleisen kansion käytön ongelmien vianmääritykseen Outlookin avulla.
  
-Voit **määrittää, ketkä käyttäjät voivat käyttää yleisiä kansioita Outlookin avulla**:
+**Voit määrittää, k voivatko käyttäjät käyttää julkisia kansioita Outlookin avulla:**
 
-1.  Käytä joukkoa-CASMailbox <mailboxname> -publickansioasiakaskäyttöoikeus $True tai $false  
+1.  Käytä Set-CASMailbox <mailboxname> -PublicFolderClientAccess -$true tai $false  
       
-    $true: Salli käyttäjien käyttää yleisiä kansioita Outlookissa  
+    $true: Salli käyttäjien käyttää julkisia kansioita Outlookissa  
       
-    $false: Estä Outlookin yleisten kansioiden käyttö. Tämä on oletusarvo.  
+    $false: Estä käyttäjien pääsy Yleisiin kansioihin Outlookissa. Tämä on oletusarvo.  
         
-2.  Asetukset-OrganizationConfig-Publiclickshowclient Control $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Huomautus** Tämä toiminto sarja voi hallita yhteyksiä vain Windows-asiakas ohjelmien Outlookin Työpöytä versiossa. Käyttäjä voi edelleen käyttää yleisiä kansioita OWA-tai Outlook for Mac-sovelluksessa.
+**Huomautus** Tämä toimenpide voi hallita yhteyksiä vain Outlookin työpöytäsovelluksella Windows-asiakassovellohjelmia varten. Käyttäjä voi edelleen käyttää julkisia kansioita OWA:n tai Outlook for Macin avulla.
  
-Lisä tietoja on kohdassa [valvottavien yhteyksien tuen ilmoittaminen Outlookin julkisissa kansioissa](https://aka.ms/controlpf).
+Lisätietoja on kohdassa [Valvotuille yhteyksille Outlookin](https://aka.ms/controlpf)yleisiin kansioihin -tuen ilmoittaminen.

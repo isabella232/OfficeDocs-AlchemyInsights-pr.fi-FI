@@ -2,7 +2,7 @@
 title: Kielen vaihtaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682967"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818969"
 ---
 # <a name="change-my-language"></a>Kielen vaihtaminen
 
-Outlook-sovellus käännetään automaattisesti kielelle, johon laitteesi on valittu. 
+Outlook-sovellus käännetään automaattisesti kielelle, jonka laite on määritetty. 
 
-(Katso [luettelo Outlookin tukemista kielistä](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(Katso [Luettelo Outlookin tukemista kielistä.)](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
 
-**Voit vaihtaa laitteen kielen**seuraavasti: 
+**Laitteen kielen vaihtaminen:** 
 
-**Android-laitteessa**: 
+**Androidissa:** 
 
-- Laitteen asetukset > kieli ja syöte 
+- Laitteen asetukset > ja syöttötapa 
 
-**IOS:ssä**: 
+**iOS:ssä:** 
 
-- Laitteen asetukset > yleiset > kieli & alue 
+- Laitteen asetukset > yleinen > kieli & alue 

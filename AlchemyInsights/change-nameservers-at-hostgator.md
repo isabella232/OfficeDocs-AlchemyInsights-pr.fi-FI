@@ -1,26 +1,27 @@
 ---
-title: Nameservers yrityksessä Hostgator
+title: Nimipalvelimien muuttaminen Hostgator-palvelussa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5861"
 - "14"
-ms.openlocfilehash: 4258058220fd5e79242aa762339a830aff5ef3b6
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: 0f77e14c7ca729370075f33e692461a15b1b4964
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748835"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818753"
 ---
-# <a name="change-nameservers-at-hostgator"></a>Nameservers yrityksessä Hostgator
+# <a name="change-nameservers-at-hostgator"></a>Nimipalvelimien muuttaminen Hostgator-palvelussa
 
-[Nimipalvelimien muuttaminen microsoft 365:n määrittämiseksi Hostgatorin avulla](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
+[Nimipalvelimien muuttaminen siten, että Microsoft 365 määritetään Hostgator-palvelun kautta](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
 
-[Muiden toimialueiden ongelmien kokeile Verkkotunnuksia koskevia usein kysyttyjä kysymyksiä](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+[Katso muita toimialueisiin liittyviä ongelmia kohdasta Toimialueiden usein kysytyt kysymykset](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

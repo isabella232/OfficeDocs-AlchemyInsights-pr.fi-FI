@@ -1,8 +1,8 @@
 ---
-title: Tilin kuvan vaihtaminen
+title: Vaihda tilin kuva
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734044"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819257"
 ---
-# <a name="change-account-picture"></a>Tilin kuvan vaihtaminen
+# <a name="change-account-picture"></a>Vaihda tilin kuva
 
-Jos käytät Windows 10: een kirjautumiseen käyttäjä nimeä ja Sala sanaa, käytät paikallista tiliä. **Paikallisen tilin kuvan vaihtaminen**:
+Jos kirjaudut Windows 10:lle käyttäjänimen ja salasanan avulla, käytössäsi on paikallinen tili. **Paikallisen tilin kuvan muuttaminen:**
 
-1. Valitse **Käynnistä**  >  **Asetukset**  >  **Accounts**  >  -kohdasta**tiedot**.
-2. Valitse **Luo oma kuva**-kohdassa **Selaa yksi**. Jos laitteessasi on kamera, valitse **kamera** ja ota Selfie. 
-    **Huomautus**: Windows muistaa viimeiset kolme kuvaa, joita olet käyttänyt. Siirry haluamaasi kuvaan napsauttamalla tiedot-sivulla olevaa kuvaa.
+1. Siirry kohtaan  >  **AloitusasetuksetTilit**  >    >  **tietosi**.
+2. Valitse **Luo oma kuva**-kohdassa Selaa **.** Jos laitteessasi on kamera, valitse **Kamera ja** ota selfie. 
+    **Huomautus:** Windows muistaa kolme viimeistä käyttämääsi kuvaa. Vaihda kuvaan napsauttamalla Oma tieto -sivulla olevaa kuvaa.
 
-Jos käytät kirjautumiseen Sähkö posti osoitetta ja Sala sanaa, käytät Microsoft-tiliä. Voit vaihtaa Microsoft-tilisi kuvan seuraavasti:
+Jos kirjaudut sisään sähköpostiosoitteella ja salasanalla, käytössäsi on Microsoft-tili. Microsoft-tilin kuvan muuttaminen:
 
-1. Kirjaudu sisään **tiedot** -sivullesi Microsoft-tililläsi.
-2. Valitse **Lisää kuva** tai **Vaihda kuva**ja noudata sitten ohjeita.
+1. Kirjaudu sisään **Microsoft-tilisi** Tiedot-sivulle.
+2. Valitse **Lisää kuva** tai Vaihda **kuva** ja noudata sitten ohjeita.
 
-[Hanki lisää ohjeita Microsoft-tilin määrittämiseen ja hallintaan](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Hanki lisää ohjeita Microsoft-tilin määrittämiseen ja hallintaan.](https://support.microsoft.com/products/microsoft-account?category=manage-account)

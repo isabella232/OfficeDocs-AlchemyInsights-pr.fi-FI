@@ -1,8 +1,8 @@
 ---
-title: Peruuta tilaus
+title: Tilauksen peruuttaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,27 +14,27 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 5b1f336202c621f45b98b91772faf0b84887e48a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088612"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819617"
 ---
-# <a name="cancel-subscription"></a>Peruuta tilaus
+# <a name="cancel-subscription"></a>Tilauksen peruuttaminen
 
-Perustiedot-sivulla valittu tilaus on jo peruutettu. Oletko varma, että tämä on oikea tilaus, jonka haluat peruuttaa?
+Perustiedot-sivulla valittu tilaus on jo peruttu. Onko tämä varmasti se tilaus, jonka haluat peruuttaa?
 
-Voit peruuttaa Azure-tila uksen Azure-portaalissa vain, jos olet tila uksen omistaja tai tilin hallinnoija. Noudata seuraavia ohjeita.
+Voit peruuttaa Azure-tilauksen Azure-portaalissa vain, jos olet tilauksen omistaja tai tilin järjestelmänvalvoja. Noudata seuraavia ohjeita.
 
-1. Valitse tilaus, jonka haluat peruuttaa [Azure-portaalin tila ukset-sivulla](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Valitse **Yleiskatsaus** ja valitse sitten **Peruuta tilaus**.
+1. Valitse tilaus, jonka haluat peruuttaa [Azure-portaalin Tilaukset-sivulla](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Valitse **Yleiskatsaus** ja sitten **Peruuta tilaus**.
 
-**Mitä tapahtuu, kun peruutan tila ukseni?**
+**Mitä tapahtuu tilauksen peruuttamisen jälkeen?**
 
-Kun olet peruuttanut peruutuksen, laskutus keskeytetään välittömästi. Voi kuitenkin kestää jopa 10 minuuttia, ennen kuin peruutus näkyy portaalissa. Jos peruutat laskun keskellä laskutus jaksoa, lähetämme lopullisen laskun laskulle tyypillisellä laskutus päivämäärällä, joka päättyy.
+Peruutuksen jälkeen laskutus pysäytetään heti. Peruutuksen näkyminen portaalissa voi kuitenkin kestää jopa 10 minuuttia. Jos peruutat tilauksen kesken laskutusjakson, lähetämme lopullisen laskun tavallisena jakson jälkeisenä laskun päivämääränä.
 
-Kun olet peruuttanut palvelun, palvelut on poistettu käytöstä. Tämä tarkoittaa, että virtuaaliset laitteet on varattu, väliaikaiset IP-osoitteet vapautetaan ja tallennus tila on vain luku-tilassa.
+Peruutuksen jälkeen palvelusi poistetaan käytöstä. Tämä tarkoittaa, että virtuaalikoneistasi poistetaan varaus, tilapäiset IP-osoitteet vapautetaan ja tallennustila muuttuu vain luku -oikeudeksi.
 
-Kun tilauksesi on peruutettu, Microsoft odottaa 30-90 päivää ennen tietojen poistamista pysyvästi, jos haluat käyttää sitä tai muutat mielesi. Emme veloita tietojen säilyttämisestä. Lisä tietoja on artikkelissa [Microsoft Trust Center – tietojen hallinta](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Kun tilaus on peruutettu, Microsoft odottaa 30–90 päivää ennen tietojen poistamista pysyvästi, jos haluat käyttää niitä tai muutat mielesi. Sinua ei veloiteta tietojen säilyttämisestä. Lisätietoja on kohdassa [Microsoftin luottamuskeskus – miten hallitsemme tietojasi](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 

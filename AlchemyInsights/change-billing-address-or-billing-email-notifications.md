@@ -1,8 +1,8 @@
 ---
-title: Laskutus osoitteen tai laskutus Sähkö posti-ilmoitusten muuttaminen
+title: Laskutusosoitteen tai laskutuksen sähköposti-ilmoitusten muuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793539"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819185"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Laskutus osoitteen tai laskutus Sähkö posti-ilmoitusten muuttaminen
+# <a name="change-billing-address-or-billing-email-notifications"></a>Laskutusosoitteen tai laskutuksen sähköposti-ilmoitusten muuttaminen
 
-**Laskutus osoitteen muuttaminen**
+**Muuta Bill-To osoite**
 
-1. Siirry hallinta keskuksessa **laskutus > [Maksu tavat](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** -sivulle.
+1. Siirry hallintakeskuksessa Laskutus- ja **> [maksutavat -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
-2. Valitse luotto kortti tai pankki tili, jota haluat muuttaa.
+2. Valitse luottokortti tai pankkitili, jota haluat muuttaa.
 
-3. Valitse **maksu tapa tiedot** -sivulla **Muokkaa**.
+3. Valitse **Maksutapatiedot-sivulla** **Muokkaa**.
 
-4. Päivitä laskutus osoitteesi ja valitse sitten **tallenna > valmis**.
+4. Päivitä laskutusosoite ja valitse sitten **Tallenna > Valmis**.
 
-**Vaihda vaihtoehtoinen Sähkö posti osoite, johon laskutus ilmoitukset lähetetään** 
+**Laskutusilmoitusten vaihtoehtoisen sähköpostiosoitteen muuttaminen** 
 
-1. Napsauta **käyttäjä-kuvaketta**ja valitse sitten **Oma tili**.
+1. Napsauta **Käyttäjä-kuvaketta** ja valitse **sitten Oma tili**.
 
-2. Valitse **henkilökohtaiset tiedot**.
+2. Valitse **Henkilökohtaiset tiedot**.
 
-3. Valitse **yhteys tiedot** -ruudussa **Muokkaa**.
+3. Valitse **Yhteystiedot-ruudussa** **Muokkaa**.
 
-4. Kirjoita **Vaihtoehtoinen Sähkö posti** -ruutuun vaihtoehtoinen Sähkö posti osoite, jota haluat käyttää, ja valitse sitten **Tallenna**.
+4. Kirjoita **Vaihtoehtoinen sähköpostiosoite** -ruutuun vaihtoehtoinen sähköpostiosoite, jota haluat käyttää, ja valitse sitten **Tallenna**.
 
-Lisä tietoja osoitteen ja ilmoitusten muutoksista on Ohje aiheessa [Microsoft 365 for Businessin laskutus osoitteiden muuttaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Lisätietoja osoitteen ja ilmoitusten muutoksista on kohdassa [Microsoft 365 for Businessin laskutusosoitteiden muuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)

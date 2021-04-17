@@ -1,8 +1,8 @@
 ---
-title: Tila uksen peruuttaminen Azuressa
+title: Tilauksen peruuttaminen Azuresta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819581"
 ---
-# <a name="cancel-subscription"></a>Peruuta tilaus
+# <a name="cancel-subscription"></a>Tilauksen peruuttaminen
 
-Vain tilin hallinnoija tai omistaja suoraan tila uksesta voit peruuttaa Azuren tila uksen Azure-portaalissa, jos et enää tarvitse pakettia. Noudata seuraavia ohjeita.
+Vain tilauksessa oleva tilin järjestelmänvalvoja tai omistaja voi peruuttaa Azure-tilauksen Azure-portaalista, jos et enää tarvitse tilausta. Noudata seuraavia ohjeita.
 
-1. Valitse tilaus [Azure-portaalin tila ukset-sivulta](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+1. Valitse tilaus [Azure-portaalin Tilaukset-sivulla](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Valitse tilaus, jonka haluat peruuttaa.
-3. Valitse **Yleiskatsaus** ja valitse sitten **Peruuta tilaus** .
+3. Valitse **Yleiskatsaus** ja sitten **Peruuta tilaus**.
 
-**Mitä tapahtuu, kun peruutan tila ukseni?**
+**Mitä tapahtuu tilauksen peruuttamisen jälkeen?**
 
-Kun olet peruuttanut peruutuksen, laskutus keskeytetään välittömästi. Voi kuitenkin kestää jopa 10 minuuttia, ennen kuin peruutus näkyy portaalissa. Jos peruutat laskun keskellä laskutus jaksoa, lähetämme lopullisen laskun laskulle tyypillisellä laskutus päivämäärällä, joka päättyy.
+Peruutuksen jälkeen laskutus pysäytetään heti. Peruutuksen näkyminen portaalissa voi kuitenkin kestää jopa 10 minuuttia. Jos peruutat tilauksen kesken laskutusjakson, lähetämme lopullisen laskun tavallisena jakson jälkeisenä laskun päivämääränä.
 
-Kun olet peruuttanut palvelun, palvelut on poistettu käytöstä. Tämä tarkoittaa, että virtuaaliset laitteet on varattu, väliaikaiset IP-osoitteet vapautetaan ja tallennus tila on vain luku-tilassa.
+Peruutuksen jälkeen palvelusi poistetaan käytöstä. Tämä tarkoittaa, että virtuaalikoneistasi poistetaan varaus, tilapäiset IP-osoitteet vapautetaan ja tallennustila muuttuu vain luku -oikeudeksi.
 
-Kun tilauksesi on peruutettu, Microsoft odottaa 30-90 päivää ennen tietojen poistamista pysyvästi, jos haluat käyttää sitä tai muutat mielesi. Emme veloita tietojen säilyttämisestä. Lisä tietoja on artikkelissa [Microsoft Trust Center – tietojen hallinta](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Kun tilaus on peruutettu, Microsoft odottaa 30–90 päivää ennen tietojen poistamista pysyvästi, jos haluat käyttää niitä tai muutat mielesi. Sinua ei veloiteta tietojen säilyttämisestä. Lisätietoja on kohdassa [Microsoftin luottamuskeskus – miten hallitsemme tietojasi](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
-**Azure-tila uksen peruuttaminen**
+**Azure-tilauksen peruuttaminen**
 
-- [Kuka voi peruuttaa tila uksen?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
-- [Mitä tapahtuu tila uksen jälkeen?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
+- [Kuka voi peruuttaa tilauksen?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
+- [Mitä tapahtuu tilauksen jälkeen](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-- [Aktivoi tilaus uudelleen](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
-- [Tila uksen vaihtaminen](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Tilauksen uudelleenaktivointi](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
+- [Tilauksen vaihtaminen](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
