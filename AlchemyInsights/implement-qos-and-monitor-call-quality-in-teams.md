@@ -1,8 +1,8 @@
 ---
-title: QoS-ja valvo puhelujen laatua Teamsissa
+title: Ota QoS käyttöön ja valvo puhelujen laatua Teamsissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829229"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="f8c5d-102">QoS-ja valvo puhelujen laatua Teamsissa</span><span class="sxs-lookup"><span data-stu-id="f8c5d-102">Implement QoS and monitor call quality in Teams</span></span>
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="9894b-102">Ota QoS käyttöön ja valvo puhelujen laatua Teamsissa</span><span class="sxs-lookup"><span data-stu-id="9894b-102">Implement QoS and monitor call quality in Teams</span></span>
 
-<span data-ttu-id="f8c5d-103">Soita Analyticsia ja puhelun laadun koonti näyttöä voidaan käyttää puhelujen laatuun liittyvien ongelmien vian määritykseen Microsoft Teamsissa.</span><span class="sxs-lookup"><span data-stu-id="f8c5d-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="f8c5d-104">Lisä tietoja palvelun laadusta (QoS), puhelun analysoinnista ja puhelun laadun koonti näytöstä (CQD) on artikkelissa [QoS-ja valvo puhelujen laatua Microsoft Teamsissa](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span><span class="sxs-lookup"><span data-stu-id="f8c5d-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 
+<span data-ttu-id="9894b-103">Puhelujen analytiikkaa ja puhelun laadun koontinäyttöä voi käyttää puheluiden laatuongelmien vianmääritykseen Microsoft Teamsissa.</span><span class="sxs-lookup"><span data-stu-id="9894b-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="9894b-104">Lisätietoja Quality of Service (QoS) -palvelusta, puheluanalyysista ja puhelun laadun koontinäytöstä (CQD) on kohdassa QoS:n käyttäminen ja puhelujen laadun [valvonta Microsoft Teamsissa.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)</span><span class="sxs-lookup"><span data-stu-id="9894b-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 

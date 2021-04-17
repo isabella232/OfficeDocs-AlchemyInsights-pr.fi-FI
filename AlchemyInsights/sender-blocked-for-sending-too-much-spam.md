@@ -1,10 +1,12 @@
 ---
-title: Lähettäjä rajoitettu liikaa roskapostia varten
+title: Lähettäjä on rajoitettu liiallisen roskapostin lähettämisen takia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+ms.date: 04/14/2021
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,15 +14,17 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 23d09bd34ad13bdfce3259afcafb14222920f95f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: a35c235efc4571d465c6d6a375866e6570152164
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511901"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829517"
 ---
-# <a name="account-is-restricted-for-sending-too-much-spam"></a><span data-ttu-id="1a2b4-102">Tili on rajoitettu liikaa roskapostia varten</span><span class="sxs-lookup"><span data-stu-id="1a2b4-102">Account is restricted for sending too much spam</span></span>
+# <a name="account-is-restricted-for-sending-too-much-spam"></a><span data-ttu-id="df083-102">Tili on rajoitettu liiallisen roskapostin lähettämisen takia</span><span class="sxs-lookup"><span data-stu-id="df083-102">Account is restricted for sending too much spam</span></span>
 
-<span data-ttu-id="1a2b4-103">Jos jonkun käyttäjän sähköpostin lähettäminen on estetty, järjestelmänvalvojana voit [poistaa tilin eston itse](https://protection.office.com/?hash=/restrictedusers) **avaamatta tukipyyntöä**.</span><span class="sxs-lookup"><span data-stu-id="1a2b4-103">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://protection.office.com/?hash=/restrictedusers) **without opening a support case**.</span></span> <span data-ttu-id="1a2b4-104">Käyttäjä voi lähettää sähköpostia tunnin kuluessa eston poistamisen jälkeen.</span><span class="sxs-lookup"><span data-stu-id="1a2b4-104">The user will be able to send email within an hour after removing the restriction.</span></span>
+<span data-ttu-id="df083-103">**Huomautus** Voit käyttää Microsoft 365 -tietoturvakeskusta paikasta [https://security.microsoft.com](https://security.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="df083-103">**Note** You can access the Microsoft 365 security center at [https://security.microsoft.com](https://security.microsoft.com).</span></span>
 
-<span data-ttu-id="1a2b4-105">Palvelu estää käyttäjää lähettämästä sähköpostia sen jälkeen, kun se on havainnut vaarantuneen tilin ja/tai lähtevän roskapostin.</span><span class="sxs-lookup"><span data-stu-id="1a2b4-105">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="1a2b4-106">Noudata käyttäjän osalta varotoimenpiteenä ohjeita artikkelissa [Vaarantuneen sähköpostitilin kanssa toimiminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="1a2b4-106">As a precaution, follow the steps in [Responding to a Compromised Email Account](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) for the user.</span></span>
+<span data-ttu-id="df083-104">Jos jonkun käyttäjän sähköpostin lähettäminen on estetty, järjestelmänvalvojana voit [poistaa tilin eston itse](https://security.microsoft.com/?hash=/restrictedusers) **avaamatta tukipyyntöä**.</span><span class="sxs-lookup"><span data-stu-id="df083-104">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://security.microsoft.com/?hash=/restrictedusers) **without opening a support case**.</span></span> <span data-ttu-id="df083-105">Käyttäjä voi lähettää sähköpostia tunnin kuluessa eston poistamisen jälkeen.</span><span class="sxs-lookup"><span data-stu-id="df083-105">The user will be able to send email within an hour after removing the restriction.</span></span>
+
+<span data-ttu-id="df083-106">Palvelu estää käyttäjää lähettämästä sähköpostia sen jälkeen, kun se on havainnut vaarantuneen tilin ja/tai lähtevän roskapostin.</span><span class="sxs-lookup"><span data-stu-id="df083-106">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="df083-107">Noudata käyttäjän osalta varotoimenpiteenä ohjeita artikkelissa [Vaarantuneen sähköpostitilin kanssa toimiminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="df083-107">As a precaution, follow the steps in [Responding to a Compromised Email Account](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) for the user.</span></span>
