@@ -1,8 +1,8 @@
 ---
-title: Kumppanuus suhteen lisääminen, muuttaminen tai poistaminen
+title: Kumppanisuhteen lisääminen, muuttaminen tai poistaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688438"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822596"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a>Kumppanuus suhteen lisääminen, muuttaminen tai poistaminen
+# <a name="add-change-or-remove-a-partner-relationship"></a>Kumppanisuhteen lisääminen, muuttaminen tai poistaminen
 
-Järjestelmänvalvojana voit käyttää kumppania, kun haluat ostaa, aktivoida ja uusia Microsoft 365-tila uksia. 
+Järjestelmänvalvojana voit tehdä yhteistyötä kumppanin kanssa Microsoft 365 -tilausten ostamiseen, aktivoimiseen ja uusimiseen. 
 
-- Jos haluat muokata olemassa olevaa kumppanien suhdetta, Katso lisä tietoja artikkelista [tila uksen neuvottelu kumppanien lisääminen, muuttaminen tai poistaminen](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Jos haluat muokata olemassa olevaa kumppanisuhdettasi, katso lisätietoja tilausta käsittelevän kumppanin lisäämisen, muokkaamisen tai [poistamisen ominaisuudesta.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)
 
-- Jos etsit Microsoft-kumppania, Katso lisä tietoja artikkelista [microsoft 365-kumppanien tai jälleenmyyjän etsiminen](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Jos haluat etsiä Microsoft-kumppania, katso microsoft 365 -kumppanin [tai -jälleenmyyjän etsiminen.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)
 
-Jos olet jo Microsoft-partneri tai haluat tulla sellaiseen, Katso lisä tietoja eduista tai siitä, miten saat apua [Microsoftin kumppanien tuesta](https://aka.ms/partnersupport)Microsoft- [partneri keskuksessa](https://support.microsoft.com/help/4499930/partner-center-overview) .
+Jos olet olemassa oleva Microsoft-kumppani tai haluat ryhtyä kumppaniksi, katso [Microsoftin](https://support.microsoft.com/help/4499930/partner-center-overview) kumppanikeskuksesta lisätietoja eduista tai avun saaminen [Microsoft-kumppanien tuesta.](https://aka.ms/partnersupport)

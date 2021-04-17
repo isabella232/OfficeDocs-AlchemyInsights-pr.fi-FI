@@ -1,8 +1,8 @@
 ---
-title: PSTN-puhe minuuttien lisääminen tai hallinta Skypellä tai Teamsissa
+title: Skypen tai Teamsin PSTN-puheinnin lisääminen tai hallinta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 71b96ba17bdad438a62cbf3e6b80dff34fda32f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3800e5bb4aaf614ef39dfdb72bdb973bfa9a1568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688043"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822452"
 ---
-# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>PSTN-puhe minuuttien lisääminen tai hallinta Skypellä tai Teamsissa
+# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Skypen tai Teamsin PSTN-puheinnin lisääminen tai hallinta
 
-Jos olet saanut Varoitus ilmoituksen, jossa kerrotaan, että Skype-tai teamsin minuuttia on melkein käytetty, Tutustu siihen, miten voit [lisätä varoja ja hallita vuokra ajan tieto liikenne saldoa](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).
+Jos olet saanut varoitusilmoituksen siitä, että Skype- tai Teams-puheajan käyttö on melkein käytössä, lue, miten voit lisätä saldoa ja hallita vuokraajasi [viestintäsyistä.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)

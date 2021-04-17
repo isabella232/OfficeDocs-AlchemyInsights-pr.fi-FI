@@ -1,8 +1,8 @@
 ---
-title: 'Käyttäjä tilin lisääminen Windows 10: ssä'
+title: Käyttäjätilin lisääminen Windows 10:ssä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687539"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822308"
 ---
-# <a name="add-a-user-account-in-windows-10"></a>Käyttäjä tilin lisääminen Windows 10: ssä
+# <a name="add-a-user-account-in-windows-10"></a>Käyttäjätilin lisääminen Windows 10:ssä
 
-Voit lisätä tilin Windows 10: ssä seuraavasti.
+Voit lisätä tilin Windows 10:ssä näin:
 
-1. Siirry kohtaan **Käynnistä**  >  **Asetukset**  >  **Accounts**  >  **& muut** käyttäjät (tai **Muut henkilöt**, jos käytössäsi on Windows 10 Enterprise) > **Lisää joku muu tähän tieto koneeseen**.
+1. Siirry kohtaan  >  **AloitusasetuksetTilit,**& perheenjäsenet (tai Muut henkilöt, jos käytössäsi on  >    >   Windows 10 Enterprise) ja valitse > lisää **joku muu tähän tietokoneeseen.**
 2. Lisää Microsoft-tili tai paikallinen tili noudattamalla ohjeita.
 
-[Lisä tietoja tunnusten määrittämisestä](https://support.microsoft.com/help/17197/)
+[Lisätietoja tilien määrittämisestä](https://support.microsoft.com/help/17197/)

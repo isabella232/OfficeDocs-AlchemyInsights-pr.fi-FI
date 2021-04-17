@@ -1,8 +1,8 @@
 ---
-title: Edistykselliset metsästys kyselyjen parhaat käytännöt
+title: Edistyneet hakukyselyn parhaat käytännöt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696654"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821732"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Edistykselliset metsästys kyselyjen parhaat käytännöt
+# <a name="advanced-hunting-query-best-practices"></a>Edistyneet hakukyselyn parhaat käytännöt
 
-Katso koko artikkeli [Advanced metsästys kysely parhaat käytännöt](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) yksityiskohtaisia suosituksia ja ohjeita:
-- Kyselyn suoritus kyvyn optimoiminen.
-- Kyselyjen vinkit ja suden kuopat.
-- Kyselyt, joissa on komento rivit.
+Yksityiskohtaiset suositukset ja ohjeet [ovat](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) artikkelissa Edistyneen hakukyselyn parhaat käytännöt:
+- Kyselyn suorituskyvyn optimointi.
+- Kyselyvihjeet ja -sademäärät.
+- Kyselyt, joissa on komentorivit.
 
 

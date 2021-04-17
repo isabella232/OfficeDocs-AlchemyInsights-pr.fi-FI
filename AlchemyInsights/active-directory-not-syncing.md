@@ -2,7 +2,7 @@
 title: Active Directory ei synkronoidu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697626"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822848"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory ei synkronoidu
 
-Jos saat synkronointi virheitä, kuten "ei hiljattain tehtyä synkronointia" tai huomaat, että Office-hallinta portaalin hakemisto synkronoinnin tilana lukee "synkronoitu viimeksi yli 3 päivää sitten", voi olla, että AADConnect-asetukset ovat virheelliset tai käyttö oikeudet eivät riitä synkronoinnin suorittamiseen.  
+Jos saat synkronointivirheitä, kuten "ei viimeaikaista synkronointia", tai huomaat Hakemistosynkronoinnin tilan Office-hallintaportaalissa, jossa lukee "Viimeksi synkronoitu yli kolme päivää sitten", AADConnectissa voi olla virheellisiä asetuksia tai liian vähän käyttöoikeuksia synkronoinnin suorittamiseen.  
 
-AADConnect-toiminnon uudelleenasentaminen Pika-asetuksilla voi korjata ongelman nopeasti:
+AADConnectin uudelleenasentaminen pika-asetusten avulla voi ratkaista ongelman nopeasti:
 
-1. [Lataa AADConnect-tiedoston uusin versio](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Lataa uusin AADConnect-versio.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Noudata pika-asennus ohjeita](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Noudata pika-asennuksen ohjeita.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Lisä tietoja AADConnect-palvelu tileiltä on Ohje aiheessa [Azure AD Connect: Asiakkaat ja käyttö oikeudet](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Lisätietoja AADConnect -palvelutileistä on kohdassa [Azure AD Connect: Tilit ja käyttöoikeudet.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
