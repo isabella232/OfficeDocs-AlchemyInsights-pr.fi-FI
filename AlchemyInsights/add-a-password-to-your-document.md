@@ -1,8 +1,8 @@
 ---
-title: Sala sanan lisääminen asia kirjaan
+title: Salasanan lisääminen asiakirjaan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688511"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822704"
 ---
-# <a name="add-a-password-to-a-word-document"></a><span data-ttu-id="68f22-102">Sala sanan lisääminen Word-asia kirjaan</span><span class="sxs-lookup"><span data-stu-id="68f22-102">Add a password to a Word document</span></span>
+# <a name="add-a-password-to-a-word-document"></a><span data-ttu-id="8b131-102">Salasanan lisääminen Word-asiakirjaan</span><span class="sxs-lookup"><span data-stu-id="8b131-102">Add a password to a Word document</span></span>
 
-1. <span data-ttu-id="68f22-103">Siirry kohtaan **tiedoston**  >  **tiedot**  >  **suojaa asia kirja**  >  **salaa Sala sanalla**.</span><span class="sxs-lookup"><span data-stu-id="68f22-103">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
-2. <span data-ttu-id="68f22-104">Kirjoita sala sana, jota haluat käyttää, ja valitse sitten **OK**.</span><span class="sxs-lookup"><span data-stu-id="68f22-104">Enter the password you want to use, and then choose **OK**.</span></span>
-3. <span data-ttu-id="68f22-105">Kirjoita sala sana uudelleen ja valitse sitten **OK**.</span><span class="sxs-lookup"><span data-stu-id="68f22-105">Re-enter the password, and then choose **OK**.</span></span>
+1. <span data-ttu-id="8b131-103">Siirry Tiedoston **tietojen**  >    >  **suojaaminen -ruutuun ja valitse**  >  **Salaa salasanalla.**</span><span class="sxs-lookup"><span data-stu-id="8b131-103">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
+2. <span data-ttu-id="8b131-104">Kirjoita salasana, jota haluat käyttää, ja valitse sitten **OK**.</span><span class="sxs-lookup"><span data-stu-id="8b131-104">Enter the password you want to use, and then choose **OK**.</span></span>
+3. <span data-ttu-id="8b131-105">Kirjoita salasana uudelleen ja valitse sitten **OK**.</span><span class="sxs-lookup"><span data-stu-id="8b131-105">Re-enter the password, and then choose **OK**.</span></span>

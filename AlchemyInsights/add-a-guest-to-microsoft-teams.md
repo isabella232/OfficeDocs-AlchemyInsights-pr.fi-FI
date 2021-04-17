@@ -1,8 +1,8 @@
 ---
-title: Vieraan lisääminen Microsoft Teamsiin (automaattinen ehdotus)
+title: Vieraan lisääminen Microsoft Teamsian (automaattinen ehdotus)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: f5b70a2a1d462e87ee485da1da417f79dfa95f30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697302"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822776"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a><span data-ttu-id="85ca8-102">Vieraan lisääminen Microsoft Teamsiin</span><span class="sxs-lookup"><span data-stu-id="85ca8-102">Add a guest to Microsoft Teams</span></span>
+# <a name="add-a-guest-to-microsoft-teams"></a><span data-ttu-id="cbcc8-102">Vieraan lisääminen Microsoft Teamsissa</span><span class="sxs-lookup"><span data-stu-id="cbcc8-102">Add a guest to Microsoft Teams</span></span>
 
-<span data-ttu-id="85ca8-103">Joskus haluat tehdä yhteistyötä sellaisten henkilöiden kanssa, jotka eivät ole ryhmäsi organisaatiossa.</span><span class="sxs-lookup"><span data-stu-id="85ca8-103">Sometimes you'll want to collaborate with people who aren't in your team’s organization.</span></span> <span data-ttu-id="85ca8-104">Usein voit tehdä sen sähkö postissa, mutta jos haluat tehdä yhteistyötä heidän kanssaan Teamsissa, voit lisätä hänet vieraiksi.</span><span class="sxs-lookup"><span data-stu-id="85ca8-104">Often you'll be doing that in email, but if you want to collaborate with them in Teams, you can add them as guests.</span></span>
+<span data-ttu-id="cbcc8-103">Joskus haluat ehkä tehdä yhteistyötä muiden kuin tiimisi organisaatioon jäsenten kanssa.</span><span class="sxs-lookup"><span data-stu-id="cbcc8-103">Sometimes you'll want to collaborate with people who aren't in your team’s organization.</span></span> <span data-ttu-id="cbcc8-104">Teet sen usein sähköpostitse, mutta jos haluat tehdä yhteistyötä heidän kanssaan Teamsissa, voit lisätä heidät vieraita.</span><span class="sxs-lookup"><span data-stu-id="cbcc8-104">Often you'll be doing that in email, but if you want to collaborate with them in Teams, you can add them as guests.</span></span>
 
-<span data-ttu-id="85ca8-105">Lisä tietoja on Ohje aiheessa [vieraiden lisääminen tiimiin tiimeissä](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span><span class="sxs-lookup"><span data-stu-id="85ca8-105">For more information, see [Add guests to a team in Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span></span>
+<span data-ttu-id="cbcc8-105">Lisätietoja on kohdassa [Vieraiden lisääminen tiimiin Teamsissa.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)</span><span class="sxs-lookup"><span data-stu-id="cbcc8-105">For more information, see [Add guests to a team in Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span></span>
 
-<span data-ttu-id="85ca8-106">**Huomautus:** Sinun on oltava tiimin omistaja, jotta voit lisätä vieraan Teamsissa (Katso myös [vieraan käyttö oikeuksien määrittäminen](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).</span><span class="sxs-lookup"><span data-stu-id="85ca8-106">**Note:** You must be a team owner to add a guest in Teams (also see [Set guest permissions](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).</span></span>
+<span data-ttu-id="cbcc8-106">**Huomautus:** Sinun on oltava tiimin omistaja, jotta voit lisätä vieraan Teamsissa (katso [myös Vieraan oikeuksien määrittäminen).](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)</span><span class="sxs-lookup"><span data-stu-id="cbcc8-106">**Note:** You must be a team owner to add a guest in Teams (also see [Set guest permissions](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).</span></span>
