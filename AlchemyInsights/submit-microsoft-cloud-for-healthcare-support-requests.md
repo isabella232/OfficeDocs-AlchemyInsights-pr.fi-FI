@@ -1,8 +1,8 @@
 ---
-title: Microsoft Cloudin lähettäminen terveyden huollon tuki pyyntöihin
+title: Lähetä Microsoft Cloud for Healthcare -tukipyynnöt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6811"
 - "9003813"
-ms.openlocfilehash: 4dd4b38efa361372d6d59874f9738a0bf5d0a7c7
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: 336ac24a32fb67e74634208c3fad79b46295dc8b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823059"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824972"
 ---
-# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Microsoft Cloudin lähettäminen terveyden huollon tuki pyyntöihin
+# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Lähetä Microsoft Cloud for Healthcare -tukipyynnöt
 
-Microsoft Cloud for Healthcare-asiakas Lähetä lippusi uuden [Power Platform-hallinta keskuksen kautta.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+Jos olet Microsoft Cloud for Healthcare -asiakas, lähetä tukipyyntö uudessa [Power Platformin hallintakeskuksessa.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
 
-Uusi portaali tarjoaa suoremman polun tuettu tuki, joka on optimoitu Microsoft Cloud terveyden huoltoon.
+Uudessa portaalissa yhteyden ottaminen tukeen on helpompaa, ja tuki on optimoitu Microsoft Cloud for Healthcarea varten.

@@ -2,9 +2,10 @@
 title: Teams-puhelinneuvottelujen määrittäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811057"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Puhelinneuvottelut
 
-Tarvitsetko apua puhelinneuvottelujen ottamisessa käyttöön tai määrittämisessä Microsoft Teamsissa? Onko tämä käyttäjä luotu hiljattain?  Jos on, sinun tulee odottaa 2–24 tuntia, jotta asetukset tulevat voimaan.
+Tarvitsetko apua [Microsoft Teams -puhelinneuvottelujen](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams) käyttöönotossa tai määrittämisessä?  Onko tämä käyttäjä luotu hiljattain? Jos on, sinun tulee odottaa useita tunteja, jotta asetukset tulevat voimaan.
 
-Jos haluat varmistaa, että käyttäjällä on puhelunneuvottelujen käyttöoikeus ja oletusarvoinen maksullinen numero:
+Jos [käyttöoikeudet on ostettu](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), varmista, että käyttäjällä on Microsoft 365 Audio Conferencing -käyttöoikeus ja että hänellä on oletusmaksunumero.
 
 1. Siirry kohtaan [Aktiiviset käyttäjät](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ja valitse haluamasi käyttäjä.
 
 2. Valitse hallintakeskuksen versiosta riippuen joko **Käyttöoikeudet ja sovellukset** tai valitse **Tuotteiden käyttöoikeudet**- kohdassa **Muokkaa**.
 
-3. Varmista, että käyttäjällä on käyttöoikeus **puhelinneuvotteluihin, Microsoft Teamsiin** ja **Skype for Business Onlineen (palvelupaketti 2)**.
+3. Varmista, että käyttäjällä on käyttöoikeus **Microsoft 365 -puhelinneuvotteluun, Microsoft Teamsiin** ja **Skype for Business Onlineen (palvelupaketti 2)**. Jos **Microsoft 365 -puhelinneuvottelun** käyttöoikeutta ei ole, sinun on ensin [ostettava lisälisenssi](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business).
 
 4. Valitse käyttäjän **hallintakeskuksessa** **Näytä kaikki** ja valitse sitten **Teams**.
 
@@ -39,4 +40,4 @@ Jos haluat varmistaa, että käyttäjällä on puhelunneuvottelujen käyttöoike
 
 7. Valitse haluamasi käyttäjä ja varmista, että käyttäjällä on **oletusarvoinen maksullinen numero**.
 
-Saat lisätietoja artikkelista [Puhelupalvelupaketit](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) tai soittamalla Microsoft Commerce Billing -työryhmälle, jos sinulla on käyttöoikeuksiin liittyviä kysymyksiä.
+Jos tarvitset lisätukea **Microsoft Audio Conferencing** -käyttöoikeuksien ostamiseen, soita [Microsoftin laskutustukeen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).

@@ -1,25 +1,36 @@
 ---
-title: Microsoft Intunen sovellusten määrityskäytännöt
+title: Microsoft Intunen sovellusmäärityskäytännöt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423602"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821327"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Microsoft Intunen sovellusten määrityskäytännöt
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Microsoft Intunen sovellusmäärityskäytännöt
 
-Microsoft Intunen sovellusmäärityskäytännöissä on määritysasetukset iOS- tai Android-sovelluksille. Näiden määritysasetusten avulla sovellusta voidaan mukauttaa. Käyttöjärjestelmäversiot ja -sovellukset rajoittavat määrityskäytännön tukea.
+Microsoft Intunen sovellusmäärityskäytäntöjen avulla saadaan määritysasetukset iOS- tai Android-sovelluksille. Näiden määritysasetusten avulla sovellusta voidaan mukauttaa. Ota huomioon, että siihen, mitkä käyttöjärjestelmäversiot ja sovellukset tukevat määrityskäytäntöjä, liittyy rajoituksia.
 
-Lisätietoja on kohdassa [Microsoft Intunen sovellusten määrityskäytännöt](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Katso lisätietoja seuraavista ohjeista
+
+[Microsoft Intunen sovellusmäärityskäytännöt](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Sovellusten määrityskäytäntöjen lisääminen hallittuihin iOS-laitteisiin](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Sovellusten määrityskäytäntöjen lisääminen hallittuihin Android-laitteisiin](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Sovellusten määrityskäytäntöjen lisääminen hallituille sovelluksille, joilla ei ole laiterekisteröintiä](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

@@ -1,26 +1,27 @@
 ---
-title: WIX-sivuston käyttäminen Office 365-ostettujen tai hallittujen toimi alueiden kanssa
+title: Wix-sivuston käyttäminen ostetuilla tai hallituilla toimialueilla Office 365:ssä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 522392d41aa8f84f1f4684ccdbd37d68636be07e
-ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.openlocfilehash: ef2e7278b1a70aedca1b2ad9c13c249bf8b09c00
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825944"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>WIX-sivuston käyttäminen Office 365-ostettujen tai hallittujen toimi alueiden kanssa
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Wix-sivuston käyttäminen ostetuilla tai hallituilla toimialueilla Office 365:ssä
 
-- [DNS-tietueiden päivittäminen niin, että sivusto säilyy nykyisessä isännöinti palvelussa](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
-- WIX-artikkeli "toimi alueen liittäminen WIX:ään osoitin menetelmällä" suosittelee, että käytät (DNS-tietueiden lisäämistä yllä olevaa linkkiä) sen sijaan, että muuttaisit nimi palvelimia, kun käytät Office 365-palvelinta
-- Jos haluat edelleen vaihtaa nimi palvelimia WIX:ään, sinun on  [luotava DNS-tietueet WIX:ssä Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
-- Jos toimi alueesi on ostettu Microsoftilta, nimi palvelimia ei voi muuttaa. Jos sinun on muutettava nimi palvelimia, Microsoftin ostettu toimi alue on [siirrettävä toiseen isännöinti palveluun 60 päivän kuluttua](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host) .
+- [DNS-tietueiden päivittäminen sivuston säilyttämiseksi nykyisessä isännöintipalvelussa](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+- Wix-artikkeli “Toimialueen yhdistäminen Wixiin viittausmenetelmän avulla” suosittelee käyttämään viittaamista (DNS-tietueiden lisääminen yllä olevaa linkkiä kohti) nimipalvelimien vaihtamisen sijaan Office 365:tä käytettäessä.
+- Jos päätät yhä muuttaa nimipalvelimet Wix-palvelimeksi, sinun on  [Luotava DNS-tietueet Wix for Microsoft -palvelussa](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
+- Jos toimialue on ostettu Microsoftilta, nimipalvelimia ei voi muuttaa. Jos sinun on muutettava nimipalvelimia, Microsoftin ostama toimialue on siirrettävä  [toiseen isännöintipalveluun 60 päivän kuluttua](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

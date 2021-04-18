@@ -1,49 +1,50 @@
 ---
-title: Organisaatiosuhteen luominen, jotta käyttäjät voivat tehdä yhteistyötä toisen organisaation kanssa
+title: Luo organisaatiosuhde, jonka avulla käyttäjäsi voivat tehdä yhteistyötä toisen organisaation kanssa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862110"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816125"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Organisaatiosuhteen luominen, jotta käyttäjät voivat tehdä yhteistyötä toisen organisaation kanssa
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Luo organisaatiosuhde, jonka avulla käyttäjäsi voivat tehdä yhteistyötä toisen organisaation kanssa
 
-1. Siirry Microsoft 365 -hallintakeskuksen hallintakeskuksen koontinäytössä kohtaan **Admin**  >  **Exchange**.
-2. Siirry **organisaation**  >  **jakamiseen**.
-3. Valitse **Organisaation jakaminen**-kohdassa **Uusi** .
-4. Kirjoita **uuden organisaatiosuhteen** **Suhteen nimi** -ruutuun organisaatiosuhteen kutsumanimi.
-5. Kirjoita **Jaettavat toimialueet** -ruutuun sen ulkoisen Office 365- tai Exchange-paikallisen organisaation toimialue, jonka haluat tarkastella kalentereitasi. Jos haluat kirjoittaa useamman kuin yhden toimialueen, erota toimialuenimet pilkulla. Esimerkiksi contoso.com service.contoso.com.
-6. Valitse **Ota kalenterin varaustietojen jakaminen käyttöön** -valintaruutu, jos haluat ottaa kalenterin jakamisen käyttöön luettelossa olevien toimialueiden kanssa. Määritä kalenterin varaustietojen jakamistaso ja määritä käyttäjät, jotka voivat jakaa kalenterin vapaat ja varatut ajat .Set the sharing level for calendar free/busy information and set which users can share calendar free/busy information.  
+1. Siirry Microsoft 365 -hallintakeskuksessa kohtaan **Järjestelmänvalvoja** > **Exchange**.
+2. Valitse **Organisaatio** > **Jakaminen**.
+3. Valitse **Organisaation jakaminen** -kohdassa **Uusi**
+4. Kirjoita **Uusi organisaatiosuhde** -kohdan **Suhteen nimi** -ruutuun organisaatiosuhteen kutsumanimi.
+5. Kirjoita **Toimialueet, joiden kanssa jaetaan** -ruutuun sen ulkoisen Office 365- tai paikallisen Exchange-organisaation toimialue, jonka kanssa haluat jakaa kalenterisi. Jos haluat kirjoittaa useamman kuin yhden toimialueen, erota toimialuenimet toisistaan pilkulla. Kirjoita esimerkiksi contoso.com, service.contoso.com.
+6. Valitse **Ota kalenterin tavoitettavuustietojen jakaminen käyttöön** -valintaruutu, jotta voit jakaa kalenterit luettelemillesi toimialueille. Määritä tavoitettavuustietojen jakamistaso ja se, mitkä käyttäjät voivat jakaa kalenterin tavoitettavuustietoja.  
 
-Voit määrittää vapaat ja varatut ajat -käyttöoikeustason valitsemalla jonkin seuraavista:
+Voit määrittää tavoitettavuustietojen jakamistason valitsemalla jonkin seuraavista:
 
 - **Kalenterin tavoitettavuustiedot ja vain aika**
-- **Kalenterin vapaat ja varatut ajat, joissa on aikaa, aihetta ja sijaintia**  
+- **Kalenterin tavoitettavuustiedot ja aika, aihe sekä sijainti**  
 
- Jos haluat määrittää, ketkä käyttäjät jakavat kalenterin vapaat ja varatut ajat , valitse jokin seuraavista:
+ Voit määrittää, mitkä käyttäjät voivat jakaa kalenterin tavoitettavuustietoja, valitsemalla jonkin seuraavista:
 
-- **Kaikki organisaatiossasi 1998**
-- **Määritetty suojausryhmä**  
+- **Kaikki organisaation käyttäjät**
+- **Tietty käyttöoikeusryhmä**  
 
-Valitse suojausryhmä luettelosta valitsemalla **Selaa** ja valitse sitten **OK**.
+Valitse **Selaa**, etsi käyttöoikeusryhmä luettelosta ja valitse sitten **OK**.
 
-Luo organisaatiosuhde valitsemalla **Tallenna.**  
+Luo organisaatiosuhde valitsemalla **Tallenna**.  
 
-**Huomautus:** Vuokraajan väliset määritykset eivät tue henkilökohtaisia yhteystietoja vapaiden ja varattujen aikojen hakua varten. Yhteyshenkilöt on sisällytettävä yleiseen osoiteluetteloon, jotta vapaat ja varatut ajat -haku toimisi.
+**Huomautus:** Vuokraajien väliset määritykset eivät tue henkilökohtaisia yhteystietoja tavoitettavuustietojen hakemisessa. Yhteystietojen tulee sisältyä yleiseen osoiteluetteloon, jotta tavoitettavuustiedot voidaan hakea.
 
-**Täydellinen käsitys tästä aiheesta lue:**
+**Katso lisätietoja tästä aiheesta seuraavista artikkeleista:**
 
 - [Organisaatiosuhteen luominen Exchange Onlinessa](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
 - [Organisaatiosuhteen muokkaaminen Exchange Onlinessa](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
