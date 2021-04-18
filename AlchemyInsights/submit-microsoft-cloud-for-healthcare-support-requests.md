@@ -1,8 +1,8 @@
 ---
-title: Microsoft Cloudin lähettäminen terveyden huollon tuki pyyntöihin
+title: Lähetä Microsoft Cloud for Healthcare -tukipyynnöt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6811"
 - "9003813"
-ms.openlocfilehash: 4dd4b38efa361372d6d59874f9738a0bf5d0a7c7
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: 336ac24a32fb67e74634208c3fad79b46295dc8b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823059"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824972"
 ---
-# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a><span data-ttu-id="e48a5-102">Microsoft Cloudin lähettäminen terveyden huollon tuki pyyntöihin</span><span class="sxs-lookup"><span data-stu-id="e48a5-102">Submit Microsoft Cloud for Healthcare support requests</span></span>
+# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a><span data-ttu-id="8687c-102">Lähetä Microsoft Cloud for Healthcare -tukipyynnöt</span><span class="sxs-lookup"><span data-stu-id="8687c-102">Submit Microsoft Cloud for Healthcare support requests</span></span>
 
-<span data-ttu-id="e48a5-103">Microsoft Cloud for Healthcare-asiakas Lähetä lippusi uuden [Power Platform-hallinta keskuksen kautta.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)</span><span class="sxs-lookup"><span data-stu-id="e48a5-103">Microsoft Cloud for Healthcare  customer please submit your ticket through the new [Power platform Admin Center.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)</span></span>
+<span data-ttu-id="8687c-103">Jos olet Microsoft Cloud for Healthcare -asiakas, lähetä tukipyyntö uudessa [Power Platformin hallintakeskuksessa.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)</span><span class="sxs-lookup"><span data-stu-id="8687c-103">Microsoft Cloud for Healthcare  customer please submit your ticket through the new [Power platform Admin Center.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)</span></span>
 
-<span data-ttu-id="e48a5-104">Uusi portaali tarjoaa suoremman polun tuettu tuki, joka on optimoitu Microsoft Cloud terveyden huoltoon.</span><span class="sxs-lookup"><span data-stu-id="e48a5-104">The new portal provides a more direct path to assisted support that is optimized for  Microsoft Cloud for Healthcare.</span></span>
+<span data-ttu-id="8687c-104">Uudessa portaalissa yhteyden ottaminen tukeen on helpompaa, ja tuki on optimoitu Microsoft Cloud for Healthcarea varten.</span><span class="sxs-lookup"><span data-stu-id="8687c-104">The new portal provides a more direct path to assisted support that is optimized for  Microsoft Cloud for Healthcare.</span></span>
