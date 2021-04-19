@@ -2,9 +2,10 @@
 title: Vaihtaminen toiseen Microsoft 365 for Business -palvelupakettiin
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -17,12 +18,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
-ms.translationtype: HT
+ms.openlocfilehash: 830a719d3851f4d0c293ec86dff1b412b50b2692
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957975"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824828"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Vaihtaminen toiseen Microsoft 365 for Business -palvelupakettiin
 
@@ -32,4 +33,4 @@ Voit vaihtaa palvelupakettia Microsoft 365 -hallintakeskuksessa.
 
 - Joissakin tilanteissa käytettävissä on [Vaihda palvelupakettia -painike](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button), joka johdattaa sinua palvelupakettien vaihtamisessa.
 
-Lisätietoja on artikkelissa [Vaihtaminen toiseen Microsoft 365 for Business -palvelupakettiin](https://docs.microsoft.com/fi-FI/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+Lisätietoja on artikkelissa [Vaihtaminen toiseen Microsoft 365 for Business -palvelupakettiin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).

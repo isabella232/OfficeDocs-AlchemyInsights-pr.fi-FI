@@ -1,25 +1,26 @@
 ---
-title: Estä linkkien jakamisen estäminen
+title: Jakamislinkkien lataamisen estäminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357628"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820247"
 ---
-# <a name="block-download-on-sharing-links"></a>Estä linkkien jakamisen estäminen
+# <a name="block-download-on-sharing-links"></a>Jakamislinkkien lataamisen estäminen
 
-**Estä lataaminen** on käytettävissä **vain katselu - linkeissä Office-asiakirjoihin.** Kun valitset tämän vaihtoehdon, käyttäjät, jotka voivat käyttää tiedostoa luomasi linkin kautta, eivät näe tiedoston lataus-, tulostus- tai kopiointiasetuksia.
+Kun jaat kohteita muiden kanssa OneDrivessa tai SharePointissa, voit antaa heille oikeuden tarkastella kohteita, mutta et ladata niitä.
 
-Järjestelmänvalvojat voivat määrittää, näkyykö estolatausasetus vain Office-tiedostoissa vai ei, muuttamalla `BlockDownloadLinksFileType` [Set-SPOTenant-](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) tai [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell -cmdlet-komentojen asetusta.
+Lisätietoja on kohdassa: Vain tarkasteleminen -tiedostojen [latausten estäminen SharePointissa ja OneDrivessa](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)

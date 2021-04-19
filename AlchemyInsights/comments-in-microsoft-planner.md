@@ -2,21 +2,22 @@
 title: Kommentit Microsoft Plannerissa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817637"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentit Microsoft Plannerissa
 
@@ -32,4 +33,4 @@ Seuraavassa on ratkaisuja yleisiin kommentteihin liittyviin ongelmiin:
 
 - **Poistetut käyttäjät saavat edelleen sähköpostia** – Jos käyttäjä kommentoi tehtävää ennen kuin hänet poistetaan ryhmästä, käyttäjälle lähetetään sähköposti jokaiseen tehtävään lisätystä kommentista.
 
-Saat lisätietoja kommenteista Microsoft Plannerissa artikkeleista [Miten Microsoft Planner toimii](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) ja [Tehtävien kommentoiminen Microsoft Plannerissa](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Saat lisätietoja kommenteista Microsoft Plannerissa artikkeleista [Miten Microsoft Planner toimii](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) ja [Tehtävien kommentoiminen Microsoft Plannerissa](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).

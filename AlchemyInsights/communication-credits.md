@@ -1,37 +1,30 @@
 ---
-title: Puhelusaldo
+title: Viestintäsyistä
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158536"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817457"
 ---
-# <a name="communication-credits"></a>Puhelusaldo
+# <a name="communication-credits"></a>Viestintäsyistä
 
-Puhelusaldo on helppo tapa maksaa puheluneuvotteluiden ja puhelupakettien minuuteista.  Sinun on määritettävä puhelusaldo, jos haluat käyttää maksuttomia numeroita Skype for Businessin ja Microsoft Teamsin kanssa.  Lisäksi on suositeltavaa määrittää puhelusaldo puhelupaketeille (kotimaan- tai ulkomaanpuhelut) sekä puheluneuvotteluiden käyttäjille, joiden on pystyttävä soittamaan minne tahansa.
+Viestintäsyistä on kätevä tapa maksaa puhelinneuvottelusta ja puhelusuunnitelmasta. Sinun on määritettävä puhelusaldo, jos haluat käyttää maksuttomia numeroita Skype for Businessin ja Microsoft Teamsin kanssa.
 
-Järjestelmänvalvojana voit lisätä varoja manuaalisesti tai voit määrittää automaattisen saldolisäyksen, mikä on suositeltavaa.  Automaattinen saldolisäys lisää saldoa, kun se laskee alle määritetyn raja-arvon.  Voit päivittää maksuvaihtoehdot milloin tahansa. Valitse **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulla puhelusaldo-tilaus ja tee päivitykset.
+- Lisätietoja viestintäsidoista on kohdassa [Viestintäsidon järjestäminen organisaatiota varten.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
 
-1. Jos haluat lisätä varoja asettamatta automaattista saldolisäystä, valitse kulutusalueella **Lisää varoja** ja kirjoita lisättävä summa.
+- Lisätietoja viestinnän saldon lisäämiseen ja hallintaan on kohdassa [Saldon lisääminen ja viestinnän saldon hallinta.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-2. Jos haluat määrittää automaattisen saldolisäyksen summat ja raja-arvon, valitse lisäysosiossa **Muokkaa lisäysasetuksia** tai sivun alaosan lähellä **Automaattisen saldolisäyksen asetukset**.  
-
-3. Kirjoita ladattava määrä.  Tämä summa määrittää, kuinka paljon haluat lisätä jokaisella lisäyskerralla.  
-
-4. Kirjoita arvo **Kun saldo alittaa** -kenttään.  Tämä on se saldon määrä, jolloin lataus käynnistetään.
-
-5. Valitse **Tallenna muutokset**.
-
-Katso lisätietoja kohdasta [Varojen lisääminen ja puhesaldon hallinta](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Katso myös [Puhesaldon määritys organisaatiollesi](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+Lisätietoja on kohdassa Mitä [ovat viestintäsidot?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

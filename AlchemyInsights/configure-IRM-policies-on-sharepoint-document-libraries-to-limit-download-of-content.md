@@ -1,25 +1,26 @@
 ---
-title: Sisältöoikeuksien hallinnan käytäntöjen määrittäminen SharePoint-asiakirjakirjastoissa sisällön lataamisen rajoittamiseksi
+title: Sisältöoikeuksien hallintakäytäntöjen määrittäminen SharePoint-tiedostokirjastoissa sisällön lataamisen rajoittamiseksi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: d54125d735db7c169b2e5b0394675dd65b62f8f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507835"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817205"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Sisältöoikeuksien hallinnan käytäntöjen määrittäminen SharePoint-asiakirjakirjastoissa sisällön lataamisen rajoittamiseksi
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Sisältöoikeuksien hallintakäytäntöjen määrittäminen SharePoint-tiedostokirjastoissa sisällön lataamisen rajoittamiseksi
 
-SharePoint Onlinessa IRM-suojausta käytetään luettelon ja kirjastotason tiedostoissa. Ennen kuin organisaatio voi käyttää sisältöoikeuksien hallintaa, sinun on ensin määritettävä oikeuksien hallinta. Sisältöoikeuksien hallinta käyttää Azure Information Protectionin Azure Rights Management -palvelua käyttörajoitusten salaamiseen ja määrittämiseen.
+SharePoint Onlinessa IRM-suojausta käytetään tiedostoissa, jotka ovat luettelo- ja kirjastotasolla. Oikeuksien hallinta on määritettävä, ennen kuin organisaatio voi käyttää IRM-suojausta. Sisältöoikeuksien hallinta käyttää Azuren oikeuksien hallintapalvelua Azure Information Protectionista käyttörajoitusten salaamiseen ja määrittämiseen.
 
-- [Määritä Sisältöoikeuksien hallinnan käytännöt SharePoint-asiakirjakirjastoissa sisällön lataamisen rajoittamiseksi](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [Määritä sisältöoikeuksien hallintakäytännöt SharePoint-tiedostokirjastoissa sisällön lataamisen rajoittamiseksi.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

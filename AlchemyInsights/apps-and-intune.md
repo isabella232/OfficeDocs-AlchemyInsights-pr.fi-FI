@@ -2,26 +2,27 @@
 title: Sovellukset ja Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 3fcac11807e0a5ba44a689ec5144a742e859f291
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 63b5c49522fc2fb7a1044b1f6779d55729c0b01e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569130"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821255"
 ---
 # <a name="apps-and-intune"></a>Sovellukset ja Intune
 
-Yleistietoja siitä, miten Intune voi auttaa sovellusten hallinnassa, on [ohjeaiheessa Mikä on Microsoft Intune -sovellusten hallinta?](https://docs.microsoft.com/mem/intune/apps/app-management).
+Jos haluat yleiskatsauksen siitä, miten Intune voi auttaa hallitsemaan sovelluksia, aloita mikä  [on Microsoft Intune -sovelluksen hallinta?](https://docs.microsoft.com/mem/intune/apps/app-management).
 
-Lisätietoja sovellusten lataamisesta Intuneen ja niiden käyttöönotosta laitteisiin on [Quickstart: Lisää ja määritä asiakassovellus](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app).
+Lisätietoja sovellusten lataamiseen Intuneen ja niiden käyttöönotosta laitteissa on kohdassa  [Pika-aloitustoiminto: Asiakassovelluksen](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app)lisääminen ja määrittäminen.
 
-Lisätietoja yritystietojen suojaamisesta mobiilisovellusten sisällä on ohjeaiheessa [Quickstart: Sovelluksen suojauskäytännön luominen ja määrittäminen](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy).
+Lisätietoja yritystietojen suojaamisesta mobiilisovelluksissa on kohdassa [Pikaopas: Sovellusten](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy)suojauskäytännön luominen ja määrittäminen.

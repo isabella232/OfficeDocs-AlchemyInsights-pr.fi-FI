@@ -2,21 +2,22 @@
 title: Microsoft 365 -sovellusten aktivoiminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735209"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823028"
 ---
 # <a name="activating-microsoft-365-apps"></a>Microsoft 365 -sovellusten aktivoiminen
 
@@ -26,7 +27,7 @@ Lisätietoja Officen aktivoinnista on artikkeleissa:
 
 - [Officen aktivoiminen Macissa](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Huomautus:**  Varmista, että sinulla on Office 365- tai Microsoft 365 -tilaus, joka [sisältää Office-asiakassovelluksia,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)kuten Microsoft 365 Business Standard, Microsoft 365 Apps for Business tai Microsoft 365 Apps for enterprise. Varmista lisäksi, että Office-sovelluksiin kirjautumisessa käyttämäsi käyttäjätilillä on [käyttöoikeus.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Huomautus:**  Varmista, että sinulla on Office 365- [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)tai Microsoft 365 -tilaus, joka sisältää Office-asiakassovelluksia, kuten Microsoft 365 Business Standardin, Microsoft 365 Apps for Businessin tai Microsoft 365 Apps for Enterprisen. Varmista myös, että käyttäjätilille, jota käytät Kirjautuminen Office-sovelluksiin, [on määritetty käyttöoikeus.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Lisätietoja Officen aktivointiongelmien ratkaisemisesta on artikkeleissa:
 
@@ -35,7 +36,9 @@ Lisätietoja Officen aktivointiongelmien ratkaisemisesta on artikkeleissa:
 
 - [Toimintaohjeita tilanteeseen, jossa Office for Macin asennus tai aktivointi ei onnistu](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Jos et pysty kirjautumaan Microsoft 365 -sovelluksiin, toimi seuraavasti:
+**Vihje** Voimme diagnosoida ja korjata useita Windows-tietokoneiden Officen yleisiä sisäänkirjautumisongelmia puolestasi automaattisesti. Jos haluat käyttää automaattista työkaluamme, lataa ja suorita **[Microsoftin tuki- ja palautusavustaja](https://aka.ms/SaRA-OfficeSignInScenario)**.
+
+Jos kirjautuminen Microsoft 365 -sovelluksiin ei onnistu, noudata seuraavia ohjeita:
 
 1. Avaa Office-sovellus ja [kirjaudu ulos](https://go.microsoft.com/fwlink/?linkid=2114082) olemassa olevilta käyttäjätileiltä.
 

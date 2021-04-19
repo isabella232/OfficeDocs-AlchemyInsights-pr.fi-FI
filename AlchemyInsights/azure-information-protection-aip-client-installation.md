@@ -2,21 +2,22 @@
 title: 'Azure Information Protection: AIP-asiakasohjelman asentaminen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944155"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820751"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP-asiakasohjelman asentaminen
 
@@ -33,4 +34,8 @@ Jos käytät AIP-asiakasohjelmaa, noudata seuraavia suositeltuja vaiheita:
 
 4. Jos asiakasohjelman asennuksessa ilmenee ongelmia yllä olevan työkalun käyttämisen jälkeenkin, etsi **%temp%**-kansio ja anna asiakasohjelman asennuslokitiedostot, joiden alussa on Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. Jos asennus onnistui, mutta AIP:n käytössä ilmenee edelleen ongelmia, voit etsiä ratkaisuja valitsemalla asianmukaisen tukiaiheen.
+Lisätietoja:
+
+- Tutustu [Azure Information Protection (AIP) -dokumentaatioon,](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)asennusvaatimuksiin ja sijaintiin [AIP-asiakasohjelman lataamiseksi.](https://www.microsoft.com/download/details.aspx?id=53018) [](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+
+- Lisätietoja Azure-tilauksen tiedoista on [kohdassa Azure Information Protection -tilaukset ja -ominaisuudet.](https://azure.microsoft.com/pricing/details/information-protection)

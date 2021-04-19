@@ -1,45 +1,46 @@
 ---
-title: 'AIP-skanneri: asennus ja konfigurointi'
+title: 'AIP-skanneri: asennus ja määritys'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: d059d411aef03ca57662b71fbd7d27aecd3e0e57
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357663"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821660"
 ---
-# <a name="aip-scanner-installation-and-configuration"></a>AIP-skanneri: asennus ja konfigurointi
+# <a name="aip-scanner-installation-and-configuration"></a>AIP-skanneri: asennus ja määritys
 
 **Asenna AIP-skanneri noudattamalla suositeltuja ohjeita:**
 
-1. Jos päivität etkä suorita puhdasta asennusta, varmista, että olet noudattanut [Azure Information Protection -skannerin](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) ja yhtenäisen tarrausasiakkaan päivitysohjeita, katso [Azure Information Protection -skannerin päivittäminen](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
-2. Varmista, että noudatat kaikkia [palomuurien ja verkkoinfrastruktuurin asetuksia koskevia vaatimuksia.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
-3. Varmista, että [käytännöt on määritetty](https://docs.microsoft.com/azure/information-protection/configure-policy) automaattiseksi otsikoksi tai että käytännössä on oletusotsikko.
-4. Varmista, että asianmukainen tiedostotyyppi on määritetty tarraa/suojausta varten [azure-tietojen suojausasiakkaan tukemien tiedostotyyppien mukaisesti.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Jos haluat lisäksi muuttaa oletustoimintaa, noudata seuraavia ohjeita: [Tiedostojen oletussuojaustason muuttaminen](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
-5. Varmista, että skanneripalvelun suorittamiseen määritetyllä käyttäjätilillä on oikeudet käyttää kaikkia määritettyjä tietovarastoja.
-6. Jos ongelmat jatkuvat, vie skannerilokit ja lisää ne tukilippuusi.
+1. Jos päivität ja et suorita puhdasta asennusta, varmista, että olet noudattanut [Ohjeita Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) -skannerin päivittämiseen ja yhdistetyn osoitetarrasovelluksen päivittämiseen, katso Azure Information Protection [-skannerin päivittäminen.](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)
+2. Varmista, että noudatat kaikkia [palomuurien ja verkkoinfrastruktuurin asetusten vaatimuksia.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
+3. Varmista, että [käytäntöihin on](https://docs.microsoft.com/azure/information-protection/configure-policy) määritetty automaattinen selite tai että käytäntö sisältää oletusotsikot.
+4. Varmista, että asianmukainen tiedostotyyppi on määritetty selite-/suojausta varten artikkelissa Azure Information Protection -asiakasohjelman tukemat [tiedostotyypit kuvatulla tavalla.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Jos haluat muuttaa oletusasetuksia, noudata seuraavia ohjeita: [Tiedostojen oletussuojaustason muuttaminen.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files)
+5. Varmista, että skanneripalvelun suorittamiseen määritetyllä käyttäjätilillä on oikeus käyttää kaikkia määritettyjä säilöjä.
+6. Jos ongelmia ilmenee edelleen, vie skannerilokit ja lisää ne tukipalveluun.
 
 **Azure Information Protection Scanner -lokien vieminen**
 
-1. Siirry kansioon %localappdata%\Microsoft\MSIP skanneripalvelua suorittavassa käyttäjäkontekstissa.
-2. Zip kaikki sisältö MSIP kansioon.
+1. Siirry kohtaan %localappdata%\Microsoft\MSIP skanneripalvelun suorittaman käyttäjäkontekstin mukaisesti.
+2. Pakkaa kaikki MSIP-kansion sisältö.
 3. Tallenna lokit haluamaasi sijaintiin ja liitä ne palvelupyyntöösi.
-4. Voit käyttää myös [Export-AIPLogs -OnBehalfOf -käyttöoikeutta.](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps)
+4. Voit käyttää myös [Export-AIPLogs -OnBehalfOf-sovellusta.](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps)
 
-**Lisätietoja on kohdassa**:
-- [Azure Information Protection -skannerin käyttöönotto tiedostojen luokittelemiseksi ja suojaamiseksi automaattisesti](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
-- [Määritä Token-parametri set-AIPAuthentication-määritykselle ja käytä sitä](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
-- [Etsintäjakson suorittaminen ja skannerin raporttien tarkasteleminen](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
-- [Azure Information Protectionin dokumentaation tarkasteleminen](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Azure-tietojen suojausta koskevat vaatimukset](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+**Lisätietoja on kohdassa:**
+- [Azure Information Protection -skannerin käyttöönotto tiedostojen automaattista luokittelemista ja suojaamista varten](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [Set-AIPAuthentication-parametrin määritäminen ja käyttö](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+- [Suorita etsintäjakso ja tarkastele skannerin raportteja](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
+- [Tutustu Azure Information Protection -ohjeisiin](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Azure Information Protectionin vaatimukset](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 - [Lataa Azure Information Protection -asiakasohjelma](https://www.microsoft.com/download/details.aspx?id=53018)
