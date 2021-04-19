@@ -1,30 +1,31 @@
 ---
-title: SPFx-sivujen ja Web-osien ohje
+title: SPFx-sivujen ja -verkko-osien ohjeet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569344"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811525"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>SPFx-sivujen ja Web-osien ohje
+# <a name="help-with-spfx-pages-and-web-parts"></a>SPFx-sivujen ja -verkko-osien ohjeet
 
-SPFx on tuettu vain Microsoftin kehittäjän tuella. SharePoint-tuotetiimi vastaa kehittäjäyhteisöön useilla kanavilla.
+SPFx on tuettu vain Microsoftin kehittäjätuen kautta. SharePoint-tuotetyöryhmä vastaa kehittäjäyhteisölle usealla eri kanavalla.
 
-- [Ohjelmointikysymyksiä](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) voidaan lähettää **GitHub sp-dev-docs- tai Stack Overflow -tiedostoille.** **Stack Overflow**
-- [Dokumentaatiovirheitä](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) voidaan lähettää **GitHubille.**
-- [Näyte sovellus vikoja](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) voidaan lähettää **GitHub**.
-- [Ominaisuuspyynnöt](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) voidaan lähettää UserVoiceen.
+- [Ohjelmointiin](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) liittyvät kysymykset voidaan lähettää **GitHub sp-dev-docs- tai** **Stack Overflow -pätkimiin.**
+- [Dokumentaatiovirheitä](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) voidaan lähettää **GitHubiin.**
+- [Sovellusvirheiden malli](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) voidaan lähettää **GitHubiin.**
+- [Ominaisuuspyynnöt](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  voidaan lähettää UserVoiceen.
 
-Lisätietoja kehittäjäresursseista on ohjeaiheessa [& palautteen tuki](https://docs.microsoft.com/sharepoint/dev/support-feedback)
+Lisätietoja kehittäjien resursseista  [on kohdassa & tuki](https://docs.microsoft.com/sharepoint/dev/support-feedback)

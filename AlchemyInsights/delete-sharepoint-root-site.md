@@ -2,7 +2,7 @@
 title: SharePoint-pääsivuston poistaminen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713532"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815468"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>SharePoint-pääsivuston poistaminen
 
 SharePoint-pääsivuston poistamista  **ei tueta.**
 
 1.  Jos pääsivusto on jo poistettu, käyttäjillä ilmenee 404 Tiedostoa ei löydy -virhe, kun he yrittävät käyttää sivustoa.
-2.  Voit ratkaista ongelman palauttamalla sivuston uudesta SharePoint-hallintakeskuksesta Valitsemalla Poistetut sivustot -sivun, valitsemalla pääsivuston ja valitsemalla Palauta. [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)
+2.  Voit ratkaista ongelman palauttamalla sivuston uudesta SharePoint-hallintakeskuksesta menemällä  [Poistetut](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  sivustot -sivulle, valitsemalla pääsivuston ja valitsemalla Palauta.
 3.  Käytä pääsivuston poistamisen sijaan [korvaa sivusto](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  uudesta SharePoint-hallintakeskuksesta, kun pääsivusto on palautettu.
 
 Lisätietoja on kohdassa [Pääsivuston modernisoiminen](https://docs.microsoft.com/sharepoint/modern-root-site)
