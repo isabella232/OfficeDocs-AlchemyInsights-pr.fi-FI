@@ -1,5 +1,5 @@
 ---
-title: DLP-käytäntöjen vihjeet eivät toimi
+title: DLP-käytäntövihjeet eivät toimi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679582"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952189"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP-käytäntöjen kärjen ongelmat
+# <a name="dlp-policy-tip-issues"></a>DLP-käytäntövihjeen ongelmat
 
 **Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
 
-**DLP-käytäntöjen vinkit**
+Voit määrittää DLP-käytännön käytäntövihjeet tietoturva- &-yhteensopivuuskeskuksessa täydessä pakotustilassa seuraavasti:
 
-**DLP-käytäntöjä**käytettäessä käyttäjät voivat saada ilmoituksen käytäntö rikkomuksesta, jossa on **käytäntö vihjeitä**. Järjestelmänvalvojat voivat määrittää käytäntöä koskevia vihjeitä, jotka näytetään, kun ne testaavat DLP-käytäntöään tai kun käytännöt ovat täydessä pakotus tilassa.
-  
-Jos haluat määrittää DLP-käytännölle toimintapoliittisia vihjeitä tieto turva-ja yhteensopivuus keskuksessa koko pakotus tilassa, toimi seuraavasti:
-  
-- Varmista, että käytäntöjen vihjeet on **otettu käyttöön** DLP-säännössä noudattamalla [tässä](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)annettuja ohjeita.
+- Varmista, että **käytäntövihjeet** on otettu käyttöön DLP-säännössä. Ohjeet ovat kohdassa [Sähköposti-ilmoitusten lähettäminen ja käytäntövihjeiden näyttäminen DLP-käytäntöjä varten.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Varmista, että **sisältö vastaa** sitä, mitä [tässä artikkelissa](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)hahmoteltu sääntö **edellyttää** .
+Varmista, että sisältö vastaa sitä, mitä vaaditaan, jotta luottamuksellisten tietotyypin määritysten sääntö [voidaan ottaa käyttöön.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Käytäntöjen vihjeet näkyvät sekä OWA-sovelluksessa että Outlookissa. Kun käytät **Outlook 2013 tai uudempaa versiota**, käytäntöjen vihjeet näkyvät kuitenkin vain tietyissä tilanteissa. Nämä ehdot on lueteltu tässä: [Outlook 2013 tai sitä uudemman version tukemat ehdot käytäntöjen vihjeiden näyttämiseksi](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Käytäntövihjeet näkyvät sekä OWA:ssa että Outlookissa. Outlook 2013:a tai uudempaa versiota käytettäessä käytäntövihjeet näytetään kuitenkin vain tietyissä tilanteissa. Jos haluat nähdä tietyn ehdon luettelon, katso käytäntövihjeiden näyttäminen [Outlook 2013:n tai uudemman sovelluksen tukemat ehdot.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Lisä tietoja DLP-käytäntö vihjeistä on Ohje aiheissa: [käytännön vihjeiden näyttäminen DLP-käytäntöjä varten](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Lisätietoja DLP-käytäntövihjeistä on [DLP-käytäntövihjeiden](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) ohjeissa ja [tukimatriisissa.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
