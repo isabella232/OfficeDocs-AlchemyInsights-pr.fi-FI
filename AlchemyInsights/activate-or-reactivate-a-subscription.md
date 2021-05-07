@@ -1,5 +1,5 @@
 ---
-title: Tila uksen Akti voiminen tai uudelleenaktivointi
+title: Tilauksen aktivoiminen tai uudelleenaktivoiminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,36 +13,36 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f486846cb3fd509785a99c70f3dbbcf7dcbed242
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: d8cba59f38760edd9ebb693bd5d5e63576966ae3
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286775"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261661"
 ---
-# <a name="activate-or-reactivate-a-subscription"></a>Tila uksen Akti voiminen tai uudelleenaktivointi
+# <a name="activate-or-reactivate-a-subscription"></a>Tilauksen aktivoiminen tai uudelleenaktivoiminen
 
 **Tilauksen aktivointi**
 
-- Jos haluat antaa käyttäjille käyttöoikeuden palveluun, määritä heille käyttöoikeus. Lisä tietoja on artikkelissa [käyttö oikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Jos sinulla on jo sinulle määritetty käyttö oikeus, voit etsiä sovelluksia, jotka voit ladata [Oma tili-sivulta](https://portal.office.com/account/#installs). Tällä sivulla on luettelo sovelluksista, jotka ovat ladattavissa määritettyjen käyttö oikeuksien perusteella.
-- Jos olet jo ladannut Office-sovellukset, sinun on ehkä kirjauduttava sovelluksiin työpaikan tai oppi laitoksen tilillä. Voit tehdä sen missä tahansa Office-sovelluksessa (Word, Excel jne.) napsauttamalla **tiedosto**  >  **Office-tiliä** (lähellä alhaalla). Valitse **käyttäjä tiedot**-kohdassa **Vaihda tili**. Lisä tietoja on kohdassa [Office-sovellusten asentaminen](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Jos haluat antaa käyttäjille käyttöoikeuden palveluun, määritä heille käyttöoikeus. Lisätietoja on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Jos sinulle on jo määritetty käyttöoikeus, voit etsiä sovelluksia, jotka voit ladata Oma tili [-sivulta.](https://portal.office.com/account/#installs) Tällä sivulla on luettelo ladattavissa olevista sovelluksista määritettyjen käyttöoikeuksien perusteella.
+- Jos olet jo ladannut Office sovellukset, sinun on ehkä kirjauduttava sisään sovelluksiin työ- tai koulutililläsi. Voit tehdä tämän missä tahansa Office (Word, Excel jne.) valitsemalla Tiedosto   >  **Office tili** (alareunassa). Valitse **Käyttäjätiedot-kohdassa** **Vaihda tiliä**. Lisätietoja on kohdassa Office [asentaminen.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Tilauksen uudelleenaktivointi**
 
-Jos tilauksesi vanhenee, Microsoft on poistanut sen käytöstä tai olet peruuttanut sen tilaus kauden puoli välissä, voit aktivoida sen uudelleen hallinta keskuksessa.
+Jos tilauksesi päättyy, Microsoft on poistanut sen käytöstä tai olet peruuttanut sen kesken tilausjakson, voit aktivoida sen uudelleen hallintakeskuksessa.
   
-1. Siirry hallinta keskuksessa **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Etsi **tuotteet** -väli lehdestä tilaus, jonka haluat aktivoida uudelleen.
-3. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Aktivoi tämä tilaus uudelleen**.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat aktivoida uudelleen.
+3. Valitse **Lisää toimintoja** (kolme painiketta) ja valitse sitten Aktivoi tämä tilaus **uudelleen**.
     > [!IMPORTANT]
-    > Jos et näe **Aktivoi tätä tilausta uudelleen** käytettävissä olevan toiminnon aikana, Aktivoi tilauksesi uudelleen [soittamalla tukeen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) .
-4. Valitse **Aktivoi tämä tilaus** -ruudussa aiemmin luotu maksu tapa tai valitse **Lisää maksu tapa**.
+    > Jos et näe Aktivoi tämä **tilaus uudelleen -toimintoa,** soita tukeen, jos haluat aktivoida tilauksesi uudelleen. [](/microsoft-365/admin/contact-support-for-business-products)
+4. Valitse **Aktivoi tämä tilaus uudelleen** -ruudussa olemassa oleva maksutapa tai valitse **Lisää maksutapa**.
 5. Valitse **Aktivoi uudelleen**.
 
 Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Uuden tilauksen aktivoiminen tuoteavaimen avulla**
 
-1. Jos haluat aktivoida uuden Microsoft 365-tila uksen tuote avaimesi kanssa, Katso lisä tietoja artikkelista [Office-tuote avaimen lisääminen](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-2. Anna Microsoft 365 -tuoteavain ja aktivoi tilaus seuraamalla ohjeita. Jos Akti vointiin liittyy ongelmia, tutustu tähän [yleisten tuote avain virheiden ja-ratkaisujen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)luetteloon.
+1. Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso [Office tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+2. Anna Microsoft 365 -tuoteavain ja aktivoi tilaus seuraamalla ohjeita. Jos aktivoinnissa ilmenee ongelmia, katso lisätietoja tästä tuoteavainvirheiden ja -ratkaisujen [luettelosta.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

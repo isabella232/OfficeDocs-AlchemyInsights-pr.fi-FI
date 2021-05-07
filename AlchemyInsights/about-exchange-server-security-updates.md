@@ -1,5 +1,5 @@
 ---
-title: Tietoja Exchange Serverin suojauspäivityksistä
+title: Tietoja Exchange Server päivityksistä
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726524"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233459"
 ---
-# <a name="about-exchange-server-security-updates"></a>Tietoja Exchange Serverin suojauspäivityksistä
+# <a name="about-exchange-server-updates"></a>Tietoja Exchange Server päivityksistä
 
-Microsoft on julkaissut joukon tärkeitä suojauspäivityksiä paikallisille Exchange Server -palvelimia varten. Nämä palvelinversiot ovat Exchange Server 2010:n, 2013:n, 2016:n ja 2019:n päivitystasoja. Tämä ei vaikuta Exchange Onlineen, mutta jos sinulla on joitakin paikallisia Exchange-palvelimia yhdistelmäkokoonpanon vuoksi, ne voivat olla alttiita.
+Microsoft julkaisee yleensä Exchange Server päivitysten tiistaina (suojauspäivitykset) tai neljännesvuosittain (kumulatiiviset päivitykset). Jos haluat nähdä julkaistujen uusimpien julkaistujen päivitysten ilmoitukset, tutustu [Exchange blogiin.](https://aka.ms/ehlo)
 
-Tutustu korjausten sijaintiin seuraavasta [ilmoituksesta: Julkaistu: Maaliskuun 2021 Exchange Serverin suojauspäivitykset](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Jos haluat varastostaa Exchange-palvelimet, käytä Exchange Server kuntotarkistuskomentosarjaa [(GitHub uusin versio).](https://aka.ms/ExchangeHealthChecker) Suorittamalla tämän komentosarjan saat tietoja siitä, ovatko Exchange -palvelimet päivitysten (CUs ja SUs) takana.
 
-**Tärkeitä huomautuksia:**
+- Päivitä uusimpaan kumulatiiviseen päivitykseen valitsemalla [ohjattu Exchange ja](https://aka.ms/ExchangeUpdateWizard) valitsemalla parhaillaan käytössä oleva CU ja kohde cu. Valitse **Kerro ohjeet,** niin saat reittiohjeet ympäristöäsi varten.
 
-Jos asennat päivitykset manuaalisesti, lue tärkeitä tietoja päivitysten KB-artikkeleiden Tunnetut ongelmat -osasta. Suojauspäivitykset ON suoritettava järjestelmänvalvojana suoritettavasta CMD-/PowerShell-kehotteesta.
-
-Päivitysten vianmääritystiedot [löytyvät täältä.](https://aka.ms/exupdatefaq)
+- Jos kohtaat virheitä päivitysten asentamisen Exchange Server asennuksen aikana tai sen jälkeen, katso artikkelia Kumulatiivisten ja suojauspäivitysten Exchange epäonnistuneet [asennukset.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

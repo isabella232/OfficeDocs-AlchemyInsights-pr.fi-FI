@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125202"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233520"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Apu in käyttöönotto Microsoft 365 -sovellukset
 
 Keskitetty käyttöönotto on suositeltava tapa ottaa käyttöön Office ja ryhmiä organisaation käyttäjille ja ryhmille. Ota apuohjelmat käyttöön noudattamalla seuraavia ohjeita:
 
-**Huomautus:** Jos haluat asentaa apuohjelmat Office yksittäisenä käyttäjänä, katso Lisätietoja apuohjelmien tarkasteleminen, hallinta [ja asentaminen Office ohjelmissa.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Varmista myös, että Office Storen apuohjelmat on otettu käyttöön. 
+**Huomautus:** Jos haluat asentaa apuohjelmat Office yksittäisenä käyttäjänä, katso Lisätietoja apuohjelmien tarkasteleminen, hallinta [ja asentaminen Office ohjelmissa.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Varmista myös, että Office Storen apuohjelmat on otettu käyttöön. Lisätietoja on kohdassa [Apuohjelman latausten estäminen](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)ottamalla Office käytöstä kaikissa asiakasohjelmat (paitsi Outlook).
 
 1. Varmista, että ympäristösi täyttää apuohjelmat käyttöönoton vaatimukset keskitetyn käyttöönoton avulla. Lisätietoja on kohdassa [Vaatimukset](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Siirry **Asetukset**  >  **apusovellusten**  >  **käyttöönottoon** Microsoft 365 hallintakeskuksessa. 
