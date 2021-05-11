@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen käyttäminen kioskitilassa
+title: Microsoft Edge kioskitilassa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708527"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312401"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Microsoft Edgen käyttäminen kioskitilassa
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Microsoft Edge kioskitilassa
 
-Voit määrittää kioskitilan Microsoft Edgen versiossa 77 ja sitä uudemmassa versiossa sekä Microsoft Edgen vanhoissa versioissa 45 ja aiemmissa versioissa.
+Voit määrittää kioskitilan Microsoft Edge 87:ssä ja sitä uudemmassa versiossa sekä vanha Microsoft Edge versioissa 45 ja sitä aiemmissa versioissa. Lisätietoja on kohdassa [Microsoft Edge kioskitilan määrittäminen.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Voit määrittää Windows 10:ssä suoritettavat laitteet toimimaan yhden sovelluksen tai usean sovelluksen [kioskitilassa.](https://go.microsoft.com/fwlink/?linkid=2133659)
+Voit määrittää, että Windows 10 toimii yhdessä sovelluksessa tai usean [sovelluksen kioskitilassa.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Lisätietoja kioskitilan määrittämisestä Microsoft Edgen vakaan kanavan uusimmassa versiossa ja Microsoft Edgen vanhassa versiossa on kohdassa:
+Lisätietoja kioskitilan määrittämisestä uusimmassa Microsoft Edge stabiilissa kanavassa ja vanha Microsoft Edge:
 
-- [Microsoft Edge ja määritetty käyttöoikeus](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Microsoft Edgen "-kiosk" komentoriviparametri](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Vanhan Microsoft Edgen kioskitilan tuki](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge, jolla on määritetty käyttöoikeus](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge "--kiosk" komentorivin parametri](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Vanha Microsoft Edge kiosk-tilan tuki](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
