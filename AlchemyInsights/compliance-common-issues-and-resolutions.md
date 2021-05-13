@@ -12,27 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817349"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470200"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Yleisiä yhteensopivuuteen liittyviä ongelmia ja ratkaisuja
 
+Ohjeita ilmoitusten tarkasteluun on kohdassa Tietoturva- ja [yhteensopivuuskeskuksen ilmoituskäytännöt.](/microsoft-365/compliance/alert-policies.md)
+
 Seuraavassa on joitakin usein pyydettyjä ohjeaiheita, jotka liittyvät yhteensopivuuteen:
 
-- Arkistoinnin määrittäminen ja viestien automaattisen arkistoinnin estäminen: [arkiston ottaminen käyttöön, arkistointikäytännön määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide) ja [arkistokoon suurentaminen](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide).
+- Arkistoinnin määrittäminen ja viestien automaattisen arkistoinnin estäminen: [arkiston ottaminen käyttöön, arkistointikäytännön määrittäminen](/microsoft-365/compliance/enable-archive-mailboxes.md) ja [arkistokoon suurentaminen](/microsoft-365/compliance/enable-unlimited-archiving.md).
 
-- Säilytyskäytännöt: kysymyksiä, jotka liittyvät [säilytysiän laskemiseen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age), [säilytystunnisteiden lisäämiseen tai poistamiseen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags) ja [säilytystunnusteiden käyttämiseen suojaus- ja yhteensopivuuskeskuksessa](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide) tietojen säilyttämiseen tai poistamiseen.
+- Säilytyskäytännöt: kysymyksiä, jotka liittyvät [säilytysiän laskemiseen](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [säilytystunnisteiden lisäämiseen tai poistamiseen](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md) ja [säilytystunnusteiden käyttämiseen suojaus- ja yhteensopivuuskeskuksessa](/microsoft-365/compliance/retention-policies.md) tietojen säilyttämiseen tai poistamiseen.
 
-- EDiscoveryn, sisältöhaun ja viennin määrittäminen: [sisältöhaku](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide) ja [hakutulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+- EDiscoveryn, sisältöhaun ja viennin määrittäminen: [sisältöhaku](/microsoft-365/compliance/search-for-content.md) ja [hakutulosten vieminen](/microsoft-365/compliance/export-search-results.md).
 
-- Valvonta O365:ssä: [valvontalokin haku O365:ssä](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
+- Valvonta O365:ssä: [valvontalokin haku O365:ssä](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
 
-- Tietojen menetyksen estäminen (DLP): saat lisätietoja artikkelista [Yleiskatsaus tietojen menetyksen estämisen käytäntöihin](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+- Tietojen menetyksen estäminen (DLP): saat lisätietoja artikkelista [Yleiskatsaus tietojen menetyksen estämisen käytäntöihin](/microsoft-365/compliance/data-loss-prevention-policies.md).
  
-- Luottamuksellisuusmerkinnät: Lisätietoja on ohjeaiheessa [Luottamuksellisuusotsikoiden ja niiden käytännöt.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
+- Luottamuksellisuusmerkinnät: Lisätietoja on ohjeaiheessa [Luottamuksellisuusotsikoiden ja niiden käytännöt.](/microsoft-365/compliance/create-sensitivity-labels.md)
 
 **Huomautus**: jos haluat lisätietoja tietystä yhteensopivuusongelmasta, muotoile kysymyksesi lyhyesti uudelleen ja mainitse mahdollisesti näkemäsi virheet tai käyttämäsi ominaisuudet.

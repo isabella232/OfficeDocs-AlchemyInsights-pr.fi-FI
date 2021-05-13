@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-palvelut
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664059"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470246"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365-tuonti palvelu
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Tuontipalvelu
 
-Microsoft 365-tuonti palvelun avulla voit tuoda kerralla useita PST-tiedostoja Exchange Online-posti laatikoihin.
+Tuonti Microsoft 365-palvelun avulla voit tuoda useita PST-tiedostoja kerralla Exchange Online postilaatikoihin.
 
-Jos haluat käyttää tuonti palvelua ja aloittaa tuonti prosessin, toimi seuraavasti:
+Tuontipalvelun käyttö ja tuontiprosessin käynnistäminen:
 
-1. Siirry [tieto turva & yhteensopivuus keskukseen](https://protection.office.com) ja Kirjaudu sisään käyttämällä organisaatiosi järjestelmänvalvojan tilin tunniste tietoja.
+1. Siirry [tietoturva- & ja](https://protection.office.com) kirjaudu sisään organisaation järjestelmänvalvojan tilin tunnistetiedoilla.
 
-2. Valitse tieto **turva-& yhteensopivuus keskuksen**vasemmanpuoleisesta ruudusta **tietojen hallinta > tuo**.
+2. Valitse Tietoturva- ja **yhteensopivuuskeskuksen & ruudussa** **Tietojen hallinta ja > tuo .**
 
-3. Valitse **tuo** -sivulla **Uusi tuontityö**.
+3. Valitse **Tuo-sivulla** **Uusi tuontityö**.
 
-4. Suorita ohjatun toiminnon vaiheet noudattamalla näitä [vaiheittaisia ohjeita](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. Suorita ohjatun toiminnon vaiheet noudattamalla [seuraavia](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)ohjeita.
 
-**Tärkeää**: Jos haluat käyttää **tuo** -sivua suojaus & yhteensopivuus keskuksessa, sinulle on määritetty  [tarvittavat käyttö oikeudet](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**Tärkeää:** Sinulle on **määritetty tarvittavat** käyttöoikeudet, jotta voit & tietoturva- ja yhteensopivuuskeskuksen [Tuonti-sivulle.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Jos haluat tuoda vain PST-tiedoston posti laatikkoosi, Lue [Tämä artikkeli](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Jos haluat vain tuoda PST-tiedoston postilaatikkoon, katso [lisätietoja tästä artikkelista.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
