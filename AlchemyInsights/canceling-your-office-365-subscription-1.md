@@ -1,5 +1,5 @@
 ---
-title: Peruutetaanko Microsoft 365 -tilauksesi?
+title: Peruutetaanko Microsoft 365 tilaus?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931645"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543250"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 -tilauksesi?
+# <a name="canceling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 tilaus?
 
-Ikävää, että siirryt, seuraavassa on ohjeet tilauksen peruuttamista varten:
+Olemme pahoillamme, että siirryt, ja voit peruuttaa tilauksesi seuraavasti:
 
-1. Siirry hallintakeskuksessa Laskutustuotteesi   >  **[-sivulle ja](https://go.microsoft.com/fwlink/p/?linkid=842054)** valitse Sitten **Tuotteet-välilehti.**
-2. Etsi tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme painiketta) ja valitse sitten Peruuta **tilaus.**
-3. Valitse **Peruuta tilaus** -ruudussa peruutuksen syy. Halutessasi voit antaa palautetta.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  **[-sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse sitten **Tuotteet-välilehti.**
+2. Etsi tilaus, jonka haluat peruuttaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Peruuta tilaus**.
+3. Valitse **Peruuta tilaus** -ruudussa peruutuksen syy. Voit halutessasi antaa palautetta.
 4. Valitse **Tallenna**.
 
-Lisätietoja tilauksen peruuttamisesta tai asetuksista on kohdassa [Tilauksen peruuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Lisätietoja tilauksen tai vaihtoehtojen peruuttamisesta on kohdassa [Tilauksen peruuttaminen.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Jos haluat jatkaa tilauksen käytön kokeilujakson ajan, voit poistaa tilauksen toistuvan laskutuksen käytöstä. Lisätietoja on kohdassa [Microsoft 365 for Business -tilauksen uusiminen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Jos haluat jatkaa tilauksen käytön kokeilujakson ajan, voit poistaa tilauksen toistuvan laskutuksen käytöstä. Lisätietoja on kohdassa [yritysasian Microsoft 365 uusiminen.](/microsoft-365/commerce/subscriptions/renew-your-subscription)

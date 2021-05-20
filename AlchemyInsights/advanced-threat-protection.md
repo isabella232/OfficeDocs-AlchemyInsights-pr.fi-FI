@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801224"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542890"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- Turvalliset liitteet, turvalliset linkit ja Tietojenkalasteluviestit kuuluvat Microsoft Defender for Office 365 (ATP)-sivustoon. Enterprise E5, Education A5 ja Microsoft 365 Business Premium sisältävät ATP:N. Kaikki muut palvelu paketit vaativat Add-on ATP-paketin.
+- Turvalliset liitteet, turvalliset linkit ja tietojen kalastelun torjunta ovat osa Microsoft Defender for Office 365. Enterprise E5, Education A5 ja Microsoft 365 Business Premium sisältävät Microsoft Defender for Office 365. Kaikki muut palvelupaketit edellyttävät Microsoft Defender for Office 365 tilausta.
 
-- Sinun on määritettävä tarvittavat käyttö oikeudet, jotta käyttäjät voivat suojata Office 365 ATP:N. [Tässä ohje](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) aiheessa kerrotaan, miten voit määrittää, miten joukko käyttö oikeuksia käytetään käyttäjille.
+- Sinun on määritettävä asianmukaiset käyttöoikeudet, jotta voit suojata käyttäjiä Microsoft Defenderin avulla Office 365. Katso [käyttäjien lisääminen ja käyttöoikeuksien määrittäminen samanaikaisesti,](/microsoft-365/admin/add-users/add-users) jos haluat ohjeet käyttöoikeuksien joukkokäyttöoikeuskäyttäjiin.
 
-- Yleiset järjestelmänvalvojat tai suojausjärjestelmänvalvojat voivat käyttää Office 365 ATP-ominaisuuksia tieto turva & yhteensopivuus keskuksessa **uhkien** hallinta- \> **käytännössä** .
+- Yleiset järjestelmänvalvojat tai suojauksen järjestelmänvalvojat voivat käyttää Microsoft Defender for Office 365 Security & -yhteensopivuuskeskuksen ominaisuuksia **Threat Managmeent** \> **-käytännön avulla.**
 
-- Turvalliset liitteet ja turvallisten linkkien käytännöt voidaan määrittää koko organisaatiolle, tietyille toimi alueille tai pienille käyttäjä ryhmille.
+- Turvallisten liitteiden ja turvallisten linkkien käytännöt voidaan määrittää koko organisaatiolle, tietyille toimialueille tai pienemmille käyttäjäryhmille.
 
-- Oletusatp-oletus asetus käytäntöä ei ole. Sinun on [luotava käytännöt](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ja käytettävä niitä käyttäjille.
+- Oletusarvoista turvallisten liitteiden käytäntöä ei ole. Sinun on [luotava käytäntö ja](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) sovellettava sitä käyttäjille.
 
-- Oletusarvoinen ATP-turvallisten linkkien käytäntö koskee kaikkia organisaatiosi organisaatioita. Jos haluat muokata tätä käytäntöä tai luoda mukautettuja käytäntöjä, katso [tätä aihetta](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- On olemassa oletusarvoinen Turvalliset linkit -käytäntö, joka koskee kaikkia organisaatiosi jäsenyksiä. Jos haluat muokata tätä käytäntöä tai luoda mukautettuja käytäntöjä, katso Turvallisten linkkien käytäntöjen määritys [Microsoft Defender for Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

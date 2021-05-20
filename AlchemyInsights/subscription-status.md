@@ -1,5 +1,5 @@
 ---
-title: Tila uksen tila
+title: Tilauksen tila
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286955"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542782"
 ---
-# <a name="subscription-status"></a>Tila uksen tila
+# <a name="subscription-status"></a>Tilauksen tila
 
-Tila uksen tila, vanhenemis päivä ja käyttö oikeuksien määrä löytyvät Microsoft 365-hallinta keskuksen **Omat tuotteet** -sivulta.
+Tilauksen tila, vanhentumispäivä ja käyttöoikeuksien määrä ovat  hallintakeskuksen Tuotteet-Microsoft 365 sivulla.
 
-1. Siirry hallinta keskuksessa **laskutus**  >  [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. **Tuotteet** -väli lehden oletusarvoisesti näet kaikki tila uksen ja niiden tilan (aktiivinen, vanhentunut, poistettu käytöstä tai poistettu). Jos haluat nähdä kaikkien tilausten alijoukon, valitse suodatin-kuvake ja valitse sitten **tila uksen tila** , jonka haluat nähdä.
-3. Jos haluat aktivoida vanhentuneen tai käytöstä poistetun tila uksen uudelleen, valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Aktivoi tämä tilaus uudelleen**.
-4. **Tuotteet** -sivulla näkyy myös seuraavat tiedot:
-    - Käyttäjille määritettyjen käyttö oikeuksien määrä näkyy **määritetyt käyttö oikeudet** -sarakkeessa.
-    - Tila ukseen sisältyvien käyttö oikeuksien kokonaismäärä näkyy **ostettu määrä** -sarakkeessa.
-    - **Tila uksen tila** -sarakkeen vanhenemis-tai uusimis päivä.
-    - Kunkin tila uksen maksamiseen käytetty maksu tapa näkyy **maksettu-** sarakkeessa.
-    - Kuhunkin tila ukseen liittyvä laskutus tili näkyy **laskutus tili** -sarakkeessa.
-5. Jos haluat lisätä tai poistaa sarakkeita, valitse **Valitse sarakkeet**.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. **Tuotteet-välilehdessä** näet oletusarvoisesti kaikki tilaukset ja niiden tilan (Aktiivinen, Vanhentunut, Ei käytössä tai Poistettu). Jos haluat nähdä kaikkien tilausten alijoukon, valitse suodatinkuvake ja valitse **sitten tilauksen tila,** jonka haluat nähdä.
+3. Aktivoi vanhentunut tai käytöstä poistettu tilaus uudelleen valitsemalla kolme painiketta (lisää toimintoja) ja sitten **Aktivoi tämä tilaus uudelleen**.
+4. **Tuotteesi-sivulla** näkyvät myös seuraavat tiedot:
+    - Käyttäjille määritettyjen käyttöoikeuksien määrä näkyy Määritetyt **käyttöoikeudet -sarakkeessa.**
+    - Tilaukseen sisältyvien käyttöoikeuksien kokonaismäärä näkyy Ostettu määrä **-sarakkeessa.**
+    - Tilauksen tila -sarakkeen vanhenemis- **tai uusimispäivä.**
+    - Kunkin tilauksen maksamiseen käytetty maksutapa näkyy **Maksutapa-sarakkeessa.**
+    - Jokaiseen tilaukseen liittyvä laskutustili näkyy **Laskutustili-sarakkeessa.**
+5. Voit lisätä tai poistaa sarakkeita valitsemalla **Valitse sarakkeet**.

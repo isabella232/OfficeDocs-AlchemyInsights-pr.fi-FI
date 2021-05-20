@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232256"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543142"
 ---
 # <a name="change-app-license-quantity"></a>Sovelluksen käyttöoikeuksien määrän muuttaminen
 
-Voit tarkastella tai muuttaa käyttöoikeuksien määrää ja määrittää niitä käyttäjille Microsoft 365 -hallintakeskuksessa.
+Voit tarkastella tai muuttaa käyttöoikeuksien määrää ja määrittää niitä käyttäjille Microsoft 365 hallintakeskuksessa.
 
 ## <a name="to-change-license-quantity"></a>Käyttöoikeuksien määrän muuttaminen
 
-**Watch a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857) or [Remove existing licenses](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**KATSO video,** jossa näytetään, miten voit tehdä tämän: [Osta uusia käyttöoikeuksia](https://go.microsoft.com/fwlink/p/?linkid=2154857) tai [Poista olemassa olevat käyttöoikeudet](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Siirry Tuotteiden **laskutus**  >  **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Etsi **Tuotteet-välilehden** **Sovellukset-osasta** sovellus, jota haluat hallita. Valitse **Lisää toimintoja** (kolme painiketta) ja valitse sitten Osta **käyttöoikeuksia.**
-3. Jos haluat vähentää käyttöoikeuksien määrää, valitse Osta  käyttöoikeuksia -ruudun yläreunassa **Poista käyttöoikeudet.**
-4. Voit ostaa tai poistaa  käyttöoikeuksia kirjoittamalla Käyttöoikeuksien kokonaismäärä -ruudun Uusi määrä -kohtaan tähän tilaukseen käyttöoikeuksien kokonaismäärän.  Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat lisätä viisi lisää, kirjoita 105. Jos haluat poistaa viisi niistä, kirjoita 95.
+1. Siirry Laskutus   >  **[tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Etsi **Tuotteet-välilehden** **Sovellukset-osasta** sovellus, jota haluat hallita. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Osta käyttöoikeuksia**.
+3. Jos haluat vähentää käyttöoikeuksien määrää, valitse Osta  käyttöoikeuksia -ruudun yläreunassa **Poista käyttöoikeudet**.
+4. Osta tai poista käyttöoikeuksia  kirjoittamalla  Uusi määrä Käyttöoikeuksia yhteensä -ruutuun tämän tilauksen käyttöoikeuksien kokonaismäärä. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat lisätä viisi lisää, kirjoita 105. Jos haluat poistaa viisi niistä, kirjoita 95.
 5. Valitse **Tallenna**.
 
 ## <a name="to-assign-app-licenses"></a>Sovelluksen käyttöoikeuksien määrittäminen
 
-1. Siirry Tuotteiden **laskutus**  >  **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry Laskutus   >  **[tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Etsi **Tuotteet-välilehden** **Sovellukset-osasta** sovellus, jota haluat hallita.
-3. Valitse **Asetukset& toiminnot**-kohdassa linkki **Publisherin portaalin Hallinta-kohtaan.**
+3. Valitse **Asetukset & toiminnot**-kohdassa linkki Hallitse julkaisijan **portaalissa**.

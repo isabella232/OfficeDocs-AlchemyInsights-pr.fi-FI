@@ -1,5 +1,5 @@
 ---
-title: Visio-tila uksen peruuttaminen
+title: Tilauksen Visio peruuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416394"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543358"
 ---
-# <a name="cancel-visio-subscription"></a>Visio-tila uksen peruuttaminen
+# <a name="cancel-visio-subscription"></a>Tilauksen Visio peruuttaminen
 
-Järjestelmänvalvojat voivat peruuttaa organisaatiolleen Visio-tila uksen Microsoft 365-hallinta keskuksessa.
+Järjestelmänvalvojat voivat Visio organisaationsa tilauksen Microsoft 365 hallintakeskuksessa.
 
-1. Siirry **laskutus** \> [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Etsi **tuotteet** -väli lehdestä Visio-tilaus, jonka haluat peruuttaa. Valitse **Lisää toimintoja** (kolme pistettä) ja valitse sitten **Peruuta tilaus**.
-3. Valitse **Peruuta tilaus** -ruudussa syy, miksi peruutat peruutuksen. Voit myös antaa palautetta.
+1. Siirry Laskutus  \> [tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Etsi **Tuotteet-välilehdestä** Visio tilaus, jonka haluat peruuttaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Peruuta tilaus**.
+3. Valitse **Peruuta tilaus** -ruudussa peruutuksen syy. Voit halutessasi antaa palautetta.
 4. Valitse **Tallenna**.
 
-**Hyvitys:** Mikä tahansa jaettu saldo palautetaan sinulle seuraavan laskutus jakson aikana.
+**Hyvitys:** Kaikki jaetut hyvitykset palautetaan sinulle seuraavalla laskutusjaksolla.
 
-Lisä tietoja on artikkelissa [tila uksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Lisätietoja on kohdassa [Tilauksen peruuttaminen.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
