@@ -1,29 +1,31 @@
 ---
 title: Microsoft-tilauksen peruuttaminen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707668"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543322"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft-tilauksen peruuttaminen
 
-1. Siirry kohtaan [Palvelut ja tilaukset](https://account.microsoft.com/services/) ja kirjaudu sisään Microsoft-tilillä, jota käytit tilauksen ostamiseen.
+Järjestelmänvalvojat voivat peruuttaa organisaationsa tilauksen Microsoft 365 hallintakeskuksessa.
 
-2. Etsi tilaus ja valitse **Hallitse**. Jos näet **Ota käyttöön toistuva laskutus** -kohdan **Hallitse** -kohdan sijaan, siirry suoraan Vianmääritys-osioon. Jatka muussa tapauksessa vaiheeseen kolme.
+1. Siirry Laskutus  \> [tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat peruuttaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Peruuta tilaus**.
+3. Valitse **Peruuta tilaus** -ruudussa peruutuksen syy. Voit halutessasi antaa palautetta.
+4. Valitse **Tallenna**.
 
-3. Valitse seuraavalla sivulla **Peruuta** tai **Päivitä tai peruuta** tilauksen tyypistä riippuen.
-
-4. Seuraa sivun ohjeita jatkaaksesi peruutusta.
+**Hyvitys:** Kaikki jaetut hyvitykset palautetaan sinulle seuraavalla laskutusjaksolla.

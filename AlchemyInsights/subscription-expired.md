@@ -1,10 +1,11 @@
 ---
 title: Tilaus on päättynyt
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158544"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544287"
 ---
 # <a name="subscription-expired"></a>Tilaus on päättynyt
 
@@ -25,28 +26,23 @@ Jos tilauksesi päättyy tai jos Microsoft on poistanut tilauksesi käytöstä t
 
 **Tilauksen uudelleenaktivointi**
 
-1. Valitse hallintakeskuksessa **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivu.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat aktivoida **uudelleen,** valitse kolme painiketta (lisää toimintoja) ja valitse sitten Aktivoi tämä tilaus uudelleen .
+    > [!NOTE]
+    > Jos et näe Aktivoi tämä tilaus **uudelleen -merkintää,** ota yhteyttä tukeen.
+3. Valitse **Aktivoi tämä tilaus uudelleen** -ruudun avattavasta luettelosta maksutapa tai valitse **Lisää maksutapa**.
+4. Valitse **Tallenna**.
 
-2. Etsi Tuotteet ja palvelut -sivulla tilaus, jonka haluat aktivoida uudelleen.
-
-3. Valitse Laskutus-osiossa **Aktivoi uudelleen nyt**.  Jos olet Kortit-näkymässä, valitse kolme pistettä Nimi- ja Käytettävissä oleva määrä -kohtien välillä ja valitse sitten valikosta Aktivoi uudelleen. **Huomautus**: jos et näe etsimääsi tilausta, sinun täytyy ehkä muuttaa sivun yläosassa olevan Tilauksen tila -suodattimen arvoksi **Kaikki**.
-
-4. Vahvista maksutietosi. Voit päivittää olemassa olevat maksutietosi. Kun olet lisännyt maksutavan, valitse **Aktivoi uudelleen**.
-
-Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Tilauksen uusimisen hallinnointi**
 
 Kuukausittaisen tai vuosittaisen laskutuksen hallinta: voit asettaa toistuvan laskutuksen käyttöön tai poistaa sen käytöstä.
 
-1. Valitse hallintakeskuksessa **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivu.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Valitse **Tuotteet-välilehdessä** tilaus, jota haluat hallita.
+3. Valitse tilauksen tiedot -sivun **Tilaus- ja maksuasetukset -kohdassa** **Muokkaa toistuvaa laskutusta.**
+4. Valitse Muokkaa **toistuvia laskutusasetuksia** -ruudussa **Käytössä**, **Käytössä, mutta uusi kerran** tai **Poista käytöstä**.
+5. Valitse **Tallenna**.
 
-2. Valitse tilaus, jonka automaattista laskutuksen uusimista haluat hallita. 
-
-3. Valitse Laskutus-kohdassa Uusitaan- tai Voimassaolo päättyy -kohdan vierestä **Muokkaa**.
-
-4. Poista se käytöstä valitsemalla toistuvan laskutuksen asetukset-ruudussa **Poista käytöstä**. Jos toistuva laskutus on jo poistettu käytöstä, ota se käyttöön valitsemalla **Kuukausittain** tai **Kerran**. 
-
-5. Valitse **Lähetä muutos**.
-
-Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

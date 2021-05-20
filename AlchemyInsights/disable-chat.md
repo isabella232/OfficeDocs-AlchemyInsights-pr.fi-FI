@@ -1,5 +1,5 @@
 ---
-title: Poista keskustelu käytöstä
+title: Keskustelun poistaminen käytöstä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088682"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573743"
 ---
-# <a name="disable-chat"></a>Poista keskustelu käytöstä
+# <a name="disable-chat"></a>Keskustelun poistaminen käytöstä
 
-Jos haluat poistaa keskustelun käytöstä organisaatiossasi, voit luoda käytäntöjä, joiden avulla voit määrittää, mitkä keskustelu-ja kanavan viesti toiminnot ovat käytettävissä. Voit suorittaa tämän usealla eri tavalla sen mukaan, miten haluat määrittää keskustelun.
+Jos haluat ottaa keskustelun käyttöön tai poistaa sen käytöstä organisaatiossasi, voit luoda käytäntöjä, joiden avulla voit hallita, mitkä keskustelu- ja kanavaviestintäominaisuudet ovat käytettävissä. Voit tehdä tämän monella tavalla sen mukaan, miten haluat määrittää keskustelun.
 
-- **Viestit**: Valitse teamsin hallinta keskuksessa [viestintä käytännöt](https://admin.teams.microsoft.com/)ja Vaihda keskustelu-vaihto ehdot **käytössä** -tai ei **käytössä-asentoon**. Lisä tietoja mukautetuista viestintä käytännöistä ja käytäntöjen määrittämisestä käyttäjille on Ohje aiheessa [viestintä käytäntöjen hallinta tiimeissä](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
-- **Kokous**: Valitse teamsin hallinta keskuksessa [Kokous käytännöt](https://admin.teams.microsoft.com/) – keskustelun asetus on **Salli keskustelu koko** uksessa. Lisä tietoja mukautettujen Kokous käytäntöjen luomisesta on Ohje aiheissa [Kokous käytäntöjen hallinta tiimeissä](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) ja [keskustelun salliminen koko uksia](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)varten.
-- **Vieras käyttäjät**: voit määrittää vieras käyttö oikeus käytäntöjä niin, että vieraat voivat käyttää chattia, jotka voivat vaihtaa **keskustelua** tai **poistaa sen käytöstä**. Lisä tietoja on artikkelissa [vieras käytön määrittäminen teamsin hallinta keskuksessa](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **Opiskelijat**: Jos haluat poistaa keskustelun käytöstä opiskelijan kanssa, katso vaihto ehdot keskustelun salliminen koko uksissa ja 1:1-keskustelun salliminen [teamsin käytäntöjen ja koulutus pakettien](https://docs.microsoft.com/microsoftteams/policy-packages-edu)avulla.
+- **Kokous:** Valitse Teams hallintakeskuksessa [Kokouskäytännöt](https://admin.teams.microsoft.com/) - Keskustelun asetus on **Salli keskustelu kokouksissa.** Lisätietoja mukautettujen kokouskäytäntöjen luomisesta on vaihtoehdot [Kokouskäytäntöjen hallinta Teams](/microsoftteams/meeting-policies-in-teams) [ja Salli keskustelu kokouksissa.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
+- **M*essaging**: Valitse Teams hallintakeskuksessa [Viestintäkäytännöt](https://admin.teams.microsoft.com/)ja vaihda Keskustelu **käytössä-** tai Ei **käytössä -painikkeeseen.** Lisätietoja mukautetuista viestikäytännöistä ja käyttäjien käytännöistä on kohdassa [Viestintäkäytäntöjen hallinta Teams.](/microsoftteams/messaging-policies-in-teams)
+
+- **Opiskelijat:** Jos haluat poistaa keskustelun käytöstä opiskelijalta, tutustu vaihtoehtoihin, joiden avulla voit sallia keskustelun kokouksissa ja sallia 1:1-keskustelun [Teams käytäntöpaketeissa Educationissa.](/microsoftteams/policy-packages-edu)
+
+- Vieraskäyttäjät: Voit määrittää vieraskäyttökäytännöt sallimaan vieraiden pääsyn keskusteluun, jotka voivat ottaa Keskustelun käyttöön tai **Pois** **käytöstä.** Lisätietoja on kohdassa [Vieraskäyttötietojen määrittäminen Teams hallintakeskuksessa.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 
