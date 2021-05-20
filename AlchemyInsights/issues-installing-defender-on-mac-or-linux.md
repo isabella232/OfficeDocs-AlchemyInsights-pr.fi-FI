@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: a8d5ad2246b9b83e1e0a4d5be4dd8bb41c16e734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39f180852fd0438597fa1ce665b2703fbc7b1aa4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713542"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539677"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Ongelmia Microsoft Defenderin asentamisessa Mac- tai Linux-tietokoneeseen
 
 **Mac**
 
-- Varmista, että järjestelmävaatimukset täyttyvät ennen Microsoft Defender ATP for Macin asentamista. Lisätietoja on kohdassa [Microsoft Defender ATP for Macin asentaminen.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
-- Tarkista tiedoston tiedot: "/Library/Logs/Microsoft/mdatp/install.log".
+- Varmista, että järjestelmävaatimukset täyttyvät ennen Microsoft Defender ATP for Macin asentamista. Lisätietoja on kohdassa [Mac-tietokoneen Microsoft Defender ATP asennus.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
+- Tarkista tiedoston tiedot: "/Kirjasto/Lokit/Microsoft/mdatp/install.log".
 
 **Linux**
 
-- Varmista, että järjestelmävaatimukset täyttyvät ennen Microsoft Defender ATP for Linuxin asentamista. Lisätietoja on kohdassa [Microsoft Defender ATP for Linuxin asentaminen.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements) 
-- Jos haluat varmistaa, että MDATP-palvelu on käynnissä, katso [asennus epäonnistui.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
-    Tietoja vianmäärityksestä ja ongelmien ratkaisemisesta, jos palvelu ei ole käynnissä, on kohdassa Vianmääritysvaiheet, [jos mdatp-palvelu ei ole käynnissä.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
-- Ohjeet asiakkaan määrityksen tarkistamiseen, tuotteen kuntoa vahvistavaan ja EICAR-tekstitiedoston tunnistustestin suorittamiseen ovat [asiakaskokoonpanossa.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)  
+- Varmista, että järjestelmävaatimukset täyttyvät, ennen kuin asennat Microsoft Defender ATP Linuxille. Lisätietoja on kohdassa [Linux-MDATP asentaminen.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements) 
+- Jos haluat tarkistaa, MDATP on käynnissä, katso asennus [epäonnistui.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
+    Tietoja vianmäärityksestä ja ongelmien ratkaisemisesta, jos palvelu ei ole käynnissä, on kohdassa [Mdatp-palvelun vianmäärityksen vaiheet.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
+- Ohjeet asiakkaan määrityksen tarkistamiseen, tuotteen kuntoa todentaen ja EICAR-tekstitiedoston tunnistustestin suorittamiseen ovat kohdassa [Asiakasmääritys.](/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)  
 
-    **Huomautus** Luettelo tuetuista tiedostojärjestelmistä käytönaikaista toimintaa varten on [Microsoft Defender ATP for Linuxissa.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
+    **Huomautus** Luettelo tuetuista tiedostojärjestelmistä käytönaikaista toimintaa varten on kohdassa [Microsoft Defender ATP for Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
