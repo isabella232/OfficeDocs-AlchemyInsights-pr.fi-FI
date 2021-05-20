@@ -1,35 +1,33 @@
 ---
 title: Tilaus ei ole enää aktiivinen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789227"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544251"
 ---
-# <a name="subscription-no-longer-active"></a><span data-ttu-id="290cd-102">Tilaus ei ole enää aktiivinen</span><span class="sxs-lookup"><span data-stu-id="290cd-102">Subscription no longer active</span></span>
+# <a name="subscription-no-longer-active"></a><span data-ttu-id="a2886-102">Tilaus ei ole enää aktiivinen</span><span class="sxs-lookup"><span data-stu-id="a2886-102">Subscription no longer active</span></span>
 
-<span data-ttu-id="290cd-103">Jos näkyville ilmestyy [tilausilmoitus Microsoft-sovelluksen](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) avauksen yhteydessä, on todennäköistä, että sinun on aktivoitava tilauksesi uudelleen.</span><span class="sxs-lookup"><span data-stu-id="290cd-103">If a [subscription notice appears when a Microsoft application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) is opened, it's likely you'll need to reactivate your subscription.</span></span>
+<span data-ttu-id="a2886-103">Jos [näyttöön tulee tilausilmoitus,](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) kun Microsoft-sovellus avataan, sinun on todennäköisesti aktivoitava tilauksesi uudelleen.</span><span class="sxs-lookup"><span data-stu-id="a2886-103">If a [subscription notice appears](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) when a Microsoft application is opened, it's likely you need to reactivate your subscription.</span></span>
 
-<span data-ttu-id="290cd-104">**Tilauksen uudelleenaktivointi**</span><span class="sxs-lookup"><span data-stu-id="290cd-104">**Reactivate a subscription**</span></span>
+<span data-ttu-id="a2886-104">**Tilauksen uudelleenaktivointi**</span><span class="sxs-lookup"><span data-stu-id="a2886-104">**Reactivate a subscription**</span></span>
 
-1. <span data-ttu-id="290cd-105">Valitse hallintakeskuksessa **Laskutus > [Tuotteet ja palvelut](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivu.</span><span class="sxs-lookup"><span data-stu-id="290cd-105">In the admin center, go to the **Billing > [Products & Services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="a2886-105">Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="a2886-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="a2886-106">Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat aktivoida uudelleen.</span><span class="sxs-lookup"><span data-stu-id="a2886-106">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="a2886-107">Valitse kolme painiketta (lisää toimintoja) ja valitse **sitten Aktivoi tämä tilaus uudelleen**.</span><span class="sxs-lookup"><span data-stu-id="a2886-107">Select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="a2886-108">Valitse **Aktivoi tämä tilaus uudelleen** -ruudun avattavasta luettelosta maksutapa tai valitse **Lisää maksutapa**.</span><span class="sxs-lookup"><span data-stu-id="a2886-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="a2886-109">Valitse **Tallenna**.</span><span class="sxs-lookup"><span data-stu-id="a2886-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="290cd-106">Etsi Tuotteet ja palvelut -sivulla tilaus, jonka haluat aktivoida uudelleen.</span><span class="sxs-lookup"><span data-stu-id="290cd-106">On the Products & services page, find the subscription that you want to reactivate.</span></span>
-
-3. <span data-ttu-id="290cd-107">Valitse Laskutus-osiossa **Aktivoi uudelleen nyt**.</span><span class="sxs-lookup"><span data-stu-id="290cd-107">In the Billing section, click **Reactivate now**.</span></span>  <span data-ttu-id="290cd-108">Jos olet Kortit-näkymässä, valitse kolme pistettä Nimi- ja Käytettävissä oleva määrä -kohtien välillä ja valitse sitten valikosta Aktivoi uudelleen.</span><span class="sxs-lookup"><span data-stu-id="290cd-108">If you are in the Cards view, click the ellipsis between the Name and Available quantity and choose Reactivate from the menu.</span></span> <span data-ttu-id="290cd-109">**Huomautus**: jos et näe etsimääsi tilausta, sinun täytyy ehkä muuttaa sivun yläosassa olevan Tilauksen tila -suodattimen arvoksi **Kaikki**.</span><span class="sxs-lookup"><span data-stu-id="290cd-109">**Note**: If you don't see the subscription you are looking for, you may need to adjust the Subscription status filter near the top of the page to **All**.</span></span>
-
-4. <span data-ttu-id="290cd-110">Vahvista maksutietosi. Voit päivittää olemassa olevat maksutietosi.</span><span class="sxs-lookup"><span data-stu-id="290cd-110">Confirm your payment details to update your existing payment information.</span></span> <span data-ttu-id="290cd-111">Kun olet lisännyt maksutavan, valitse **Aktivoi uudelleen**.</span><span class="sxs-lookup"><span data-stu-id="290cd-111">When you're finished entering your payment method, click **Reactivate**.</span></span>
-
-<span data-ttu-id="290cd-112">Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="290cd-112">For more info, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span> 
+<span data-ttu-id="a2886-110">Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a2886-110">To learn more, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>

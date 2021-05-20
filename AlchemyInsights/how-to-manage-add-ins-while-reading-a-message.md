@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713562"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543997"
 ---
-# <a name="how-to-manage-add-ins-while-reading-a-message"></a><span data-ttu-id="d9ac7-102">Apuviestien hallinta viestin lukemisen aikana</span><span class="sxs-lookup"><span data-stu-id="d9ac7-102">How to manage add-ins while reading a message</span></span>
+# <a name="how-to-manage-add-ins-while-reading-a-message"></a><span data-ttu-id="e6c13-102">Apuviestien hallinta viestin lukemisen aikana</span><span class="sxs-lookup"><span data-stu-id="e6c13-102">How to manage add-ins while reading a message</span></span>
 
-1. <span data-ttu-id="d9ac7-103">Valitse viesti Outlookin verkkosovelluksessa.</span><span class="sxs-lookup"><span data-stu-id="d9ac7-103">In Outlook on the web, select a message.</span></span>
+1. <span data-ttu-id="e6c13-103">Valitse Outlook verkkosovelluksessa.</span><span class="sxs-lookup"><span data-stu-id="e6c13-103">In Outlook on the web, select a message.</span></span>
     
-2. <span data-ttu-id="d9ac7-104">Valitse **viestin yläreunassa** Lisää toimintoja.</span><span class="sxs-lookup"><span data-stu-id="d9ac7-104">Select **More actions** at the top of the message.</span></span>
+2. <span data-ttu-id="e6c13-104">Valitse viestin yläreunassa kolmea painiketta (lisää toimintoja).</span><span class="sxs-lookup"><span data-stu-id="e6c13-104">Select the three dots (more actions) at the top of the message.</span></span>
 
-3. <span data-ttu-id="d9ac7-105">Siirry luettelon alareunaan ja valitse **Hae apuohjelmat.**</span><span class="sxs-lookup"><span data-stu-id="d9ac7-105">Go to the bottom of the list and select **Get Add-ins**.</span></span>
+3. <span data-ttu-id="e6c13-105">Siirry luettelon alareunaan ja valitse **Hae apuohjelmat**.</span><span class="sxs-lookup"><span data-stu-id="e6c13-105">Go to the bottom of the list and select **Get Add-ins**.</span></span>
     
-4. <span data-ttu-id="d9ac7-106">Valitse Outlookin apuohjelmat -sivulla haluamasi apuohjelma.</span><span class="sxs-lookup"><span data-stu-id="d9ac7-106">On the Add-ins for Outlook page, select the add-in you want.</span></span>
+4. <span data-ttu-id="e6c13-106">Valitse Outlook apuohjelmat -sivulla.</span><span class="sxs-lookup"><span data-stu-id="e6c13-106">On the Add-ins for Outlook page, select the add-in you want.</span></span>
     
-    <span data-ttu-id="d9ac7-107">Voit lisätä maksuttomat apuohjelmat **postilaatikkoon** valitsemalla Lisää.</span><span class="sxs-lookup"><span data-stu-id="d9ac7-107">For free add-ins, select **Add** to add it to your mailbox.</span></span>
+    <span data-ttu-id="e6c13-107">Voit lisätä maksuttomat apuohjelmat **postilaatikkoon** valitsemalla Lisää.</span><span class="sxs-lookup"><span data-stu-id="e6c13-107">For free add-ins, select **Add** to add it to your mailbox.</span></span>
     
-    <span data-ttu-id="d9ac7-108">Maksulliset apuohjelmat ja maksuttomat kokeiluversiot: **aloita ostaminen** valitsemalla Hanki apuohjelma.</span><span class="sxs-lookup"><span data-stu-id="d9ac7-108">For paid add-ins and free trials, select **Get it** to start your purchase.</span></span>
+    <span data-ttu-id="e6c13-108">Maksulliset apuohjelmat ja maksuttomat kokeiluversiot: **aloita ostaminen** valitsemalla Hanki se.</span><span class="sxs-lookup"><span data-stu-id="e6c13-108">For paid add-ins and free trials, select **Get it** to start your purchase.</span></span>
     
-<span data-ttu-id="d9ac7-109">Lisätietoja on kohdassa [Apu ins-in käyttäminen Outlookin verkkosovelluksessa.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)</span><span class="sxs-lookup"><span data-stu-id="d9ac7-109">For more info, see [Using add-ins in Outlook on the web](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).</span></span>
+<span data-ttu-id="e6c13-109">Lisätietoja on kohdassa [Apu in käyttäminen Outlook verkkosovelluksessa.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)</span><span class="sxs-lookup"><span data-stu-id="e6c13-109">For more info, see [Using add-ins in Outlook on the web](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).</span></span>
