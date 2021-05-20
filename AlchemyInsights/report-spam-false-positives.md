@@ -1,5 +1,5 @@
 ---
-title: 975 Haluatko ilmoittaa roska postista epätodeksi Microsoftille?
+title: 975 Haluatko ilmoittaa virheellisestä roskapostiviestistä Microsoftille?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692328"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540397"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Haluatko ilmoittaa roska postista epätodeksi Microsoftille?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Haluatko ilmoittaa roskapostiviestistä Virheellisestä roskapostista Microsoftille?
 
-Järjestelmänvalvoja on paras tapa selvittää, miksi tietojen kalastelu-tai roska posti viesti on toimitettu, lähettämällä näyte Microsoftille [Lähetetyt](https://protection.office.com/reportsubmission)-kohdassa. Voit määrittää, että käyttäjät voivat raportoida suoraan Microsoftille [raportti viesti-apuohjelman](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)kautta.
+Järjestelmänvalvojana paras tapa selvittää, miksi tietojen kalastelu- tai roskapostiviesti toimitettiin, on lähettää malli Microsoftille [Submissions Explorerissa.](https://protection.office.com/reportsubmission) Voit helpottaa tietojen hallintaa sallimaan käyttäjien tehdä raportista suoraan Microsoftille Ilmoita viestistä [-apuohjelman avulla.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-Suosittelemme varovaisuutta, jos päätät [ohittaa Microsoft 365-roska posti suodattimen](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Suosittelemme varoitusta, jos [päätät ohittaa Microsoft 365 roskapostisuodattimet.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Tiesitkö**, että voit nyt lähettää näytteitä suoraan [viestin jäljityksestä](https://protection.office.com/messagetrace) ja E5/ATP-sopimus 2-asiakkaat voivat lähettää näytteitä [Threat Explorerista](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Tiesitkö?**: Voit nyt lähettää näytteitä suoraan Viestin jäljitys -sivulta ja E5/Microsoft Defender for Office 365 Plan 2 -asiakkaat voivat lähettää näytteitä [Threat Explorerista.](/microsoft-365/security/office-365-security/threat-explorer) [](https://protection.office.com/messagetrace)

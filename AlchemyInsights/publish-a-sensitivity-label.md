@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233783"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539641"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Luottamuksellisuusmerkinnän julkaiseminen
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233783"
 
 1. Toista nämä vaiheet, jos tarvitset eri käytäntöasetuksia eri käyttäjille tai sijainneille. Haluat esimerkiksi lisätä käyttäjäryhmälle lisäotsikot tai erilaisen oletustarkin käyttäjäjoukolle.
 
-1. Jos luot useamman kuin yhden selitekäytännön, joka voi aiheuttaa ristiriidan käyttäjälle tai sijainnille, tarkista käytäntöjärjestys ja siirrä niitä tarvittaessa ylös- tai alaspäin. Jos haluat muuttaa selitekäytännön järjestystä, valitse **...** kohdassa **Lisää toimintoja** ja valitse sitten **Siirrä ylös** tai Siirrä **alas**.
+1. Jos luot useamman kuin yhden selitekäytännön, joka voi aiheuttaa ristiriidan käyttäjälle tai sijainnille, tarkista käytäntöjärjestys ja siirrä niitä tarvittaessa ylös- tai alaspäin. Jos haluat muuttaa selitekäytännön järjestystä, valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Siirrä ylös** tai **Siirrä alas.**
 
 Kun ohjattu toiminto suoritetaan loppuun, selitekäytäntö julkaistaan automaattisesti.
