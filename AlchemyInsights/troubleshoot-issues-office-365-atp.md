@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 (ATP)-ongelmien vian määritys
+title: Microsoft Defender for Office 365:n ongelmien vianmääritys
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544755"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP:N ongelmien vian määritys
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365:n ongelmien vianmääritys
 
-- **Ilmoitettuaan viiveestä Sähkö posti viestin toimituksessa** ? Kokeile ATP:N turvallisten liite tiedostojen käytäntöjen dynaamista toteutus vaihtoehtoa. Näin vältetään Sähkö posti viestien myöhästymis viiveet ja suojataan niitä haitalli silta tiedostoista.
-- Haluatko **raportoida väärät positiiviset tai väärät negatiiviset** ? Käytä tätä linkkiä, kun haluat lähettää tiedoston analyysia varten: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Tiesitkö, että voit ottaa käyttöön ATP:N turvallisten linkkien suojauksen Sähkö posti viestissä, joka lähetetään organisaation henkilöiden välillä** ? Toimi seuraavasti:
-    1. Siirry kohtaan https://protection.office.com ja Kirjaudu sisään.
-    2. Siirry **uhkien hallinta**  >  **käytännön**  >  **turvallisiin linkkeihin** .
-    3. Valitse **käytännöt, jotka koskevat tiettyjä käyttäjiä** , Muokkaa (tai lisää) käytäntöä.
-    4. Valitse **Käytä turvallisia linkkejä viesteihin, jotka lähetetään organisaation sisällä** .
-    5. Tallenna käytäntönne ja salli noin 30 minuuttia, ennen kuin muutokset toimivat omassa palvelin keskuksessa.
-- Lisä tietoja ATP:N käyttämisestä on [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)-ohjeessa.
+- **Huomaatko viiveitä sähköpostiviestin toimituksessa?** Kokeile käyttää Microsoft Defenderin Dynaaminen toimitus -vaihtoehtoa Office 365 turvallisten liitteiden käytäntöjä. Näin vältät sähköpostiviestien toimitusviiveet ja suojaat vastaanottajia haitallisilta tiedostoilta.
+- **Haluatko ilmoittaa virheellisistä positiivisista tai epätosi-negatiivisista?** Käytä [Submissions Exploreria.](https://protection.office.com/reportsubmission)
+- **Tiesitkö, että voit ottaa Microsoft Defenderin käyttöön Microsoft Defender for Microsoft Defender for Office 365 turvallisten** linkkien suojauksen organisaatiosi työntekijöiden välisissä sähköposteihin? Toimi seuraavasti:
+    1. Siirry https://protection.office.com kohteeseen ja kirjaudu sisään.
+    2. Siirry Threat management Policy Safe Links **(Uhkien**  >  **hallintakäytännön**  >  **turvalliset linkit) -ohjeisiin.**
+    3. Muokkaa **(tai lisää) käytäntöä kohdassa** Käytännöt, jotka koskevat tiettyjä vastaanottajia.
+    4. Valitse **Käytä turvallisia linkkejä organisaation sisällä lähetetyissä viesteissä**.
+    5. Tallenna käytäntö ja salli muutosten tekeminen 30 minuutin kuluessa.
+
+- Jos haluat lisää ohjeita Microsoft Defender for Office 365: [Microsoft Defender for Office 365.](/microsoft-365/security/office-365-security/office-365-atp)

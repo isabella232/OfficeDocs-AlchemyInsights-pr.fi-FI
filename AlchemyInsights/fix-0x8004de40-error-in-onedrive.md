@@ -1,5 +1,5 @@
 ---
-title: OneDriven 0x8004de40-virheen korjaus
+title: Korjaa 0x8004de40-virhe OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,31 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
-ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
+ms.openlocfilehash: f30b2f7d237158ae58d6a76676ca4c40d95ef3b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51649745"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544539"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>OneDriven 0x8004de40-virheen korjaus
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Korjaa 0x8004de40-virhe OneDrive
 
-Jos käyttöjärjestelmäsi on Windows 7 ja saat tämän virheilmoituksen, [TLS 1.1- ja TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)-protokollat otetaan käyttöön Windows-käyttöjärjestelmän WinHTTP -käyttöjärjestelmän oletusarvoisen suojatun protokollan päivityksen avulla.
+Virhekoodi 0x8004de40 voi OneDrive, jos yhteyden muodostaminen pilvipalveluun on vaikeaa. 
 
-Jos käytössäsi on Windows 10 ja saat virheilmoituksen 0x8004de40 OneDrivesta:
-
-- Käynnistä tietokone uudelleen, kun yhteys Acitve-hakemistotoimialueeseen on muodostettu.
-- Jos uudelleenkäynnistys ei korjaa ongelmaa, poista laitteen kiinnitys ja lisää se uudelleen Azure AD:stä. 
-
-**Huomautus:** sinun pitäisi olla yrityksen verkossa, kun suoritat näitä vaiheita. Älä suorita näitä vaiheita, kun et ole yhteydessä yrityksen infrastruktuuriin (esimerkiksi matkustaessasi). 
-
-1. Avaa järjestelmänvalvojan oikeuksin suoritettava **komentokehote valitsemalla Käynnistä**, napsauttamalla **komentokehotetta** hiiren kakkospainikkeella ja valitsemalla sitten **Suorita järjestelmänvalvojana**.
-
-1. Kirjoita *dsregcmd /leave ja paina* **Enter-näppäintä.**
-
-1. Kun olet valmis, kirjoita *dsregcmd /join ja paina* **Enter-näppäintä.**
-
-1. Kun olet valmis, sulje komentokehote.
-
-1. Käynnistä tietokone uudelleen ja kirjaudu OneDriveen.
+Lisätietoja on kohdassa [Virhekoodi: 0x8004de40 kirjauduttaessa OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)

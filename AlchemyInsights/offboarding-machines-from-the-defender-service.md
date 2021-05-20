@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender ATP -palvelun käytöstä poistaminen
+title: Microsoft Defender ATP käytöstä Microsoft Defender ATP käytöstä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713512"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544683"
 ---
-# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Microsoft Defender ATP -palvelun käytöstä poistaminen
+# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Microsoft Defender ATP käytöstä Microsoft Defender ATP käytöstä
 
 Jos tarvitset apua tietokoneen käytöstä pois käytöstä Defender ATP -palvelusta, katso käyttöjärjestelmäsi ohjeita:  
 
-- Windows 10 -laitteissa on lisätietoja Microsoft Defender ATP -palvelun käytöstä [poistetyissä laitteissa.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
-- Muut kuin Windows-laitteet ovat kohdassa [Muut kuin Windows-laitteet.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)
+- Lisätietoja Windows 10 on kohdassa Microsoft Defender ATP [-palvelun offboard-laitteet.](/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
+- Muut kuin Windows on kohdassa [Ei-Windows laitteet.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)

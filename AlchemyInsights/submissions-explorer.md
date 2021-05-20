@@ -1,5 +1,5 @@
 ---
-title: 2554 uusi ominaisuus, jonka avulla voit diagnosoida EDIS:N ja ATP:N.
+title: 2554 Uusi ominaisuus, joka auttaa EOP:n ja Microsoft Defenderin vianmäärityksessä Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726484"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544899"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Uusi ominaisuus, jonka avulla voit diagnosoida EDIS:N ja ATP:N.
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Uusi toiminto EOP:n ja Microsoft Defender for Office 365
 
-Järjestelmänvalvojana voit nyt raportoida epäilyttävistä Sähkö posti viesteistä, URL-osoitteista ja sisällöistä Microsoftille [Lähetetyt](https://protection.office.com/reportsubmission)-sovelluksessa. Sen avulla voit myös ymmärtää, miksi perusteltu viesti on merkitty virheellisesti. Lisä tietoja on tämän [tiedotteen](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)kohdassa.
+Järjestelmänvalvojana voit nyt helposti ilmoittaa epäilyttävistä sähköpostiviestistä, URL-osoitteista ja sisällöstä Microsoftille [Submissions Explorerissa.](https://protection.office.com/reportsubmission) Sen avulla voit jopa auttaa ymmärtämään, miksi aito viesti on merkitty virheellisesti. Lisätietoja on tässä [ilmoituksessa.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)

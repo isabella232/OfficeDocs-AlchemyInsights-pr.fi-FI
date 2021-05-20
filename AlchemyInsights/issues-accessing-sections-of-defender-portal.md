@@ -1,5 +1,5 @@
 ---
-title: Ongelmia Microsoft Defender ATP -portaalin osien käytössä
+title: Ongelmia Microsoft Defender for Office 365 -portaalin osien käytössä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713552"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545229"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Ongelmia Microsoft Defender ATP -portaalin osien käytössä
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Ongelmia Microsoft Defender for Office 365 -portaalin osien käytössä
 
-Jos portaalin koontinäytössä ja muissa osissa näkyy virhesanoma, kuten "Tietoja ei tällä hetkellä ole käytettävissä", on todennäköistä, että tietyt URL-toimialueet ja kaikki alitoimialueet sallitaan organisaatiossasi ja ne ovat avoinna viestintää varten. 
+Jos portaalin koontinäytössä ja muissa osissa näkyy virhesanoma, kuten "Tietoja ei tällä hetkellä ole käytettävissä", on todennäköistä, että tietyt URL-toimialueet ja kaikki alitoimialueet sallitaan organisaatiossasi ja ne voidaan avata viestintää varten. 
 
-Lisätietoja on ohjeaiheessa Tilauksen ja [portaalin käyttöongelmien vianmääritys.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)
+Lisätietoja on kohdassa Tilauksen [ja portaalin käyttöongelmien vianmääritys.](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)

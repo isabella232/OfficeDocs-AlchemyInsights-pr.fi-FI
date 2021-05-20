@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365-vian määritys
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801440"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545265"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365-vian määritys
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- Huomasitko viestin toimituksessa viiveitä? Käytä ATP Safe-liitteiden käytössä olevaa [dynaamista toteutus](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) vaihtoehtoa. Tämä auttaa välttämään viestin viiveitä ja suojaa samalla pahantahtoisten tiedostojen käyttäjiä.
+- **Huomaatko viipeitä viestin toimittamisessa?** Käytä [Dynaaminen toimitus -vaihtoehtoa](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Microsoft Defender for Office 365 turvalliset liitteet -käytännössä. Tämä auttaa välttämään viestien viiveitä ja suojaamaan vastaanottajia haitallisilta tiedostoilta.
 
-- Haluatko raportoida vääriä positiivisia tai vääriä negatiivisia tietoja Microsoftille? Käytä tätä [linkkiä](https://www.microsoft.com/wdsi/filesubmission/) , kun haluat lähettää tiedostoja analyysia varten.
+- **Haluatko ilmoittaa Microsoftille virheellisistä positiivisista tai epätosi-negatiivisista negatiivisista?** Käytä [Submissions Exploreria.](https://protection.office.com/reportsubmission)
 
-- Tiesitkö, että voit ottaa käyttöön turvallisten linkkien suojauksen sisäiseen sähkö postiin, joka on lähetetty organisaation eri vastaanottajaidesi välillä? Toimi seuraavasti:
+-** Tiesitkö, että voit ottaa käyttöön turvallisten linkkien suojauksen organisaatiosi vastaanottajien välisissä sisäisissä sähköpostiviesteissä?** Toimi seuraavasti:
 
-  1. Siirry [https://protection.office.com](https://protection.office.com) ja Kirjaudu sisään yleisen valvojan tai suojausvalvojan tilillä.
+  1. Siirry yleisen [https://protection.office.com](https://protection.office.com) järjestelmänvalvojan tai suojauksen järjestelmänvalvojan tiliin ja kirjaudu sisään.
 
-  2. Valitse vasemman siirtymis ruudun **uhkien hallinta** -kohdassa **käytännön** \> **Turvalliset linkit** .
+  2. Valitse vasemman siirtymisruudun **Uhkien hallinta**-kohdassa **Käytännön** \> **turvalliset linkit**.
 
-  3. Valitse **koko organisaatio-osioon sovellettavat käytännöt** -kohdasta käytäntö ja valitse **Muokkaa** .
+  3. Valitse **käytäntö koko organisaatiota koskevat käytännöt** -osassa ja valitse **sitten Muokkaa**.
 
-  4. Valitse **Asetukset** -kohdassa Ota käyttöön **Turvalliset linkit organisaatiossa lähetettyihin viesteihin** .
+  4. Ota **Asetukset**-kohdassa **Käytä turvallisia linkkejä organisaation sisällä lähetetyissä viesteissä -asetus.**
