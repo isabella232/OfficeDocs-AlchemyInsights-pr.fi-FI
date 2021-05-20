@@ -1,5 +1,5 @@
 ---
-title: Teams-apuohjelma Macille
+title: Teams-apuohjelman lisääminen Maciin
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670325"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582067"
 ---
-# <a name="teams-add-in-for-mac"></a>Teams-apuohjelma Macille
+# <a name="teams-add-in-for-mac"></a>Teams-apuohjelman lisääminen Maciin
 
-Jos haluat suorittaa puuttuvien teamsin apuohjelmien vian määrityksen Mac-käyttö järjestelmän käyttäjille, toimi seuraavasti:
+Voit tehdä vianmäärityksen Teams-apuohjelman Mac-käyttöjärjestelmän käyttäjille seuraavasti:
 
-**Vaihe 1:** Jos sinulla on paikallisesti käytettävä yhdistelmä vaihto (2016 CU3 tai uudempi), varmista Test-HMA.ps1-työkalun avulla, että moderni yhdistelmä todennus on määritetty oikein. Lisä tietoja on Ohje aiheessa [nykyaikaisen yhdistelmä ympäristön todennus määrityksen vahvistaminen Outlook for iOS:ssä ja Androidissa](https://aka.ms/AA980zq).  
+**Vaihe 1:** Jos käytössäsi on Exchange yhdistelmäympäristö (2016 CU3 tai uudempi), varmista Test-HMA.ps1-työkalun avulla, että moderni yhdistelmä varmennus on määritetty oikein. Lisätietoja on kohdassa Modernin yhdistelmäympäristön [todentamisen määrityksen Outlook iOS- ja Android-versioille.](https://aka.ms/TestHMAEAS)  
 
-**Huomautus** Käytä UPN-osoite muotoa (esimerkiksi [username@contoso.com](mailto:username@contoso.com)), ei toimi alue \ käyttäjä nimi. Tee näin myös käyttäjille, joilla on Exchange Online-posti laatikot.
+**Huomautus** Käytä UPN-osoitemuotoa (esimerkiksi [username@contoso.com](mailto:username@contoso.com)), älä toimialue\käyttäjänimi. Voit tehdä tämän myös käyttäjille, joilla on Exchange Online postilaatikoita.
 
-**Vaihe 2:** Jos haluat, että käyttäjä siirtyy **Työkalut**-  >  **tiliin**... Outlook for Macissa ja Etsi ja valitse tili. Varmista, että mainittu käyttäjä nimi on UPN-muodossa (esimerkiksi [username@contoso.com](mailto:username@contoso.com)).
+**Vaihe 2:** Käyttäjän täytyy valita **TyökalutTilit...**  >   ja Outlook for Mac ja etsi ja valitse tili. Varmista, että käyttäjänimi on upn-muodossa (esimerkiksi [username@contoso.com).](mailto:username@contoso.com)
 
-**Vaihe 3:** Vahvista, että käyttäjä on lisensoitu Microsoft teams-käyttäjä. Käyttäjällä on oltava käytössä Office 365 for Mac-tilaus, tuote versio 16,24 tai uudempi.
+**Vaihe 3:** Varmista, että käyttäjällä on Microsoft Teams käyttöoikeus. Käyttäjän on käytettävä Office 365 for Mac -tilausta, tuoteversiota 16.24 tai uudempaa versiota.

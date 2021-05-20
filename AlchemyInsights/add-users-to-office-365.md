@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822236"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569684"
 ---
 # <a name="add-a-user"></a>Käyttäjän lisääminen
 
@@ -26,6 +26,6 @@ ms.locfileid: "51822236"
 
 2. Napsauta **Lisää käyttäjä**.
 
-3. Täytä käyttäjän tiedot. Kun olet valmis, valitse **Viimeistele lisääminen**.
+3. Lisää käyttäjätiedot, pProduct licenses, optional roles ja profile information ohjatun toiminnon avulla.
 
-Lisätietoja on artikkelissa [Käyttäjien lisääminen yksitellen tai joukkona](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Lisätietoja on artikkelissa [Käyttäjien lisääminen yksitellen tai joukkona](/microsoft-365/admin/add-users/add-users).

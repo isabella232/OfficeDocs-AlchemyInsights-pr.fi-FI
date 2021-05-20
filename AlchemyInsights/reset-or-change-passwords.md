@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810193"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569648"
 ---
 # <a name="reset-or-change-passwords"></a>Salasanojen vaihtaminen tai palauttaminen
 
-Käyttäjä voi vaihtaa oman salasanansa omalta tililtä  >  [suojaus- & tietosuojasta.](https://portal.office.com/account/#security)
+Käyttäjä voi vaihtaa oman salasanansa valitsemalla käyttäjän valokuvan tai nimikirjaimet > **Näytä tili**.
   
 Jos käyttäjä on unohtanut salasanansa, järjestelmänvalvoja voi vaihtaa salasanan valitsemalla Käyttäjät aktiiviset käyttäjät , valitsemalla käyttäjät ja valitsemalla  >  [](https://portal.office.com/adminportal/home#/users)Palauta **salasana.**
   
-[Napsauttamalla tästä saat lisätietoja tai](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)antaa käyttäjien vaihtaa omat unohtuneet salasanansa.
+Lisätietoja salasanoista ja omien salasanojen vaihtamisen salliminen käyttäjille on ohjeaiheessa [Salasanojen vaihtaminen.](/microsoft-365/admin/add-users/reset-passwords)
