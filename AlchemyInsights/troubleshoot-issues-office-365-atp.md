@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 (ATP)-ongelmien vian määritys
+title: Microsoft Defender for Office 365:n ongelmien vianmääritys
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544755"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a><span data-ttu-id="99dd6-102">Office 365 ATP:N ongelmien vian määritys</span><span class="sxs-lookup"><span data-stu-id="99dd6-102">Troubleshoot issues with Office 365 ATP</span></span>
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a><span data-ttu-id="6253c-102">Microsoft Defender for Office 365:n ongelmien vianmääritys</span><span class="sxs-lookup"><span data-stu-id="6253c-102">Troubleshoot issues with Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="99dd6-103">**Ilmoitettuaan viiveestä Sähkö posti viestin toimituksessa** ?</span><span class="sxs-lookup"><span data-stu-id="99dd6-103">**Notice delays with email message delivery** ?</span></span> <span data-ttu-id="99dd6-104">Kokeile ATP:N turvallisten liite tiedostojen käytäntöjen dynaamista toteutus vaihtoehtoa.</span><span class="sxs-lookup"><span data-stu-id="99dd6-104">Try using the Dynamic Delivery option for your ATP Safe Attachments policies.</span></span> <span data-ttu-id="99dd6-105">Näin vältetään Sähkö posti viestien myöhästymis viiveet ja suojataan niitä haitalli silta tiedostoista.</span><span class="sxs-lookup"><span data-stu-id="99dd6-105">This will avoid email message delivery delays while protecting recipients from malicious files.</span></span>
-- <span data-ttu-id="99dd6-106">Haluatko **raportoida väärät positiiviset tai väärät negatiiviset** ?</span><span class="sxs-lookup"><span data-stu-id="99dd6-106">**Do you want to report false positives or false negatives** ?</span></span> <span data-ttu-id="99dd6-107">Käytä tätä linkkiä, kun haluat lähettää tiedoston analyysia varten: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span><span class="sxs-lookup"><span data-stu-id="99dd6-107">Use this link to submit your file for analysis: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span></span>
-- <span data-ttu-id="99dd6-108">**Tiesitkö, että voit ottaa käyttöön ATP:N turvallisten linkkien suojauksen Sähkö posti viestissä, joka lähetetään organisaation henkilöiden välillä** ?</span><span class="sxs-lookup"><span data-stu-id="99dd6-108">**Did you know that you can enable ATP Safe Links protection for email sent between people in your organization** ?</span></span> <span data-ttu-id="99dd6-109">Toimi seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="99dd6-109">Follow these steps:</span></span>
-    1. <span data-ttu-id="99dd6-110">Siirry kohtaan https://protection.office.com ja Kirjaudu sisään.</span><span class="sxs-lookup"><span data-stu-id="99dd6-110">Go to https://protection.office.com, and sign in.</span></span>
-    2. <span data-ttu-id="99dd6-111">Siirry **uhkien hallinta**  >  **käytännön**  >  **turvallisiin linkkeihin** .</span><span class="sxs-lookup"><span data-stu-id="99dd6-111">Go to **Threat management** > **Policy** > **Safe Links** .</span></span>
-    3. <span data-ttu-id="99dd6-112">Valitse **käytännöt, jotka koskevat tiettyjä käyttäjiä** , Muokkaa (tai lisää) käytäntöä.</span><span class="sxs-lookup"><span data-stu-id="99dd6-112">Under **Policies that apply to specific recipients** , edit (or add) a policy.</span></span>
-    4. <span data-ttu-id="99dd6-113">Valitse **Käytä turvallisia linkkejä viesteihin, jotka lähetetään organisaation sisällä** .</span><span class="sxs-lookup"><span data-stu-id="99dd6-113">Select **Apply safe links to messages sent within the organization** .</span></span>
-    5. <span data-ttu-id="99dd6-114">Tallenna käytäntönne ja salli noin 30 minuuttia, ennen kuin muutokset toimivat omassa palvelin keskuksessa.</span><span class="sxs-lookup"><span data-stu-id="99dd6-114">Save your policy, and allow about 30 minutes for your changes to work their way through your datacenter.</span></span>
-- <span data-ttu-id="99dd6-115">Lisä tietoja ATP:N käyttämisestä on [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)-ohjeessa.</span><span class="sxs-lookup"><span data-stu-id="99dd6-115">To get more help with ATP, see [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span></span>
+- <span data-ttu-id="6253c-103">**Huomaatko viiveitä sähköpostiviestin toimituksessa?**</span><span class="sxs-lookup"><span data-stu-id="6253c-103">**Notice delays with email message delivery**?</span></span> <span data-ttu-id="6253c-104">Kokeile käyttää Microsoft Defenderin Dynaaminen toimitus -vaihtoehtoa Office 365 turvallisten liitteiden käytäntöjä.</span><span class="sxs-lookup"><span data-stu-id="6253c-104">Try using the Dynamic Delivery option for your Microsoft Defender for Office 365 Safe Attachments policies.</span></span> <span data-ttu-id="6253c-105">Näin vältät sähköpostiviestien toimitusviiveet ja suojaat vastaanottajia haitallisilta tiedostoilta.</span><span class="sxs-lookup"><span data-stu-id="6253c-105">This will avoid email message delivery delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="6253c-106">**Haluatko ilmoittaa virheellisistä positiivisista tai epätosi-negatiivisista?**</span><span class="sxs-lookup"><span data-stu-id="6253c-106">**Do you want to report false positives or false negatives**?</span></span> <span data-ttu-id="6253c-107">Käytä [Submissions Exploreria.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="6253c-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
+- <span data-ttu-id="6253c-108">**Tiesitkö, että voit ottaa Microsoft Defenderin käyttöön Microsoft Defender for Microsoft Defender for Office 365 turvallisten** linkkien suojauksen organisaatiosi työntekijöiden välisissä sähköposteihin?</span><span class="sxs-lookup"><span data-stu-id="6253c-108">**Did you know that you can enable Microsoft Defender for Microsoft Defender for Office 365 Safe Links protection for email sent between people in your organization**?</span></span> <span data-ttu-id="6253c-109">Toimi seuraavasti:</span><span class="sxs-lookup"><span data-stu-id="6253c-109">Follow these steps:</span></span>
+    1. <span data-ttu-id="6253c-110">Siirry https://protection.office.com kohteeseen ja kirjaudu sisään.</span><span class="sxs-lookup"><span data-stu-id="6253c-110">Go to https://protection.office.com, and sign in.</span></span>
+    2. <span data-ttu-id="6253c-111">Siirry Threat management Policy Safe Links **(Uhkien**  >  **hallintakäytännön**  >  **turvalliset linkit) -ohjeisiin.**</span><span class="sxs-lookup"><span data-stu-id="6253c-111">Go to **Threat management** > **Policy** > **Safe Links**.</span></span>
+    3. <span data-ttu-id="6253c-112">Muokkaa **(tai lisää) käytäntöä kohdassa** Käytännöt, jotka koskevat tiettyjä vastaanottajia.</span><span class="sxs-lookup"><span data-stu-id="6253c-112">Under **Policies that apply to specific recipients**, edit (or add) a policy.</span></span>
+    4. <span data-ttu-id="6253c-113">Valitse **Käytä turvallisia linkkejä organisaation sisällä lähetetyissä viesteissä**.</span><span class="sxs-lookup"><span data-stu-id="6253c-113">Select **Apply safe links to messages sent within the organization**.</span></span>
+    5. <span data-ttu-id="6253c-114">Tallenna käytäntö ja salli muutosten tekeminen 30 minuutin kuluessa.</span><span class="sxs-lookup"><span data-stu-id="6253c-114">Save your policy, and allow up to 30 minutes for your changes to apply.</span></span>
+
+- <span data-ttu-id="6253c-115">Jos haluat lisää ohjeita Microsoft Defender for Office 365: [Microsoft Defender for Office 365.](/microsoft-365/security/office-365-security/office-365-atp)</span><span class="sxs-lookup"><span data-stu-id="6253c-115">To get more help with Microsoft Defender for Office 365, see [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp).</span></span>
