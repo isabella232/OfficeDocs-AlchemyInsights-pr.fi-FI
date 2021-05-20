@@ -1,5 +1,5 @@
 ---
-title: Teamsin Outlook-apuohjelma
+title: Teams Outlook -apuohjelma (Jaa Teams ,Kokous nyt, Uusi Teams kokous, Teams kokous)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835016"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542746"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="ee302-102">Teamsin Outlook-apuohjelma</span><span class="sxs-lookup"><span data-stu-id="ee302-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a><span data-ttu-id="1a4d6-102">Teams Outlook -apuohjelma (Jaa Teams ,Kokous nyt, Uusi Teams kokous, Teams kokous)</span><span class="sxs-lookup"><span data-stu-id="1a4d6-102">Teams Outlook add-in (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)</span></span>
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="ee302-103">Puuttuvan Teamsin Outlook-apuohjelman vianmääritys</span><span class="sxs-lookup"><span data-stu-id="ee302-103">To troubleshoot a missing Teams Outlook add-in</span></span>
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="1a4d6-103">Puuttuvan apuohjelman Teams Outlook vianmääritys</span><span class="sxs-lookup"><span data-stu-id="1a4d6-103">To troubleshoot a missing Teams Outlook add-in</span></span>
 
-1. <span data-ttu-id="ee302-104">Suorita palvelun vianmääritys hallintaportaalissa.</span><span class="sxs-lookup"><span data-stu-id="ee302-104">Run the Service Diagnostic in the Admin Portal.</span></span> 
-2. <span data-ttu-id="ee302-105">Jos palvelun vianmäärityspalvelu ilmoittaa ongelmista, suorita Microsoftin tuki- ja palautusavustaja [](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teamsin Outlook-apuohjelman** lataaminen ja käyttäminen, jotta voit tehdä vianmäärityksen ja korjata ongelmaan liittyviä asiakasongelmia käyttäjän koneissa.</span><span class="sxs-lookup"><span data-stu-id="ee302-105">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
+1. <span data-ttu-id="1a4d6-104">Suorita vianmääritys "Ryhmä-apuohjelma puuttuu Outlook", joka vahvistaa, että käyttäjällä on oikeat käytännöt Teams Outlook käyttöön.</span><span class="sxs-lookup"><span data-stu-id="1a4d6-104">Run the diagnostic “Team Add-in is missing in Outlook,” which validates that a user has the correct policies to enable the Teams Outlook add-in.</span></span> <span data-ttu-id="1a4d6-105">Voit käyttää vianmääritystä **kirjoittamalla hakuruutuun Teams apuohjelma puuttuu Outlook** apuohjelmasta.</span><span class="sxs-lookup"><span data-stu-id="1a4d6-105">To access the diagnostic, type **Diag: Teams Add-in Missing in Outlook** in the search box.</span></span>
 
-<span data-ttu-id="ee302-106">Jos haluat manuaalisesti tehdä vianmäärityksen puuttuvasta Teamsin Outlook-apuohjelmasta, lue luettelo mahdollisista tekijöistä, jotka saattavat aiheuttaa sen, ettei Teams-apuohjelma näy luettelossa.</span><span class="sxs-lookup"><span data-stu-id="ee302-106">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="ee302-107">Lisätietoja on kohdassa [Teamsin Kokous-apuohjelma ei](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)näy Outlook for Windowsissa .</span><span class="sxs-lookup"><span data-stu-id="ee302-107">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+1. <span data-ttu-id="1a4d6-106">Jos palvelun vianmääritys tarkoittaa ongelmia, suorita Microsoft [tuki- ja palautusavustaja](https://aka.ms/SaRA-TeamsAddInScenario)Teams Outlook -apuohjelman lataaminen ja määrityksen avulla asiakaskoneiden  >  **asiakasongelmat.**</span><span class="sxs-lookup"><span data-stu-id="1a4d6-106">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="ee302-108">Teams-kokouksen ajoittamisen vianmääritys jonkun toisen puolesta (edustaja)</span><span class="sxs-lookup"><span data-stu-id="ee302-108">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+<span data-ttu-id="1a4d6-107">Jos haluat manuaalisesti tehdä Teams Outlook apuohjelman vianmäärityksen, lue luettelo mahdollisista tekijöistä, jotka saattavat aiheuttaa Teams, että apuohjelma ei näy luettelossa.</span><span class="sxs-lookup"><span data-stu-id="1a4d6-107">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="1a4d6-108">Lisätietoja on kohdassa Teams -apuohjelman Outlook [Windows ei näy](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="1a4d6-108">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
 
-<span data-ttu-id="ee302-109">Jos haluat ajoittaa Teams-kokouksen toisen käyttäjän puolesta, katso [Microsoft Teamsin ja Exchange Serverin vuorovaikutusongelmien vianmääritys.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="ee302-109">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="1a4d6-109">Kokouksen ajoittamisen Teams toisen puolesta (edustaja)</span><span class="sxs-lookup"><span data-stu-id="1a4d6-109">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+
+<span data-ttu-id="1a4d6-110">Jos haluat Teams kokouksen toisen käyttäjän puolesta, katso lisätietoja ohjeista Microsoft Teams ja [Exchange Server vianmääritys.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="1a4d6-110">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
