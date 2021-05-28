@@ -1,5 +1,5 @@
 ---
-title: Teams-kokoustallennetta ei ole
+title: Kokoustallennetta Teams ei ole
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294184"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696933"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Teams-kokoustallennetta ei ole
+# <a name="cant-find-the-teams-meeting-recording"></a>Kokoustallennetta Teams ei ole
 
-Jos et löydä Tai löydä Teams-kokoustallennetta, tutustu seuraaviin vianmääritysohjeisiin:
+Jos et löydä kokoustallennetta Teams, suorita ensin Puuttuva kokoustallenteen vianmääritys kirjoittamalla yllä oleva ruutuun **Diag: Missing Recording.** 
 
-[Teamsin kokoustallennusongelmien vianmääritys – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Tallenteet löytyvät Streamista, OneDrive tai SharePoint sen mukaan, miten vuokraaja on määritetty ja onko tallenne kanavakokousta varten. Ohjeet kokoustallenteen manuaaliseen etsimiseen ovat kohdassa: 
 
-Kokoustallenne sijaitsee joko Streamissa, OneDrivessa tai SharePointissa vuokraajan määritysten mukaan.
+[Ongelma 2: Kokouksen tallennuslinkki ei näy keskusteluikkunassa](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Ohjeita kokoustallenteen etsimiseen on kohdassa:
-
-**[Ongelma 2: Kokoustallenteen linkki ei näy keskusteluikkunassa](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Lisätietoja on kohdassa [Kokoustallenteisiin liittyvät ongelmat](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
