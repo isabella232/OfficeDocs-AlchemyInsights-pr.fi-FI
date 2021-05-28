@@ -1,5 +1,5 @@
 ---
-title: Ongelmia siirrettäessä tietoja SharePoint Onlineen
+title: Ongelmia, kun tietoja siirretään SharePoint Onlineen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700884"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694773"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Ongelmia siirrettäessä tietoja SharePoint Onlineen
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Ongelmia, kun tietoja siirretään SharePoint Onlineen
 
-**Yli 100 teratavun tietojen siirtäminen**
+**Yli 100 Tt:n tietojen siirtyminen**
 
-Näyttää siltä, että siirrät yli 100TB tietoja SharePoint Onlineen. Noudata seuraavia ohjeita, jotta saatamme auttaa sinua mahdollisimman pian. 
+Näyttää siltä, että olet muuttamassa yli 100 Tt:n SharePoint Onlineen. Noudata seuraavia ohjeita, jotta voimme auttaa sinua mahdollisimman pian. 
 
-1. Valitse **Uusi palvelu pyyntö**ja sitten **Uusi palvelu pyyntö**. 
-2. Jätä otsikko ja kuvaus SharePoint- **siirtoksi yli 100TB**.
-3. Kun lippu on lähetetty, voit päivittää sen seuraavilla tiedoilla: 
+1. Valitse **Ota yhteyttä tukeen** ja valitse sitten Uusi **palvelupyyntö**. 
+2. Jätä otsikko ja kuvaus SharePoint **yli 100 Tt:n siirtoon.**
+3. Kun lippu on lähetetty, päivitä se seuraavilla tiedot: 
 
     - Siirron arvioitu koko.
-    - Arvio siitä, milloin haluat aloittaa siirron ja viimeistellä sen.
-    - Kuvaile, mistä olet siirtämässä sisältöä, kuten SharePoint Server, Box, GDrive, jaetut tiedosto resurssit jne.
+    - Arvio siitä, milloin haluat aloittaa ja suorittaa siirron.
+    - Kuvaile, mistä sisältö siirretään, kuten SharePoint, Box, GDrive, jaetut tiedostot.
