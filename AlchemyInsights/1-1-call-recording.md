@@ -1,5 +1,5 @@
 ---
-title: 1:1-puhelutallenne
+title: Puhelun tallentaminen 1:1
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733846"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696919"
 ---
-# <a name="11-call-recording"></a><span data-ttu-id="f451e-102">1:1-puhelutallenne</span><span class="sxs-lookup"><span data-stu-id="f451e-102">1:1 call recording</span></span>
+# <a name="11-call-recording"></a><span data-ttu-id="dc193-102">Puhelun tallentaminen 1:1</span><span class="sxs-lookup"><span data-stu-id="dc193-102">1:1 call recording</span></span>
 
-<span data-ttu-id="f451e-103">Järjestelmänvalvojien on nyt jatkettava 1:1-puheluiden tallentamista.</span><span class="sxs-lookup"><span data-stu-id="f451e-103">Administrators need to take action now to continue allowing users to Record 1:1 calls.</span></span>
- 
-<span data-ttu-id="f451e-104">12. huhtikuuta 2021 alkaen otamme käyttöön uuden Teams-puhelukäytäntövaihtoehdon *AllowCloudRecordingForCalls.*</span><span class="sxs-lookup"><span data-stu-id="f451e-104">Beginning April 12, 2021, we will start enforcing a new Teams Calling Policy option *AllowCloudRecordingForCalls*.</span></span> 
+<span data-ttu-id="dc193-103">Jos Aloita **tallennus -painike** näkyy harmaana yhden puhelun aikana, sinun on muutettava käyttäjän käytäntöasetuksia.</span><span class="sxs-lookup"><span data-stu-id="dc193-103">If the **Start Recording** button is grayed out in a 1:1 call, you need to change the policy settings for the impacted user.</span></span>   
 
-<span data-ttu-id="f451e-105">Tällä hetkellä yhden puhelun tallennusominaisuuksia hallitaan Teamsin *kokouskäytäntöjen AllowCloudRecording-vaihtoehdolla.*</span><span class="sxs-lookup"><span data-stu-id="f451e-105">Currently 1:1 call recording capabilities are controlled by the *AllowCloudRecording* option in Teams Meeting Policies.</span></span> <span data-ttu-id="f451e-106">Jos käyttäjät voivat tallentaa Teams-kokouksia, he voivat myös tallentaa 1:1-puheluita.</span><span class="sxs-lookup"><span data-stu-id="f451e-106">If your users are allowed to record Teams Meetings they can also record 1:1 calls.</span></span>
+<span data-ttu-id="dc193-104">31. toukokuuta 2021 alkaen otamme käyttöön uuden puhelukäytännön *AllowCloudRecordingForCalls Teams* käyttöön.</span><span class="sxs-lookup"><span data-stu-id="dc193-104">Beginning May 31, 2021, we'll start enforcing a new Teams Calling Policy *AllowCloudRecordingForCalls*.</span></span> <span data-ttu-id="dc193-105">Ennen tätä muutosta 1:1-puhelutallenteen hallinnassa on *AllowCloudRecording* Teams kokouskäytäntö.</span><span class="sxs-lookup"><span data-stu-id="dc193-105">Prior to this change, 1:1 call recording is controlled by the *AllowCloudRecording* Teams Meeting Policy.</span></span> <span data-ttu-id="dc193-106">Tämä muutos on dokumentoitu viestikeskuksen viestissä: [(Päivitetty) 1:1 Puhelutallennuskäytännön esittely](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).</span><span class="sxs-lookup"><span data-stu-id="dc193-106">This change is documented in the Message Center post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).</span></span>  
 
-<span data-ttu-id="f451e-107">Jos haluat estää kaikkia käyttäjiä nauhoittamaan 1:1-puheluita, sinun ei tarvitse tehdä mitään.</span><span class="sxs-lookup"><span data-stu-id="f451e-107">If you prefer to block all users from recording 1:1 calls, you do not need to take any action.</span></span> <span data-ttu-id="f451e-108">*AllowCloudRecordingForCalls-puhelukäytäntöasetus* $False oletusarvoisesti.</span><span class="sxs-lookup"><span data-stu-id="f451e-108">*AllowCloudRecordingForCalls* calling policy option will be $False by default.</span></span>
+<span data-ttu-id="dc193-107">*AllowCloudRecordingForCalls*   puhelukäytäntöasetus on **$False** oletusarvoisesti.</span><span class="sxs-lookup"><span data-stu-id="dc193-107">*AllowCloudRecordingForCalls* calling policy option is set to **$False** by default.</span></span> <span data-ttu-id="dc193-108">Jos haluat estää kaikkia käyttäjiä nauhoittamaan 1:1-puheluita, sinun ei tarvitse tehdä mitään.</span><span class="sxs-lookup"><span data-stu-id="dc193-108">If you prefer to block all users from recording 1:1 calls, you don't need to take any action.</span></span>  
 
-<span data-ttu-id="f451e-109">Tämä muutos on dokumentoitu seuraavassa viestikeskuksen viestissä: [(Päivitetty) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Puhelun tallennuskäytännön esittely Teams-puhelukäytäntövaihtoehdon valitsemiseen on käytettävä [Teams PowerShelliä.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)</span><span class="sxs-lookup"><span data-stu-id="f451e-109">This change is documented in the following Message Center Post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) To set the Teams Calling Policy Option you must use [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).</span></span>
+<span data-ttu-id="dc193-109">Jos haluat ottaa puhelutallenteen käyttöön kaikille käyttäjille 1:1-puheluissa, suorita Teams cmdlet-komento PowerShellin avulla:</span><span class="sxs-lookup"><span data-stu-id="dc193-109">To enable call recording for all users in 1:1 calls use Teams PowerShell to run the following cmdlet:</span></span> 
 
-<span data-ttu-id="f451e-110">**Puhelutallenteen ottaminen käyttöön 1:1-puheluissa:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span><span class="sxs-lookup"><span data-stu-id="f451e-110">**To enable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span></span>
+<span data-ttu-id="dc193-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span><span class="sxs-lookup"><span data-stu-id="dc193-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span></span> 
 
-<span data-ttu-id="f451e-111">**Puhelun tallennuksen poistaminen käytöstä 1:1-puheluissa:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span><span class="sxs-lookup"><span data-stu-id="f451e-111">**To disable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span></span>
+<span data-ttu-id="dc193-111">Vaihtoehtoisesti voit luoda uuden käytännön ja määrittää **AllowCloudRecordingForCalls** -$true **ja** määrittää käytännön käyttäjille.</span><span class="sxs-lookup"><span data-stu-id="dc193-111">Alternatively, you can create a new policy and set **-AllowCloudRecordingForCalls** to **$true** and assign that policy to your users.</span></span> 
 
+<span data-ttu-id="dc193-112">Lisätietoja on kohdassa [1:1 Puhelun tallennuskäytännön ohjausobjektit ovat (lähes!) Täällä](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).</span><span class="sxs-lookup"><span data-stu-id="dc193-112">For more information, see [1:1 Call Recording Policy Controls Are (Almost!) Here](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).</span></span>
