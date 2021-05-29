@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830030"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702123"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Mikroviiveet tai rajoittaminen Exchange Online PowerShellissä
 
-Kun suoritat Exchange Onlinessa komentosarjoja ja cmdlet-komentoja, saatat huomata viiveitä tai nähdä Mikroviive käytetty -varoituksen. Seuraavassa on kaksi tähän liittyvää ehdotusta:
+Kun suoritat Exchange Onlinessa komentosarjoja ja cmdlet-komentoja, saatat huomata viiveitä tai nähdä Mikroviive käytetty -varoituksen. Tässä on muutamia ehdotuksia, miten voit ratkaista ongelman:
 
-- Sinun kannattaa ehkä kokeilla [Exchange Online v2 PowerShell -moduulia](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), joka sisältää REST-ohjelmointirajapintaan perustuvia, paljon paremmin toimivia CMDlet-komentoja. Tämä voi olla hyvä ratkaisu monille usein käytettäville Get-CMDlet-komennoille.
-- Jos haluat käyttää CMDlet-komentoja, joita v2-moduuli ei kata vielä, tutustu artikkeliin [PowerShell cmdlet -komentojen suorittaminen suurille käyttäjämäärille Office 365:ssä](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), jossa kerrotaan, miten odotetut PowerShellin rajoitukset voidaan kiertää Exchange Onlinessa.
+- Suorita vianmääritys, niin voit rentoutua vuokraajan PowerShellin throtling-käytännöistä. Tämä ratkaisu ratkaisee ongelman useimmin.
+- Jos ongelma ei ratkea vieläkään, [käytä Exchange Online v2 PowerShell](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)-moduulia, joka sisältää REST-ohjelmointirajapintaan perustuvat CMDlet-komennot ja jotka toimivat huomattavasti tehokkaammin. Tämä voi olla hyvä ratkaisu monille usein käytettäville Get-CMDlet-komennoille.
+- Jos sinun on käytettävä CMDlet-komentoja, joita ei sisällytetä v2-moduuliin, katso [PowerShellin cmdlet-komentojen](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)käyttö suurille käyttäjille Office 365:ssä, jossa käsitellään PowerShellin rajoitusrajoitusten Exchange Online.
