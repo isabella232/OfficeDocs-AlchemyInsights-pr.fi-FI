@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470246"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721633"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Tuontipalvelu
 
-Tuonti Microsoft 365-palvelun avulla voit tuoda useita PST-tiedostoja kerralla Exchange Online postilaatikoihin.
-
 Tuontipalvelun käyttö ja tuontiprosessin käynnistäminen:
 
-1. Siirry [tietoturva- & ja](https://protection.office.com) kirjaudu sisään organisaation järjestelmänvalvojan tilin tunnistetiedoilla.
+1. Siirry [M365-yhteensopivuuskeskukseen](https://compliance.microsoft.com/)ja kirjaudu sisään organisaation järjestelmänvalvojan tilin tunnistetiedoilla.
 
-2. Valitse Tietoturva- ja **yhteensopivuuskeskuksen & ruudussa** **Tietojen hallinta ja > tuo .**
+1. Valitse M365-yhteensopivuuskeskuksen vasemmanpuoleisessa ruudussa **Ratkaisut-kohdassa** **Tietojen hallinnan**  >  **tuonti**.
 
-3. Valitse **Tuo-sivulla** **Uusi tuontityö**.
+1. Valitse **Tuo-sivulla** **Uusi tuontityö**.
 
-4. Suorita ohjatun toiminnon vaiheet noudattamalla [seuraavia](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)ohjeita.
+1. Lisätietoja ohjatun toiminnon vaiheista on kohdassa Organisaation PST-tiedostojen tuominen verkkoon lataamisen [Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
-**Tärkeää:** Sinulle on **määritetty tarvittavat** käyttöoikeudet, jotta voit & tietoturva- ja yhteensopivuuskeskuksen [Tuonti-sivulle.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+Jotta pääset **Tuo-sivulle,** varmista, että sinulle on määritetty tarvittavat käyttöoikeudet. Lisätietoja on kohdassa [PST-tiedostojen tuominen verkkopalvelimen avulla.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Jos haluat vain tuoda PST-tiedoston postilaatikkoon, katso [lisätietoja tästä artikkelista.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Jos haluat tuoda PST-tiedoston postilaatikkoon, katso sähköpostin, yhteystietojen ja kalenterin tuominen [.pst Outlook tiedostosta.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+Jos sinulla on ongelmia tuonnin kanssa, katso pst-tuontitöihin [vaikuttavia ongelmia.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+
