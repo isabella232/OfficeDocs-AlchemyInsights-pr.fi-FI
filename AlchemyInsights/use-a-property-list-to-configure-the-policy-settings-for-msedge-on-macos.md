@@ -1,5 +1,5 @@
 ---
-title: Ominaisuusluettelon käyttö Microsoft Edgen käytäntöasetusten määrittämiseen macOS:ssä
+title: Ominaisuusluettelon avulla voit määrittää macOS Microsoft Edge n käytäntöasetukset
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,17 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004632"
+- "9006494"
 - "8361"
-ms.openlocfilehash: 279a42acc12662c57463010a101ade35df97074f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11114"
+ms.openlocfilehash: 583e3f4401901bec70b0cef3444066c220cbb554
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404616"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989706"
 ---
-# <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a><span data-ttu-id="f4217-102">Ominaisuusluettelon käyttö Microsoft Edgen käytäntöasetusten määrittämiseen macOS:ssä</span><span class="sxs-lookup"><span data-stu-id="f4217-102">Use a property list to configure the policy settings for Microsoft Edge on macOS</span></span>
+# <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a><span data-ttu-id="26fec-102">Ominaisuusluettelon avulla voit määrittää macOS Microsoft Edge n käytäntöasetukset</span><span class="sxs-lookup"><span data-stu-id="26fec-102">Use a property list to configure the policy settings for Microsoft Edge on macOS</span></span>
 
-<span data-ttu-id="f4217-103">MacOS:ssä Microsoft Edgen versio 77 tai uudempi voidaan määrittää ominaisuusluettelotiedoston (.plist) avulla:</span><span class="sxs-lookup"><span data-stu-id="f4217-103">On macOS, Microsoft Edge version 77 or later can be configured by using a property list (.plist) file:</span></span>
+<span data-ttu-id="26fec-103">MacOS:Microsoft Edge versio 77 tai uudempi voidaan määrittää ominaisuusluettelotiedoston (.plist) avulla:</span><span class="sxs-lookup"><span data-stu-id="26fec-103">On macOS, Microsoft Edge version 77 or later can be configured by using a property list (.plist) file:</span></span>
 
-1. <span data-ttu-id="f4217-104">[Ominaisuusluettelon luominen.](https://go.microsoft.com/fwlink/?linkid=2134726)</span><span class="sxs-lookup"><span data-stu-id="f4217-104">[Create a property list](https://go.microsoft.com/fwlink/?linkid=2134726).</span></span>
-1. <span data-ttu-id="f4217-105">[Ota ominaisuusluettelo käyttöön.](https://go.microsoft.com/fwlink/?linkid=2134727)</span><span class="sxs-lookup"><span data-stu-id="f4217-105">[Deploy the property list](https://go.microsoft.com/fwlink/?linkid=2134727).</span></span>
+1. <span data-ttu-id="26fec-104">[Ominaisuusluettelon luominen](https://go.microsoft.com/fwlink/?linkid=2134726).</span><span class="sxs-lookup"><span data-stu-id="26fec-104">[Create a property list](https://go.microsoft.com/fwlink/?linkid=2134726).</span></span>
+1. <span data-ttu-id="26fec-105">[Ota ominaisuusluettelo käyttöön.](https://go.microsoft.com/fwlink/?linkid=2134727)</span><span class="sxs-lookup"><span data-stu-id="26fec-105">[Deploy the property list](https://go.microsoft.com/fwlink/?linkid=2134727).</span></span>
