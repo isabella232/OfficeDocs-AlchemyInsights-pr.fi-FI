@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen käyttöönoton suunnitteleminen
+title: Suunnittele Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035477"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989930"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Microsoft Edgen käyttöönoton suunnitteleminen
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Suunnittele Microsoft Edge
 
-Uuden selaimen käyttöönotto käyttäjille voi tuntua pelottavalta. Voimme auttaa sinua jakamaan sen vaiheisiin ja auttamaan sinua jokaisessa. Jos noudatat näitä seitsemää vaihetta, Microsoft Edgen käyttöönotto on onnistunut mahdollisimman vaivattomasti:
+Uuden selaimen käyttöönotto käyttäjille voi tuntua pelottavalta. Voimme auttaa sinua jakamaan sen vaiheisiin ja käymään läpi kaikki vaiheet. Jos noudatat näitä seitsemää vaihetta, käyttöönotto on Microsoft Edge ja turhautumista on mahdollisimman vähän:
 
-1. Arvioi nykyinen selainympäristö ja tarpeet.
+1. Arvioi nykyinen selainympäristösi ja tarpeesi.
 2. Määritä käyttöönottomenetelmä.
 3. Tee sivuston etsintä.
-4. Määritä kanavan strategia.
+4. Määritä kanavastrategia.
 5. Määritä ja määritä käytäntöjä.
-6. Testaa sovellusten yhteensopivuus.
-7. Ota Microsoft Edge käyttöön pilottiryhmälle ja vahvista se.
+6. Sovellusten yhteensopivuuden testaaminen.
+7. Ota Microsoft Edge pilottiryhmään ja vahvista se.
 
-Jos haluat työskennellä näiden vaiheiden läpi itse, katso Microsoft [Edgen käyttöönoton suunnittelu.](https://go.microsoft.com/fwlink/?linkid=2129990)
+Jos haluat työskennellä näiden vaiheiden läpi itse, katso [kohta Työympäristön käyttöönoton Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)

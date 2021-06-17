@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen käytäntöasetusten määrittäminen MacOS:ssä Jamfin avulla
+title: MacOS:n käytäntöasetusten Microsoft Edge jamfin avulla
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003852"
 - "9004632"
+- "9006494"
 - "6901"
 - "8360"
-ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11115"
+ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403452"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989786"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Microsoft Edgen käytäntöasetusten määrittäminen MacOS:ssä Jamfin avulla
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>MacOS:n käytäntöasetusten Microsoft Edge jamfin avulla
 
-Jos haluat määrittää Microsoft Edgen (vakaa kanava 81 tai uudempi) macOS:ssä, käytä Microsoft Edgen käytännön luettelotiedostoa Jamf Pro 10.19:ssä.
+Jos haluat Microsoft Edge (vakaa kanava 81 tai uudempi) macOS:ssä, käytä Microsoft Edge-käytännön luettelotiedostoa Jamf Pro 10.19:ssä.
 
-Lisätietoja on kohdassa [Microsoft Edgen käytäntöasetusten määrittäminen MacOS:ssä Jamfin avulla.](https://go.microsoft.com/fwlink/?linkid=2134761)
+Lisätietoja on kohdassa [MacOS Microsoft Edge käytäntöasetusten määrittäminen Jamfin avulla.](https://go.microsoft.com/fwlink/?linkid=2134761)
