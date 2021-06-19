@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721633"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023100"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Tuontipalvelu
 
@@ -29,9 +29,9 @@ Tuontipalvelun käyttö ja tuontiprosessin käynnistäminen:
 
 1. Valitse M365-yhteensopivuuskeskuksen vasemmanpuoleisessa ruudussa **Ratkaisut-kohdassa** **Tietojen hallinnan**  >  **tuonti**.
 
-1. Valitse **Tuo-sivulla** **Uusi tuontityö**.
+1. Valitse **Tuo-sivulla** **Uusi tuontityö**. Kirjoita työn nimi ja valitse **Seuraava**.
 
-1. Lisätietoja ohjatun toiminnon vaiheista on kohdassa Organisaation PST-tiedostojen tuominen verkkoon lataamisen [Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
+1. Valitse **Upload tiedot, jos** haluat käyttää Tuo työtyyppi -kohdassa verkon **latausvaihtoehtoa.** Yksityiskohtaiset ohjeet ovat kohdassa Organisaation PST-tiedostojen tuominen verkkoon [lataamisen Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 Jotta pääset **Tuo-sivulle,** varmista, että sinulle on määritetty tarvittavat käyttöoikeudet. Lisätietoja on kohdassa [PST-tiedostojen tuominen verkkopalvelimen avulla.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
