@@ -1,5 +1,5 @@
 ---
-title: SMTP-todennusongelmien ratkaiseminen
+title: SMTP-todennuksen ja vianmäärityksen ottaminen käyttöön
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826412"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077648"
 ---
-# <a name="solving-smtp-authentication-issues"></a>SMTP-todennusongelmien ratkaiseminen
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP-todennuksen ja vianmäärityksen ottaminen käyttöön
 
-Jos saat virheilmoituksia 5.7.57 tai 5.7.3, kun yrität lähettää SMTP-sähköpostia ja todentaa sen asiakasohjelmalla tai sovelluksella, tarkista muutama asia:
+Jos haluat ottaa SMTP-todennuksen käyttöön postilaatikossa tai saat "Asiakas ei todennettu"-, "Todennus epäonnistui" tai "SmtpClientAuthentication"-virheen, jossa on koodi 5.7.57 tai 5.7.3 tai 5.7.139, kun yrität välittää sähköpostia todentamalla laitteen tai sovelluksen Microsoft 365:llä, ratkaise ongelma näiden kolmen toiminnon avulla:
 
-- Todennettu SMTP-lähetys on ehkä poistettu käytöstä vuokraajassa tai postilaatikossa, jota yrität käyttää (tarkista molemmat asetukset). Lisätietoja on kohdassa Todennettua [SMTP-lähetystä koskevan todennuksen ottaminen käyttöön tai poistaminen käytöstä.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Poista [Azuren suojauksen oletusasetukset käytöstä](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) valitsemalla Ota suojauksen **oletusasetukset käyttöön -asetus** **ei.**
 
-- Tarkista, [onko Azure Security Defaults](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) otettu käyttöön vuokraajassa; Jos se on käytössä, SMTP-todennus perustodennuksella (tunnetaan myös nimellä vanha; tämä käyttää käyttäjänimeä ja salasanaa) epäonnistuu.
+    a. Kirjaudu Azure-portaaliin suojauksen järjestelmänvalvojana, ehdollisen käyttöoikeuden järjestelmänvalvojana tai yleisenä järjestelmänvalvojana.<BR/>
+    b. Siirry  **Azure Active Directory >-kansioon.**<BR/>
+    c. Valitse **Suojauksen oletusasetusten hallinta**.<BR/>
+    d. Määritä **Ota käyttöön suojauksen oletusasetukset -asetuksena** **Ei.**<BR/>
+    e. Valitse **Tallenna**.
+
+2. [Ota asiakkaan SMTP-lähetys](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) käyttöön lisensoilussa postilaatikossa.
+
+    a. Siirry Microsoft 365 -hallintakeskus Aktiiviset **käyttäjät -valikkoon** ja valitse käyttäjä.<BR/>
+    b. Siirry Sähköposti-välilehteen ja valitse **Sähköpostisovellukset-kohdassa** **Sähköpostisovellusten hallinta**.<BR/>
+    d. Varmista, **että Todennettu SMTP** on valittuna (käytössä).<BR/>
+    e. Valitse **Tallenna muutokset**.<BR/>
+
+3. [Poista monimenetelmäinen todentaminen (MFA) käytöstä](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) lisensoilussa postilaatikossa.
+
+    a. Siirry Microsoft 365 -hallintakeskus ja valitse vasemmassa siirtymisvalikossa **Käyttäjät,**  >  **jotka ovat aktiivisia.**<BR/>
+    b. Valitse **Monimenetelmäinen todentaminen**.<BR/>
+    c. Valitse käyttäjä ja poista **Multi-Factor auth käytöstä.**<BR/>
