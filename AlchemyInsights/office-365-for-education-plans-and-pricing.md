@@ -1,5 +1,5 @@
 ---
-title: Office 365 for Education -palvelupaketit ja hinnoittelu
+title: Office 365 education-palvelupaketit ja hinnoittelu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,17 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829589"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104599"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Hanki Microsoft 365 maksutta koko koulullesi
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Hanki Microsoft 365 ilmaiseksi koko koulullesi
 
 Paranna luokkahuoneen ja koulun yhteistyötä ilmaisilla tuottavuustyökaluilla. Sinun on varmistettava, että olet valtuutettu akateeminen oppilaitos, jotta voit hyödyntää näitä tarjouksia.
   
 - [Education-palvelusuunnitelmien tarkistaminen](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Vertaa kaikkia Microsoft 365 -tilauksia](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Aloitusopas Office 365 Education](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+
+- [Vertaa Microsoft 365 tilausta](https://products.office.com/business/compare-more-office-365-for-business-plans)
