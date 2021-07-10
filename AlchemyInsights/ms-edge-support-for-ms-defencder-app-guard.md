@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen tuki Microsoft Defender Application Guard-sovellukselle
+title: Microsoft Edge tuki Microsoft Defenderin sovellussuoja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583585"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346059"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edgen tuki Microsoft Defender Application Guard-sovellukselle
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge tuki Microsoft Defenderin sovellussuoja
 
-Windows 10: lle ja Microsoft Edgelle suunniteltu Application Guard käyttää laitteistoeristämis tapaa, jonka avulla käyttäjä voi siirtyä epäluotettavaan sivustoon, joka on erotettu isäntä käyttö järjestelmästä.
+Microsoft Defender for Identity on keskitetty sijainti, jossa järjestelmänvalvojat voivat tunnistaa, tunnistaa ja tutkia paikallisen identiteettiuhkia. 
 
-Yrityksen järjestelmänvalvoja määrittää luotettujen sivustojen, pilvi resurssien ja sisäisten verkkojen luettelon. Kun käyttäjä vierailee sivustossa, joka ei ole luettelossa, Microsoft Edge Avaa sivuston säilöön. Tämä tarkoittaa, että jos sivusto osoittautuu haitalli seksi, isäntä tieto kone säilyy suojattuna eikä hyökkääjä pääse yritys tietoihin.
+Varmista [Microsoft Defender for Identityin asennusoppaan](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) avulla, että olet tyytyväinen kaikkiin ympäristön edellytyksiin. luoda esiintymän, muodostaa yhteyden Active Directoryyn ja asentaa tunnistimen. 
 
-Säilön laajennusten asentamista tuetaan Microsoft Edge-version 81 kautta, ja sitä voidaan hallita käytännöllä. Extensioninstallfortecelist-käytännöllä käytettävä updateURL-osoite lisätään neutraalina resurssina Application Guard-sovelluksen käyttämissä verkon eristys politiikoissa.
-
-Lisä tietoja on Ohje aiheessa Microsoft [Edge-tuki Microsoft Defender Application Guard-sovellukselle](https://go.microsoft.com/fwlink/?linkid=2134229).
+Kun olet valmis, käyttäjien käyttäjätietoja valvotaan, ja välittömiä toimia voidaan tehdä organisaation vaarantamia vahingollisia toimia vastaan.
