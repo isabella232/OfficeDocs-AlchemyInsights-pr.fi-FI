@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125201"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389175"
 ---
 # <a name="domain-status---no-services-selected"></a>Toimialueen tila – Ei palveluita valittuna
 
-Toimialueen kunto on käytettävissä sen jälkeen, kun olet yhdistänut toimialueen suoraan Microsoft 365 palveluihin, kuten Exchange. Voit tehdä tämän valitsemalla Microsoft 365 hallintakeskuksessa **DNS-tietueiden**  >  **hallinta.**
+**Ei valittuja** palveluita tarkoittaa, että et ole valinnut mitään Microsoft 365-palveluita, kuten Exchange Online-, Skype for Business- tai Intune-palvelua, Microsoft 365 mobiililaitteiden hallintaa mukautettua toimialuetta varten. Jos käytät Exchange yhdistelmäympäristöä (Exchange, jossa on Exchange Online) tai ulkoista roskapostisuodatusta Exchange eikä muita Microsoft-palvelut, voit ohittaa tämän viestin. Toimialueen kunto on käytettävissä vain toimialueissa, jotka on yhdistetty suoraan palveluun.
 
-Jos et voi yhdistää toimialuetta suoraan Microsoft 365, toimialueen kunto ei ole käytettävissä. Jos esimerkiksi käytät sähköpostin, ulkoisten roskapostisuodatuspalvelujen tai sekä paikallisen että paikallisen Exchange DNS-Exchange Online (kutsutaan myös yhdistelmäympäristöksi).
+Voit valita toimialueesi palvelut toimilla toimilla:
+
+1. Valitse **Asetukset** Toimialueet -kohdassa valintaruutu sen toimialueen  >  [](https://admin.microsoft.com/Adminportal/Home)vieressä, jossa tilaviesti Ei palveluita **on valittuna.**
+1. Käynnistä **ohjattu toimialueen määritystoiminto** valitsemalla DNS-hallinta.
+    - Jos valitset **Lisää omia DNS-tietueita**, muista valita palvelu pyydettäessä. Lisäasetukset-kohdassa voi olla **lisää palveluja.**
+    - Jos valitset Anna **Microsoftin lisätä DNS-tietueet** tai **Lisää** asetuksia Määritä online-palvelut minulle kaikki käytettävissä olevat palvelut, ehdotetaan  >   ja valitaan automaattisesti.
+1. Suorita DNS-määritys ja palveluvalinnat loppuun ohjatun toiminnon avulla.
+ 
+Lisätietoja toimialueen määrittämisestä on kohdassa [DNS-tietueiden lisääminen toimialueen liittämistä varten.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
