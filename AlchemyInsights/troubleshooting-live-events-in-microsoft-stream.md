@@ -1,7 +1,7 @@
 ---
 title: Live-tapahtumien vianmääritys Microsoft Streamissa
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: a0637bb8f96038c6e9898b5148fe4458358fdc6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24d5e0e255c937ee66c768d42a8aa1073780b16e
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782877"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389286"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a><span data-ttu-id="61bef-102">Live-tapahtumien vianmääritys Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="61bef-102">Troubleshooting live events in Microsoft Stream</span></span>
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a><span data-ttu-id="950c7-102">Live-tapahtumien vianmääritys Microsoft Streamissa</span><span class="sxs-lookup"><span data-stu-id="950c7-102">Troubleshooting live events in Microsoft Stream</span></span>
 
-<span data-ttu-id="61bef-103">On useita alueita, joilla voit varmistaa, että Microsoft Streamin live-tapahtumat sujuvat sujuvasti.</span><span class="sxs-lookup"><span data-stu-id="61bef-103">There are various areas to check to ensure Microsoft Stream live events run smoothly.</span></span> <span data-ttu-id="61bef-104">Lisätietoja on kohdassa [Live-tapahtumien vianmääritys Microsoft Streamissa.](https://docs.microsoft.com/stream/live-event-troubleshooting)</span><span class="sxs-lookup"><span data-stu-id="61bef-104">For more information, please see [Troubleshooting live events in Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).</span></span>
+<span data-ttu-id="950c7-103">On useita alueita, joilla voit varmistaa, että Microsoft Streamin live-tapahtumat sujuvat sujuvasti.</span><span class="sxs-lookup"><span data-stu-id="950c7-103">There are various areas to check to ensure Microsoft Stream live events run smoothly.</span></span> <span data-ttu-id="950c7-104">Lisätietoja on kohdassa [Live-tapahtumien vianmääritys Microsoft Streamissa.](/stream/live-event-troubleshooting)</span><span class="sxs-lookup"><span data-stu-id="950c7-104">For more information, please see [Troubleshooting live events in Microsoft Stream](/stream/live-event-troubleshooting).</span></span>

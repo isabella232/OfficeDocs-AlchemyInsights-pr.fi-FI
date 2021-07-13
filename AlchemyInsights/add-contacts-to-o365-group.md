@@ -1,7 +1,7 @@
 ---
 title: Yhteystietojen lisääminen O365-ryhmään
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,15 +14,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 315ea0fd00da68210175bb21510bea4cb35386fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d86cf5a2a4aa59399af5a1555d16f53e1df18028
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822524"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389142"
 ---
-# <a name="add-contacts-to-a-microsoft-365-group"></a><span data-ttu-id="36b6c-102">Yhteystietojen lisääminen Microsoft 365 -ryhmään</span><span class="sxs-lookup"><span data-stu-id="36b6c-102">Add contacts to a Microsoft 365 Group</span></span>
+# <a name="add-contacts-to-a-microsoft-365-group"></a><span data-ttu-id="5435f-102">Yhteystietojen lisääminen Microsoft 365 ryhmään</span><span class="sxs-lookup"><span data-stu-id="5435f-102">Add contacts to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="36b6c-103">Ryhmän omistajat voivat lisätä ulkoisia käyttäjiä ja sähköpostin yhteystietoja Outlookissa seuraavasti: [Ryhmän jäsenten lisääminen ja poistaminen Outlookissa](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="36b6c-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="5435f-103">Ryhmän omistajat voivat lisätä ulkoisia käyttäjiä ja sähköpostiyhteyshenkilöitä Outlook noudattamalla seuraavia ohjeita: Ryhmän jäsenten lisääminen [ja poistaminen Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="5435f-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="36b6c-104">Voit myös lisätä tai poistaa ryhmän jäseniä hallintaportaalissa: Microsoft 365 -ryhmien jäsenten lisääminen tai [poistaminen Microsoft 365 -hallintakeskuksessa](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span><span class="sxs-lookup"><span data-stu-id="36b6c-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Microsoft 365 groups using the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span></span>
+<span data-ttu-id="5435f-104">Voit myös lisätä tai poistaa ryhmän jäseniä hallintaportaalissa: Jäsenten lisääminen [Microsoft 365 tai](/microsoft-365/admin/create-groups/add-or-remove-members-from-groups) poistaminen Microsoft 365 -hallintakeskus</span><span class="sxs-lookup"><span data-stu-id="5435f-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Microsoft 365 groups using the Microsoft 365 admin center](/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span></span>

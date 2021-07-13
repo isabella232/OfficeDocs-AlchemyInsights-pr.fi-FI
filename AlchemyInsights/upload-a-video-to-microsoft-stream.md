@@ -1,7 +1,7 @@
 ---
-title: Videon lataaminen Microsoft Streamiin
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Upload videosta Microsoft Streamiin
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4b4b5043d9cb3aaffd1546676d2cb805c4db3c38
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782472"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389322"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="16313-102">Videon lataaminen Microsoft Streamiin</span><span class="sxs-lookup"><span data-stu-id="16313-102">Upload a video to Microsoft Stream</span></span>
+# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="c1f4b-102">Upload videosta Microsoft Streamiin</span><span class="sxs-lookup"><span data-stu-id="c1f4b-102">Upload a video to Microsoft Stream</span></span>
 
-<span data-ttu-id="16313-103">Videoiden lataaminen Microsoft Streamin avulla on helppoa, ja kuka tahansa voi tehdä sen.</span><span class="sxs-lookup"><span data-stu-id="16313-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
+<span data-ttu-id="c1f4b-103">Videoiden lataaminen Microsoft Streamin avulla on helppoa, ja kuka tahansa voi tehdä sen.</span><span class="sxs-lookup"><span data-stu-id="c1f4b-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
 
-- [<span data-ttu-id="16313-104">Videon lataaminen palvelimeen</span><span class="sxs-lookup"><span data-stu-id="16313-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
+- [<span data-ttu-id="c1f4b-104">Videon lataaminen palvelimeen</span><span class="sxs-lookup"><span data-stu-id="c1f4b-104">Upload a video</span></span>](/stream/portal-upload-video)
