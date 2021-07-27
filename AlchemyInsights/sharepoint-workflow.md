@@ -1,5 +1,5 @@
 ---
-title: Työn kulkujen vian määritys SharePointissa
+title: Työnkulun vianmääritys SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800245"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586931"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Työn kulkujen vian määritys SharePointissa
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Työnkulun vianmääritys SharePoint
 
-**Työn kulkujen vian määritys ja virheen korjaus SharePointissa**
+**Työnkulun vianmääritys ja virheenkorjaus SharePoint**
 
-Katso [SharePoint-työn kulun kelpoisuus tarkistuksen virheiden vian määritys](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) ja [SharePoint-työn kulkujen virheen korjaus](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Lisätietoja on seuraavissa artikkeleissa:
+
+- [Työnkulun SharePoint virheiden vianmääritys](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Virheenkorjaus SharePoint työnkulkuihin.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- [SharePoint 2013 -työnkulun vianmääritystietojen kerääminen ShowScopeDebugInfon avulla](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Jos olet juuri aloittanut työn kulkujen käytön, harkitse [Power Autoautomatisoida](https://docs.microsoft.com/power-automate/modern-approvals) perinteisen SharePoint-työn kulku ratkaisujen sijaan.
+Jos olet vasta aloittamassa työnkulkujen käytön, harkitse Power Automate perinteisen työnkulun SharePoint sijaan. [](/power-automate/modern-approvals)
 
-Lisä tietoja on kohdassa [SharePoint-työn kulkujen eläkkeelle](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)siirtyminen.
+Lisätietoja on kohdassa [SharePoint-työnkulut.](/alchemyinsights/sharepoint-workflows-retiring)
