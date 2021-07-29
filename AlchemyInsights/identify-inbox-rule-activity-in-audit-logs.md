@@ -1,5 +1,5 @@
 ---
-title: Saapuneet-kansion säännön aktiviteetin määrittäminen valvonta lokeissa
+title: Saapuneet-kansion säännön toiminnan tunnistaminen valvontalokeja varten
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779048"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630174"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Saapuneet-kansion säännön aktiviteetin määrittäminen valvonta lokeissa
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Saapuneet-kansion säännön toiminnan tunnistaminen valvontalokeja varten
 
-Voit käyttää valvonta loki hakua Microsoft 365-tieto turva & yhteensopivuus keskuksessa, jos haluat tarkastella Saapuneet-kansion säännön tapahtumia (Saapuneet-kansion sääntöjen luominen, muokkaaminen ja poistaminen).
+Voit tarkastella Saapuneet-kansion sääntöjen tapahtumia Microsoft 365-& valvontalokihaun avulla (Saapuneet-kansion sääntöjen luominen, muokkaaminen ja poistaminen).
 
-1. Kirjaudu sisään [Microsoft 365-tieto turva & Compliance Centeriin](https://protection.office.com/).
+1. Kirjaudu Microsoft 365 [yhteensopivuuskeskukseen.](https://protection.office.com/)
 
-2. Siirry **haun**  >  **valvonta lokien haku** sivulle.
+2. Siirry haun   >  **valvontalokihakusivulle.**
 
-3. Valitse päivämäärä väli **alkamis päivä** -ja **päättymis päivä** -kenttiin.
+3. Valitse päivämääräalue Alkamispäivä- ja **Päättymispäivä-kentistä.** 
 
-4. Tarkista **Exchange-posti laatikon aktiviteetit**-kohdassa **aktiviteetit** -kentän arvoksi on valittu **New-inboxrule Luo/Muokkaa/Ota käyttöön tai Poista käytöstä Saapuneet-kansion sääntö**.
+4. Tarkista **Exchange Postilaatikon** toiminnot -kohdassa, että Toiminnot-kentän arvoksi on määritetty **Uusi Saapuneet-kansioRule Luo, muokkaa/ota käyttöön tai poista käytöstä Saapuneet-kansion sääntö.** 
 
 5. Valitse **Hae**.
 
-Valitse tulokset-kohdassa valvonta tietue. Valitse tiedot-valikosta **lisä tietoja**. Tietoja Saapuneet-kansion säännön asetuksista näkyy **Parametrit** -kentässä.
+Valitse tuloksista valvontatietue. Valitse tiedot-pikaikkunassa **Lisätietoja**. Tiedot Saapuneet-kansion sääntöasetuksista näkyvät **Parametrit-kentässä.**
 
-Lisä tietoja on kohdassa [sen määrittäminen, onko käyttäjä luonut Saapuneet-kansion säännön](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Lisätietoja on kohdassa Käyttäjän [Saapuneet-kansion säännön luomisen selvittäminen](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

@@ -1,5 +1,5 @@
 ---
-title: 1488-Suorita-etsimis-ja-sisältö-haut
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668511"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630210"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisältö hakujen tekeminen ja eDiscoveryn haut
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sisältöhakujen ja eDiscovery-hakujen suorittamisen ohjeet
 
-**Sisältö haun suorittaminen**:
+**Sisältöhaun suorittamisen:**
 
-1. Siirry [tieto turva & yhteensopivuus keskukseen](https://protection.office.com) ja Kirjaudu sisään.
-2. Valitse **hae > sisältö haku**.
-3. Luo uusi haku valitsemalla **Uusi haku** .
-4. Kirjoita vaaditut haku ehdot, kuten avain sanat ja sisältö sijainnit.
-5. Valitse **tallenna & Suorita** , jos haluat nimetä haun, aloittaa sen ja esikatsella sitten tuloksia.
+1. Siirry Microsoft 365-keskukseen ja kirjaudu sisään.
+2. Valitse **Hae > sisältöhaun avulla.**
+3. Luo **uusi haku** valitsemalla Uusi haku.
+4. Anna tarvittavat hakuehdot, kuten avainsanat ja sisältösijainnit.
+5. Valitse **& Suorita,** jos haluat nimetä haun, aloittaa sen ja esikatsella tuloksia.
 
 > [!NOTE]
-> Valitse **M365-yhteensopivuus keskuksen** **ratkaisut**-kohdassa Laajenna **eDiscoveryn** ja valitse haluamasi eDiscoveryn työkalu.
+> Laajenna **Microsoft 365**  >  **-ratkaisuissa** **eDiscovery** ja valitse haluamasi eDiscovery-työkalu.
 
-Lisä tietoja sisältö hausta, tulosten viemisestä ja haku tapausten luomisesta tietojen pitoon on artikkelissa [sisältö haku](https://docs.microsoft.com/microsoft-365/compliance/content-search) ja [ediscoveritietotapaukset](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Yksityiskohtaiset ohjeet sisältöhakuihin, tulosten viemiseen ja eDiscovery-tapausten [](/microsoft-365/compliance/content-search) luomiseen tietojen pitoon pitoon ovat kohdassa Sisältöhaku- ja [eDiscovery-tapaukset.](/microsoft-365/compliance/ediscovery-cases)
 
-**Lisä tietoja**:
+**Lisätietoja:**
 
-- Lisä tietoja eDiscoveryn työkaluista Microsoft 365-sovelluksessa on kohdassa [eDiscoverya](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Lisä tietoja niiden käyttö oikeuksista, vaatimuksista ja rajoituksista, joita tarvitaan eDiscoveryn hakujen suorittamiseen käyttö oikeuksista, joita tarvitaan [eDiscoveryn etsinnöissä](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) ja [vaatimuksissa ja rajoituksissa](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Jos suoritat vian määritys toiminnon ongelmia, tutustu Ohje aiheeseen [eDiscoveryn yleisten ongelmien vian määritys](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) ja [osittain indeksoidun kohteen tutkiminen](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Lisätietoja eDiscovery-työkaluista Microsoft 365 [eDiscoveryssa.](/microsoft-365/compliance/ediscovery)
+- Lue lisää eDiscovery-hakujen suorittamiseen tarvittavista käyttöoikeuksista, vaatimuksista ja rajoituksista [eDiscovery-hauissa](/microsoft-365/compliance/assign-ediscovery-permissions) tarvittavista käyttöoikeuksista ja -rajoituksista. [](/microsoft-365/compliance/limits-for-content-search)
+- Jos suoritat eDiscovery-ongelmien vianmäärityksen, tutustu [artikkeliin eDiscovery-vianmääritys](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) yleisiin ongelmiin ja [osittain indeksoituihin kohteisiin.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
