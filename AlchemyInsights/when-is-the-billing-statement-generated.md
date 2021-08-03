@@ -1,9 +1,10 @@
 ---
-title: Milloin laskutus ilmoitus luodaan?
+title: Milloin laskutuserä luodaan?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719194"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685155"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Milloin laskutus ilmoitus luodaan?
+# <a name="when-is-the-billing-statement-generated"></a>Milloin laskutuserä luodaan
 
-Tili otteen päivä määräksi määritetään kuukauden päivä tilin luomisen jälkeen. Jos olet esimerkiksi luonut tilin tammi kuun 20: ksi, tili otteen päivä määräksi määritetään kunkin seuraavan kuukauden kahdeskymmenesensimmäinen.
+Tiliotteen päivämääräksi määritetään kuukauden päivä, jolloin tilisi on luotu. Jos olet esimerkiksi luonut tilin 20. tammikuuta, tiliotteen päivämääräksi määritetään 21. päivä jokaista seuraavaa kuukautta varten.
 
-Aktiivisen laskutus syklin aikana tapahtuvat lisä maksut sisältyvät seuraavan kuukauden laskuun. Kunkin laskun laskutus jakson alkamis-ja päättymis päivämäärät on lueteltu laskun **laskutus yhteenvedossa** .
+Aktiivisen laskutusjakson aikana veloitetut lisämaksut sisältyvät laskuun seuraavan kuukauden aikana. Kunkin laskun laskutusjakson alkamis- ja päättymispäivät  on lueteltu laskun Laskutusyhteenveto-kohdassa.
 
-Luotto kortti ja/tai pankki tili (soveltuvin osin) maksut selvitetään **Laskun päivä määrän**jälkeen.
+Luottokortti- ja/tai pankkitilimaksut (soveltuvissa tapauksissa) maksettuina laskun päivämäärää **seuraavana päivänä.**
   
-Lisä tietoja on artikkelissa [laskun ymmärtäminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Lisätietoja on kohdassa [Laskun ymmärtäminen.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

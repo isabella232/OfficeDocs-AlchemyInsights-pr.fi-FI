@@ -1,8 +1,10 @@
 ---
-title: Käyttö oikeuksien määrittäminen tai poistaminen käyttäjille
+title: Käyttöoikeuksien määrittäminen tai käyttöoikeuksien määritys käyttäjille
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "325"
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781136"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685839"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Käyttö oikeuksien määrittäminen tai poistaminen käyttäjille
+# <a name="assign-or-unassign-licenses-to-users"></a>Käyttöoikeuksien määrittäminen tai käyttöoikeuksien määritys käyttäjille
 
-Käyttäjä tarvitsee käyttö oikeuden palveluiden käyttämiseen. Seuraavien ohjeiden avulla voit määrittää käyttö oikeuden käyttäjälle tai poistaa sen määrityksen.
+Käyttäjällä on oltava käyttöoikeus, jotta hän voi käyttää palveluja. Voit määrittää käyttöoikeuden käyttäjälle tai poistaa sen käyttöoikeuden seuraavasti.
   
-1. Valitse hallinta keskuksessa käyttäjät, joilla on **Users** \> [aktiivisia käyttäjiä](https://go.microsoft.com/fwlink/p/?linkid=834822).
-2. Valitse sen käyttäjän rivi, jolle haluat määrittää käyttö oikeuden.
+1. Valitse hallintakeskuksessa Käyttäjät, jotka **ovat** \> [aktiivisia.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+2. Valitse sen käyttäjän rivi, jolle haluat määrittää käyttöoikeuden.
 3. Valitse oikeanpuoleisesta ruudusta **Käyttöoikeudet ja sovellukset**.
-4. Laajenna **käyttö oikeudet** -osio, valitse tai poista niiden käyttö oikeuksien valinta neliöt, jotka haluat määrittää tai poistaa, ja valitse sitten **Tallenna muutokset**.
+4. Laajenna **Käyttöoikeudet-osio,** valitse tai tyhjennä niiden käyttöoikeuksien valintaruudut, jotka haluat määrittää tai poistaa, ja valitse sitten **Tallenna muutokset**.
 
-Lisä tietoja on Ohje aiheissa [käyttö oikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)ja [käyttö oikeuksien määrittäminen käyttäjiltä](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+Lisätietoja on vaihtoehdot [Käyttöoikeuksien määrittäminen käyttäjille ja](/microsoft-365/admin/manage/assign-licenses-to-users) [Käyttöoikeuksien määritys käyttäjiltä.](/microsoft-365/admin/manage/remove-licenses-from-users)
