@@ -1,8 +1,9 @@
 ---
-title: Mitä tiedoilleni ja käyttöoikeudelleni tapahtuu, kun Microsoft 365 for Business-tilaus päättyy?
+title: Mitä tietoilleni ja käyttöolleni tapahtuu, Microsoft 365 for Business -tilaukseni päättyy?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668920"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688251"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Mitä tiedoilleni ja käyttöoikeudelleni tapahtuu, kun Microsoft 365 for Business-tilaus päättyy?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Mitä tietoilleni ja käyttöolleni tapahtuu, Microsoft 365 for Business -tilaukseni päättyy?
 
-Jos tilauksesi päättyy – joko sen vanhennuttua tai koska päätät peruuttaa – palveluiden, sovellusten ja asiakas tietojen käyttö oikeus käy läpi useita tiloja, ennen kuin tilaus on poistettu kokonaan käytöstä tai se on *purettu.* Jos olet tietoinen tästä etenemisestä, voit palauttaa tila uksen aktiiviseen tilaan, ennen kuin se on liian myöhäistä tai – jos poistut Microsoftilta – Varmuuskopioi tietosi, ennen kuin ne poistetaan lopullisesti.
+Jos tilauksesi päättyy – joko sen vanhentumisen vuoksi tai koska päätät peruuttaa tilauksen – palveluiden, sovellusten ja asiakastietojen käyttöoikeus käy läpi useita kertoja, ennen kuin tilaus on täysin poistettu käytöstä tai sen käyttö on *purettu.* Jos olet tietoinen tästä etenemistä, voit paremmin palauttaa tilauksesi aktiiviseen tilaan ennen kuin on liian myöhäistä, tai jos poistut Microsoftilta, varmuuskopioi tiedot ennen lopullista poistamista.
   
-Ennen kuin tilaus umpeutuu, sinulla on muutamia vaihto ehtoja, joiden avulla voit **hallita tila uksen toistuvaa laskutusta**.
+Ennen tilauksen vanhenemispäivää voit hallita tilauksen toistuvaa laskutusta muutamalla **eri vaihtoehdolla.**
   
-- Jos **Toistuva laskutus** on jo käytössä, sinun ei tarvitse tehdä mitään toimenpiteitä. Pakettiasi laskutetaan sen **toistuvasta laskutus** päivästä, ja sinulta veloitetaan lisä vuosi tai kuukausi nykyisen laskutus tiheyden mukaan. Jos olet poistanut **toistuvan laskutuksen** käytöstä jostain syystä, voit aina [ottaa toistuvan laskutuksen takaisin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)käyttöön.
+- Jos **toistuva** laskutus on jo käytössä, sinun ei tarvitse tehdä mitään. Tilauksesi laskutetaan sen  toistuvana laskutuspäivänä, ja sinua veloitetaan yhden vuoden tai kuukauden maksu valitsemasi laskutusvälin mukaan. Jos olet poistanut toistuvan laskutuksen **käytöstä,** voit milloin tahansa ottaa toistuvan [laskutuksen takaisin käyttöön.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)
 
-- Jos olet avoin volyymi käyttö oikeus asiakas, jolla on valmiiksi maksettu yhden vuoden tilaus, ota yhteyttä kumppaneihisi ja Osta uusi tuote avain. Saat ohjeet sähköpostitse, jotta voit aktivoida avaimesi [volyymi käyttö oikeus keskuksessa](https://go.microsoft.com/fwlink/p/?LinkID=282016). Jos haluat tietää, miten voit etsiä uuden yhteistyökumppania tai kumppania, jota olet käyttänyt aiemmin, tutustu Ohje aiheeseen [Microsoft 365-kumppanien tai jälleenmyyjän etsiminen](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Jos sinulla on avoin volyymikäyttöoikeus ja sinulla on etukäteen maksettu yhden vuoden tilaus, ota yhteyttä kumppaniisi uuden tuoteavaimen ostamista varten. Saat sähköpostitse ohjeet tuoteavaimen aktivoimaan [volyymikäyttöoikeuskeskuksessa.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Lisätietoja uuden kumppanin tai aiemmin työskennelleen kumppanin etsiminen on kohdassa Microsoft 365 kumppanin tai [jälleenmyyjän etsiminen.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)

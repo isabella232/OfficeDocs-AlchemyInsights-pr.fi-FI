@@ -1,8 +1,10 @@
 ---
-title: Microsoft 365 for Businessin kokeilun laajentaminen
+title: Pidennä Microsoft 365 for Businessin kokeiluversiota
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,23 +12,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 470d9e0ccca52d28a6bf51e65706fe3b0c316214
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 68dab6e3c3661bcaa93695b2612e4fc46fe43aa1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307303"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687531"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Microsoft 365 for Businessin kokeilun laajentaminen
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Pidennä Microsoft 365 for Businessin kokeilua
 
-Voit jatkaa maksutonta kokeilu jaksoa yhdellä 30 päivän lisä ajalla. Tämän jälkeen kokeiluasi käytetään 30 päivän [ajan](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Laajenna kokeilujasi noudattamalla seuraavia ohjeita:
+Voit jatkaa maksutonta kokeilujaksoa vielä 30 päivän ajan. Tämän jälkeen kokeilujakso on 30 päivän [lisäaika.](/alchemyinsights/grace-period-for-microsoft-365-free-trial) Pidennä kokeilua toimimalla seuraavasti:
   
-1. Siirry hallinta keskuksessa **laskutus** \> [tuotteistasi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle.
-2. Valitse **tuotteet** -väli lehdessä se kokeilupaketilau, jonka haluat laajentaa.
-3. Valitse tila uksen tiedot-sivun **tilaus-ja maksu asetukset** -osassa **pidennä päättymis päivämäärää**.
-4. Tarkista laajennus tiedot **Laajenna päättymis päivä** -ruudussa ja valitse tarvittaessa maksu tapa. Kun olet valmis, valitse **Jatka kokeilua**.
+1. Siirry hallintakeskuksessa Laskutus **tuotteesi** \> [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Valitse **Tuotteet-välilehdessä** kokeilutilaus, jota haluat pidentää.
+3. Valitse tilauksen tiedot -sivun **Tilaus- ja maksuasetukset -osassa** **Pidennä päättymispäivää**.
+4. Tarkista **Laajennuksen tiedot** Pidennä päättymispäivää -ruudussa ja valitse tarvittaessa maksutapa. Kun olet valmis, valitse **Pidennä kokeilua**.
 
-Lisä tietoja kokeilun pidentämisestä tai vaiheittaiset ohjeet ovat artikkelissa [Office 365 for Businessin kokeilun laajentaminen](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+Lisätietoja kokeilujakson pidentämisen vaiheittaiset ohjeet ovat kohdassa [Kokeilujakson pidentäminen Office 365 for Businessissa.](/microsoft-365/commerce/extend-your-trial)

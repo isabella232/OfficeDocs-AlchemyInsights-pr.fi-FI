@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801444"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688323"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Nykyisten puhelinnumerojen siirtäminen Teamsiin
 
-Jos sinulla on tällä hetkellä puhelinpalveluntarjoaja tai -operaattori, ja sinulla on jo puhelinnumeroita käyttäjille tai palveluille, sinun on luotava ”siirtotilaus” näiden puhelinnumeroiden siirtämiseksi Microsoft Teamsiin.
+Jos sinulla on tällä hetkellä puhelinpalveluntarjoaja tai -operaattori, ja sinulla on jo puhelinnumeroita käyttäjille tai palveluille, sinun on luotava ”siirtotilaus” näiden puhelinnumeroiden siirtämiseksi Microsoft Teamsiin.  
 
-- Katso lisätietoja siirron suorittamisesta artikkelista [Puhelinnumerojen siirtäminen Teamsiin](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Voit luoda uuden porttitilauksen tai tarkistaa olemassa olevan tilauksen seuraavasti: 
 
-- Katso ohjeita puhelinnumerojen hallinnasta artikkelista [Organisaation puhelinnumerojen hallinta](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Avaa Puhelin [-sivu](https://admin.teams.microsoft.com/phone-numbers) Teams hallintakeskuksessa. 
 
-Katso lisätietoja artikkelista [Siirtotilauksen yleiskatsaus](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Valitse **Hae puhelinnumeron tuki -linkki**. 
+
+Jos haluat siirtyä suoraan puhelinnumeron tukeen, Puhelin [numeropalvelukeskuksessa.](https://pstnsd.powerappsportals.com/)  

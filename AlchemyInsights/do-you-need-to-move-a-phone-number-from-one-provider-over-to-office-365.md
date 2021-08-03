@@ -1,5 +1,5 @@
 ---
-title: Haluatko siirtää puhelin numeron yhdeltä palveluntarjoajalta Microsoftille?
+title: Tarvitseeko sinun siirtää Puhelin palvelusta Microsoftiin?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712145"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689403"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Nykyisten puhelinnumerojen siirtäminen Teamsiin
 
-Jos sinulla on tällä hetkellä puhelinpalveluntarjoaja tai -operaattori, ja sinulla on jo puhelinnumeroita käyttäjille tai palveluille, sinun on luotava ”siirtotilaus” näiden puhelinnumeroiden siirtämiseksi Microsoft Teamsiin.
+Jos sinulla on tällä hetkellä puhelinpalveluntarjoaja tai -operaattori, ja sinulla on jo puhelinnumeroita käyttäjille tai palveluille, sinun on luotava ”siirtotilaus” näiden puhelinnumeroiden siirtämiseksi Microsoft Teamsiin.  
 
-- Katso lisätietoja siirron suorittamisesta artikkelista [Puhelinnumerojen siirtäminen Teamsiin](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Voit luoda uuden porttitilauksen tai tarkistaa olemassa olevan tilauksen seuraavasti: 
 
-- Katso ohjeita puhelinnumerojen hallinnasta artikkelista [Organisaation puhelinnumerojen hallinta](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Avaa Puhelin [-sivu](https://admin.teams.microsoft.com/phone-numbers) Teams hallintakeskuksessa. 
 
-Katso lisätietoja artikkelista [Siirtotilauksen yleiskatsaus](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Valitse **Hae puhelinnumeron tuki -linkki**. 
+
+Jos haluat siirtyä suoraan puhelinnumeron tukeen, Puhelin [numeropalvelukeskuksessa.](https://pstnsd.powerappsportals.com/)  
