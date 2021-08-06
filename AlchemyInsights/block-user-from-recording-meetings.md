@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019181"
 ---
 # <a name="block-user-from-recording-meetings"></a>Estä käyttäjää kokousten tallentamisesta
 
-Jos haluat estää **tai estää tiettyjä käyttäjiä** nauhoittamasta Teams-kokouksia, voit tehdä sen Teamsin kokouskäytäntöasetusten kautta. Poista Microsoft Teams -hallintakeskuksessa  käyttäjälle määritetyn kokouskäytännön Salli pilvitallennus -asetus käytöstä. Lisätietoja on ohjeaiheessa [Kokouskäytäntöjen hallinta Teamsissa.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording)
+Jos haluat estää **tiettyjä käyttäjiä nauhoittamasta** kokouksia tai Teams, voit tehdä sen Teams kokouskäytäntöasetuksissa. Poista Microsoft Teams hallintakeskuksessa Käyttäjälle määritetyn  kokouskäytännön Salli pilvitallennus -asetus käytöstä. Lisätietoja on kohdassa [Kokouskäytäntöjen hallinta Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording)
 
-Jos haluat tarkistaa, onko tietty käyttäjä sallittu tai ei voi tallentaa Teams-kokouksia, käytä tuen vianmääritystä. Suorita uusi tukikysely ja kirjoita **Diag:** Kokoustallenne – vianmääritys tarkistaa määritetyn käyttäjän käytäntöasetukset ja määrittää hänen käytäntöasetukset. Muista, että uusien käytäntöasetusten voimaan saaminen voi kestää muutaman tunnin, joten jos olet juuri tehnyt muutoksen, odota muutama tunti ennen vianmääritystä uudelleen.
+Jos haluat tarkistaa, onko tietty käyttäjä sallittu vai ei, Teams kokousten tallennus, käytä tukidiagnostiikkaa. Suorita uusi tukikysely ja kirjoita **Diag: Meeting Recording** (Kokoustallenne) – vianmääritys tarkistaa määritetyn käyttäjän käytäntöasetukset ja määrittää hänen käytäntöasetukset. Muista, että voi kestää muutaman tunnin, ennen kuin uudet käytäntöasetukset tulevat voimaan, joten jos olet juuri tehnyt muutoksen, odota muutama tunti, ennen kuin suoritat vianmäärityksen uudelleen.
 
-Lisätietoja on kohdassa [Pilvitallenteen käyttöönottaminen tai käytöstä poistaminen.](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)
+Lisätietoja on kohdassa [Pilvitallenteen käyttöönottaminen tai käytöstä poisttaminen.](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)

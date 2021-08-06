@@ -1,5 +1,5 @@
 ---
-title: Tilaus peruttu-vanhat käyttö rajoitukset
+title: Tilaus peruutettu – vanha – rahankäyttörajoitus
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999021"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Tilaus peruttu-vanhat käyttö rajoitukset
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Tilaus peruutettu – vanha – rahankäyttörajoitus
 
-Tietueistamme käy niin, että sinulla on paketti, joka on asetettu tila ukseen, ja käyttö on ylittänyt kulutus rajan. Tilauksesi on näin ollen poistettu käytöstä.
+Tietojemme mukaan sinulla on tilaukseen määritetty rahankäyttörajoitus ja käyttö on ylittänyt rahankäyttörajoituksen. Näin ollen tilauksesi on poistettu käytöstä.
 
-**Tila uksen käyttö rajoitus on saavutettu**
+**Rahankäyttörajoitus tilauksessa on saavutettu**
 
-Luotoilla varustettu Azure-tilaus rajoittaa niiden käyttöä. Tämä tarkoittaa, että voit käyttää palveluja vain siihen sisältyvän saldon mukaan. Kun käyttö on saavuttanut meno rajan, Azure poistaa tila uksen käytöstä jäljellä olevalle laskutus jaksolle. Pakettiasi ei ole otettu käyttöön, joten sinulta ei vahingossa aiheudu veloitusta käyttö maksuista, jotka ylittävät pakettiisi sisältyvän saldon. Lisä tietoja käyttö rajan poistamisesta on kohdassa [tili keskuksen käyttö rajan poistaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Azure-tilauksia, joissa on saldoa, on rahankäyttörajoituksia. Tämä tarkoittaa sitä, että voit käyttää palveluja vain enintään sisällytettyä saldoa. Kun käyttösi saavuttaa käyttörajoituksen, Azure poistaa tilauksesi käytöstä tämän laskutusjakson jäljellä olevalta jaksolta. Tilauksesi on poistettu käytöstä, jotta et vahingossa peri käyttömaksuja, jotka ylittävät tilaukseesi sisältyvän saldon. Jos haluat poistaa käyttörajoituksen, [katso rahankäyttörajoituksen poistaminen tilikeskuksessa](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
 
-Voit poistaa käyttö rajan ja aktivoida tila uksen uudelleen suorittamalla seuraavat vaiheet:
+Poista rahankäyttörajoitus ja aktivoi tilaus uudelleen seuraavien vaiheiden avulla:
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/) tilin järjestelmänvalvojana.
-2. Hae **kustannusten hallinta + laskutus**.
-3. Valitse **Omat tila ukset** -luettelosta maksuttomat kokeilu versiot/tili pakettisi.
-4. Valitse tila uksen yleiskatsaus-kohdassa oranssi banneri, jos haluat poistaa käyttö rajan.
-5. Valitse, Haluatko poistaa käyttö rajan loputtomiin vai vain nykyiseen laskutus kauteen.
-6. Valitse tila uksen maksu tapa valitsemalla **Valitse maksu** tapa. Tämä tulee tilauksesi aktiivi seksi maksu tavaksi.
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/) tilin järjestelmänvalvojana.
+2. Etsi **Kustannustenhallinta ja laskutus**.
+3. Valitse **Omat tilaukset -luettelosta** maksuton kokeilu- tai tilitilaus.
+4. Poista kulutusraja napsauttamalla tilauksen yleiskatsauksessa oranssia palkkia.
+5. Valitse, haluatko poistaa rahankäyttörajoituksen vain kuluvalta laskutusjaksolta.
+6. Valitse **tilauksen maksutapa** valitsemalla Valitse maksutapa. Tästä tulee tilauksesi aktiivinen maksutapa.
 7. Valitse **Valmis**.

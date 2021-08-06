@@ -1,5 +1,5 @@
 ---
-title: Päivitä osto tilauksen numero-aiemmat EA-Suositellut vaiheet
+title: Päivitä ostotilausnumero – vanha EA – suositellut vaiheet
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,31 +13,31 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ef1e5f52cb26542892199694309fb2b0df551997
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7c3ee469107e9ab85dcf56450167cc2e47b2c8b79253d45b1a362959a869ba24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908491"
 ---
-# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Osto tilaus numeron päivittäminen-aiemmat EA-Suositellut vaiheet
+# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Ostotilauksen numeron päivittäminen – vanha EA – suositellut vaiheet
 
-Osto tilaus numeron muutokset tulevat voimaan seuraavassa laskussa. Jos haluat muuttaa osto tilauksen numeron jo luodussa laskussa, avaa tuki pyyntö. 
+Ostotilauksen numeroon tehdyt muutokset tulevat voimaan seuraavassa laskussa. Voit muuttaa aiemmin luodun laskun ostotilausnumeroa avaamalla tukipyynnön. 
 
-Azure EA-portaali luo automaattisesti oletusarvoisen PO-numeron, ellei EA:N järjestelmänvalvoja määritä sitä ennen laskun päivä määrää. EA:N järjestelmänvalvojana (suora rekisteröinti)/kumppani järjestelmänvalvojana (epäsuora rekisteröinti) voit päivittää PO-numeron Azure EA-portaalissa. Osto tilaus numeron päivittäminen:
+Azure EA -portaali luo automaattisesti oletusarvoisen ostotilausnumeron, ellei EA-järjestelmänvalvoja ole yhtä ennen laskun päivämäärää. EA-järjestelmänvalvojana (suora rekisteröinti) / kumppanin järjestelmänvalvojana (epäsuora rekisteröinti) voit päivittää ostotilausnumeron Azure EA -portaalissa. Ostotilausnumeron päivittäminen:
 
-1. Kirjaudu sisään EA-portaaliin.
-2. Valitse **raportit** vasemmalta puolelta.
-3. Valitse sivun yläreunassa **käyttö Yhteenveto** .
-4. Valitse haluamasi piste avattavasta luettelosta.
-5. Valitse **Näytä/Muokkaa osto tilaus numeroita**.
-6. Kirjoita uusi PO-numero ja valitse **Tallenna**.
+1. Kirjaudu EA-portaaliin.
+2. Valitse **Raportit** vasemmalla puolella.
+3. Valitse **käyttöyhteenveto** sivun yläreunassa.
+4. Valitse asianmukainen kausi avattavasta luettelosta.
+5. Valitse **Näytä tai muokkaa ostotilausnumeroita**.
+6. Anna uusi ostotilausnumero ja valitse **Tallenna**.
 
-Voit päivittää osto tilaus numeron milloin tahansa ennen kuluvan laskutus kauden aikana luotua laskua ja enintään seitsemän päivää laskun automaattisen lasku ilmoituksen vastaanottamisen jälkeen. 
+Voit päivittää ostotilausnumeron milloin tahansa ennen laskua, joka luodaan nykyiselle laskutusjaksolle, ja enintään seitsemän päivää automaattisen laskuilmoitussähköpostin vastaanottamisen jälkeen. 
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-- [Azure Enterprise-rekisteröinti laskut](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
-- [Tietoja Azure Enterprise Agreement-laskusta](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
-- [Azure Enterprise-rooleja koskevia tietoja](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
-- [Toisen yrityksen järjestelmänvalvojan (EA-järjestelmänvalvoja) luominen](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)
+- [Azure-yritysrekisteröintilaskut](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
+- [Azure-Enterprise Agreement -sopimus ymmärtäminen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
+- [Azure Enterprise -roolien ymmärtäminen](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
+- [Toisen yrityksen järjestelmänvalvojan (EA-järjestelmänvalvojan) luominen](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)

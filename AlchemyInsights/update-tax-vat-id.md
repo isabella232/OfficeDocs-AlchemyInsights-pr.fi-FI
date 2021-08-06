@@ -1,5 +1,5 @@
 ---
-title: Päivitä vero/ALV-tunnus
+title: Alv-tunnuksen päivittäminen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908455"
 ---
-# <a name="update-taxvat-id"></a>Päivitä vero/ALV-tunnus
+# <a name="update-taxvat-id"></a>Alv-tunnuksen päivittäminen
 
-Jos sinulla on vero-tai ALV-TUNNUKSEEN liittyviä ongelmia, ota yhteyttä Microsoftin käyttö oikeus kumppaneihisi (partneri tai ohjelmisto neuvoja). He voivat ottaa yhteyttä alueelliseen Operations Centeriin (ROC) vero-tai ALV-tunnusta koskeviin kysymyksiin. 
+Jos sinulla on ALV-tunnustasi liittyviä ongelmia, ota yhteyttä Microsoftin käyttöoikeuskumppaniin (kumppaniin tai ohjelmistoneuvojaan). He voivat ottaa yhteyttä REGIONAL Operations Centeriin (ROC), jos heillä on kysyttävää VERO-/ALV-tunnuksestasi. 

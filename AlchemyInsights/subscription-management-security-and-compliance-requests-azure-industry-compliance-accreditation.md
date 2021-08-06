@@ -1,5 +1,5 @@
 ---
-title: Tila uksen hallinta – turvallisuus-ja yhteensopivuus pyynnöt – Azure Industry Compliance-akkreditointi
+title: Tilausten hallinta – tietoturva- ja yhteensopivuuspyynnöt – Azure-alan vaatimustenmukaisuusalan vaatimustenmukaisuus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998940"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Tila uksen hallinta – turvallisuus-ja yhteensopivuus pyynnöt – Azure Industry Compliance-akkreditointi
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Tilausten hallinta – tietoturva- ja yhteensopivuuspyynnöt – Azure-alan vaatimustenmukaisuusalan vaatimustenmukaisuus
 
-Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
+Ongelman kuvauksen perusteella olemme löytäneet sinulle ratkaisun. Useimmat asiakkaat pystyivät ratkaisemaan ongelmansa itse käyttöohjeiden jälkeen.
 
-- **Käytännöt**: Jos sinulla on kysyttävää Microsoft-yhteensopivuus tiedostosta, tutustu Ohje aiheeseen [Azure Trust Centerin yhteensopivuus](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Käytäntö:** Lisätietoja Microsoftin yhteensopivuusasiakirjan kysymyksistä on [kohdassa Azuren luottamuskeskuksen yhteensopivuus](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA-ja HITECH-säädökset**: Tutustu Windows Azure HIPAA-oppaaseen, jos olet kiinnostunut HIPAA-ja HiTech-säädöksestä, jotta ymmärrät Windows Azuren tärkeät ominaisuudet.
+- **HIPAA-** ja HITECH-säädökset: Tutustu Windows Azure HIPAA -oppaaseen, jos olet kiinnostunut HIPAA- ja HITECH-säädöksestä, jotta ymmärrät Windows Azuren merkitykselliset ominaisuudet.
 
-- **FedRAMP-sertifiointi**: Jos haluat lisä tietoja FedRAMP-sertifioinnista, Katso FedRAMP Marketplacesta.
+- **FedRamp-sertifiointi:** Lisätietoja FedRamp-sertifioinnista on FedRamp Marketplace -sivustossa.
 
-- **Azure PCI DSS-yhteensopivuus**: vaaditut Azure-asia kirjat, jotka koskevat maksu kortti teollisuuden vaatimustenmukaisuutta, ovat "vaatimustenmukaisuuden osoittamis" ja "vastuullisuus matriisi", jotka molemmat ovat käytettävissä Azure Trust Centerissä. Varmista, että sinulla on nämä tiedostot. Jos sinulla on näitä tiedostoja, mutta tarvitset lisä todisteita Microsoft Azure PCI Data Securityn yhdenmukaisesta tieto turvasta, tutustu Ohje aiheeseen [Microsoft ja PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Azure PCI DSS**-yhteensopivuus: Maksukorttialan yhteensopivuuden saavuttaminen edellyttää Azureen liittyviä tiedostoja, jotka ovat "Vaatimustenmukaisuus" ja "Vastuumatriisi", jotka molemmat ovat käytettävissä Azuren luottamuskeskuksessa. Tarkista, onko sinulla nämä tiedostot. Jos sinulla on nämä asiakirjat, mutta tarvitset lisätodennuksia PCI Data Security Standard Microsoft Azure yhteensopivuudesta, katso Microsoftin ja [PCI DSS:n tietoja.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure-toiminnot/suojaus/yhteensopivuus**: Jos sinulla on yleisiä tieto turvaan liittyviä kysymyksiä Azuressa, Katso lisä tietoja artikkelista vakio vastaus Microsoft Azure-tieto turvaan, tieto suojaan ja Yhdenmukaisuusasetukset jos sinulla on vaatimustenmukaisuutta koskevia kysymyksiä, tutustu artikkeliin Microsoft STP-Compliance ja Service Trust Portal-usein kysytyt kysymykset.
+- **Azure-toiminnot /tietoturva/yhteensopivuus:** Jos sinulla on yleisiä tietoturvaan liittyviä kysymyksiä Azuressa, tutustu artikkeliin Vakiovastaus tietojen pyyntöihin Microsoft Azure Suojaus, tietosuoja ja yhteensopivuus Jos sinulla on yhteensopivuuson liittyviä kysymyksiä, katso: Microsoft STP - Yhteensopivuus ja palvelun luottamusportaalin usein kysytyt kysymykset.
 
-Jos sinulla on vaatimustenmukaisuutta koskevia kysymyksiä, Katso lisä tietoja artikkelista [Microsoft STP-Compliance](https://www.microsoft.com/trust-center/compliance/compliance-overview) ja Service Trust Portal-usein kysytyt kysymykset.
+Jos sinulla on yhteensopivuuson liittyviä kysymyksiä, katso [Microsoft STP - Compliance and](https://www.microsoft.com/trust-center/compliance/compliance-overview) Service Trust Portalin usein kysytyt kysymykset.
 
-- **Gdpr-yhteensopivuus**: Jos sinulla on kysyttävää tietojen käsittely sopimuksesta, Katso lisä tietoja kohdasta "tieto turva ehdot", jotka alkavat sivulla 7 "Online-palveluiden ehdot". OST sisältää ensisijaiset tietojenkäsittelytermit, mutta se on sisällytetty kaupalliseen vakio sopimukseen. Siinä on muun muassa sopimus sitoumus, joka koskee GDPR-velvoitteita. Lisäksi Katso GDPR-kohtaiset ehdot sopimuksen lopussa kohdasta "Attachment 4", joka alkaa sivulta 42. Nämä osio kattavat Microsoftin GDPR-velvoitteet tietojenprosessoriina ja alihankkijana toiseen tietojenprosessoriin.
-
-> [!NOTE]
-> On erittäin suositeltavaa avata PDF-tiedostoja Adobe Acrobat Reader-ohjelmalla, koska muita PDF-katselu ohjelmia on havaittu. On myös suositeltavaa ladata tiedosto paikallisesti sen sijaan, että se avataan selain ikkunassa, koska se voi aiheuttaa virheitä.
-
-- **HDS-yhteensopivuus**: Azure on nyt "Health Data hosting", sertifioitu Ranskan vaatimusten mukaisesti. Lisä tietoja on kohdassa "Microsoft Azure on nyt sertifioitu luottamuksellisten terveys tietojen isännöintiin Ranskassa".
-
-- **Levinneisyys testaus**: koko "läpäisy testi pyyntöjen lähetys" prosessi on asiakas, joka toimii "pentestistä".
-
-Lisä tietoja läpäisy testauksesta on kohdassa [levinneisyys testaus](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Asiakas-ilmoitukset Aliprosessorien muutoksista**: käyttäjä voi halutessaan saada ilmoituksia Microsoftin henkilö tietojen Aliprosessoriluettelon muutoksista.
+- **GDPR-yhteensopivuus:** Jos sinulla on kysyttävää tietojenkäsittelysopimuksesta, katso "Tietosuojaehdot" alkaen sivulta 7 kohdassa "Online-palveluehdot". OST sisältää ensisijaiset tietojenkäsittelyehdot, mutta ne on sisällytetty kaupalliseen vakiosopimukseen. Se tarjoaa muun muassa sopimussitoumusten, jotka liittyvät yleisen tietosuoja-asetuksen velvoitteisiin. Katso myös gdpr-kohtaiset ehdot sopimuksen lopussa liitteestä 4 alkaen sivulta 42. Nämä osiot kattavat Microsoftin yleisen tietosuoja-asetuksen (GDPR) velvoitteet tietojen suorittimena ja toisena suorittimena.
 
 > [!NOTE]
-> Verkko palvelujen asiakas tiedot ja henkilö tietojen luettelon ilmoitus on täysin automatisoitu. Lisä tietoja on kohdassa Microsofts-tieto turva resurssit.
+> On erittäin suositeltavaa avata PDF-tiedostoja Adobe Acrobat Readerilla, koska ongelma on havaittu muiden PDF-tiedostojen katseluohjelmassa. On myös suositeltavaa ladata tiedosto paikallisesti selainikkunan avaamisen sijaan, sillä se voi aiheuttaa virheitä.
+
+- **HDS-yhteensopivuus:** Azure on nyt "Kuntotietojen isännöinti" sertifioitu Ranskan vaatimusten mukaisesti. Lisätietoja on kohdassa "Microsoft Azure on nyt sertifioitu isännöidä arkaluonteisia terveystietoja Ranskassa".
+
+- **Koekäytetsintä:** Asiakkaan omatoiminen klo "pentesti"-prosessi on koko "testaustesti"-pyynnön lähetysprosessi.
+
+Lisätietoja testien testauksesta on kohdassa Testien [testaaminen.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Asiakkaan ilmoitukset aliprosessien muutoksista:** Voit halutessasi saada ilmoituksia Microsoftin henkilökohtaisten tietojen aliprosessien luetteloon muutoksista.
+
+> [!NOTE]
+> Online Services -palveluiden asiakastietojen ja henkilökohtaisten tietojen luettelon ilmoitus on täysin automatisoitu. Lisätietoja on kohdassa Microsofts Data Protection Resources .
 
 **Suositellut asiakirjat**
 
-- [Asetusten vieminen ja poistaminen Azure-portaalissa](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Toiminta raporttien hakeminen Azure-portaalissa](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Azure Active Directoryn riski tapahtumat](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Käyttäjät vaarassa](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Riskialtis kirjautuminen](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Mitä Azure Active Directory-raportit ovat?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft ja HIPAA-ja HITECH-säädökset](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [Yhdysvaltain puolustus ministeriö (DoD) väliaikainen valtuutus asiakirja IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Asetusten vieminen tai poistaminen Azure-portaalissa](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Toimintaraporttien etsiminen Azure-portaalissa](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory riskitapahtumat](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Riskialttiilla käyttäjillä](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Riskialtit kirjautumiset](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Mitä ovat Azure Active Directory raportit?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Microsoft ja HIPAA ja HITECH-laki](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [US Department of Defense (DoD) -valtuutusdokumentaatio IL4:ssä](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

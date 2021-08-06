@@ -1,5 +1,5 @@
 ---
-title: Tila uksen käyttäminen
+title: Tilauskäyttö
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999237"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Kirjautuminen ei onnistu selaimen ongelmien vuoksi (selain jumittuu, pitää pyöriä, ei lataudu, jne.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Kirjautuminen Azureen ei onnistu selaimen ongelmien vuoksi (selain jumii, pyörii, ei lataudu jne.)
 
-Sinulla voi olla katkos. Tarkista, onko käytössä jatkuva katkos: [Azure Health-tila](https://status.azure.com/status/history/).
+Voi olla, että uloskaava saattaa vaikuttaa. Tarkista, onko olemassa jatkuvaa käyttökehää: [Azure Health Status](https://status.azure.com/status/history/).
 
-Kirjaudu ulos kaikista Active Azure-istunnoista. Aloita selaimen yksityinen tai incognito-tila.
+Kirjaudu ulos kaikista aktiivisista Azure-istunnoista. Käynnistä selaimen yksityinen tai incognito-tila.
 
-Voit myös yrittää päivittää selainta, käyttää toista selainta, poistaa väli muisti eväs teet, jos edellä ei toimi.
+Voit myös yrittää päivittää selaimen, käyttää toista selainta ja poistaa välimuistin evästeet, jos yllä oleva ei toimi.
 
-Lisä tietoja: [kirjautumisongelmien vian määritys](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+Lisätietoja: [Kirjautumisongelmien vianmääritys](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
-**Paketteja ei voi käyttää**
+**Tilausten käyttö ei onnistu**
 
-Varmista [Azure-portaalissa](https://portal.azure.com/), että oikea Azure-hakemisto on valittuna tilin oikeassa yläkulmassa.
+Varmista [Azure-portaalissa,](https://portal.azure.com/)että oikea Azure-hakemisto on valittuna oikealla yläkulmassa käyttäen tiliä.
 
-Varmista [Azuren tili keskuksessa](https://account.windowsazure.com/Subscriptions), onko tili käytössä tilin järjestelmänvalvoja.
+Varmista [Azure-tilikeskuksessa,](https://account.windowsazure.com/Subscriptions)että tilin järjestelmänvalvoja on tilin järjestelmänvalvoja.
 
-Lisä tietoja: [ei löydettyjä paketteja ei löydy](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Lisätietoja: [Tilausten vianmääritys](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Laskutus historiaa ei voi käyttää**
+**Laskutushistoriaa ei voi käyttää**
 
-Tilin järjestelmänvalvojan on varmistettava, että laskutus tiedot sisältävä käyttäjä lisätään Azure Active Directoryyn vieras käyttäjänä: [uuden käyttäjän lisääminen tai poistaminen](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Tilin järjestelmänvalvojan on varmistattava, että laskutustietoja käyttäjä on lisätty Azure Active Directoryyn vieraskäyttäjäksi: Uuden käyttäjän lisääminen [tai poistaminen.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Käyttäjälle on annettava yleinen järjestelmänvalvojan rooli: [roolin määrittäminen käyttäjille](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Käyttäjällä on oltava yleisen järjestelmänvalvojan rooli: [Roolin määrittäminen käyttäjille.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Lähetä tämä käyttäjä voi antaa laskutukseen pääsyn RBAC-käytäntöjen avulla: [Myönnä käyttö oikeudet laskutukseen](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Kun tämä on julkaistu, käyttäjälle voidaan antaa laskutuskäyttötietoja RBAC-käytäntöjä käyttämällä: [Myönnä laskutuskäyttö.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
--   [En pysty Kirjautu maan Azure-tila uksen hallintaan](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Azure-tilauksen hallinta ei onnistu kirjautumalla sisään](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

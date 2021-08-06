@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923236"
 ---
 # <a name="querying-the-microsoft-graph-api"></a>Microsoft Graph -ohjelmointirajapinnan kysely
 
-Tämä ohjeaihe voi koskea myös kehittäjiä, jotka käyttävät edelleen Azure AD Graph -ohjelmointirajapintaa. On kuitenkin erittäin **suositeltavaa, että** käytät Microsoft Graphia kaikissa hakemisto-, käyttäjätiedot- ja käytönhallintaskenaarioissa.
+Tämä ohjeaihe voi koskea myös kehittäjiä, jotka käyttävät edelleen Azure AD:Graph ohjelmointirajapintaa. On kuitenkin erittäin suositeltavaa **käyttää** Microsoft Graph kaikissa hakemisto-, käyttäjätiedot- ja käytönhallintaskenaarioissa.
 
 **Todennus- tai valtuutusongelmat**
 
-- Jos sovellus  ei voi hankkia tunnuksia Microsoft Graph -kutsumista varten, valitse Ongelma, kun saat käyttöoikeustietueen **(todennuksen)** Microsoft Graph -luokan, niin saat tarkempia ohjeita ja tukea tästä aiheesta.
-- Jos sovellus saa **401-** tai 403-valtuutusvirheitä Microsoft Graphia kutsuttaessa, valitse Hae käyttö estetty **-virhe (Valtuutus)** Microsoft Graph API -luokka, niin saat tarkempia ohjeita ja tukea tästä aiheesta.
+- Jos sovellus  ei voi hankkia tunnuksia Microsoft Graph-puheluita varten, valitse Ongelma käyttöoikeustunnuksen **(todennuksen)** Microsoft Graph -luokassa, niin saat tarkempia ohjeita ja tukea tästä aiheesta.
+- Jos sovellus saa **401-** tai 403-valtuutusvirheitä Microsoft Graph-puheluissa, valitse Käyttö estetty -virhe **(Valtuutus)** Microsoft Graph API -luokka, niin saat tarkempia ohjeita ja tukea tästä aiheesta.
 
-**Haluan käyttää Microsoft Graphia, mutta en tiedä, mistä aloittaa**
+**Haluan käyttää Microsoft Graph, mutta en tiedä, mistä aloittaa**
 
-Lisätietoja Microsoft Graphista on kohdassa:
+Lisätietoja Microsoft Graph:
 
-- [Yleistä Microsoft Graphista](https://docs.microsoft.com/graph/overview)
-- [Yleistä Käyttäjätietojen ja käytön hallinnasta Microsoft Graphissa](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [Yleistä Microsoft Graph:n käyttäjätietojen ja käytön hallinnasta](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
 - [Microsoft Graph -sovellusten rakentamisen aloittaminen](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** – Microsoft Graph -ohjelmointirajapintojen testaaminen vuokraajassa tai esittely vuokraajassa
+- **Microsoft Graph Explorer** – Microsoft Graph ohjelmointirajapintojen testaaminen vuokraajassa tai esittelytilaajassa
 
-**Haluan käyttää Microsoft Graphia, mutta tukeeko se tarvitsen v1.0-hakemiston ohjelmointirajapinnat?**
+**Haluan käyttää Microsoft Graph, mutta tukeeko se tarvitsen v1.0-hakemiston ohjelmointirajapinnat?**
 
-Microsoft Graph on hakemiston, käyttäjätietojen ja käytön hallinnan suositeltu ohjelmointirajapinta. Azure AD Graphin ja Microsoft Graphin välillä on kuitenkin vielä muutamia aukkoja. Tutustu seuraaviin artikkeleihin, joissa korostetaan uusimpia eroja, jotka auttavat valitsemaan:
+Microsoft Graph on suositeltu ohjelmointirajapinta hakemiston, käyttäjätietojen ja käytön hallintaan. Azure AD Graph:n ja Microsoft Graph:n mahdollisuuksien välillä on kuitenkin muutamia Graph. Tutustu seuraaviin artikkeleihin, joissa korostetaan ajan tasalla olevaa eroavaisuuksia, jotka auttavat valinnassasi:
 
-- [Resurssityyppierot Azure AD Graphin ja Microsoft Graphin välillä](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Azure AD Graphin ja Microsoft Graphin ominaisuuden erot](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Azure AD:n ja Microsoft Graphin väliset menetelmäerot](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Azure AD Graph:n ja Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Azure AD -ominaisuuden Graph Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Azure AD:n ja Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
 **Kun kyselen *käyttäjäobjektia,* monet sen ominaisuuksista puuttuvat**
 
-`GET https://graph.microsoft.com/v1.0/users` palauttaa vain 11 kohdetta, sillä Microsoft Graph valitsee automaattisesti oletusarvoisen *palautettavan käyttäjäominaisuuksien* joukon. Jos tarvitset muita *käyttäjäominaisuuksia,* $select valita sovelluksen ominaisuudet. Kokeile sitä ensin **Microsoft Graph Explorerissa.**
+`GET https://graph.microsoft.com/v1.0/users`palauttaa vain 11 kohdetta, Graph Microsoft valitsee automaattisesti palautettavan *käyttäjäominaisuuksien* oletusjoukon. Jos tarvitset muita *käyttäjäominaisuuksia,* $select sovelluksen tarpeita. Kokeile sitä ensin **Microsoft Graph Resurssienhallinnassa.**
 
 **Jotkin käyttäjän ominaisuusarvot ovat *tyhjiä,* vaikka tiedän, että ne on määritetty**
 
-Todennäköisin selitys on se, että sovellukselle oli myönnetty *User.ReadBasic.All-käyttöoikeus.* Näin sovellus voi lukea rajoitetun käyttäjäominaisuuksien joukon ja palauttaa kaikki muut ominaisuudet tyhjäarvoksi, vaikka ne olisi aiemmin määritetty. Kokeile myöntää sovelluksen *User.Read.All-käyttöoikeus* sen sijaan.
+Todennäköisin selitys on se, että sovellukselle on myönnetty *User.ReadBasic.All-käyttöoikeus.* Tällöin sovellus voi lukea rajoitetun käyttäjäominaisuuksien joukon ja palauttaa kaikki muut ominaisuudet tyhjäarvoksi, vaikka ne olisi aiemmin määritetty. Kokeile sovelluksen myöntämistä *sen sijaan User.Read.All-käyttöoikeuden* sijaan.
 
-Lisätietoja on kohdassa [Microsoft Graphin käyttöoikeudet.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
+Lisätietoja on kohdassa [Microsoft Graph käyttöoikeudet.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
 
-**I'm having trouble using OData query parameters to filter data in my requests**
+**Minulla on ongelmia OData-kyselyparametrien käyttämisessä pyyntöjen tietojen suodattamiseen**
 
-Microsoft Graph tukee laajaa valikoimaa OData-kyselyn parametreja, mutta Microsoft Graphin hakemistopalvelut (hakemisto-objektista periytyvät *resurssit)* eivät tue kaikkia näitä parametreja. Samat rajoitukset, joita Azure AD Graphissa oli, säilyvät suurin piirtin Microsoft Graphissa:
+Microsoft Graph tukee laajaa valikoimaa OData-kyselyparametreja, mutta Microsoft Graph:n hakemistopalvelut (hakemisto-objektista *periytyvät* resurssit) eivät tue kaikkia Graph. Samat rajoitukset, jotka olivat Azure AD Graph säilyvät suurin osa Microsoft Graph:
 
-1. **Ei tueta:**$count, $search tyhjäarvot ja $filter  *tyhjäarvot*
-2. **Ei tueta:**$filter ominaisuuksista (katso resurssiaiheet, joista ominaisuudet ovat suodatettavissa)
+1. **Ei tueta:**$count-, $search- ja $filter  null-arvoissa *tai ei-tyhjissä* arvoissa
+2. **Ei tuettu:**$filter ominaisuuksista (katso resurssiaiheet, joiden ominaisuudet ovat suodatettavissa)
 3. **Ei tuettu:** sivutus, suodatus ja lajittelu samanaikaisesti
-4. **Ei tuettu:** yhteyden suodattaminen. Voit esimerkiksi etsiä kaikki Yhdistyneessä kuningaskunnassa sijaitsevat tekniset ryhmän jäsenet.
+4. **Ei tuettu:** yhteyden suodattaminen. Etsi esimerkiksi kaikki Yhdistyneessä kuningaskunnassa sijaitsevat tekniset ryhmän jäsenet.
 5. **Osittainen tuki:**$orderby *(vain* displayName ja userPrincipalName) ja *ryhmä*
-6. **Osittainen tuki:** $filter (tukee vain *eq-,* *startswith-* tai ja , ja rajoitettuja) tuki-, $expand (yksittäisen objektin suhteiden laajentaminen palauttaa kaikki yhteydet, mutta objektien suhteiden laajentaminen on rajoitettua)  
+6. **Osittainen tuki:**$filter (tukee vain eq-, *startswith-* tai *,* ja *,* ja rajoitettuja *)*-tukea, $expand (yksittäisen objektin yhteyksien laajentaminen palauttaa kaikki yhteydet, mutta objektien suhteiden laajentaminen on rajoitettua)
 
 Lisätietoja on kohdassa Vastausten [mukauttaminen kyselyparametrien avulla.](https://docs.microsoft.com/graph/query-parameters)
 
 **Ohjelmointirajapinta, johon soitan, ei toimi – missä voin tehdä enemmän testausta?**
 
-**Microsoft Graph Explorer** – Testaa Microsoft Graph -ohjelmointirajapinnat vuokraajassa  tai esittely vuokraajassa ja tutustu myös mallikyselyihin Microsoft Graph Explorerissa.
+**Microsoft Graph Explorer** – Testaa Microsoft Graph -ohjelmointirajapinnat vuokraajassa tai esittelytilaajassa  ja tutustu myös esimerkkikyselyihin Microsoft Graph Resurssienhallinnassa.
 
-**Kun kyselen tietoja, näyttää siltä, että saan puutteelliset tiedot takaisin**
+**Kun kyselen tietoja, näyttää siltä, että saan taas puutteelliset tiedot**
 
-Jos kyselet kokoelmaa (kuten *käyttäjiä),* Microsoft Graph käyttää palvelinpuolen sivurajoituksia, joten tulokset palautetaan aina oletussivun kokoisena. Sovelluksen pitäisi aina odottaa näkevän palvelun palauttamia kokoelmia.
+Jos kyselet kokoelmaa (kuten *käyttäjiä),* Microsoft Graph käyttää palvelinpuolen sivurajoituksia, joten tulokset palautetaan aina oletussivukoon mukaisesti. Sovelluksen pitäisi aina odottaa näkevän palvelun palauttamia kokoelmia.
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [Microsoft Graphin parhaat käytännöt](https://docs.microsoft.com/graph/best-practices-concept)
-- [Microsoft Graph -tietojen sivutus sovelluksessa](https://docs.microsoft.com/graph/paging)
+- [Microsoft Graph parhaat käytännöt](https://docs.microsoft.com/graph/best-practices-concept)
+- [Microsoftin Graph tietojen sivutus sovelluksessa](https://docs.microsoft.com/graph/paging)
 
-**Sovellukseni on liian hidas ja sitä myös käytetään kursivassa. Mitä parannuksia voin tehdä?**
+**Sovellukseni on liian hidas ja sitä myös niitetaan. Mitä parannuksia voin tehdä?**
 
-Skenaariostasi riippuen käytettävissäsi on useita vaihtoehtoja, joilla voit tehdä sovelluksesta entistä tehokkaammin ja joissakin tapauksissa vähemmän altis palvelun utelle (kun puheluita on liikaa).
+Skenaariostasi riippuen käytettävissäsi on useita vaihtoehtoja, jotka tekevät sovelluksesta entistä tehokkaammin ja joissakin tapauksissa vähemmän altis palvelulle (jos puheluita on liikaa).
 
 Lisätietoja on ohjeaiheissa:
 
-- [Microsoft Graphin parhaat käytännöt](https://docs.microsoft.com/graph/best-practices-concept)
+- [Microsoft Graph parhaat käytännöt](https://docs.microsoft.com/graph/best-practices-concept)
 - [Siirtopyynnöt](https://docs.microsoft.com/graph/json-batching)
 - [Muutosten jäljitäminen deltakyselyn avulla](https://docs.microsoft.com/graph/delta-query-overview)
-- [Saa ilmoituksia muutoksista verkko-osien kautta](https://docs.microsoft.com/graph/webhooks)
-- [Kursimisohjeet](https://docs.microsoft.com/graph/throttling)
+- [Muutoksista ilmoittaminen webhooksien kautta](https://docs.microsoft.com/graph/webhooks)
+- [Throttling guidance](https://docs.microsoft.com/graph/throttling)
 
 **Mistä löydän lisätietoja virheistä ja tunnetuista ongelmista?**
 
-- [Microsoft Graphin virhevastaustiedot](https://docs.microsoft.com/graph/errors)
-- [Microsoft Graphin tunnetut ongelmat](https://docs.microsoft.com/graph/known-issues)
+- [Microsoft Graph virhevastaustiedot](https://docs.microsoft.com/graph/errors)
+- [Microsoft Graph:n tunnetut ongelmat](https://docs.microsoft.com/graph/known-issues)
 
 **Mistä voin tarkistaa palvelun käytettävyyden ja yhteyden tilan?**
 
-Niiden taustalla olevien palvelujen käytettävyys ja yhteydet, joita voidaan käyttää Microsoft Graphin kautta, voivat vaikuttaa Microsoft Graphin yleiseen käytettävuuteen ja suorituskykyyn.
+Niiden taustalla olevien palvelujen käytettävyys ja yhteydet, joita voidaan käyttää Microsoft Graph voivat vaikuttaa Microsoft Graph.
 
-- Tarkista Azure Active Directory -palvelun kuntoa varten Azure-tilasivulla lueteltujen **suojaus-** ja [käyttäjätietopalvelujen tila.](https://azure.microsoft.com/status/)
-- Tarkista Microsoft Graphiin osallistuneet Office-palvelut Office Service Health -koontinäytössä lueteltujen [palvelujen tila.](https://portal.office.com/adminportal/home#/servicehealth)
+- Jos Azure Active Directory palvelun kunto, tarkista Azure-tilasivulla lueteltujen suojaus- ja käyttäjätietopalvelujen [tila.](https://azure.microsoft.com/status/) 
+- Jos Office Microsoft Graph-palvelua, tarkista palvelujen tila, joka on lueteltu Office palvelun kunto [-koontinäytössä.](https://portal.office.com/adminportal/home#/servicehealth)

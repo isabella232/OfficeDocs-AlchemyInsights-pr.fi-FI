@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019505"
 ---
 # <a name="authentication-issues"></a>Todentaminen
 
@@ -75,14 +75,14 @@ Lisätietoja ehdollisesta käyttöoikeudesta löydät kohteesta:
 - [Ehdollisten käytön haasteiden käsitteleminen MSAL:lla](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Azure Active Directoryn ehdollisen käytön opas kehittäjälle](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide) käyttö
 
-**_Azure Active Directory -todentamiskirjaston (ADAL) ja Azure AD Graph API:n (AAD Graph) tuen päättyminen_* _
+***Azure Active Directory -todennuskirjaston (ADAL) ja Azure AD Graph -ohjelmointirajapinnan (AAD-Graph) tuen päättyminen***
 
 - 30. kesäkuuta 2020 alkaen Microsoft ei enää lisää uusia ominaisuuksia Azure Active Directory -todentamiskirjastoon (ADAL) ja Azure AD Graph API:iin (AAD Graph). Tarjoamme jatkossakin teknistä tukea ja suojauspäivityksiä, mutta emme enää tarjoa ominaisuuspäivityksiä.
 - 30. kesäkuuta 2022 alkaen Microsoft lopettaa ADAL- ja AAD Graph -tuen, eikä Microsoft enää tarjoa teknistä tukea tai suojauspäivityksiä.
     - Sovellukset, jotka käyttävät ADAL:tä olemassa olevissa käyttöjärjestelmäversioissa, toimivat edelleen tämän ajan kuluttua, mutta eivät saa teknistä tukea tai suojauspäivityksiä.
     - AAD Graphia tämän jälkeen käyttävät sovellukset eivät ehkä enää saa vastauksia AAD Graph -päätepisteeltä.
 
-_ *ADAL-siirto**
+**ADAL-siirto**
 
 Suosittelemme päivittämistä [Microsoft todentamiskirjastoon (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), jossa on uusimmat ominaisuudet ja suojauspäivitykset. Tämä suositus johtuu sitä, että Microsoft on siirtää sovellukset MSAL:ään tuen päättymispäivään mennessä. Microsoft-sovellusten MSAL:ään siirtymisen tavoitteena on varmistaa, että sovellukset hyötyvät MSAL:n jatkuvista suojaus- ja ominaisuusparannuksista.
 

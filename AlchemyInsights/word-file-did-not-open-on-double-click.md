@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036561"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-asiakirja avattiin väärään sovellukseen tai se ei avautunut
 
@@ -31,19 +31,19 @@ Kokeile jotain seuraavista ehdotuksista:
 
 1. Siirry **Ohjauspaneeliin kohdassa > ohjelmat > ominaisuudet.**
 
-2. Valitse korjattava Office-tuote ja valitse sitten **Muuta**.
+2. Valitse Office tuote, jonka haluat korjata, ja valitse sitten **Muuta**.
 
 3. Valitse **Pikakorjaus-vaihtoehto** ja valitse sitten **Korjaa**.
 
-**Poista niiden Office-versioiden asennus, jotka eivät ole käytössä**
+**Poista niiden Office, joissa et käytä**
 
-1. Siirry **Ohjauspaneeliin > valitse Poista asennettu** ohjelma ja valitse sitten Office-versio, jonka haluat poistaa.
+1. Siirry **Ohjauspaneeliin > poista asennettu ohjelma** ja valitse sitten Office poistettava versio.
 
 2. Valitse **Poista asennus**.
 
 3. Käynnistä tietokone uudelleen.
 
-**Määritä Office-tiedostotunnisteiden aukeaminen Officessa tämän vianmäärityksen avulla**
+**Määritä tämän vianmäärityksen Office-tiedostotunnisteet aukeamaan Office**
 
 1. Suorita tämä vianmääritys: https://aka.ms/diag_officefile .
 

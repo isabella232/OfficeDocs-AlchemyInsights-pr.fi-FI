@@ -1,5 +1,5 @@
 ---
-title: Tiedostot on lukittu muokkaamista varten
+title: Tiedostot on lukittu muokkausta varten
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907807"
 ---
 # <a name="why-cant-i-edit-files"></a>Miksi en voi muokata tiedostoja?
 
-Katso, [miksi et ehkä voi muokata tiedostoa](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)nopeasti.
+Katso pikaisesti syitä, miksi [et ehkä voi muokata tiedostoa.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Jos sinulla on kirjastoja, joissa on **uloskuittausta, pakollisia** tai **kelpoisuus tarkistuksen** sarakkeita tai metatietoja tai kun **luonnos kohteen suojausta** on valittu vain käyttäjille, jotka **voivat muokata** kirjaston versio asetukset-kohdassa olevia **kohteita** .
+Jos sinulla on kirjastoja,  joissa on Uloskuitaus-, Pakollinen-  tai Kelpoisuustarkistus-sarakkeita tai -metatietoja tai kun Luonnoskohteen suojaus -asetuksena on joko Vain käyttäjät, jotka voivat muokata tai Vain käyttäjät, jotka voivat hyväksyä kohteita kirjaston versiossa Asetukset:   
 
-- SharePoint-tiedosto kirjastoissa nämä kohteet synkronoidaan vain luku-tilassa.
+- Jos SharePoint, nämä kohteet synkronoidaan vain luku -tiedostokirjastoissa.
 
-- OneDrive-kirjastoissa OneDrive näyttää lukko kuvakkeen (OneDrive-tiedosto lukittu-kuvakkeen) synkronoinnin tilan vieressä, jolloin käyttäjä ei voi synkronoida kirjastoa, ennen kuin mainitut asetukset on poistettu. 
+- OneDrive-kirjastoissa OneDrive näkyy lukkokuvake ( OneDrive tiedosto lukittu -kuvake ) synkronoinnin tilan vieressä, eikä käyttäjä voi synkronoida kirjastoa, ennen kuin mainitut asetukset on poistettu. 
 
-Jos haluat lisä tietoja Wordin tai Excelin Lukittujen tiedostojen käytöstä, tutustu alla oleviin artikkeleihin.
+Lisätietoja Wordin tai Wordin lukituista Excel on alla olevassa artikkeleissa.
 
-- [Sain "lataus epäonnistui" tai "ei voitu tallentaa automaattisesti"-virheen muokattaessa Office-tiedostoa](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Sain virhesanoman "Upload epäonnistui" tai "Tallennusta ei voi tallentaa automaattisesti" muokattaessa Office tiedostoa](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Toinen käyttäjä on lukinnut Excel-tiedoston muokkaamista varten](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel on lukinnut tiedoston muokattavaksi](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Toinen käyttäjä on lukinnut Word-tiedoston muokkaamista varten](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Toinen käyttäjä on lukinnut Word-tiedoston muokattavaksi](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

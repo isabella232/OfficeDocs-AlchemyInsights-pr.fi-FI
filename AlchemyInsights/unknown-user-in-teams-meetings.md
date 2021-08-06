@@ -1,5 +1,5 @@
 ---
-title: Tuntematon käyttäjä näkyy teamsin tapaamisissa tai chateissa
+title: Tuntematon käyttäjä näkyy Teams tai keskusteluissa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019829"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>Tuntematon käyttäjä näkyy teamsin tapaamisissa tai chateissa
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>Tuntematon käyttäjä näkyy Teams tai keskusteluissa
 
-Käyttäjä on ehkä poistettu Microsoft 365-järjestelmästä. Tässä tapa uksessa voit yrittää poistaa käyttäjän Teamsista.  
+Käyttäjä on ehkä poistettu Microsoft 365. Yritä tässä tapauksessa poistaa käyttäjä Teams.  
 
-Yritä tyhjentää seuraava väli muisti, kun tiimit suljetaan, ja käynnistä sitten tiimit uudelleen: `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Tyhjennä seuraava välimuisti, kun Teams suljetaan, ja käynnistä sitten Teams:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Lisä tietoja tämän ongelman päivityksistä on kohdassa  [poistettu käyttäjä näkyy Microsoft Teamsissa tuntematon käyttäjä](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Lisätietoja tämän ongelman päivityksistä on kohdassa Poistettu käyttäjä näkyy Microsoft Teams :n [tuntemattomana käyttäjänä.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown)

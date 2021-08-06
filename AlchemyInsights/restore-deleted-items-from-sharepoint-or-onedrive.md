@@ -1,5 +1,5 @@
 ---
-title: Poistettujen kohteiden palauttaminen SharePointista tai OneDrivesta
+title: Poistettujen kohteiden palauttaminen SharePoint OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922300"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Poistettujen kohteiden palauttaminen SharePointista tai OneDrivesta
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Poistettujen kohteiden palauttaminen SharePoint OneDrive
 
-1. Siirry OneDrive-tai SharePoint-sivustoon.
+1. Siirry OneDrive tai SharePoint sivustoon.
     
-2. Valitse vasemmanpuoleisessa ruudussa **roska** kori. 
+2. Valitse **roskakori vasemmanpuoleisessa** ruudussa. 
     
-3. Napsauta niiden kohteiden tai tiedostojen vasemmalla puolella, jotka haluat palauttaa.
+3. Napsauta palautettavan kohteen tai tiedoston vasemmalla puolella.
     
 4. Valitse **Palauta**. 
     
-Kun tiedostot, kansiot, kirjastot, luettelot ja luettelo kohteet poistetaan SharePoint-sivustosta, ne siirtyvät roska koriin, jossa niitä säilytetään 93 päivän ajan, jos joku poistaa ne tästä roska korista. Jos ne poistetaan tästä roska korista (sivuston roska kori), ne siirtyvät sivustokokoelman roska koriin jäljellä olevaksi ajaksi, minkä jälkeen ne poistetaan pysyvästi. Poistetut sivustot ja sivustokokoelmat siirtyvät suoraan sivustokokoelman roska koriin 93 päivän ajan.
+Kun tiedostot, kansiot, kirjastot, luettelot ja luettelokohteet poistetaan SharePoint-sivustosta, ne menevät roskakoriin, jossa niitä säilytetään 93 päivää, ellei joku poista niitä roskakorista. Jos ne poistetaan tästä roskakorista (kutsutaan sivuston roskakoriksi), ne menetetään sivustokokoelman roskakoriin jäljellä olevaksi ajaksi ja poistetaan pysyvästi. Poistetut sivustot ja sivustokokoelmat menevät suoraan sivustokokoelman roskakoriin 93 päivän ajan.
   
-[Sivustokokoelmien roska korin kohteiden palauttaminen](https://go.microsoft.com/fwlink/?linkid=867800) (sivustokokoelman järjestelmänvalvojat) 
+[Sivustokokoelman roskakorin kohteiden palauttaminen](https://go.microsoft.com/fwlink/?linkid=867800) (sivustokokoelman järjestelmänvalvojat) 
   
-[Poistettujen sivustokokoelmien palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660) (yleiset tai SharePoint-järjestelmänvalvojat Microsoft 365-sovelluksessa) 
+[Poistettujen sivustokokoelmien palauttaminen](https://go.microsoft.com/fwlink/?linkid=867660) (yleiset SharePoint järjestelmänvalvojat Microsoft 365) 
   
-Jos sivustot kuuluvat Microsoft 365-ryhmään, sinun on palautettava ryhmä, jotta sivusto palautetaan. Katso [poistetun Microsoft 365-ryhmän](https://go.microsoft.com/fwlink/?linkid=867802) (Yleinen järjestelmänvalvoja) palauttaminen 
+Jos sivustot kuuluvat Microsoft 365 ryhmään, sinun on palautettava ryhmä sivuston palauttamiseksi. Katso [Poistetun ryhmän Microsoft 365 (yleinen](https://go.microsoft.com/fwlink/?linkid=867802) järjestelmänvalvoja) 
   
 

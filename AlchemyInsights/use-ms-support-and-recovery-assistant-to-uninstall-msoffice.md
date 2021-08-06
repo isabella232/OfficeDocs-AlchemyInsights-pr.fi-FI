@@ -1,5 +1,5 @@
 ---
-title: Microsoft Officen asennuksen poistaminen Microsoftin tuki- ja palautusavustajan avulla
+title: Poista asennus Microsoft tuki- ja palautusavustaja-Microsoft Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908419"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Microsoft Officen asennuksen poistaminen Microsoftin tuki- ja palautusavustajan avulla
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Poista asennus Microsoft tuki- ja palautusavustaja-Microsoft Office
 
 Toimi seuraavasti:
 
-1. Lataa [Microsoftin tuki- ja palautusavustaja.](https://go.microsoft.com/fwlink/?linkid=2139122)
-1. Käynnistä tiedosto valitsemalla selainikkunan **alareunassa** **SuoritaSetupProd_OffScrub.exetiedosto.**
-1. Valitse versio, jonka asennuksen haluat poistaa, ja valitse sitten **Seuraava.**
+1. Lataa [Microsoft tuki- ja palautusavustaja.](https://go.microsoft.com/fwlink/?linkid=2139122)
+1. Käynnistä tiedosto valitsemalla selainikkunan **alareunassa** **SuoritaSetupProd_OffScrub.exe.**
+1. Valitse versio, jonka asennuksen haluat poistaa, ja valitse sitten **Seuraava**.
 1. Noudata ohjeita. Käynnistä tietokone pyydettäessä uudelleen.
 1. Kun tietokone on käynnistynyt uudelleen, työkalu avautuu automaattisesti uudelleen ja opastaa sinua jäljellä olevien vaiheiden läpi.
 
-Jos haluat asentaa Microsoft Officen uudelleen, noudata tarvitsemaani versiota koskevia ohjeita: M[icrosoft 365,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2019,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2016,](https://go.microsoft.com/fwlink/?linkid=2138919) [Office 2013,](https://go.microsoft.com/fwlink/?linkid=2138919) [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)tai [Office 2007.](https://go.microsoft.com/fwlink/?linkid=2138644)
+Jos haluat asentaa Microsoft Office:n uudelleen, toimi tarvitsemallasi versiolla seuraavasti: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013,](https://go.microsoft.com/fwlink/?linkid=2138919) [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237) [tai Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
