@@ -1,5 +1,5 @@
 ---
-title: Alchemy-sähkö postin allekirjoitusten luominen
+title: Alchemy – sähköpostin allekirjoitusten luominen
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
-ms.openlocfilehash: 19bbb653d9ca5eaca45bc505e5212270d7373046
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a440239dae2978b548fdaa33bca60f2aff039756da283e86513b9ee2dbd3c59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934074"
 ---
-# <a name="create-email-signatures"></a>Sähkö postin allekirjoitusten luominen
+# <a name="create-email-signatures"></a>Sähköpostin allekirjoitusten luominen
 
-Seuraavissa aiheissa on lisä tietoja Sähkö posti viestien allekirjoitusten luomisesta Outlookissa.
+Seuraavissa ohjeaiheissa on lisätietoja sähköpostin allekirjoitusten Outlook.
   
-- Sähkö postin allekirjoituksen luominen omiin viesteihin: [allekirjoituksen luominen ja lisääminen viesteihin](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) tai [sähkö postin allekirjoituksen luominen ja lisääminen Outlook Web Appissa](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
+- Sähköpostin allekirjoituksen luominen omille viesteillesi: [Allekirjoituksen](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) luominen ja lisääminen viesteihin tai Sähköpostiviestin allekirjoituksen [luominen ja lisääminen Outlook Web App.](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx)
     
-- Luo yleinen sähkö postin allekirjoitus kaikille yrityksestäsi lähetettyihin viesteihin (joita kutsutaan myös vastuu vapaus lausekkeeksi): koko [organisaation laajuiset viestien vastuu vapaus lausekkeet, allekirjoitukset, alatunnisteet tai otsikot](https://go.microsoft.com/fwlink/p/?linkid=391096).
+- Yleisen sähköpostiallekirjoituksen luominen kaikille yrityksestäsi lähetetyille viesteille (kutsutaan myös vastuuvapauslausekkeeksi): Koko organisaation laajuiset viestiilmoitukset, allekirjoitukset, alatunnisteet [tai ylätunnisteet.](https://go.microsoft.com/fwlink/p/?linkid=391096)
     
 

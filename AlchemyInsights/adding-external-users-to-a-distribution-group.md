@@ -1,5 +1,5 @@
 ---
-title: Ulkopuolisten käyttäjien lisääminen jakeluun
+title: Ulkoisten käyttäjien lisääminen jakeluryhmään
 ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
@@ -8,38 +8,38 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 03cfd2c576cb03cbefd524a4ab6f04e2ef1eebec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8c06c81ecc66df0fbaa4cac9908178cdc1d9c6bdc38d19010c7b55e9bca8776
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934830"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Lisää ulkoiset käyttäjät jako ryhmään
+# <a name="add-external-users-to-a-distribution-group"></a>Ulkoisten käyttäjien lisääminen jakeluryhmään
 
-Ulkoisen yhteys henkilön lisääminen jakelu ryhmään (DG) on kaksivaiheinen prosessi:
+Ulkoisen yhteyshenkilön lisääminen jakeluryhmään on kaksivaiheinen prosessi:
   
-1. Sähkö posti yhteys henkilön luominen ulkoiselle käyttäjälle:
+1. Luo sähköpostin yhteyshenkilö ulkoiselle käyttäjälle:
     
-    1. Siirry hallinta keskuksessa **käyttäjät**-  >  [yhteys henkilöt](https://admin.microsoft.com/adminportal/home#/Contact) -sivulle. 
+    1. Siirry hallintakeskuksessa Käyttäjien **yhteystiedot**  >  [-sivulle.](https://admin.microsoft.com/adminportal/home#/Contact) 
     
-    2. Valitse **Lisää yhteys tieto**.
+    2. Valitse **Lisää yhteystieto**.
     
-    3. Kirjoita yhteys henkilön tiedot ja valitse **Lisää**.
+    3. Kirjoita yhteystiedon tiedot ja valitse **Lisää**.
     
-2. Lisää Sähkö posti yhteys tieto PÄÄOSASTOOSI:
+2. Lisää sähköpostin yhteyshenkilö viestipäätteeseen:
     
-    1. Siirry hallinta keskuksessa **ryhmät**  >  [ryhmät](https://admin.microsoft.com/adminportal/home#/groups) -sivulle. 
+    1. Siirry hallintakeskuksessa Ryhmät **ryhmät**  >  [-sivulle.](https://admin.microsoft.com/adminportal/home#/groups) 
     
-    2. Etsi pääosasto, johon haluat lisätä ulkoiset käyttäjät, ja valitse se avataksesi Muokkaa-valinta ikkunan.
+    2. Etsi keskusteluryhmä, johon haluat lisätä ulkoisen käyttäjän, ja avaa muokkaamisen valintaikkuna valitsemalla se.
     
-    3. Valitse **jäsenet** -väli lehdessä **Näytä kaikki ja Hallitse jäseniä**. 
+    3. Valitse **Jäsenet-välilehdessä** **Näytä kaikki ja hallitse jäseniä**. 
     
     4. Valitse **Lisää jäseniä**.
     
-    5. Valitse edellisessä vaiheessa luomasi Sähkö posti yhteys tieto ja valitse sitten **Tallenna**.
+    5. Valitse edellisessä vaiheessa luomasi sähköpostin yhteyshenkilö ja valitse sitten **Tallenna**.
     
-Jos ulkoiset käyttäjät eivät voi lähettää sähkö posti viestejä pääosastolle tai eivät saa siitä Sähkö posti viestejä noudattamalla näitä ohjeita, voi olla, että pääosasto on merkitty sallimaan vain sisäisten käyttäjien lähettämät sähkö postit. Voit tarkistaa tämän määrityksen ja korjata sen noudattamalla [tässä](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)annettuja ohjeita.
+Jos ulkoiset käyttäjät eivät voi näiden ohjeiden jälkeen lähettää sähköpostiviestejä viestipäätteeseen tai eivät saa siitä sähköpostiviestejä, viestien hallintapäätteet on ehkä merkitty sallimaan vain sisäisten käyttäjien sähköpostiviestit. Voit tarkistaa tämän määrityksen ja korjata sen noudattamalla [tässä ohjeita.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)
   
- **Huomautus:** Näitä ohjeita ei sovelleta, jos ryhmän tyyppi on "Microsoft 365-ryhmä" eikä "Distribution Group". Tässä tapa uksessa voit lisätä ulkoiset käyttäjät suoraan ryhmään Outlookista. [Tässä artikkelissa](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)on lisä tietoja Microsoft 365-ryhmistä sekä ohjeita siitä, miten ulkoiset vieraat lisätään.
+ **Huomautus:** Nämä ohjeet eivät päde, jos ryhmäsi tyyppi on "Microsoft 365 ryhmä" jakeluryhmän sijaan. Jos näin on, voit lisätä ulkoisen käyttäjän suoraan ryhmään Outlook. Tässä artikkelissa Microsoft 365 yksityiskohtaisia tietoja ryhmien Microsoft 365 sekä ohjeet ulkoisten vieraiden [lisäämiseen.](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)
   

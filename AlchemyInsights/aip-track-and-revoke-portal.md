@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a98b2dd7ae24674d7d346335e0729daec3a00db7bb0580dd0dd4ba08f58e7aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934218"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: Portaalin seuranta ja peruuttaminen
 
-**Azure-portaalin asiakirjanseurantasivuston** avulla voit seurata ja kumota tiedostoja, kun käytät Azure Information Protectionia. Office-sovelluksia (Word, Excel ja PowerPoint) ja Resurssienhallintaa voi käyttää myös asiakirjojen seuraamiseen ja peruuttamiseen.
+**Azure-portaalin asiakirjanseurantasivuston** avulla voit seurata ja kumota tiedostoja, kun käytät Azure Information Protectionia. Voit Office (Word, Excel PowerPoint) ja Resurssienhallinnan avulla myös seurata ja kumota asiakirjoja.
 
 1. Valitse asiakirjan seurantasivustossa **Kumoa käyttö**. Asiakirjan peruuttaminen poistaa käyttöoikeudet valtuutetuilta käyttäjiltä. tiedostoa ei poisteta.
-2. Toimi Office-sovelluksessa:
+2. Valitse Office sovellus:
     - Avaa suojattu tiedosto, jota haluat seurata tai kumota.
     - Valitse **Aloitus-välilehden** **Suojaus-ryhmästä** **Suojaa > seuraaminen ja kumoaminen.**
 
