@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967474"
 ---
 # <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Onboard-laitteet Microsoft Defender for Endpointiin
 
-Microsoft Defender for Endpoint tarjoaa keskitetyn suojaustoimintojen käyttökokemuksen Windows- ja ei-Windows-käyttöympäristöille. Sen avulla voit suojata organisaatiosi verkon ja tarkastella eri tuettujen käyttöjärjestelmien ilmoituksia Microsoft Defender Security Centerin avulla:
+Microsoft Defender for Endpoint tarjoaa keskitetyn suojaustoimintojen käyttökokemuksen Windows ja Windows käyttöympäristöille. Sen avulla voit suojata organisaatiosi verkon ja tarkistaa eri Microsoft Defender Security Center käyttöjärjestelmien ilmoitukset:
 
-- Katso **Windows 10 -laitteiden** käyttöönottamisen työkalut ja menetelmät Windows [10 -laitteissa.](https://go.microsoft.com/fwlink/?linkid=2143460)
-- Jos **käytössäsi on** Windows-palvelimet, tutustu Microsoft Defender for Endpoint -palvelun [onboard-palvelimiin.](https://go.microsoft.com/fwlink/?linkid=2143627)
-- Varmista **muiden kuin Windows-päätepisteiden** osalta, että järjestelmäsi täyttää [macOS-](https://go.microsoft.com/fwlink/?linkid=2143461) tai [Linux-käyttöjärjestelmän](https://go.microsoft.com/fwlink/?linkid=2143462)vaatimukset, ja jatka sitten [onboardingiin.](https://go.microsoft.com/fwlink/?linkid=2143628)
+- Lisätietoja **Windows 10 on kohdassa** [Laitteiden Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460)käyttöön Windows 10 .
+- Lisätietoja **Windows on kohdassa** [Onboard servers to the Microsoft Defender for Endpoint service (Onboard-palvelimet Microsoft Defender for Endpoint -palveluun).](https://go.microsoft.com/fwlink/?linkid=2143627)
+- Jos **päätepiste ei Windows päätepisteitä**, varmista, että järjestelmäsi on [macOS-](https://go.microsoft.com/fwlink/?linkid=2143461) tai [Linux-vaatimusten](https://go.microsoft.com/fwlink/?linkid=2143462)mukainen ja jatka [sitten onboarding-vaiheeseen.](https://go.microsoft.com/fwlink/?linkid=2143628)

@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951526"
 ---
 # <a name="app-proxy-gateway-issue"></a>Sovelluksen välityspalvelimen yhdyskäytävän ongelma
 
-Tietoja Azure AD -sovelluksen välityspalvelinsovelluksen tämän yrityssovelluksen käyttämisen yleisimpiä ongelmia koskevan ongelman vianmäärityksestä on kohdassa ["Ei](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)voi käyttää tätä yrityssovellusta" -virhe käytettäessä sovelluksen välityspalvelinsovellusta.
+Jos haluat tehdä vianmäärityksen tämän yrityssovelluksen yleisille ongelmiin, jotka liittyvät "Tätä yrityssovellusta ei voi käyttää" -virheeseen Azure AD -sovelluksen välityspalvelinsovelluksessa, katso "Tätä yrityssovellusta ei voi [käyttää"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)-virhe, kun käytetään sovelluksen välityspalvelinsovellusta.

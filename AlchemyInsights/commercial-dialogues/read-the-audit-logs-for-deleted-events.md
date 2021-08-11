@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967330"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Poistettujen tapahtumien valvontalokien lukeminen
 
 Voit tehdä tämän näin:
 
-1. Siirry [Office 365:n tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valitse **Haun**  >  [**valvontalokihaku.**](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Valitse **Haun**  >  [**valvontalokihaku**](https://go.microsoft.com/fwlink/?linkid=2103759).
     > [!NOTE]
-    > Jos huomaat, että ominaisuus on syytä ottaa käyttöön, ota se käyttöön nyt. Jos ominaisuutta ei ole otettu käyttöön, hakutulokset eivät voi hakea tietoja aiemmista päivämääristä.
-1. Valitse **Toiminnot** ja etsi **exchange-postilaatikon toiminnot.** Valitse **Poistetut-kansiosta Poistetut-kansio** ja **Siirretty viestit Poistetut-kansion** asetuksiin. Kun olet valmis, pienennä Toiminnot-ruutu napsauttamalla ruudun **ulkopuolella.**
+    > Jos huomaat, että sinun on ottaa ominaisuus käyttöön, ota se käyttöön nyt. Jos ominaisuutta ei ole otettu käyttöön, hakutulokset eivät voi hakea tietoja aiemmista päivämääristä.
+1. Valitse **Toiminnot** ja etsi Exchange **postilaatikkotoiminnot**. Valitse **Poistetut-kansiosta poistetut viestit-** ja Siirretty **viestit Poistetut-kansioon** -vaihtoehdot. Kun olet valmis, pienennä Toiminnot-ruutu napsauttamalla ruudun **ulkopuolella.**
 1. Määritä päivämääräalue ja valitse sitten **Käyttäjät-ruudussa** sen käyttäjän käyttäjänimi, jonka haluat tutkia. Voit valita useamman kuin yhden käyttäjän kerrallaan.
-1. Valitse **Hae.** Toiminnot näkyvät **Tulokset-kohdassa.**
-1. Voit tarkastella tietoja valitsemalla aktiviteetin ja valitsemalla sitten **Lisätietoja.** Lisätietoja poistetusta kohteesta, kuten aiherivi ja kohteen sijainti, kun se poistettiin, näytetään **AffectedItems-kentässä.**
+1. Valitse **Hae**. Toiminnot näkyvät **Tulokset-kohdassa.**
+1. Voit tarkastella tietoja valitsemalla aktiviteetin ja valitsemalla sitten **Lisätietoja**. Poistettua kohdetta koskevat lisätiedot, kuten aiherivi ja kohteen sijainti, kun kohde poistettiin, näkyvät **AffectedItems-kentässä.**
     > [!NOTE]
-    > Poistettuja kohteita ei voi palauttaa valvontalokitoiminnolla. Lisätietoja poistettujen kohteiden palauttamisesta on kohdassa [Poistettujen kohteiden tai sähköpostiviestien palauttaminen Outlook Web Appissa.](https://go.microsoft.com/fwlink/?linkid=2103759)
+    > Poistettuja kohteita ei voi palauttaa valvontalokitoiminnolla. Lisätietoja poistettujen kohteiden palauttamisesta [on kohdassa Poistettujen kohteiden tai sähköpostiviestien palauttaminen Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-Lisätietoja on ohjeaiheessa Office [365:n valvontalokista etsiminen yleisimpiä skenaarioita varten.](https://go.microsoft.com/fwlink/?linkid=2103944)
+Lisätietoja on ohjeaiheessa [Valvontalokin Office 365 ja yleisimmät skenaariot.](https://go.microsoft.com/fwlink/?linkid=2103944)

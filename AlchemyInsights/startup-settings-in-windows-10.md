@@ -1,5 +1,5 @@
 ---
-title: Käynnistysasetukset Windows 10:ssä
+title: Käynnistysasetukset Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909823"
 ---
-# <a name="startup-settings-in-windows-10"></a>Käynnistysasetukset Windows 10:ssä
+# <a name="startup-settings-in-windows-10"></a>Käynnistysasetukset Windows 10
 
 **Muuta, mitkä sovellukset suoritetaan automaattisesti käynnistyksen yhteydessä**
 
-1. Valitse Asetukset [> sovellukset > käynnistys .](ms-settings:startupapps?activationSource=GetHelp)
+1. Siirry [Asetukset >-> käynnistys .](ms-settings:startupapps?activationSource=GetHelp)
 
 2. Varmista, että mikä tahansa käynnistettäessä suoritettava sovellus **on** käytössä .
 
@@ -33,15 +33,15 @@ ms.locfileid: "51828149"
 
 2. Napsauta sovellusta hiiren kakkospainikkeella, **valitse Lisää** ja valitse sitten **Avaa tiedostosijainti**. Tämä avaa sijainnin, johon sovelluksen pikakuvake on tallennettu. Jos Avaa tiedostosijainti -vaihtoehtoa ei ole, sovellusta ei voi suorittaa käynnistyksen yhteydessä.
 
-3. Kun tiedostosijainti on auki, paina **näppäinyhdistelmää Windows-näppäin + R,** **kirjoita shell:startup** ja valitse **sitten OK**. Tämä avaa Käynnistys-kansion.
+3. Kun tiedostosijainti on auki, paina **Windows -näppäin + R**, kirjoita **shell:startup** ja valitse **SITTEN OK**. Tämä avaa Käynnistys-kansion.
 
 4. Kopioi ja liitä pikakuvake sovellukseen tiedoston sijainnista Käynnistys-kansioon.
 
-**Käynnistyksen lisäasetukset (mukaan lukien vikasietotila, UEFI-asetukset ja käynnistys toisesta laitteesta)**
+**Käynnistyksen lisäasetukset (Lokero, UEFI-asetukset ja käynnistys toisesta laitteesta)**
 
 1. Tallenna työsi ja sulje kaikki avoimet tiedostot, koska nämä vaiheet käynnistävät tietokoneen uudelleen.
 
-2. Siirry kohtaan [Asetukset > päivittäminen & suojausasetusten > palautus.](ms-settings:recovery?activationSource=GetHelp)
+2. Siirry [Asetukset >-& suojauspäivitysten > palauttamiseen.](ms-settings:recovery?activationSource=GetHelp)
 
 3. Valitse **Käynnistyksen lisäasetukset**-kohdassa **Käynnistä uudelleen nyt**. 
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828149"
 
     - Jos haluat käynnistää laitteen, kuten USB-muistitikun, valitse **Käytä laitetta**.
 
-    - Jos haluat määrittää UEFI-asetukset (kutsutaan joskus MYÖS -määritykseksi), **valitse Vianmääritys > UEFI-laiteohjelmistoasetusten > lisäasetukset.** 
+    - Jos haluat määrittää UEFI-asetukset (jota kutsutaan joskus MYÖS asennukseksi), valitse Vianmääritys > lisäasetukset **> UEFI Firmware Asetukset.** 
 
-    - Jos haluat käyttää vikasietotilaa tai muuttaa käynnistyksen lisäasetuksia, **valitse > Käynnistysasetukset >** vianmääritys ja valitse sitten Käynnistä **uudelleen**. Sinua saatetaan pyytää antamaan [BitLocker-palautusavain.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Kun tietokone käynnistyy uudelleen, valitse käynnistysasetus, jota haluat käyttää.
+    - Siirry Lokero tilaan tai muuta käynnistyksen lisäasetuksia valitsemalla Vianmääritys > lisäasetukset **> Käynnistys Asetukset** ja valitsemalla sitten Käynnistä **uudelleen**. Sinua saatetaan pyytää antamaan [BitLocker-palautusavain.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Kun tietokone käynnistyy uudelleen, valitse käynnistysasetus, jota haluat käyttää.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951562"
 ---
 # <a name="app-proxy-configuration"></a>Sovelluksen välityspalvelimen määritys
 
-1. Lisätietoja sovellusten välityspalvelimen sovelluksen määrittämisestä Azure AD:ssä, jotta paikallissovellukset voidaan näyttää pilvipalvelussa, on kohdassa Sovelluksen [välityspalvelinsovelluksen määrittäminen.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
-2. Kertakirjautumisen avulla käyttäjät voivat käyttää sovellusta todentamatta useita kertoja. Sen avulla yksittäinen todennus voidaan suorittaa pilvessä Azure Active Directorya vastaan ja sen avulla palvelu tai yhdistin voi tekeytyä käyttäjän sovelluksesta syntyviin muihin todennushaasteisiin. Lisätietoja on kohdassa [Kertakirjauksesi määrittäminen sovelluksen välityspalvelinsovellukseen.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
-3. Tämän [artikkelin avulla voit](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) tehdä vianmäärityksen yleisiin ongelmiin, joita ihmiset kohtaavat luotaessa uutta sovelluksen välityspalvelinsovellusta.
-4. Jos sinulla on ongelmia sovelluksesi taustatodentamisen määrittämisessä, sinun on ehkä [vianmääritystä Kerberosin](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) rajoitettuja delegointimäärityksiä sovelluksen välityspalvelinta varten tai seurattava ohjeita sovelluksen määrittämiseen [PingAccessilla](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) ongelman ratkaisemiseksi.
+1. Lisätietoja sovelluksen välityspalvelimen sovelluksen määrittämisestä Azure AD:ssä paikallisiin sovelluksiin pilvessä on kohdassa Sovelluksen [välityspalvelimen sovelluksen määrittäminen.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+2. Kertakirjautumisen avulla käyttäjät voivat käyttää sovellusta todentamatta useita kertoja. Sen avulla yksittäinen todennus voidaan suorittaa pilvipalvelussa, Azure Active Directory ja sen avulla palvelu tai Connector voi tekeytyä käyttäjäksi sovelluksen mahdolliset muut todennushaasteet. Lisätietoja on kohdassa [Kertakirjauksesi määrittäminen sovelluksen välityspalvelimen sovellukseen.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+3. Tämän [artikkelin avulla voit](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) tehdä vianmäärityksen yleisiin ongelmiin, joita ihmiset kohtaavat luodessaan uutta sovelluksen välityspalvelinsovellusta.
+4. Jos sinulla on ongelmia sovelluksesi back-end-todennuksen määrittämisessä, sinun on ehkä [vianmääritystä Kerberosin](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) rajoitettujen delegointimääritysten vianmääritys sovelluksen välityspalvelinta varten tai määritettävä sovellus [PingAccessilla](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) ongelman ratkaisemiseksi.

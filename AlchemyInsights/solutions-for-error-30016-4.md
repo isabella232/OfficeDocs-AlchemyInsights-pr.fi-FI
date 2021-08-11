@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909931"
 ---
 # <a name="solutions-for-error-30016-4"></a>Virheen 30016-4 ratkaisut
 
-Kun yrität poistaa Microsoft 365-sovelluksia yritys tieto koneesta ja saat virhe ilmoituksen, **jokin meni vikaan 30016-4**, se tarkoittaa, että **% Temp%** -asema on yhdistetty muuhun kuin **% ProgramFiles%**-asemaan.
+Kun yrität poistaa Microsoft 365 -sovellukset suuryrityksille asennusta tietokoneesta ja näyttöön tulee virhesanoma Tapahtui virhe **30016-4**, se tarkoittaa, että **%temp%** -asema on yhdistetty muuhun asemaan kuin **%ProgramFiles%.**
   
-[Tuki-ja palautus avustajan](https://aka.ms/SARA-OfficeUninstall-Alchemy) korjaaminen, lataaminen ja asentaminen
+Voit korjata ongelman lataamalla ja [asentamalla tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus** -kohdasta versio, jonka asennuksen haluat poistaa, ja valitse sitten **Seuraava**.
+1. Kun se avautuu, valitse **poista Office-tuotteista** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
 2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistyksen jälkeen tuki-ja palautus avustaja avautuu automaattisesti uudelleen asennuksen poistamisen jälkeen.
+    Uudelleenkäynnistyksen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistoprosessin viimeistelemiseksi.
 
-3. Seuraa jäljellä olevia kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.
+3. Noudata kehotteita ja asenna [Office](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.
