@@ -1,5 +1,5 @@
 ---
-title: Resurssien käyttöön liittyvien ongelmien vian määritys
+title: Resurssien käyttöongelmien vianmääritys
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093019"
 ---
-# <a name="troubleshoot-resource-access-issues"></a>Resurssien käyttöön liittyvien ongelmien vian määritys
+# <a name="troubleshoot-resource-access-issues"></a>Resurssien käyttöongelmien vianmääritys
 
-Lisä tietoja profiili tyypeistä Intune-tuki, jonka avulla käyttäjät voivat käyttää yrityksen infrastruktuuria ja resursseja, on osoitteessa:
+Lisätietoja intune-profiilityypeistä, joiden avulla käyttäjät voivat käyttää yritysinfrastruktuuria ja resursseja, on kohdassa:
 
-- [Sähkö posti asetusten lisääminen laitteisiin Intune-toiminnolla](https://docs.microsoft.com/intune/email-settings-configure)
-- VPN- [profiilien luominen Intune-yhteyden muodostamiseen VPN-palvelimiin](https://docs.microsoft.com/intune/vpn-settings-configure)
-- [Wi-Fi-asetusten lisääminen ja käyttäminen laitteissa Microsoft Intune-palvelussa](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Varmenteiden käyttäminen todennuksessa Microsoft Intunella](https://docs.microsoft.com/intune/certificates-configure)
+- [Sähköpostiasetusten lisääminen laitteisiin Intunen avulla](https://docs.microsoft.com/intune/email-settings-configure)
+- [VPN-profiilien luominen VPN-palvelimiin yhteyden muodostamista varten Intunessa](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Lisää ja Wi-Fi asetuksia laitteissasi Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Varmenteiden käyttö todennusta Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-Lisä tietoja Intune-laite profiileista on kohdassa [yleisiä kysymyksiä ja vasta uksia laite käytäntöjen ja-profiilien avulla Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)-sovelluksessa.
+Lisätietoja Intune-laiteprofiileista on kohdassa Yleisiä kysymyksiä ja vastauksia [laitekäytäntöjen](https://docs.microsoft.com/intune/device-profile-troubleshoot)ja -profiilien avulla Microsoft Intune.
 
-Lisä tietoja resurssien käytön profiilien vian määrityksestä on kohdassa [Yleiset virhe koodit ja kuva ukset Microsoft Intunella](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+Lisätietoja resurssien käyttöoikeusprofiileista on ohjeaiheessa Yleisiä [virhekoodeja](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)ja kuvauksia Microsoft Intune.

@@ -1,5 +1,5 @@
 ---
-title: Ei hyväksytty toimi alue-virheen ratkaiseminen
+title: Ei hyväksyttyä toimialuetta -virheen ratkaiseminen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 6cf72dda355949e6d5f83214b26f2c8d435fd9b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7ea5ebefb0c9a68af5883d7d2f9bed0f4100a53200e30e859d6f90ee519779f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093055"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a>Onko parametria ei löydy-virhe?
+# <a name="got-a-parameter-cannot-be-found-error"></a>Onko sinulla Parametria ei löydy -virhe?
 
-Jos näyttöön tulee virhe sanoma **"parametria ei löydy, joka vastaa parametrin nimi" EmailAddresses "**, se tarkoittaa, että Microsoft 365-ohjelman on liian vähän aikaa viimeistellä vuokra ajan tai mukautetun toimi alueen määrittäminen, jos olet äskettäin lisännyt sellaisen.
+Jos näyttöön tulee virheilmoitus "Ei löydy parametria, joka vastaa parametrin nimeä **EmailAddresses",** Microsoft 365 kestää hieman kauemmin määrittää vuokraaja, tai mukautettu toimialue, jos lisäsit sellaisen äskettäin.
   
 Määritysprosessin valmistuminen voi kestää enintään neljä tuntia. Odota hetki, jotta määritysprosessi valmistuu, ja yritä sitten uudelleen.
   

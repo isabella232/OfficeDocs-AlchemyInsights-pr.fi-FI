@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970724"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Mitä Android-versiota sovellus tukee?
 
@@ -27,13 +27,13 @@ Jos android-käyttöjärjestelmäsi on ajan tasalla, mutta saat edelleen ilmoitu
 
 Toimi seuraavasti: 
 
-1. Avaa Android-puhelimessa tai -tabletissa **Asetukset ja** valitse sitten **Sovellukset** tai **Sovellukset**.
+1. Avaa Android-puhelimessa tai -tabletissa **Asetukset** **sovellukset** tai **sovellukset**.
 
 2. Valitse näytön yläreunassa **Lisää** (tämä voi olla myös kolme pistettä tai kolme pystysuuntaista pistettä) ja valitse sitten Näytä **järjestelmä**. 
 
 3. Vieritä alas ja valitse **Google Play -palvelut**. 
 
-4. Valitse **Tallennustila** ja sitten **Tyhjennä välimuisti**. 
+4. Valitse **Tallennus** tyhjennä **välimuisti**. 
 
 5. Valitse **Tilan hallinta** ja sitten Tyhjennä kaikki **tiedot**. 
 
