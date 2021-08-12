@@ -1,5 +1,5 @@
 ---
-title: Turvallisuusvihjeen vianmääritys huijausten tunnistustarkistuksissa
+title: Huijausten turvallisuusvihje vianmääritys
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955963"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Turvallisuusvihjeen vianmääritys huijausten tunnistustarkistuksissa
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Huijausten turvallisuusvihje vianmääritys
 
-Jos saat turvallisuusvihjeen, jossa lukee "Lähettäjä ei ole onnistunut havaitsemaan huijauksiamme, mutta he eivät ehkä ole sitä, keitä he näyttävät olevan", lähettäjä ei läpäisynyt DKIM- tai SPF-todennustarkistuksia. Paras tapa ratkaista tämä on se, että lähettäjä voi valtuuttaa itsensä. Jos lähettäjä lähettää viestejä puolestasi, sinun on valtuuttava lähettäjä lisäämällä lähettäjän IP-osoite SPF-tietueeseen.
+Jos saat virhekoodin turvallisuusvihje jossa lukee "Lähettäjä ei läpäisynyt tunnistustarkistuksemme etkä välttämättä ole se, jonka he näyttävät olevan", lähettäjä ei läpäisynyt DKIM- tai SPF-todennustarkistuksia. Paras tapa ratkaista tämä on se, että lähettäjä voi valtuuttaa itsensä. Jos lähettäjä lähettää viestejä puolestasi, sinun on valtuuttava lähettäjä lisäämällä lähettäjän IP-osoite SPF-tietueeseen.
   
-Lisätietoja [on kohdassa Punaisen (epäilyttävän) turvallisuusvihjeen vianmääritys huijausten tunnistustarkistuksia](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) varten.
+Katso [lisätietoja ohjeista turvallisuusvihje (epäilyttävän)](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) punaisen (epäilyttävän) määrityksen vianmääritys.
   
 Seuraavassa on joitakin muita linkkejä, joista voi olla apua:
   

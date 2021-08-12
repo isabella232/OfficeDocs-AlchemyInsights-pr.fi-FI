@@ -1,5 +1,5 @@
 ---
-title: Tila uksen/tilin käytöstä poistettu sääntö
+title: Tilaus/tili poistettu käytöstä -sääntö
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938440"
 ---
-# <a name="azure-subscription-disabled"></a>Azure-tilaus poistettu käytöstä
+# <a name="azure-subscription-disabled"></a>Azure-tilaus ei ole käytössä
 
-Azure-pakettiisi voi olla poistettu käytöstä, koska saldosi on vanhentunut, olet saavuttanut käyttö rajan, sinulla on erääntynyt vekseli, osut luotto korttisi rajaan tai koska tilin järjestelmänvalvoja on peruuttanut tila uksen. Katso alta, miten voit ottaa tilauksesi uudelleen käyttöön. Lisä tietoja: [Azure-tila uksen Akti Voiminen uudelleen](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Azure-tilauksesi voidaan poistaa käytöstä, koska saldosi on päättynyt, olet saavuttanut käyttörajasi, sinulla on myöhässä lasku, luottokorttirajasi ylittynyt tai koska tilin järjestelmänvalvoja on peruuttanut tilauksen. Seuraavassa on tietoja siitä, miten voit ottaa tilauksesi uudelleen käyttöön. Lisätietoja: [Azure-tilauksen uudelleenaktivoiminen](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Ota Azure-tilauksesi uudelleen käyttöön (tilaus peruutettiin vahingossa)** [Tilin hallinnoija](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) voi aktivoida peruutetun pay-as-you-go-tila uksen uudelleen tili keskuksessa:
+**Ota Azure-tilauksesi uudelleen käyttöön (tilaus peruutettiin vahingossa)** Tilin [järjestelmänvalvoja](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) voi aktivoida uudelleen peruutuneen Pay-As-You-Go -tilauksen tilikeskuksessa:
 
-1. Kirjaudu sisään [tili keskukseen](https://account.windowsazure.com/Subscriptions).
-2. Valitse peruutettu tilaus. Valitse **Aktivoi uudelleen** .
+1. Kirjaudu [tilikeskukseen.](https://account.windowsazure.com/Subscriptions)
+2. Valitse peruutettu tilaus. Valitse **Aktivoi uudelleen**.
 
-Jos sinulla on muita tilaus tyyppejä, [Ota yhteyttä tukeen](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) , jotta paketilaustasi voidaan aktivoida uudelleen.
+Jos haluat käyttää muita [tilaustyyppejä, ota](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) yhteyttä tukeen, jotta tilauksesi aktivoituu uudelleen.
 
-**Vanhentunut luotto kortti**
+**Vanhentunut luottokortti**
 
-Kun rekisteröidyt **Azure Free-tiliin** , saat ilmainen kokeilu version tila uksen, joka tarjoaa $200 Azure credsiin 30 päivän ja 12 kuukauden maksuttomat palvelut. Azure poistaa tilauksesi käytöstä 30 päivän kuluttua. Pakettisi on poistettu käytöstä, jotta sinulta ei aiheutuisi vahingossa veloitusta käyttö maksuista, jotka ylittävät pakettiisi sisältyvät maksuttomat palvelut. Jos haluat jatkaa Azure-palveluiden käyttöä, sinun on [päivitettävä tilauksesi](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Kun olet päivittänyt, pakettisi voi edelleen käyttää ilmaisia palveluja 12 kuukauden ajan. Sinulta veloitetaan vain maksuttomat palvelut ja määrät.  
-Lisä tietoja: [vanhentunut luotto kortti](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Kun rekisteröidyt **maksuttoman Azure-tilin** tunnukseen, saat maksuttoman kokeiluversion tilauksen, joka sisältää 200 $ Azure-saldoa 30 päivän ajan ja 12 kuukauden maksuttomat palvelut. Azure poistaa tilauksen käytöstä 30 päivän kuluttua. Tilauksesi on poistettu käytöstä, jotta et vahingossa peri maksuja tilaukseesi sisältyvien saldon ja maksuisten palvelujen lisäksi. Jos haluat jatkaa Azure-palvelujen käytön, [sinun on päivitettävä tilauksesi](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Päivityksen jälkeen tilauksesi voi edelleen käyttää ilmaisia palveluja 12 kuukauden ajan. Sinua veloitetaan vain käytöstä, joka ylittää maksuttomat palvelut ja määrät.  
+Lisätietoja: [Vanhentunut luottokortti](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**Meno raja saavutettu**
+**Käyttörajoitus saavutettu**
 
-Kun käyttö on saavuttanut meno rajan, Azure poistaa tila uksen käytöstä jäljellä olevalle laskutus jaksolle. Pakettiasi ei ole otettu käyttöön, joten sinulta ei vahingossa aiheudu veloitusta käyttö maksuista, jotka ylittävät pakettiisi sisältyvän saldon. Lisä tietoja käyttö rajan poistamisesta on kohdassa [Azure-käytön rajoitus](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Lisä tietoja: [käyttö rajan ylittynyt](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Kun käyttösi saavuttaa käyttörajoituksen, Azure poistaa tilauksesi käytöstä tämän laskutusjakson jäljellä olevalta jaksolta. Tilauksesi on poistettu käytöstä, jotta et vahingossa peri käyttömaksuja, jotka ylittävät tilaukseesi sisältyvän saldon. Jos haluat poistaa käyttörajoituksen, katso [Azuren rahankäyttörajoitus.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+Lisätietoja: [Käyttörajoituksen saavuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Erääntyneen laskujen määrä**
+**Erääntyneen laskun määräpäivä**
 
-Jos haluat korjata erääntyneen saldon, tutustu Ohje aiheeseen [Azure-tila uksen erääntyneen saldon ratkaiseminen sen jälkeen, kun sähkö posti on saatu Azuresta](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support).
+Lisätietoja erääntyneen maksettavan saldon ratkaisemisesta on kohdassa Azure-tilauksen erääntyneen saldon ratkaiseminen, [kun olet saanut sähköpostin Azuresta.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Laskutus ylittää luotto korttisi rajan**
+**Lasku ylittää luottokorttirajasi**
 
-Voit korjata ongelman siirtymällä toiseen [luotto korttiin](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Tai jos olet edustettuna yrityksessä, voit [vaihtaa maksu laskua käyttäen](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Voit ratkaista ongelman [vaihtamaan toiseen luottokorttiin.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support) Jos edustat yritystä, voit vaihtaa [laskulla maksettavaksi.](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Huomautus** : uusi tila uksen vuosi päivä (SA)-päivämäärä määritetään uudelleen käyttöönotettujen tilausten osalta. Niiden päivien määrä (aika väli), jolloin tilaus keskeytettiin, lisätään alkuperäiseen SA-päivä määrään. Mikä tahansa kahdeskymmenesyhdeksäs, kolmaskymmenes tai kolmaskymmenesensimmäinen päivä määrä on, jolloin SA-päivä määräksi määritetään seuraavan kuukauden ensimmäinen.  
-Esimerkiksi
+**Huomautus:** uusi Tilauspäivä (SA) -päivämäärä määritetään tilauksia varten, jotka on otettu uudelleen käyttöön. Päivien määrä (aikaväli), jonka aikana tilaus keskeytettiin, lisätään alkuperäiseen SA-päivämäärään. Jos vuosipäivä on 29. päivä, 30. tai 31. päivä, SA-päivämääräksi määritetään seuraavan kuukauden 1. päivä.  
+Esimerkki:
 
-- Alkuperäinen tilaus vuosi päivä on 25;
-- Tilaus keskeytettiin 10/3 ja otettiin uudelleen käyttöön 10/9;
-- Tilaus on poistettu käytöstä 6 päivän ajan (aika väli 6);
-- Aika väli lisätään alkuperäiseen SA-kohtaan, ja summasta tulee uusi SA-päivä määrä (25 + 6 = 31). 
+- Alkuperäinen tilauspäiväsi on 25. päivä;
+- Tilaus keskeytettiin 3.10. ja se on otettu uudelleen käyttöön 9.10.
+- Tilaus on poistettu käytöstä 6 päivän ajan (väli 6);
+- Väli lisätään alkuperäiseen SA:han, ja summasta tulee uusi SA-päivämäärä (25+6=31). 
 
-**Huomautus** : Tässä esimerkissä, koska SA-päivä määrä on nyt suurempi kuin 28, uusi SA-päivä määrä on seuraavan kuukauden ensimmäinen.
+**Huomautus:** Tässä esimerkissä sa-päivämäärä on nyt suurempi kuin 28, ja uusi SA-päivämäärä on seuraavan kuukauden ensimmäinen päivämäärä.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-- [Tila uksen vaihtaminen](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Tilauksen vaihtaminen](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Peruuta tilaus](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Azure Marketplacesta](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- Etsi [tilin järjestelmänvalvoja](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- [Mitä teen, jos Azure-paketani on poistettu käytöstä?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure-käyttö rajoitus](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
+- Tilin [järjestelmänvalvojan etsiminen](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Mitä teen, jos Azure-tilaukseni poistetaan käytöstä?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure-rahankäyttörajoitus](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

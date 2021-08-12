@@ -1,5 +1,5 @@
 ---
-title: 1815 suurentaa jaettujen posti laatikoiden kokoa
+title: 1815 Jaetun postilaatikon koon suurentaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912739"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Jaettujen posti laatikoiden koon kasvattaminen
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Jaetun postilaatikon koon suurentaminen
 
-Voit suurentaa jaetuksi posti laatikoksi 50 Giga tavun oletus kokoa 100 Giga tavuun määrittämällä jaetulle posti laatikolle Exchange Online P2-käyttö oikeuden (joka sisältyy E3-ja E5-käyttö oikeuksiin). Kun määrität P2-käyttö oikeuden jaetulle posti laatikolle [aktiivisille käyttäjille](https://portal.office.com/adminportal/home), koko lisätään automaattisesti 15 minuutin kuluessa.
+Voit suurentaa jaetun postilaatikon koon 50 Gigatavusta 100 Gigatavuun määrittämällä jaetulle postilaatikolle Exchange Online P2 -käyttöoikeuden (joka sisältyy E3- ja E5-käyttöoikeuksiin). Kun määrität P2-käyttöoikeuden jaetulle postilaatikolle [Aktiiviset](https://portal.office.com/adminportal/home)käyttäjät -kohdassa, kokoa nostetaan automaattisesti 15 minuutin kuluessa.

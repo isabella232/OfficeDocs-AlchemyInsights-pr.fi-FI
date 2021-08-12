@@ -1,5 +1,5 @@
 ---
-title: Tietoja tiedotukset-sähkö postista
+title: Tietoja lyhyestä sähköpostiviestistä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955855"
 ---
-# <a name="about-briefing-email"></a>Tietoja tiedotukset-sähkö postista
+# <a name="about-briefing-email"></a>Tietoja lyhyestä sähköpostiviestistä
 
-Lisä tietoja tiedotukset-kohdasta on artikkelissa [tiedotukset sähköpostitse yleiskatsaus](https://docs.microsoft.com/briefing/be-overview).  
+Lisätietoja lyhyestä viestistä on kohdassa Yleiskatsaus [sähköposteihin.](https://docs.microsoft.com/briefing/be-overview)  
 
-Tämä toiminto on parhaillaan käytössä, joten organisaatiosi ei ehkä saa tiedotus viestiä, vaikka olisit ottanut tiedotukset käyttöön. Huomaa myös, että käyttäjät eivät ole Taatusti saaneet tiedotukseen Sähkö posti viestejä joka päivä. Sähkö postit lähetetään vain silloin, kun käyttäjällä on vähintään yksi kyseiselle päivälle käytettävissä oleva ehdotus. Lisä tietoja on Ohje aiheessa [Sähkö posti viestin usein kysytyt kysymykset](https://docs.microsoft.com/briefing/be-faqs).
+Tämä toiminto on tällä hetkellä käytössä, joten organisaatiosi ei ehkä saa lyhyttä sähköpostiviestiä, vaikka olet ottanut Lyhyt kuvaus -toiminnon käyttöön. Huomaa myös, että käyttäjät eivät välttämättä saa joka päivä lyhyttä sähköpostiviestiä. Sähköpostiviestit lähetetään vain, jos käyttäjällä on vähintään yksi toimintoehdotus tätä päivää varten. Lisätietoja on kohdassa Lyhyt [kuvaus -sähköpostiviestin usein kysytyt kysymykset.](https://docs.microsoft.com/briefing/be-faqs)
