@@ -1,5 +1,5 @@
 ---
-title: 'Windows 10:n näppäimistöasetukset '
+title: 'Näppäimistöasetukset Windows 10 '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be7203521aa2acf2fcf667c26a2d996eca5f846d14cc6957c0fde6b82d887aa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925594"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Windows 10:n näppäimistöasetukset
+# <a name="keyboard-settings-in-windows-10"></a>Näppäimistöasetukset Windows 10
 
 **Tyyppiasetukset**
 
-Jos haluat muuttaa Windowsin oikeinkirjoituksen tarkistusta, automaattista korjausta, ehdotuksia ja muita laitteiston ja kosketusnäppäimistön asetuksia, siirry kohtaan Asetukset **> Laitteet > kirjoittaminen**. 
+Voit Windows oikeinkirjoituksen tarkistukseen, automaattiseen korjaukseen, ehdotuksiin ja muihin laitteiston ja kosketusnäppäimistöjen asetuksiin liittyviä asetuksia valitsemalla **Asetukset > Laitteet > kirjoittaminen**. 
 
 **Kieli- ja näppäimistöasetukset**
 
-Jos haluat muuttaa asetuksia, jotka liittyvät mihin näppäimistöön tai syöttötapaan Windows-kielessä, siirry kohtaan Asetukset **> Time & Language > Language**. Valitse kielet Ensisijaiset **kielet -luettelosta** ja **lisää** tai poista näppäimistöjä tai syöttötapoja valitsemalla Asetukset.
+Jos haluat muuttaa asetuksia, jotka liittyvät näppäimistöön tai syöttötapaan, jota käytetään Windows kielessä, siirry Asetukset > Time & Language > Language (Aika-> **kieli).** Valitse kielet Ensisijaiset **kielet -luettelosta** ja **lisää** tai poista näppäimistöjä tai syöttötapoja valitsemalla Asetukset.

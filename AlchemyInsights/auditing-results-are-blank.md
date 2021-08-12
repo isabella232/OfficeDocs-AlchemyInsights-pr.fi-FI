@@ -1,5 +1,5 @@
 ---
-title: Valvonta tulokset ovat tyhjiä
+title: Valvontatulokset ovat tyhjiä
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715234"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917708"
 ---
-# <a name="auditing-results-are-blank"></a>Valvonta tulokset ovat tyhjiä
+# <a name="auditing-results-are-blank"></a>Valvontatulokset ovat tyhjiä
 
- **Perinteisten kohteiden valvonta raportit**
+ **Valvontaraportit perinteiset sivustot**
   
-Jos haluat tarkastella SharePoint-sivustokokoelman valvonta raporttia, sinun on oltava sivustokokoelman järjestelmänvalvoja. Jos haluat lisätä itsesi järjestelmänvalvojana, Katso lisä tietoja artikkelista [sivustokokoelmien järjestelmänvalvojien lisääminen yleiseksi tai SharePoint-järjestelmänvalvojaksi](https://go.microsoft.com/fwlink/?linkid=869390). Lisä tietoja valvonta lokien käyttämisestä on Ohje aiheessa [valvonta loki raporttien tarkasteleminen](https://go.microsoft.com/fwlink/?linkid=395237). 
+Jos haluat tarkastella sivustokokoelman SharePoint, sinun on oltava sivustokokoelman järjestelmänvalvoja. Lisätietoja itsesi lisäämisen järjestelmänvalvojaksi on kohdassa [Sivustokokoelman järjestelmänvalvojien lisääminen yleiseksi tai SharePoint järjestelmänvalvojaksi.](https://go.microsoft.com/fwlink/?linkid=869390) Lisätietoja valvontalokin kanssa työskentelystä on kohdassa [Valvontalokiraporttien tarkasteleminen.](https://go.microsoft.com/fwlink/?linkid=395237) 
   
- **Valvonta lokista hakeminen**
+ **Haku valvontalokista**
   
-Sinun on oltava yleinen järjestelmänvalvoja, jotta voit käyttää valvonta lokia [tieto turva &amp; yhteensopivuus keskuksessa](https://protection.office.com). Ennen kuin aloitat, ota valvonta lokiin kirjaaminen käyttöön. Sen jälkeen voit suorittaa valvonta loki haun. 
+Sinun on oltava yleinen järjestelmänvalvoja, jotta voit käyttää tietoturvakeskuksen [ &amp; valvontalokia.](https://protection.office.com) Ennen kuin aloitat, ota valvontaloki käyttöön. Sen jälkeen voit suorittaa valvontalokihaun. 
   
-[Katso, miten voit tehdä hakuja valvonta lokista](https://go.microsoft.com/fwlink/?linkid=708432).
+[Lue, miten voit tehdä haun valvontalokista.](https://go.microsoft.com/fwlink/?linkid=708432)
   
 
