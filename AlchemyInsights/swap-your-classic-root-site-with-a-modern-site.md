@@ -1,5 +1,5 @@
 ---
-title: Perinteisen pääsivuston vaihtaminen modernilla sivustolla
+title: Perinteisen pääsivuston vaihtaminen nykyaikaisella sivustolla
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940816"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Perinteisen pääsivuston vaihtaminen modernilla sivustolla
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Perinteisen pääsivuston vaihtaminen nykyaikaisella sivustolla
 
-Jos ympäristösi on määritetty ennen huhtikuun 2019, voit vaihtaa pääsivuston moderniin sivustoon Microsoft PowerShellin avulla:
+Jos ympäristö on määritetty ennen huhtikuuta 2019, voit muuttaa pääsivuston nykyaikaiseksi sivustoksi Microsoft PowerShellin avulla:
 
-- Jos sinulla on jokin muu sivusto, jota haluat käyttää pääsivustona, voit vaihtaa [pääsivustoa](https://docs.microsoft.com/sharepoint/modern-root-site) sen kanssa. 
-    - Käytä [Invoke-SPOSiteSwap-](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) vaihto pistettä, jos haluat vaihtaa sivuston sijainnin toiseen sivustoon arkistoitaessa alkuperäistä sivustoa. Saatavilla sekä Ryhmäsivustolle (ei yhdistetty ryhmään) että Viestintäsivustoon. 
+- Jos haluat käyttää pääsivustona toista sivustoa, voit korvata [pääsivuston (vaihtaa) sen](https://docs.microsoft.com/sharepoint/modern-root-site) tilalle. 
+    - [Invoke-SPOSiteSwap-toiminnon](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) avulla voit vaihtaa sivuston sijainnin toiseen sivustoon samalla, kun arkistoit alkuperäistä sivustoa. Käytettävissä sekä ryhmäsivustolle (ei ole yhteydessä ryhmään) että viestintäsivustolle. 
 
-- Saat pian käyttöön lisä ominaisuuksia, joiden avulla voit jatkaa sivuston sisällön käyttöä, mutta muuntaa aiemmin luodun sivuston viestintä sivustoksi. 
+- Lisäominaisuudet otetaan käyttöön pian, jotta voit jatkaa sivuston sisällön käytön, mutta muuntaa nykyisen sivuston viestintäsivustoksi. 
 >[!Important]
->Nämä ominaisuudet otetaan käyttöön asteittain. Jatka Tarkista viesti keskus päivitysten varalta. 
+>Nämä ominaisuudet tulevat käyttöön vaiheittain. Jatka päivitysten tarkistamista viestikeskuksesta. 
 
-## <a name="known-issues-with-swapping-sites"></a>Sivuston vaihtamisen tunnetut ongelmat
+## <a name="known-issues-with-swapping-sites"></a>Tunnetut ongelmat sivustojen vaihtamisessa
 
-- Kohdesivusto voi palauttaa lyhyen ajan "not found" (HTTP 404)-virheen.
-- Sisältö on määritettävä uudelleen, jotta haku indeksiä voi päivittää. Manuaalista vaihetta ei tarvita-tämä tapahtuu automaattisesti.
-- Kaikki staattisista linkeistä riippuvat (kuten tiedostojen synkronointi ja OneNote-tiedostot) on korjattava manuaalisesti.
-- Jos lähdesivusto oli organisaation uutissivusto, Päivitä URL-osoite.Saat luettelon kaikista organisaation uutis sivuista.
-- Project Server-sivustot on ehkä vahvistettava sen varmistamiseksi, että ne liitetään edelleen oikein.
+- Kohdesivusto saattaa palauttaa "ei löydy" (HTTP 404) -virheen lyhyen aikaa.
+- Sisältö on päivitettävä uudelleen, jotta hakuindeksi voidaan päivittää. Manuaalista vaihetta ei tarvita – tämä tehdään automaattisesti.
+- Kaikki, mikä riippuu staattisista linkeistä (kuten tiedostojen synkronoinnista ja OneNote-tiedostoista), on korjattava manuaalisesti.
+- Jos lähdesivusto oli organisaation uutissivusto, päivitä URL-osoite. Hanki luettelo kaikista organisaation uutissivustoista.
+- Project Palvelinsivustot on ehkä vahvistettava, jotta ne voidaan liittää oikein.

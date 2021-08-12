@@ -1,5 +1,5 @@
 ---
-title: Ulkoinen jakaminen-toiminnon ottaminen käyttöön tai poistaminen käytöstä SharePoint-sivustossa
+title: Ulkoisen jakamisen käyttöön tai pois käytöstä SharePoint varten
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 63b94ccff3ed97a52ce8886f4fdce9d3fd1e4c83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5aabe52ce1a294b97b0e85fbf04c61456c87b240b40328febe1634aad1a17c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920356"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Ulkoinen jakaminen-toiminnon ottaminen käyttöön tai poistaminen käytöstä SharePoint-sivustossa
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Ulkoisen jakamisen käyttöön tai pois käytöstä SharePoint varten
 
-Sivusto:
+Sivuston:
   
-1. Valitse uusi SharePoint-hallinta keskus-kohdan vasemmanpuoleisessa ruudussa **sivustot**.
+1. Valitse SharePoint hallintakeskuksen vasemmanpuoleisessa **ruudussa Sivustot**.
     
-2. Valitse sivusto tai sivustot ja valitse sitten valinta nauhassa **jakaminen**.
+2. Valitse sivusto tai sivustot ja valitse sitten valintanauhassa **Jakaminen**.
     
-Oletusarvoisesti uudet sivustot, jotka käyttäjät luovat (sekä Microsoft 365-ryhmiin kuuluvat ryhmäsivustot että tieto liikenne sivustot), käyttävät samaa jakamis asetusta koko organisaation laajuista asetusta varten, ellei koko organisaation laajuinen asetus salli tiedostojen jakamista linkeillä, jotka eivät edellytä sisäänkirjautumista. Tässä tapa uksessa sivustot sallivat jakamisen uusilla ja olemassa oleville ulkoisille käyttäjille, jotka kirjautuvat sisään. Jos haluat muuttaa tiettyjen sivuston asetuksia, käytä uutta SharePoint-hallinta keskusta.
+Oletusarvoisesti uusilla sivustoilla, joita käyttäjät luovat (sekä Microsoft 365-ryhmiin että viestintäsivustoihin kuuluvilla ryhmäsivustoilla), on sama jakamisasetus kuin koko organisaatiolla, ellei koko organisaation laajuisessa asetus salli tiedostojen jakamista linkeissä, jotka eivät vaadi kirjautumista sisään. Tässä tapauksessa sivustot sallivat jakamisen uusien ja aiemmin luotujen ulkoisten käyttäjien kanssa, jotka kirjautuvat sisään. Jos haluat muuttaa tiettyjen sivustojen asetuksia, käytä uutta SharePoint hallintakeskusta.
   
 > [!NOTE]
-> Minkä tahansa sivuston ulkoinen jakamis asetus voi olla organisaatiolaajuista asetusta rajoittavampi, mutta ei koko organisaatiota leveää asetusta suurempi. 
+> Minkä tahansa sivuston ulkoisen jakamisen asetus voi olla rajoittavampi kuin koko organisaation laajuinen asetus, mutta enintään organisaation laajuinen asetus. 
   
 

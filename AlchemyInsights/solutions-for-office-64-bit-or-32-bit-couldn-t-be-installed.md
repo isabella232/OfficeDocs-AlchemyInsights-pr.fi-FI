@@ -1,5 +1,5 @@
 ---
-title: Officen (64-bit tai 32-bit) ratkaisuja ei voitu asentaa
+title: Ratkaisua "Office (64-bittinen tai 32-bittinen) ei voinut asentaa
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957241"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Officen (64-bit tai 32-bit) ratkaisuja ei voitu asentaa
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Ratkaisua "Office (64-bittinen tai 32-bittinen) ei voinut asentaa
 
-"Officea (64-bit tai 32-bit) ei voitu asentaa"-virhe ilmenee, koska Office ei voi sekoittaa 64-bittisiä ja 32-bittisiä versioita.
+"Office (64- tai 32-bittistä) ei voinut asentaa" -virhe ilmenee, koska et voi sekoittaa 64-bittisiä ja 32-bittisiä Office.
   
-Jos haluat korjata tämän virheen ja vaihtaa 32-bittisestä 64-bittiseen, sinun on tehtävä seuraavat toimet tässä järjestyksessä.
+Voit korjata tämän virheen ja vaihtaa 32-bittisen ja 64-bittisen tilan, kun teet seuraavat toimet tässä järjestyksessä.
   
 1. Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kun se avautuu, valitse **Poista Office-tuotteiden asennus** -kohdasta versio, jonka asennuksen haluat poistaa, ja valitse sitten **Seuraava**.
+1. Kun se avautuu, valitse **poista Office-tuotteista** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
 2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistyksen jälkeen tuki-ja palautus avustaja avautuu automaattisesti uudelleen asennuksen poistamisen jälkeen.
+    Uudelleenkäynnistyksen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistoprosessin viimeistelemiseksi.
 
-3. Seuraa jäljellä olevia kehotteita ja [Asenna Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) käyttäen oikeaa 32-tai 64-bittistä versiota.
+3. Noudata muita kehotteita ja [asenna Office](https://portal.office.com/OLS/MySoftware.aspx) uudelleen oikealla 32- tai 64-bittisllä versiolla.
 
-    Noudata artikkelissa [Officen asentaminen PC-tieto koneeseen](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) annettuja ohjeita
+    Noudata ohjeita, jotka [ovat Office asentaminen PC-tietokoneeseen](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Lisä tietoja on kohdassa [Office (64-bit tai 32-bit) ei voitu asentaa-virhe](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) asennettaessa
+Lisätietoja on kohdassa ["Office (64-bittistä tai 32-bittistä)](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) ei voinut asentaa" -virhe, kun yritetään asentaa
   

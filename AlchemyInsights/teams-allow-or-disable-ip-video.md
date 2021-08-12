@@ -1,5 +1,5 @@
 ---
-title: Teams sallii tai poistaa käytöstä IP-videon
+title: Teams IP-videon salliminen tai poistaminen käytöstä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad60225e5deee4a37831a3145d37916c9ce849f9f4cf475dce4c9a6210f83af9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940636"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Teams sallii tai poistaa käytöstä IP-videon
+# <a name="teams-allow-or-disable-ip-video"></a>Teams IP-videon salliminen tai poistaminen käytöstä
 
 **Kokouskäytännön muuttaminen tai luominen**
 
-Jos haluat muuttaa tai luoda kokouskäytännön, siirry **Microsoft Teams -hallintakeskukseen, jossa > kokouskäytäntöjä > kokouskäytäntöjä.** Valitse käytäntö luettelosta tai valitse **Lisää**. Jos luot uutta käytäntöä, kirjoita nimi ja kuvaus. Nimi ei voi sisältää erikoismerkkejä, ja sen pituus voi olla enintään 64 merkkiä. Valitse asetukset ja valitse sitten **Tallenna**.
+Jos haluat muuttaa tai luoda kokouskäytännön, siirry **Microsoft Teams hallintakeskukseen > kokouskäytäntöjen > hallintakeskuksessa.** Valitse käytäntö luettelosta tai valitse **Lisää**. Jos luot uutta käytäntöä, kirjoita nimi ja kuvaus. Nimi ei voi sisältää erikoismerkkejä, ja sen pituus voi olla enintään 64 merkkiä. Valitse asetukset ja valitse sitten **Tallenna**.
 
 Oletetaan esimerkiksi, että sinulla on useita käyttäjiä ja haluat rajoittaa kokousten edellytettävän kaistanleveyden määrää. Tällöin voit luoda uuden käytännön nimeltä Rajoitettu kaistanleveys ja ottaa pois käytöstä seuraavat asetukset:
 
@@ -40,4 +40,4 @@ Määritä sitten käytäntö käyttäjille.
 2. Valitse käyttäjä napsauttamalla käyttäjänimen vasemmalta puolelta ja valitse sitten **Muokkaa asetuksia**.
 3. Valitse **Kokouskäytäntö-kohdassa** käytäntö, jonka haluat määrittää, ja valitse sitten **Käytä**.
 
-Lisätietoja on kohdassa [Kokouskäytäntöjen hallinta Teamsissa.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+Lisätietoja on kohdassa [Kokouskäytäntöjen hallinta Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

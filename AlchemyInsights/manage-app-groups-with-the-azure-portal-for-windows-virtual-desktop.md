@@ -1,5 +1,5 @@
 ---
-title: Sovellus ryhmien hallinta Azure-portaalin avulla Windowsin Näennäistyöpöytä-sovelluksella
+title: Sovellusryhmien hallinta virtuaalityöpöydän Azure-Windows avulla
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912055"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Sovellus ryhmien hallinta Azure-portaalin avulla Windowsin Näennäistyöpöytä-sovelluksella
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Sovellusryhmien hallinta virtuaalityöpöydän Azure-Windows avulla
 
-Uuden Windows-Näennäistyöpöytäisäntään luodun oletus sovellus ryhmä julkaisee myös koko työpöydän. Azure-portaalin avulla voit myös luoda yhden tai useamman RemoteApp-sovellus ryhmän isäntä varantoon.
+Uudelle Virtuaalityöpöytä-isännöinnille luotu Windows myös julkaisee koko työpöydän. Azure-portaalin avulla voit lisäksi luoda yhden tai useamman RemoteApp-sovellusryhmän isäntä varannalle.
 
-Käyttöönotto prosessi toimii seuraavasti:
+Käyttöönottoprosessi toimii seuraavasti:
 
-1. Luo RemoteApp-sovellus ryhmä.
-2. Lisää valitut sovellukset sovellus ryhmään.
-3. Julkaise yksittäiset käyttäjät tai käyttäjä ryhmät sovellus ryhmälle.
-4. Rekisteröi sovellus ryhmä, jos päätät tehdä niin.
-5. Luo linkki Azure Resource Manageriisi määritysten mukaan, jotka voit ladata ja tallentaa.
+1. Luo RemoteApp-sovellusryhmä.
+2. Lisää valitut sovellukset sovellusryhmään.
+3. Julkaise yksittäisiä käyttäjiä tai käyttäjäryhmiä sovellusryhmään.
+4. Rekisteröi sovellusryhmä, jos päätät tehdä niin.
+5. Luo määritysten mukaisesti linkki Azure Resource Manager -malliin, jonka voit ladata ja tallentaa.
 
-Voit luoda Windowsin Näennäistyöpöytä [sovelluksen RemoteApp-ryhmän noudattamalla artikkelissa sovellus ryhmien hallinta Azure-portaalissa](https://go.microsoft.com/fwlink/?linkid=2129550)annettuja ohjeita.
+Jos haluat luoda RemoteApp-ryhmän Windows virtuaalityöpöydälle, noudata ohjeita ohjeessa [Sovellusryhmien hallinta Azure-portaalissa.](https://go.microsoft.com/fwlink/?linkid=2129550)

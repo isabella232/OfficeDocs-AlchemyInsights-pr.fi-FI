@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5780"
 - "9002971"
-ms.openlocfilehash: b691b9a5136c0307a739064a2b36407e349a720b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6e3566649b275a723c6c9423fd0400a12b1c6ae02e8e712eb0acc611720c72d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940708"
 ---
 # <a name="task-list"></a>Tehtäväluettelo
 
-SharePoint-tehtäväluettelo näyttää kokoelman tehtäviä, jotka kuuluvat projektiin. Kun olet luonut SharePoint-tehtäväluettelon, voit lisätä tehtäviä, varata resursseja tehtäviin, päivittää tehtävien edistymistä ja tarkastella aikajanalla näkyvien palkkien tehtävätietoja. Katso [Tehtäväluettelon luominen ja hallinta.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
+SharePoint luettelo näyttää kokoelman tehtäviä, jotka kuuluvat projektiin. Kun olet luonut SharePoint, voit lisätä tehtäviä, varata resursseja tehtäviin, päivittää tehtävien edistymistä ja tarkastella tehtävän tietoja aikajanalla näkyvissä janojen avulla. Katso [Tehtäväluettelon luominen ja hallinta.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
 
 -   Tehtäväluetteloa ei ole vielä suunniteltu näkymään nykyaikaisessa käyttöliittymässä, joten jatka perinteisen käyttökokemuksen käyttöä tehtäväluetteloissa. Lisätietoja on artikkelissa Modernien luetteloiden ja kirjastojen käytön [maksimoiminen.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
--   Synkronoi SharePointin kanssa -toiminnon avulla Projektipäällikkö voi jakaa .mpp-projektitiedoston Microsoft SharePoint -käyttäjien kanssa. Projektipäällikön on oltava osa SharePointin Omistajat-ryhmää (tai vähintään suunnittelijan käyttöoikeuksia) siinä pääsivustokokoelmassa, jossa uusi tai aiemmin luotu sivusto sijaitsee. Katso [synkronoiminen SharePoint-tehtäväluettelon kanssa Project Professionalista.](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)
+-   Synkronoi microsoftin SharePoint avulla Project -valvoja voi jakaa .mpp-projektitiedoston Microsoft SharePoint kanssa. Valvojan Project on oltava osa SharePoint Omistajat -ryhmää (tai vähintään suunnittelijan käyttöoikeuksia) pääsivustokokoelmassa, jossa uusi tai aiemmin luotu sivusto sijaitsee. Katso [synkronoiminen SharePoint avulla -Project Professional.](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)

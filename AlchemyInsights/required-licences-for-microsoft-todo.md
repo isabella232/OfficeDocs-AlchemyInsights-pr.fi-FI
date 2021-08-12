@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972974"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDon pakolliset käyttöoikeudet
 
@@ -31,9 +31,9 @@ Käyttäjällä on oltava jokin seuraavista käyttöoikeuksista, jotta hän voi 
 
 - Business Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 firstline F1
 
-- Mikä tahansa Office 365 Enterprise -suunnitelma
+- Mikä Office 365 Enterprise suunnitelma
 
 - Secure Productive Business
 
@@ -41,13 +41,13 @@ Käyttäjällä on oltava jokin seuraavista käyttöoikeuksista, jotta hän voi 
 
 - Secure Productive Enterprise E5
 
-- Mikä tahansa Office 365 Education -suunnitelma
+- Mikä Office 365 Education suunnitelma
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Kelvollisen tuotteen käyttöoikeuden lisäksi tarvitaan jokin seuraavista Exchange Online -versioista, jotta ToDo voi synkronoida käyttäjätiedot:
+Voimassa olevan tuotteen käyttöoikeuden lisäksi tarvitaan jokin seuraavista Exchange Online, jotta ToDo voi synkronoida käyttäjätiedot:
   
 - Exchange Online (palvelupaketti 1)
 
@@ -59,5 +59,5 @@ Kelvollisen tuotteen käyttöoikeuden lisäksi tarvitaan jokin seuraavista Excha
 
 - Exchange Online POP
 
-[Käyttöoikeuksien määrittäminen käyttäjätileille Office 365:n PowerShellin avulla](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Käyttöoikeuksien määrittäminen käyttäjätileille PowerShellin Office 365 avulla](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

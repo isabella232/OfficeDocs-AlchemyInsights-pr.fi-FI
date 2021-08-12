@@ -1,5 +1,5 @@
 ---
-title: Toimiiko Visio Mac-tieto koneessa
+title: Toimii Visio Mac-tietokoneessa
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: be1ebb680a99c1a91fa6c9a4272ec28786c87bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a6f8925d89582942c05596ea0431eee3fc71c9e8c15fdc555dbbeaa7790d976
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965206"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Toimiiko Visio Mac-tieto koneessa?
+# <a name="does-visio-work-on-a-mac"></a>Toimiiko Visio Macissa?
 
-Mac-laitteille ei ole Vision työpöytäversiota. Niin kauan kuin sovellusta tarvitsevaan käyttäjään on [liitetty Visio online-käyttö oikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), hän voi [tarkastella, luoda ja muokata kaavioita Visio Onlinessa](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) selaimessa.
+Mac-laitteille ei ole Vision työpöytäversiota. Jos kuitenkin sovellusta tarvitseville käyttäjille on määritetty [Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)-käyttöoikeus, hän voi tarkastella, luoda ja muokata [kaavioita Visio Onlinessa](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) selaimessa.
   
   

@@ -1,5 +1,5 @@
 ---
-title: Teksti ennusteiden poistaminen käytöstä
+title: Ennakoivan tekstinsyötön käytöstäottaminen
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920248"
 ---
-# <a name="turn-off-text-predictions"></a>Teksti ennusteiden poistaminen käytöstä
+# <a name="turn-off-text-predictions"></a>Ennakoivan tekstinsyötön käytöstäottaminen
 
-1. Valitse **asetukset > Näytä kaikki Outlook-asetukset > Sähkö posti > luo ja vastaa**.
-2. Valitse **tekstin ennusteet**-kohdassa **Ehdota sanoja lauseiksi** kirjoitettaessa.
+1. Valitse **Asetukset > näytä kaikki Outlook asetukset > Sähköposti-> luo ja vastaa**.
+2. Poista **Ennakoiva tekstin ennakointi**-kohdassa **Ehdota lauseita kirjoitettaessa -kohdan valinta.**
 
-Lisä tietoja on Ohje aiheessa [älykkään teknologian käyttäminen Outlookin verkko versiossa ja Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+Lisätietoja on kohdassa [Älykkään tekniikan käyttö Outlookin verkkoversio Outlook.comissa.](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)
