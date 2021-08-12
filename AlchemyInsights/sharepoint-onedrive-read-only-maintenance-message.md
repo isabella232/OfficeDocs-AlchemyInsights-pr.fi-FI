@@ -1,5 +1,5 @@
 ---
-title: Ylläpito viestin vain luku-tilassa, kun yrität käyttää SharePointia tai OneDrivea
+title: Read-Only ylläpitoa varten -sanoma, kun yrität käyttää SharePoint tai OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910543"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Ylläpito viestin vain luku-tilassa, kun yrität käyttää SharePointia tai OneDrivea
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only ylläpitoa varten -sanoma, kun yrität käyttää SharePoint tai OneDrive
 
-Käyttäjät voivat saada **vain luku-tilassa olevan ylläpito** viestin, kun he yrittävät käyttää SharePointia tai OneDrivea jossakin seuraavista tilanteista. 
+Käyttäjät voivat saada vain luku -tilan **ylläpitoa** varten -viestin, kun he yrittävät SharePoint tai OneDrive jossakin seuraavista skenaarioista. 
 
--   Suunniteltu tai aktiivinen huolto toiminto.  Tarkista ne siirtymällä [viesti keskukseen](https://portal.office.com/adminportal/home#/messagecenter).
--   Erittäin tärkeä, aktiivinen palvelu häiriö, joka saattaa olla käynnissä. Tarkista kaikki varoitukset/häiriöt siirtymällä kohtaan [palvelun kunto](https://portal.office.com/adminportal/home#/servicehealth).
--   Pieni automaattisen paranemisen palautus skenaario, joka voi johtua sellaisista palvelimista, jotka saattavat kestää alle 30 minuuttia. 
+-   Suunniteltu tai aktiivinen ylläpitotoiminta.  Tarkista ne siirtymällä [viestikeskukseen](https://portal.office.com/adminportal/home#/messagecenter).
+-   Suuren prioriteetin aktiivinen palveluhäiriö, joka voi itapahtua. Tarkista mahdolliset tiedotteet/tapaukset siirtymällä palvelun [kuntoon.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Pieni automaattisen palautuksen palautusskenaario, joka saattaa johtua odottamattomista tapahtumista palvelimissa, jotka voivat kestää alle 30 minuuttia tai niin edelleen. 
     
-    Näiden vähäisten palautuksista ei ole viesti keskusta tai palvelun kunnon viestejä, mutta sinun pitäisi palata normaaliin hyvin pian.
+    Näiden alaikäisten palauttamista varten ei ole viestikeskus- tai palvelun kuntojulkaisuja, mutta palaat pian takaisin normaaliin tapaan.
 
-Olemme havainneet, että yksi edellä mainituista kolmesta skenaarioista on ollut syynä ja että palvelu on palautettu, mutta käyttäjät-selaimen väli muistia ei ole selvitetty.
+Hyvin harvoin havaitsimme, että jokin edellä mainituista kolmesta skenaariosta on ollut syy, ja palvelu on palautettu, mutta käyttäjien selainvälimuistia ei ole poistettu.
 
-Yritä tyhjentää selaimen väli muisti ennen sivustoon siirtymistä.
+Yritä tyhjentää selaimen välimuisti, ennen kuin siirryt sivustoon.
 
-1. Valitse Microsoft Edge-selaimessa **Asetukset**ja valitse sitten **tieto suoja ja suojaus**.
-2. Valitse **Tyhjennä selaaminen**-kohdassa **Valitse, mitä haluat tyhjentää**.
-3. Valitse **eväs teet ja tallennetut sivuston tiedot**ja valitse **Tyhjennä**.
-
->[!Note] 
-> Nämä vaiheet voivat vaihdella, kun käytät muita selaimia, kuten Mozilla Firefoxia tai Google Chromea.
+1. Valitse Microsoft Edge-selaimessa **Asetukset** ja valitse sitten Tietosuoja **ja suojaus**.
+2. Valitse **Tyhjennä selaus**-kohdassa **Valitse, mitä haluat tyhjentää**.
+3. Valitse **Evästeet ja tallennetut sivustotiedot** ja valitse **Tyhjennä**.
 
 >[!Note] 
-> Toinen vaihto ehto on avata SharePoint-sivusto tai OneDrive uudessa InPrivate-ikkunassa.
+> Nämä vaiheet saattavat poiketa, kun käytät muita selaimia, kuten Mozilla Firefoxia tai Google Chromea.
+
+>[!Note] 
+> Toinen vaihtoehto on avata SharePoint tai OneDrive InPrivate-ikkunassa.

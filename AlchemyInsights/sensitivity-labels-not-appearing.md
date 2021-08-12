@@ -1,5 +1,5 @@
 ---
-title: Herkkyys Tunnisteet eivät ilmesity
+title: Luottamuksellisuusmerkinnät eivät näy
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 824824257fee4aaaab1f2dd32597b4cdc858d035fabd357af90cf054dd35c9c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061429"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Herkkyys Tunnisteet eivät ilmesity
+# <a name="sensitivity-labels-not-appearing"></a>Luottamuksellisuusmerkinnät eivät näy
 
-Herkkyys merkintöjen avulla voit luokitella ja suojata arkaluontoista sisältöä. Ne voidaan luoda Microsoft 365-yhteensopivuus keskuksessa, Microsoft 365-tieto turva keskuksessa tai Microsoft 365-tieto turva & yhteensopivuus keskuksessa luokittelu > herkkyys-selitteissä. Lisä tietoja tästä ominaisuudesta on artikkelissa [herkkyys merkkien yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Luottamuksellisuusotsikoiden avulla voit luokitella ja suojata luottamuksellista sisältöäsi. Ne voidaan luoda tietoturvakeskuksen Microsoft 365 -yhteensopivuuskeskus Microsoft 365 tietoturvakeskuksessa tai Microsoft 365 yhteensopivuuskeskuksen & kohdassa Luokitus- > luottamuksellisuusmerkinnät. Lisätietoja tästä ominaisuudesta on kohdassa [Luottamuksellisuusotsikoiden yleiskatsaus.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Jos olet määrittänyt luottamuksellisuustunnisteet, mutta ne eivät näy Microsoft 365-sovelluksissa, tarkista seuraavat asiat:
+Jos olet määrittänyt luottamuksellisuusmerkinnät, mutta ne eivät näy Microsoft 365 sovelluksissa, tarkista seuraavat asiat:
 
-- Varmista, että luottamuksellisuustarra on [julkaistu](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) käyttäjille ja ryhmille, jotka haluat määrittää.
+- Varmista, että luottamuksellisuusmerkintä [on julkaistu](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) haluamallasi käyttäjillä ja ryhmillä.
 
-- Varmista, että käyttäjä käyttää sovellusta, joka tukee herkkyys otsikoita-Katso [asia kirjan herkkyys otsikoita](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Varmista, että käyttäjä käyttää sovellusta, joka tukee luottamuksellisuus otsikoita – katso [luottamuksellisuusmerkinnät asiakirjassa.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
 
-- Jos olet [siirtämässä Azure-tieto turva-otsikoita](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ota huomioon [tässä](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)luetellut seikat.
+- Jos olet [muuttamassa Azure Information Protection -tunnisteita](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ota huomioon tässä luetellut [seikat.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- Tietojen menetyksen estämisen (DLP) tuki: tällä hetkellä DLP-käytäntöjen ehtona voidaan käyttää vain säilytys otsikoita.  DLP-käytäntöjen luottamuksellisuusmerkintöjen tuki ei ole vielä käytettävissä, mutta työskentelemme sen parissa.
+- Tietojen menetyksen estäminen (DLP) -tuki: Tällä hetkellä vain säilytysotsikoita voidaan käyttää ehtona DLP-käytännöistä.  DLP-käytännön luottamuksellisuusotsikoiden tuki ei ole vielä käytettävissä, mutta työskentelemme sen kanssa.
 
-- Kun salaus on otettu käyttöön luottamuksellisuustarrassa, voit valita jommankumman seuraavista:
-    - Määritä käyttö oikeudet nyt
-    - Salli käyttäjien määrittää käyttö oikeuksia
+- Kun salaus on otettu käyttöön luottamuksellisuusmerkinnässä, voit valita seuraavista:
+    - Käyttöoikeuksien määrittäminen nyt
+    - Käyttöoikeuksien määrittämisen salliminen käyttäjille
 
 
-Lisä tietoja mahdollisista ongelmista on kohdassa [arkaluonteisiin tunniste tietoihin liittyvät tunnetut ongelmat](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Lisätietoja mahdollisista ongelmista on kohdassa [Luottamuksellisuusotsikoiden tunnetut ongelmat](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

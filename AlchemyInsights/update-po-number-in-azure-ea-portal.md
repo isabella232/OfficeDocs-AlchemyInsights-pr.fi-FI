@@ -1,5 +1,5 @@
 ---
-title: TILAUS numeron päivittäminen Azure EA:N portaalissa-Suositellut vaiheet
+title: Ostotilausnumeron päivittäminen Azure EA -portaalissa – suositellut vaiheet
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007175"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>TILAUS numeron päivittäminen Azure EA:N portaalissa-Suositellut vaiheet
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Ostotilausnumeron päivittäminen Azure EA -portaalissa – suositellut vaiheet
 
-ALV-/vero tunnus-tai osto tilaus numeron muutokset tulevat voimaan seuraavassa laskussa. Jos haluat muuttaa ALV-/vero tunnuksen tai osto tilauksen numeron laskuksi, joka on jo luotu, avaa tuki pyyntö. Jos sinulla on alv/vero TUNNUKSEEN liittyviä ongelmia, ota yhteyttä Microsoftin käyttö oikeus kumppaneihisi (partneri tai ohjelmisto neuvoja). He voivat ottaa yhteyttä alueelliseen Operations Centeriin (ROC) koskien alv-/vero TUNNUSTASI koskevia kysymyksiä. 
+ALV-/TAX ID- tai ostotilausnumeron muutokset tulevat voimaan seuraavassa laskussa. Voit muuttaa ALV-/ALV-tunnuksen tai ostotilausnumeron jo luotuun laskuun avaamalla tukipyynnön. Jos sinulla on ALV-/TAX-tunnustasi liittyviä ongelmia, ota yhteyttä Microsoftin käyttöoikeuskumppaniin (kumppaniin tai ohjelmistoneuvojaan). He voivat ottaa yhteyttä Regional Operations Centeriin (ROC), jos heillä on kysyttävää ALV-/TAX-tunnuksestasi. 
 
-Azure EA-portaali luo automaattisesti oletusarvoisen PO-numeron, ellei EA:N järjestelmänvalvoja määritä sitä ennen laskun päivä määrää. EA:N järjestelmänvalvojana (suora rekisteröinti)/kumppani järjestelmänvalvojana (epäsuora rekisteröinti) voit päivittää PO-numeron Azure EA-portaalissa. Voit päivittää osto tilaus numeron milloin tahansa ennen kuluvan laskutus kauden aikana luotua laskua ja enintään seitsemän päivää laskun automaattisen lasku ilmoituksen vastaanottamisen jälkeen.    
+Azure EA -portaali luo automaattisesti oletusarvoisen ostotilausnumeron, ellei EA-järjestelmänvalvoja ole yhtä ennen laskun päivämäärää. EA-järjestelmänvalvojana (suora rekisteröinti) / kumppanin järjestelmänvalvojana (epäsuora rekisteröinti) voit päivittää ostotilausnumeron Azure EA -portaalissa. Voit päivittää ostotilausnumeron milloin tahansa ennen laskua, joka luodaan nykyiselle laskutusjaksolle, ja enintään seitsemän päivää automaattisen laskuilmoitussähköpostin vastaanottamisen jälkeen.    
 
-Osto tilaus numeron päivittäminen:
+Ostotilausnumeron päivittäminen:
 
-1. Kirjaudu sisään [EA-portaaliin](https://ea.azure.com/).
-1. Valitse vasemmanpuoleisessa ruudussa **raportit**.
-1. Valitse sivun ylälaidassa **käyttö Yhteenveto** ja valitse sitten avattavasta luettelosta haluamasi ajan kohta.
-1. Valitse **Näytä/Muokkaa osto tilaus numeroita**.
-1. Kirjoita uusi PO-numero ja valitse **Tallenna**.
+1. Kirjaudu [EA-portaaliin.](https://ea.azure.com/)
+1. Valitse vasemmanpuoleisessa ruudussa **Raportit**.
+1. Valitse sivun yläreunassa  Käyttöyhteenveto ja valitse sitten haluamasi ajanjakso avattavasta valikosta.
+1. Valitse **Näytä tai muokkaa ostotilausnumeroita**.
+1. Anna uusi ostotilausnumero ja valitse **Tallenna**.
 
-**Suositellut asia kirjat** 
+**Suositellut asiakirjat** 
 
-- [Azure Enterprise-rekisteröinti laskut](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Tietoja Azure Enterprise Agreement-laskusta](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Azure Enterprise-rooleja koskevia tietoja](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Toisen yrityksen järjestelmänvalvojan (EA-järjestelmänvalvoja) luominen](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Azure-yritysrekisteröintilaskut](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Azure-Enterprise Agreement -sopimus ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Azure Enterprise -roolien ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Toisen yrityksen järjestelmänvalvojan (EA-järjestelmänvalvojan) luominen](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
