@@ -1,5 +1,5 @@
 ---
-title: Lisätietoja Tietojen menetyksen estämisestä (DLP) Microsoft Edgessä
+title: Lisätietoja tietojen menetyksen estämisestä (DLP) Microsoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 818a1bbc0d6e386a69f38aeee12e5be805013d42
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9610093d3ca87d2ba1ed3544bd2911a2154bd7fafb616fd077b42d5cce6c49fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963244"
 ---
-# <a name="learn-about-data-loss-prevention-dlp-in-microsoft-edge"></a>Lisätietoja Tietojen menetyksen estämisestä (DLP) Microsoft Edgessä
+# <a name="learn-about-data-loss-prevention-dlp-in-microsoft-edge"></a>Lisätietoja tietojen menetyksen estämisestä (DLP) Microsoft Edge
 
 Etätyösäntä on kasvanut. Siksi mobiililaitteissa suoritetaan entistä enemmän työ- ja henkilökohtaisia toimintoja, arkaluonteisia tietoja jaetaan työpaikan ulkopuolelle ja paljon muuta henkilökohtaisten ja yrityslaitteiden välillä erilaisissa julkisissa ja yksityisissa verkoissa.
 
 Luottamukselliset yritystiedot sisältävät taloudellisia tietoja ja henkilötietoja, kuten luottokorttinumeroita, sosiaaliturvanumeroita ja terveystietoja. Jotta organisaatiot voivat noudattaa toimialan standardeja ja säädöksiä, niiden on suojattava luottamuksellisia tietoja ja estettävä niiden luvaton paljastuminen. DLP on tekniikkajärjestelmä, jonka avulla organisaatiot voivat suorittaa tämän tehtävän.
 
-Lisätietoja kahdesta Microsoft Edgen tukemasta DLP-ratkaisusta on Microsoft [Endpoint DLP:n](https://go.microsoft.com/fwlink/?linkid=2151765) ja [Windowsin tietojensuojauksen (WIP) ohjeissa.](https://go.microsoft.com/fwlink/?linkid=2151766)
+Lisätietoja kahdesta eri DLP-ratkaisusta, jotka ovat oletusarvoisesti tuettuja Microsoft Edge: [Microsoft Endpoint DLP](https://go.microsoft.com/fwlink/?linkid=2151765) [ja Windows Information Protection (WIP).](https://go.microsoft.com/fwlink/?linkid=2151766)

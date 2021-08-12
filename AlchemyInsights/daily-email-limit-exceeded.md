@@ -1,5 +1,5 @@
 ---
-title: Päivittäinen sähkö postin enimmäismäärä ylittyi. Työn kulku on odotus tilassa.
+title: Päivittäinen sähköpostirajoitus ylittyi. Työnkulku keskeytetään.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60ddbe68298e998a4e0b271a15209efc135c80638702c98dbcb3e0b2f1554860
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914648"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Päivittäinen sähkö postin enimmäismäärä ylittyi. Työn kulku on odotus tilassa.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Päivittäinen sähköpostirajoitus ylitetty. Työnkulku keskeytetään.
 
-Tämä virhe saattaa tulla näyttöön seuraavissa tilanteissa:
+Tämä virhe voi tulla näyttöön seuraavissa tilanteissa:
 
-- Sinulla on SharePoint Onlinen työn kulku, joka käyttää SharePoint 2010-tai SharePoint 2013-työn kulku ympäristön tyyppiä.
-- Työn kulku on määritetty lähettämään mukautettu Sähkö posti viesti useammalle kuin 200-käyttäjälle kerralla, yli 10 000 käyttäjää päivässä tai yli 30 viestiä minuutissa.
-- Kun suoritat työn kulun, sähkö posti viestiä ei lähetetä ja huomaat seuraavan ongelman:
-    - Jos käytät työn kulkua SharePoint 2013-ympäristö tyypin kanssa, Selaa **työn kulun tila** -sivulle. Työn kulun tila-sivulla **sisäinen tila** -asetuksena on **aloitettu**ja tieto kuplassa **ei voi lähettää vastaanottajille**.
+- SharePoint Onlinessa on työnkulku, joka käyttää SharePoint 2010- tai SharePoint 2013 -työnkulkuympäristön tyyppiä.
+- Työnkulku on määritetty lähettämään mukautettu sähköpostiviesti yli 200 käyttäjälle kerrallaan, yli 10 000 vastaanottajaa päivässä tai yli 30 viestiä minuutissa.
+- Kun suoritat työnkulun, viestiä ei lähetetä ja huomaat seuraavan toiminnan:
+    - Jos työnkulku käyttää SharePoint 2013 -käyttöympäristön tyyppiä, siirry Työnkulun tila **-sivulle.** Työnkulun tila -sivulla Sisäinen **tila -asetuksena** on Käynnistetty **ja** tietokuplassa näkyy teksti Ei voi lähettää **vastaanottajalle.**
 
-Voit kiertää tämän ongelman määrittämällä työn kulun lähettämään Sähkö posti viestejä ylittämättä [Exchange Online-lähettäjän rajoituksia](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Voit esimerkiksi käyttää keskeytystä työn kulussa, lähettää sähkö posti viestin Microsoft 365-ryhmään, jakeluun tai sähkö posti käyttöön, jossa on käytössä käyttö oikeus ryhmä, tai lähettää viestiä enintään 200 vastaanottajalla kerrallaan.
+Voit kiertää tämän ongelman määrittämällä työnkulun lähettämään sähköpostiviestejä [ylittämättä Exchange Online rajoja.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits) Käytä esimerkiksi taukoa työnkulussa, lähetä sähköpostiviesti Microsoft 365-ryhmälle, jakeluryhmälle tai sähköpostia käyttävälle käyttöoikeusryhmälle tai lähetä viesti alle 200 vastaanottajalle kerrallaan.
 
 
-Lisä tietoja on seuraavassa [artikkelissa](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
+Lisätietoja on seuraavassa [artikkelissa.](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)
 
 ## <a name="related-topics"></a>Aiheeseen liittyvät artikkelit
-- [Työn kulun luominen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Luo Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint ja Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

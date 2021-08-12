@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 6c8ad84123fb58b73b9c378592ce970997893ea2
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c62186fd346efd539b13cef9c80f5e797ebf80811a21db73f0f07fd86c080d55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939880"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Käyttö estettyjen viestien vianmääritys
 
-Jos joku sai Käyttö estetty -viestin jaettuun kansioon SharePointissa, sivustokokoelman järjestelmänvalvoja on saattanut ottaa käyttöön rajoitetun käytön käyttöoikeuksien lukittumistilan. Voit poistaa tämän käytöstä näin: 
+Jos joku on saanut "Käyttö estetty" -viestin jaettuun kansioon SharePoint, sivustokokoelman järjestelmänvalvoja on ehkä ottanut käyttöön rajoitetun käytön käyttöoikeuden lukittu tila -tilan. Voit poistaa tämän käytöstä näin: 
   
-1. Siirry sivustoon, napsauta Asetukset-kuvaketta ja valitse sitten **Sivuston asetukset.**
+1. Etsi sivusto selaamalla, napsauta Asetukset kuvaketta ja valitse **sivustosivuston Asetukset.**
     
-2. Valitse **Sivustokokoelman hallinta**-kohdassa **Sivustokokoelman ominaisuudet.**
+2. Valitse **Sivustokokoelman hallinta**-kohdassa **Sivustokokoelman ominaisuudet**.
     
-3. Valitse **Rajoitetun käyttöoikeuden lukittu tila -kohdan vierestä** Poista **aktivointi.**
+3. Valitse **Rajoitetun käytön käyttöoikeuden lukittu tila -kohdan vierestä** Poista **aktivointi**.
     
-Käyttö estetty -sanoma voi ilmetä myös jaetuissa kansioissa, jos sivusto on julkaisusivusto. Lisätietoja on ohjeaiheessa Käyttö estetty [käytettäessä jaettua kansiota.](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb)
+Käyttö estetty -sanoma voi ilmetä myös jaetuissa kansioissa, jos sivusto on julkaisusivusto. Lisätietoja on kohdassa [Käyttö estetty käytettäessä jaettua kansiota.](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb)
   
-Jos käyttäjä sai Käyttö estetty -viestin, kun hän yrittää tarkastella käyttöoikeuspyyntöjä, käyttäjä on lisättävä joko sivustokokoelman järjestelmänvalvojaksi tai sivuston Omistajat-ryhmän jäsen. Lisätietoja on kohdassa Käyttö estetty [pyyntöjen luettelossa.](https://go.microsoft.com/fwlink/?linkid=2004220)
+Jos käyttäjä saa Käyttö estetty -viestin, kun hän yrittää tarkastella käyttöoikeuspyyntöjä, käyttäjä on lisättävä joko sivustokokoelman järjestelmänvalvojaksi tai sivuston Omistajat-ryhmään. Lisätietoja on kohdassa [Käyttöoikeuspyyntöjen käyttö estetty -luettelo.](https://go.microsoft.com/fwlink/?linkid=2004220)
   
-Jos käyttäjä sai Käyttö estetty -viestin sen jälkeen, kun hänet on poistettu paikallisesta Active Directorysta ja lisätty takaisin, katso kohta Käyttö estetty, kun käyttäjätili on synkronoitu [Microsoft 365:lle.](https://go.microsoft.com/fwlink/?linkid=2004318)
+Jos käyttäjä sai Käyttö estetty -viestin sen jälkeen, kun hänet on poistettu paikallisesta Active Directorysta ja lisätty sitten takaisin, katso Käyttö estetty, kun käyttäjätili synkronoidaan [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2004318)
   
 

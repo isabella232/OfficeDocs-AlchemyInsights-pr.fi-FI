@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 924e195740e55c53b9605a9b9bd694a72cf9951006d1dc5e888023cd6e3f9d45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963820"
 ---
 # <a name="how-to-add-and-manage-admins"></a>Järjestelmänvalvojien lisääminen ja hallinta
 
-Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
+Ongelman kuvauksen perusteella olemme löytäneet sinulle ratkaisun. Useimmat asiakkaat pystyivät ratkaisemaan ongelmansa itse käyttöohjeiden jälkeen.
 
-Jos haluat hallita Microsoft-asiakas sopimusta (MCA), voit käyttää eri rooleja, joilla on haluttu käyttö oikeus taso. Nämä roolit ovat niiden sisäisten Azure-palvelu roolien lisäksi, joiden avulla voit hallita resurssejasi.
+Jos haluat hallita Microsoftin asiakassopimuksen (MCA) laskutustiliä, voit käyttää eri rooleja halutulla käyttöoikeustasolla. Nämä roolit ovat niiden Azuren valmiiden palveluroolien lisäksi, jotka auttavat hallitsemaan resurssejasi.
 
-**Voit lisätä laskutus rooleja Azure-portaalissa seuraavasti:**
+**Laskutusroolien lisääminen Azure-portaalissa:**
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-2. Hae *kustannusten hallinta + laskutus*.
-3. Valitse käytön hallinta (IAM) sellaisen käyttö alueen mukaan, kuten laskutus tili, laskutus profiili tai laskun osa, jossa haluat myöntää käyttö oikeuden.
-4. Käyttö oikeuksien hallinta-sivulla on lueteltu käyttäjät ja ryhmät, jotka on määritetty kullekin roolille kyseiselle alueelle.
-5. Jos haluat antaa käyttäjälle käyttö oikeuden, valitse **Lisää** sivun yläreunasta. Valitse rooli avattavasta *rooli* -luettelosta. Kirjoita sen käyttäjän Sähkö posti osoite, jolle haluat myöntää käyttö oikeuden. Määritä rooli valitsemalla **Tallenna** .
-6. Jos haluat poistaa käyttäjän käyttö oikeuden, valitse käyttäjä, jonka rooli määritystä haluat poistaa. Valitse **Poista**.
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/).
+2. Etsi *Kustannustenhallinta ja laskutus*.
+3. Valitse ohjausobjektin (IAM) laajuus, kuten laskutustili, laskutusprofiili tai laskuosio, johon haluat antaa käyttöoikeudet.
+4. Access control (IAM) -sivulla luetellaan käyttäjät ja ryhmät, jotka on määritetty kullekin roolille kullakin käyttöalueen roolilla.
+5. Jos haluat antaa käyttäjälle käyttöoikeudet, **valitse** sivun yläreunasta Lisää. Valitse *rooli* avattavasta Rooli-luettelosta. Kirjoita sen käyttäjän sähköpostiosoite, jolle haluat antaa käyttöoikeudet. Määritä rooli valitsemalla **Tallenna**.
+6. Jos haluat poistaa käyttäjän käyttöoikeudet, valitse käyttäjä, jonka roolimäärityksen haluat poistaa. Valitse **Poista**.
 
 **Suositellut asiakirjat**
 
-- [Laskutus rooli määritykset](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
-- [Laskutus tilin roolit ja tehtävät](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
-- [MCA-laskutus tilin käytön aloittaminen](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
-- [Microsoft-asiakas sopimuksen käytön tarkistaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Laskutusroolimääritykset](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Laskutustilin roolit ja tehtävät](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
+- [MCA-laskutustilin käytön aloittaminen](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
+- [Tarkista Microsoftin asiakassopimuksen käyttöoikeussopimus](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

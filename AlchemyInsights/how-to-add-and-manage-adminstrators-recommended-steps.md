@@ -1,5 +1,5 @@
 ---
-title: Järjestelmänvalvojien lisääminen ja hallinta – Suositellut vaiheet
+title: Järjestelmänvalvojien lisääminen ja hallinta – suositellut vaiheet
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963784"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Järjestelmänvalvojien lisääminen ja hallinta – Suositellut vaiheet
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Järjestelmänvalvojien lisääminen ja hallinta – suositellut vaiheet
 
-Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
+Ongelman kuvauksen perusteella olemme löytäneet sinulle ratkaisun. Useimmat asiakkaat pystyivät ratkaisemaan ongelmansa itse käyttöohjeiden jälkeen.
 
-**Tila uksen valvojan tai Yhteishallinnoijan muokkaaminen**
+**Tilauksen järjestelmänvalvojan tai rinnakkaisvalvojan muokkaaminen**
 
-- Tilin järjestelmänvalvoja voi muokata molempia rooleja, mutta tila uksen järjestelmänvalvoja voi muuttaa vain yhteisjärjestelmänvalvojia Azure- [portaalissa](https://ms.portal.azure.com/#home).
-- [Azure-tila uksen järjestelmänvalvojien lisääminen tai muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Tilin järjestelmänvalvoja voi muokata molempia rooleja, kun taas Tilauksen järjestelmänvalvoja voi muuttaa vain rinnakkais järjestelmänvalvojien asetuksia [Azure-portaalissa.](https://ms.portal.azure.com/#home)
+- [Azure-tilauksen järjestelmänvalvojien lisääminen tai muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Tila uksen valvojan tai sisäisten (OLEVINAAN) tilausten Co-Administrator päivittäminen**
+**Päivitä tilauksen järjestelmänvalvoja tai Co-Administrator (AIRS) -tilauksia varten**
 
-Palvelun hallinnoija tai Yhteishallinnoija voi itse palvella tätä toimintoa seuraavien vaiheiden avulla:
+Palvelun järjestelmänvalvoja tai yhteisvalvoja voi käyttää tätä toimintoa omatoimist assa seuraavasti:
 
-1. Kirjaudu sisään Azure- [portaaliin](https://ms.portal.azure.com/#home) ja valitse vasemman reunan **kustannusten hallinta + laskutus** .
-2. Napsauta tilaustasi koskevaa rivi kohdetta. Tämä avaa tila uksen yleiskatsauksen.
-3. Valitse **tila uksen** Blade-kohdassa **Ominaisuudet**. 
-4. Napsauta **palvelun järjestelmänvalvoja** -painiketta.
-5. Kirjoita sen käyttäjän Sähkö posti viesti, jonka haluat määrittää palvelun järjestelmänvalvojaksi, ja valitse **OK**.
+1. Kirjaudu Sisään [Azure-portaaliin ja](https://ms.portal.azure.com/#home) valitse **vasemmasta reunasta Kustannusten** hallinta + Laskutus.
+2. Napsauta tilausrivin kohdetta. Tämä avaa tilauksen yleiskatsauksen.
+3. Valitse **Tilaus-kohdassa** **Ominaisuudet**. 
+4. Napsauta Palvelun **järjestelmänvalvoja -painiketta.**
+5. Kirjoita sen käyttäjän sähköpostiosoite, jonka haluat määrittää palvelun järjestelmänvalvojaksi, ja valitse **OK.**
 
-**Yhteishallinnoijan lisääminen/muuttaminen tai poistaminen**
+**Rinnakkaisvalvojan lisääminen, muuttaminen tai poistaminen**
 
 1. Kirjaudu [Azure-portaaliin](https://ms.portal.azure.com/#home) palvelun järjestelmänvalvojana.
-2. Avaa [tila ukset](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja valitse tilaus. (Co-adminstrators voidaan määrittää vain tila uksen laajuus-kohdassa.)
-3. Siirtyminen **käyttö oikeuksien hallintaan (IAM)**  >  **perinteiset järjestelmänvalvojat**  >  **Lisää**  >  **yhteisjärjestelmänvalvoja** -ruudun avaaminen Lisää  yhteisjärjestelmänvalvojan valinta ruutu (jos lisää yhteisjärjestelmänvalvoja-vaihto ehto ei ole käytössä, se tarkoittaa, että sinulla ei ole käyttö oikeuksia).
+2. Avaa [Tilaukset](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja valitse tilaus. (Rinnakkaisvalvojat voidaan määrittää vain tilauksen laajuuden mukaan.)
+3. Siirry kohtaan **Access control (IAM)**  >  **classic**  >    >  administrators **Add Add co-administrator** (Lisää rinnakkaisomistaja) ja avaa Lisää toinen järjestelmänvalvoja **-ruutu** (Jos Lisää toinen järjestelmänvalvoja -vaihtoehto ei ole käytössä, se tarkoittaa, että sinulla ei ole käyttöoikeuksia).
 4. Valitse käyttäjä, jonka haluat lisätä, ja valitse **Lisää**.
 
 **Opi lisää:**
-- [Yhteishallinnoijan lisääminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Yhteishallinnoijan poistaminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Palvelun valvojan vaihtaminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Tilin valvojan tarkasteleminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Käytön hallinta RBAC-ja Azure-portaalin avulla](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Toisen järjestelmänvalvojan lisääminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Rinnakkaisen järjestelmänvalvojan poistaminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Palvelun järjestelmänvalvojan muuttaminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Tilin järjestelmänvalvojan tarkasteleminen](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Käytön hallinta RBAC:n ja Azure-portaalin avulla](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Käyttäjien lisääminen tai poistaminen Azure Active Directoryssa (AD)**
+**Käyttäjien lisääminen tai poistaminen Azure Active Directory (AD)**
 
-Voit lisätä uusia käyttäjiä tai poistaa olemassa olevia käyttäjiä Azure Active Directory (Azure AD)-organisaatiostasi:
+Voit lisätä uusia käyttäjiä tai poistaa aiemmin luotuja käyttäjiä Azure Active Directory (Azure AD) -organisaatiostasi:
 
-1. Jos haluat lisätä uuden käyttäjän, Kirjaudu [Azure-portaaliin](https://ms.portal.azure.com/#home) organisaation käyttäjä järjestelmänvalvojana.
-2. Valitse **Azure Active Directory**, valitse **käyttäjät** ja valitse sitten **Uusi käyttäjä**.
-3. Täytä tarvittavat tiedot **käyttäjä** -sivulla. Valitse **Luo**. Käyttäjä luodaan ja lisätään Azure AD-vuokraajaan.
+1. Jos haluat lisätä uuden käyttäjän, kirjaudu [Azure-portaaliin](https://ms.portal.azure.com/#home) organisaation käyttäjänä.
+2. Valitse **Azure Active Directory**, valitse **Käyttäjät** ja valitse sitten **Uusi käyttäjä**.
+3. Täytä **Käyttäjä-sivulla** tarvittavat tiedot. Valitse **Luo**. Käyttäjä luodaan ja lisätään Azure AD -vuokraajaan.
 
-Lisä **tietoja**:
+**Lisätietoja:**
 
 - [Uuden käyttäjän lisääminen](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Käyttäjän poistaminen](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Käyttäjän profiili tietojen lisääminen tai päivittäminen Azure Active Directorya käyttäen](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Käyttäjän profiilitietojen lisääminen tai päivittäminen Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-- [Mikä on roolipohjainen käytön hallinta (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Ymmärtämään eri rooleja Azuressa](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Järjestelmänvalvojaroolin käyttö oikeudet Azure Active Directoryssa](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Opetus ohjelma: käyttö oikeuksien myöntäminen käyttäjälle RBAC-ja Azure-portaalin avulla](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
-- [RBAC-vian määritys Azuressa](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Resurssien organisointi Azure Management Groupsin avulla](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Mikä on roolipohjainen access control (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
+- [Eri roolien ymmärtäminen Azuressa](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Järjestelmänvalvojan roolin käyttöoikeudet Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Opetusohjelma: Käyttöoikeuden myöntäminen käyttäjälle, joka käyttää RBAC-menetelmää ja Azure-portaalia](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [RBAC:n vianmääritys Azuressa](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
+- [Resurssien järjestäminen Azure-hallintaryhmien avulla](https://docs.microsoft.com/azure/governance/management-groups/overview)
 - [Azure-laskun kopion pyytäminen sähköpostitse](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Luotto-tai maksu kortin lisääminen, päivittäminen tai poistaminen Azuresta](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Tila uksen hallinta (Aktivoi uudelleen/Peruuta/Vaihda)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Luotto- tai debit-kortin lisääminen, päivittäminen tai poistaminen Azuresta](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Tilauksen hallinta (uudelleenaktivoiminen/peruuttaminen/vaihtaminen)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 
