@@ -1,5 +1,5 @@
 ---
-title: Sovelluksen rekisteröintiomistajan ongelmat
+title: Sovelluksen rekisteröinnin omistajan ongelmat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951130"
 ---
-# <a name="app-registration-owner-issues"></a>Sovelluksen rekisteröintiomistajan ongelmat
+# <a name="app-registration-owner-issues"></a>Sovelluksen rekisteröinnin omistajan ongelmat
 
-Seuraavassa on menetelmät, joilla voit lisätä päätoimitsijat sovellusrekisteröinnit omistajiksi:
+Seuraavassa on menetelmiä, joilla voit lisätä principals-määritteet omistajiksi sovellusten rekisteröintiä varten:
 
-- Azure AD PowerShell -moduulin käyttäminen –
+- Azure AD:n PowerShell-moduulin käyttäminen –
 
     `Connect-AzureAd`
 
@@ -33,11 +33,11 @@ Seuraavassa on menetelmät, joilla voit lisätä päätoimitsijat sovellusrekist
 - Azure CLI :n käyttäminen - `az ad app owner add`
 
     Viite: [az ad -sovelluksen omistaja](https://docs.microsoft.com/cli/azure/ad/app/owner)
-- MS Graphin käyttäminen -
+- MS-Graph -
 
     Viite: [Omistajan lisääminen – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-post-owners)
-- Azure AD -portaalin käyttäminen – Siirry [portal.azure.com](https://portal.azure.com/) > Azure Active Directoryyn > sovelluksen rekisteröintisovelluksen > Valitse > Omistajat > Lisää omistajia
+- Azure AD -portaalin käyttäminen – Siirry [portal.azure.com](https://portal.azure.com/) > Azure Active Directory > -sovelluksen rekisteröinti > Valitse sovellus > Omistajat > Lisää omistajia
 
-**Etkö voi tarkastella sovellusta sovelluksen rekisteröintien lavatta, vaikka olet sovelluksen omistaja?**
+**Etkö voi tarkastella sovellusta sovelluksen rekisteröinnin lavatta, vaikka olet sovelluksen omistaja?**
 
-Sovelluksen omistaja ei ole järjestelmänvalvojarooli. Jos Rajoita azure [AD -hallintaportaalin](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) käyttöä -asetus on käytössä, vain järjestelmänvalvoja voi tarkastella sovelluksia sovelluksen rekisteröintiportaalissa. Jotta omistaja voi tarkastella sovelluksia, joko poistaa tämän asetuksen käytöstä (Aseta asetukseksi EI) tai määrittää järjestelmänvalvojan roolin omistajalle vain tietyssä sovelluksessa. Tätä varten tarvitset kuitenkin Azure AD Premium P2 -käyttöoikeuden ja otat [Privileged Identity Managementin käyttöön.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+Sovelluksen omistaja ei ole järjestelmänvalvojarooli. Jos Rajoita [Azure AD -hallintaportaaliin](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) -asetus on käytössä, vain järjestelmänvalvoja voi tarkastella sovelluksia sovelluksen rekisteröintiportaalissa. Jotta omistaja voi tarkastella sovelluksia, poista tämä asetus käytöstä (Aseta asetukseksi EI) tai määritä omistajan järjestelmänvalvojan rooli vain tietylle sovellukselle. Tarvitset kuitenkin P2-Azure AD Premium ja käyttöoikeuksien [Privileged Identity Management.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)

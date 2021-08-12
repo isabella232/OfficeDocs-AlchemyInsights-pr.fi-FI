@@ -1,5 +1,5 @@
 ---
-title: Yleistä Advanced eDiscovery -haun ominaisuudesta
+title: Yleiskatsaus Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916160"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Yleistä Advanced eDiscovery -haun ominaisuudesta
+# <a name="overview-of-advanced-ediscovery"></a>Yleiskatsaus Advanced eDiscovery
 
-Advanced eDiscoveryn avulla voit analysoida rakenteettomia tietoja eDiscoveryn kustannusten pienentämiseksi. Voit käyttää tekstianalyysia, koneoppimista ja relevanssia / ennakoivaa koodausta. Seuraavassa on joitakin vinkkejä:
+Advanced eDiscoveryn avulla voit analysoida rakenteettomia tietoja eDiscoveryn kustannusten pienentämiseksi. Voit käyttää tekstianalyysia, koneoppimista ja relevanssia / ennakoivaa koodausta. Seuraavassa on joitain vinkkejä:
 
-- Advanced eDiscovery -ominaisuus edellyttää organisaatiosi E5-tilausta tai Office 365 E3 -tilausta, jossa on Advanced Compliance -lisäosa.
-- Jos haluat luoda uuden Advanced eDiscovery -tapauksen, siirry [tietoturva- &](https://go.microsoft.com/fwlink/p/?linkid=2077143) ja valitse **eDiscovery**  >  **Advanced eDiscovery.**
-- Lisätietoja on microsoft [365 Advanced eDiscoveryn yleiskatsauksessa.](https://go.microsoft.com/fwlink/?linkid=2101588)
-- Lisätietoja Advanced eDiscoveryn käyttöönottoon tarvittavista vaiheista on kohdassa [Microsoft 365 Advanced eDiscoveryn käyttöönotto.](https://go.microsoft.com/fwlink/?linkid=2122672)
+- Tämän Advanced eDiscovery edellyttää organisaatiosi E5-tilausta tai Advanced Compliance Office 365 E3 -lisäosalla varustettua Office 365 E3 tilausta.
+- Jos haluat luoda uuden Advanced eDiscovery, siirry [Tietoturva- &-yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143) ja valitse **eDiscovery-Advanced eDiscovery.**  >  
+- Lisätietoja on kohdassa Yleistä [Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101588)
+- Lisätietoja tietojen määrittäminen tarvittavista Advanced eDiscovery on kohdassa [Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)

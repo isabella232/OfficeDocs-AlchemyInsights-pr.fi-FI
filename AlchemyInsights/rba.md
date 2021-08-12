@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab0cc63ef12c675eeda8676fe129636ddb085c3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c185a606460b7b204d2f0ff11f6f77cb147c681feb6aa51401e1515ca8017a68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911119"
 ---
-# <a name="about-room-mailboxes"></a>Tietoja huone posti laatikoista
+# <a name="about-room-mailboxes"></a>Tietoja huoneen postilaatikoista
 
-Room-posti laatikko on resurssi posti laatikko, joka on määritetty fyysiseen sijaintiin, kuten kokous huoneeseen, auditorioon tai koulutus huoneeseen. Lisä tietoja Kokous tilan posti laatikoista on Ohje aiheessa [Kokous tilan posti laatikoiden luominen ja hallinta](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Kokoustilan postilaatikko on resurssipostilaatikko, joka on määritetty fyysiseen sijaintiin, kuten neuvotteluhuoneeseen, auditorioon tai koulutushuoneeseen. Lisätietoja huoneen postilaatikoista on kohdassa [Huonepostilaatikoiden luominen ja hallinta.](https://go.microsoft.com/fwlink/p/?linkid=717533)

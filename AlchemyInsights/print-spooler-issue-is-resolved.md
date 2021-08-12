@@ -1,5 +1,5 @@
 ---
-title: Tausta tulostuksen ongelma on ratkaistu
+title: Taustatulostusongelma on ratkaistu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 73ff86928c043dd41f49d456d30c2fcf7947bd4cb304d0456c634d4fa5808239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911335"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Tausta tulostuksen ongelma on ratkaistu
+# <a name="print-spooler-issue-is-resolved"></a>Taustatulostusongelma on ratkaistu
 
-Jos laitteeseesi on päivitetty Windows 10: n  **koonti versio 19041,329**, olet ehkä havainnut ongelman, jossa tietyt tulostimet eivät tulostu. Tausta tulostus saattaa virhe sanoman tai sulkeutuu odottamatta, kun tulostinta yritetään tulostaa, eikä tulosteesta tule tulostus virhettä. Tämä ongelma on ratkaistu käyttö järjestelmän koonti versio  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Jos laitteesi on päivitetty käyttöjärjestelmän Windows 10 **koontiversiolla 19041.329**, olet ehkä havainnut ongelman, jossa tiettyjen tulostimien tulostaminen ei onnistu.   Taustatulostus voi aiheuttaa virheen tai sulkeutua odottamatta, kun yrität tulostaa, eikä tuloste tule tulostimesta, jota ongelma koskee. Tämä ongelma on ratkaistu käyttöjärjestelmän koontiversiossa **19041.331**, [KB4567523.](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523)  
 
-**Meneillään oleva tutkimus**
+**Jatkuva tutkimus**
 
-Paikallisen tieto turva viranomaisen alijärjestelmän palvelu (LSASS)-tiedosto (**Isass.exe**) saattaa epäonnistua joissain laitteissa, joissa on virhe sanoma "kriittinen järjestelmä prosessi, C:\WINDOWS\system32\Isass.exe, tila koodi c0000008. Kone on nyt käynnistettävä uudelleen.  **Microsoft työskentelee ongelman ratkaisemiseksi ja antaa päivityksen tulevassa versiossa.**
+Paikallinen suojausmyöntäjän alijärjestelmän palvelutiedosto (LSASS)**(Isass.exe**) voi epäonnistua joissakin laitteissa, joissa on virhesanoma "Kriittinen järjestelmäprosessi, C:\WINDOWS\system32\Isass.exe epäonnistui, tilakoodi c0000008. Kone on nyt käynnistettävä uudelleen."  **Microsoft työskentelee ratkaisussa ja tarjoaa päivityksen tulevaan versioon.**
 
-Lisä tietoja on Windows 10: n  [versio 2004 tunne tuista ongelmista](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Lisätietoja on kohdassa Version [2004 Windows 10 tunnetut ongelmat.](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)

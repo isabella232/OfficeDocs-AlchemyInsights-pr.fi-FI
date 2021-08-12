@@ -1,5 +1,5 @@
 ---
-title: Kysymyksiä, jotka liittyvät Office 2019
+title: Office 2019:tä koskevat kysymykset
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911083"
 ---
-# <a name="about-office-2019"></a>Tietoja Office 2019
+# <a name="about-office-2019"></a>Tietoja Office 2019:stä
 
-Office 2019 on tarkoitettu asiakkaille, jotka eivät ole vielä valmiita pilvi palveluun tai joilla on erityistarpeita paikallisessa tai yhdistelmä ympäristön käytössä. Se sisältää mielekkään osajoukon ominaisuuksia, jotka on jo lisätty Microsoft 365: een kolmen viime vuoden aikana, mutta se ei ole osa Microsoft 365.
+Office 2019 on asiakkaille, jotka eivät vielä ole valmiita pilvipalveluun tai joilla on erityinen tarve paikalliseen tai yhdistelmäympäristön Office käyttöön. Se sisältää kuvaavan osan ominaisuuksista, jotka on jo lisätty Microsoft 365 kolmen viimeisen vuoden aikana, mutta se ei ole osa Microsoft 365.
   
-Microsoft 365-sovellukset for Enterprise, pilvipohjainen Office-versio, tarjoaa tehokkaimman ja turvallisin Office-käyttö kokemuksen. Se tarjoaa pääsyn palvelu pakettiin sen mukaan, mitä paikalliset versiot ovat ja saa uusia ominaisuuksien päivityksiä jatkuvasti.
+Microsoft 365 -sovellukset suuryrityksille, Office pilvipohjainen Office tarjoaa tehokkaimman ja turvallisimman Office käyttökokemuksen. Se tarjoaa pääsyn palveluihin, jotka eivät kuulu paikallisiin versioihin, ja vastaanottaa uusia ominaisuuspäivityksiä jatkuvasti.
   
-Jos sinulla on Office-työpöytä sovellukset osana Microsoft 365-tilaustasi, käytössäsi on jo uusin Office-versio.
+Jos sinulla on Office -työpöytäsovellukset osana Microsoft 365 sinulla on jo uusin Office.
   
 Lisätietoja on seuraavissa artikkeleissa:
   
-[Office 2019-mainos Windowsille ja Macille usein kysytyt kysymykset](https://support.microsoft.com/help/4133312)
+[Office 2019 Commercial for Windows macin usein kysytyt kysymykset](https://support.microsoft.com/help/4133312)
   
-[Office 2019-version pääversio numero on 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Office 2019:n pääversionumero on 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Vuosi merkintä Office 2016-ja Microsoft 365-asiakas sovelluksissa poistetaan Käynnistä-valikon kohteista](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Vuosimerkintä Office 2016:ssa Microsoft 365 asiakassovelluksissa poistetaan aloitusvalikko merkinnöistä](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

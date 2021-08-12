@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directoryn määrittäminen
+title: Määritä Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958186"
 ---
-# <a name="set-up-azure-active-directory"></a>Azure Active Directoryn määrittäminen
+# <a name="set-up-azure-active-directory"></a>Määritä Azure Active Directory
 
-[Azure AD-määritys oppaassa](https://go.microsoft.com/fwlink/?linkid=2134390) on tietoja, joilla varmistetaan, että organisaatiollasi on vahva tieto turva säätiö. Tässä oppaassa määritetään aloitus ominaisuudet, kuten Azure-roolipohjainen käytön hallinta (Azure RTBAC) järjestelmänvalvojille, paikallisen hakemiston Azure AD Connect ja Azure AD Connect Health, joten voit valvoa yhdistelmä-identeettiesi kuntoa automatisoitujen synkronointi toimintojen aikana.
+[Azure AD:n määritysoppaassa](https://go.microsoft.com/fwlink/?linkid=2134390) on tietoja, jotka varmistavat, että organisaatiollasi on vahva tietoturvan perusta. Tässä oppaassa määritetään alustavia ominaisuuksia, kuten Azuren roolipohjainen access control (Azure RBAC) järjestelmänvalvojille, Azure AD Näyttöyhteys paikallisessa hakemistossa ja Azure AD Näyttöyhteys Health, jotta voit valvoa yhdistelmäkäyttäjätietojen kuntoa automaattisten synkronointien aikana.
 
-Se sisältää myös olennaisia tietoja omatoimisen Sala sanan nollaamisesta, ehdollisen käyttö oikeuden ja integroidun kolmannen osapuolen kirjautumisen käyttöönotosta, mukaan lukien valinnaiset tunniste tietojen lisä suojaus-ja käyttäjä varausten automatisoinnin.
+Se sisältää myös olennaista tietoa omatoimisen salasanan vaihtamisen, ehdollisen käyttöoikeuden ja integroidun kolmannen osapuolen kirjautumisen käyttöön ottamalla käyttöön valinnaisen kehittyneen käyttäjätietojen suojauksen ja käyttäjien valmistelun automaation.

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932094"
 ---
 # <a name="api-permissions-and-consent"></a>Ohjelmointirajapinnan käyttöoikeudet ja suostumus
 
-Microsoftin tunnistetietoympäristöön integroivat sovellukset noudattavat valtuutusmallia, jonka avulla käyttäjät ja järjestelmänvalvojat voivat hallita, miten tietoja voidaan käyttää. Valtuutusmallin käyttöönotto on päivitetty Microsoftin tunnistetietoympäristön päätepisteeseen. Se muuttaa tapaa, jolla sovelluksen on oltava vuorovaikutuksessa Microsoftin käyttäjätietoympäristön kanssa. [Käyttöoikeudet ja suostumus Microsoftin](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) käyttäjätietoympäristön päätepisteissä kattavat tämän valtuutusmallin peruskäsitteet, mukaan lukien laajuus, käyttöoikeudet ja suostumus.
+Sovellukset, jotka integroituvat Microsoftin käyttäjätietoympäristö seuraavat valtuutusmallia, jonka avulla käyttäjät ja järjestelmänvalvojat voivat hallita sitä, miten tietoja voidaan käyttää. Valtuutusmallin käyttöönotto on päivitetty Microsoftin käyttäjätietoympäristö päätepisteeseen. Se muuttaa tapaa, jolla sovelluksen on oltava vuorovaikutuksessa Microsoftin käyttäjätietoympäristö. [Käyttöoikeus- ja Microsoftin käyttäjätietoympäristö päätepiste](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) sisältää tämän valtuutusmallin peruskäsitteet, kuten laajuudet, käyttöoikeudet ja suostumuksen.
 
-[Azure Active Directoryn (Azure AD) suostumuskehys](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) helpottaa usean vuokraajan verkko- ja alkuperäissovellusten kehittämistä. Nämä sovellukset sallivat kirjautumisen azure AD -vuokraajan käyttäjätileillä, jotka ovat eri asia kuin se, johon sovellus on rekisteröity. Heidän on ehkä myös päästä käyttämään verkkorajapintojen, kuten Microsoft Graphin ohjelmointirajapintaa (Azure AD:n, Intunen ja palveluiden käyttäminen Microsoft 365:ssä) ja muiden Microsoft-palveluiden ohjelmointirajapintojen lisäksi omia verkkorajapintojen lisäksi.
+Azure Active Directory [(Azure AD) -suostumuskehys](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) helpottaa usean vuokraajan verkkosovellusten ja alkuperäisten asiakassovellusten kehittämistä. Nämä sovellukset sallivat kirjautumisen Azure AD -vuokraajan käyttäjätileillä, jotka ovat eri asia kuin sovelluksen rekisteröinti. Niiden on ehkä myös pääsy verkkorajapintojen, kuten Microsoft Graph -ohjelmointirajapinnan (Azure AD:n, Intunen ja Microsoft 365:n palvelujen) ja muiden Microsoft-palvelut:n ohjelmointirajapintojen, käyttöön omien verkkorajapintojen lisäksi.
 

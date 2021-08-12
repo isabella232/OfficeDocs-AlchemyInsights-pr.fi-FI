@@ -1,5 +1,5 @@
 ---
-title: 500-sovelluksen Sala sanat
+title: 500 sovelluksen salasanat
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931950"
 ---
-# <a name="app-passwords"></a>Sovelluksen Sala sanat
+# <a name="app-passwords"></a>Sovelluksen salasanat
 
-Sovelluksen sala sana on koodi, joka antaa sovellukselle tai laitteelle oikeuden käyttää Microsoftin työpaikan tai oppi laitoksen tiliä. Jos tilisi edellyttää monimenetelmäistä todennusta (MFA) ja sovellus muodostaa yhteyden tiliisi, sinun on luotava sovelluksen sala sana, jotta sovellus voi muodostaa yhteyden Microsoftiin. Esimerkiksi Outlook 2016 ja Outlookin aiempien versioiden Outlook vaatii sovelluksen Sala sanan.
+Sovellussalasana on koodi, joka antaa sovellukselle tai laitteelle oikeuden käyttää Microsoftin työ- tai koulutiliä. Jos tilisi edellyttää monimenetelmäistä todentamista (MFA) ja sovellus muodostaa yhteyden tiliisi, sinun on luotava sovellussalasana, jotta sovellus voi muodostaa yhteyden Microsoftiin. Esimerkiksi Outlook 2016 ja aiemmat Outlook edellyttävät sovellussalasanaa.
 
- **Huomautus**: ennen kuin kokeilet seuraavia vaiheita, tarkista Microsoft 365-järjestelmänvalvojaltasi, että tilillesi on annettava mfa. Jos näin ei ole, ohjeissa kuvatut asetukset eivät ole käytettävissä.
+ **Huomautus:** Ennen kuin kokeilet seuraavia vaiheita, varmista Microsoft 365 järjestelmänvalvojalta, että MFA tarvitaan tiliisi. Jos näin ei ole, vaiheissa kuvatut asetukset eivät ole käytettävissä.
 
-1. Kirjaudu sisään työpaikan tai oppi laitoksen tilillä ja Sala sanalla.
+1. Kirjaudu sisään työ- tai koulutililläsi ja salasanallasi.
 
-2. Valitse **Määritä se nyt**.
+2. Valitse **Määritä nyt**.
 
-3. Valitse todentamis menetelmä ja noudata kehotteita.
+3. Valitse todennusmenetelmä ja noudata ohjeita.
 
-4. Kun olet vahvistanut vaihtoehtoisen yhteyden Otto tavan, valitse **Seuraava**.
+4. Kun olet vahvistanut vaihtoehtoisen yhteydenottomenetelmän, valitse **Seuraava**.
 
-5. Saat sovelluksen Sala sanan, jota voit käyttää Outlookissa, Apple Mailissa ja muissa sovelluksissa, jotka edellyttävät sitä. Valitse **Kopioi** , jos haluat kopioida Sala sanan, jotta voit liittää sen muualle (sinun ei tarvitse muistaa sitä).
+5. Saat sovellussalasanan, jota voit käyttää Outlook, Apple Mailin ja muiden sitä edellyvien sovellusten kanssa. Valitse **Kopioi,** jos haluat kopioida salasanan, jotta voit liittää sen muualle (sinun ei tarvitse muistaa sitä).
