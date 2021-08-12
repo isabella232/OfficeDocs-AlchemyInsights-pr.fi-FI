@@ -1,5 +1,5 @@
 ---
-title: Osto tilaus numeron lisääminen tai päivittäminen-aiemmat WD-Suositellut vaiheet
+title: Lisää tai päivitä ostotilausnumero – vanha WD – suositellut vaiheet
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953866"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Osto tilaus numeron lisääminen tai päivittäminen-aiemmat WD-Suositellut vaiheet
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Lisää tai päivitä ostotilausnumero – vanha WD – suositellut vaiheet
 
-Osto tilaus numeron lisäämistä tuetaan vain asiakkailta, jotka [maksavat laskulla](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) šekillä tai pankki siirrolla. Osto tilaus numeron päivitys Ohjeet määräytyvät [laskutus tilin tyypin](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)mukaan.
+Ostotilausnumeron lisäämistä tuetaan vain asiakkaille, jotka maksavat laskulla [sekillä](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) tai tilisiirrolla. Ostotilausnumeron päivitysohjeet määräytyvät [laskutustilityypin mukaan.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Sinulla on oltava [tilin järjestelmänvalvojan](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) rooli, jotta voit muokata PO-numeroa.
+Sinulla on oltava tilin [järjestelmänvalvojan rooli,](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) jotta voit muokata ostotilausnumeroa.
 
-1. Valitse tilaus tila ukset- [sivulla](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
-2. Valitse vasemmalla puolella **Maksu tavat** .
-3. Valitse **Maksu tavat** -taulukosta **lasku**. 
-4. Kirjoita uusi PO-numerosi ja valitse sitten **Tallenna**.
+1. Valitse tilauksesi [Tilaukset-sivulta](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
+2. Valitse **Maksutavat** vasemmalla puolella.
+3. Valitse **Maksutavat-taulukosta** **Lasku**. 
+4. Kirjoita uusi ostotilausnumerosi ja valitse **tallenna**.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-- [Tukemat maat/alueet ja valuutat](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Maksu tapa laskulla](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Azure-laskutus tilin yhteys tietojen hallinta](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Tuetut maat/alueet ja valuutat](https://azure.microsoft.com/en-us/pricing/faq/) 
+- [Maksaminen laskulla](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Azure-laskutustilin yhteystietojen hallinta](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 

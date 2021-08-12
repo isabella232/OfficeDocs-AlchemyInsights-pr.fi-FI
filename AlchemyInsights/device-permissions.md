@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50713712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913964"
 ---
 # <a name="device-permissions"></a>Laitteen käyttöoikeudet
 
-Jos haluat hallita Windows-laitetta, sinun on oltava paikallisten järjestelmänvalvojien ryhmän jäsen. Azure AD päivittää tämän ryhmän jäsenyyden laitteessa osana Azure Active Directory (Azure AD) -liittymisprosessia. Voit mukauttaa jäsenyyspäivitystä yrityksesi vaatimusten mukaisesti. Jäsenyyspäivityksestä on esimerkiksi hyötyä, jos haluat, että tukipalvelun henkilökunta voi suorittaa tehtäviä, jotka vaativat järjestelmänvalvojan oikeudet laitteessa.
+Jos haluat Windows hallintalaitetta, sinun on oltava paikallisen järjestelmänvalvojaryhmän jäsen. Azure AD Azure Active Directory (Azure AD) -liittymisprosessin osana tämän ryhmän jäsenyyden laitteessa. Voit mukauttaa jäsenpäivitystä yrityksesi vaatimusten mukaisesti. Jäsenyyden päivityksestä on esimerkiksi hyötyä, jos haluat, että tukipalvelun henkilökunta voi suorittaa tehtäviä, jotka vaativat järjestelmänvalvojan oikeudet laitteessa.
 
-Lisätietoja paikallisten järjestelmänvalvojien jäsenyyspäivityksen toiminnasta ja sen mukauttamisesta Azure AD -liitoksen aikana on kohdassa Paikallisten [järjestelmänvalvojien määrittäminen laitteisiin.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Tämän artikkelin sisältö ei koske Azure AD-yhdistelmäympäristöön liitettyjä laitteita.
+Lisätietoja paikallisen järjestelmänvalvojan jäsenpäivitysten toiminnasta ja mukauttamisesta Azure AD Joinin aikana on kohdassa Paikallisten [järjestelmänvalvojien määrittäminen laitteisiin.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Tämän artikkelin sisältö ei koske Azure AD:n yhdistelmäympäristöön liitettyjä laitteita.

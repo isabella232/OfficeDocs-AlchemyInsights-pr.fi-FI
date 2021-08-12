@@ -1,5 +1,5 @@
 ---
-title: Profiili tietojen lisääminen tai päivittäminen-aiemmat WD-Suositellut vaiheet
+title: Profiilitietojen lisääminen tai päivittäminen – legacy WD – suositellut vaiheet
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,50 +13,50 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: a3cbf78949c7e22d537f54c2498133277a6cb5d6
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 9f83ca6145219c7ebee94315b177a6922391f526514fbf2c846f9a26a44228ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953830"
 ---
-# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Profiili tietojen lisääminen tai päivittäminen-aiemmat WD-Suositellut vaiheet
+# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Profiilitietojen lisääminen tai päivittäminen – legacy WD – suositellut vaiheet
 
-**Azure-laskutus tilin yhteys tietojen muuttaminen**
+**Azure-laskutustilin yhteystietojen muuttaminen**
 
-Laskutus **Osoite**: laskutus osoite on sen organisaation tai henkilön osoite ja yhteys tiedot, joka on vastuussa laskutustilille luotujen laskujen maksamisesta. Jos kyseessä on [Microsoft Online-palvelu ohjelman (MOSP) laskutus tili](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address), käytettävissä on yksi laskutus osoite, joka näkyy kaikissa tilille luoduissa laskuissa.
+**Laskutusosoite:** Laskutusosoite on organisaation tai henkilön osoite ja yhteystiedot, jotka vastaavat laskutustilille luotujen laskujen maksamisesta. Microsoft [Online Service Program (MOSP)](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)-ohjelman laskutustilillä on yksi laskutusosoite, joka näkyy kaikissa tilille luoduissa laskuissa.
 
-**Yhteys henkilön Sähkö posti osoite palvelu-ja markkinointi sähkö posteihin**: voit [määrittää](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) Sähkö posti osoitteen, joka poikkeaa Sähkö posti osoitteesta, jonka avulla kirja udut sisään, jotta saat tärkeät laskutukseen liittyvät, palveluun liittyvät ja suositukseen liittyvät ilmoitukset Azure-tililtäsi. Palvelu ilmoitusten sähkö postit, kuten kiireelliset tieto turva ongelmat, hinnan muutokset tai tilin käyttöön liittyvien palveluiden muutokset, lähetetään aina kirjautumisosoitteeseesi.
+**Yhteystiedon** sähköpostiosoite palvelu- ja markkinointisähköposteja varten: Voit määrittää sähköpostiosoitteen, joka poikkeaa siitä sähköpostiosoittuksesta, jolla kirjaudut sisään, saadaksesi tärkeitä laskutukseen liittyviä, palveluun liittyviä ja suosituksia koskevat ilmoitukset Azure-tilistäsi. [](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) Palveluilmoitussähköpostit, kuten kiireelliset suojausongelmat, hintamuutokset tai tilin käytössä olevista palveluista tehdyt muutokset, lähetetään aina kirjautumisosoitteeseesi.
 
-Jos haluat päivittää MOSP-laskutus tilin osoitteen, suorita seuraavat vaiheet:
-1. Kirjaudu sisään Azure-portaaliin käyttämällä Sähkö posti osoitetta, jolla on tilin ylläpitäjän oikeudet tilillä.
-2. Hae ja valitse **kustannusten hallinta + laskutus**. 
-3. Valitse **Ominaisuudet** vasemmalta puolelta. 
-4. Päivitä myydyt ja laskutus osoitteet valitsemalla **Päivitä laskutus osoite** . Kirjoita uusi osoite ja valitse sitten **Tallenna**.
+Päivitä MOSP-laskutustilin osoite seuraavasti:
+1. Kirjaudu Azure-portaaliin käyttämällä sähköpostiosoitetta, jolla on tilin järjestelmänvalvojan oikeudet.
+2. Etsi ja valitse **Kustannusten hallinta + Laskutus.** 
+3. Valitse **Ominaisuudet** vasemmalta. 
+4. Päivitä **myyty osoite** ja laskutusosoitteet valitsemalla Päivitä laskutusosoite. Kirjoita uusi osoite ja valitse **Sitten Tallenna**.
 
-**Yhteys henkilön Sähkö posti osoitteen muuttaminen** 
+**Yhteyshenkilön sähköpostiosoitteen muuttaminen** 
 
-Jos haluat muuttaa yhteys henkilön Sähkö posti osoitetta, tee seuraavat toimet:
-1. Jos olet MOSP-tilin järjestelmänvalvoja, noudata ohjeita kohdassa [Päivitä MOSP-laskutus tilin osoite](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) ja valitse sitten viimeisessä vaiheessa **Päivitä yhteys** tiedot. 
-2. Kirjoita uusi Sähkö posti osoite. 
-3. Siirry Azure-portaalin [yhteys tieto](https://ms.portal.azure.com/) ruutuun ja anna uusi Sähkö posti osoite. 
-4. Napsauta nimikirjaimesi tai kuvasi vieressä olevaa kuvaketta. 
-5. Valitse **pikavalikko (...) > omat yhteys tiedot** ja anna uusi Sähkö posti osoite.
+Voit muuttaa yhteyshenkilön sähköpostiosoitetta seuraavasti:
+1. Jos olet MOSP-tilin järjestelmänvalvoja, noudata ohjeita kohdassa [MOSP-laskutustilin](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) osoitteen  päivittäminen ja valitse viimeisessä vaiheessa Päivitä yhteystiedot. 
+2. Kirjoita uusi sähköpostiosoite. 
+3. Siirry [Yhteystiedot-ruutuun](https://ms.portal.azure.com/) Azure-portaalissa ja kirjoita uusi sähköpostiosoite. 
+4. Napsauta kuvaketta, jossa on nimikirjaimet tai kuva. 
+5. Valitse **pikavalikko (...) > omat yhteystiedot** ja kirjoita uusi sähköpostiosoite.
 
-**Profiili tietojen lisääminen tai päivittäminen**
+**Profiilitietojen lisääminen tai päivittäminen**
 
-Voit lisätä käyttäjä profiili tietoja, kuten profiili kuvan, työkohtaisia tietoja ja joitakin asetuksia, Azure Active Directorya (Azure AD) käyttäen. Lisä tietoja uusien käyttäjien lisäämisestä on Ohje aiheessa [käyttäjien lisääminen tai poistaminen Azure Active Directoryssa](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory).
+Voit lisätä käyttäjäprofiilin tiedot, kuten profiilikuvan, työkohtaiset tiedot ja joitakin asetuksia, käyttämällä Azure Active Directory (Azure AD). Lisätietoja uusien käyttäjien lisäämisestä on kohdassa Käyttäjien lisääminen tai [poistaminen](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)Azure Active Directory.
 
-Jos haluat lisätä tai muuttaa profiili tietoja, suorita seuraavat vaiheet:
+Jos haluat lisätä tai muuttaa profiilitietoja, toimi seuraavasti:
 
-1. Kirjaudu Azure-portaaliin organisaation käyttäjä järjestelmänvalvojana.
-2. Valitse **Azure Active Directory > käyttäjät** ja valitse sitten käyttäjä profiili, jonka haluat päivittää. 
-3. Voit lisätä tai päivittää kuhunkin käytettävissä olevaan osioon sisältyviä tietoja valitsemalla **Muokkaa** . 
+1. Kirjaudu Azure-portaaliin organisaation käyttäjänä.
+2. Valitse **Azure Active Directory > Käyttäjät** ja napsauta sitten päivitettävää käyttäjäprofiilia. 
+3. Valitse **Muokkaa,** jos haluat lisätä tai päivittää kuhunkin käytettävissä olevan osion tietoja. 
 4. Valitse **Tallenna**.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-- [Laskutus tunnukset ja käyttö alueet Azure-portaalissa](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
-- [Azure-luotto kortin lisääminen tai päivittäminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Laskutustilit ja -vaihtoehdot Azure-portaalissa](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
+- [Luottokortin lisääminen tai päivittäminen Azuressa](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 
 
