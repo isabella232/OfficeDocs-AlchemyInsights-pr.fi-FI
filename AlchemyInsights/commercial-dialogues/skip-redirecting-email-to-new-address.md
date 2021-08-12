@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966682"
 ---
 # <a name="skip-redirecting-email-to-new-address"></a>Ohita sähköpostin uudelleenohjaus uuteen osoitteeseen
 
-Ohita sähköpostin uudelleenohjaus uuteen osoitteeseen, jos sinulla on mukautettuja DNS-tietueita. Sen jälkeen voit lisätä tarvitsevat tietueet myöhemmin. Jotkin Office 365 -palvelut eivät ehkä ole käytettävissä, ennen kuin lisäät tietueet manuaalisesti rekisteröijän kanssa.
+Ohita vaihe sähköpostin uudelleenohjaamiseen uuteen osoitteeseen, jos sinulla on mukautettuja DNS-tietueita. Sen jälkeen voit lisätä tietueet, jotka tarvitset myöhemmin. Jotkin Office 365 eivät ehkä ole käytettävissä, ennen kuin lisäät tietueet manuaalisesti rekisteröijän kanssa.
 
-Jos haluat ohittaa sähköpostin uudelleenohjauksen uuteen osoitteeseen, valitse **Ohita tämä vaihe > Vahvista.**
+Jos haluat ohittaa sähköpostin uudelleenohjauksen uuteen osoitteeseen, valitse **Ohita tämä vaihe > Tarkista**.
