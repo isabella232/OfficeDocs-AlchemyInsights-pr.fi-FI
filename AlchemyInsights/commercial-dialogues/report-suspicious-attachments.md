@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948916"
 ---
 # <a name="report-suspicious-attachments"></a>Epäilyttävistä liitteistä ilmoittaminen
 
 1. Valitse **Uusi lähetys** -pikaikkunassa **Liite** ja lataa sitten tiedosto, jonka haluat tarkistaa.
     > [!NOTE]
-    > Tällä hetkellä 3 Mt:n rajoitus on olemassa. Jos tiedoston koko on yli 3 Mt, harkitse tiedoston lähettämistä käyttämällä sen sijaan sähköpostiosoitetta.
-2. Jos valitset **Pitäisi olla estetty,** se merkitsee kohteen automaattisesti **haittaohjelmaksi.**
-3. Valitse **Lähetä.**
+    > Tällä hetkellä rajoitus on 3 Mt. Jos tiedoston koko on yli 3 Mt, voit lähettää sen käyttämällä sen sijaan sähköpostiosoitetta.
+2. Jos valitset **Tulisi olla estetty,** se merkitsee kohteen automaattisesti **haittaohjelmaksi**.
+3. Valitse **Lähetä**.

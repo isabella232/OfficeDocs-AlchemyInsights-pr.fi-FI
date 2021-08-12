@@ -1,5 +1,5 @@
 ---
-title: PRT-ongelman vian määritys
+title: PRT-ongelman vianmääritys
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972713"
 ---
-# <a name="troubleshoot-prt-issue"></a>PRT-ongelman vian määritys
+# <a name="troubleshoot-prt-issue"></a>PRT-ongelman vianmääritys
 
-Jotta kaikki laitteet saataisiin todennettua, niiden on oltava täysin rekisteröity ja hyvässä kunnossa ja niiden on pystyttävä hankkimaan ensisijaiset päivitys tunnus (PRT).
+Jotta mikä tahansa laite voidaan todentaa, sen on oltava täysin rekisteröity ja hyvässä kunnossa ja se on hankittava ensisijainen päivitystunnus (PRT).
 
-Hybridi Azure AD Join-rekisteröinti prosessi edellyttää, että laitteet ovat yrityksen verkossa. Se toimii myös VPN-yhteyden kautta, mutta siihen liittyy joitakin varoituksista. Olemme kuulleet, että asiakkaat tarvitsevat apua vian määrityksessä hybridi Azure AD Join-rekisteröinti prosessissa etätyöolosuhteissa. Seuraavassa on tietoja siitä, mitä kone pellin alle tapahtuu rekisteröinti prosessin aikana.
+Azure AD -yhdistelmäliitoksen rekisteröintiprosessi edellyttää, että laitteet ovat yritysverkossa. Se toimii myös VPN-yhteyden kautta, mutta siihen on joitakin varoita. Olemme kuulleet, että asiakkaat tarvitsevat apua Azure AD-yhdistelmäympäristön rekisteröintiprosessin vianmäärityksessä etätyösyissä. Tässä on erittely siitä, mitä rekisteröintiprosessin aikana tapahtuu "hupun alla".
 
-**Pilvi todennus ympäristö (Azure AD Password hash-synkronoinnin tai läpi vienti todennuksen avulla)**
+**Pilvitodennusympäristö (Azure AD:n salasanojen hash-synkronoinnin tai läpikäymisen todentamisen avulla)**
 
-Tätä rekisteröinti kulkua kutsutaan myös nimellä "synkronointi liitos".
+Tätä rekisteröintivirtaa kutsutaan myös nimellä "Synkronoi liity".
 
-1. Windows 10 havaitsee SCP-tietueen, kun käyttäjä kirjautuu laitteeseen.
-    1. Laite yrittää ensin hakea vuokra ajan tietoja asiakas puolen SCP-rekisteristä [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Katso lisä tietoja tästä [asia kirjasta](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    2. Jos se epäonnistuu, laite kommunikoi paikallisen Active Directoryn (AD) kanssa saadakseen vuokra ajan tietoja palvelun yhteys pisteestä (SCP). Jos haluat tarkistaa SCP-toiminnon, Lue tämä [asia kirja](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> Suosittelemme, että SCP otetaan käyttöön MAINOKSESSA ja että se on käytössä vain asiakas puolen SCP: ssa alkuperäisen kelpoisuuden tarkistamista varten.
-
-2. Windows 10 yrittää muodostaa yhteyden Azure AD:hen järjestelmä kontekstissa ja todentaa itsensä Azure AD:hen. Voit tarkistaa, Voiko laite käyttää Microsoft-resursseja järjestelmä tilillä, käyttämällä testi laitteen rekisteröinnin yhteys komento sarjaa.
-
-3. Windows 10 luo itse allekirjoitetun varmenteen ja tallentaa sen paikallisessa MAINOKSESSA tieto kone-objektiin. Tämä edellyttää näkö yhteys toimi alueen ohjaus koneeseen.
-
-4. Laite objekti, joka sisältää varmenteen, synkronoidaan Azure AD:hen Azure AD Connectin kautta. Synkronointi sykli on oletusarvoisesti 30 minuutin välein, mutta se määräytyy Azure AD Connectin määritysten mukaan. Katso lisä tietoja tästä [asia kirjasta](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Tässä vaiheessa sinun pitäisi pystyä näkemään aihe laite "odottaa"-tilassa, joka on Azure-portaalin Device Blade-kohdassa.
-
-6. Kun seuraava käyttäjä on kirjautunut Windows 10: een, rekisteröinti valmistuu. 
+1. Windows 10 löytää SCP-tietueen, kun käyttäjä kirjautuu laitteeseen.
+    1. Laite yrittää ensin noutaa asiakaspuolen SCP-tiedot rekisteristä [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Lisätietoja on tässä [asiakirjassa.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Jos se epäonnistuu, laite kommunikoi paikallisen Active Directoryn (AD) kanssa ja saa vuokraajan tiedot SCP (Service Connection Point) -palvelusta. Jos haluat tarkistaa SCP:n, katso tätä [asiakirjaa.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Jos käytät VPN-yhteyttä ja kirjautuminen ulos-Kirjautumisprosessi lopettaa toimi alue yhteyden, voit käynnistää rekisteröinnin manuaalisesti:
- 1. Ongelma dsregcmd/Join paikallisesti järjestelmänvalvojan kehotteesta tai etäyhteyden kautta PSExec tieto koneeseen. Esimerkiksi PsExec-n \\ win10client01 cmd, dsregcmd/Join
+> On suositeltavaa ottaa SCP käyttöön AD:ssä ja käyttää vain asiakaspuolen SCP-protokollaa alkutarkistusta varten.
 
- 2. Lisä tietoja yhdistelmä liitoksen ongelmista on kohdassa laitteet- [ongelman vian määritys](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 yrittää viestiä Azure AD:n kanssa järjestelmän kontekstissa ja todentaa itsensä Azure AD:n avulla. Voit tarkistaa, voiko laite käyttää järjestelmätilin Microsoft-resursseja Test Device Registration Connectivity -komentosarjan avulla.
+
+3. Windows 10 luo itse allekirjoitetun varmenteen ja tallentaa sen paikallisen AD:n tietokoneobjektiin. Tämä edellyttää toimialueen ohjauskoneeseen näköyhteyttä.
+
+4. Laiteobjekti, jolla on varmenne, synkronoidaan Azure AD:lle Azure AD:n Näyttöyhteys. Synkronointijakso on oletusarvoisesti 30 minuutin välein, mutta se riippuu Azure AD :n Näyttöyhteys. Lisätietoja on tässä [asiakirjassa.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Tässä vaiheessa aihelaitteen pitäisi nyt olla Odottaa-tilassa Azure Portalin Laite-kohdassa.
+
+6. Kun seuraava käyttäjä kirjautuu Windows 10, rekisteröinti on valmis. 
+
+> [!NOTE]
+> Jos käytät VPN-yhteyttä ja kirjautumisprosessi lopettaa toimialueyhteyden, voit käynnistää rekisteröinnin manuaalisesti:
+ 1. Voit antaa dsregcmd /join paikallisesti järjestelmänvalvojan kehotteeseen tai etäyhteyden kautta PSExec-yhteydellä tietokoneeseen. Esimerkiksi PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Lisätietoja yhdistelmäliitoksen ongelmista on kohdassa Laitteiden [ongelman vianmääritys.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
