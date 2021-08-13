@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7769"
-ms.openlocfilehash: 8af9546f219474e2382cd2436470385bf3ad31e8
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 98057b8e34cad19e2118f470dbeacdc8a7e78d9bc941e7f6565743201a541b56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958654"
 ---
 # <a name="restricting-access"></a>Käytön rajoittaminen
 
-1. Lisätietoja sovelluksen käytön rajoittamisesta on kohdassa Miten: Azure AD -sovelluksen rajoittaminen [käyttäjäjoukolle Azure AD -vuokraajassa.](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users)
-1. Opi tarkistamaan ja hallitsemaan sovelluksen käyttöoikeuksia. [Toimia Azure Active Directoryn yli-](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) tai epäilyttävillä sovelluksilla tarjoaa erilaisia toimintoja, joilla voit suojata sovelluksesi skenaarion mukaan. Nämä toiminnot koskevat kaikkia sovelluksia, jotka on lisätty Azure Active Directory (Azure AD) -vuokraajaan käyttäjän tai järjestelmänvalvojan suostumuksella.
-1. [Sovelluksen käyttäjämääritysten](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) hallinta Azure Active Directoryssa näyttää, miten voit määrittää käyttäjiä ja ryhmiä Azure Active Directoryn (Azure AD) yrityssovelluksiin joko Azure-portaalissa tai PowerShellin avulla. Kun määrität käyttäjän sovellukseen, sovellus näkyy käyttäjän Omat sovellukset -sovelluksessa käytön helpotta varten. Jos sovelluksessa on rooleja, voit määrittää käyttäjälle myös tietyn roolin.
+1. Lisätietoja sovelluksen käytön rajoittamisesta on kohdassa Azure AD -sovelluksen rajoittaminen [käyttäjäjoukolle Azure AD -vuokraajassa.](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users)
+1. Lue, miten voit tarkastella ja hallita sovelluksen käyttöoikeuksia. [Voit toimia paikallisten tai epäilyttävien sovellusten Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) eri tavoin, joilla voit suojata sovelluksen skenaarion mukaan. Nämä toimenpiteet koskevat kaikkia sovelluksia, jotka on lisätty Azure Active Directory (Azure AD) -vuokraajaan käyttäjän tai järjestelmänvalvojan suostumuksella.
+1. [Sovelluksen käyttäjämäärityksen](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) hallinta Azure Active Directory näyttää, miten voit määrittää käyttäjiä ja ryhmiä, yrityssovelluksiin Azure Active Directory:ssä (Azure AD) joko Azure-portaalissa tai PowerShellin avulla. Kun määrität käyttäjän sovellukseen, sovellus näkyy käyttäjän Omat sovellukset -sovelluksessa käytön helpottaen. Jos sovelluksessa on rooleja, voit määrittää käyttäjälle myös tietyn roolin.
     - Lisätietoja käyttäjän ja ryhmän tehtävästä on kohdassa [Ehdollinen käyttöoikeus: Käyttäjät ja ryhmät.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups)

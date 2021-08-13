@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913135"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Postilaatikon koon suurentaminen tilausten vaihtoa varten
 
 Jos postilaatikon koko on jo 100 Gt, sitä ei voi kasvattaa.
   
-Jos postilaatikon koko on 50 Gt, voit suurentaa sen 100 Gt:ksi siirtymällä [Office 365 Enterprise E3-](https://products.office.com/business/office-365-enterprise-e3-business-software) tai [Office 365 Enterprise E5 -versioon.](https://products.office.com/business/office-365-enterprise-e5-business-software) Voit vaihtaa toiseen tilaukseen seuraavasti:
+Jos postilaatikon koko on 50 Gt, voit suurentaa sen 100 Gt:ksi siirtymällä [E3 Office 365 Enterprise tai](https://products.office.com/business/office-365-enterprise-e3-business-software) [E5 Office 365 Enterprise kokoon.](https://products.office.com/business/office-365-enterprise-e5-business-software) Voit vaihtaa toiseen tilaukseen seuraavasti:
   
-1. Siirry Microsoft 365 -hallintakeskuksessa Tuotteiden **laskutus** \> **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Siirry Microsoft 365 -hallintakeskus **Laskutustuotteesi** \> **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Valitse tilaus, jonka haluat päivittää.
 

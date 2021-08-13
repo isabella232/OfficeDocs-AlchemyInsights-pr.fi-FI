@@ -1,5 +1,5 @@
 ---
-title: SharePoint Onlinen rajoittaminen perinteiseen tilaan
+title: Onlinen SharePoint rajoittaminen perinteiseen tilaan
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958798"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Onlinen rajoittaminen perinteiseen tilaan
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Onlinen SharePoint rajoittaminen perinteiseen tilaan
 
-Jotkin organisaatiot vaativat edelleen perinteisen tilan käyttö kokemusta. Vaikka perinteistä tilaa ei ole tarkoitus poistaa rakeisella tasolla, koko organisaatiota (vuokraaja) ei voi enää rajoittaa luetteloiden ja kirjastojen perinteiseen tilaan.
+Jotkin organisaatiot edellyttävät edelleen perinteisen tilan käyttökokemusta. Vaikka perinteistä tilaa ei ole suunnitelmissa poistaa rakeisilta tasolta, koko organisaatiota (vuokraajaa) ei voi enää rajoittaa luetteloiden ja kirjastojen perinteiseen tilaan.
 
-Järjestelmänvalvojalla on seuraavat asetukset, joilla hallitaan yksittäisiä luetteloita ja kirjastoja perinteisessä tilassa käyttämällä rakeisia kieltäytymis valitsimia, jotka tarjoamme seuraavilla tasoilla:
+Järjestelmänvalvojalla on seuraavat vaihtoehdot yksittäisten luetteloiden ja kirjastojen hallintaan perinteisessä tilassa käyttämällä erisnyistä poisjätetyistä valitsimista, jotka tarjoamme seuraavilla tasoilla:
 
 - sivustokokoelma
-- sivuston
+- sivusto
 - luettelo
-- kirjaston
+- kirjasto
 
-Lisäksi luettelot, jotka käyttävät tiettyjä ominaisuuksia ja mukautuksia, joita moderni ei tue, kytketään automaattisesti perinteiseen tilaan.
+Lisäksi luettelot, joissa käytetään tiettyjä ominaisuuksia ja mukautuksia, joita modernit eivät tue, vaihdetaan edelleen automaattisesti perinteiseen tilaan.
 
-1. huhtikuuta 2019 lähtien prosessi, joka poistaa vuokra ajan tason jättäytymisen pois modernista luettelosta ja kirjastot alkavat ja jatkuvat 31. toukokuuta 2019.  Luettelot ja kirjastot, jotka ovat perinteisessä tilassa vuokra ajan käytöstä poisjäämisen seura uksena, siirtyvät automaattisesti moderniin.
+1. huhtikuuta 2019 alkaen modernien luetteloiden ja kirjastojen käytöstä poistaminen aloitetaan ja jatketaan 31.5.2019 asti.  Luettelot ja kirjastot, jotka ovat perinteisessä tilassa vuokraajan jättäytymisen seurauksena, siirretään automaattisesti moderniin tilaan.
 
-Jos tarvitset perinteistä tilaa, Katso lisä tietoja [täältä](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) ja PnP-PowerShell [-Ohje,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) jossa kerrotaan vaihto ehdoista ja työkaluista, joilla voit käyttää perinteistä tila kokemusta.
+Jos tarvitset perinteisen tilan, [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) katso täältä lisätietoja ja [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) PnP Powershell -ohje, jossa kuvataan asetuksia ja työkaluja, joita voit käyttää tänään perinteisen tilan käyttöön.

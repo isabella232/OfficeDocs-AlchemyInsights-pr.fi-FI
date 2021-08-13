@@ -1,5 +1,5 @@
 ---
-title: Sähkö posti viestien siirtäminen Arkisto posti laatikkoon
+title: Sähköpostiviestien siirtäminen Arkisto-postilaatikkoon
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,28 +13,28 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e72766f441e210a81fcfd6c07b1801f6c0474afb02a70edf2ad8dbb571f3d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974954"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Sähkö postin siirtäminen Arkisto posti laatikkoon
+# <a name="move-email-to-the-archive-mailbox"></a>Sähköpostin siirtäminen arkistopostilaatikkoon
 
-Jos haluat, että suoritat automaattiset tarkistukset alla mainittuihin asetuksiin, valitse Edellinen-painike <--sivun yläosassa ja kirjoita sitten sen käyttäjän Sähkö posti osoite, jolla on ongelmia sähkö postin siirtämiselle Arkisto posti laatikkoon.
+Jos haluat, että suoritamme automaattiset tarkistukset alla mainittujen asetusten varalta, valitse Sivun ylä < -Takaisin-painike ja kirjoita sitten sen käyttäjän sähköpostiosoite, jolla on ongelmia sähköpostin siirtämisessä arkistopostilaatikkoon.
 
-1. Varmista, että **Arkisto posti laatikko** on otettu käyttöön. Jos näin ei ole, ota Arkisto posti laatikko käyttöön [tämän artikkelin](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) ohjeiden mukaisesti.
+1. Varmista, että **arkistopostilaatikko** on otettu käyttöön. Jos näin ei ole, ota [arkistopostilaatikko](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) käyttöön tämän artikkelin ohjeiden mukaisesti.
 
-2. Jos haluat arkistoida viestit automaattisesti Arkisto-posti laatikkoon, **Siirrä arkistoon** -toiminnon sisältävä säilytys tunniste on määritettävä niin, että se otetaan **käyttöön automaattisesti koko posti laatikko (oletus)-tunnisteelle**. Luo tunniste seuraavasti: [Arkistoi oletus tunniste](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Jos haluat arkistoida viestit automaattisesti arkistopostilaatikkoon, Siirrä arkistoon -toiminnon säilytystunniste on määritettävä automaattisesti käyttöön koko **postilaatikon (oletus) tunnisteessa.**  Luo tunniste noudattamalla tässä olevia ohjeita: [Arkistoi oletustunniste](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Lisää sitten **Arkisto** tunniste säilytys käytäntöön. Valitse Exchange-hallinta keskuksessa **säilytys käytännöt** > Lisää **Siirrä arkistoon-tunniste** käytäntöön > **Tallenna**.
+3. Lisää seuraavaksi **Arkisto-tunniste** säilytyskäytäntöösi. Valitse Exchange hallintakeskuksessa Säilytyskäytännöt ja **>** Siirrä **arkistoon -tunniste** käytännön > **Tallenna.**
 
-4. [Liitä nyt säilytys käytännön](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) tietyn käyttäjän posti laatikkoon. Samaa käytäntöä sovelletaan sekä **perus** -että **Arkisto** posti laatikkoon.
+4. Määritä [nyt säilytyskäytäntö](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) käyttäjän postilaatikkoon. Sama käytäntö otetaan käyttöön sekä ensisijaisessa **postilaatikossa** että **arkistopostilaatikossa.**
 
-On ehkä tarpeen pakottaa hallitun kansion avustaja (MFA) suorittamaan uudet asetukset käyttäjän posti laatikkoon ja käyttämään niitä. Suorita seuraava komento, kun olet [muodostanut yhteyden EXO PowerShelliin](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) tietyn posti laatikon hallittujen kansioiden hallinnan aloittamiseksi:
+Voi olla tarpeen pakottaa Kansion hallinta -avustaja (MFA) toimimaan ja ottaa uudet asetukset käyttöön käyttäjän postilaatikossa. Käynnistä tietyn postilaatikon [hallittu kansioavustaja](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) suoritamalla seuraava komento, kun yhteys EXO PowerShelliin on muodostettu:
   
-Käynnistä-Managedfoldadassistant-Identity <name of the mailbox>
+Start-ManagedFolderAssistant -Identity <name of the mailbox>
 
-Lisä tietoja arkistointi käytäntöjen määrittämisestä on kohdassa [Arkisto-ja poisto käytäntöjen määrittäminen Posti laatikoille](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Lisätietoja arkistointikäytännön määrittämisestä on kohdassa [Postilaatikoiden arkistointi- ja poistokäytännön määrittäminen.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)
   

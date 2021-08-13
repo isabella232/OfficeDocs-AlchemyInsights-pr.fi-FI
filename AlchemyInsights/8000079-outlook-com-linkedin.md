@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918862"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Ongelmia roska postin kanssa, jotka väittävät olevansa LinkedIn-tieto koneesta
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Ongelmat, jotka liittyvät LinkedIn-viestittäytämiseen väitettä vastaanottamassa roskapostissa
 
-Jos vastaanotat roska postia, joka väittää olevansa LinkedIn-käyttäjä, voit luoda säännön, joka suodattaa kyseiset sähkö postit.
-Lisä tietoja on kohdassa [Saapuneet-kansion sääntöjen käyttäminen Outlook.com](https://aka.ms/OutlookComInboxRules) .
+Jos saat roskapostia, jonka väitetään olevan LinkedInistä, voit luoda säännön näiden sähköpostiviestien suodatmiseksi.
+Lisätietoja [on kohdassa Saapuneet-kansion sääntöjen Outlook.com.com.](https://aka.ms/OutlookComInboxRules)
 
 
