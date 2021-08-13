@@ -1,5 +1,5 @@
 ---
-title: Ryhmäkäytännöt Microsoft Edgessä
+title: Ryhmäkäytännöt Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,13 +15,13 @@ ms.custom:
 - "9004632"
 - "6890"
 - "8362"
-ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1722873149fdf416357b25ebd31a5c10665d145565130adaaee6cee30af0bdcb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913460"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>Ryhmäkäytännöt Microsoft Edgessä
+# <a name="group-policies-in-microsoft-edge"></a>Ryhmäkäytännöt Microsoft Edge
 
-Microsoft [Edgessä (versiossa](https://go.microsoft.com/fwlink/?linkid=2134623) 77 tai uudemmassa) käytettävissä olevien ryhmäkäytäntöjen avulla voit määrittää, miten selain toimii organisaatiossasi.
+Voit [määrittää, miten](https://go.microsoft.com/fwlink/?linkid=2134623) selain toimii organisaatiossa Microsoft Edge (versio 77 tai uudempi) käytettävissä olevien ryhmäkäytäntöjen avulla.

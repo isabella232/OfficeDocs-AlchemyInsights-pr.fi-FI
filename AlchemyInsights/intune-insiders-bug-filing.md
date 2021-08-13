@@ -1,5 +1,5 @@
 ---
-title: Intune Insider-virheiden arkistointi
+title: Intune Insider -ohjelmavirheiden korjaukset
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925918"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune Insider-virheiden arkistointi
+# <a name="intune-insider-bug-filing"></a>Intune Insider -ohjelmavirheiden korjaukset
 
-Kiitos mielenkiinnostanne Intune Insider-ohjelmassa. Jos olet jo käynnistänyt Intune Insiders-ohjelman, ja sinun on annettava tuki pyyntö, toimi seuraavasti:
+Kiitos mielenkiinnostasi Intune Insiders -ohjelmaa vastaan. Jos olet jo intune Insiders -ohjelman käytössä ja haluat tehdä tukipyynnön, tee seuraavat:
 
-1. Kuvaile ongelmasi yllä olevaan kenttään.
-2. Luo uusi palvelu pyyntö alla olevien vaihto ehtojen avulla.
+1. Kuvaile ongelmasi yllä olevassa kentässä.
+2. Luo uusi palvelupyyntö alla olevia vaihtoehtoja käyttämällä.
 
-Intune-tuki insinööri ottaa sinuun yhteyttä.
+Intune-tukihenkilö ottaa sinuun yhteyttä.
 
-Jos et ole Intune Insider-ohjelman käytössä, kiitos mielenkiinnostanne. Emme tällä hetkellä rekrytoi uusia osallistujia.
+Jos et ole Intune Insiders -ohjelmassa, kiitos mielenkiinnostasi. Uusia osallistujia ei tällä hetkellä rekrytoida.

@@ -1,5 +1,5 @@
 ---
-title: Windows-laitteiden microsoft Intunen rekisteröintiongelmien vianmääritys
+title: Laitteiden rekisteröintiongelmien Windows Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981038"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Windows-laitteiden microsoft Intunen rekisteröintiongelmien vianmääritys
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Laitteiden rekisteröintiongelmien Windows Microsoft Intune
 
 Ratkaise ongelma nyt alla lueteltujen resurssien avulla.
   
@@ -35,7 +35,7 @@ Yleisiä virhesanomia ja ratkaisuvaiheita:
 
 -  Toinen käyttäjä on jo rekisteröinyt laitteen. Poista tällöin laite Azure Intune -konsolista tai poista laitteen tilaus manuaalisesti ennen uudelleen yrittämistä.
 
--  Laite on Windows 10 Home. Vain Windows 10 Pro-, Education- ja Enterprise-SKU:t voivat liittyä Azure Active Directoryyn.
+-  Laite on Windows 10 Home. Vain Windows 10 Pro, Education ja Enterprise -SKU:t voivat liittyä Azure Active Directory.
 
 Lisäresursseja ongelman ratkaisemiseksi:
   
@@ -43,4 +43,4 @@ Lisäresursseja ongelman ratkaisemiseksi:
 
 -  Tarkistamalla nämä asiakirjat saat luettelon yleisistä virheistä, jotka estävät kunkin tiedoston rekisteröinnin ja ratkaisut: [Vianmääritysopas](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ja [Tiedoston vianmääritys.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Lue, miten voit rekisteröidä Windows-laitteita Microsoft Intunessa.](https://docs.microsoft.com/intune/windows-enroll)
+[Opi rekisteröimaan Windows laitteisiin Microsoft Intune.](https://docs.microsoft.com/intune/windows-enroll)

@@ -1,5 +1,5 @@
 ---
-title: iOS:n valmistelu profiilien säännön tunniste 1029
+title: iOS-valmisteluprofiilien säännön tunnus 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925702"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS:n valmistelu profiilit
+# <a name="ios-provisioning-profiles"></a>iOS-valmisteluprofiilit
 
-Apple iOS-toimiala käyttää sitä valmistelu profiilin käsitettä, jota käytetään vahvistamaan sovelluksen eheys ja toteuttamaan profiilissa määritetyt käytännöt. Nämä valmistelu profiilit vanhenevat 12 kuukauden kuluttua, joten uusi profiili on liitettävä käyttöön otettavaan sovellukseen, jotta sovellukset voivat jatkaa suorittamista.
+Applen iOS:n liiketoiminta-alue käyttää provision-profiilin käsitettä, jonka avulla vahvistetaan sovelluksen eheys ja valvotaan profiilissa määritettyjä käytäntöjä. Nämä valmisteluprofiilit vanhentuvat 12 kuukauden kuluttua, joten käyttöön otettuun sovellukseen on liityttävä uusi profiili, jotta sovellukset voivat jatkaa toimintaansa.
   
-Seuraavassa artikkelissa kerrotaan, miten voit luoda uuden valmistelu profiilin, joka sisältää Intune-sovelluksen kautta käyttöönotettua iOS LOB-sovellusta: [Käytä iOS-sovellusten valmistelu profiileja, jotka estävät sovellusten vanhenemisen](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Seuraavassa artikkelissa kerrotaan, miten voit luoda uuden valmisteluprofiilin iOS LOB -sovellukseen, joka on otettu käyttöön Intunen kautta: [iOS-sovelluksen](https://docs.microsoft.com/intune/app-provisioning-profile-ios) valmisteluprofiilien avulla voit estää sovellusten vanhenemisen
   

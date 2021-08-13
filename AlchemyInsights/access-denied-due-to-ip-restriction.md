@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955378"
 ---
 # <a name="access-denied-due-to-ip-restriction"></a>Käyttö estetty IP-rajoituksen vuoksi
 
-IT-järjestelmänvalvojana voit hallita SharePoint-ja OneDrive-resurssien käyttöä Microsoft 365-sovelluksessa luotettavien verkko sijaintien perusteella. Tätä kutsutaan myös sijaintiin perustuväksi käytännöksi. Lisä tietoja on kohdassa [käytön hallinta verkko sijainnin perusteella](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+IT-järjestelmänvalvojana voit hallita SharePoint OneDrive resursseja Microsoft 365 määrittämiesi verkkosijaintien perusteella. Tätä kutsutaan myös sijaintipohjaiseksi käytännönä. Lisätietoja on kohdassa Käytön [hallinta verkkosijainnin perusteella.](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

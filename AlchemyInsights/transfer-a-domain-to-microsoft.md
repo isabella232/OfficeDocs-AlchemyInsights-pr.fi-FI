@@ -1,5 +1,5 @@
 ---
-title: Toimi alueen siirtäminen Microsoftille
+title: Toimialueen siirtäminen Microsoftille
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980966"
 ---
-# <a name="transfer-a-domain-to-microsoft"></a>Toimi alueen siirtäminen Microsoftille
+# <a name="transfer-a-domain-to-microsoft"></a>Toimialueen siirtäminen Microsoftille
 
-Toimi alueiden rekisteröintiä ja laskutusta ei voi siirtää Microsoftille.
+Toimialueiden rekisteröintiä ja laskutusta ei voi siirtää Microsoftille.
 
-Voit lisätä jo omistamasi toimi alueen noudattamalla [ohjattua toimi alueen lisäämistä](https://admin.microsoft.com/Adminportal/Domains/Wizard)tai siirtymällä **Asetukset**-toimi alueeseen  >  **Domains**  >  **Lisää toimi alue**.
+Jos haluat lisätä toimialueen, jonka omistat, noudata [ohjattua Toimialueen](https://admin.microsoft.com/Adminportal/Domains/Wizard)lisääminen -toimintoa tai **siirry Asetukset**  >  **Lisää**  >  **toimialue**.
 
-Lisä tietoja toimi alueen vahvistamiseen tarvittavista DNS-muutoksista on Ohje aiheessa [DNS-tietueiden lisääminen toimi alueen yhdistämiseksi](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Lisätietoja toimialueen vahvistamiseen tarvittavista DNS-muutoksista on kohdassa [DNS-tietueiden lisääminen toimialueen liittämistä varten.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Jos sinulla on toimi alueita koskevia kysymyksiä, katso [toimi alueiden usein kysytyt kysymykset](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Lisätietoja toimialueita koskevista kysymyksistä on toimialueiden usein [kysytyissä kysymyksissä.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

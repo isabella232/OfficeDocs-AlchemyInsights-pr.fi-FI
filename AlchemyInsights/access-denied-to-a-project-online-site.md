@@ -1,5 +1,5 @@
 ---
-title: Project Web App-sivuston käyttö estetty
+title: Käyttö estetty Project Web App -sivustolle
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955342"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Käyttö oikeuksien antaminen käyttäjille Project Onlinessa
+# <a name="give-users-permissions-in-project-online"></a>Käyttöoikeuksien Project Online
 
-Project Web App-sivuston käyttö oikeuden antaminen käyttäjille SharePointin käyttö oikeus tilan avulla:
+Anna käyttäjille Project Web App -sivuston käyttöoikeustila SharePoint avulla:
 
-1. Kirjaudu Project Onlineen järjestelmänvalvojana.
-2. Valitse Project Web App-aloitus sivulla **Jaa** oikeassa yläkulmassa.
-3. Kirjoita **Jaa Project Web App** -valinta ikkunaan sen henkilön käyttäjä nimi, jolle haluat antaa käyttö oikeuden, **Kutsu henkilöitä** -ruutuun.
-4. Valitse **Näytä asetukset**ja valitse sitten **Valitse käyttö oikeus taso** -valikosta **Projekti päälliköt Project Web Appissa**.
+1. Kirjaudu Project Online järjestelmänvalvojana.
+2. Valitse Project Web App -aloitussivulla **Jaa** oikeassa yläkulmassa.
+3. Kirjoita **Jaa Project Web App** -valintaikkunassa kutsu henkilöitä -ruutuun sen henkilön käyttäjänimi, jonka käyttöoikeudet **haluat antaa.**
+4. Valitse **Näytä asetukset** ja valitse sitten Valitse **käyttöoikeustaso -valikosta** Project Web **Appin Project esimiehet.**
 5. Valitse **Jaa**.
 
-Jos käytät Project-käyttö oikeus tilaa tai saat lisä tietoja, katso [henkilöiden lisääminen Project Onlineen](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Jos käytät Project-tilaa tai jos haluat lisätietoja, katso Käyttäjien lisääminen [Project Online.](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)

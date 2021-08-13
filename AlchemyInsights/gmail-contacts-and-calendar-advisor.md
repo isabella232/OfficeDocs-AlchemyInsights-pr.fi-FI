@@ -1,5 +1,5 @@
 ---
-title: Gmail-yhteys tietojen tai Google-kalenterien siirtäminen Office 365-tai Outlook-kalenteriin
+title: Gmail-yhteystietojen tai Google-kalenterien siirtäminen Office 365 tai Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964297"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail-yhteys tietojen tai Google-kalenterien siirtäminen Office 365-tai Outlook-kalenteriin
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail-yhteystietojen tai Google-kalenterien siirtäminen Office 365 tai Outlook
 
-Helpoin keino tuoda Gmail-yhteys tietoja ja kalenteria Officeen on käyttää Gmailin yhteys tietoja ja kalenterin tuki sovellusta.
+Helpoin tapa tuoda Gmail-yhteystietoja ja kalenteria Office on käyttää Gmailin yhteystietoja ja kalenterineuvojaa.
 
-[Gmail-yhteys tietojen ja kalenterin tuki sovelluksen](https://go.microsoft.com/fwlink/?linkid=2134386) avulla voit synkronoida Gmail-yhteys tiedot ja kalenteri kohteet Office 365-sovelluksella eri tuonti-ja vienti menetelmillä.
+[Gmailin yhteystiedot ja kalenterin neuvoja](https://go.microsoft.com/fwlink/?linkid=2134386) neuvovat, miten voit synkronoida Gmail-yhteystiedot ja kalenterikohteet Office 365 ja viedä ne eri tuonti- ja vientimenetelmiä käyttäen.
 
-Jos et ole vielä siirtänyt sähkö postiasi, [sähkö postin määrityksen neuvonantaja](https://go.microsoft.com/fwlink/?linkid=2133951) tarjoaa vaiheittaiset ohjeet posti laatikon siirron viimeistelemiseksi.
+Jos et ole vielä siirtynyt sähköpostiasi, sähköpostin määritysneuvoja antaa vaiheittaiset ohjeet postilaatikon siirron viimeistelemiseksi. [](https://go.microsoft.com/fwlink/?linkid=2133951)
 
-Lisä tietoja Google-kalenterin katsomisesta Outlookissa on [artikkelissa Google-Kalenterin tarkasteleminen Outlookissa](https://go.microsoft.com/fwlink/?linkid=2083939).
+Lisätietoja Google-kalenterin tarkasteleminen Outlook [Google-kalenterin](https://go.microsoft.com/fwlink/?linkid=2083939)tarkasteleminen Outlook.
