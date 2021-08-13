@@ -1,5 +1,5 @@
 ---
-title: Jakaminen SharePointissa
+title: Jakaminen SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094279"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Jakaminen SharePoint Onlinessa
 
@@ -25,12 +25,12 @@ Sivuston jakaminen:
   
 1. Avaa sivusto selaimessa.
     
-2. Jos sivusto kuuluu Microsoft 365-ryhmään, napsauta oikeassa yläkulmassa olevaa asetukset-kuvaketta ja valitse sitten **sivuston käyttö oikeudet**. Valitse **Kutsu henkilöitä**ja valitse sitten Lisää jäseniä Microsoft 365-ryhmään tai Jaa vain sivusto. 
+2. Jos sivusto kuuluu Microsoft 365, napsauta oikeassa Asetukset -kuvaketta ja valitse sivuston **käyttöoikeudet**. Valitse **Kutsu henkilöitä** ja valitse sitten jäsenten lisääminen Microsoft 365 tai vain sivuston jakaminen. 
     
-    Jos haluat käyttää viestintäsivustoa, valitse **Jaa sivusto** oikeassa yläkulmassa, anna henkilön nimi ja valitse sitten käyttö oikeus taso (luku, muokkaus tai täydet oikeudet). 
+    Jos haluat viestintäsivuston, valitse Jaa sivusto oikeassa yläkulmassa, kirjoita henkilön nimi ja valitse sitten käyttöoikeustaso (luku, muokkaus tai täydet oikeudet).  
     
-    Jos haluat käyttää perinteistä ryhmäsivustoa, valitse oikeassa yläkulmassa **Jaa** . Kirjoita sen henkilön nimi, jonka haluat kutsua, tai kirjoita kaikki, jotka haluat jakaa kaikille organisaatiosi käyttäjille. Valitse **Jaa**.
+    Jos haluat perinteisen ryhmäsivuston, **valitse** Jaa oikeassa yläkulmassa. Kirjoita sen henkilön nimi, jonka haluat kutsua, tai kirjoita Kaikki, jos haluat jakaa sen kaikkien kanssa organisaatiossasi. Valitse **Jaa**.
     
-[Lue, miten voit jakaa tiedoston tai kansion](https://go.microsoft.com/fwlink/?linkid=511430)
+[Opi jakamaan tiedosto tai kansio](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

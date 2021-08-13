@@ -1,5 +1,5 @@
 ---
-title: OneDrive-suoritus kyvyn vian määritys
+title: Suorituskyvyn OneDrive vianmääritys
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939124"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>OneDrive-suoritus kyvyn vian määritys
+# <a name="troubleshoot-onedrive-performance"></a>Suorituskyvyn OneDrive vianmääritys
 
-Jos käytössäsi on odotettua hitaampi synkronointi tai samankaltaisia ongelmia OneDriven kanssa:
+Jos synkronointi on odotettua hitaampaa tai synkronointi on samankaltainen kuin OneDrive:
 
-- Varmista, että [palvelun kunnon koonti näytössä](https://portal.office.com/adminportal/home?ref=/servicehealth)ei ole tunnettuja ongelmia.
+- Varmista, ettei Palvelun kunto -koontinäytössä [ole tiedossa olevia ongelmia.](https://portal.office.com/adminportal/home?ref=/servicehealth)
 
-- [Ota tiedostot käyttöön pyydettäessä](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) , jotta voit käyttää kaikkia tiedostojasi OneDrivessa tarvitsematta ladata niitä kaikkia ja käyttää laitteessa tallennus tilaa.
+- [Ota Tiedostot tarvittaessa -asetus](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) käyttöön, jotta voit käyttää kaikkia OneDrive tiedostojasi ilman, että sinun on ladattava ne kaikki ja käytettävä laitteesi tallennustilaa.
 
-- Tarkista verkon suunnittelun ja suoritus kyvyn [parhaat käytännöt](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) .
+- [Tarkista verkon suunnittelun](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) ja suorituskyvyn parhaat käytännöt.
 
-- [Suurenna latauksen ja latauksen nopeutta](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), etenkin jos synkronoit laitetta ensimmäisen kerran.
+- [Lataamisnopeuden maksimointi](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)erityisesti silloin, kun synkronoit laitetta ensimmäistä kertaa.
 
-- Jos synkronoit kirjastoa, jossa on yli 100 000 kohdetta, OneDrive-synkronointi saattaa tuntua pitkään jumittuneen tai tila näyttää, että se käsittelee 0KB/xMB. " [Lue lisä tietoja yli 100 000-tiedostojen synkronoinnista](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) sekä [onedriven tuetuista 300 000-tiedostojen rajasta](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Jos synkronoit kirjastoa, jossa on yli 100 000 kohdetta, OneDrive-synkronointisovellus voi vaikuttaa jumittuvan pitkäksi aikaa tai tilana näkyy Käsitellään 0 Kt / xMt." [Lue lisää yli 100 000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) tiedoston synkronoinnista sekä [OneDrive 300 000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)tiedoston tuetusta rajoituksesta.
 
-- Kun käyttäjä on ylittänyt käyttö rajoitukset, SharePoint Online-tili ei enää enää pyydä kyseistä käyttäjä tiliä lyhyeksi ajaksi. Kaikki käyttäjän toiminnot ovat kuristettu, kun kaasu vipu on voimassa.
+- Kun käyttäjä ylittää käyttörajat, SharePoint Online rajoittaa muita tämän käyttäjätilin pyyntöjä lyhyen ajan. Kaikkia käyttäjän toimintoja on tehostettu samalla, kun tehoste on voimassa.

@@ -1,5 +1,5 @@
 ---
-title: Sormenjälkilukituksen käyttö Windows 10:ssä
+title: Käytä sormenjäljen avausasetusta Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a171d889705a0035981465bdaa5a8f07b9d2eb7200ba4c948f2aaccbf2cc0a21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971900"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Sormenjälkilukituksen käyttö Windows 10:ssä
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Käytä sormenjäljen avausasetusta Windows 10
 
-**Windows Hellon sormenjäljen ottaminen käyttöön**
+**Sormenjäljen Windows Hello ottaminen käyttöön**
 
-Jotta voit poistaa Windows 10:n lukituksen sormenjäljen avulla, sinun on määritettävä Windows Hello Fingerprint lisäämällä (antamalla Windowsin opetella tunnistamaan) vähintään yksi sormi. 
+Jotta voit Windows 10 sormenjäljen lukituksen, sinun on määritettävä Windows Hello Sormenjälki lisäämällä (Windows tunnistamaan) vähintään yksi sormi. 
 
-1. Siirry asetukset **> tilit > kirjautumisasetukset** (tai napsauta [tätä).](ms-settings:signinoptions?activationSource=GetHelp) Käytettävissä olevat kirjautumisvaihtoehdot tulevat luetteloon. Esimerkiksi:
+1. Siirry **Asetukset > tilit > -kohdassa** (tai napsauta [tätä).](ms-settings:signinoptions?activationSource=GetHelp) Käytettävissä olevat kirjautumisvaihtoehdot tulevat luetteloon. Esimerkiksi:
 
     ![Kirjautumisasetukset.](media/sign-in-options.png)
 
-2. Napsauta tai napauta **Windows Hellon sormenjälkeä** ja **valitse sitten Määritä**. Valitse Windows Hellon määritysikkunassa **Aloita käyttö.** Sormenjälkitunnistin aktivoituu, ja sinua pyydetään asetamaan sormesi tunnistimeen:
+2. Valitse Windows Hello **sormenjälki ja** valitse **sitten Määritä**. Valitse Windows Hello-ikkunassa **Aloita.** Sormenjälkitunnistin aktivoituu, ja sinua pyydetään asetamaan sormesi tunnistimeen:
 
    ![Sormenjälkitunnistin.](media/fingerprint-sensor.png)
 
-3. Noudata ohjeita, jotka pyytävät sinua skannaamaan sormella toistuvasti. Kun tämä on valmis, voit lisätä muita sormia, joita haluat ehkä käyttää kirjautumiseen. Kun seuraavan kerran kirjaudut Windows 10:ssä, voit käyttää sormenjälkeäsi.
+3. Noudata ohjeita, jotka pyytävät sinua skannaamaan sormella toistuvasti. Kun tämä on valmis, voit lisätä muita sormia, joita haluat ehkä käyttää kirjautumiseen. Kun seuraavan kerran kirjaudut Windows 10, voit käyttää sormenjälkeäsi.
 
-**Windows Hellon sormenjälki ei ole käytettävissä kirjautumisvaihtoehtona**
+**Windows Hello Sormenjälki ei ole käytettävissä kirjautumisvaihtoehtona**
 
-Jos Windows Hello Fingerprint ei näy kirjautumisasetusten vaihtoehtona, Windows ei ole tietoinen tietokoneeseen liitetystä sormenjälkilukijasta tai että järjestelmäkäytäntö estää sen käytön (jos esimerkiksi työpaikkasi hallinnoi tietokonetta). Vianmääritys: 
+Jos Windows Hello Fingerprint ei näy kirjautumisasetusten vaihtoehtona, Windows ei ole tietoinen tietokoneeseen liitetystä sormenjälkilukijasta tai että järjestelmäkäytäntö estää sen käytön (jos esimerkiksi tietokonetta hallitaan työpaikallasi). Vianmääritys: 
 
 1. Valitse **tehtäväpalkin** Käynnistä-painike ja etsi **Laitehallinta.**
 
@@ -51,6 +51,6 @@ Jos Windows Hello Fingerprint ei näy kirjautumisasetusten vaihtoehtona, Windows
 
    ![Biometriset laitteet.](media/biometric-devices-expanded.png)
 
-5. Jos sormenjälkilukija ei ole näkyvissä ja skanneri on integroitu tietokoneeseen, siirry tietokoneen valmistajan sivustoon. Etsi PC-mallin teknisestä tuesta Windows 10 -ohjainta, jonka voit asentaa.
+5. Jos sormenjälkilukija ei ole näkyvissä ja skanneri on integroitu tietokoneeseen, siirry tietokoneen valmistajan sivustoon. Etsi PC-mallin teknisestä tuesta Windows 10 skanneri, jonka voit asentaa.
 
-6. Jos skanneri on erillinen tietokoneesta (USB:n kautta liitettynä), etsi ja asenna Windows 10 :n laiteohjainohjelmisto skannerimallia varten skannerivalmistajan sivustosta.
+6. Jos skanneri on erillinen tietokoneesta (USB:n kautta liitettynä), siirry skannerin valmistajan sivustoon ja etsi ja asenna Windows 10-ohjainohjelmisto skannerimallia varten.
