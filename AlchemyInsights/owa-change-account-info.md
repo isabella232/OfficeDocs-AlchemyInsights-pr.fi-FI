@@ -1,5 +1,5 @@
 ---
-title: Tili tietojen muuttaminen Outlookin verkko versiossa
+title: Tilitietojen muuttaminen Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e65d8ff1d86f0500821f35c74404a5dabee5eea2c7819978c6742355ba13000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924478"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Tili tietojen muuttaminen Outlookin verkko versiossa
+# <a name="change-account-information-in-outlook-on-the-web"></a>Tilitietojen muuttaminen Outlookin verkkoversio
 
-1. Valitse sivun ylälaidassa nimesi tai profiili kuvasi.
+1. Valitse sivun yläreunassa nimesi tai profiilikuvasi.
 1. Valitse **Oma tili**.
-1. Valitse **henkilökohtaiset tiedot**.
-1. Muuta tai lisää itseäsi koskevia tietoja.
+1. Valitse **Henkilökohtaiset tiedot**.
+1. Voit muuttaa tai lisätä tietoja itsestäsi.
 
-*Huomautus:* IT-tai henkilöstö osasto voi antaa joitain tietoja, kuten nimesi ja työnimikkeesi. Jos haluat päivittää nämä tiedot, ota heihin yhteyttä tai järjestelmänvalvojasi.
+*Huomautus:* IT- tai henkilöstöosasto voi antaa joitakin tietoja, kuten nimesi ja tehtävänimikkeesi. Jos haluat päivittää nämä tiedot, ota yhteyttä heihin tai järjestelmänvalvojaan.
 
-Lisä tietoja on Ohje aiheessa [valo kuvan ja tili tietojen muuttaminen Outlookin verkko](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)versiossa.
+Lisätietoja on kohdassa [Kuvan ja tilitietojen muuttaminen Outlookin verkkoversio.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

@@ -1,5 +1,5 @@
 ---
-title: POP-, IMAP-ja SMTP-asetukset Outlookin verkko versiossa
+title: POP-, IMAP- ja SMTP-asetukset Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960976"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP-, IMAP-& SMTP-asetukset Outlookin verkko versiossa
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP-, IMAP&- ja SMTP-Outlookin verkkoversio
 
-Jos haluat lisätä Microsoft 365-tilin toiseen Sähkö posti sovellukseen, joka tukee POP-, IMAP-tai SMTP-protokollaa, tässä on tarvitsemasi manuaaliset palvelin asetukset:
+Jos haluat lisätä oman Microsoft 365 pop-, IMAP- tai SMTP-yhteyttä tukevaan sähköpostisovellukseen, tarvitset seuraavat manuaaliset palvelinasetukset:
   
-- **IMAP-palvelimen nimi:** Outlook.office365.com
+- **IMAP-palvelimen nimi:** outlook.office365.com
 - **IMAP-portti:** 993
-- **IMAP-salaus menetelmä:** SSL/TLS
-- **Pop-palvelimen nimi:** Outlook.office365.com  
-- **Pop-portti:** 995  
-- **Pop-salaus menetelmä:** SSL/TLS  
-- **SMTP-palvelimen nimi:** SMTP.office365.com
+- **IMAP-salausmenetelmä:** SSL/TLS
+- **POP-palvelimen nimi:** outlook.office365.com  
+- **POP-portti:** 995  
+- **POP-salausmenetelmä:** SSL/TLS  
+- **SMTP-palvelimen nimi:** smtp.office365.com
 - **SMTP-portti:** 587
-- **SMTP-salaus menetelmä:** STARTTLS
+- **SMTP-salausmenetelmä:** STARTTLS

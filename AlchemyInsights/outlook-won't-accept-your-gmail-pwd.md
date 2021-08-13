@@ -1,5 +1,5 @@
 ---
-title: Outlook ei hyväksy Gmail-Sala sanaasi
+title: Outlook Ei hyväksy Gmail-salasanaasi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924658"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook ei hyväksy Gmail-Sala sanaasi
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook ei hyväksy Gmail-salasanaasi
 
-Suosittelemme, että otat käyttöön kaksiosaisen todennuksen ja käytät sovelluksen Sala sanaa.
+Suosittelemme kaksimenetelmäinen todentamismenetelmän käyttöönottamista ja sovellussalasanan käyttöönottamista.
 
-Jos haluat ottaa käyttöön kaksiosaisen todennuksen ja hakea sovelluksen Sala sanan, noudata seuraavia ohjeita.
+Ota kaksivaiheinen todentamismenetelmä käyttöön ja hanki sovellussalasana noudattamalla seuraavia ohjeita.
 
-1. Siirry Gmailiin selaimessa ja napsauta näytön oikeassa yläkulmassa olevaa **Google Apps** -kuvaketta.
-1. Valitse vasemmalla **tieto turva**.
-1. Jos Kirjautuminen Googleen ei ole käytössä, jos **kaksivaiheinen vahvistus** on **poissa käytöstä**, **>** Ota se käyttöön **valitsemalla ei** **käytössä** -kohdan vieressä. Muussa tapa uksessa Siirry vaiheeseen 4.
-1. Valitse ensimmäisessä näytössä **Jatka**.
-1. Kirjoita pyydettäessä Gmail-Sala sanasi ja valitse sitten **Seuraava**.
-1. Kirjoita Puhelin numerosi ja valitse, haluatko saada vahvistus koodit teksti viestillä vai puhelulla.
-1. Valitse **Seuraava**.
-1. Kirjoita saamasi koodi ja valitse **Seuraava**.
-1. Valitse **Ota** käyttöön, kun haluat viimeistellä kaksivaiheisen vahvistuksen määrittämisen.
-1. Palaa edelliseen näyttöön napsauttamalla näytön yläosassa olevaa vasenta nuolta **kaksivaiheisen vahvistuksen** vieressä.
-1. Valitse **>** **sovelluksen Sala sanat** -rivin oikeassa reunassa.
-1. Kirjoita Google-Sala sanasi ja valitse sitten **Kirjaudu** sisään. Valitse seuraavan näytön alalaidassa avattavista luetteloista **Sähkö posti** ja **Windows-tieto kone** ja valitse sitten **Luo**.
-Google tuo näkyviin sovelluksen Sala sanan puolestasi. 
-13. Kopioi tämä sala sana (ilman väli lyöntejä) ja Anna tämä sala sana, kun Outlook pyytää Sala sanaa.
+1. Siirry Gmailiin selaimessa ja valitse **Näytön oikeassa** yläkulmassa Google Apps -kuvake.
+1. Valitse vasemmalta **Suojaus**.
+1. Jos Googleen kirjautuminen -kohdassa **on kaksivaiheinen tarkistaminen** ei **käytössä,** ota se käyttöön napsauttamalla EI KÄYTÖSSÄ **>** **-kohdan vieressä olevaa -kohtaa**.  Muussa tapauksessa siirry vaiheeseen 4.
+1. Valitse ensimmäisessä näytössä **JATKA**.
+1. Kirjoita pyydettäessä Gmail-salasanasi ja valitse sitten **SEURAAVA**.
+1. Anna puhelinnumerosi ja valitse, haluatko vastaanottaa vahvistuskoodisi tekstiviestinä vai puheluna.
+1. Valitse **SEURAAVA**.
+1. Anna saamasi koodi ja valitse **SEURAAVA**.
+1. Viimeistele **kaksivaiheinen** tarkistaminen valitsemalla OTA KÄYTTÖÖN.
+1. Palaa edelliseen näyttöön napsauttamalla näytön yläreunassa olevaa vasenta nuolta kaksivaiheinen tarkistaminen **-kohdan vieressä.**
+1. Valitse **>** Sovelluksen salasanat -rivin **oikeassa päässä.**
+1. Kirjoita Google-salasanasi ja valitse **Kirjaudu sisään**. Valitse seuraavan näytön alareunassa  Sähköposti ja **Windows-tietokone** avattavasta luettelosta ja valitse sitten **Luo**.
+Google näyttää sinulle sovellussalasanan. 
+13. Kopioi salasana (ilman välilyöntejä) ja kirjoita Outlook salasana, kun Outlook pyytää salasanaa.
 
-Lisä tietoja on kohdassa [Gmail-tilin lisääminen Outlookiin – Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Lisätietoja on kohdassa [Gmail-tilin lisääminen Outlook – Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

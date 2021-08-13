@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph-yhdistimien yleiskatsaus
+title: Yleistä Microsoft Graph yhdistimistä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924525"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Microsoft Graph-yhdistimien yleiskatsaus
+# <a name="overview-of-microsoft-graph-connectors"></a>Yleistä Microsoft Graph yhdistimistä
 
-Microsoft Graph-yhdistimien suunnitteleminen on kohdassa  [yhdistimien yleiskatsaus](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Jos haluat suunnitella Microsoft Graph -yhdistimien, katso [Yhdistimien yleiskatsaus](https://docs.microsoft.com/microsoftsearch/connectors-overview).
 
-- Katso [Microsoftin](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) tai  [kumppaneiden](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)yhdistimet.
-- [Hallitse Microsoft Search-yhdistintä](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Katso [Microsoftin yhdistimiä](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) tai [Kumppanit-yhdistimiä.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Hallitse yhdistintä Microsoft Search.](https://docs.microsoft.com/microsoftsearch/manage-connector)
 
-Lisä tietoja Microsoft-haun suunnittelemisesta on  [Microsoft Search-katsauksen yleiskatsaus](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Jos haluat Microsoft Search, katso [Yleiskatsaus Microsoft Search.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
