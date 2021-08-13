@@ -1,5 +1,5 @@
 ---
-title: SharePoint-sivuston yhdistäminen ryhmään
+title: Näyttöyhteys sivuston SharePoint ryhmäksi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915404"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>SharePoint-sivuston yhdistäminen ryhmään
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Näyttöyhteys sivuston SharePoint ryhmäksi
 
-Yhdistä SharePoint-sivusto Microsoft 365 -ryhmään käyttämällä ohjattua ryhmäyhteyden muodostamista.
+Ohjatun ryhmäyhteyden muodostamisen avulla voit yhdistää SharePoint sivuston Microsoft 365 ryhmään.
 
 1. Valitse sivustossa, jonka haluat yhdistää ryhmään, Asetukset **(hammaspyöräkuvake).**
-2. Valitse  **Yhdistä uuteen Microsoft 365 -ryhmään**.
+2. Valitse **Näyttöyhteys uuteen Microsoft 365 ryhmään**.
 3. Viimeistele yhteys ohjatun toiminnon avulla.
 
-**Huomautus:**  Jos Yhdistä uuteen Microsoft 365 -ryhmään ei ole käytettävissä, sivusto ei tue ryhmäyhteyttä.
+**Huomautus:**  Jos Näyttöyhteys ei Microsoft 365 ryhmä ei ole käytettävissä, sivusto ei tue ryhmäyhteyttä.
 
-Lisätietoja on kohdassa Yhteyden [muodostaminen Office 365 -ryhmään.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Lisätietoja on kohdassa Näyttöyhteys [ryhmään Office 365.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

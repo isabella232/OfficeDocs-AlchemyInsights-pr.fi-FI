@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 643c58003e62c88cb6ac6cf420f746dd8f03ed82
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: d90c9573cea9823310399bce452cb010343cdca1bfeefef7733550125b20fffc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062401"
 ---
 # <a name="recover-an-item-from-your-deleted-items-folder"></a>Kohteen palauttaminen Poistetut-kansiosta
 
-Kun poistat Sähkö posti viestin, yhteys tiedon, kalenteri kohteen tai tehtävän, se siirretään Poistetut-kansioon.
+Kun poistat sähköpostiviestin, yhteystiedon, kalenterikohteen tai tehtävän, se siirretään Poistetut-kansioon.
 
-1. Kirjaudu Outlook Web Appiin selaimessa URL-osoitteella, jonka olet saanut organisaatiosi sähköpostia hallinnoivalta henkilöltä. Kirjoita käyttäjä nimesi ja Sala sanasi ja valitse sitten **Kirjaudu** sisään.
-1. Valitse Sähkö posti kansio-luettelosta **Poistetut kohteet**.
-1. Jos haluat palauttaa Sähkö posti viestin, tee jompikumpi seuraavista: a. Jos haluat palauttaa viestin Saapuneet-kansioon, napsauta viestiä hiiren kakkos painikkeella ja valitse **siirrä > Saapuneet**-kansio.
-    b. Jos haluat palauttaa viestin toiseen kansioon, napsauta viestiä hiiren kakkos painikkeella ja valitse sitten **siirrä > lisää**. Valitse kansion sijainti ja valitse sitten **Siirrä**.
+1. Kirjaudu Outlook Web Appiin selaimessa URL-osoitteella, jonka olet saanut organisaatiosi sähköpostia hallinnoivalta henkilöltä. Kirjoita käyttäjänimi ja salasana ja valitse sitten **Kirjaudu sisään**.
+1. Valitse sähköpostin kansioluettelosta **Poistetut**.
+1. Voit palauttaa sähköpostiviestin seuraavasti: a. Jos haluat palauttaa viestin Saapuneet-kansioon, napsauta viestiä hiiren kakkospainikkeella ja valitse **siirrä > Saapuneet -kansioon.**
+    b. Jos haluat palauttaa viestin toiseen kansioon, napsauta viestiä hiiren kakkospainikkeella ja valitse **siirrä > Lisää**. Valitse kansion sijainti ja valitse **siirrä**.
 4. Muuntyyppisten kohteiden palauttaminen:
-    - Jos haluat palauttaa yhteys tiedon, napsauta sitä hiiren kakkos painikkeella ja valitse sitten **Siirrä yhteys tietoihin**.
-    - Jos haluat palauttaa kalenteri kohteen, napsauta sitä hiiren kakkos painikkeella ja valitse sitten **Siirrä kalenteriin**.
-    - Jos haluat palauttaa tehtävän, napsauta sitä hiiren kakkos painikkeella ja valitse sitten **Siirrä tehtäviin**.
+    - Jos haluat palauttaa yhteystiedon, napsauta sitä hiiren kakkospainikkeella ja valitse **Sitten Siirrä yhteystietoihin**.
+    - Jos haluat palauttaa kalenterikohteen, napsauta sitä hiiren kakkospainikkeella ja valitse **sitten Siirrä kalenteriin**.
+    - Voit palauttaa tehtävän napsauttamalla sitä hiiren kakkospainikkeella ja valitsemalla **sitten Siirrä tehtäviin**.
 
-**Vihjeitä poistettujen kohteiden kansion kohteiden palauttamiseen**
+**Vinkit poistetut-kansion kohteiden palauttamiseen**
 
-- Jos poistat kansion, se siirretään Poistetut-kansioon ja näkyy alikansiona. Voit palauttaa sen (ja kaikki sen sisältämät kohteet) napsauttamalla poistettua kansiota hiiren kakkos painikkeella, valitsemalla **Siirrä** ja valitsemalla sitten kansion, johon se siirretään.
-- Järjestelmänvalvojasi on saattanut määrittää käytäntöjä, jotka poistavat kohteita Poistetut-kansiosta tietyn ajan kuluttua. Aivan kuten poistaessasi kohteen, käytännöllä poistetut kohteet siirretään Palautettavat-kansioon. Jos et löydä jotakin Poistetut-kansiosta, Etsi se palautettavat-kansiosta.
+- Jos poistat kansion, se siirretään Poistetut-kansioon ja näkyy alikansiona. Jos haluat palauttaa sen (ja kaikki sen sisältämät kohteet), napsauta poistettua kansiota hiiren kakkospainikkeella, valitse Siirrä **ja** valitse sitten kansio, johon haluat siirtää sen.
+- Järjestelmänvalvoja on saattanut määrittää tietyn ajan kuluttua käytännön, jonka mukaan kohteet poistetaan Poistetut-kansiosta. Käytännön poistamista kohteista siirretään Palautettavat-kansioon aivan kuten silloin, kun poistit kohteen. Jos et siis löydä jotakin Poistetut-kansiosta, etsi sitä Palautettavat-kansiosta.
