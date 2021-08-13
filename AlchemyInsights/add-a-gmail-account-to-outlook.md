@@ -1,5 +1,5 @@
 ---
-title: Gmail-tilin lisääminen Outlookiin
+title: Gmail-tilin lisääminen Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 18d9b44e06e62b2b1af30a53efe5fa47163ef4c6
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 0b642db4eee780d6010549c77de5777d2344d34a27c90994a1c7759bdd9ffc07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936990"
 ---
-# <a name="add-a-gmail-account-to-outlook"></a>Gmail-tilin lisääminen Outlookiin
+# <a name="add-a-gmail-account-to-outlook"></a>Gmail-tilin lisääminen Outlook
 
-Vaiheet ovat samat riippumatta siitä, lisätäänkö ensimmäinen Gmail-tili vai muita Gmail-tilejä Outlookiin.
+Vaiheet ovat samat riippumatta siitä, lisäätkö ensimmäisen Gmail-tilisi vai lisäätkö gmail-Outlook.
 
-1. Valitse **tiedosto**  >  **Lisää tili**.
-1. Kirjoita Sähkö posti osoitteesi ja valitse **Yhdistä**. Outlook käynnistää Gmail-ikkunan, jossa kysytään Sala sanaasi. 
-1. Kirjoita sala sana ja valitse **Kirjaudu** sisään.
+1. Valitse **Lisää**  >  **tili.**
+1. Kirjoita sähköpostiosoitteesi ja valitse **Näyttöyhteys**. Outlook avaa Gmail-ikkunan, jossa kysytään salasanaasi. 
+1. Kirjoita salasana ja valitse **Kirjaudu sisään**.
 > [!IMPORTANT]
-> Kun liität Gmail-tilin Outlookiin, näyttöön saattaa tulla varoitus viesti Gmailin Saapuneet-kansiosta, jossa kerrotaan, että uusi sisäänkirjautuminen Internet Explorerista on havaittu. Tämä toiminta ei ole virhe.
-4. Jos olet aiemmin ottanut käyttöön kahden tekijän todennuksen Gmailissa, sinua pyydetään antamaan mobiililaitteeseesi lähetetty koodi. Jos et ole ottanut käyttöön kaksiosaista todennusta, siirry vaiheeseen 6.
-1. Näyttöön tulee Google-tilin käyttö oikeudet-ikkuna. Valitse **Salli**.
-1. Kun Outlook on lisännyt Gmail-tilin, voit lisätä toisen Sähkö posti tilin tai valita **valmis**.
+> Kun olet yhdistänut Gmail-tilisi Outlook, saatat saada Gmailin Saapuneet-kansioon varoitussanoman, joka kertoo, että Internet Explorerista on havaittu uusi sisäänkirjautuminen. Tämä toiminta ei ole virhe.
+4. Jos olet aiemmin ottanut kaksimenetelmäistä todentamista käyttöön Gmailissa, sinua pyydetään antamaan mobiililaitteeseen lähetetty koodi. Jos et ole ottanut kaksivaiheista todentamismenetelmää käyttöön, siirry vaiheeseen 6.
+1. Google-tilin käyttöoikeudet -ikkuna tulee näkyviin. Valitse **Salli.**
+1. Kun Outlook Gmail-tilin lisäämisen jälkeen, voit lisätä toisen sähköpostitilin tai valita **Valmis**.
 > [!TIP]
-- > Jos valitset valinta ruudun, jossa määritetään Outlook Mobilen asetukset myös puhelimessa, siirryt sivustoon, johon voit kirjoittaa matka Puhelin numerosi, ja saat linkin, jonka avulla voit ladata Outlook for iOS:n tai Outlook for Androidin. Outlook Mobilen asentaminen on hyvä tapa pysyä ajan tasalla liikkeellä ollessasi.
-- Jos tarvitset ohjeita Sähkö posti tilin lisäämiseen lisä asetukset-kohdassa, Katso lisä tietoja artikkelista [Pop-tai IMAP-Sähkö posti tilin lisääminen Outlook for PC:ssä](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).
+- > Jos valitse asenna Outlook Mobile puhelimeeni -valintaruutu, siirryt sivustoon, johon voit antaa matkapuhelinnumerosi, ja saat linkin, jonka avulla voit ladata Outlook for iOS:n tai Outlook for Androidin. Outlook Mobilen asentaminen on hyvä tapa pysyä ajan tasalla tien päällä.
+- Jos tarvitset lisäasetuksia käyttäen sähköpostitilin lisäämiseen ohjeita, katso LISÄTIETOJA POP- tai IMAP-sähköpostitilin lisäämisestä [Outlook PC:lle](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).

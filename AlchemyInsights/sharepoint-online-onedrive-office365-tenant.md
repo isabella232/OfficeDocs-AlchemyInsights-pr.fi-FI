@@ -1,5 +1,5 @@
 ---
-title: SharePoint Onlinen tai OneDriven määrittäminen
+title: SharePoint Online- OneDrive määrittäminen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093595"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online tai OneDrive "määrittäminen"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online tai OneDrive määrittäminen
 
-Kun käyttäjä lisätään olemassa olevaan vuokraajaan, hän voi nähdä SharePoint Online-tai OneDrive for Business-kuvakkeet, jotka on lueteltu "määrittäminen" tai "Pyrimme edelleen saamaan tiedostojen asetukset", kunnes valmistelu prosessi on valmis. Saat ohjeita tämän [vian määritys oppaan](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) ohjeiden avulla.
+Kun käyttäjä lisätään aiemmin luotuun vuokraajaan, SharePoint Online- tai OneDrive for Business-kuvakkeet voivat olla "Määritetään" tai "Tiedostojen määritystä valmistellaan edelleen", kunnes valmisteluprosessi on valmis. Saat ohjeita [tästä vianmääritysoppaasta.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Jos sinulla on kulunut yli 24 tuntia siitä, kun olet ensimmäisen kerran nähnyt tämän ongelman, kirjaudu tuki pyyntöön.
+Jos tämän ongelman jälkeen on kulunut yli 24 tuntia, kirjaa tukitapaus.
 
-Ymmärrämme, että 24 tuntia voi tuntua pitkältä aika väliltä. Monissa tapa uksissa pyrimme jo ratkaisemaan ongelman. Anna meille vähintään 24 tuntia aikaa ratkaisun suorittamiseen.
+Ymmärrämme, että 24 tuntia voi vaikuttaa pitkältä ajasta. Monissa tapauksissa ongelmaan on jo tehty ratkaisu. Anna meille vähintään 24 tuntia aikaa ratkaista ongelma.
