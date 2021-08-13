@@ -1,5 +1,5 @@
 ---
-title: Kohteen palauttaminen, kun se ei ole enää Poistetut-kansiossa
+title: Kohteen palauttaminen, joka ei ole enää Poistetut-kansiossa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062339"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Kohteen palauttaminen, kun se ei ole enää Poistetut-kansiossa
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Kohteen palauttaminen, joka ei ole enää Poistetut-kansiossa
 
-Jos et löydä kohdetta Poistetut-kansiosta, seuraava etsittävä paikka on palautettavat-kansio. Tämä on piilo kansio, johon kohteet siirretään, kun:
+Jos et löydä kohdetta Poistetut-kansiosta, seuraavaksi voit etsiä Palautettavat-kansiota. Tämä on piilotettu kansio, johon kohteet siirretään, kun:
 - Ne poistetaan Poistetut-kansiosta.
-- Poistetut-kansio tyhjennetään joko puolestasi tai IT-järjestelmänvalvojasi määrittämällä käytännöllä.
-- Voit poistaa kohteen valitsemalla sen ja painamalla **näppäin yhdistelmää vaihto + Delete**.
+- Joko sinä itse tai IT-järjestelmänvalvojasi määrittänyt käytäntö tyhjentää Poistetut-kansion.
+- Voit poistaa kohteen valitsemalla sen ja painamalla näppäinyhdistelmää **Vaihto+Delete.**
 
-Palautettavat-kansioon siirrettyjen kohteiden tarkasteleminen ja palauttaminen:
-1. Kirjaudu Outlook Web Appiin selaimessa URL-osoitteella, jonka olet saanut organisaatiosi sähköpostia hallinnoivalta henkilöltä. Kirjoita käyttäjä nimesi ja Sala sanasi ja valitse sitten **Kirjaudu** sisään.
-1. Napsauta Sähkö posti kansio luettelossa **Poistetut kohteet**-kohtaa hiiren kakkos painikkeella ja valitse sitten **Palauta poistetut kohteet...**.
-1. Voit tarvittaessa etsiä palautettavan kohteen haku-ruudun avulla.
-1. Kun löydät kohteen, valitse se ja valitse sitten **Palauta**.
-   Palautetut kohteet siirretään kunkin kohde tyypin oletus sijaintiin.
-    - Viestit siirtyvät Saapuneet-kansioon.
-    - Kalenteri kohteet siirtyvät kalenteriisi.
-    - Yhteys tiedot siirtyvät yhteys tiedot-kansioon.
-    - Tehtävät-kansio siirtyy tehtävät-kansioon.
+Voit tarkastella ja palauttaa palautettavat kohteet, jotka on siirretty Palautettavat-kansioon:
+1. Kirjaudu Outlook Web Appiin selaimessa URL-osoitteella, jonka olet saanut organisaatiosi sähköpostia hallinnoivalta henkilöltä. Kirjoita käyttäjänimi ja salasana ja valitse sitten **Kirjaudu sisään**.
+1. Napsauta sähköpostin kansioluettelossa hiiren kakkospainikkeella **Poistetut ja** valitse sitten **Palauta poistetut kohteet...**.
+1. Etsi tarvittaessa palautettava kohde hakuruudun avulla.
+1. Kun löydät kohteen, valitse se ja valitse **palauta**.
+   Palautetut kohteet siirretään kunkin kohdetyypin oletussijaintiin.
+    - Viestit lähetetään Saapuneet-kansioon.
+    - Kalenterikohteet siirryt kalenteriin.
+    - Yhteystiedot menevät Yhteystiedot-kansioon.
+    - Tehtävät siirryt Tehtävät-kansioon.
 
-**Vihjeitä palautettavien kohteiden kansion kohteiden palauttamiseen**
+**Vinkit palautettavat kohteet Palautettavat-kansiossa**
 
-- Palautettavat-kansiossa olevan kohteen poistettu päivä määrä on, kun kohde siirrettiin Poistetut-kansioon. Se ei ole päivä määrä, jona kohde siirrettiin Palautettavat-kansioon.
-- Palautettavat-kansiossa olevissa kohteissa ei ole kuvakkeita, joten ne näyttävät hyvin samankaltaisilla.
-    - Jos etsit yhteys henkilöä, Etsi kohde, jossa on henkilön nimi, mutta ei aihe viivaa.
-    - Jos etsit kalenteri tapaamisia, Etsi kohde, jossa ei ole henkilön nimeä tai aihe riviä.
-    - Jos etsit yhteys henkilöä, kalenteria tai tehtävää, Etsi kohteen teksti.
-- Jos haluat palauttaa useita kohteita, pidä osoitinta kunkin kohteen päällä ja valitse sen vieressä oleva valinta ruutu ja valitse sitten **Palauta**. Voit myös palauttaa useita vierekkäisiä kohteita valitsemalla ensimmäisen kohteen valinta ruudun, pitämällä **vaihto** näppäintä painettuna ja valitsemalla sitten viimeisen kohteen valinta ruudun. Kun kaikki kohteet on valittu, valitse **Palauta**.
-- Voit tyhjentää kohteita **Palauta poistetut viestit** -luettelosta. Valitse kohde ja valitse sitten **Tyhjennä**. Jos puhdistat kohteen, et voi palauttaa poistettuja kohteita takaisin. Viestin tyhjentäminen ei poista sitä varmuus kopioista, jotka tehtiin ennen sen poistamista.
-- Organisaatiosi on saattanut määrittää, kuinka kauan Palautettavat-kansion kohteet ovat käytettävissä palautukseen. Voi olla esimerkiksi olemassa käytäntöä, joka poistaa kaikki Poistetut-kansiossa olevat kohteet 30 päivän ajan ja toisen käytäntöjen, joiden avulla voit palauttaa Palautettavat-kansion kohteita jopa 14 päivän ajan.
+- Palautettavat-kansiossa olevan kohteen poistettu päivämäärä on se, jolloin kohde siirrettiin Poistetut-kansioon. Se ei ole päivä, jolloin kohde siirrettiin Palautettavat-kansioon.
+- Palautettavat-kansiossa ei ole kuvakkeita, joten ne näyttävät hyvin samankaltaisilta.
+    - Jos etsit yhteyshenkilöä, etsi kohdetta, jolla on henkilön nimi, mutta ei aiheriviä.
+    - Jos etsit kalenteritapaamista, etsi kohdetta, jossa ei ole henkilön nimeä tai aiheriviä.
+    - Jos etsit yhteystietoa, kalenteritapaamista tai tehtävää, etsi sen tekstiä.
+- Jos haluat palauttaa useita kohteita, vie osoitin kunkin kohteen päälle ja valitse sen vieressä olevat valintaruudut, valitse **Palauta**. Voit myös palauttaa useita vierekkäisiä kohteita valitsemalla ensimmäisen kohteen  valintaruudun, pitämällä Vaihto-näppäintä painettuna ja valitsemalla sitten viimeisen kohteen valintaruudun. Kun kaikki kohteet on valittu, valitse **palauta**.
+- Voit tyhjentää kohteita Palauta **poistetut kohteet -luettelosta.** Valitse kohde ja valitse sitten **tyhjennä**. Jos tyhjennät kohteen, et voi palauttaa sitä Palauta poistetut kohteet -tällä. Viestin tyhjentäminen ei poista sitä varmuuskopioista, jotka on tehty ennen sen tyhjentämista.
+- Organisaatiosi on saattanut määrittää, kuinka kauan Palautettavat-kansion kohteet ovat palautettavissa. Käytäntö voi esimerkiksi poistaa kaikki 30 päivää Poistetut-kansiossa olleet kohteet ja toisen käytännön, jonka avulla voit palauttaa palautettavat kohteet Palautettavat-kansiosta enintään 14 päivän ajan.

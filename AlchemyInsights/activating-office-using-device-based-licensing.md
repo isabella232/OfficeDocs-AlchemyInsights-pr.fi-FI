@@ -1,5 +1,5 @@
 ---
-title: Officen aktivoiminen laitepohjaisia käyttöoikeuksia käyttäen
+title: Aktivointi Office käyttöoikeuksien avulla
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937314"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Officen aktivoiminen laitepohjaisia käyttöoikeuksia käyttäen
+# <a name="activating-office-using-device-based-licensing"></a>Aktivointi Office käyttöoikeuksien avulla
 
-Microsoft 365 Apps for Enterprisen laitepohjainen käyttöoikeus on saatavilla vain joidenkin kaupallisten asiakkaiden ja joidenkin education-asiakkaiden käyttöoikeuksina. Lisätietoja on kohdassa: [Laitepohjainen käyttöoikeus Microsoft 365 -sovelluksille yrityksille](https://docs.microsoft.com/deployoffice/device-based-licensing)
+Laitepohjainen käyttöoikeus Microsoft 365 -sovellukset suuryrityksille on saatavana käyttöoikeudena vain joillakin kaupallisilla asiakkailla ja joillakin opetusasiakkaille. Lisätietoja on kohdassa: [Laitepohjainen käyttöoikeus Microsoft 365 -sovellukset suuryrityksille](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Jos haluat aktivoida Microsoft 365 -sovellukset yrityksille laitepohjaisia käyttöoikeuksia käyttäen, katso:
+Lisätietoja Microsoft 365 -sovellukset suuryrityksille käyttöön laitepohjaisia käyttöoikeuksia käyttäen on kohdassa:
 
-- [Laitepohjaisen käyttöoikeuden käytön vaatimukset Microsoft 365 Apps for Enterprise -sovelluksissa](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Laitepohjaisen käyttöoikeuden määritysvaiheet Microsoft 365 Apps for Enterprise -sovelluksille](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Laitepohjaisen käyttöoikeuden käytön vaatimukset Microsoft 365 -sovellukset suuryrityksille](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Laitepohjaisen käyttöoikeuden määritysvaiheet Microsoft 365 -sovellukset suuryrityksille](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Ohjeita vianmääritykseen on kohdassa [Microsoft 365 -sovellusten enterprise-käyttöoikeuksien vianmääritys](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+Ohjeita vianmääritykseen on [kohdassa Laitepohjaisen käyttöoikeuden vianmääritys Microsoft 365 -sovellukset suuryrityksille](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Jos Microsoft 365 -sovellukset on jo asennettu ja aktivoitu käyttäjäperusteisten tilausten käyttöoikeuksien tai jaetun tietokoneen aktivoinnin yhteydessä, sinun on palautettava käyttöoikeuden tila laitteessa, ennen kuin siirryt laitepohjaisiin käyttöoikeuksiin. Lisätietoja aktivointitilasta on kohdassa [Microsoft 365 -sovellusten yritysaktivoinnin tilan palauttaminen](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Jos Microsoft 365 -sovellukset on jo asennettu ja aktivoitu käyttäjäpohjainen tilauskäyttöoikeus tai jaettu tietokoneaktivointi, sinun on palautettava käyttöoikeuden tila laitteessa, ennen kuin siirryt laitepohjaisiin käyttöoikeuksiin. Jos haluat palauttaa aktivointitilasi, katso [Microsoft 365 -sovellukset suuryrityksille palautustila](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)

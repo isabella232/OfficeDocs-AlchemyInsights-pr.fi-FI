@@ -1,5 +1,5 @@
 ---
-title: SharePointin Hub-sivuston yleiskatsaus
+title: SharePoint keskussivustojen yleiskatsaus
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093745"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>SharePointin Hub-sivuston yleiskatsaus
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint keskussivustojen yleiskatsaus
 
-SharePoint Hub-sivustot auttavat sinua täyttämään organisaatiosi tarpeet yhdistämällä ja järjestämällä sivustot, jotka perustuvat projektiin, osastoon, jakoon, alueeseen jne., mikä helpottaa:
+SharePoint keskussivustojen avulla voit vastata organisaatiosi tarpeisiin yhdistämällä ja järjestämällä sivustoja projektin, osaston, osastojen, alueen jne. perusteella, mikä helpottaa seuraavien tarpeiden huomioonottamista:
 
-- Tutustu aiheeseen liittyvään sisältöön, kuten uutisiin ja muihin sivuston toimintoihin.
+- Etsi liittyvää sisältöä, kuten uutisia ja muita sivuston toimintoja.
 
-- Käytä yleistä siirtymis-ja brändäystä liittyvissä kohteissa. 
+- Käytä yleistä siirtymis- ja brändäystä kaikissa liitetyissa sivustoissa. 
 
-- Hae kaikista siihen liittyvistä kohteista.
+- Hae kaikista niihin liittyvistä sivustoista.
 
-Lisä tietoja Hub-kohteista on seuraavissa artikkeleissa:
-- Pääsivuston [luominen SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/create-hub-site): Opi luomaan keskitin sivusto uudesta hallinta keskuksesta tai PowerShellin avulla.
+Lisätietoja keskussivustoista on seuraavissa ohjeissa:
+- [Keskussivuston luominen SharePoint Onlinessa:](https://docs.microsoft.com/sharepoint/create-hub-site)Opi luomaan keskussivusto uudesta hallintakeskuksesta tai PowerShellistä.
 
-- [SharePoint-sivuston liittäminen Hub-sivustoon](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): lisä tietoja olemassa olevien sivustojen liittämisestä Hub-sivustoon uuden hallinta keskuksen tai PowerShellin avulla.
+- [Sivuston SharePoint](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)keskussivustoon: Lisätietoja aiemmin luotujen sivustojen liitessä keskussivustoon uudessa hallintakeskuksessa tai PowerShellissä.
 
-- Pääsivuston [poistaminen](https://docs.microsoft.com/sharepoint/remove-hub-site): Lue, miten voit poistaa aiemmin luodun pääsivuston uuden hallinta keskuksen tai PowerShellin avulla.
+- [Keskussivuston poistaminen:](https://docs.microsoft.com/sharepoint/remove-hub-site)Opi poistamaan aiemmin luotu keskussivusto uudessa hallintakeskuksessa tai PowerShellissä.
 

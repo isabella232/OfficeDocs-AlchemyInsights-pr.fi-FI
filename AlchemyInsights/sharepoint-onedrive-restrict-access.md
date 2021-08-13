@@ -1,5 +1,5 @@
 ---
-title: Käytön rajoittaminen SharePointissa tai OneDrivessa
+title: Käytön rajoittaminen SharePoint OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,40 +9,40 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e9eb1822a7770bc206992cc5fb7e54a5c972b7e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc6731d5a7747bb4fc8d6cef1b6ac0045d11917d7f97abbb21eea9613b1b1aa2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093822"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Käytön rajoittaminen SharePointissa tai OneDrivessa
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Käytön rajoittaminen SharePoint OneDrive
 
-SharePoint Online-ja OneDrive-palveluiden käyttöä voi rajoittaa monin eri tavoin. Seuraavat eri käytön rajoitus tavat on kuvattu alla. 
+Online-/online-palvelujen SharePoint voidaan rajoittaa monella OneDrive tavalla. Nämä käyttörajoitusmenetelmät on kuvattu seuraavassa. 
 
-**Käyttö oikeus rajoitus**
+**Käyttöoikeuksien rajoitus**
 
-SharePoint Onlinessa ja OneDrive for Businessissa rajoitetaan kohteiden, kuten sivuston, tiedostojen ja kansioiden, käyttöä myöntämällä vain niiden ryhmien/henkilöiden oikeudet, joilla on oikeus käyttää niitä.
+SharePoint Onlinessa ja OneDrive for Business rajoitamme sivustojen, tiedostojen ja kansioiden käyttöoikeuksia myöntämällä käyttöoikeudet vain niille ryhmille/henkilöille, joilla on käyttöoikeus.
 
-- [SharePoint-luettelon tai-kirjaston käyttö oikeuksien mukauttaminen](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Luettelon tai SharePoint käyttöoikeuksien mukauttaminen](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [SharePoint-sivuston käyttö oikeuksien mukauttaminen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Sivuston SharePoint mukauttaminen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Alikansion käyttö oikeuksien muuttaminen](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Alikansion käyttöoikeuksien muuttaminen](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
 - [Hallitsemattomien laitteiden käytön hallinta](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePoint-tai yleinen-järjestelmänvalvojana voit estää tai rajoittaa SharePoint-ja OneDrive-sisällön käyttöä hallitsemattomista laitteista (ne, joita ei ole yhdistetty tai jotka on liitetty tai yhteensopiva Intunella).
+Yleisenä SharePoint tai yleisenä järjestelmänvalvojana voit estää SharePoint ja OneDrive sisällön käytön hallitsemattomista laitteista (joita ei ole liitetty yhdistelmäympäristöön AD tai jotka eivät ole yhteensopivia Intunessa).
 
-**Verkko sijainnin rajoitus**
+**Verkkosijainnin rajoitus**
 
-IT-järjestelmänvalvojana voit hallita SharePointin ja OneDriven resurssien käyttöä luotettavien verkko sijaintien perusteella. Tätä kutsutaan myös sijaintiin perustuväksi käytännöksi. Lisä tietoja on Ohje aiheessa [SharePoint Onlinen ja OneDrive-tietojen käytön hallinta verkko sijainnin perusteella](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+IT-järjestelmänvalvojana voit hallita resurssien SharePoint OneDrive määritettyjen verkkosijaintien perusteella. Tätä kutsutaan myös sijaintipohjaiseksi käytännönä. Lisätietoja on kohdassa Verkkosijaintiin [perustuvien SharePoint online- OneDrive hallinta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Sivuston lukitus rajoitus** 
+**Sivuston lukituksen rajoitus** 
 
-SharePoint Onlinessa sinulla on mahdollisuus lukita sivustokokoelma, joten kukaan ei voi käyttää sitä. Tämä määritetään PowerShellin ja [SharePoint Online-hallinta liittymän](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) kautta käyttämällä [joukkoa-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate-ominaisuutta.
+SharePoint Onlinessa voit lukita sivustokokoelman, joten kukaan ei voi käyttää sitä. Tämä määritetään PowerShellin ja [online SharePoint liittymän kautta](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) [käyttämällä Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState-ominaisuutta.
 
-**Sivuston tai alisivuston luomisen rajoittaminen käyttäjille**
+**Sivustojen tai alisivustojen luomisen estäminen käyttäjiltä**
 
-Kun olet SharePoint-järjestelmänvalvoja tai yleinen järjestelmänvalvoja, voit antaa käyttäjien luoda ja hallita omia SharePoint-sivustojaan, määrittää, millaisia sivustot voivat luoda ja määrittää sivuston sijainnin. Lisä tietoja on kohdassa [sivuston luomisen hallinta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Järjestelmänvalvojan SharePoint yleisenä järjestelmänvalvojana voit antaa käyttäjien luoda ja hallita omia SharePoint-sivustojaan, määrittää, millaisia sivustoja he voivat luoda, ja määrittää sivustojen sijainnin. Lisätietoja on kohdassa Sivuston luomisen [hallinta SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
