@@ -1,5 +1,5 @@
 ---
-title: Microsoft-sovellusten hallintatilan tarkasteleminen Microsoft Edge for iOS- tai Android-laitteilla
+title: Microsoft-sovellusten hallintatilan tarkasteleminen iOS Microsoft Edge- tai Android-laitteissa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004622"
 - "8325"
-ms.openlocfilehash: 4b88c97e15b62f68f5ff6c0bcc4243c78dfabb6a
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: da3b7e920ab4aa83bee0141af517ca249d9d838f37137d3901f6841b98ba9aae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919492"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-using-microsoft-edge-for-ios-or-android-devices"></a>Microsoft-sovellusten hallintatilan tarkasteleminen Microsoft Edge for iOS- tai Android-laitteilla
+# <a name="view-the-management-status-of-microsoft-apps-using-microsoft-edge-for-ios-or-android-devices"></a>Microsoft-sovellusten hallintatilan tarkasteleminen iOS Microsoft Edge- tai Android-laitteissa
 
-Jos haluat käyttää sovelluslokeja hallittujen iOS- tai Android-sovellusten vianmääritykseen, avaa Microsoft Edge ja kirjoita osoiteruutuun ***about:intunehelp.*** Microsoft Edge käynnistyy vianmääritystilassa.
+Jos haluat käyttää sovelluslokeja, joita käytetään hallittujen iOS- tai Android-sovellusten vianmäärityksessä, avaa Microsoft Edge ja kirjoita ***osoiteruutuun about:intunehelp.*** Microsoft Edge käynnistyy vianmääritystilassa.
 
-Luettelo sovelluslokeihin tallennetuista asetuksista on kohdassa [Tarkista asiakassovelluksen suojauslokit.](https://go.microsoft.com/fwlink/?linkid=2141401)
+Sovelluslokeihin tallennettujen asetusten luettelo on kohdassa [Asiakassovelluksen suojauslokien tarkistaminen.](https://go.microsoft.com/fwlink/?linkid=2141401)
 
-Lisätietoja sovelluslokien tarkastelemista Android-laitteissa on kohdassa Lataus- ja [sähköpostilokit.](https://go.microsoft.com/fwlink/?linkid=2141408)
+Lisätietoja sovelluslokien tarkasteleminen Android-laitteissa on kohdassa Upload [ja sähköpostilokit.](https://go.microsoft.com/fwlink/?linkid=2141408)

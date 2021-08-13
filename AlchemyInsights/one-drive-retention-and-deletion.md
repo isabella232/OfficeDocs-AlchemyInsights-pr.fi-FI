@@ -1,5 +1,5 @@
 ---
-title: OneDriven säilyttäminen ja poistaminen
+title: OneDrive ja poistaminen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985358"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDriven säilyttäminen ja poistaminen
+# <a name="onedrive-retention-and-deletion"></a>OneDrive ja poistaminen
 
-- Voit [palauttaa poistetut käyttäjät OneDriveen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse. Ne ovat roska korissa 93 päivän ajan.
+- Voit palauttaa [poistetut käyttäjät OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) itse. Ne ovat roskakorissa 93 päivän ajan.
 
-- Katso [tästä artikkelista](https://docs.microsoft.com/onedrive/retention-and-deletion) lisä tietoja:
-    - Miten voit antaa toisen käyttäjän käyttää poistettua käyttäjän OneDrivea.
-    - Mitä käyttäjän OneDriveen tapahtuu, kun käyttäjä poistaa organisaatiosi Microsoft 365-tilin.
+- Lisätietoja [on tässä](https://docs.microsoft.com/onedrive/retention-and-deletion) artikkelissa:
+    - Näin voit antaa toiselle käyttäjälle pääsyn poistetun käyttäjän OneDrive.
+    - Mitä käyttäjän tilille OneDrive tapahtuu, kun poistat Microsoft 365 tilin organisaatiostasi.
     - Automaattisen käytön delegoinnin määrittäminen.
-    - Miten OneDrive-poisto prosessi toimii.
+    - Miten OneDrive poistoprosessi toimii.
 
-- Lisä tietoja kohteiden palauttamisesta OneDrive-roska korista on Ohje aiheessa [poistettujen tiedostojen tai kansioiden palauttaminen](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Lisätietoja kohteiden palauttamisesta roskakorista OneDrive poistetuissa [tiedostoissa tai kansioissa.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-- Oletko kiinnostunut turvallisuus-ja yhteensopivuus keskuksen säilyttämisestä ja pidosta?
-    - [OneDrive-ja SharePoint-sivuston säilytys käytännöt](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [eDiscoveryn pito OneDrivessa ja SharePoint-sivustossa](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Kiinnostaako tietoturva- ja yhteensopivuuskeskuksen säilytys ja pito?
+    - [OneDrive ja SharePoint säilytyskäytännöt](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [eDiscovery-pito OneDrive ja SharePoint sivustoille](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

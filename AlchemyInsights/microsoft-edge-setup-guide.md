@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen käytön käynnistäminen
+title: Aloita Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992810"
 ---
-# <a name="start-using-microsoft-edge"></a>Microsoft Edgen käytön käynnistäminen
+# <a name="start-using-microsoft-edge"></a>Aloita Microsoft Edge
 
-Microsoft on julkaissut uuden Microsoft Edgen, joka on selaimen seuraavan sukupolven versio. Se perustuu avoimen lähdekoodin Chromium-pohjaan, ja se on optimoitu toimimaan Microsoft-tuotteiden, kuten SharePointin ja OneDriven, kanssa.
+Microsoft on julkaissut uuden Microsoft Edge, joka on selaimen seuraavan sukupolven versio. Se perustuu avoimen Chromium perustana, ja se on optimoitu toimimaan Microsoft-tuotteiden, kuten SharePoint ja OneDrive.
 
-Jos sinulla on ongelmia Google Chromen, Mozilla Firefoxin tai Safarin kanssa, suosittelemme käyttämään Microsoft Edgeä.
+Jos sinulla on ongelmia Google Chromen, Mozilla Firefoxin tai Safarin kanssa, suosittelemme käyttämään Microsoft Edge.
 
-Jos olet suuren organisaation järjestelmänvalvoja, aloita Microsoft [Edgen](https://go.microsoft.com/fwlink/?linkid=2142423) määritysoppaan avulla.
+Jos olet suuren organisaation järjestelmänvalvoja, [](https://go.microsoft.com/fwlink/?linkid=2142423) aloita Microsoft Edge määritysoppaan avulla.
 
-Jos haluat ladata Microsoft Edgen yhteen laitteeseen kerrallaan, siirry [esittelyssä uuden Microsoft Edgen esittely.](https://go.microsoft.com/fwlink/?linkid=2141049)
+Jos Microsoft Edge yhdellä laitteella kerrallaan, siirry esittelyssä [uuden Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)

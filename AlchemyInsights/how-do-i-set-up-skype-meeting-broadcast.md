@@ -1,5 +1,5 @@
 ---
-title: Miten Skype-kokouslähetys määritetään
+title: Lähetyslähetyksen Skype-kokous
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927070"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Etkö voi aloittaa Skype-kokouslähetystä tai liittyä siihen?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Eikö lähetystä voi aloittaa tai siihen Skype-kokous liittyä?
 
-Jos Skype-kokouslähetyksen (kokouksen tuottajan) on vaikea aloittaa tai liittyä Skype-kokouslähetykseen, muista tarkistaa määrityksesi uudelleen. Skype-kokouslähetys edellyttää joitakin manuaalisia määritysvaiheita. Noudata tämän artikkelin ohjeita ja varmista, että verkkosi ja Skype for Business Online -portaalisi on määritetty oikein ja että ristiriitainen käyttöoikeus ei estä käyttäjää:
+Jos sinulla on ongelmia lähetyslähetyksen Skype-kokous (kokouksen tuottajana), varmista, että tarkistat määrityksesi uudelleen. Skype-kokous Lähetys edellyttää joitakin manuaalisia määritysvaiheita. Varmista tämän artikkelin ohjeiden avulla, että verkkosi ja Skype for Business Online -portaalisi on määritetty oikein ja että ristiriitainen käyttöoikeus ei estä käyttäjää:
 
-[Verkon määrittäminen Skype-kokouslähetystä varten](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Verkon määrittäminen lähetystä Skype-kokous varten](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

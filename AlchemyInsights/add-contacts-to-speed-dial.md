@@ -1,5 +1,5 @@
 ---
-title: Yhteys tietojen lisääminen pikavalintaan
+title: Yhteystietojen lisääminen pikavalintaan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954550"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Yhteys tietojen lisääminen pikavalintaan
+# <a name="add-contacts-to-speed-dial"></a>Yhteystietojen lisääminen pikavalintaan
 
-1. Valitse  **puhelut**-kohdassa  **yhteys tiedot**.
-2. Jos näet kortin henkilölle, jonka haluat lisätä pikavalintaan, valitse kortissa  **Lisää asetuksia**  (kolme pistettä) ja valitse sitten  **Lisää pikavalintaan**.
+1. Valitse  **Puhelut**-ssa  **Yhteystiedot**.
+2. Jos näet sen henkilön kortin, jonka haluat lisätä pikavalintaan, valitse hänen kortissaan Lisäasetukset  **(kolme**  kiekkosäädintä) ja valitse Lisää  **pikavalintaan**.
 
-Jos et näe henkilöä, valitse  **Lisää Pikavalinta**  näytön oikeassa yläkulmassa, kirjoita henkilön nimi, valitse henkilö ja valitse sitten  **Lisää**.
+Jos et näe henkilöä, valitse  Lisää pikavalinta näytön oikeassa yläkulmassa, ala kirjoittaa hänen nimeään, valitse henkilö ja valitse **sitten Lisää**.
