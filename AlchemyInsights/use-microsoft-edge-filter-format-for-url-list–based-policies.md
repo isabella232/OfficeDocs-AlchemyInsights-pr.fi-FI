@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen suodatin muotoilun käyttäminen URL-osoitteiden luettelopohjaisia käytäntöjä varten
+title: URL Microsoft Edge luettelokäytäntöjen suodatusmuodon käyttäminen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 440e27e066cb8b2e8ca7d1c9e907a8c9bbd2a8cb23592c231f343442ff9e06d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919456"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Microsoft Edgen suodatin muotoilun käyttäminen URL-osoitteiden luettelopohjaisia käytäntöjä varten
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>URL Microsoft Edge luettelokäytäntöjen suodatusmuodon käyttäminen
 
-Microsoft Edge-versiossa 77 ja uudemmissa versioissa suodatus muotoa voidaan käyttää [URL-osoitteiden luettelopohjaisissa politiikoissa](https://go.microsoft.com/fwlink/?linkid=2135179).
+Jos Microsoft Edge versiossa 77 tai uudemmassa versiossa, suodatinmuotoa voidaan käyttää [URL-luettelopohjaisiin käytäntöihin.](https://go.microsoft.com/fwlink/?linkid=2135179)

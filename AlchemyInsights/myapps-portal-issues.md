@@ -13,52 +13,52 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: 09e5b7c40f77f6221acc7c072d3ddf6f072e8d7fafdf29be8262dfeed051dddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986078"
 ---
 # <a name="myapps-portal-issues"></a>MyApps-portaalin ongelmat
 
-Lisätietoja Ongelmien vianmäärityksestä, joita ilmenee, kun kirjaudut sisään Omat sovellukset -portaaliin tai käytät sitä, on ohjeaiheessa Omat sovellukset [-portaalin ongelmien vianmääritys.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+Tietoja ongelmien vianmäärityksestä, joita ilmenee kirjautuessa Omat sovellukset -portaaliin tai käyttämällä My Apps -portaalia, on kohdassa Omat sovellukset [-portaalin ongelmien vianmääritys.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**En näe sovelluksen käyttöpaneelissa odottamaani sovelluksia**
+**En näe sovelluksen käyttöpaneelissa odotta olennaista sovellusta**
 
-Ohjeita siitä, miksi odottamiesi sovellusten näkyminen sovelluksen käyttöpaneelissa ei näy:
+Lisätietoja siitä, miksi odottamassasi sovellukset eivät näy sovelluksen käyttöpaneelissa, on ohjeaiheessa:
 
 - [En tiedä, miksi määritetty sovellus ei näy käyttöpaneelissa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [En tiedä, miksi sovellus näkyy käyttöpaneelissa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+- [En tiedä, miksi sovellus näkyy ohjauspaneelissa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Minulla on ongelmia sovelluksen käyttöpaneeliin kirjautumisessa**
 
-Lisätietoja sovelluksen käyttöpaneeliin kirjautumisongelmien vianmäärityksestä on kohdassa:
+Lisätietoja sovelluksen käyttöoikeuspaneeliin kirjautumisongelmien vianmäärityksestä on kohdassa:
 
 [En voi kirjautua käyttöpaneelin sivustoon](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Minulla on ongelmia sovelluksen käyttöpaneelin selainlaajennyksen käytössä**
+**Sovelluksen käyttöpaneelin selainlaajennusten käytössä ilmenee ongelmia**
 
-Lisätietoja sovelluksen käyttöpaneelin selainlaajennuksia koskevien ongelmien vianmäärityksestä on kohdassa:
+Lisätietoja sovelluksen käyttöoikeuspaneelin selainlaajennuksia koskevien ongelmien vianmäärityksestä on kohdassa:
 
-[Sovelluksen käyttöpaneelin selainlaajennuksia asennettaessa ilmeni virhe](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Näin virheen asennettaessa sovelluksen käyttöpaneelin selainlaajennuksia](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
 **Minulla on ongelmia sovelluksen käyttöpaneelin ominaisuuden kanssa**
 
-Tietoja sovelluksen käyttöpaneelin tiettyyn ominaispiimiseen liittyvien ongelmien vianmäärityksestä on ohjeaiheessa:
+Tietoja sovelluksen käyttöpaneelin tiettyyn ominaispiimiin liittyvien ongelmien vianmäärityksestä on kohdassa:
 
-- [En osaa käyttää omatoimista sovellusten käyttöä](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [En tiedä, miten omatoimista sovellusten käyttöä voi käyttää](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [I encountered a problem when using self-service application access](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Kohtasin ongelman käytettäessä omatoimista sovellusten käyttöolta](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Jos Sinulla on ongelmia Omat sovellukset -portaalin käyttöönotossa tai käytössä**
+**Jos Omat sovellukset -portaalin käyttöönotossa tai käytössä ilmenee ongelmia**
 
-Lisätietoja MyApps-portaalin käyttöönoton tai käytön ongelmien vianmäärityksestä on ohjeaiheessa:
+Lisätietoja MyApps-portaalin käyttöönoton tai käytön ongelmien vianmäärityksestä on seuraavassa:
 
 - [Kokoelmien luominen Omat sovellukset -portaalissa](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Omatoiminen sovellusmääritys](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Omatoiminen sovellusmäärityksen määrittäminen](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
 - [Loppukäyttäjän ongelmien vianmääritys Omat sovellukset -portaalissa](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 

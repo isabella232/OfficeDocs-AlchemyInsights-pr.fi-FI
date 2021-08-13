@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986222"
 ---
 # <a name="move-public-folders-between-public-folder-mailboxes"></a>Julkisten kansioiden siirtäminen yleisen kansion postilaatikoiden välillä
 
-Exchange Onlinen yleiset kansiot voidaan siirtää yleisen kansion postilaatikoiden välillä Outlook for Windows -työpöytäsovelluksessa.
+Voit siirtää Exchange kansion postilaatikkojen välillä Windowsin työpöytäsovelluksen Outlook avulla.
 
-Jos yrität siirtää yleiset kansiot Exchangen paikallisesta kaupasta Exchange Onlineen, tutustu seuraaviin artikkeleihin:
+Jos yrität siirtää julkisia kansioita paikallisesta Exchange online-Exchange, tutustu seuraaviin artikkeleihin:
 
-[Exchange Server 2013:n 2016 2019:n julkisten kansioiden siirtäminen Exchange Onlineen](https://aka.ms/ModernPFToEXO)
+[Siirrä Exchange Server 2013 2016 2019 :n yleiset kansiot Exchange verkkoon](https://aka.ms/ModernPFToEXO)
 
-[Exchange Server 2010:n julkisten kansioiden siirtäminen Exchange Onlineen](https://aka.ms/LegacyPFToEXO)
+[Siirrä Exchange Server 2010:n yleiset kansiot Exchange Online](https://aka.ms/LegacyPFToEXO)

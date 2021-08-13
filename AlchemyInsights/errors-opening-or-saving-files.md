@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978086"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Word-tiedostojen avaamis- tai tallennusvirheiden ratkaiseminen
 
 Jos Word-asiakirjojen avaamisessa tai tallentamisessa ilmenee ongelmia, kokeile seuraavaa:
 
-- [Asenna Office-päivitykset.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Luettelo uusimmista Office-päivityksistä on kohdassa [Uusimmat päivitykset.](https://docs.microsoft.com/officeupdates/office-updates-msi)
+- [Asenna Office päivitykset](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Luettelo uusimmista Office on kohdassa [Uusimmat päivitykset.](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Vioittuneiden asiakirjojen vianmääritys Wordissa.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
-- [Office-sovelluksen korjaaminen](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Korjaa Office sovellus.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - Jos asiakirjassa on muutosmuutoksia, [käytä Wordin](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) ehdotuksia hitaasti tai lakkaa vastaamasta, jos ongelmaan on tehty liikaa muutos- tai kommenttiehdotuksia.
 
-Jos sait seuraavankaltaista virhesanomaa, käytä ohjeita kohdassa Officen virhesanoma, kun rekisterikäytäntöasetukset estävät [tiedoston:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
+Jos sait seuraavankaltaista virhesanomaa, käytä ohjeita kohdassa Virheilmoitus Office, kun rekisterikäytäntöasetukset estävät [tiedoston:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
 - Yrität avata tiedostoa, jonka käytön rekisteriasetus on estänyt.
 - Yrität avata tiedostotyyppiä **\<File Type\>**, joka on estetty luottamuskeskuksen tiedoston estoasetuksissa.
@@ -36,10 +36,10 @@ Jos sait seuraavankaltaista virhesanomaa, käytä ohjeita kohdassa Officen virhe
 - Yrität tallentaa tiedostoa, jonka käytön rekisteriasetus on estänyt.
 - Yrität tallentaa tiedostotyypin, jonka Luottamuskeskuksen Tiedostojen esto -asetukset ovat estäneet.
 
-Jos Office-tiedostojen avaamisessa SharePoint- tai OneDrive-tiedostokirjastoista on ongelmia, kokeile seuraavaa:
+Jos sinulla on ongelmia avata Office-tiedostoja SharePointin tai OneDriven tiedostokirjastosta, kokeile seuraavaa:
 
-- Tarkista tiedostorajoitukset kohdassa Virheelliset tiedostonimet ja tiedostotyypit [OneDrivessa, OneDrive for Businessissa](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) ja SharePointissa, jotta voit varmistaa, että tiedosto on tuettu. 
-- [Poista Officen tiedostovälimuisti](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
+- Tarkista tiedostojen rajoitukset ohjeartikkelista [Virheelliset tiedostonimet ja -tyypit OneDrivessa, OneDrive for Businessissa ja SharePointissa](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa), jotta voit varmistaa, että tiedosto on tuettu. 
+- [Officen tiedostovälimuistin tyhjentäminen](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Lisätietoja on kohdassa Tiedostojen [avaamiseen SharePoint-kirjastoissa liittyviä ongelmia.](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536)
+Lisätietoja on ohjeartikkelissa [Tiedostoja SharePoint-kirjastoista avattaessa ilmenevien ongelmien korjaaminen ](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
