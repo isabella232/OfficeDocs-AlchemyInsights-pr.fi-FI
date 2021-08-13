@@ -1,5 +1,5 @@
 ---
-title: 1050 antispam 4.7.500 Server varattu. Yritä myöhemmin uudelleen osoitteesta [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Server varattu. Yritä myöhemmin uudelleen [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932634"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 palvelin varattu, yritä myöhemmin uudelleen
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Palvelin on varattu, yritä myöhemmin uudelleen
 
-Tämä virhe ilmenee, kun lähde-IP-osoitteen Sähkö posti liikenteen määrä ylittää lähteen IP-osoitteen mainetta (tai maineen puutetta) koskevan rajan.
+Tämä virhe ilmenee, kun IP-osoitteen lähde-IP-osoitteen sähköpostiliikenteen määrä ylittää rajoituksen lähde-IP-osoitteen maineen (tai maineen puuttumisen) perusteella.
 
-Sähkö postin estäminen lähde-IP-osoitteesta vanhenee tunnin kuluessa. Jos lähde-IP-osoite on paikallinen Sähkö posti palvelin, joka kuuluu sinulle, tarkista postin kulun yhdistimen konfiguraatio. Jos toiminto jatkuu yli tunnin, ota yhteyttä tukeen, jos haluat pyytää poikkeuksen lähde-IP-osoitetta varten.
+Sähköpostin estäminen lähde-IP-osoitteesta vanhenee tunnin kuluessa. Jos lähde-IP-osoite on paikallinen sähköpostipalvelin, joka kuuluu sinulle, tarkista postinkulkuyhdistimen määritykset. Jos toiminta jatkuu yli tunnin, pyydä tukipalvelusta poikkeus lähde-IP-osoitetta varten.

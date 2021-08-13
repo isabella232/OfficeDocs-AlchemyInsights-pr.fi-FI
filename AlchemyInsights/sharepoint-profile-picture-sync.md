@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957430"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Milloin profiilini muuttuu synkronoituna SharePoint-käyttäjä profiili sovellukseen?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Milloin profiilini vaihtuu synkronoiduksi SharePoint profiilisovellukseksi?
 
-SharePoint Onlinen profiili kuvan synkronointi edellyttää käyttäjän toimenpidettä, jonka avulla hänen kuvansa synkronointi aloitetaan. Kuvia ei synkronoida automaattisesti SharePoint Onlineen. SharePoint Online synkronoi vain Exchange Onlinen kuvat, ei Azure Active Directorya.
+Profiilikuvasynkronointi SharePoint Onlinessa edellyttää käyttäjän toimia aloittaakseen valokuvan synkronoinnin. Onlinessa ei ole valokuvien automaattista SharePoint. SharePoint Online synkronoi vain valokuvat Exchange Online, ei Azure Active Directory.
 
-Jos käyttäjä ei ole koskaan suorittanut toimintoa, joka kysyy synkronointia tai kun hän on päivittänyt profiili kuvansa ja uutta ei näy SharePoint Onlinessa, käyttäjän täytyy ehkä pyytää sitä synkronoimaan. Näin he voivat tehdä näin:
+Jos käyttäjä ei ole koskaan suorittanut toimintoa, joka kehottaa synkronointia tai on päivittänyt profiilikuvansa eikä uutta kuvaa näy SharePoint Onlinessa, käyttäjän on ehkä kehotetava sitä synkronoimaan. Näin he voivat tehdä tämän:
 
-1. Avaa selain yksityisessä tai incognito-istunnossa ja [siirry Office.com](https://www.office.com/).
+1. Avaa selain In-Private Incognito-istunnossa ja siirry [Office.com.](https://www.office.com/)
 
-2. Kirjaudu sisään työpaikan tai oppi laitoksen tilillä ja napsauta OneDrive-tai SharePoint-ruutua.
+2. Kirjaudu sisään hänen työ- tai koulutilinsä avulla ja napsauta OneDrive tai SharePoint ruutua.
 
-3. [Lisää hänen profiili kuvani Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Lisää hänen profiilikuvansa Microsoft 365.](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-[Tietoja profiili kuvan synkronoinnista Microsoft 365-sovelluksessa](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Tietoja profiilikuvasynkronoinnista Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

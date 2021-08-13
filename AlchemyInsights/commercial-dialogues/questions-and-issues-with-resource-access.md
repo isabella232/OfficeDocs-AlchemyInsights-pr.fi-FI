@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967294"
 ---
 # <a name="questions-and-issues-with-resource-access"></a>Resurssin käyttöön liittyvät kysymykset ja ongelmat
 
-Lisätietoja Intune-profiilityypeistä on kohdassa:
+Lisätietoja intune-profiilityypeistä, joiden avulla käyttäjät voivat käyttää yritysinfrastruktuuria ja resursseja, on kohdassa:
 
-- [Asetusten Wi-Fi ja käyttäminen laitteissa Microsoft Intunessa](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [Lisää ja Wi-Fi asetuksia laitteissasi Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
 - [Sähköpostiasetusten lisääminen laitteisiin Intunen avulla](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [Varmenteiden käyttö todentamiseen Microsoft Intunessa](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [Varmenteiden käyttö todennusta Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
 - [VPN-profiilien luominen VPN-palvelimiin yhteyden muodostamista varten Intunessa](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Lisätietoja...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

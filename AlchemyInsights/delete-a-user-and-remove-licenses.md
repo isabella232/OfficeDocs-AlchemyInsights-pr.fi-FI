@@ -1,5 +1,5 @@
 ---
-title: Käyttäjän poistaminen ja käyttö oikeuksien poistaminen
+title: Käyttäjän poistaminen ja käyttöoikeuksien poistaminen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "7438"
-ms.openlocfilehash: 1867556cc85a0f7ed0c7cdb22061a63d559fbb4b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 7437a9b1ffd483244222c7bda192e25e76efc8088f3bf92facfb27ee5bf0e503
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948210"
 ---
-# <a name="delete-a-user-and-remove-licenses"></a>Käyttäjän poistaminen ja käyttö oikeuksien poistaminen
+# <a name="delete-a-user-and-remove-licenses"></a>Käyttäjän poistaminen ja käyttöoikeuksien poistaminen
 
-Käyttäjän poistaminen poistaa myös käyttäjän käyttö oikeudet ja antaa ne muiden käyttäjien käyttöön. 
-1. Valitse hallinta keskuksessa **käyttäjät** , > aktiiviset käyttäjät.
-1. Valitse poistettava käyttäjä tai poistettavat käyttäjät ja valitse **Poista käyttäjä**.
+Käyttäjän poistaminen poistaa myös käyttöoikeudet, jolloin ne ovat muiden käyttäjien käytettävissä. 
+1. Valitse hallintakeskuksessa Käyttäjät, jotka **>** aktiiviset käyttäjät.
+1. Valitse poistettava käyttäjä tai käyttäjät ja valitse **Poista käyttäjä**.
 
-Lisä tietoja on Ohje aiheessa [Käyttäjän poistaminen organisaatiosta](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 
+Lisätietoja on kohdassa [Käyttäjän poistaminen organisaatiosta.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) 
