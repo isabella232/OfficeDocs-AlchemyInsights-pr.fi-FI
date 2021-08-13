@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 141aafa8cb2287dfad44276505bba9639a16973436cc6853a026f9cc5ee44863
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917780"
 ---
-# <a name="delete-the-office-document-cache"></a>Officen tiedostovälimuistin poistaminen
+# <a name="delete-the-office-document-cache"></a>Tiedostovälimuistin Office poistaminen
 
-Jos sait Excelin kehotteen, jonka mukaan tiedoston uudempi versio on **käytettävissä,** poista Officen tiedostovälimuisti noudattamalla officen tiedostovälimuistin poistaminen [ohjeita.](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Yritä sitten avata tiedosto uudelleen.
+Jos sait Excel, että tiedoston uudempi versio on käytettävissä **,** poista Office-tiedostovälimuisti noudattamalla ohjeita, jotka ovat Office [tiedostovälimuistin poistaminen.](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Yritä sitten avata tiedosto uudelleen.

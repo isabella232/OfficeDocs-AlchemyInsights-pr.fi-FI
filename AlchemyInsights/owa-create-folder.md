@@ -1,5 +1,5 @@
 ---
-title: Kansion luominen Outlookin verkko versiossa
+title: Kansion luominen Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961228"
 ---
 # <a name="create-a-folder"></a>Kansion luominen
 
-1. Valitse Outlookin verkko version kansio ruudun alaosassa **Uusi kansio**. Sinun on ehkä vieritettävä kansio ruudussa alaspäin, jotta **Uusi kansio** -painike tulee näkyviin.
-1. Kirjoita teksti ruutuun kansion nimi ja paina sitten ENTER-näppäintä.
+1. Valitse tiedostoruudun kansioruudun Outlookin verkkoversio Uusi **kansio**. Sinun on ehkä vieritettävä kansioruutua alaspäin, jotta Uusi kansio **-painike tulee** näkyviin.
+1. Kirjoita tekstiruutuun kansion nimi ja paina sitten Enter-näppäintä.
 
-Lisä tietoja on artikkelissa [viesti kansioiden käyttäminen Outlookin verkko](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)versiossa.
+Lisätietoja on kohdassa [Viestikansioiden käyttäminen Outlookin verkkoversio.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
