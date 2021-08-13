@@ -1,5 +1,5 @@
 ---
-title: Luettelon kohteiden kommentit
+title: Kommentit luettelokohteista
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995484"
 ---
-# <a name="comments-on-list-items"></a>Luettelon kohteiden kommentit
+# <a name="comments-on-list-items"></a>Kommentit luettelokohteista
 
-Käyttäjät voivat tarkastella kaikkia luettelon kohteen kommentteja ja suodattaa niiden näkymien välillä, jotka näyttävät kohteeseen liittyviä kommentteja tai toimintaa.
+Käyttäjät voivat tarkastella kaikkia luettelokohteen kommentteja ja suodattaa näkymästä toiseen, jossa näkyvät kohteeseen liittyvät kommentit tai aktiviteetit.
 
-Käyttäjien on huomioitava seuraavat asiat, ennen kuin he voivat lisätä ja poistaa kommentteja:
+Käyttäjien on huomioitu seuraavat seikat, ennen kuin he voivat lisätä ja poistaa kommentteja:
 
-- Kommentit noudattavat SharePointiin sisältyviä käyttö oikeus asetuksia.
-- Perinteiset luettelot, joita ei ole vielä suunniteltu nykyaikaisiin käyttö liittymään, kuten tehtävä luetteloihin, eivät saa tätä kommentointi ominaisuutta.
-- Teamsin luetteloiden kommentointi ei ole käytettävissä tässä julkaisussa.
+- Kommentit noudattavat käyttöoikeusasetuksia, jotka ovat luonnostaan SharePoint.
+- Tämä kommentointiominaisuus ei ole perinteinen luettelo, jota ei ole vielä luotu näkymään nykyaikaisissa käyttöliittymässä, kuten tehtäväluetteloissa.
+- Luetteloiden kommentointi Teams ole käytettävissä tässä versiossa.
 - Haku ei indeksoi kommentteja.
 
-Järjestelmänvalvojat voivat poistaa tämän ominaisuuden käytöstä organisaatio tasolla, jos muutat **Commentsonlistitemsdisabled** -parametria, joka on käytössä **-spovuokraaja** PowerShell cmdlet-komentosovelmassa.
+Järjestelmänvalvojat voivat poistaa tämän ominaisuuden käytöstä organisaatiotasolla muuttamalla **CommentsOnListItemsDisabled-parametria** **Set-SPOTenant** PowerShellin cmdlet-komennossa.
 
-Tällä hetkellä ei ole mahdollista poistaa kommentointia käytöstä sivuston tai luettelon tasolla. Toivomme, että nämä hallinta toiminnot ovat myöhemmässä päivityksessä todennäköisiä vuoden 2021 ensimmäisellä neljänneksellä.
+Tällä hetkellä ei ole mahdollista poistaa kommentoinnit käytöstä sivuston tai luettelon tasolla. Toivomme, että nämä ohjausobjektit ovat myöhemmässä päivityksessä, todennäköisesti vuoden 2021 ensimmäisellä neljännellä neljänneksellä.

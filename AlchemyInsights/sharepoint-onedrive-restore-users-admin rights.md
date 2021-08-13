@@ -1,5 +1,5 @@
 ---
-title: Käyttö estetty-viestien vian määritys OneDrive for Business-sivustossa
+title: Estettyjen sanomien vianmääritys OneDrive for Business sivustoille
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc4a2bd7dcc74f5f05e8b709e4bc3eac6ed445d6e2ea9ede698abbc8667723ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957790"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Käyttö estetty-viestien vian määritys OneDrive for Business-sivustossa
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Estettyjen sanomien vianmääritys OneDrive for Business sivustoille
 
-Tämä ongelma ilmenee useimmiten silloin, kun käyttäjä poistetaan ja luodaan uudelleen käyttäen samaa käyttäjän päänimeä (UPN). Uusi tili luodaan käyttämällä toista PUID (Passport Unique ID)-arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai OneDrivea, käyttäjällä on virheellinen PUID. Toinen skenaario sisältää hakemisto synkronoinnin Active Directoryn organisaatio yksikön (OU) kanssa. Jos käyttäjä on jo kirjautunut SharePointiin ja siirtyy sitten toiseen organisaatio yksikköön ja on siirretty SharePointiin, ongelma saattaa ilmetä.
+Tämä ongelma ilmenee useimmiten silloin, kun käyttäjä poistetaan ja luodaan uudelleen samalla käyttäjätunnuksilla (UPN). Uusi tili luodaan käyttämällä eri PUID (Passport Unique ID) -arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai hänen OneDrive, käyttäjällä on virheellinen PUID. Toiseen skenaarioon liittyy hakemistosynkronointi Active Directory -organisaatioyksikön (OU) kanssa. Jos käyttäjät ovat jo kirjautuneet SharePoint ja sitten siirretään toiseen OU:han ja synkronoitu SharePoint, he saattavat kokea tämän ongelman.
 
-1. Voit korjata ongelman palauttamalla alkuperäisen UPN:N artikkelin ohjeiden mukaisesti ja [palauttamalla käyttäjän Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)-sovelluksessa.
-2. Jos et pysty palauttamaan alkuperäistä käyttäjää, sinun on poistettava vanha käyttäjä OneDrive-sivustosta noudattamalla näitä ohjeita, [poistamalla käyttäjä käyttäjä tieto luettelosta](). 
-3. Kun tämä on tehty, voit tarkistaa, että käyttäjällä on järjestelmänvalvojan oikeudet OneDrive-sivustoon, noudattamalla ohjeita, jotka koskevat [järjestelmänvalvojan lisäämistä käyttäjän OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles) -palveluun.
+1. Voit ratkaista ongelman palauttamaan alkuperäisen upnin käyttäjätunnuksen artikkelin Käyttäjän palauttaminen [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+2. Jos et voi palauttaa alkuperäistä käyttäjää, poista vanha käyttäjä OneDrive-sivustosta seuraavasti: Käyttäjän poistaminen [käyttäjätietojen luettelosta.]() 
+3. Kun tämä on tehty, voit varmistaa, että käyttäjällä on OneDrive-sivuston järjestelmänvalvojan oikeudet, noudattamalla ohjeita, jotka koskevat järjestelmänvalvojan [OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Lisä tietoja käyttö oikeus tasoista on artikkelissa tietoja [SharePointin käyttö oikeus tasoista](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Lisätietoja käyttöoikeustasoista on artikkelissa Tietoja [käyttöoikeustasoista SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)

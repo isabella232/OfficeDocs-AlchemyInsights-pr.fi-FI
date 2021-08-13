@@ -1,5 +1,5 @@
 ---
-title: Uloskuittauksen hylkääminen
+title: Uloskuikin hylkääminen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2b3068d2874df7f1884968766e6c00776d2023e5c44ef697401485b57f9fadf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928510"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Uloskuittauksen hylkääminen tiedosto kirjastossa
+# <a name="discard-a-check-out-from-a-document-library"></a>Tiedostokirjastosta uloskui uloskuimisen hylkääminen
 
-1. Napsauta hiiren kakkos painikkeella tiedostoa, jonka haluat hylätä uloskuittauksen.
+1. Napsauta hiiren kakkospainikkeella tiedostoa, jonka uloskuitaan haluat hylätä.
     
-2. Valitse **Lisää**ja valitse sitten **Hylkää**uloskuittaus. 
+2. Valitse **Lisää** ja valitse sitten **Hylkää uloskuitaaminen**. 
     
-3. Valitse valinta ikkunassa **Hylkää** uloskuittaus, jos haluat tyhjentää uloskuittauksen. 
+3. Poista **uloskuikäynnistä valitsemalla** valintaikkunassa Hylkää uloskui valinta. 
     
-Lisä tietoja sisäänkuittauksesta ja uloskirjautumisesta on Ohje aiheessa [uloskuittausta, sisäänkuittausta ja versioita koskevat yleisimmät kysymykset](https://go.microsoft.com/fwlink/?linkid=2018786).
+Lisätietoja sisään- ja uloskuitaan tarkistuksista on kohdassa Suosituimmat kysymykset [uloskuitaan, sisäänkuitaan ja versioihin liittyen.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 
