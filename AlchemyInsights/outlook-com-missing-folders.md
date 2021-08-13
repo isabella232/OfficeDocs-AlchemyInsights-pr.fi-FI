@@ -1,5 +1,5 @@
 ---
-title: Outlook.com puuttuvat kansiot
+title: Outlook.com Puuttuvat kansiot
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984062"
 ---
 # <a name="find-missing-folders"></a>Puuttuvien kansioiden etsiminen
 
-Jotkin käyttäjät eivät välttämättä näe vasemmanpuoleisen kansion ruutua, kun niitä tarkastellaan pienessä näytössä.
+Jotkut käyttäjät eivät ehkä näe vasenta kansioruutua, kun tarkastelet näyttöä pienessä näytössä.
 
-- Jos et näe kansio-ruutua, Suurenna selain ikkunaa tai Vieritä vasemmalle, jos haluat tarkastella kansio luetteloa.
-- Laajenna kansio ruutu vain silloin, kun tarvitset sitä. Jos haluat näyttää tai piilottaa kansioita, Valitse vasemmassa reunassa olevasta palkista kolme viivaa-kuvake.
-- Avaa [asettelu asetukset](https://outlook.live.com/mail/options/mail/layout) ja valitse **Piilota luku ruutu** ja sitten **Tallenna**. Tämä antaa näytölle enemmän tilaa kansioiden näyttämiseksi.
+- Jos et näe kansioruutua, suurenna selainikkuna tai tarkastele kansioluetteloa vierittämällä vasemmalle.
+- Laajenna kansioruutu vain silloin, kun tarvitset sitä. Näytä tai piilota kansiot valitsemalla vasemmassa reunassa näkyvä kolmen rivin kuvake.
+- Avaa [asetteluasetukset,](https://outlook.live.com/mail/options/mail/layout) valitse **Piilota lukuruutu** ja valitse sitten **Tallenna**. Tämä antaa näytölle lisää tilaa kansioiden näyttämiseksi.
 
-Jos poistat vahingossa kansion, voit palauttaa sen, jos se on edelleen Poistetut-kansiossa. Lisä tietoja on artikkelissa [poistettujen Sähkö posti viestien palauttaminen Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)-sovelluksessa.
+Jos poistat kansion vahingossa, voit palauttaa sen, jos se on edelleen Poistetut-kansiossa. Saat lisätietoja lukemalla ohjeet [poistettujen sähköpostiviestien palauttamiseen Outlook.comissa.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)

@@ -1,5 +1,5 @@
 ---
-title: 305 lisää Arkisto posti laatikon kokoa
+title: 305 Arkistopostilaatikon koon suurentaminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926383"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Arkisto posti laatikon koon kasvattaminen
+# <a name="increase-the-archive-mailbox-size"></a>Arkistopostilaatikon koon suurentaminen
 
 
-Jos haluat, että suoritat automaattiset tarkistukset alla mainittuihin asetuksiin, valitse Edellinen-painike <--sivun yläosassa ja kirjoita sitten sen käyttäjän Sähkö posti osoite, joka tarvitsee Arkisto posti laatikon kokoa.
+Jos haluat, että suoritamme automaattiset tarkistukset alla mainittujen asetusten varalta, valitse Sivun ylä < -Takaisin-painike ja kirjoita sitten arkistopostilaatikon kokoa tarvitseva käyttäjän sähköpostiosoite.
 
-Microsoft 365 [rajoittaa](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) Arkisto posti laatikoiden kokoa käyttäjä tilille määritetyn käyttö oikeuden perusteella. Kun Arkisto posti laatikon enimmäiskoko on 90%, käyttäjä saa Sähkö posti-ilmoituksen. Kun Arkisto posti laatikko saavuttaa koko rajoituksen, käyttäjä ei voi siirtää enempää kohteita Arkisto posti laatikkoon. Microsoft 365 ei suurenna Arkisto posti laatikon kokoa, kun koko rajoitus saavutetaan. Sen sijaan käyttäjät voivat vapauttaa tilaa Arkisto posti laatikossa seuraavilla toimenpiteillä:
+Microsoft 365 arkistopostilaatikoiden kokoa käyttäjätilille määritetyn käyttöoikeuden perusteella. [](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) Kun arkistopostilaatikon sallittu koko on 90 prosenttia, käyttäjä saa sähköposti-ilmoituksen. Kun arkistopostilaatikon kokoraja on ylittyy, käyttäjä ei voi siirtää enempää kohteita arkistopostilaatikkoon. Microsoft 365 ei suurenna arkistopostilaatikon kokoa, kun kokorajoitus on saavutettu. Sen sijaan käyttäjät voivat vapauttaa tilaa arkistopostilaatikossa seuraavien toimien avulla:
 
-- Vie kohteet. pst-tiedostoon Outlookin avulla.
+- Vie kohteet .pst-tiedostoon käyttämällä Outlook.
 
-- Poista kohteita Arkisto posti laatikosta.
+- Poista kohteita arkistopostilaatikosta.
 
-Microsoft 365 tarjoaa **rajoittamattoman arkistoinnin** Office 365 Enterprise E3-ja E5-käyttö oikeuksiin. Järjestelmänvalvojan on otettava tämä toiminto käyttöön, ennen kuin Arkisto posti laatikon enimmäiskoko on saavutettu. Kun rajoittamaton arkistointi on käytössä, se voi kestää jopa 30 päivää, ennen kuin Arkisto posti laatikkoon lisätään vapaata tilaa. Tämän vuoksi suosittelemme, että järjestelmänvalvojat tarkistavat Arkisto posti laatikon vapaan tilan, jonka avulla käyttäjä voi jatkaa Arkisto posti laatikon käyttöä sen laajentuessa. Lisä tietoja on kohdassa [Yleiskatsaus rajoittamattomaan arkistointiin microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) -sovelluksessa ja [rajoittamattoman arkistoinnin käyttöönotto Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)-sovelluksessa.
+Microsoft 365 tarjoaa **rajoittamattoman arkistoinnin** Office 365 Enterprise E3- ja E5-käyttöoikeuksille. Järjestelmänvalvojan on otettava tämä ominaisuus käyttöön, ennen kuin arkistopostilaatikon enimmäiskoko on ylittyy. Kun arkistointi on käytössä, voi kestää jopa 30 päivää, ennen kuin arkistopostilaatikkoon lisätään vapaata tilaa. Siksi on suositeltavaa, että järjestelmänvalvojat tarkistavat arkistopostilaatikon vapaan tilan, jolloin käyttäjä voi jatkaa arkistopostilaatikon käytön sen laajentamisen aikana. Lisätietoja on vaihtoehdot Yleistä [rajoittamattomasta arkistoinnin](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) käytöstä Microsoft 365 ja [Rajoittamattoman arkistoinnin ottaminen käyttöön Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
 
-Lisä tietoja Arkisto posti laatikon käyttämisestä Outlookista on kohdassa [Outlookin vaatimukset kohteiden käyttämiseksi automaattisen laajennetussa arkistossa](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Jos haluat määrittää säilytys käytännön, joka siirtää kohteet automaattisesti Arkisto posti laatikkoon, tutustu Ohje aiheeseen [Microsoft 365-organisaation posti laatikoiden arkistointi-ja poisto käytännön määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Lisätietoja arkistopostilaatikon Outlook on Outlook automaattisen laajennetun arkiston kohteiden [käyttövaatimuksissa.](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) Jos haluat määrittää säilytyskäytännön, joka siirtää kohteet automaattisesti arkistopostilaatikkoon, katso arkistointi- ja poistokäytännön määrittäminen [oman Microsoft 365 postilaatikoille.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Huomautus**: Exchange 2010-järjestelmän ensisijaiset posti laatikot eivät tue automaattisesti laajentuvia arkistoja.
+**Huomautus:** Automaattisen laajentamisen arkistoja ei tueta ensisijaisissa postilaatikoissa Exchange 2010:ssä.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge User agentin merkki jono (Työpöytä)
+title: Microsoft Edge agenttimerkkijono (työpöytä)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975998"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge User agentin merkki jono (Työpöytä)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge agenttimerkkijono (työpöytä)
 
-User Agent (UA)-merkki jonoja voidaan käyttää tietyn selaimen käyttämän version tunnistamiseen tietyssä käyttö järjestelmässä. Kuten muutkin selaimet, Microsoft Edge sisällyttää nämä tiedot User-Agent-HTTP-otsikkoon aina, kun se tekee sivuston pyynnön. Selaimen versio tietoja voi käyttää myös JavaScriptin kautta kyseltäessä "Navigator. userAgent"-arvoa.
+User agent (UA) -merkkijonojen avulla voidaan tunnistaa, mitä selainversiota käytetään tietyssä käyttöjärjestelmässä. Kuten muissakin selaimissa, Microsoft Edge nämä tiedot on "Käyttäjäagentti"-HTTP-ylätunnisteessa aina, kun se tekee sivustoon pyynnön. Selainversion tietoja voi käyttää myös JavaScriptin kautta kyselyiden avulla: "navigator.userAgent".
 
-Suosittelemme, että verkko kehittäjät käyttävät ominaisuuksien tunnistamista aina, kun se on mahdollista koodin ylläpitoa, vähentää koodin haurautta ja eliminoi koodin katkeamisen riskin tulevien UA-merkki jono päivitysten tapa uksessa.
+Suosittelemme, että verkkokehittäjät käyttävät ominaisuuksien tunnistamista aina, kun se on mahdollista koodin säilyttämisen parantamiseksi, koodien poissulkemiseksi ja koodin katkeamisen riskin poistamiseksi tulevissa UA-merkkijonopäivityksissä.
 
-Lisä tietoja on kohdassa [Microsoft Edgen käyttäjä agentin merkki jono (Työpöytä)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Lisätietoja on kohdassa [Microsoft Edge agenttimerkkijono (työpöytä).](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

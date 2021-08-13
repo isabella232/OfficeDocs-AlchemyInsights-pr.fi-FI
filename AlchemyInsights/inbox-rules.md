@@ -13,19 +13,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: be3200b8da759be9e688030d1134784c9216a0cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00bbde6dc85f9abcb6916718966928f723df7dd12a4b0609aa454ac3c9bdb3e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926350"
 ---
-# <a name="inbox-rules-in-outlook-desktop"></a>Saapuneet-kansion säännöt Outlookin Työpöytä versiossa
+# <a name="inbox-rules-in-outlook-desktop"></a>Saapuneet-kansion säännöt Outlook työpöydällä
 
-1. Avaa **säännöt ja ilmoitukset** -valinta ikkuna valitsemalla **tiedosto > Hallitse sääntöjä & ilmoitukset** .
-2. Valitse **Sähkö posti säännöt** -väli lehdessä **Uusi sääntö**.
-3. Valitse jokin malleista **vaiheessa 1**. Jos haluat aloittaa tyhjästä säännöstä, valitse **Ota sääntö käyttöön viesteissä, jotka olen lähettänyt tai Käytä sääntöä lähettämissäni viesteissä**.
-4. Napsauta **Vaihe 2: Muokkaa säännön kuvausta-ruutua**ja valitse haluamasi alleviivatut asetukset. Jos esimerkiksi valitsit **Merkitse henkilön viestit seurattavaksi** vaiheessa 1, valitse **henkilöt tai julkinen ryhmä** valitaksesi, mitkä lähettäjien viestit haluat merkitä. Valitse sitten merkintä ja seuranta päivämäärä valitsemalla **seuranta tällä hetkellä** .
+1. Avaa Säännöt **ja ilmoitukset > sääntöjen & hallinta** -valintaikkuna valitsemalla Tiedosto. 
+2. Valitse **Sähköpostisäännöt-välilehdessä** **Uusi sääntö**.
+3. Valitse jokin malleista vaiheessa **1**. Aloita tyhjästä säännöstä valitsemalla Käytä **sääntöä vastaanottamissani viesteissä tai Käytä sääntöä lähetetyissä viesteissä.**
+4. Määritä **alleviivatut asetukset napsauttamalla Vaihe 2:** Muokkaa säännön kuvausta -ruudussa. Jos esimerkiksi valitsit  Merkitse jonkun viestit seurattavaksi vaiheessa 1,  valitse henkilöt tai julkinen ryhmä ja valitse, mitkä lähettäjän viestit haluat merkitä. Valitse **sitten seuranta tällä hetkellä** ja valitse merkintä ja seurantapäivämäärä.
 5. Valitse **Seuraava**.
 
-Lisä tietoja Saapuneet-kansion sääntöjen käyttämisestä on Ohje aiheessa [Sähkö posti viestien hallinta sääntöjen avulla](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
+Lisätietoja Saapuneet-kansion sääntöjen käyttämisestä on kohdassa [Sähköpostiviestien hallinta sääntöjen avulla.](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)

@@ -1,5 +1,5 @@
 ---
-title: Poistetun OneDrive-sivuston palauttaminen
+title: Poistetun sivuston OneDrive palauttaminen
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991280"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Poistetun OneDrive-sivuston palauttaminen
+# <a name="restore-a-deleted-onedrive-site"></a>Poistetun sivuston OneDrive palauttaminen
 
-Kun poistat käyttäjän Microsoft 365-hallinta keskuksessa (tai kun käyttäjä poistetaan Active Directory-synkronoinnin kautta), käyttäjän OneDrive säilytetään OneDrive-hallinta keskuksessa määrittämiesi päivien luku määrän mukaan. (Lisä tietoja on Ohje aiheessa [poistettujen OneDrive-käyttäjien oletusarvoisen tiedosto säilytyksen määrittäminen](https://docs.microsoft.com/onedrive/set-retention).)
+Kun poistat käyttäjän Microsoft 365 -hallintakeskus (tai kun käyttäjä poistetaan Active Directory -synkronoinnin avulla), käyttäjän OneDrive säilytetään OneDrive hallintakeskuksessa määrittämäsi päivien määrä. (Lisätietoja on kohdassa [Poistettujen tiedostojen oletussa säilytyksen OneDrive käyttäjille.)](https://docs.microsoft.com/onedrive/set-retention)
 
-* [Poistetun OneDrive-sivuston palauttaminen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Poistetun sivuston OneDrive palauttaminen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Jos monet OneDrive-tiedostosi poistetaan, korvautuvat, vioittuvat tai tartuttavat haitta ohjelmia, voit palauttaa koko OneDriven aiemman ajan kohdan.
+Jos poistat, korvaat, OneDrive tai haittaohjelmia, voit palauttaa koko OneDrive aiempaan versioon.
 
-* [OneDriven palauttaminen](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Palauta OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

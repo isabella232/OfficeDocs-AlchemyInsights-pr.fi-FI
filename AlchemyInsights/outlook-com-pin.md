@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983846"
 ---
-# <a name="change-your-pin"></a>PIN-tunnuksen vaihtaminen
+# <a name="change-your-pin"></a>PIN-koodin muuttaminen
 
-Outlook.com ei käytä PIN-koodiansa, mutta voit kirja utua tieto koneeseen PIN-koodilla tai Windows Hello-toiminnolla. PIN-tunnuksen vaihtaminen Windows 10: ssä
+Outlook.com ei käytä PIN-koodia, mutta voit kirjautua tietokoneeseen PIN-koodilla tai Windows Hello. Voit vaihtaa PIN-koodisi Windows 10:
 
-1. Valitse Käynnistä-painike tai paina näppäimistön Windows-näppäintä ja valitse sitten **Asetukset**  >  **Accounts**  >  **-tunnusten Kirjautumisasetukset**.
-2. Valitse **Vaihda** -painike **PIN**-tunnuksella.
-3. Kirjoita nykyinen PIN-koodisi, anna ja Vahvista uusi PIN-koodisi alla.
+1. Valitse Käynnistä-painike tai Windows-näppäintä ja valitse sitten **Asetukset**  >  **Tilit-kirjautumisasetukset**  >  .
+2. Valitse **MUUTA-painike** **PIN-koodi-kohdassa.**
+3. Kirjoita nykyinen PIN-koodisi, kirjoita ja vahvista uusi PIN-koodisi alla.
 
-[Lue lisää Windows Halosta.](https://support.microsoft.com/help/17215/)
+[Lisätietoja Windows Hello.](https://support.microsoft.com/help/17215/)
