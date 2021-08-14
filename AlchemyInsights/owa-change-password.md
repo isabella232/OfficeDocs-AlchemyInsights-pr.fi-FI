@@ -1,5 +1,5 @@
 ---
-title: Sala sanan vaihtaminen Outlookin verkko versiossa
+title: Salasanan vaihtaminen Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: 8e6c77435e468b82dd304b1045aece5ce760b1df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca70200da9e488e90baf6ee2ec16c3cc023f21e26eb8a740bcc3fce1557d6d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063265"
 ---
-# <a name="change-your-microsoft-365-password"></a>Microsoft 365-Sala sanan vaihtaminen
+# <a name="change-your-microsoft-365-password"></a>Salasanan Microsoft 365 vaihtaminen
 
-Jos sinun on muutettava Microsoft 365-Sala sanasi tai palautettava se, voit siirtyä suoraan tälle sivulle: [Microsoft-Sala sanan](https://go.microsoft.com/fwlink/p/?linkid=841910) vaihtaminen
+Jos haluat vaihtaa tai palauttaa Microsoft 365 salasanan, voit siirtyä suoraan tälle sivulle: [Microsoft-salasanan vaihtaminen](https://go.microsoft.com/fwlink/p/?linkid=841910)

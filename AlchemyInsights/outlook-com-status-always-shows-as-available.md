@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-tila näytetään aina käytettävissä
+title: Outlook.com-tilana näkyy aina Käytettävissä
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095143"
 ---
-# <a name="my-status-always-shows-as-available"></a>Tilana on aina käytettävissä
+# <a name="my-status-always-shows-as-available"></a>Tilanani näkyy aina Käytettävissä
 
-Aina kun kirja udut sisään Outlook.com, tilisi tilaksi palautetaan käytettävissä. Voit estää tilaasi vaihtamasta, jos et ole kirjautunut ulos Outlook.com. Jos haluat pysyä kirjautuneena, kun suljet selaimen, valitse **Säilytä minut kirjautuneena** -ruutu Outlook.com-kirjautumissivulla.
+Aina kun kirjaudut Outlook.comiin, tilisi tilaksi palautetaan Käytettävissä. Voit estää tilaasi muuttumasta kirjautumalla ulos Outlook.comista. Jos haluat pysyä kirjautuneena,  kun suljet selaimen, valitse pysy kirjautuneena -ruutu Outlook.com-kirjautumissivulla.
