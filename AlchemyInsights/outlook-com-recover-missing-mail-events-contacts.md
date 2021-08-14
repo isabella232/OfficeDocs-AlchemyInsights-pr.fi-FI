@@ -1,5 +1,5 @@
 ---
-title: Puuttuvien tai poistettujen sähkö postien, kalenteri tapahtumien tai yhteys tietojen etsiminen ja palauttaminen
+title: Puuttuvien tai poistettujen sähköpostiviestien, kalenteritapahtumien tai yhteystietojen etsiminen ja palauttaminen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -21,19 +21,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d550831af54105330bf4c08e6dad4dce34a9f679536f208bb5e037471cd0c50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063733"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Puuttuvien tai poistettujen Sähkö posti viestien, kalenteri tapahtumien tai yhteys tietojen etsiminen ja palauttaminen Outlook.com
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Puuttuvien tai poistettujen sähköpostiviestien, kalenteritapahtumien tai yhteystietojen etsiminen ja palauttaminen Outlook.comista
 
-- Käytä Mailissa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Haku palkki sivun** yläreunassa, jos haluat [etsiä viestejä tai yhteys tietoja](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
+- Käytä Sähköpostissa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Hae** viestejä tai yhteystietoja sivun [yläreunan hakupalkista.](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
   
 - Käytä kalenterissa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Sivun yläreunassa oleva **haku** palkki, jos haluat [etsiä tapahtumia sanan, nimen tai lauseen avulla](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Jos avoinna on useampi kuin yksi kalenteri, haku keskittyy valittuna olevaan kalenteriin.
+ **Hakupalkki** sivun yläreunassa tapahtumien [hakemiseen sanan, nimen tai lauseen avulla.](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy) Jos sinulla on useampi kuin yksi kalenteri avattuna, haku kohdistaa valittuna olevan kalenterin.
   
-- Jos poistat vahingossa viestin, kalenteri tapahtuman tai yhteys tiedon, voit [palauttaa kyseiset kohteet, jos ne ovat edelleen poistetut-tai roska posti-kansiossa](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Jos poistat vahingossa viestin, kalenteritapahtuman tai yhteystiedon, voit palauttaa kyseiset kohteet, jos ne ovat edelleen Poistetut- tai [Roskaposti-kansiossa.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

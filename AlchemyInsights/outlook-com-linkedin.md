@@ -1,5 +1,5 @@
 ---
-title: Ongelmia roska postin kanssa, jotka väittävät olevansa LinkedIn-tieto koneesta
+title: LinkedIn-roskapostiksi väitettäisiin liittyviä ongelmia
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095971"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Ongelmia roska postin kanssa, jotka väittävät olevansa LinkedIn-tieto koneesta
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>LinkedIn-roskapostiksi väitettäisiin liittyviä ongelmia
 
-Olemme tietoisia siitä, että jotkut käyttäjät saavat roska postia, joka väittää olevansa LinkedIn-käyttäjä.
+Olemme tietoisia siitä, että jotkut käyttäjät saavat roskapostia, jonka väitetään olevan LinkedIn-käyttäjiltä.
 
-Suosittelemme, että käytät Saapuneet-kansion sääntöä sähkö postien suodattamiseen.
+Suosittelemme, että käytät Saapuneet-kansion sääntöä näiden sähköpostiviestien suodatteeseen.
 
-Lisä tietoja on artikkelissa [Saapuneet-kansion sääntöjen käyttäminen Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on kohdassa Saapuneet-kansion [sääntöjen käyttö Outlook.comissa.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

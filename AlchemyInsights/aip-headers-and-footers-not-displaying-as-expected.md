@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951778"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Ylä- ja alatunnisteet eivät näy odotetulla tavalla
 
 Jos visuaalisissa merkinnöissä ilmenee ongelmia, jotka eivät näy odotetusti, katso seuraavat ohjeet:
 
 1. Varmista, että olet tarkistanut, [kun visuaalisia merkintöjä käytetään](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Jos käytössäsi on Office-merkintä, tutustu artikkeliin Kun [Office 365 käyttää sisällön merkintää ja salausta.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
+2. Jos Office, lue artikkeli Kun [Office 365 käyttää sisällön merkintää ja salausta.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
 3. Jos haluat poistaa aiemmin luodut ylä- ja alatunnisteet, tutustu ohjeeseen Ylä- ja alatunnisteiden [poistaminen muista osoitetarraratkaisuista.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
 
 Jos ongelma ilmenee edelleen, kerää Azure Information Protection -asiakaslokit ja liitä viedyt lokit tähän palvelupyynnön.

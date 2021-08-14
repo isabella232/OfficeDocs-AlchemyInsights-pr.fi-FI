@@ -1,5 +1,5 @@
 ---
-title: Android-sovellusten suojaus käytäntöjen asetukset Microsoft Intunella
+title: Android-sovelluksen suojauskäytäntöasetukset Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951634"
 ---
-# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Android-sovellusten suojaus käytäntöjen asetukset Microsoft Intunella
+# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Android-sovelluksen suojauskäytäntöasetukset Microsoft Intune
 
-Android-laitteissa on kolmenlaisia sovellusten suojaus käytäntöjen asetuksia:
+Android-laitteiden sovellusten suojauskäytäntöasetukset ovat kolme luokkaa:
 
-**Tieto turva** määrittää, miten yritys tietoja käsitellään, esimerkiksi sitä, voidaanko tiedot kopioida tai liittää toiseen sovellukseen tai voidaanko sovelluksesta ottaa näyttö kuva. Asetukset myös valvovat yritys tietojen salausta ja hallitsevat sitä, voidaanko tietyt tiedot synkronoida alkuperäisten laite sovellusten, kuten yhteys tieto luettelon tai selaimen, kanssa. Lisä tietoja on artikkelissa [tieto turva](https://go.microsoft.com/fwlink/?linkid=2135259).
+**Tietojen suojaus** määrittää yrityksen tietojen käsittelytavan, kuten sen, voidaanko tietoja kopioida tai lisätä toiseen sovellukseen vai voiko sovelluksesta ottaa näyttökuvan. Asetukset pakotetaan myös yritystietojen salaamiseen ja sen hallintaan, voidaanko tietyt tiedot synkronoida alkuperäisten laitesovellusten, kuten yhteystietoluettelon tai selaimen, kanssa. Lisätietoja on ohjeaiheessa [Tietosuoja.](https://go.microsoft.com/fwlink/?linkid=2135259)
 
-**Käyttö oikeus vaatimukset** ohjaa sitä, miten käyttäjät voivat käyttää sovellusta. Sovellus voi esimerkiksi vaatia käyttäjää syöttämään PIN-tunnuksen tai sormen jäljen, jotta se on käytettävissä. Lisä tietoja on kohdassa [käytön edellytykset](https://go.microsoft.com/fwlink/?linkid=2135260).
+**Access-vaatimukset** opastavat, miten käyttäjät voivat käyttää sovellusta. Sovellus voi esimerkiksi edellyttää, että käyttäjä kirjoittaa PIN-koodin tai sormenjäljen, jotta hän voi käyttää sitä. Lisätietoja on kohdassa [Accessin vaatimukset.](https://go.microsoft.com/fwlink/?linkid=2135260)
 
-**Ehdollinen käynnistys** määrittää sovelluksen kirjautumissuojausasetukset, kuten PIN-tunnuksen enimmäisyritykset ennen työsulku ohjelmaa tai sovelluksen suorittamiseen tarvittavaa vähimmäiskäyttöjärjestelmää. Lisä tietoja on artikkelissa [Ehdollinen käynnistys](https://go.microsoft.com/fwlink/?linkid=2135507).
+**Ehdollinen** käynnistys määrittää sovelluksen kirjautumissuojausasetukset, kuten PIN-koodin enimmäisyritykset ennen lukkiutumista tai sovelluksen suorittamiseen tarvittavan vähimmäiskäyttöjärjestelmän. Lisätietoja on kohdassa [Ehdollinen käynnistys.](https://go.microsoft.com/fwlink/?linkid=2135507)

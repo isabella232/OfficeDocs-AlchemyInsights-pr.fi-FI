@@ -1,5 +1,5 @@
 ---
-title: Sovelluksen käyttö oikeus käytännöt
+title: Sovelluksen käyttöoikeuskäytännöt
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951670"
 ---
-# <a name="app-permission-policies"></a>Sovelluksen käyttö oikeus käytännöt
+# <a name="app-permission-policies"></a>Sovelluksen käyttöoikeuskäytännöt
 
-[Sovellusten käyttö oikeus käytäntöjen](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)avulla voit tehdä seuraavat toimet:
-- Järjestelmänvalvoja voi hallita sovelluksen määritys käytäntöjä [Microsoft teamsin hallinta keskuksessa](https://admin.teams.microsoft.com/policies/app-permission).
-- Voit määrittää, mitkä sovellukset ovat Microsoft teamsin käyttäjien käytettävissä organisaatiossa yleisten käytäntöjen avulla, sekä [luoda ja määrittää mukautettuja käytäntöjä](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) , joilla mukautetaan ja määritetään sovellusten käyttö oikeuksia. 
+Sovelluksen [käyttöoikeuskäytäntöjen](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)avulla voit tehdä seuraavia toimia:
+- Järjestelmänvalvojana voit hallita sovelluksen määrityskäytäntöjä [Microsoft Teams hallintakeskuksessa.](https://admin.teams.microsoft.com/policies/app-permission)
+- Hallitse, mitkä sovellukset ovat Microsoft Teams organisaation käyttäjien käytettävissä yleisen [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) käytännön avulla tai luo ja määritä mukautettuja käytäntöjä sovellusten käytön mukauttamista ja hallintaa varten. 
 > [!NOTE]
-> Organisaation laajuiset sovellus asetukset ohittavat yleisen käytännön ja mukautetut käytännöt, jotka luodaan ja määritetään käyttäjille.
-- Voit käyttää [sovelluksen määritys käytäntöjä](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) Microsoft teamsin mukauttamiseen, kun haluat korostaa käyttäjille tärkeimpiä sovelluksia. 
+> Organisaation laajuiset sovellusasetukset ohittavat yleisen käytännön ja kaikki käyttäjien luotavat ja käyttäjälle määritettävät mukautetut käytännöt.
+- Sovelluksen [määrityskäytäntöjen avulla voit](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) mukauttaa Microsoft Teams, jotta voit korostaa käyttäjille tärkeimpiä sovelluksia. 
 
 
-Lisä tietoja sovellus käytäntöjen luomisesta vuokra ajalle on kohdassa:
-- [Sovellusten hallinta Microsoft teams-hallinta keskuksessa](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Sovellusten käyttö oikeus käytäntöjen hallinta Microsoft Teamsissa](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Mukautettujen sovellus käytäntöjen ja-asetusten hallinta Microsoft Teamsissa](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Lisätietoja sovelluskäytäntöjen luomisesta vuokraajassa on kohdassa:
+- [Sovellusten hallinta Microsoft Teams hallintakeskuksessa](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Sovelluksen käyttöoikeuskäytäntöjen hallinta Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Mukautettujen sovelluskäytäntöjen ja -asetusten hallinta Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

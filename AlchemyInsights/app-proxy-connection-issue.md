@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951598"
 ---
 # <a name="app-proxy-connection-issue"></a>Sovelluksen välityspalvelimen yhteysongelma
 
-1. Jos käytät sovelluksen välityspalvelinpalvelua paikallisen verkkosovelluksen etäkäyttöön, mutta sinulla on ongelmia yhteyden [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) muodostamisessa sovellukseen, käytä tätä artikkelia Azure Active Directory (Azure AD) -sovelluksen välityspalvelimen yhdistimien vianmääritykseen.
-2. Jos haluat apua azure Active Directoryyn integroidun sovelluksen välityspalvelinsovelluksen kohtaamien yleisimien [](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) ongelmien ratkaisemisessa, noudata vianmääritysohjeita artikkelissa Ei toimivaa yhdistinryhmää sovelluksen välityspalvelinsovelluksessa.
+1. Jos käytät sovelluksen välityspalvelinpalvelua paikallisen verkkosovelluksen etäkäyttöön, mutta sinulla on ongelmia yhteyden [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) muodostamisessa sovellukseen, tämän artikkelin avulla voit ratkaista Azure Active Directory (Azure AD) -välityspalvelimen yhdistimiin liittyviä ongelmia.
+2. Jos haluat apua Azure Active Directory:n kanssa integroidussa sovelluksen välityspalvelinsovelluksessa kohdatun yleisimmät ongelmat, [](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) joita kohdata, kun yhdistintä ei löydy, noudata artikkelin Sovellusvälityspalvelinsovellukselle ei löytynyt toimivaa yhdistinryhmää vianmääritystä ohjeita.
