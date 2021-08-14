@@ -1,5 +1,5 @@
 ---
-title: Yhteys pyynnöt-ominaisuus
+title: Käyttöoikeuspyynnöt-ominaisuus
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4b7e0f0dfed0a96ed46b88c400bd6afaf8d3f225
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79b2eb434a4d346843b86c2b284e5961439aea412e3828847b28927a08f17a70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941950"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>SharePoint-sivuston käyttö oikeuden antaminen käyttäjille
+# <a name="give-users-access-to-sharepoint-site"></a>Sivuston SharePoint käyttäjille
 
-Käyttö oikeus pyyntö-toiminnon avulla käyttäjät voivat pyytää käyttö oikeutta sisältöön, jota heillä ei tällä hetkellä ole oikeus nähdä. Sivuston omistajana voit määrittää toiminnon lähettämään sinulle sähkö postia, kun joku pyytää sivuston käyttö oikeutta. Lisä tietoja on Ohje aiheessa [tuki pyyntöjen määrittäminen ja hallinta](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Käyttöoikeuspyyntötoiminnon avulla käyttäjät voivat pyytää käyttöoikeuksia sisältöön, jota heillä ei tällä hetkellä ole. Sivuston omistajana voit määrittää toiminnon lähettämään sinulle sähköpostia, kun joku pyytää sivuston käyttöominaisuutta. Lisätietoja on kohdassa [Käyttöoikeuspyyntöjen määritäminen ja hallinta.](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-Seuraavassa on joitakin yleisiä linkkejä, jotka liittyvät tapaamis pyyntöihin:
+Seuraavassa on joitakin yleisiä käyttöoikeuspyyntöjä koskevia linkkejä:
 
-- [Käyttö estetty "pääsy pyynnöt-luetteloon tai" pyyntöjen hyväksyntä epäonnistui ", kun käsiteltävä pyyntö on käynnissä SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [Käyttö estetty -luettelo tai Pyydä hyväksyntä epäonnistui -toiminto, kun käsittelet odottavaa pyyntöä SharePoint Onlinessa](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Oikeus pyyntöjen asetusten muuttaminen](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Käyttöoikeuspyyntöjen asetusten muuttaminen](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Sivuston oikeus pyyntöjen hyväksyminen tai hylkääminen](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Sivuston käyttöoikeuspyyntöjen hyväksyminen tai hylkääminen](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Kutsujen hallinta ulkoisille käyttäjille (vain SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Ulkoisten käyttäjien kutsujen hallinta (vain SharePoint Onlinessa)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
 - [Kutsun lähettäminen uudelleen](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 

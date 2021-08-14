@@ -1,5 +1,5 @@
 ---
-title: Teamsin virtualisoidun työpöytäinfrastruktuurin
+title: Teams :n virtualisoidun infrastruktuurin käyttö
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008507"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teamsin virtualisoidun työpöytäinfrastruktuurin
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams :n virtualisoidun infrastruktuurin käyttö
 
-Lisätietoja Teamsista virtualisoidun työpöytäinfrastruktuurin ympäristöistä on kohdassa [Teamsin Virtualized Desktop Infrastructure -kohta.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
+Lisätietoja Virtualized Desktop Infrastructure Teams -ympäristöistä on Teams [-kohdassa.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
 VDI-ympäristöjen tunnetut ongelmat ja [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) rajoitukset on kuvattu saman artikkelin Tunnetut ongelmat ja rajoitukset -osassa, joka sisältää seuraavat aiheet:
  - Asiakasohjelman käyttöönotto, asennus ja määritys

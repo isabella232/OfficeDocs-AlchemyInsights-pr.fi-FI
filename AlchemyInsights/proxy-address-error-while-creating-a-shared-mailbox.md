@@ -12,18 +12,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: ab491e883ab294f08d0b5d2e686dc059b468d29f
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: 7c15d5db5445fbe4c3ec22878f180f48d2da4f90369f2e6f223916646eb19c12
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062905"
 ---
-# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Välityspalvelimen osoitevirhe luotaessa postilaatikkoa tai muuta sähköpostia käyttävää objektia
+# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Välityspalvelimen osoitevirhe postilaatikon tai muun sähköpostia käyttävän objektin luonnin aikana
 
-Jos yritit luoda sähköpostia käyttävän objektin (postilaatikko, jaettu postilaatikko jne.) ja sait virhesanoman "Välityspalvelimen osoite "SMTP:alias@domain.com" on jo käytössä...", valitsemasi sähköpostiosoite on jo toisen organisaation sähköpostia käyttävän objektin käytössä.
+Jos yritit luoda sähköpostia käyttävän objektin (postilaatikko, jaettu postilaatikko jne.) ja sait virhesanoman "Välityspalvelimen osoite "SMTP:alias@domain.com" on jo käytössä...", valitsemaasi sähköpostiosoitetta käyttää jo toinen sähköpostia käyttävä objekti organisaatiossasi.
   
-Sinun on etsittava käyttäjä, ryhmä, jaettu postilaatikko tai yleinen kansio, jossa tämä sähköpostiosoite on, ja poistettava se tai muutettava sen sähköpostiosoitetta. Sen jälkeen voit luoda uuden sähköpostia käyttävän objektin, jossa on vapaita sähköpostiosoitteita. Etsi se aloitussivun Haku-haun avulla. Voit etsiä sitä myös seuraavan Exchange Online PowerShell -komennon avulla:
+Sinun on etsittava käyttäjä, ryhmä, jaettu postilaatikko tai yleinen kansio, jolla on tämä sähköpostiosoite, ja poistettava se tai muutettava sen sähköpostiosoitetta. Sen jälkeen voit luoda uuden sähköpostia käyttävän objektin, jossa on vapaita sähköpostiosoitteita. Etsi se aloitussivun Haku-haun avulla. Voit myös hakea sitä Exchange Online PowerShell -komennolla:
 
 `
     Get-EXORecipient -Filter "EmailAddresses -eq 'email@contoso.onmicrosoft.com'"
