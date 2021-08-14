@@ -1,5 +1,5 @@
 ---
-title: 'Azure Apps V1.2 – Vaihe 7: Prod-julkaisu ja seuranta – Bot'
+title: 'Azure Apps V1.2 – Vaihe 7: Prod-julkaisu ja -seuranta – Bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009929"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 – Vaihe 7: Prod-julkaisu ja seuranta – Bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 – Vaihe 7: Prod-julkaisu ja -seuranta – Bot
 
 Kolmannen [osapuolen sovelluksen integrointioppaan](https://admin.microsoft.com/AdminPortal/Home) avulla voit suorittaa seuraavat tehtävät: 
 - Integroi kolmannen osapuolen pilvisovellus Azure AD:n kanssa 
 - Organisaation parhaan kirjautumisvaihtoehdon määrittäminen.
 
-Integroimalla sovelluksen ja määrittämällä kertakirjauksesi helpotat käyttöä, koska käyttäjät voivat käynnistää  sovelluksen Office 365:n Omat sovellukset -portaalissa. Tämä käyttömahdollisuus vähentää kirjautumiskehotteiden määrää tai poistaa ne kokonaan.
+Integroimalla sovelluksen ja määrittämällä kertakirjauksesi helpotat käyttöä, koska käyttäjät voivat käynnistää  sovelluksen Omat sovellukset -portaalissa Office 365. Tämä käyttömahdollisuus vähentää kirjautumiskehotteiden määrää tai poistaa ne kokonaan.

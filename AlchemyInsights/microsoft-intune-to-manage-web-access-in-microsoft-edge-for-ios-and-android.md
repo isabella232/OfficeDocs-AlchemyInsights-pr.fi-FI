@@ -1,5 +1,5 @@
 ---
-title: 'Www-käytön hallinta Microsoft Intunen avulla Microsoft Edge for iOS: ssä ja Androidissa'
+title: Verkko Microsoft Intune käyttö iOS- ja Android-Microsoft Edge verkkokäyttösovelluksen avulla
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975854"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Www-käytön hallinta Microsoft Intunen avulla Microsoft Edge for iOS: ssä ja Androidissa
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Verkko Microsoft Intune käyttö iOS- ja Android-Microsoft Edge verkkokäyttösovelluksen avulla
 
-Microsoft Edge for iOS ja Android sallii käyttäjän selata internetiä useista täysin erillisistä profiileista.
+Microsoft Edge for iOS: n ja Androidin avulla käyttäjä voi selata internetiä useista täysin erillisistä profiileista.
 
-Microsoft 365:n tietojen laajimmat suojausominaisuudet tulevat saataville, kun tilaat Enterprise Mobility + Security -ohjelmiston, joka sisältää Microsoft Intunen ja Azure Active Directory Premiumin ominaisuudet, kuten ehdollisen käyttöoikeuden. Sinun on otettava käyttöön vähintään ehdollinen käyttöoikeuskäytäntö, jonka (1) avulla käyttäjät voivat muodostaa yhteyden mobiililaitteista Microsoft Edge for iOS- ja Android-laitteisiin, ja että (2) toteuttaa Microsoft Intune -sovelluksen suojauskäytännön, joka tarjoaa suojatun selauskokemuksen.
+Laajimmat suojausominaisuudet Microsoft 365 tulevat saataville, kun tilaat Enterprise Mobility + Security -Microsoft Intune ja Azure Active Directory Premium ominaisuuksia, kuten ehdollisen käyttöoikeuden. Haluat ottaa käyttöön ehdollisen käyttöoikeuskäytännön, jonka (1) avulla käyttäjät voivat muodostaa yhteyden mobiililaitteista Microsoft Edge for iOS- ja Android-laitteisiin ja että (2) ottaa käyttöön Microsoft Intune-sovellusten suojauskäytännön, joka tarjoaa suojatun selauskokemuksen.
 
 Lisätietoja ehdollisten accessin ja käytännyjen käytöstä on kohdassa:
 
-[Azure Active Directoryn ehdollisten käyttöoikeuskäytäntöjen käyttö](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Ehdollisten käyttöoikeuskäytäntöjen Azure Active Directory käyttö](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Microsoft Intune -sovelluksen suojauskäytäntöjen luominen](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Sovellusten Microsoft Intune luominen](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Kertakirjauoinnin käyttäminen Azure Active Directoryssa – yhdistetyt verkkosovellukset käytäntösuojatuissa selaimissa](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Kertakirjau yhteyden muodostaminen Azure Active Directory verkkosovelluksissa käytäntösuojatuissa selaimissa](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Selauskokemuksen hallinta sovelluksen määritysten avulla](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -43,6 +43,6 @@ Lisätietoja ehdollisten accessin ja käytännyjen käytöstä on kohdassa:
 
 [Sovellusten määrityskäytäntöjen käyttöönotto tietosuojaa varten](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Sovelluksen määrityskäytäntöjen käyttöönotto Microsoft Endpoint Managerin avulla](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Sovelluksen Microsoft Endpoint Manager määrityskäytäntöjen käyttöönotto Microsoft Endpoint Manager-asetusten avulla](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Lisätietoja hallittujen sovelluslokien käytöstä on kohdassa Hallittujen sovelluslokien käyttäminen [Microsoft Edge for iOS:](https://go.microsoft.com/fwlink/?linkid=2132578)n ja Androidin avulla.
+Lisätietoja hallittujen sovelluslokien käytöstä on kohdassa Microsoft Edge hallittujen sovelluslokien käyttäminen iOS:ssä ja [Androidissa.](https://go.microsoft.com/fwlink/?linkid=2132578)
