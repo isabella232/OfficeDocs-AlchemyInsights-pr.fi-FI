@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949420"
 ---
 # <a name="intune-support"></a>Intune-tuki
 
-Tämä valintaikkuna on osa Intunen tukiprosessia. Jos sinulla ei ole Intuneen liittyvää ongelmaa, suorita jokin seuraavista:
+Tämä valintaikkuna on osa Intunen tukiprosessia. Jos sinulla ei ole Intuneen liittyvää ongelmaa, tee jokin seuraavista:
 
-- [Napsauta määritysten hallinnassa Co-Management napsauta tätä linkkiä ja valitse haluamasi ruutu.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [Jos kyse ei ole Intunesta, muut kuin Endpoint-hallinnassa liittyvät ongelmat ovat tämän linkin alla, napsauta sitten hallintaportaalin oikeassa yläkulmassa olevaa ohjepainiketta.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Valitse Configuration Managerissa Co-Management tuki napsauttamalla tätä linkkiä ja valitsemalla haluamasi ruutu.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Jos ongelmat eivät ole Intunessa, ei Endpoint-hallinnassa, seuraa tätä linkkiä ja napsauta sitten hallintaportaalin oikeassa yläkulmassa olevaa Ohje-painiketta.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
