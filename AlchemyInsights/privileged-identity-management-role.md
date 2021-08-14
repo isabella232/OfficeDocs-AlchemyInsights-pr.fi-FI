@@ -1,5 +1,5 @@
 ---
-title: Etuoikeutettu tunniste tietojen hallinta rooli
+title: Privileged Identity Management rooli
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973226"
 ---
-# <a name="privileged-identity-managementpim-role"></a>Etuoikeutettu tunniste tietojen hallinta (PIM)-rooli
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management(PIM) -rooli
 
-**Käyttö oikeuksia ei myönnetä roolin Akti voinnin jälkeen**
+**Käyttöoikeuksia ei myönnetä roolin aktivoinnin jälkeen**
 
-Kun Akti voit roolin Azure AD etuoikeutettu käyttäjä tietojen hallinta (PIM)-ohjelmassa, Akti vointi ei välttämättä toimi välittömästi kaikissa portaaleista, jotka edellyttävät etuoikeutettua roolia. Joskus, vaikka muutos olisi levitetty, verkko-väli muistiin tallentaminen portaalissa voi aiheuttaa sen, että muutos ei tule heti voimaan.
+Kun aktivoit roolin Azure AD Privileged Identity Management (PIM) -palvelussa, aktivointi ei välttämättä välittömästi välity kaikkiin portaaleihin, jotka edellyttävät järjestelmän privileged -roolia. Joskus, vaikka muutos välitisi, portaalin verkkovälimuistin tallentaminen saattaa aiheuttaa sen, että muutos ei tule voimaan välittömästi.
 
-Jos Akti vointi viivästyy, toimi seuraavasti:
+Jos aktivointi viivästyy, toimi seuraavasti:
 
-1. Kirjaudu ulos Azure-portaalista ja kirjaudu sitten takaisin sisään. Kun Akti voit Azure AD-roolin tai Azure-resurssi roolin, Akti voinnin vaiheet tulevat näkyviin. Kun kaikki vaiheet on suoritettu, näkyviin tulee Kirjaudu ulos-linkki. Tämän linkin avulla voit kirja utua ulos. Tämä ratkaisee useimmissa tapa uksissa aktivointi viiveen.
-2. Varmista, että sinut on merkitty roolin jäseneksi PIM-ohjelmassa.
-3. Jos Akti voit Exchange-järjestelmänvalvojaroolin, varmista, että kirja udut ulos ja kirja udut takaisin sisään. Jos ongelma jatkuu, avaa tuki pyyntö ja nosta se ongelmaksi. Jos käytät Exchange-järjestelmänvalvojien roolia tieto turva-ja yhteensopivuus keskuksen käyttämiseen, Katso seuraava vaihe.
-4. Jos aktivoitan roolin tieto turva-ja yhteensopivuus keskuksen käyttöön tai Akti voit SharePoint-järjestelmänvalvojaroolin, Akti vointi viivästyy muutamasta minuutista muutamaan tuntiin. Tämä on tunnettu ongelma, ja työskentelemme aktiivisesti näiden tiimien kanssa ongelman ratkaisemiseksi mahdollisimman pian.
+1. Kirjaudu ulos Azure-portaalista ja kirjaudu sitten takaisin sisään. Kun aktivoit Azure AD -roolin tai Azure-resurssiroolin, näet aktivoinnin vaiheet. Kun kaikki vaiheet on suoritettu, näet Kirjaudu ulos -linkin. Tämän linkin avulla voit kirjautua ulos. Tämä ratkaisee useimmat aktivointiviiveen tapaukset.
+2. Varmista PIM-kohdassa, että sinut on lueteltu roolin jäsenenä.
+3. Jos aktivoit järjestelmänvalvojan Exchange, varmista, että kirjaudut ulos ja kirjaudut takaisin sisään. Jos ongelma jatkuu, avaa tukipalvelupyynnön ja ota tämä esille ongelmana. Jos käytät tietoturva- Exchange-järjestelmänvalvojan roolia, katso seuraavaa vaihetta.
+4. Jos olet aktivoimassa roolia käyttöoikeus- ja yhteensopivuuskeskuksen käyttöön tai jos aktivoit SharePoint-järjestelmänvalvojan roolia, aktivointiviive on muutaman minuutin ja muutaman tunnin kuluttua. Tämä on tunnettu ongelma, ja työskentelemme aktiivisesti näiden tiimien kanssa ongelman ratkaisemiseksi mahdollisimman pian.
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [Azure AD-roolien Akti voiminen PIM-ohjelmassa](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
-- [Azure-resurssi roolien Akti voiminen PIM-ohjelmassa](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
+- [Azure AD -roolien aktivoiminen PIM-palvelussa](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
+- [Azure-resurssiroolien aktivoiminen PIM:ssä](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
 
-**Käyttö oikeuksia ei poisteta sen jälkeen, kun rooli on poistettu käytöstä tai roolin Akti vointi on vanhentunut**
+**Käyttöoikeuksia ei poisteta roolin aktivoinnin poistamisen jälkeen tai roolin aktivointi vanhenee**
 
-Kun poistat roolin käytöstä Azure AD:ssä, joka on etuoikeutettu käyttäjä tietojen hallinta tai kun roolin aktivointi aika päättyy, sinulla voi olla viive, jossa sinulla on edelleen käyttö oikeus.
+Kun poistat roolin aktivoinnin Azure AD Privileged Identity Management tai kun roolin aktivointijakso päättyy, käyttöoikeus voi jatkua viiveellä.
 
-Jos Akti voinnin poistaminen viivästyy, toimi seuraavasti:
+Jos aktivoinnin poisto viivästyy, toimi seuraavasti:
 
-1. Jos poistat Exchange-järjestelmänvalvojaroolin Akti voinnin tai roolin aktivointi aika päättyy ja huomaat, että käyttö oikeudet ovat huomattavasti myöhässä, avaa tuki pyyntö ja pyydä tuki henkilön apua, jotta voit arkistoida lipun, jossa on Office-käyttö oikeuksien hallinnan (PAM) tiimi.
-2. Jos aktivointi aika on vanhentunut, mutta selain istunto on edelleen avoinna, sulje selain. Voit jatkaa roolin käyttöä, kunnes suljet istunnon. Tämä on tunnettu ongelma, ja tarkastelemme mahdollisia korjauksia, joilla jokainen istunto peruutetaan aktiivisesti, kun Akti vointi on vanhentunut.
+1. Jos olet poistamassa Exchange-järjestelmänvalvojan roolin aktivointia tai roolin aktivointijakso vanhenee ja huomaat huomattavan viiveen ennen käyttöoikeuksien poistamista, avaa tukipalvelupyynnön ja pyydä tukihenkilöä auttamaan sinua jakamaan lippu Privileged Access Management (PAM) -työryhmälle Office tietoja tästä ongelmasta.
+2. Jos aktivointijakso on päättynyt, mutta selainistunto on edelleen avoinna, sulje selain. Voit jatkaa roolin käyttöä, kunnes suljet istunnon. Tämä on tunnettu ongelma, ja microsoft tarkastelee mahdollista korjausta jokaisen istunnon aktiiviseen peruuttamista varten, kun aktivointi on päättynyt.
 
-Jos viivästys ei ole sama kuin näissä kahdessa skenaariossa, avaa tuki pyyntö.
+Jos viive on eri kuin nämä kaksi skenaariota, avaa tukipalvelupyynnön.
