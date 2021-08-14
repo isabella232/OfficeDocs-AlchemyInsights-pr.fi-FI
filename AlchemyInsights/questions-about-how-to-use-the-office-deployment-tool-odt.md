@@ -1,5 +1,5 @@
 ---
-title: Kysymyksiä Officen käyttöönottotyökalun (ODT) käytöstä
+title: Kysymyksiä Office Käyttöönottotyökalun (ODT) käytöstä
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d38866647c7bf286b5b5b21e7fdcc94af72ea1850bc40391af077aa230b8b4fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959680"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Kysymyksiä Officen käyttöönottotyökalun (ODT) käytöstä
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Kysymyksiä Office Käyttöönottotyökalun (ODT) käytöstä
 
-Lataa Officen käyttöönottotyökalu [Microsoft Download Centeristä.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
+Lataa Office käyttöönottotyökalu Microsoft [Download Centeristä.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-Kun olet ladanut tiedoston, suorita suoritettava suoritettava tiedosto, joka sisältää suoritettavan Officen käyttöönottotyökalun (setup.exe) ja mallimääritystiedoston (configuration.xml).
+Kun olet ladanut tiedoston, suorita suoritettava suoritettava tiedosto, joka sisältää suoritettavan Office Deployment Tool (setup.exe) -työkalun ja mallimääritystiedoston (configuration.xml).
   
- **Jos haluat jättää Microsoft 365 -sovellukset yritystuotteiden ulkopuolelle tai poistaa ne asiakastietokoneista:**
+ **Jos haluat poistaa Microsoft 365 -sovellukset suuryrityksille asiakastietokoneista:**
   
-Kun asennat Microsoft 365 -sovelluksia yrityksille, voit jättää tietyt tuotteet pois. Noudata ohjeita Officen asentamiseen ODT:n kanssa, mutta sisällytä ExcludeApp-elementti määritystiedostoon. Esimerkiksi tämä määritystiedosto asentaa kaikki Microsoft 365 -sovellukset yritystuotteille Publisheria lukuun ottamatta:
+Kun asennat Microsoft 365 -sovellukset suuryrityksille, voit jättää tietyt tuotteet pois. Noudata ohjeita, kun asennat Office ODT:n mukana, mutta sisällytä ExcludeApp-elementti määritystiedostoon. Esimerkiksi tämä määritystiedosto asentaa kaikki muut Microsoft 365 -sovellukset suuryrityksille paitsi Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ Kun asennat Microsoft 365 -sovelluksia yrityksille, voit jättää tietyt tuotte
 </Add>
 ```
 
-[Officen käyttöönottotyökalun yleiskatsaus](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Yleistä Office käyttöönottotyökalusta](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

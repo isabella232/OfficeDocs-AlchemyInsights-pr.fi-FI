@@ -1,5 +1,5 @@
 ---
-title: Sähkö posti lasku-vanha
+title: Sähköpostilasku – vanha
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003613"
 ---
-# <a name="e-mail-invoice---legacy"></a>Sähkö posti lasku-vanha
+# <a name="e-mail-invoice---legacy"></a>Sähköpostilasku – vanha
 
-**Tilaus laskujen vastaanottaminen sähköpostitse**
+**Voit vastaanottaa tilauslaskuja sähköpostitse**
 
-Sinulla on oltava tilin järjestelmänvalvojan rooli tila uksessa tai tuki palvelu paketille, jotta voit ottaa laskun vastaan sähköpostitse. Sähkö posti laskut ovat saatavilla vain tila uksille ja tuki paketeille, ei vara uksille tai Azure Marketplace-ostoille. Kun olet valinnut-kohdan, voit lisätä myös muita käyttäjiä, jotka saavat laskun sähköpostitse.
+Sinulla on oltava tilauksen tai tukisuunnitelman järjestelmänvalvojan rooli, jotta voit vastaanottaa sen laskun sähköpostitse. Sähköpostilaskut ovat saatavilla vain tilauksiin ja tukipalvelusuunnitelmiin, eivät varauksiin tai Azure Marketplace -ostoksiin. Kun olet valinnut vaihtoehdot, voit lisätä muita vastaanottajia, jotka saavat laskun myös sähköpostitse.
 
-Saat tilaus laskut sähköpostitse noudattamalla näitä ohjeita:
+Saat tilauslaskut sähköpostitse seuraavasti:
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-2. Hae **kustannusten hallinta + laskutus**.
-3. Valitse **laskut** vasemmalla olevasta vaihto ehdosta.
-4. Valitse Azure-tila uksen tai tuki palvelu paketin tilaus ja valitse sitten **vastaanoton lasku sähköpostitse**.
-5. Valitse **Sähkö posti lasku** ja hyväksy ehdot.
-6. Lasku lähetetään haluamaasi viestintä Sähkö posti viestiin. Päivitä Sähkö posti viesti valitsemalla **Päivitä profiili** .
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/).
+2. Etsi **Kustannustenhallinta ja laskutus**.
+3. Valitse **vasemman** reunan vaihtoehdoista Laskut.
+4. Valitse Azure-tilauksesi tai tukipalvelupakettisi ja valitse sitten **Vastaanota lasku sähköpostitse**.
+5. Valitse **Sähköpostilasku** ja hyväksy ehdot.
+6. Lasku lähetetään haluamaasi sähköpostiosoitteeseen. Valitse **Päivitä profiili** päivittääksesi sähköpostiosoitteen.
 
-**Lisää uusia käyttäjiä laskujen vastaanottamista varten**
+**Lisää muita vastaanottajia laskujen vastaanottamista varten**
 
-Jos haluat jakaa tila uksen ja tuki palvelu paketin laskut kuukausittain kirjanpito ryhmän kanssa tai lähettää ne johonkin toiseen Sähkö posti osoitteeseen:
+Voit jakaa tilauksesi ja tukipalvelupakettisi laskut kuukausittain laskentaryhmän kanssa tai lähettää ne yhteen muista sähköpostiosoitteistasi:
 
-1. Noudata edellä annettuja ohjeita, jos haluat ensin ottaa laskun käyttöön sähköpostitse ja valita sitten **Määritä vastaanottajat.**
-2. Kirjoita Sähkö posti osoite ja valitse sitten **Lisää vastaanottaja.** Voit lisätä useita Sähkö posti osoitteita.
-3. Kun olet lisännyt kaikki sähkö posti osoitteet, valitse **valmis** näytön alareunasta.
+1. Ota lasku sähköpostitse käyttöön noudattamalla edellä olevia ohjeita ja valitse sitten **Määritä vastaanottajat.**
+2. Syötä sähköpostiosoite ja valitse sitten **Lisää vastaanottaja**. Voit lisätä useita sähköpostiosoitteita.
+3. Kun olet lisännyt kaikki sähköpostiosoitteet, valitse **Valmis** näytön alareunasta.
 
-**Tilaus laskun lataamisen salliminen muille**
+**Anna muiden ladata tilauksesi lasku**
 
-Jos haluat, että käyttäjät/ryhmät, joilla on tilaus tason käyttö oikeus, voivat ladata laskun:
+Jos haluat, että käyttäjät tai ryhmät, joilla on tilaustason käyttöoikeus, voivat ladata laskusi:
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/) tila uksen tilin järjestelmänvalvojana.
-2. Hae **kustannusten hallinta + laskutus**.
-3. Valitse **laskut** vasemmalla olevasta vaihto ehdosta.
-4. Valitse Azure-tilauksesi ja valitse sitten **Salli muiden ladata lasku**.
-5. Valitse **päällä** ja sitten **Tallenna** sivun yläreunassa.
+1. Kirjaudu sisään [Azure-portaaliin](https://portal.azure.com/) tilauksen järjestelmänvalvojan tilillä.
+2. Etsi **Kustannustenhallinta ja laskutus**.
+3. Valitse **vasemman** reunan vaihtoehdoista Laskut.
+4. Valitse Azure-tilauksesi ja sitten **Anna muiden ladata laskuja**.
+5. Valitse **Käytössä** ja sitten **Tallenna** sivun yläosassa.
 
 > [!NOTE]
-Jos et ole tilin järjestelmänvalvoja, ota yhteyttä tilin järjestelmänvalvojaan ja noudata edellä annettuja ohjeita, jotta voit valita, lisätä vastaanottajat tai sallia muille käyttäjille laskun lataamisen.
+Jos et ole tilin järjestelmänvalvoja, ota yhteyttä tilin järjestelmänvalvojaan ja noudata yllä olevia ohjeita, jotta voit ottaa vastaanottajia käyttöön, lisätä vastaanottajia tai sallia muiden käyttäjien ladata lasku.

@@ -1,5 +1,5 @@
 ---
-title: Ongelmia tunniste tietojen, tietojen kalastelussa tai tekeytymisessä?
+title: Ongelmia tekeytymisen, tietojen kalastelun tai tekeytymisen kanssa?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986780"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Ongelmia tunniste tietojen, tietojen kalastelussa tai tekeytymisessä?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Ongelmia tekeytymisen, tietojen kalastelun tai tekeytymisen kanssa?
 
-Katso, miten Microsoft suojelee sinua:
+Lue, miten Microsoft suojaa sinua:
 
-- [Tekeytymiseltä suojautuminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [Spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
 - [Tietojen kalastelu ja tekeytyminen](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
-Muita suosituksia:
+Lisäsuosituksia:
 
-- Jos kyseessä on väärennetty Lähettäjä, joka näyttää tulevan omasta toimi alueistasi, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) ja [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) voivat auttaa.
+- Osoitetut lähettäjät, jotka näyttävät tulevan omasta toimialueestasi, voivat auttaa [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) ja [DKIM.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
-- Varmista, että oman toimi alueesi lähettäjiä ei ole määritetty ohittamaan roska postin suodatusta sähkö postin kulku sääntöjen (eli siirto sääntöjen) tai sallittujen luettelon merkintöjen avulla. Lisä tietoja on Ohje aiheessa [Microsoft-roska posti suodattimien ohittamista koskevat varoitukset](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Oman toimialueen lähettäjien tarkistamista ei ole määritetty ohittamaan roskapostisuodatuksen estoa postinkulun sääntöjen (eli siirtosääntöjen) avulla tai sallimalla luettelon merkinnät. Lisätietoja on kohdassa [Microsoftin roskapostisuodattimien ohittamisen varoitukset.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- Varmista, että käyttäjät eivät ole määrittäneiden [turvallisten lähettäjien luettelon](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) merkintöjä, jotka saattavat sallia tietojenkalasteluhyökkäyksen.
+- Varmista, että käyttäjät eivät ole määrittäneet [Lokero-luettelon](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) merkintöjä, jotka voivat sallia tietojenkalasteluhyökkäyksiä.
 
-- Roska posti-kansion sijaan voit pitää erittäin luotettavat roska posti-ja Tietojenkalasteluviestit karanteenissa. Lisä tietoja on kohdassa [karanteeni Sähkö posti viestit](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Harkitse erittäin luotettavan roskapostin ja tietojen kalastelun viestien toimittamista karanteeniin Roskaposti-kansion sijaan. Lisätietoja on kohdassa [Sähköpostiviestien karanteeni.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**[Viestien ilmoittaminen Microsoftille](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) on paras tapa kertoa, miten suodattimilla on suoritus kyky.**
+**[Viestien raportointi Microsoftille](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) on paras tapa kertoa meille, miten suodattimet toimivat.**

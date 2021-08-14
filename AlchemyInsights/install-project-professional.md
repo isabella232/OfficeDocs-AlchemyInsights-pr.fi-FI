@@ -1,5 +1,5 @@
 ---
-title: Project Professionalin asentaminen
+title: Asenna Project Professional
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dfb664248234a0a9e8b7e46355f8d424523c131540245184459556dc100a4924
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014465"
 ---
-# <a name="install-project-professional"></a>Project Professionalin asentaminen
+# <a name="install-project-professional"></a>Asenna Project Professional
 
-Lisätietoja [](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) Project Onlinen tilausversion ja Project 2019:n, 2016:n tai 2013:n ei-tilausversion asentamisesta on project 2019:n, 2016:n ja 2013:n asennuksessa. 
+Katso [Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) ohjeet Project Online:n tilausversion sekä Project 2019:n, 2016:n tai 2013:n ei-tilausversion asentamiseen. 
 
-Noudata Project 2010:ssä tai 2007:ssä [Office 2010:n tai](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) [Office 2007:n ohjeita.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
+Jos Project 2010 tai 2007, noudata kohdan [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) tai [Office 2007 ohjeita.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-Project myydään sovelluksena, joten jos sinulla ei vielä ole sitä, osta tai [kokeile Projectia.](https://www.microsoft.com/evalcenter/evaluate-project) 
+Project myydään sovelluksena, joten jos sinulla ei vielä ole sitä, osta tai [kokeile Project.](https://www.microsoft.com/evalcenter/evaluate-project) 
 
 
 

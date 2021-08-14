@@ -1,5 +1,5 @@
 ---
-title: Android Enterprise-rekisteröinti-yleiskatsaus
+title: Android-yritysrekisteröinti – yleiskatsaus
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932886"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Android Enterprise-rekisteröinti-yleiskatsaus
+# <a name="android-enterprise-enrollment---overview"></a>Android-yritysrekisteröinti – yleiskatsaus
 
-Jos haluat käyttää Android Enterprise-rekisteröintiä organisaatiossa, sinun on ensin [yhdistettävä Intune-tili hallinnoituun Google Play-tiliisi](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Jotta voit käyttää Android Enterprise -rekisteröintiä organisaatiossasi, sinun [on Näyttöyhteys intune-tilisi hallitun Google Play -tilin kautta.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
 
-Kun yhteys on muodostettu, voit valita sopivat vaiheet sen mukaan, mitä Android-rekisteröinti tyyppiä haluat käyttäjien noudattavan:
+Kun yhteyden muodostaminen on onnistunut, voit valita tarvittavat vaiheet Android-rekisteröinnin tyypille, jota haluat käyttäjien noudattaneen:
 
-- [Androidin yritys työn profiili laitteiden rekisteröinnin määrittäminen](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Intune-rekisteröinnin määrittäminen Android-yritys käyttöön omistetut laitteet](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Intune-rekisteröinnin määrittäminen Android Enterprisen täysin halli tuista laitteista](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Android Enterprise -työprofiililaitteiden rekisteröinnin määrittäminen](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Intunen Android Enterprise -laiterekisteröimisen rekisteröiminen](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Android Enterprisen täysin hallittujen laitteiden Intunen rekisteröiminen](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Jos haluat määrittää ja rekisteröidä Android-laitteiden asennuksen työn kulun usein kysytyissä kysymyksissä, Katso lisä tietoja artikkelista [Androidin yritys laitteiden määrittäminen ja vian määritys Microsoft Intunella](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+Tietoja Android Enterprise -laitteiden määrittämisestä ja rekisteröinnistä sekä usein kysytyistä kysymyksistä on kohdassa Android Enterprise -laitteiden määrittäminen [ja Microsoft Intune.](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune)
 
-Lisä tietoja laitteiden rekisteröinnin vian määrityksestä yleensä ja joistakin Android-rekisteröinti virheistä on kohdassa [laitteiden rekisteröinnin vian määritys Microsoft Intunella](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Lisätietoja laitteen rekisteröinnin vianmäärityksestä yleisesti ja joistakin Androidin rekisteröintivirheistä on kohdassa Laitteen rekisteröinnin [vianmääritys Microsoft Intune.](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-Jos olet kiinnostunut QR-koodin rekisteröimisen menthod for COSU-laitteista, katso [Tämä blogi](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Jos olet kiinnostunut COSU-laitteiden QR-koodin rekisteröinnistä, tutustu tähän [blogiin.](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184)
 
-Voit myös käyttää [Intune-vian määritys LAVAN sisältöä](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , joka auttaa tunnistamaan, millaisia rekisteröinti ongelmia käyttäjät kokevat.
+Voit myös käyttää [Intunen vianmääritys](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) -teriä kuvaavaa sisältöä ja selvittää, mitä rekisteröintiongelmia käyttäjillä on.

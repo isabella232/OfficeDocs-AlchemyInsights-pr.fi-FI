@@ -12,74 +12,74 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: e463e8181123277f3509c0b0bb6f871a1a09bed1
-ms.sourcegitcommit: c3574f574afe5a40a6ea2c6e399c58977d18bb73
+ms.openlocfilehash: 975d4850c1ecffae786dd19b7f4363e0c95378cff4f3ae6bb1968af33ef810b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986816"
 ---
 # <a name="issues-with-credentials"></a>Tunnistetietoihin liittyvät ongelmat
 
-[Microsoftin tunnistetietoympäristössä ja OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) -asiakastietojen työnkulussa kuvataan, miten ohjelma voidaan ohjelmoida suoraan OAuth 2.0 -asiakastietojen grant flow -tunnuksen avulla.
+[Microsoftin käyttäjätietoympäristö ja OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) -asiakastietojen työnkulussa kuvataan, miten ohjelma voidaan ohjelmoida suoraan OAuth 2.0 -asiakastietojen grant flow -työnkulun avulla.
 
 **Miten hallitsen sovelluksen salasanaa tai varmenteen tunnistetietoja?**
 
-Azure CLI:ssä voit [käyttää az ad -sovelluksen](https://docs.microsoft.com/cli/azure/ad/app/credential) tunnistetietoja sovelluksen salasanan tai varmenteen tunnistetietojen poistamiseen, luetteloon tai palauttamiseen.
+Azure CLI:ssä voit käyttää [az ad -sovelluksen](https://docs.microsoft.com/cli/azure/ad/app/credential) tunnistetietoja sovelluksen salasanan tai varmenteen tunnistetietojen poistamiseen, luetteloon tai palauttamiseen.
 
 **Miten käyttäjät palauttavat salasanansa?**
 
-Käyttäjien on [rekisteröitävä omatoiminen salasanan vaihto,](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) ennen kuin he voivat vaihtaa salasanansa. Kun käyttäjä on rekisteröitynyt, hän voi palauttaa salasanansa noudattamalla tämän artikkelin ohjeita: Vaihda [työ- tai koulusalasanasi.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account)
+Käyttäjien on [rekisteröitävä omatoiminen salasanan vaihto,](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) ennen kuin he voivat vaihtaa salasanansa. Kun käyttäjä on rekisteröity, hän voi palauttaa salasanansa noudattamalla tässä artikkelissa annettuja ohjeita: [Palauta työ- tai koulusalasana.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account)
 
 **Miten käyttäjät vaihtavat salasanansa?**
 
 Käyttäjät voivat vaihtaa salasanansa noudattamalla tässä artikkelissa annettuja ohjeita: [Salasanan vaihtaminen.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password)
-He voivat myös [hallita sovelluksen salasanoja kaksivaiheista vahvistusta varten.](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords)
+He voivat myös [hallita sovelluksen salasanoja kaksivaiheista tarkistamista varten.](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords)
 
-**Käyttäjäni saa virheilmoituksen, kun salasanaa muutetaan tai palautetaan**
+**Käyttäjäni saa virheilmoituksen salasanan vaihtamisen tai vaihtamisen jälkeen**
 
-Tämä linkki antaa tietoja yleisistä ongelmista, joita voi ilmetä, kun käyttäjä yrittää vaihtaa salasanansa: yleisiä [ongelmia ja heidän ratkaisujaan](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
+Tämä linkki antaa tietoja yleisistä ongelmista, joita voi ilmetä, kun käyttäjä yrittää vaihtaa salasanansa: yleisiä ongelmia [ja heidän ratkaisujaan](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
 
 **Minulla on ongelmia käyttäjän salasanan palauttamisessa**
 
-- Varmista, että sinulla on oikeus vaihtaa salasanoja. *Vain yleiset järjestelmänvalvojat, salasanat ja käyttäjien järjestelmänvalvojat voivat vaihtaa käyttäjien salasanat.* Yleiset järjestelmänvalvojat voivat myös palauttaa muiden järjestelmänvalvojan salasanat.
+- Varmista, että sinulla on oikeus vaihtaa salasanoja. *Vain yleiset järjestelmänvalvojat, salasanat ja käyttäjien järjestelmänvalvojat voivat vaihtaa käyttäjien salasanat.* Yleiset järjestelmänvalvojat voivat myös palauttaa muiden järjestelmänvalvojien salasanat.
 
 - Varmista, että ymmärrät käyttöoikeusvaatimukset:
 
-  - Sinulla on oltava vähintään yksi käyttöoikeus määritettynä organisaatiossasi:
-    - **Vain pilvipalvelun käyttäjät** – mikä tahansa Office 365 (O365) maksettu SKU tai Azure AD Basic
+  - Organisaatiossasi on oltava määritettynä vähintään yksi käyttöoikeus:
+    - **Vain pilvikäyttäjät** – mikä tahansa Office 365 (O365) maksettu SKU tai Azure AD Basic
     - **Pilvi- ja/tai paikalliskäyttäjät** – Azure AD Premium P1 tai P2, Enterprise Mobility + Security (EMS) tai Secure Productive Enterprise (SPE)
     - Lisätietoja käyttöoikeusvaatimuksista on kohdassa [Azure AD:n omatoimista salasanan vaihtoa koskevat käyttöoikeusvaatimukset.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Jos haluat vaihtaa käyttäjän salasanan, etsi käyttäjä Azure AD:ssä. Napsauta sitten käyttäjän yleiskatsausterässä Palauta salasana -painiketta.
+- Jos haluat vaihtaa käyttäjän salasanan, etsi käyttäjä Azure AD:ssä. Napsauta sitten käyttäjän yleiskatsauksen lapaa ja napsauta "Vaihda salasana" -painiketta.
 
 **Salasanan vaihtopainike näkyy harmaana**
 
-Sinulla ei ole oikeutta **palauttaa** tämän käyttäjän salasanoja. *Vain yleiset järjestelmänvalvojat, salasanat ja käyttäjien järjestelmänvalvojat voivat vaihtaa käyttäjien salasanat.* Yleiset järjestelmänvalvojat voivat myös palauttaa muiden järjestelmänvalvojan salasanat.
+Sinulla ei ole oikeutta **vaihtaa** tämän käyttäjän salasanoja. *Vain yleiset järjestelmänvalvojat, salasanat ja käyttäjien järjestelmänvalvojat voivat vaihtaa käyttäjien salasanat.* Yleiset järjestelmänvalvojat voivat myös palauttaa muiden järjestelmänvalvojien salasanat.
 
-**Salasanan vaihto-osaa ei ole**
+**En näe salasanan vaihto-osaa**
 
-Sinulla ei ole oikeutta vaihtaa salasanoja. *Vain yleiset järjestelmänvalvojat, salasanat ja käyttäjien järjestelmänvalvojat voivat vaihtaa käyttäjien salasanat.* Yleiset järjestelmänvalvojat voivat myös palauttaa muiden järjestelmänvalvojan salasanat.
+Sinulla ei ole oikeutta vaihtaa salasanoja. *Vain yleiset järjestelmänvalvojat, salasanat ja käyttäjien järjestelmänvalvojat voivat vaihtaa käyttäjien salasanat.* Yleiset järjestelmänvalvojat voivat myös palauttaa muiden järjestelmänvalvojien salasanat.
 
-**En näe paikallisen integroinnin teriä salasanan nollaamisen aikana**
+**I don't see the on-premises integration blade in password reset**
 
-- Paikallinen integrointisuljenta näkyy vain yhdistelmäympäristöissä, eli käytät salasanan palautusta paikallisen käyttäjän salasanojen käsittelemiseen.
+- Paikallisen integroinnin laita näkyy vain yhdistelmäympäristöissä, eli käytät salasanan palautusta paikallisen käyttäjän salasanojen käsittelemiseen.
 
-- Et näe tätä terää, jos:
+- Et näe tätä lapaa, jos:
 
-  - Et käytä salasanan palautusta
-  - Salasanan takaisin kirjoittamisen asennuksessa ja yhteydessä on ongelma
-  - Azure AD Connectin asennuksessa ja yhteydessä on ongelma
-  - Lisätietoja salasanojen palautusongelmien vianmäärityksestä on ohjeaiheessa Salasanalla [kirjoitettavan takaisin kirjoittamisen vianmääritys](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+  - Et käytä salasanan kirjoitusta takaisin
+  - Salasanalla kirjoittamisen asennuksessa ja yhteydessä on ongelma
+  - Azure AD Näyttöyhteys:n asennuksessa tai yhteydessä on Näyttöyhteys
+  - Lisää vianmääritysohjeita salasanan takaisin kirjoittamisen ongelmiin on ohjeaiheessa [Salasanaan kirjoittamisen vianmääritys](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
 
-**En tiedä, miten voin vaihtaa käyttäjän salasanan**
+**En tiedä, miten käyttäjän salasanan voi vaihtaa**
 
 1. Kirjaudu Azure-portaaliin asianmukaisena järjestelmänvalvojana.
-2. Siirry Käyttäjät ja **ryhmät -teriin** ja valitse **Kaikki käyttäjät.**
+2. Siirry Käyttäjät **ja ryhmät -teriin** ja valitse **Kaikki käyttäjät**.
 3. Valitse käyttäjä luettelosta.
-4. Valitse valitulle käyttäjälle **Yleiskatsaus** ja valitse sitten komentopalkissa Palauta **salasana.**
-5. Valitse Palauta **salasana -painike** ja noudata näyttöön tulevia ohjeita.
+4. Valitse valitun käyttäjän yleiskatsaus **ja** valitse sitten komentopalkissa **Vaihda salasana**.
+5. Valitse **Palauta salasana** -painike ja noudata näyttöön tulevia ohjeita.
     - Vain Azure-portaalin kautta suoritetut **nollaukset tukevat** salasanan palautusta.
 
-**Palautan paikallisen käyttäjän salasanan Office 365 -hallintaportaalista tai Office 365 -mobiilisovelluksesta, mutta käyttäjä ei vieläkään pysty kirjautumaan sisään**
+**Palautan paikallisen käyttäjän salasanan Office 365:n hallintasovellus-portaalista tai Office 365 mutta käyttäjä ei vieläkään pysty kirjautumaan sisään**
 
-Salasanasuojaa ei tueta tässä portaalissa. Palauta käyttäjän salasana uudelleen Azure-portaalissa.
+Tässä portaalissa ei tueta salasanan kirjoitusta. Palauta käyttäjän salasana uudelleen Azure-portaalissa.
