@@ -1,5 +1,5 @@
 ---
-title: 620 aika vyöhykkeen ja kieli asetusten säätäminen Outlookin verkko versiossa
+title: 620 Aikavyöhykkeen ja kieliasetuksen säätäminen Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952930"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Aika vyöhykkeen ja kieli asetusten säätäminen Outlookin verkko versiossa
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Aikavyöhykkeen ja kieliasetusten säätäminen Outlookin verkkoversio
 
-Jos haluat määrittää Outlookin verkko version aika vyöhyke-ja kieli asetukset, joita voit käyttää työpaikan tai oppi laitoksen tilillä, Katso lisä tietoja artikkelista [aika vyöhykkeen ja kieli asetusten muuttaminen Outlookin verkko versiossa](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Jos haluat muuttaa aikavyöhyke- ja kieliasetuksia Outlookin verkkoversio, joita käytät käyttämällä työ- tai koulutiliä, katso lisätietoja artikkelista Aikavyöhykkeen ja kieliasetusten [muuttaminen Outlookin verkkoversio.](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)
   

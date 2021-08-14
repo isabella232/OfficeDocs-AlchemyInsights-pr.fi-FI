@@ -1,5 +1,5 @@
 ---
-title: Sähköpostin allekirjoituksen luominen Outlookin verkkosovelluksessa
+title: Sähköpostin allekirjoituksen luominen Outlookin verkkoversio
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: e0df3bb3ed1ca61b34133814332f643c280a2251
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965530"
 ---
-# <a name="create-email-signature-in-outlook-on-the-web"></a>Sähköpostin allekirjoituksen luominen Outlookin verkkosovelluksessa
+# <a name="create-email-signature-in-outlook-on-the-web"></a>Sähköpostin allekirjoituksen luominen Outlookin verkkoversio
 
 1. Kirjaudu Outlookin verkkoversioon.
-2. Valitse yläreunan siirtymispalkissa   >  **Asetukset- sähköposti.**
-3. Valitse **Asetukset-paneelin** **Sähköposti-kohdassa** **Asettelu sähköpostin**  >  **allekirjoitus.**
-4. Kirjoita tekstiruutuun allekirjoitus ja muuta sen ulkoasua käytettävissä olevien muotoiluasetusten avulla.
+2. Valitse yläreunan siirtymispalkissa **Asetukset**  >  **Sähköposti**.
+3. Valitse **Asetukset-paneelin** **Sähköposti-kohdassa** **Asettelu sähköpostin**  >  **allekirjoitus**.
+4. Kirjoita tekstiruutuun allekirjoituksesi ja muuta sen ulkoasua käytettävissä olevien muotoiluasetusten avulla.
 
     > [!TIP]
-    > Kuvatiedoston (esimerkiksi .gif- tai .jpg-muodossa) lisääminen allekirjoitukseen ei ole tuettua, mutta voit kopioida kuvan verkkosivulta ja liittää sen allekirjoitusruutuun.
+    > Kuvatiedoston (esimerkiksi .gif tai .jpg) lisääminen allekirjoitukseen ei ole tuettua, mutta voit kopioida kuvan verkkosivulta ja liittää sen allekirjoitusruutuun.
 
-5. Jos haluat, että allekirjoituksesi näkyy kaikkien lähtevien sähköpostiviestien, mukaan lukien vastausten ja edelleenlähetysten, alalaidassa, valitse Sisällytä allekirjoitukseni automaattisesti **uusiin viesteihin, jotka kirjoitan.**
+5. Jos haluat, että allekirjoituksesi näkyy kaikkien lähtevien sähköpostiviestien ( myös vastausten ja edelleenlähetysten) alalaidassa, valitse Sisällytä allekirjoitukseni automaattisesti uusiin **viesteihin.**
 6. Valitse **Tallenna**.

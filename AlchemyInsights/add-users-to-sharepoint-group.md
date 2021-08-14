@@ -1,5 +1,5 @@
 ---
-title: Käyttäjien lisääminen SharePoint-ryhmään
+title: Käyttäjien lisääminen SharePoint ryhmään
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 807d6b9dce934887df65d0a1df6ba73b197e62aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bec5c47b149329f9fa0a6110c6340a1271620787062b7fbdf2d8d4b96b97b202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953182"
 ---
-# <a name="add-users-to-a-sharepoint-group"></a>Käyttäjien lisääminen SharePoint-ryhmään
+# <a name="add-users-to-a-sharepoint-group"></a>Käyttäjien lisääminen SharePoint ryhmään
 
-SharePoint-ryhmä on kokoelma käyttäjiä, joilla kaikilla on samat käyttöoikeudet sivustoihin ja sisältöön. Sen sijaan, että määrität käyttöoikeuksia yhdelle henkilölle kerrallaan, voit määrittää ryhmien avulla saman käyttöoikeustason kätevästi useille käyttäjille samalla kertaa.
+A SharePoint group is a collection of users who all have the same set of permissions to sites and content. Sen sijaan, että määrität käyttöoikeuksia yhdelle henkilölle kerrallaan, voit määrittää ryhmien avulla saman käyttöoikeustason kätevästi useille käyttäjille samalla kertaa.
 
 - [Käyttäjien lisääminen ryhmään](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [Jäsenten lisääminen Microsoft 365 -ryhmiin tai poistaminen siitä hallintakeskuksessa](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Jäsenten lisääminen Microsoft 365 ryhmään hallintakeskuksen avulla](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

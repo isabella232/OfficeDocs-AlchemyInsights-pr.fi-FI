@@ -1,5 +1,5 @@
 ---
-title: Lisä tietoja säilytys käytännöistä
+title: Lisätietoja säilytyskäytännöistä
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -14,43 +14,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985625"
 ---
-# <a name="more-info-about-retention-policies"></a>Lisä tietoja säilytys käytännöistä
+# <a name="more-info-about-retention-policies"></a>Lisätietoja säilytyskäytännöistä
 
-Useimpien organisaatioiden tietojen määrä ja monimutkaisuus lisääntyy päivittäin – Sähkö posti, asia kirjat, pikaviestit ja paljon muuta. Näiden tietojen tehokas hallinta tai hallitseminen on tärkeää, ja säilytys käytännön avulla voit saavuttaa nämä tavoitteet. Lisä tietoja säilytys käytännöistä on seuraavissa linkeissä:
+Useimpien organisaatioiden tietojen määrä ja monimutkaisuus lisääntyy päivittäin: sähköpostit, asiakirjat, pikaviestit ja monet muut. Näiden tietojen tehokas hallinta on tärkeää, ja säilytyskäytäntö voi auttaa näiden tavoitteiden saavuttamisessa. Lisätietoja säilytyskäytännöistä on näissä linkeissä:
 
-## <a name="a-from-security-and-compliance-center"></a>A) tieto turva-ja yhteensopivuus keskuksesta
+## <a name="a-from-security-and-compliance-center"></a>A) Tietoturva- ja yhteensopivuuskeskuksesta
 
-- Siirry kohtaan tieto turva ja yhteensopivuus > tietojen hallinta > säilyttäminen
-  - Katso [Tämä](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artikkeli
+- Siirry tietojen > ja > tietoturvaan ja >.
+  - Katso [tämä](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artikkeli
 
-- Siirry kohtaan tieto turva ja yhteensopivuus > eDiscoveryn> Advanced eDiscoveryn 
-  - Katso [Tämä](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artikkeli
+- Siirry eDiscovery-> ja yhteensopivuus -> Advanced eDiscovery 
+  - Katso [tämä](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artikkeli
 
-- Siirry kohtaan tieto turva-ja yhteensopivuus > luokitukset > säilytys
-  - Tutustu seuraaviin artikkeleihin
-    - [Herkkyys-Tunnisteet](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-    - [Merkintöjen yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- Siirry security and compliance > Classifications > retention
+  - Tutustu näihin artikkeleihin
+    - [Luottamuksellisuusmerkinnät](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Osoitetarrojen yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) aiemmat eDiscoveryn käytännöt
+## <a name="b-legacy-ediscovery-policies"></a>B) Vanhat eDiscovery-käytännöt
 
-- Katso [Tämä](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikkeli
+- Katso [tämä](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikkeli
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) sivuston sulkemis-ja poisto käytännöt
+## <a name="c-site-closure-and-deletion-policies"></a>C) Sivuston sulkemis- ja poistokäytännöt
 
-- Katso [Tämä](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikkeli  
+- Katso [tämä](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikkeli  
 
-## <a name="d-information-rights-management-irm"></a>D) sisältö oikeuksien hallinta (IRM)
+## <a name="d-information-rights-management-irm"></a>D) Sisältöoikeuksien hallinta (IRM)
 
-- Tutustu seuraaviin artikkeleihin
-  - [Sisältö oikeuksien hallinta luettelossa/kirjastossa](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Sisältö oikeuksien hallinnan yleiskatsaus](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Tutustu näihin artikkeleihin
+  - [Sisältöoikeuksien hallinta luettelossa/kirjastossa](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Yleiskatsaus sisältöoikeuksien hallintaan](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Suosittelemme vahvasti siirtymistä tieto turva-ja yhteensopivuus käytäntöihin, jos käytät edelleen vanhaa eDiscoverya-tai IRM-tai sivuston sulkeminen-ja poisto käytäntöjä.
+> Suosittelemme siirtymään tietoturva- ja yhteensopivuuskäytäntöihin, jos käytät edelleen vanhoja eDiscovery-, IRM- tai sivuston sulkemis- ja poistokäytäntöjä.

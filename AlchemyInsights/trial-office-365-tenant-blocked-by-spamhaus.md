@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-vuokra ajan käytön esto spamhaus
+title: Spamhaus Microsoft 365 estänyt kokeiluversion vuokraajan
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940084"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Virhe, kun Microsoft 365-koekäyttäjä lähettää sähkö postia: asiakas isäntä on estynyt Spamhausin avulla
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Virhe, kun Microsoft 365 kokeiluversion käyttäjä lähettää sähköpostia: Asiakkaan isäntä estetty Spamhausin avulla
 
-Näyttää siltä, että lähetät sähkö postia uudesta Microsoft 365-koeorganisaatiosta. Väärinkäytösten estämiseksi estät IP-osoitteet, joiden tiedetään olleen aiemmin vaarantuneet. Tämä tarkistus ei enää ole voimassa, kun olet käyttänyt maksullisia käyttö oikeuksia. Voit ehkä hankkia tilapäisen Help otuksen pyytämällä uuden IP-osoitteen Internet-palveluntarjoajalta tai poistamalla eston [Spamhausin](https://go.microsoft.com/fwlink/p/?linkid=123245) verkkosivustosta.
+Näyttää siltä, että lähetät sähköpostia uudesta kokeiluversion Microsoft 365 organisaatiosta. Väärinkäytösten estämiseksi estämme IP-osoitteet, joita on tunnettu aiemmin käytetty väärin. Tämä tarkistus ei ole enää käytössä, kun aloitat maksullisen käyttöoikeuden käytön. Voit ehkä saada tilapäisen helpotuksen pyytämällä internet-palveluntarjoajaltasi (ISP) uutta IP-osoitetta tai poistamalla eston [Spamhaus-sivustosta.](https://go.microsoft.com/fwlink/p/?linkid=123245)

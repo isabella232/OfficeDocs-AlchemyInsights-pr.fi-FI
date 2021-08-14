@@ -1,5 +1,5 @@
 ---
-title: 1491-haku-ei-palautus-odotetut tulokset
+title: 1491-search-not-returning-expected-results
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e926db0d43f7586809ab78db66e861b8908a0ce61fb84498d1993bcc301d5f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985538"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Sisältö haku työkalu tärkeiden tietojen etsimiseen
+# <a name="content-search-tool-to-find-relevant-info"></a>Olennaisien tietojen etsiminen sisältöhakutyökalulla
 
-Tieto turva & yhteensopivuus keskuksen sisältö haku työkalun avulla voit nopeasti etsiä Sähkö posti viestejä Exchange-posti laatikoista, SharePoint-sivuston tiedostoista ja OneDrive-sijainneista sekä pikaviestikeskusteluista Skype for Businessissa. Voit käyttää sisältö haku työkalua sähkö postien, asia kirjojen ja pikaviestikeskustelujen hakemiseen Microsoft 365-yhteiskäyttötyökaluissa, kuten Microsoft Teamsissa ja Microsoft 365-ryhmissä.
+Tietoturva- ja & yhteensopivuuskeskuksen sisältöhakutyökalun avulla voit etsiä nopeasti Exchange-postilaatikoiden, SharePoint-sivustojen tiedostojen ja OneDrive-sijaintien sähköposteja sekä Skype for Business. Sisältöhakutyökalun avulla voit hakea sähköposteja, asiakirjoja ja pikaviestikeskusteluja yhteiskäyttötyökaluilla, Microsoft 365 esimerkiksi Microsoft Teams ja Microsoft 365 ryhmissä.
 
 
-Ennen kuin [käytät sisältö hakua](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [Suojaus-& yhteensopivuus keskuksesta](https://sip.protection.office.com/homepage), sinun kannattaa viimeistellä määritys asetukset, mukaan lukien [käyttö oikeuksien määrittäminen](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), [lataus nopeuksien](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) ja [vienti asetusten](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)määrittäminen.
+Ennen kuin [käytät sisältöhakua](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [tietoturva- &](https://sip.protection.office.com/homepage)yhteensopivuuskeskuksesta, sinun on määritettävä määritysasetukset, kuten määritettävä käyttöoikeudet [,](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)määrittämällä [latausnopeudet](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) ja [vientiasetukset](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results).
 
-Lue lisää sisältö hausta tarkastelemalla [vaatimuksia ja rajoituksia](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search), [tutkimalla osittain indeksoidut kohteet](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) ja muut tulokset.
+Saat lisätietoja sisältöhaun käytöstä [](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)tutustumalla vaatimuksiin ja rajoituksiin, jotka liittyvät osittain [indeksoituihin](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) kohteisiin ja muihin tuloksiin.
 
-Kun olet tarkistanut sisältö haun määritys asetukset ja rajoitukset, Katso lisä tietoja kohdasta [sisältö haun käyttäminen, </a> Jos haluat etsiä organisaation Sähkö posti viestejä, asia kirjoja ja pikaviestikeskusteluja](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+Kun olet tarkistanut sisältöhaun määritysasetukset ja rajoitukset, katso artikkelista Paikallaan olevien kohteiden, kuten sähköpostin, asiakirjojen ja pikaviestikeskustelujen, etsiminen [ </a> sisältöhaun avulla organisaatiossa.](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-Katso lisä tietoja artikkelista sisältö haun täydellinen vaiheittainen sisältö haku kohdasta [sisällön etsiminen Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) -sovelluksessa.
+Täydellinen vaiheittainen sisältöhaku on kohdassa Sisällön [etsiminen Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) lisätietoja.
