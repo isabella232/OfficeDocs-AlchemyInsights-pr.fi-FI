@@ -1,5 +1,5 @@
 ---
-title: 608-kalenteri tiedot yhdistelmä asennuksissa
+title: 608 Kalenteritiedot yhdistelmäympäristön asetuksista
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989552"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalenterin vapaiden ja varattujen aikojen ongelmat yhdistelmä ympäristöissä
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalenterin vapaa/varattu-ongelmat yhdistelmäympäristöissä
 
-Jos käyttäjillä on ongelmia, jotka näkevät kalenterin vapaiden ja varattujen aikojen tiedot yhdistelmä ympäristöissä, suorita ohjattu yhdistelmä määritys uudelleen. Lisä tietoja ohjatusta yhdistelmä määritys toiminnosta on Ohje aiheessa [Ohjattu yhdistelmä määritys toiminto](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Jos käyttäjillä on ongelmia kalenterin vapaa/varattu-tietojen näkymiseen yhdistelmäympäristöissä, suorita yhdistelmäkokoonpanon ohjattu toiminto uudelleen. Lisätietoja yhdistelmäkokoonpanon ohjatusta toiminnosta on kohdassa [Yhdistelmäympäristön määritystoiminto.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Lisä tietoja yhdistelmä ympäristöjen vian määritys vaiheista [on artikkelissa yhdistelmä ympäristön vian määritys](https://technet.microsoft.com/library/jj659053.aspx).
+Lisätietoja yhdistelmäympäristöjen vianmäärityksestä on kohdassa [Yhdistelmäympäristön vianmääritys.](https://technet.microsoft.com/library/jj659053.aspx)

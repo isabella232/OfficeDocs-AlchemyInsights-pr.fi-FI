@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932772"
 ---
 # <a name="anonymous-sharing"></a>Anonyymi jakaminen
 
- **Anonyymin käytön salliminen**
+ **Anonyymin käytön ottaminen käyttöön**
   
-Valitse uusi SharePoint-hallinta keskus-kohdassa vasemmassa ruudussa **jakaminen** . 
+Valitse uudessa SharePoint hallintakeskuksessa Jakaminen **vasemmanpuoleisessa** ruudussa. 
   
-- Valitse seuraava: **Salli jakaminen todennetuille ulkoisille käyttäjille ja anonyymin käytön käyttäminen.**
+- Valitse seuraava: Salli **jakaminen todennisille ulkoisille käyttäjille ja anonyymin käytön avulla.**
   
-(Voit myös määrittää linkit vanhenemaan tiettynä päivinä ja valita, miten vastaanottajat voivat käyttää linkkejä.)
+(Voit halutessasi määrittää linkit vanhenemaan tietyn ajan kuluttua ja valita, miten vastaanottajat voivat käyttää linkkejä.)
     
- **Tiedoston tai kansion jakaminen nimettömästi**
+ **Tiedoston tai kansion jakaminen anonyymisti**
   
-- Valitse jaettava tiedosto tai kansio ja valitse sitten **Jaa**. 
+- Valitse tiedosto tai kansio, jonka haluat jakaa, ja valitse sitten **Jaa**. 
     
-- Kenen haluat tämän linkin toimivan? Valitse **kuka tahansa.**
+- Ken haluaisit käyttää tätä linkkiä? Valitse **Kuka tahansa.**
   
- **Huomautus**: **kuka** tahansa luo linkin, jonka avulla kuka tahansa voi käyttää asia kirjaa tai kansiota, vaikka hän ei olisi kirjautunut sisään Microsoft 365-tai OneDrive-palveluun. Käytä tätä, jos haluat jakaa sen kenelle tahansa, yrityksesi sisä-tai ulkopuolelle. Tämä linkki voidaan lähettää myös kenelle tahansa. 
+ **Huomautus:** **Kuka** tahansa luo linkin, jonka avulla kuka tahansa voi käyttää tiedostoa tai kansiota, vaikka hän ei olisi kirjautunut sisään Microsoft 365 tai OneDrive. Tämän avulla voit jakaa tiedostoja kenen tahansa yrityksen sisällä tai sen ulkopuolella. Linkki voidaan myös lähettää edelleen kenelle tahansa. 
     
 

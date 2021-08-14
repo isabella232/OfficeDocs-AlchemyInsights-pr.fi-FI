@@ -1,5 +1,5 @@
 ---
-title: Pääsivuston liittäminen
+title: Keskussivuston liittäminen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989624"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Aiemmin luodun sivuston liittäminen keskitin sivustoon
+# <a name="associate-existing-site-with-a-hub-site"></a>Aiemmin luodun sivuston liittäminen keskussivustoon
 
-Jos haluat liittää aiemmin luodun sivuston keskitin sivustoon, toimi seuraavasti:
+Jos haluat liittää aiemmin luodun sivuston keskussivustoon, tee seuraavat toimet:
   
-1. Valitse sivustossa **Asetukset** (hammas ratas kuvake oikeassa yläkulmassa) ja valitse sitten **sivuston tiedot**.
+1. Valitse sivustossa Asetukset  (hammaspyöräkuvake oikeassa yläkulmassa) ja valitse sitten **Sivuston tiedot**.
 
-2. Valitse **Muokkaa sivuston tietoja** -paneelin **Hub-sivuston liitos** -valikosta se keskitin sivusto, jonka haluat liittää sivustoon, ja valitse sitten **Tallenna**. Sivuston ulkoasu muuttuu niin, että se vastaa pääsivustoa ja pääsivuston siirtymis palkki tulee näkyviin yläreunassa.
+2. Valitse **Muokkaa sivuston tietoja** -paneelin **Keskussivuston** liittäminen -valikosta keskussivusto, jonka haluat liittää sivustoosi, ja valitse sitten **Tallenna**. Sivuston ulkoasu muuttuu vastaamaan keskussivuston ulkoasua, ja pääsivuston siirtymispalkki näkyy yläreunassa.
 
 >**Huomautus**
 >
->Jos Hub-sivuston liitos-vaihto ehto ei ole näkyvissä tai yhtään sivustoa ei ole luettelossa, keskitin sivustoja ei ehkä ole otettu käyttöön tai sinulla ei ehkä ole oikeuksia liittää sivustoja keskitin sivustoon. Pyydä lisä tietoja järjestelmänvalvojalta.
+>Jos Keskussivuston liittämisasetus ei ole käytettävissä tai sivustoja ei ole luettelossa, keskussivustoja ei ehkä ole otettu käyttöön tai sinulla ei ehkä ole oikeutta liittää sivustoja keskussivustoon. Saat lisätietoja ottamalla yhteyttä järjestelmänvalvojaan.
 >
->Hub-sivustoon liitettävien sivustojen määrää ei ole rajoitettu.
+>Keskussivustoon liitettyjen sivustojen määrää ei ole rajoitettu.
   

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-Sähkö posti tilaukset
+title: Outlook.com-sähköpostitilaukset
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962308"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Tiedostojen liittäminen tai lataaminen ei onnistu Facebookista
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Tiedostoja ei voi liittää tai ladata Facebookista
 
-Facebookin käyttö ehtojen muutoksen takia, 2019 jälkeen, et voi enää ladata liitteitä suoraan Facebookista, eikä Facebook näy enää pilvi sijaintien luettelossa. 
+Facebookin ehtojen muutoksen vuoksi et voi enää 23.10.2019 jälkeen ladata liitteitä suoraan Facebookista, eikä Facebook enää näy pilvisijaintien luettelossa. 
 
-Voit hallita [muisti kirjan](https://go.microsoft.com/fwlink/?linkid=2111075)muiden pilvi sijaintien luetteloa.
+Voit hallita muiden pilvisijaintien luetteloa Tallennus [tilissä.](https://go.microsoft.com/fwlink/?linkid=2111075)
 
-Lisä tietoja [tallennus tila tileistäsi](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Lisätietoja tilien [Tallennus.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
   
