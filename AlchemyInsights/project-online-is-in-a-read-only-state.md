@@ -1,5 +1,5 @@
 ---
-title: Project Online on vain luku-tilassa
+title: Project Online on vain luku -tilassa
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063013"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project Online on vain luku-tilassa
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online on vain luku -tilassa
 
-Project Online voi saavuttaa vain luku-tilassa kolme yleistä syytä:
+On kolme yleistä syytä, miksi Project Online voi olla vain luku -tilassa:
 
-1. Organisaatioilla on vain Project Online Essentials-käyttö oikeus (a). Tämä ei riitä sivuston pitämiseksi hengissä, ja se saa lopulta valmiiksi valmistelun.Sivusto sijoitetaan vain luku-tilaan, jotta järjestelmänvalvojat tietävät, että jokin on vialla ja että hän voi hankkia oikeat käyttö oikeudet. Järjestelmänvalvojien on lisättävä Project Online Professional-ja/tai Premium-käyttö oikeus. Sivusto tulee ulos vain luku-tilassa. Lisä tietoja on Ohje aiheessa [projektin hallinta ratkaisujen vertaileminen](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Määritetty kiintiö on saavutettu. Lisä tietoja on kohdassa [Project Web App-kiintiö](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Tarkista [Project Onlinen aikajaksotettujen raportti tietojen koonti asetusten määrittäminen](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) , jotta näet, miten raportin rakeisuus saattaa vaikuttaa kiintiön käyttöön.
-3. Vain luku-tila voi olla hyvin väliaikainen ehto, joka voi ilmetä huollon aikana. Useimmat huolto toimet eivät ole edes havaittavissa asiakkaillemme, mutta niitä ei useinkaan näy, mutta vain luku-tilassa on aikaa.
+1. Organisaatioilla on Project Online Essentials käyttöoikeuksia. Tämä ei riitä pitämään sivustoa henkiin, ja se lopulta katoaa. Sivusto on vain luku -tilassa, jotta järjestelmänvalvojat tietävät, että jokin on vialla ja että he voivat hankkia oikeat käyttöoikeudet. Järjestelmänvalvojien on lisättävä Project Online Professional ja/tai Premium käyttöoikeus. Sivusto tulee tässä vaiheessa pois vain luku -sta. Lisätietoja on kohdassa Project [hallintaratkaisujen vertailu.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Määritetty kiintiö on saavutettu. Lisätietoja on kohdassa [Verkkosovelluksen Project kiintiön käyttäminen.](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) Valitse [Määritä aikajaksotisten raportointitietojen koonti Project Online,](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) jotta näet, miten raportointierä voi vaikuttaa kiintiön käyttöön.
+3. Vain luku -tilassa voi olla hyvin tilapäinen ehto, joka voi ilmetä ylläpidon aikana. Asiakkaamme eivät edes huomaa useimpia ylläpitoja, eikä niitä usein huomata, mutta on myös aikoja, jolloin vain luku -aikaa on vähän.

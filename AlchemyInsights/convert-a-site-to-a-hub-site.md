@@ -1,5 +1,5 @@
 ---
-title: Sivuston muuntaminen keskitin sivustoksi
+title: Sivuston muuntaminen keskussivustoksi
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929806"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>SharePoint Hub-sivuston luominen
+# <a name="create-a-sharepoint-hub-site"></a>Luo SharePoint keskussivusto
 
-1. Valitse uusi SharePoint-hallinta keskus-kohdan **sivustot**-kohdassa **Aktiiviset sivustot**.
+1. Valitse uudessa SharePoint Sivustot **-kohdassa** **Aktiiviset sivustot**.
 
-2. Valitse sivusto, josta haluat tehdä pääsivuston, valitse **keskitin sivusto**ja valitse sitten **Rekisteröi keskitin sivustoksi**.
+2. Valitse sivusto, jonka haluat olevan keskussivusto, valitse **Keskussivusto** ja valitse sitten **Rekisteröi keskussivustoksi**.
 
-3. Kirjoita keskitin sivuston näyttö nimi ja määritä yksittäiset käyttäjät tai käyttö oikeus ryhmät, joiden haluat voivan liittää sivustoja keskittimeen.
+3. Anna keskussivustolle näyttönimi ja määritä yksittäiset käyttäjät tai käyttöoikeusryhmät, jotka haluat sallia sivustojen liittämistä keskussivustoon.
 
     > [!NOTE]
-    >  On suositeltavaa valita viestintäsivusto tai työryhmäsivusto, joka käyttää uutta mallia. Jos käytät perinteistä ryhmäsivustoa, keskitin siirtyminen näkyy vain moderneissa sivuissa, ja Hub-sivuston asetukset näkyvät vain moderneissa sivuissa. Sivustoja, jotka on jo liitetty toiseen keskittimeen, ei voi rekisteröidä keskitin sivustoksi.
+    >  Suosittelemme, että valitset viestintäsivuston tai uutta mallia käyttävän ryhmäsivuston. Jos käytät perinteistä ryhmäsivustoa, siirtyminen keskuksessa näkyy vain nykyaikaisilla sivuilla, ja keskussivuston asetukset näkyvät vain nykyaikaisilla sivuilla. Toiseen keskussivustoon jo liitettyjä sivustoja ei voi rekisteröidä keskussivustoksi.
   
-[Lisä tietoja Hub-kohteista](https://go.microsoft.com/fwlink/?linkid=869149)
+[Lisätietoja keskussivustoista](https://go.microsoft.com/fwlink/?linkid=869149)
   

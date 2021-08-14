@@ -1,5 +1,5 @@
 ---
-title: Kirjautuminen ulos Outlookin verkko versiosta
+title: Uloskirjautuminen Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063157"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kirjautuminen ulos Outlookin verkko versiosta
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Uloskirjautuminen Outlookin verkkoversio
 
-Jos haluat kirja utua ulos Outlookin verkko versiosta, valitse nimesi tai kuvasi oikeassa yläkulmassa ja valitse **Kirjaudu ulos**.
+Kirjaudu ulos Outlookin verkkoversio valitsemalla nimesi tai kuvasi oikeassa yläkulmassa ja valitsemalla **Kirjaudu ulos**.
 
-Jos haluat lopettaa automaattisesti kirjautumisen työpaikan tai oppi laitoksen tiliin, toimi seuraavasti:
+Jos haluat lopettaa sisäänkirjautumisen automaattisesti työ- tai koulutiliisi:
 
 1. Valitse nimesi tai kuvasi ja valitse **Kirjaudu ulos**.
-1. Siirry [Outlook.Office.com](https://outlook.office.com/) ja valitse **Käytä toista tiliä**.
-1. Kirjaudu sisään käyttämällä Sähkö posti osoitetta, jota haluat käyttää.
+1. Siirry [Outlook.office.com](https://outlook.office.com/) valitse Käytä toista **tiliä.**
+1. Kirjaudu sisään käyttämällä sähköpostiosoitetta, jota haluat käyttää.
 
-Lisä tietoja on artikkelissa [Outlookin verkko version sisään-ja uloskirjautuminen](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Lisätietoja on kohdassa [Kirjautuminen sisään](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)Outlookin verkkoversio.

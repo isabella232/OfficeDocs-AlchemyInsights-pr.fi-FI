@@ -1,5 +1,5 @@
 ---
-title: SharePoint-kalenterin synkronoiminen Outlookiin
+title: Synkronoi SharePoint kalenterisi Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008876"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Ongelmia kalenterin synkronoinnissa laitteisiin
 
-SharePoint-kalenterit ovat klassisia luettelon tyyppejä, jotka sekoitetaan toisinaan Microsoft 365-ryhmä kalentereihin.
+SharePoint Kalenterit ovat klassisia luettelotyyppejä, joita joskus Microsoft 365 ryhmäkalenterien kanssa.
 
-Jos haluat synkronoida SharePoint-kalenterin Outlookiin, toimi seuraavasti:
+Jos haluat synkronoida SharePoint kalenterin Outlook, toimi seuraavasti:
 
-1. Napsauta **Asetukset** -hammas ratas kuvaketta ja valitse sitten **sivuston sisältö**.
-2. Avaa kalenteri, jonka haluat synkronoida (joka on tapahtuma luettelon tyyppi).
-3. Valitse perinteinen valinta nauha-valikossa **kalenteri**ja valitse sitten **Yhdistä Outlookiin**.
-4. Kun ponnahdus ikkuna pyytää vahvistamaan synkronoinnin, valitse **Salli**.
+1. Napsauta **Asetukset-kuvaketta** ja valitse Sivuston **sisältö**.
+2. Avaa kalenteri, jonka haluat synkronoida (joka on Tapahtumat-luettelotyyppi).
+3. Valitse perinteisessä valintanauhan valikossa **Kalenteri** ja valitse **sitten Näyttöyhteys Outlook**.
+4. Valitse ponnahdusikkunassa, jossa sinua pyydetään vahvistamaan synkronointi, **Salli**.
 
 >[!Note]
-> Kun teet muutoksia synkronoituun Outlook-kalenteriin, se näkyy SharePoint-kalenterissa ja päinvastoin.
+> Kun teet muutoksia synkronoidussa Outlook, se näkyy SharePoint ja päinvastoin.
 
-Lisä tietoja Microsoft 365-ryhmistä on tässä [artikkelissa](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Lisätietoja ryhmien Microsoft 365 on tässä [artikkelissa.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
