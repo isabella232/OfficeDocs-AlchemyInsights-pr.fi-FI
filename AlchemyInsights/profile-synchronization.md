@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923641"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Milloin profiilini muuttuu synkronoituna SharePoint-käyttäjä profiili sovellukseen?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Milloin profiilini vaihtuu synkronoiduksi SharePoint profiilisovellukseksi?
 
-SharePoint Online tuo käyttäjät ja ryhmät käyttäjä profiili sovellukseen Active Directoryn Import-ajastin työn (AD Import) avulla. 
+SharePoint Online tuo käyttäjät ja ryhmät käyttäjäprofiilisovellukseen Active Directory -tuontitoiminnon (AD-tuonti) avulla. 
   
-1. MAINOSTEN tuonti Synkronoi SharePoint Online-hakemisto kaupan muutokset käyttäjä profiili sovellukseen. Nämä muutokset käsitellään erissä.
+1. AD Import synkronoi SharePoint online-hakemistosäilön muutokset käyttäjäprofiilisovellukseen. Nämä muutokset käsitellään erissä.
     
-2. Ajastin työ suoritetaan, kunnes muutokset on synkronoitu.
+2. Ajastintehtävä suoritetaan, kunnes muutokset on synkronoitu.
     
 > [!NOTE]
-> Aika, jona työ suoritetaan, määräytyy prosessi muutosten luku määrän mukaan. Suuri määrä muutoksia kestää kauemmin. Palvelu taso sopimus (SLA) toteaa, että SharePoint Online-hakemiston käyttäjän muutos näkyy käyttäjä profiili sovelluksessa 24 tunnin kuluttua. 
+> Työn suorittamiseen kuluu aika määräytyy prosessin muutosten määrän mukaan. Suuri määrä muutoksia kestää kauemmin. Palvelutasosopimus (SLA) tarkoittaa, että SharePoint Online -hakemistossa olevan käyttäjän muutos näkyy käyttäjäprofiilisovelluksessa 24 tunnin kuluttua. 
   
-[Lisä tietoja käyttäjä profiilien synkronoinnista SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=875671)
+[Lisätietoja käyttäjäprofiilin synkronoinnista SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

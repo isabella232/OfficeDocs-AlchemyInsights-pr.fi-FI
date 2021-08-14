@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972416"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST-tiedostojen tuontiongelmien vianmääritys
 
-- Jos tuot tietoja Outlookin asiakasohjelmassa, katso Outlookin [.pst-tiedoston](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)tuomiseen liittyviä ongelmia.
+- Jos tuot tietoja itse Outlook asiakasohjelmassa, katso [.pst-tiedoston Outlook ongelmien ratkaiseminen.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Jos käytät tuontipalvelua ja se jumittuu, huomaa, että jokaisen Azure-tallennussijaintiin ladattavan PST-tiedoston koko ei saa olla yli 20 Gt. YLI 20 Gt:n PST-tiedostot voivat vaikuttaa PST-tuontiprosessin suorituskykyyn. Lisätietoja jumittuvien töiden vianmäärityksestä on kohdassa [PST-tuontitöihin vaikuttavat ongelmat.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+- Jos käytät tuontipalvelua ja se jumittuu, huomaa, että jokaisen palvelimeen ladattavan PST-tiedoston Azure-tallennus saa olla enintään 20 Gt. YLI 20 Gt:n PST-tiedostot voivat vaikuttaa PST-tuontiprosessin suorituskykyyn. Lisätietoja jumittuvien töiden vianmäärityksestä on kohdassa [PST-tuontitöihin vaikuttavat ongelmat.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
 - Jos haluat tarkistaa tietyn tuontityön tilan, käytä [get-mailboxImportRequest -batchname.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest)
 

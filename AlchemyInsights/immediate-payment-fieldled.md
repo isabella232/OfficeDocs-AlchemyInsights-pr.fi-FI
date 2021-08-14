@@ -1,5 +1,5 @@
 ---
-title: Tee välitön maksu
+title: Maksa välittömästi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945226"
 ---
-# <a name="make-an-immediate-payment"></a>Tee välitön maksu
+# <a name="make-an-immediate-payment"></a>Maksa välittömästi
 
-Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
+Ongelman kuvauksen perusteella olemme löytäneet sinulle ratkaisun. Useimmat asiakkaat pystyivät ratkaisemaan ongelmansa itse käyttöohjeiden jälkeen.
 
-Microsoft-asiakas sopimus (MCA) sisältää Maksu tavat, jotka liittyvät [laskutus profiileihin](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile).
+Microsoftin asiakassopimuksen (MCA) avulla maksutavat liittyvät [laskutusprofiileihin.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 
-Jos sinulla on yritys MCA, oletusarvoinen maksu tapasi on sekillä tai pankki siirrolla. Kun olet saanut ensimmäisen laskun, voit etsiä ohjeita siitä, miten voit maksaa laskun ensimmäisen sivun alalaidassa olevalla sekillä tai pankki siirrolla.
+Jos sinulla on yritys MCA, oletusmaksutapasi on sekki- tai tilisiirto. Kun olet saanut ensimmäisen laskun, voit etsiä ohjeita siitä, miten voit maksaa sekin tai tilisiirron laskun ensimmäisen sivun alareunassa.
 
-Laskujen maksaminen luotto kortilla Azure-portaalissa sinulla on oltava laskutus tili, laskutus profiilin omistaja tai osallistujan rooli.
+Laskujen maksaminen luottokortilla Azure-portaalissa sisältää laskutustilin, laskutusprofiilin omistajan tai osallistujan roolin.
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/).
-2. Hae *kustannusten hallinta + laskutus*.
-3. Valitse vasemmanpuoleisessa valikossa laskutus-kohdassa **laskut**   . **
-4. Jos jokin laskuistasi erääntyy tai erääntyy erääntyneen, laskun kohdalla näkyy sininen *maksa nyt*-   linkki. Valitse **maksa nyt**.
-5. Valitse uusi laikka-kohdassa **Valitse maksu tapa**,   Jos haluat valita olemassa olevan luotto kortin tai lisätä uuden.
-6. Kun maksu tapa on valittu, valitse **maksa nyt**.
+1. Kirjaudu [Azure-portaaliin.](https://portal.azure.com/)
+2. Hae *hakusanalla Kustannusten hallinta + Laskutus.*
+3. Valitse vasemmasta **** valikosta   LaskutLaskut-kohdassa. **
+4. Jos jokin laskusi on erääntyneen tai erääntyneenä, näet sinisen *Maksa nyt*   -linkin laskulle. Valitse **Maksa nyt**.
+5. Valitse uudessa lavalla **Valitse maksutapa, jos** haluat valita olemassa olevan   luottokortin tai lisätä uuden luottokortin.
+6. Kun maksutapa on valittuna, valitse **Maksa nyt**.
 
-Laskun tilaksi päivitetään laskujen Blade-kohdassa.
+Laskun tila päivitetään laskujen laajassa maksettavaksi.
 
 **Suositellut asiakirjat**
 
-- [Maksu tavan muuttaminen – usein kysytyt kysymykset](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Laskutus profiilin maksu tavan muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Microsoft-asiakas sopimuksen käytön tarkistaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
-- [Microsoft-asiakas sopimusten laskutus roolit](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Maksutavan muuttaminen – usein kysytyt kysymykset](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Laskutusprofiilin maksutavan muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Tarkista Microsoftin asiakassopimuksen käyttöoikeussopimus](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Microsoftin asiakassopimusten laskutusroolit](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

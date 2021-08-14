@@ -1,5 +1,5 @@
 ---
-title: 'Vasta ajan vian määritys '
+title: 'Vastaajan vianmääritys '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972380"
 ---
-# <a name="troubleshooting-voicemail"></a>Vasta ajan vian määritys
+# <a name="troubleshooting-voicemail"></a>Vastaajan vianmääritys
 
-Varmista, että varattu varattu-ominaisuus on tarkoituksellinen.
+Varmista, että Varattu varattuna -toiminto on tarkoituksellinen.
 
-Jos tätä ominaisuutta ei tarvita tällä käyttäjällä:
+Jos tätä ominaisuutta ei tarvita tälle käyttäjälle:
 
-1. Siirry [teamsin hallinta keskukseen](https://admin.teams.microsoft.com/policies/calling).
-1. Valitse vasemman reunan ääni puhelun   >  **käytännöt**-kohdan  >  **puhelu käytännön****käytäntöjen hallinta** .
-1. Valitse **Hallitse käyttäjiä**.
-1. Hae käyttäjää ja muuta puhelu käytäntöä, joka on varattu varattu-asetuksena on käytössä, **Kun puhelu** on **poissa käytöstä**.
+1. Siirry [Teams hallintakeskukseen.](https://admin.teams.microsoft.com/policies/calling)
+1. Siirry vasemmassa reunassa kohtaan   >  **Äänipuheluiden**  >  **käytännöt Puhelukäytännön** **hallinta**.
+1. Valitse **Käyttäjien hallinta**.
+1. Hae käyttäjää ja muuta puhelukäytäntöksi sellainen, jossa on Varattu **varattu -kohta, on** käytettävissä, kun puhelussa on Ei **käytössä**.
 1. Valitse **Käytä**.
 > [!NOTE]
-> Käytäntöjen muutokset voivat kestää jopa 24 tuntia, ennen kuin ne replikoidaan.
+> Käytäntöihin tehdyt muutokset voivat replikoida jopa 24 tuntia.
 
-Lisä tietoja tästä ominaisuudesta on kohdassa: varattu on varattu-toiminto [on käytettävissä puhelun aikana](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Lisätietoja tästä ominaisuudesta on kohdassa Varattu [varattuna on käytettävissä puhelun aikana.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e78afcc696403b64fa875c768cc5a64af4284a424b778e79e0921e190a01e22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945262"
 ---
 # <a name="identify-your-tenant-id"></a>Vuokraajan tunnuksen tunnistaminen
 
-Etsi Microsoft 365 -organisaatiotunnus (vuokraajan tunnus) Azure-hallintakeskuksesta.
+Etsi Microsoft 365 (vuokraajan tunnus) Azure-hallintakeskuksesta.
 
 1. Siirry [Ominaisuudet-sivulla](https://aka.ms/AzurePropertiesPage)Hakemiston tunnus **-ruutuun.**
 
 2. Kopioi tunnus tarvittaessa.
 
-Lisätietoja on kohdassa [Microsoft 365 -organisaatiotunnuksen etsiminen.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)
+Lisätietoja on kohdassa Organisaation [Microsoft 365 etsiminen.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

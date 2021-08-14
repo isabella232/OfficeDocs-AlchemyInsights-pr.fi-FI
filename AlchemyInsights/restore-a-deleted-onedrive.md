@@ -1,5 +1,5 @@
 ---
-title: Poistetun OneDriven palauttaminen
+title: Poistetun OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6310e3e225392a911bd1f5ae18dc3d49c6b50f0a32f603ceb60816657d5b3fc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958906"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Poistetun OneDriven palauttaminen
+# <a name="restore-a-deleted-onedrive"></a>Poistetun OneDrive
 
-Kun olet poistanut käyttäjän, voit käyttää käyttäjän OneDrivea Microsoft 365-hallinta keskuksessa 30 päivän ajan. Muut käyttäjät voivat edelleen käyttää OneDrivessa olevaa jaettuihin sisällöistä sen ajan, jonka olet määrittänyt OneDrive-hallinta keskuksessa. (Lisä tietoja tämän määrittämisestä on artikkelissa [poistettujen OneDrive-käyttäjien oletusarvoisen tiedosto säilytyksen määrittäminen](https://go.microsoft.com/fwlink/?linkid=874267).) Tämän ajan kuluttua OneDrive siirretään roska koriin 93 päiväksi, ja se poistetaan.
+Kun olet poistanut käyttäjän, voit käyttää käyttäjän OneDrive läpi Microsoft 365 -hallintakeskus 30 päivän ajan. Muut käyttäjät voivat edelleen käyttää jaettua OneDrive hallintakeskuksessa määritettynä OneDrive ajan. (Ohjeet tähän ovat kohdassa Poistettujen tiedostojen oletussa [säilytyksen OneDrive käyttäjille.)](https://go.microsoft.com/fwlink/?linkid=874267) Tämän jälkeen OneDrive siirretään roskakoriin 93 päivän ajan ja sitten se poistetaan.
   
-Kun alkuperäinen 30 päivää on kulunut ja poistettua käyttäjää ei enää näy Microsoft 365-hallinta keskuksessa, voit käyttää käyttäjän OneDrivea PowerShellin kautta. Lisä tietoja on Ohje aiheessa [poistetun OneDriven palauttaminen](https://go.microsoft.com/fwlink/?linkid=874269).
+Kun poistettu käyttäjä ei enää näy Microsoft 365 -hallintakeskus 30 päivän kuluttua, voit käyttää käyttäjän OneDrive PowerShellin kautta. Lisätietoja on kohdassa [Poistetun OneDrive.](https://go.microsoft.com/fwlink/?linkid=874269)
   
 

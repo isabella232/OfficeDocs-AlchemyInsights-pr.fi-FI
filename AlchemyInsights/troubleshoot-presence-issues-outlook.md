@@ -4,10 +4,10 @@ title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebau
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>Outlookin tavoitettavuusongelmien vianmääritys
+# <a name="troubleshoot-presence-issues-in-outlook"></a>Outlook:n tavoitettavuusongelmien Outlook
 
-Jos haluat tehdä vianmäärityksen ja korjata käyttäjän tavoitettavuustilan ongelmia Outlookissa, lataa ja suorita Microsoftin tuki- ja palautusavustaja > [tavoitettavuusskenaariossa](https://aka.ms/SaRA-TeamsPresenceScenario).
+Jos haluat tehdä vianmäärityksen ja korjata käyttäjän tavoitettavuustilan ongelmia Outlook, lataa ja suorita Microsoft tuki- ja palautusavustaja > [Teams tavoitettavuusskenaario.](https://aka.ms/SaRA-TeamsPresenceScenario)
 
-Jos haluat tehdä Outlookissa tavoitettavuusongelman vianmäärityksen manuaalisesti, noudata ohjeita, jotka ovat ohjeena käyttäjän [tavoitettavuustilan ongelmiin Outlookissa.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Jos haluat tehdä manuaalisen vianmäärityksen tavoitettavuustilan Outlook, noudata ohjeita ohjeen Käyttäjän [tavoitettavuustilan](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)ongelmat Outlook.
 
-Jos tavoitettavuuden tila ei päivity Teamsissa, katso todellinen tavoitettavuustilasi [ei näy Teamsissa.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Jos tavoitettavuustila ei päivity Teams, katso lisätietoja kohdassa Tavoitettavuustilasi [ei näy Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)

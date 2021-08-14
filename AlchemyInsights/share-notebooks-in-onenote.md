@@ -1,5 +1,5 @@
 ---
-title: Muisti kirjojen jakaminen OneNotessa verkossa tai OneNote 2016
+title: Muistikirjojen jakaminen OneNoten verkkoversio OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f66f55325f52ed89b077923615de03d7818c50cab0043dca98aadca3e725bc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958042"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Muisti kirjojen jakaminen OneNotessa verkossa tai OneNote 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Muistikirjojen jakaminen OneNoten verkkoversio OneNote 2016
 
-OneNotessa voit jakaa muistiinpanoja joko kutsumalla muita katsomaan muisti kirjaasi ja tekemään siihen muutoksia tai luomalla linkin muistiinpanosivulle, jonka voit liittää Sähkö posti viestiin, blogiin tai verkko sivuun. Lisä tietoja on Ohje aiheessa [Muistiinpanojen jakaminen muiden käyttäjien kanssa OneNoten](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3) avulla
+OneNoten verkkoversio-tiedostossa voit jakaa muistiinpanoja joko kutsumalla muita lukemaan ja tekemään muutoksia muistikirjaan tai luomalla linkin muistiinpanosivulle, jonka voit liittää sähköpostiin, blogiin tai verkkosivulle. Lisätietoja on ohjeaiheessa [Muistiinpanojen OneNoten verkkoversio muiden](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3) kanssa
 
-Varmista OneNote 2016-sovelluksessa, että OneNote 2016-muisti kirjasi on OneDrivessa, jotta muut voivat käyttää sitä. Jos haluat jakaa viestin, voit kutsua henkilöitä sähköpostitse tai hankkia jakamis linkin. Lisä tietoja on Ohje aiheessa [OneNote 2016 for Windows-muisti kirjan jakaminen muiden käyttäjien kanssa](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+Varmista OneNote 2016 avulla, että OneNote 2016 muistikirjasi on OneDrive, jotta muut voivat käyttää sitä. Jos haluat jakaa tiedoston, voit kutsua henkilöitä sähköpostitse tai saada jakamislinkin. Lisätietoja on ohjeaiheessa [Muistikirjan OneNote 2016 Windows muiden kanssa](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

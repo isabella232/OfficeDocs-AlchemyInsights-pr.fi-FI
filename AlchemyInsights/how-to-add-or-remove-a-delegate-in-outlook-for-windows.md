@@ -1,5 +1,5 @@
 ---
-title: Edustajan lisääminen tai poistaminen Outlook for Windowsissa
+title: Edustajan lisääminen tai poistaminen Outlook for Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945334"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Edustajan lisääminen tai poistaminen Outlook for Windowsissa
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Edustajan lisääminen tai poistaminen Outlook for Windows
 
-Edustajan lisääminen Outlook for Windowsissa: 
+Edustajan lisääminen Outlook for Windows: 
 
-1. Valitse **tiedosto** -väli lehti ja sen jälkeen **tili asetukset** ja valitse sitten **Edustajakäyttöoikeus**.
-2. Valitse **Lisää**. Jos **Lisää** ei näy, Outlookin ja Exchangen välillä ei ehkä ole aktiivista yhteyttä. Outlookin tila rivillä näkyy yhteyden tila.
-3. Kirjoita sen henkilön nimi, jonka haluat määrittää Edustajaksesi, tai Etsi ja valitse nimi haku tulosten luettelosta.
-
-    > [!NOTE]
-    > Edustajan on oltava organisaatiosi Exchangen yleisen osoite luettelon henkilö.
-4. Valitse **Lisää** ja sitten **OK**.
-5. Hyväksy **edustajakäyttöoikeudet** -valinta ikkunassa oletusarvoiset käyttö oikeus asetukset tai valitse mukautetut käyttö oikeus tasot Exchange-kansioille.
-
-    - Jos edustajalla on oikeus työskennellä vain Kokous pyyntöjen ja vastausten kanssa, oletusarvoiset käyttö oikeus asetukset, kuten edustajalle, saavat **kopiot koko ukseen liittyvistä viesteistä** , jotka on lähetetty minulle. Voit jättää Saapuneet- **kansion** käyttö oikeus-asetukseksi **ei mitään**. Kokous pyynnöt ja vasta ukset siirtyvät suoraan edustajan Saapuneet-kansioon.
+1. Napsauta **Tiedosto-välilehteä,** **sen jälkeen Asetukset** Tili ja valitse sitten **Edustajakäyttö.**
+2. Valitse **Lisää**. Jos **Lisää-vaihtoehto** ei tule näkyviin, aktiivista yhteyttä ei ehkä ole Outlook ja Exchange. Outlook tilarivillä näkyy yhteyden tila.
+3. Kirjoita sen henkilön nimi, jonka haluat määrittää edustajaksesi, tai hae ja valitse nimi hakutulosluettelosta.
 
     > [!NOTE]
-    > Edustajalla on oletusarvoisesti oikeus käyttää **editoria (voi lukea, luoda ja muokata kohteita)** **kalenteri** -kansioon. Kun edustaja vastaa koko ukseen puolestasi, se lisätään automaattisesti **kalenteri** -kansioon.
+    > Edustajan on oltava organisaatiosi yleisen osoiteluettelon Exchange henkilö.
+4. Valitse Lisää **ja** sen jälkeen **OK**.
+5. Hyväksy **Edustajakäyttöoikeudet-valintaikkunassa** oletuskäyttöoikeusasetukset tai valitse mukautetut käyttöoikeustasot Exchange kansioille.
 
-5. Jos haluat lähettää edustajalle muutetut käyttö oikeudet sisältävän viestin, valitse **Lähetä edustajalle automaattisesti viesti, jossa on yhteenveto näistä käyttö oikeuksista** -valinta ruutu.
-6. Jos haluat, valitse edustaja näkee **yksityiset kohteet** -valinta ruutu.
+    - Jos edustaja haluaa käyttää vain kokouspyyntöjä ja -vastauksia, riittää, että edustaja saa kopion minulle lähetetyistä kokoukseen liittyvistä viesteistä oletuskäyttöoikeusasetuksissa.  Voit jättää **Saapuneet-kansion käyttöoikeusasetukseksi** Ei **mitään.** Kokouspyynnöt ja -vastaukset menevät suoraan edustajan Saapuneet-kansioon.
+
+    > [!NOTE]
+    > Oletusarvon mukaan edustajalle myönnetään **Muokkaaja (luku-, luonti- ja muokkausoikeudet)** -käyttöoikeus Kalenteri-kansioon.  Kun edustaja vastaa kokoukseen puolestasi, se lisätään automaattisesti **Kalenteri-kansioon.**
+
+5. Jos haluat lähettää viestin, joka ilmoittaa edustajalle  muutoksista, valitse Lähetä edustajalle automaattisesti viesti, jossa on yhteenveto käyttöoikeuksista -valintaruutu.
+6. Jos haluat, valitse Edustaja voi **nähdä yksityiset kohteet -valintaruutu.**
 
     > [!IMPORTANT]
-    > Tämä asetus vaikuttaa kaikkiin Exchange-kansioihin. Tämä sisältää kaikki sähkö postit, yhteys tiedot, kalenterin, tehtävät, muistiinpanot ja Päivyri kansiot. Vain määritetyissä kansioissa olevien yksityisten kohteiden käyttäminen ei ole mahdollista.
+    > Tämä asetus vaikuttaa kaikkiin Exchange kansioihin. Tämä sisältää kaikki Sähköposti-, Yhteystiedot-, Kalenteri-, Tehtävät-, Muistiinpanot- ja Päivyri-kansiot. Yksityisten kohteiden käyttöoikeuden myöntäminen ei ole mahdollista vain määritetyissä kansioissa.
 
 7. Valitse **OK**.
 
     > [!NOTE]
     >
-    > - Lähetä puolesta-kohdassa lähetetyt viestit-käyttö oikeudet sisältävät sekä edustajan että nimet **Lähettäjä**-kohdan vieressä. Kun viesti lähetetään Lähetä nimellä-oikeuksin, vain nimesi tulee näkyviin.
-    > - Kun olet lisännyt jonkun edustajaksi, hän voi lisätä Exchange-posti laatikkosi Outlook-profiiliinsa. Lisä tietoja on artikkelissa [toisen henkilön Sähkö posti-ja kalenteri kohteiden hallinta](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Jos viestissä on Lähetä puolesta -käyttöoikeudet, viestin viestin vieressä on sekä edustajan nimi että **oma nimi.** Kun viesti lähetetään Lähetä käyttäjänä -käyttöoikeuksilla, vain nimesi tulee näkyviin.
+    > - Kun olet lisännyt jonkun edustajana, hän voi lisätä Exchange postilaatikkosi hänen Outlook profiiliinsa. Ohjeet ovat kohdassa [Toisen henkilön sähköpostin ja kalenterin kohteiden hallinta.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Edustajan poistaminen Outlook for Windowsissa:
+Edustajan poistaminen Outlook for Windows:
 
-1. Napsauta **tiedosto** -väli lehteä.
-2. Valitse **tili asetukset** ja sen jälkeen **Edustajakäyttöoikeus**.
-3. Valitse sen edustajan nimi, jonka käyttö oikeuksia haluat muuttaa, ja valitse sitten **Poista** sen jälkeen **OK**.
+1. Valitse **Tiedosto-välilehti.**
+2. Valitse **Tili-Asetukset** jonka jälkeen **tulee edustajakäyttö.**
+3. Valitse sen edustajan nimi, jonka käyttöoikeuksia haluat muuttaa, ja valitse sitten **Poista** ja sen jälkeen **OK.**

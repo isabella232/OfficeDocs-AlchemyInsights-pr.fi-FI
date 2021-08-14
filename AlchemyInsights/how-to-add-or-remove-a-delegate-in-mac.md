@@ -1,5 +1,5 @@
 ---
-title: Edustajan lisääminen tai poistaminen Mac-tieto kannassa
+title: Edustajan lisääminen tai poistaminen Macissa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583416"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945370"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Edustajan lisääminen tai poistaminen Mac-tieto kannassa
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Edustajan lisääminen tai poistaminen Macissa
 
-Voit lisätä tai poistaa edustajan Mac-tieto kannassa seuraavasti:
+Lisää tai poista edustaja Macissa seuraavasti:
 
-**Edustajan lisääminen Mac-tieto** kannassa:
+**Edustajan lisääminen Macissa:**
 
-1. Valitse **Työkalut** -valikosta **Asiakkaat**.
-1. Valitse Exchange-tili, jota käytät **valtuutettujen** kohteiden käyttämiseen, valitse **lisä asetukset** ja valitse sitten edustajat.
-1. Valitse **henkilöt, joiden edustaja olen**-kohdassa **Lisää**. .
+1. Valitse **Työkalut-valikosta** **Tilit**.
+1. Valitse Exchange tili, jota käytät valtuutettujen kohteiden kanssa, **valitse** Lisäasetukset ja valitse sitten **Edustajat**.
+1. Valitse **Henkilöt, joiden edustaja olen -kohdassa** **Lisää**. .
 1. Kirjoita sen henkilön nimi, joka on lisännyt sinut edustajaksi.
-1. Valitse henkilön nimi haku tuloksista ja valitse sitten **Lisää**.
+1. Valitse henkilön nimi hakutuloksista ja valitse sitten **Lisää**.
  
-**Edustajan poistaminen Mac-tieto** kannassa:
+**Edustajan poistaminen Macissa:**
 
-1. Valitse **Työkalut** -valikosta **Asiakkaat**.
-1. Valitse Exchange-tili, jota haluat muuttaa, valitse **lisä asetukset** ja valitse sitten * * * * edustajat-väli lehti.
-1. Valitse **henkilöt, joiden edustaja olen**-kohdassa henkilö, jolle haluat lopettaa edustamisen, ja valitse sitten **Poista**.
+1. Valitse **Työkalut-valikosta** **Tilit**.
+1. Valitse Exchange muutettava tili, valitse Lisäasetukset **ja** sitten ****Edustajat-välilehti.
+1. Valitse **Henkilöt, joiden edustaja olen -kohdassa** henkilö, jolle haluat lopettaa edustajana olemisen, ja valitse sitten **Poista**.
