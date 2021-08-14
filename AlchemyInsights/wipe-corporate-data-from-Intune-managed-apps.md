@@ -1,5 +1,5 @@
 ---
-title: Yrityksen tietojen poistaminen Intune-hallinnoiduista sovelluksista
+title: Yritystietojen poistaminen Intune-hallittujen sovellusten avulla
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088601"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997743"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Yrityksen tietojen poistaminen Intune-hallinnoiduista sovelluksista
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Yritystietojen poistaminen Intune-hallittujen sovellusten avulla
 
-Intune tukee yritys tietojen poistamista sovellusten suojaus käytännöstä (APP) halli tuista sovelluksista. 
+Intune tukee yritystietojen poistamista application protection policy (APP) -hallittujen sovellusten avulla. 
 
-Lisä tietoja näiden sovellusten yritys tietojen pyyhkimisestä, poistamisesta ja poistamisesta on artikkelissa [vain yritys tietojen poistaminen Intune-hallitut sovellukset-](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)kohdasta.
+Lisätietoja yritystietojen poistamisesta, poistamisesta näistä sovelluksista on kohdassa Vain yrityksen tietojen poistaminen [Intune-hallittujen sovellusten avulla.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

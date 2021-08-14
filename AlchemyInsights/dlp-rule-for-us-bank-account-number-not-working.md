@@ -1,5 +1,5 @@
 ---
-title: DLP-sääntö USA:N pankki tilin numerolle ei toimi
+title: Yhdysvaltain pankkitilinumeron DLP-sääntö ei toimi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005015"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-ongelmat USA:N pankki tili numeroissa
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-ongelmat YHDYSVALTOJEN pankkitilinumeroissa
 
 **Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
 
-**DLP-ongelmat USA:N pankki tili numeroissa**
+**DLP-ongelmat YHDYSVALTOJEN pankkitilinumeroissa**
 
-Onko sinulla ongelmia **tietojen menetyksen estämisen (DLP)** kanssa, joka ei toimi **Yhdysvaltojen pankki tilin numeron** sisältävässä sisällössä, kun O365-palvelussa käytetään DLP-arkaluonteista tieto tyyppiä? Jos näin on, varmista, että sisältö sisältää tarvittavat tiedot siitä, mitä DLP-käytäntöä etsitään, kun se on laskettu.
+Onko sinulla ongelmia tietojen menetyksen estämisen **(DLP)** kanssa, joka ei toimi Yhdysvaltojen pankkitilinumeron sisältävän sisällön kanssa, kun käytät DLP-luottamuksellista tietotyyppiä O365:ssä?  Jos näin on, varmista, että sisältösi sisältää tarvittavat tiedot siitä, mitä DLP-käytäntö etsii, kun sitä arvioidaan.
   
-Esimerkiksi **Yhdysvaltain pankki tilin numero** -käytännölle, jonka luotettavuus taso on 85%, lasketaan seuraavat tiedot ja ne on havaitava, jotta sääntö käynnistetään:
+Jos esimerkiksi US **Bank Account Number** -käytäntö on määritetty 85 prosentin luottamustasolla, seuraavat tiedot arvioidaan, ja ne on tunnistettava, jotta sääntö voi käynnistää:
   
-- **[Muoto:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17-numerot
+- **[Muoto:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8–17 numeroa
 
-- **[Malli:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 peräkkäistä numeroa.
+- **[Kuvio:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8–17 peräkkäistä numeroa.
 
-- **[Tarkistus summa:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ei, tarkistus summaa ei ole
+- **[Tarkistussumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ei, tarkistussummaa ei ole
 
-- **[Määritelmä:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP-käytännöllä on 75% varma, että se havaitsee tämän tyyppisiä tietoja, jos se on 300-merkin lähellä:
+- **[Määritelmä:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP-käytäntö on 75-prosenttisesti varma siitä, että se on havainnut luottamuksellisia tietoja, jos 300 merkin sisällä:
 
-  - Säännöllinen lauseke Regex_usa_bank_account_number löytää kaavaa vastaavaa sisältöä.
+  - Säännöllinen lauseke Regex_usa_bank_account_number löytää kaavaa vastaavaa sisältöä
 
-  - Keyword_usa_Bank_Account avain sana löytyy.
+  - Hakusana kohteesta Keyword_usa_Bank_Account löytyy.
 
-    Esimerkiksi seuraava esimerkki käynnistäisi **USA:n pankki tilin numero** käytäntöä: tarkistetaan tiliä 78344011
+    Esimerkiksi seuraava esimerkki käynnisti US Bank **Account Number** -käytännön: Checking Account 78344011
 
-Lisä tietoja siitä, mitä tarvitaan **USA:n pankki tilin numeron** havaitsemisesta sisältöä varten, on tämän artikkelin seuraavassa osiossa: [mitä luottamukselliset tieto tyypit näyttävät USA:n pankki tili numerolle](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number) ?
+Lisätietoja siitä, mitä sisällössäsi **tunnistettavan YHDYSVALTOJEN** pankkitilinumeron vaatimukset ovat, on tämän artikkelin seuraavassa osiossa: Mitä luottamukselliset tietotyypit näyttävät US Bank Account Number [-tunnuksella?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Jos käytät erilaista sisäistä arkaluonteista tieto tyyppiä, Katso lisä tietoja muista tieto tyypeistä, jotka ovat tarpeen: [mitä luottamukselliset tieto tyypit](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) etsivät
+Jos käytössäsi on erilainen sisäinen luottamuksellisten tietojen tyyppi, katso seuraavasta artikkelista tietoja siitä, mitä muuntyyppiset tiedot tarvitaan: Mitä Luottamukselliset tietotyypit [-kohta näyttää](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
