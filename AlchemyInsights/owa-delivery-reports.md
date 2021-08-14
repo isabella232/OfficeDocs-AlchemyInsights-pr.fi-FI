@@ -1,5 +1,5 @@
 ---
-title: Toimituksen ulkopuoliset raportit Outlookin verkko versiossa
+title: Toimituksen raportit Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 278cec08da97517b980988b4981bbe9c0993b7df8eb47f275e8bb5572495916d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983192"
 ---
-# <a name="issues-with-email-delivery"></a>Sähkö postin toimitukseen liittyviä ongelmia
+# <a name="issues-with-email-delivery"></a>Sähköpostin toimitusongelmat
 
-Kun lähetetyssä Sähkö posti viestissä on ongelma, Microsoft 365 lähettää sinulle Sähkö posti viestin. Saamasi Sähkö posti on toimituksen tila ilmoitus, joka tunnetaan myös nimellä DSN tai Bounce Message. Yleisintä tyyppiä kutsutaan toimituksen epäonnistumis raportiksi (NDR), joka kertoo, ettei viestiä toimitettu. Toimitusongelma voi johtua jostakin niin yksinkertaisesta syystä kuin sähköpostiosoitteessa olevasta kirjoitusvirheestä. NDR:t sisältävät virhe koodin, joka osoittaa, miksi Sähkö posti viestiä ei toimitettu, ratkaisuja, joiden avulla saat Sähkö posti viestisi perille, linkin lisä ohjeita verkko versioon ja teknisiä tietoja järjestelmänvalvojille.
+Jos lähettämäsi sähköpostiviestin toimittamisessa on ongelmia, Microsoft 365 lähettää sinulle sähköpostia. Vastaanottattasi sähköposti on toimituksen tilailmoitus, joka tunnetaan myös nimellä DSN tai viestin toimituksen ilmoitus. Yleisin tyyppi on toimituksen ilmoitus (NDR), joka ilmoittaa, että viestiä ei toimitettu. Toimitusongelma voi johtua jostakin niin yksinkertaisesta syystä kuin sähköpostiosoitteessa olevasta kirjoitusvirheestä. NNDRs-ilmoituksissa on virhekoodi, joka ilmaisee, miksi sähköpostiasi ei toimitettu, ratkaisut sähköpostin toimitusta varten, linkki lisätietoon verkossa ja tekniset tiedot järjestelmänvalvojille.
 
-Jos haluat nähdä luettelon NDR:istä ja selvittää, miksi viestiäsi ei toimitettu, Katso lisä tietoja artikkelista [sähkö postin toimituksen epäonnistumis raportit Exchange Onlinessa](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Jos haluat nähdä NNDRs-toimitusilmoitusten luettelon ja selvittää, miksi viestiäsi ei toimitettu, katso sähköpostin toimituksen [raportit Exchange Online.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)

@@ -1,5 +1,5 @@
 ---
-title: Kirjautuminen ulos Outlook.com
+title: Kirjautuminen ulos Outlook.comista
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983378"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Kirjautuminen ulos Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Kirjautuminen ulos Outlook.comista
 
 1. Valitse nimesi tai kuvasi oikeassa yläkulmassa.
 
-    Jos et näe kuvaasi näytön yläreunassa, tarkista, onko Mainosten esto käytössä. Se estää joskus kuvaa näkymästä.
+    Jos et näe kuvaasi näytön yläreunassa, tarkista, onko mainosten esto käytössä. Se estää joskus kuvaa näkymästä.
 
 2. Valitse **Kirjaudu ulos**.
 
-    Jos haluat lopettaa kirjautumisen automaattisesti, poista valinta kohdasta **Pidä minut kirjautuneena** sivulle, johon kirjoitat Sala sanasi.
+    Jos haluat lopettaa kirjautumisen automaattisesti, poista valinta kohdasta Pysy **kirjautuneena** sivulla, jolla annat salasanasi.
 
-Lisä tietoja on artikkelissa [Kirjautuminen sisään tai ulos Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on kohdassa [Kirjautuminen sisään Outlook.comiin.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   

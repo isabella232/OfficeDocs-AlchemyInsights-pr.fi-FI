@@ -1,5 +1,5 @@
 ---
-title: Onko sinulla Omatoiminen Sala sanan nollaus (SSPR)-ongelmia?
+title: Onko omatoiminen salasanan nollaaminen (SSPR) ongelmia?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945847"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Onko sinulla Omatoiminen Sala sanan nollaus (SSPR)-ongelmia?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Onko omatoiminen salasanan nollaaminen (SSPR) ongelmia?
 
-Yhteinen Omatoiminen Sala sanan nollaus (sspr)-ongelmat yhdistelmä pilvi palvelussa ja omissa tiloissa ovat seuraavat:
+Yleisiä SSPR (Self-service password reset) -ongelmia pilvipalvelujen yhdistelmäympäristössä ja paikallisissa ympäristöissä ovat:
 
-- [SSPR-Sala sanan takaisinkirjoitus ei käytössä](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Azure AD Premium-käyttö oikeutta ei ole määritetty](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- [Azure AD Connect-ongelmat](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) tai [verkko-ongelmat](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [SSPR-todennus menetelmät, joita ei ole kirjattu](https://mysignins.microsoft.com/security-info)
-- Ei- [Tuetut takaisinkirjoitus skenaariot](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , kuten Microsoft 365-hallinta keskus tai Järjestelmänvalvojat, jotka käyttävät sspr-versiota
+- [SSPR-salasanan takaisinkirjaaminen ei ole käytössä](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Azure AD Premium -käyttöoikeutta ei ole määritetty](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Azure AD:Näyttöyhteys tai](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [verkko-ongelmat](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [SSPR-todennusmenetelmät, jotka eivät ole rekisteröityjä](https://mysignins.microsoft.com/security-info)
+- [Kirjoitusta ei tueta -skenaariot,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) kuten Microsoft 365 -hallinta tai järjestelmänvalvojat, jotka käyttävät SSPR:tä
 
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [Oman palvelun Sala sanan palauttamisen vian määritys](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Omatoimisen Sala sanan palauttamis toimintojen vian määritys Azuren Active Directoryssa](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Omatoiminen salasanan vaihtotoiminnon vianmääritys](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Omatoiminen salasanan palauttamisen palautustoiminnon vianmääritys Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

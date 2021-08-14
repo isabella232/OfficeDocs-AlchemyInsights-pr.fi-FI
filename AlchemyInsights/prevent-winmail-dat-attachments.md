@@ -1,5 +1,5 @@
 ---
-title: 2589 auttaa estämään Winmail. dat-liitteitä organisaatiosi Sähkö posti viesteissä
+title: 2589 Estä Winmail.dat-liitteitä organisaatiosi sähköpostiviesteissä
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64212b0a8cb1ccd2158aaa84ea2725b879e608ab4fcada1fbf1032e896be12c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923815"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Organisaation Sähkö posti viestien Winmail. dat-liitteiden estäminen
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Estä Winmail.dat-liitteet organisaatiosi sähköpostiviesteissä
 
-Kun olet järjestelmänvalvoja, kokeile seuraavia ohjeita:
+Toimi järjestelmänvalvojana seuraavasti:
 
-1. Avaa [Exchange-hallinta keskus](https://outlook.office365.com/ecp/).
+1. Avaa [Exchange hallintakeskus](https://outlook.office365.com/ecp/).
 
-2. Siirry **sähkö postin kulun**  >  **etätoimialueisiin**.
+2. Siirry **postinkulku**  >  **etätoimialueille.**
 
-3. Valitse oletusarvoinen etätoimialue nimeltä **oletus**ja valitse sitten **Muokkaa**.
+3. Valitse oletus etätoimialue nimeltä **Oletus** ja valitse sitten **Muokkaa**.
 
-4. Valitse **Käytä RTF-muotoista tekstiä-** osiossa **ei koskaan**.
+4. Valitse **Rtf-tekstimuotoilun** käyttö -osassa **Ei koskaan**.
 
-Lisä tietoja on kohdassa [etätoimialueiden viesti muodon määrittäminen](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Lisätietoja on kohdassa [Etätoimialueissa viestimuodon määritteleminen.](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)

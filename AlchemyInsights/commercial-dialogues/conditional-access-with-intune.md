@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6e86c6b4c9c6adcbeac504acd5a10f2139d04237
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 23afea21668191093d612d68ca6e9ab2a844f4a14977631d33f4fd956fc3c4e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005771"
 ---
 # <a name="using-conditional-access-with-intune"></a>Ehdollisen käyttöoikeuden käyttäminen Intunen kanssa
 
 Ehdollisen käyttöoikeuden käyttäminen Intunen kanssa edellyttää kolmea vaihetta:
 
-- [Luo yhteensopivuuskäytäntö, joka määrittää asetukset, jotka on täytettävä, ennen kuin laite on yhteensopiva. Laitteessa on esimerkiksi oltava vähintään kuusinumeroinen nasta, ennen kuin se on yhteensopiva.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
-- [Luo ehdollinen käyttöoikeuskäytäntö, joka määrittää, mitä resursseja suojataan ja mitkä ehdot on täytettävä, jotta resursseja voi käyttää. Laitteen on esimerkiksi oltava yhteensopiva, ennen kuin se voi käyttää yrityksen sähköpostia.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
-- [Varmista, että sekä yhteensopivuuskäytännöt että ehdolliset käyttöoikeuskäytännöt kohdennetaan halutuille käyttäjäryhmille. Tämä voi edellyttää tiettyjen käyttäjäryhmien luomista Azure Active Directoryssa.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Luo yhteensopivuuskäytäntö, joka määrittää asetukset, jotka on täytettävä, ennen kuin laite on yhteensopiva. Laitteessa on esimerkiksi oltava vähintään kuusinumeroinen PIN-koodi, ennen kuin se on yhteensopiva.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
+- [Luo ehdollisen käyttöoikeuden käytäntö, joka määrittää suojattavat resurssit ja sen, mitkä ehdot on täytettävä, jotta resursseja voi käyttää. Laitteen on esimerkiksi oltava yhteensopiva, ennen kuin se voi käyttää yrityksen sähköpostia.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
+- [Varmista, että sekä yhteensopivuuskäytännöt että ehdolliset käyttöoikeuskäytännöt kohdennetaan halutuille käyttäjäryhmille. Tämä voi edellyttää tiettyjen käyttäjäryhmien luomista Azure Active Directory.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
 
 [Lisätietoja...](https://docs.microsoft.com/mem/intune/protect/device-compliance-get-started)

@@ -1,5 +1,5 @@
 ---
-title: Windows 10 -laitteiden etäkorjausten käytön aloittaminen
+title: Aloita laitteiden etäkorjausten Windows 10 avulla
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959392"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Windows 10 -laitteiden etäkorjausten käytön aloittaminen
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Aloita laitteiden etäkorjausten Windows 10 avulla
 
-Voit tehdä etäkorjauksen Windows 10 -laitteen reaaliaikaisen sisällön viankorjausta Windows- tai macOS-tietokoneessa näin:
+Live-sisällön etäkorjaus Windows 10 tai macOS Windows laitteella:
 
-1. Määritä Windows 10 -laite etäkorjausta varten ja muodosta yhteys siihen kehityskoneellasi.
-2. Tarkista ja virheenkorjaus Windows 10 -laitteen reaaliaikaisesta sisällöstä kehityskoneellasi.
-3. Screencast-sisältö Windows 10 -laitteesta kehityskoneen DevTools-esiintymään.
+1. Määritä Windows 10 virheenkorjausta varten ja muodosta yhteys siihen kehityskoneella.
+2. Tarkista ja virheenkorjaus reaaliaikaisesta sisällöstä Windows 10 laitteellasi kehityskoneellasi.
+3. Näytönkaappaussisältö Windows 10 laitteesta kehityskoneen DevTools-esiintymään.
 
-Lisätietoja on ohjeaiheessa Windows 10 -laitteiden etäkorjausten käytön [aloittaminen Microsoft Edgen avulla.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Lisätietoja on kohdassa Aloitusopas virheenkorjaus Windows 10 [kanssa Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)

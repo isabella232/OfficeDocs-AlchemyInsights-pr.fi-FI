@@ -1,5 +1,5 @@
 ---
-title: Epäonnistuneen työn kulun korjaaminen
+title: Epäonnistuneen työnkulun korjaukset
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945964"
 ---
-# <a name="fix-a-flow-that-failed"></a>Epäonnistuneen työn kulun korjaaminen
+# <a name="fix-a-flow-that-failed"></a>Epäonnistuneen työnkulun ratkaiseminen
 
-1. Siirry [Microsoft flowiin](https://flow.microsoft.com/)ja napsauta oikeassa yläkulmassa olevaa ilmoitukset-kuvaketta. (Tai Valitse mobiilisovelluksessa toiminta-väli lehti.) Valitse työn kulku, joka ei voinut tarkastella tietoja.
+1. Siirry [Microsoft Flow](https://flow.microsoft.com/)ja napsauta Ilmoitukset-kuvaketta oikeassa yläkulmassa. (Tai valitse mobiilisovelluksessa Toiminta-välilehti.) Valitse työnkulku, jonka tietojen katsominen epäonnistui.
     
-2. Jos haluat nähdä työn kulun virhe sanoman, Etsi vaihe, jossa on punaisen huuto merkin kuvake.
+2. Etsi vaihe punaisella huutomerkkein, jotta näet työnkulun virhesanoman.
     
-3. Virhe ilmoituksen mukaan sinun pitäisi pystyä muokkaamaan kulkua ja korjaamaan se. 
+3. Virhesanomasta riippuen sinun pitäisi pystyä muokkaamaan työnkulkua ja korjaamaan se. 
     
-[Yleisiä työn kulun vikoja](https://go.microsoft.com/fwlink/?linkid=872110)
+[Yleiset työnkulkuvirheet](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
