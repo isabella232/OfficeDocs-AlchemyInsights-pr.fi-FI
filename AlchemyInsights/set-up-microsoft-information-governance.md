@@ -1,5 +1,5 @@
 ---
-title: Microsoftin tietojen hallinnan määritäminen
+title: Microsoftin tietojen hallinnan järjestely
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921616"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Microsoftin tietojen hallinnan määritäminen
+# <a name="set-up-microsoft-information-governance"></a>Microsoftin tietojen hallinnan järjestely
 
-[Microsoft information governance setup guide](https://go.microsoft.com/fwlink/?linkid=2146529) provides you'll need to set up and manage your organization's governance strategy, to ensure that your data is classified and managed to the specific lifecycle guidelines to set to specific lifecycle guidelines to set.
+[Microsoftin tietojen](https://go.microsoft.com/fwlink/?linkid=2146529) hallinnan määritysoppaassa on tietoja, jotka sinun on määritettävä ja hallittava organisaation hallintostrategiassa, jotta voit varmistaa, että tietosi luokitellaan ja hallitaan määrittäsi elinkaariohjeiden mukaisesti.
 
-Tämän oppaan avulla opit luomaan, käyttämään automaattisesti tai julkaisemaan selitteet, osoitetarrakäytännöt ja säilytyskäytännöt, joita käytetään organisaation uudelleenkäytettävässä sisällössä ja yhteensopivuustietueissa. Saat myös tietoja CSV-tiedostojen tuomiseen joukkoskenaarioita varten tai niiden manuaaliseen käyttöön yksittäisissä asiakirjoissa.
+Tämän oppaan avulla opit luomaan, käyttämään automaattisesti tai julkaisemaan selitteet, osoitetarrakäytännöt ja säilytyskäytännöt, joita sovelletaan organisaatiosi uudelleenkäytettävään sisältöön ja yhteensopivuustietueisiin. Saat myös tietoja CSV-tiedostojen tuomiseen joukkoskenaarioita varten tai niiden käyttämisestä manuaalisesti yksittäisissä asiakirjoissa.

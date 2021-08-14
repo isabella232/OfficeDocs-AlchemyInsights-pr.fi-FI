@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931230"
 ---
 # <a name="cancelling-reservation"></a>Varauksen peruminen
 
-- **Itsepalvelu:** Voit peruuttaa tai vaihtaa varatun tapauksen itse käyttämällä[Azure-portaalia](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Valitse varaus ja sitten hyvitä tai vaihda. Huomaa, että sinulla on oltava omistajan oikeudet varaustilauksessa, jotta voit vaihtaa tai hyvittää varauksen. Pääsy vain varaukseen ei anna sinun jatkaa hyvitystä tai vaihtoa. Pyydä varaustilauksen omistajaa antamaan sinulle omistajan oikeudet varaustilaukseen.
+- **Itsepalvelu:** Voit peruuttaa tai vaihtaa varatun tapauksen itse käyttämällä [Azure-portaalia](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Valitse varaus ja sitten hyvitä tai vaihda. Huomaa, että sinulla on oltava omistajan oikeudet varaustilauksessa, jotta voit vaihtaa tai hyvittää varauksen. Pääsy vain varaukseen ei anna sinun jatkaa hyvitystä tai vaihtoa. Pyydä varaustilauksen omistajaa antamaan sinulle omistajan oikeudet varaustilaukseen.
 - **Vaihtokäytäntö:** Voit vaihtaa varauksen toiseen samantyyppiseen varaukseen – varauksen voi vaihtaa **seuraamuksetta**. Uuden varauksen kokonaissitoumuksen on oltava suurempi kuin vaihdetun varauksen hyvitysmäärän ja tulevien kuukausimaksujen summa (jos käytössä)
 - **Hyvityskäytäntö:** Hyvityksen ja peruuntuneiden tulevien maksujen summa voi olla enintään 50 000 Yhdysvaltain dollaria 12 kuukauden aikana. Tällä hetkellä **emme peri sakkoa** hyvityksistä, mutta voimme periä sitä tulevista palautuksista  
     **Poikkeukset:** Itsepalveluna tehty vaihto- ja peruutusmahdollisuus ei ole saatavilla Yhdysvaltain hallituksen yrityssopimusasiakkaille.

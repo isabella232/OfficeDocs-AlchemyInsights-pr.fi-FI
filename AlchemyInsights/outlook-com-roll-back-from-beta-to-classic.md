@@ -1,5 +1,5 @@
 ---
-title: Pyyntö palauttaa Outlook.com beta-versiosta perinteiseen Outlook.com-versioon
+title: Pyyntö palata Outlook.com-beetaversiosta perinteiseen Outlook.comiin
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961726"
 ---
 # <a name="the-new-outlookcom"></a>Uusi Outlook.com
 
-Ei ole enää mahdollista jättää uutta Outlook.com-käyttö kokemusta ja palata Outlook.com-version perinteiseen versioon.
+Uutta Outlook.com-versiota ei voi enää jättää ja palata perinteiseen Outlook.com-versioon.
 
-Jos haluat antaa palautetta uudesta Outlook.com, siirry [uservoice-keskustelu palstalle](https://go.microsoft.com/fwlink/p/?linkid=851599). Voit äänestää ajatuksista tai ongelmista, joita haluat tarkastella, ja vasta amme suoraan alkuun kommentteja ja ehdotuksia.
+Jos haluat antaa palautetta uudesta Outlook.comista, siirry [UserVoice-keskustelupalstalle.](https://go.microsoft.com/fwlink/p/?linkid=851599) Voit äänestää, mitä ideoita tai kysymyksiä haluaisit käsiteltävän, ja vastaamme suoraan pää kommentteihin ja ehdotuksiin.
 
-[Saat apua Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Ohjeita Outlook.comiin.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

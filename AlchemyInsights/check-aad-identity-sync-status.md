@@ -14,18 +14,18 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930762"
 ---
 # <a name="check-aad-identity-sync-status"></a>AAD-käyttäjätietojen synkronoinnin tilan tarkistaminen
 
 Synkronoinnin tilan tarkistaminen on helppoa:
   
-- Kirjaudu sisään Microsoft 365 -hallintakeskukseen ja valitse **aloitussivulla DirSync-tila.**
+- Kirjaudu sisään Microsoft 365 -hallintakeskus ja valitse **aloitussivulla DirSync-tila.**
 
 - Vaihtoehtoisesti voit valita Käyttäjät, jotka ovat aktiivisia käyttäjiä, ja valita \> Aktiiviset käyttäjät -sivulla Lisää \> hakemistosynkronointia.
 
