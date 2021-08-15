@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017813"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Paikallisen tilin tai Microsoft-tilin nimen muuttaminen
 
-Jos kirjaudut Windows 10:lle vain käyttäjänimen ja salasanan avulla, käytössäsi on paikallinen tili. 
+Jos käytät kirjautumisessa vain käyttäjänimeä ja Windows 10, käytät paikallista tiliä. 
 
 **Paikallisen tilin nimen muuttaminen:**
 
@@ -31,13 +31,13 @@ Jos kirjaudut Windows 10:lle vain käyttäjänimen ja salasanan avulla, käytös
 
 3. Valitse tili, jota haluat muuttaa, valitse **Ominaisuudet** ja kirjoita sitten uusi käyttäjänimi.
 
-4. Valitse **OK**.
+4. Napsauta **OK**.
 
 Jos kirjaudut sisään sähköpostiosoitteella ja salasanalla, käytössäsi on Microsoft-tili.
 
 **Microsoft-tilin näyttönimen muuttaminen:**
 
-Käytät näyttönimeäsi aina, kun kirjaudut tilillesi. Se on myös nimi, jonka näet Windows 10 -laitteissasi, ja se on nimi, jonka ihmiset näkevät, kun lähetät sähköpostia. Tämä nimi voi poiketa paikallisen tilisi näyttönimestä. Voit muuttaa näyttönimeäsi näin:
+Käytät näyttönimeäsi aina, kun kirjaudut tilillesi. Se on myös nimi, jonka näet Windows 10-laitteissasi, ja se on nimi, jonka muut näkevät, kun lähetät sähköpostia. Tämä nimi voi poiketa paikallisen tilisi näyttönimestä. Voit muuttaa näyttönimeäsi näin:
 
 1. Kirjaudu sisään **Microsoft-tilin sivuston** [Tietosi-sivulle.](https://account.microsoft.com/)
 

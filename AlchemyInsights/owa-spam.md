@@ -1,5 +1,5 @@
 ---
-title: Roska postin ja roska posti viestien käsitteleminen Outlookin verkko versiossa
+title: Roskapostin käsittely Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982586"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Sähkö posti viestien merkitseminen roska postiksi Outlookin verkko versiossa
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Sähköpostiviestien merkitseminen roskapostiksi Outlookin verkkoversio
 
-Jos haluat merkitä viestin roska postiksi tai roska postiksi, valitse viesti viesti luettelosta ja valitse roska posti **Junk**  >  **Junk**.
+Voit merkitä viestin roskapostiksi valitsemalla viestin viestiluettelosta ja valitsemalla **sitten**  >  **Roskaposti**.
 
-Jos haluat estää kaikki tietyn Sähkö posti osoitteen viestit, valitse viesti tai viestit viesti luettelosta ja valitse sitten **roska posti**  >  **lohko**.
+Voit estää kaikki tietyn sähköpostiosoitteen viestit valitsemalla viestin tai viestit viestiluettelossa ja valitsemalla sitten   >  **Roskaposti.**
 
-Jos merkitset viestin vahingossa roska postiksi, valitse viesti roska posti-kansiossa ja valitse **ei roska**  >  **postia**. (*Huomautus:* roska posti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.)
+Jos merkitset viestin vahingossa roskapostiksi, valitse viesti Roskaposti-kansiosta ja valitse Ei   >  **roskapostia**. *(Huomautus:* Roskaposti-kansion kohteet poistetaan 30 päivän kuluttua.)
 
-Lisä tietoja [roska postin ja roska postin säilyttämisen poistamisesta Outlookin verkko version Saapuneet-kansiosta.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Lue lisää siitä, miten [voit pitää roskapostin poissa Saapuneet-Outlookin verkkoversio postilaatikosta.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

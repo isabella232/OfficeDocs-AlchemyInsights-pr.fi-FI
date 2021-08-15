@@ -1,5 +1,5 @@
 ---
-title: Estä viestit siirtymästä roska posti-kansioon Outlook.com-sovelluksessa.
+title: Estä viestien meneminen roskapostikansioon osoitteessa Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041115"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Viestien lopettaminen roska posti-kansioon
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Estä viestien meneminen Roskaposti-kansioon
 
-Jos huomaat, että Outlook.com-roska posti kansiossa oleva sähkö posti viesti ei ole roska postia:
+Jos huomaat, että Outlook.comin Roskaposti-kansiossasi on sähköpostiviesti, joka ei ole roskapostia:
 
-1. Avaa [roska posti kansiosi](https://outlook.live.com/mail/junkemail).
-1. Valitse viesti. (*Huomautus:* roska posti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.)
-1. Valitse viesti luettelon yläpuolella ei roska **postia**  >  **Not junk**.
+1. Avaa [Roskaposti-kansio.](https://outlook.live.com/mail/junkemail)
+1. Valitse viesti. *(Huomautus:* Roskaposti-kansion kohteet poistetaan 30 päivän kuluttua.)
+1. Valitse viestiluettelon yläpuolella Ei **roskapostia.**  >  
 
-Jos haluat estää lähettäjän lähettämät viestit siirtymästä roska posti-kansioon, Lisää lähettäjä turvallisten lähettäjien luetteloon:
+Jos haluat estää lähettäjän viestejä menemasta Roskaposti-kansioon, lisää lähettäjä turvallisten lähettäjien luetteloon:
 
-1. Avaa [roska posti asetukset](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Valitse **Turvalliset lähettäjät ja toimi alueet**-kohdassa **Lisää**, kirjoita Sähkö posti osoite tai toimi alue, jonka haluat lisätä, ja valitse **Tallenna**.
+1. Avaa [roskapostiasetukset](https://go.microsoft.com/fwlink/?linkid=2035804).
+1. Valitse **Lokero ja toimialueet**-kohdassa **Lisää**, kirjoita sähköpostiosoite tai toimialue, jonka haluat lisätä, ja valitse **Tallenna**.
 
-Lisä tietoja on artikkelissa [sähkö postin merkitseminen roska postiksi tai torjuttujen lähettäjien Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on ssa [Sähköpostiviestien merkitseminen roskapostiksi tai lähettäjien estäminen Outlook.comissa.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

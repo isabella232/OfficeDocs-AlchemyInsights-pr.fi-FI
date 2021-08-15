@@ -1,5 +1,5 @@
 ---
-title: Viestien lopettaminen Outlookin verkko version roska posti-kansiosta
+title: Estä viestien meneminen roskapostikansioon Outlookin verkkoversio
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 68ff66f0f92d84f788963f5f17f8e695813bc3fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19f1b0704353d07c03bbb0b805fd32010958ff254b2823f535544b0f636c2919
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982508"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Viestien lopettaminen Outlookin verkko version roska posti-kansiosta
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Estä viestien meneminen Roskaposti-kansioon Outlookin verkkoversio
 
-Jos huomaat, että roska posti-kansiossa oleva sähkö posti viesti ei ole roska postia:
+Jos huomaat, että roskapostikansion sähköpostiviesti ei ole roskapostia:
 
-1. Avaa roska posti kansiosi ja valitse viesti. (*Huomautus:* roska posti-kansiossa olevat kohteet poistetaan 30 päivän kuluttua.)
-1. Valitse viesti luettelon yläpuolella ei roska **postia**  >  **Not junk**.
+1. Avaa Roskaposti-kansio ja valitse viesti. *(Huomautus:* Roskaposti-kansion kohteet poistetaan 30 päivän kuluttua.)
+1. Valitse viestiluettelon yläpuolella Ei **roskapostia.**  >  
 
-Jos haluat estää lähettäjän lähettämät viestit siirtymästä roska posti-kansioon, Lisää lähettäjä turvallisten lähettäjien luetteloon:
+Jos haluat estää lähettäjän viestejä menemasta Roskaposti-kansioon, lisää lähettäjä turvallisten lähettäjien luetteloon:
 
-1. Valitse hammas ratas kuvake <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- Avaa asetukset-ruutu.
-1. Valitse **Näytä kaikki Outlook-asetukset**  >  -**roska posti**.
-1. Valitse **Turvalliset lähettäjät ja toimi alueet**-kohdassa **Lisää**.
-1. Kirjoita Sähkö posti osoite tai toimi alue, jonka haluat lisätä, ja valitse **Tallenna**.
+1. Valitse hammaspyöräkuvake <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ avataksesi Asetukset ruudun.
+1. Valitse **Näytä Outlook asetukset**  >  **Roskaposti**.
+1. Valitse **Lokero ja toimialueet -kohdassa** **Lisää**.
+1. Kirjoita sähköpostiosoite tai toimialue, jonka haluat lisätä, ja valitse **Tallenna**.

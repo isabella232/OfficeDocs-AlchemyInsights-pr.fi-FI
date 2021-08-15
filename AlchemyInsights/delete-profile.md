@@ -1,5 +1,5 @@
 ---
-title: 1800001 Delete-profiili
+title: 1800001 poistaminen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005519"
 ---
 # <a name="delete-a-profile"></a>Profiilin poistaminen
 
-Jos haluat poistaa profiilin, noudata seuraavia ohjeita.
+Voit poistaa profiilin noudattamalla seuraavia ohjeita.
   
-1. Valitse Outlookissa **tiedosto** \> **tilin asetukset** \> **profiilien hallinta**.
+1. Valitse Outlook -kohdassa  \> **Tiedostotili Asetukset** \> **hallitse profiileja.**
 
 2. Valitse **Näytä profiilit**.
 
-3. Valitse poistettava profiili **Sähkö posti** -valinta ikkunassa ja valitse sitten **Poista**.
+3. Valitse **Poistettava** profiili Sähköposti-valintaikkunassa ja valitse **sitten Poista**.
 
     > [!NOTE]
-    > Outlook voi varoittaa, että profiilisi poistaminen poistaa offline-tiedot. Et menetä Outlook-Data tiedostoihisi (. pst) tai muihin online-tileihisi tallennettuja tietoja, kuten Outlook.com, Exchangea tai Microsoft 365-tiliä.
+    > Outlook voi varoittaa, että profiilin poistaminen poistaa offline-tiedot. Et menetä Outlook-datatiedostoihin (.pst) tai verkkotileihin tallennettuja tietoja, kuten Outlook.com-, Exchange- tai Microsoft 365-tilejä.
   
-Lisä tietoja **Outlook for Mac** -profiilin Hallin nasta on artikkelissa [profiilien tai tunniste tietojen hallinta Outlook for Macissa](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) tai seuraavien vaiheiden avulla.
+Lisätietoja **Outlook for Mac** hallinta on kohdassa Profiilien tai [käyttäjätietojen](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) hallinta Outlook for Mac tai seuraavien ohjeiden mukaisesti.
   
-1. Avaa Finder- **sovellus** -kansio.
+1. Avaa Etsi-kohdasta **Sovellukset** -kansio.
 
-2. Paina CTRL-näppäintä ja napsauta tai napsauta hiiren kakkos painikkeella **Microsoft Outlook**-kohtaa ja valitse sitten **Näytä paketin sisältö**.
+2. Ctrl+napsautus tai napsauta hiiren oikealla painikkeella **Microsoft Outlook**, ja valitse sitten **Näytä pakkauksen sisältö**.
 
-3. Valitse **Contents** \> **jaettujen sisältöjen tuki**ja käynnistä sitten **Outlook-profiilin hallintaa**.
+3. Valitse **Sisältö** \> **Jaettu tuki** ja käynnistä sitten Outlook hallinta **.**

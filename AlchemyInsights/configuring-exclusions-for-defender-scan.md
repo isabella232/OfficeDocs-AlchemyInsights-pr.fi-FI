@@ -1,5 +1,5 @@
 ---
-title: Poikkeuksien määrittäminen Microsoft Defender ATP tarkistamista varten
+title: Microsoft Defender ATP:n tarkistuksen poikkeusten määrittäminen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 53a9cd64caecc43595d4a9f6ae37a5838a98896e141acec999bf9980e8a365f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033311"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Poikkeuksien määrittäminen Microsoft Defender ATP tarkistamista varten
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Microsoft Defender ATP:n tarkistuksen poikkeusten määrittäminen
 
-Yleensä voit jättää tietyt tiedostotunnisteet ja kansiosijainnit pois Microsoft Defender ATP tarkistamuksista. Voit myös määrittää tiettyjen prosessien avaamia tiedostoja koskevat poikkeukset. Lisätietoja [on](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) ruuduissa Poikkeuksien määrittäminen ja vahvistaminen tiedostotunnisteen ja kansion sijainnin perusteella ja [Prosessien avaamia tiedostoja koskevat poikkeusten määrittäminen.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
+Yleensä voit jättää tietyt tiedostotunnisteet ja kansiosijainnit pois Microsoft Defender ATP-skannauksista. Voit myös määrittää tiettyjen prosessien avaamia tiedostoja koskevat poikkeukset. Lisätietoja [on](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) ruuduissa Poikkeuksien määrittäminen ja vahvistaminen tiedostotunnisteen ja kansion sijainnin perusteella ja [Prosessien avaamia tiedostoja koskevat poikkeusten määrittäminen.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
 Lisätietoja **Windows Server 2016:n ja 2019:n** poikkeusten määrittämisestä on Microsoft Defenderin virustentorjunta [poikkeuksien Windows palvelimessa.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
 
@@ -34,6 +34,6 @@ Lisätietoja tuetuista poikkeustyypeistä ja poikkeusluettelon määrittämisest
 
 **Linux**
 
-Lisätietoja tuetuista poissulkemistyypeistä ja poissulkemisluettelon [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) määrittämisestä Linuxissa on ruuduissa Tuetut poikkeustyypit ja [Microsoft Defender ATP:n ohitustyyppien määrittäminen ja vahvistaminen.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
+Lisätietoja tuetuista poissulkemistyypeistä ja poissulkemisluettelon [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) määrittämisestä Linuxissa on ruuduissa Tuetut poikkeustyypit ja [Microsoft Defender ATP:n](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)ohitustyyppien määrittäminen ja vahvistaminen Linuxissa.
 
 **Huomautus** Voit myös tarkistaa poikkeusluettelot EICAR-testitiedoston avulla. Lisätietoja on artikkelissa Poikkeusten [luetteloiden vahvistaminen EICAR-testitiedostolla.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 

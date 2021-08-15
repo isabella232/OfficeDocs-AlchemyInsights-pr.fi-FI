@@ -1,5 +1,5 @@
 ---
-title: Ota Microsoft Edge for Mobile käyttöön iOS/iPadOS-tai Android-laitteissa
+title: iOS Microsoft Edge/iPadOS- tai Android-mobiililaitteiden mobiilisovelluksen käyttöönotto
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005447"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Ota Microsoft Edge for Mobile käyttöön iOS/iPadOS-tai Android-laitteissa
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>iOS Microsoft Edge/iPadOS- tai Android-mobiililaitteiden mobiilisovelluksen käyttöönotto
 
-Alla olevan ohjatun skenaarion yhteenvedon avulla voit määrittää Microsoft Edgeen iOS:n, iPadOS-ja Android-laitteiden käyttäjille. Kun olet suorittanut nämä vaiheet, Microsoft Intune-käytännöt antavat seuraavat Microsoft Edge for Businessin ominaisuudet:
+Alla esitetty ohjattu skenaario auttaa sinua Microsoft Edge iOS-, iPadOS- ja Android-laitteiden käyttäjille. Kun olet suorittanut nämä vaiheet, Microsoft Intune-käytännöt mahdollistavat seuraavat Microsoft Edge for Businessin ominaisuudet:
 
-- Kaksoiskäyttäjä
-- Integrointi Microsoft Intune-sovelluksen suojaus käytäntöön
-- Integrointi Azure Active Directory-sovelluksen välitys palvelimeen
-- Hallitut Suosikit ja aloitus sivun pikanäppäimet
+- Kaksi identiteettiä
+- Integrointi Microsoft Intune suojauskäytäntöön
+- Integrointi Azure Active Directory välityspalvelimeen
+- Hallitut suosikit ja aloitussivun pikanäppäimet
 
 > [!NOTE]
-> Jos olet torjunut käyttäjiä ilmoittamasta mobiililaitteita, tämä ohjattu toiminto ei toimi, ja käyttäjien on asennettava Microsoft Edge itse.
+> Jos olet estänyt käyttäjiä rekisteröimällä mobiililaitteita, tämä ohjattu skenaario ei toimi ja käyttäjien on asennettava Microsoft Edge itse.
 
-Jos haluat ottaa Microsoft Edge for Mobilen käyttöön iOS/iPadOS-tai Android-laitteissa, Katso:
+Jos haluat Microsoft Edge mobiilisovelluksen iOS-/ iPadOS- tai Android-laitteille, katso:
 
 1. [Ennakkovaatimukset](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Johdanto](https://go.microsoft.com/fwlink/?linkid=2133520)
 3. [Perusteet](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Määritys](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Vara ukset](https://go.microsoft.com/fwlink/?linkid=2132869)
-6. [Tarkistaminen ja luominen](https://go.microsoft.com/fwlink/?linkid=2133522)
+4. [Määritykset](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [Tehtävät](https://go.microsoft.com/fwlink/?linkid=2132869)
+6. [Tarkistus ja luominen](https://go.microsoft.com/fwlink/?linkid=2133522)

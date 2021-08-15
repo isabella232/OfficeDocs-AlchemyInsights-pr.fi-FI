@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994862"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Aseta ClientAccessServerEnabled-arvoksi Tosi
 
 Jos et voi avata salattua sähköpostiviestiä ja nähdä sen sijaan **rpmsg-liitteen,** toimi seuraavasti:
 
-1. Muodosta yhteys Exchange Online PowerShelliin.
+1. Näyttöyhteys PowerShellin Exchange Online avulla.
 
 > [!NOTE]
-> Jos haluat muodostaa yhteyden Exchange Online PowerShelliin, sinun on kirjauduttava sisään yleisen järjestelmänvalvojan tai Exchange-järjestelmänvalvojan tilillä.
+> Jos haluat muodostaa Exchange Online PowerShelliin, sinun on kirjauduttava sisään yleisen järjestelmänvalvojan tai Exchange järjestelmänvalvojan tilillä.
 
-   a. Avaa Windows PowerShell ja suorita sitten seuraava komento: `$UserCredential = Get-Credential`
-b. Kirjoita **Windows PowerShellin tunnistetietopyyntö** -valintaikkunaan työ- tai koulutilisi ja salasanasi, c. Valitse **OK**. 
+   a. Avaa Windows PowerShell ja suorita sitten seuraava komento:`$UserCredential = Get-Credential`
+b. Kirjoita **Windows PowerShell tunnistetietopyyntö** -valintaikkunaan työ- tai koulutilisi ja salasanasi, c. Napsauta **OK**. 
 
 2. Luo uusi istunto suoritamalla seuraava komento:
 
@@ -42,12 +42,12 @@ b. Kirjoita **Windows PowerShellin tunnistetietopyyntö** -valintaikkunaan työ-
 
 3. `Get-IRMConfiguration`Suorita-komento.
 
-4. Tarkista **ClientAccessServerEnabled-asetus.** 
+4. Tarkista **ClientAccessServerEnabled -asetus.** 
 
-    a. Jos **ClientAccessServerEnabled-asetuksena** on **Epätosi,** suorita seuraava cmdlet-komento: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Jos **ClientAccessServerEnabled-asetuksena** on **Epätosi**, suorita seuraava cmdlet-komento: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
-> Sulje powershell-istunto aina seuraavalla komennolla: `Remove-PSSession $Session`
+> Sulje PowerShell-istunto aina seuraavalla komennolla: `Remove-PSSession $Session`
 
-Lisätietoja on Exchange [Online PowerShellissä.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+Lisätietoja on kohdassa Exchange Online [käyttäminen.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
