@@ -1,5 +1,5 @@
 ---
-title: Luku kuittaukset Outlook.com
+title: Lukukuititsit Outlook.comissa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983414"
 ---
-# <a name="read-receipts"></a>Luku kuittaukset
+# <a name="read-receipts"></a>Lukukuititsit
 
-Et voi pyytää luku kuittausta Outlook.com, mutta voit pyytää luku kuittauksia Outlook.com-viesteille, jotka on lähetetty Outlook for Windowsin avulla. Lisä tietoja on artikkelissa [luku kuittausten ja toimitusten ilmoitusten lisääminen ja pyytäminen](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Et voi pyytää lukukuittausta Outlook.comissa, mutta voit pyytää lukukuittauksia Outlook.com-viesteistä, jotka on lähetetty Outlook for Windows. Lisätietoja on kohdassa [Lukukuittauksen ja toimitusilmoitusten lisääminen ja pyytäminen.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Jos haluat valita, miten Outlook.com vastaa luku kuittaus pyyntöihin, siirry kohtaan [luku kuittaus asetukset](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Voit valita, Outlook.com vastaa lukukuittauspyyntöihin, valitsemalla [Lukukuittauksen asetukset](https://outlook.live.com/mail/options/mail/handling/readReceipts).

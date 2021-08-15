@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
-ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
+ms.openlocfilehash: 0376f7c73e05a2b86a18e66ff14f661f1b62f27a30c1b7d3d5890c64621d7f5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53187718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956620"
 ---
 # <a name="teams-client-crashing"></a>Teams-asiakasohjelma kaatuu
 

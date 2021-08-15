@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038109"
 ---
 # <a name="upn-sync-disabled"></a>UPN-synkronointi poistettu käytöstä
 
@@ -27,6 +27,6 @@ Jos aloitit synkronoinnin Azure AD:n kanssa ennen 30. maaliskuuta 2016, suorita 
   
 UPN-pehmeä vastaavuus on automaattisesti käytössä organisaatioissa, jotka ovat aloittaneet synkronoinnin Azure AD:n kanssa 30. maaliskuuta 2016 tai sen jälkeen.
   
-Lisätietoja pehmeän vastaavuuden ottamalla käyttöön upnissa ja muissa synkronointiominaisuuksissa saat [Azure AD Connect -synkronointipalvelun ominaisuuksista.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+Lisätietoja pehmeän vastaavuuden ottamalla käyttöön upnissa ja muissa synkronointiominaisuuksissa on [kohdassa Azure AD Näyttöyhteys synkronointipalvelun ominaisuudet.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

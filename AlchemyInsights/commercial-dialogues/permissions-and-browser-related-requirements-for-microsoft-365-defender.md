@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Defenderin käyttöoikeudet ja selainvaatimukset
+title: Käyttöoikeuksiin ja selainta koskevat vaatimukset Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016589"
 ---
-# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Microsoft 365 Defenderin käyttöoikeudet ja selainvaatimukset
+# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Käyttöoikeuksiin ja selainta koskevat vaatimukset Microsoft 365 Defender
 
-- Käyttöoikeudet: Jos haluat ottaa Microsoft 365 Defenderin käyttöön, sinun on oltava yleinen järjestelmänvalvoja tai Azure Active Directoryn suojauksen järjestelmänvalvoja. Jos haluat nähdä luettelon rooleista, jotka voivat käyttää Microsoft 365 Defenderiä, ja tietoja siitä, miten tietojen käyttö on säädelty, katso [Microsoft 365 Defenderin](https://go.microsoft.com/fwlink/?linkid=2143626)käytön hallinta.
+- Käyttöoikeudet: Jos haluat ottaa Microsoft 365 Defender käyttöön, sinun on oltava yleinen järjestelmänvalvoja tai Azure Active Directory. Jos haluat nähdä luettelon rooleista, jotka voivat käyttää Microsoft 365 Defender ja tietoja siitä, miten tietojen käyttöä säännellään, katso kohta [Microsoft 365 Defender.](https://go.microsoft.com/fwlink/?linkid=2143626)
 
-- Selainvaatimukset: Jos haluat käyttää Microsoft 365 Defenderiä Microsoft 365 -tietoturvakeskuksessa, käytä Microsoft Edgeä, Internet Explorer 11:tä tai mitä tahansa HTML 5 -yhteensopivaa selainta.
+- Selainvaatimukset: Jos haluat käyttää Microsoft 365 Defender-Microsoft 365, käytä Microsoft Edge, Internet Explorer 11:tä tai mitä tahansa HTML 5 -yhteensopivaa selainta.
