@@ -1,5 +1,5 @@
 ---
-title: Sähkö posti viestin peruuttaminen tai korvaaminen
+title: Sähköpostiviestin peruutaminen tai korvaaminen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,34 +14,34 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+ms.openlocfilehash: 45882b49c5c47b3e0e4519e2339e6c68110bc75aebeaeac2d0ccd009bdfa3f7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024383"
 ---
-# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Sähkö posti viestin peruuttaminen tai korvaaminen Microsoft 365-sovelluksessa
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Sähköpostiviestin peruutaminen tai korvaaminen Microsoft 365
 
-- Voit **peruuttaa vain organisaation henkilöille lähetetyt viestit**. Jos viesti on esimerkiksi lähetetty Gmail-osoitteeseen, et voi peruuttaa sitä.
-- Voit **vain peruuttaa viestit, jotka on lähetetty Outlookista PC-tieto koneelle**. Jos käyttäjä lähettää viestin käyttämällä Outlook for Macia tai Outlookin verkko versiota, et voi peruuttaa sitä.
-- Vuokra ajan järjestelmänvalvojana voit **peruuttaa viestit käyttäjien puolesta PowerShellin avulla** (lisä tietoja on artikkeleissa [Sähkö posti viestien etsiminen ja poistaminen](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
-- Et voi peruuttaa viestejä hallinta keskuksesta. Lisä tietoja on kohdassa Sähkö posti viestien etsiminen ja poistaminen organisaatiossa.
+- Voit peruuttaa **vain viestit, jotka on lähetetty organisaatiosi käyttäjille.** Jos viesti on esimerkiksi lähetetty Gmail-osoitteeseen, et voi peruuttaa sitä.
+- Voit peruuttaa **vain viestit, jotka on lähetetty Outlook tietokoneesta**. Jos käyttäjä lähettää viestin käyttämällä Outlook for Mac tai Outlookin verkkoversio, et voi peruuttaa sitä.
+- Vuokraajan järjestelmänvalvojana voit peruuttaa viestejä käyttäjien puolesta **PowerShellin** avulla (Lisätietoja on ohjeaiheessa Sähköpostiviestien etsiminen [ja poistaminen).](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
+- Et voi peruuttaa viestejä hallintakeskuksesta. Vieritä alaspäin kohtaan "Hae ja poista sähköpostiviestejä organisaatiossasi", niin saat lisätietoja.
 
-**Lähetetyn Sähkö posti viestin peruuttaminen tai korvaaminen**
+**Lähetetyn sähköpostiviestin peruutaminen tai korvaaminen**
 
-1. Valitse Outlook-ikkunan vasemmalla puolella olevassa kansio ruudussa Lähetetyt-kansio.
-2. Avaa viesti, jonka haluat peruuttaa. Sinun on avattava viesti kaksoisnapsauttamalla. Kun valitset viestin niin, että se näkyy luku ruudussa, et voi peruuttaa viestiä.
-3. Valitse viesti-väli lehdessä **toiminnot**, jotka  >  **palauttavat tämän viestin**.
-4. Valitse **Poista viestin lukemattomat kopiot** tai **Poista lukemattomat kopiot ja vaihda uudella viestillä ja** valitse sitten **OK**.
+1. Valitse kansioruudussa, joka on Outlook-ikkunan vasemmalla puolella, ja valitse Lähetetyt-kansio.
+2. Avaa viesti, jonka haluat peruuttaa. Avaa viesti kaksoisnapsauttamalla. Jos valitset viestin siten, että se näkyy lukuruudussa, et voi peruuttaa viestiä.
+3. Valitse Viesti-välilehdessä **Toiminnot Peruuta** tämä  >  **viesti**.
+4. Valitse **Poista viestin lukemattomat kopiot tai** Poista lukemattomat kopiot ja korvaa **uudella viestillä** ja valitse sitten **OK**.
 5. Jos lähetät korvaavan viestin, kirjoita viesti ja valitse sitten **Lähetä**.
-6. Viestin peruuttamisen onnistuminen tai epäonnistuminen määräytyy Outlookin edunsaajien asetusten mukaan.
+6. Viestin takaisinkutsun onnistuminen tai epäonnistuminen riippuu vastaanottajan asetuksista Outlook.
 
-Lisä tietoja, kuten peruutuksen tarkistaminen, on kohdassa [lähetetyn Sähkö posti viestin peruuttaminen tai korvaaminen](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Lisätietoja, kuten ohjeet viestin muistamisen tarkistamisen tarkistamaan, on kohdassa Lähettämäsi [sähköpostiviestin peruutaminen tai korvaaminen.](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)
 
-Jos haluat **_etsiä ja poistaa organisaatiosi Sähkö posti viestejä_**, se on helpointa, jos olet yleinen järjestelmänvalvoja. Jos et ole yleinen järjestelmänvalvoja, tili on lisättävä eDiscoveryn hallinnan rooli ryhmään tai yhteensopivuuden haun hallinta rooliin. Jos haluat poistaa viestejä, sinun on liitytä organisaation hallinta-rooli ryhmään tai Hae ja poista hallinta-rooliin. Näiden roolien käyttö oikeudet määritetään [suojaus & yhteensopivuus keskuksessa](https://protection.office.com/).
+***Sähköpostiviestien etsiminen ja poistaminen organisaatiossa*** on helpointa, jos olet yleinen järjestelmänvalvoja. Jos et ole yleinen järjestelmänvalvoja, tilisi on lisättävä eDiscovery Manager -rooliryhmään tai yhteensopivuushaun hallintarooliin. Jos haluat poistaa viestejä, sinun täytyy liittyä Organisaation hallinta -rooliryhmään tai Haku- ja poisto-hallintarooliin. Näiden roolien käyttöoikeudet määritetään tietoturva- & [yhteensopivuuskeskuksessa.](https://protection.office.com/)
 
-1. [Luo sisältö haku](https://docs.microsoft.com/microsoft-365/compliance/content-search) , jos haluat etsiä poistettavan viestin.
-2. [Muodosta yhteys tieto turva & Compliance Center PowerShellin avulla](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
+1. [Etsi poistettava viesti](https://docs.microsoft.com/microsoft-365/compliance/content-search) luomalla sisältöhaku.
+2. [Näyttöyhteys tietoturva- & PowerShelliin.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell)
 
-Jos käytössäsi on MFA (monimenetelmäinen todentaminen), Katso lisä tietoja artikkelista [yhteyden muodostaminen Microsoft 365-tieto turva & yhteensopivuus keskuksen PowerShell monimenetelmäisen todentamisen avulla](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
+Jos käytössäsi on monimenetelmäinen todentamismenetelmä, tutustu Näyttöyhteys Microsoft 365:& PowerShellin tietoturva- ja yhteensopivuuskeskuksen [PowerShellin monimenetelmäisen todentamisen avulla.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)
