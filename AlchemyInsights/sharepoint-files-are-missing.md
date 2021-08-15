@@ -1,5 +1,5 @@
 ---
-title: SharePoint-tiedostot puuttuvat
+title: SharePoint tiedostoja puuttuu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023302"
 ---
-# <a name="sharepoint-files-are-missing"></a>SharePoint-tiedostot puuttuvat
+# <a name="sharepoint-files-are-missing"></a>SharePoint tiedostoja puuttuu
 
-Jos monet OneDrive-tai SharePoint-tiedostosi poistetaan, korvautuvat, vioittuvat tai tartuttavat haitta ohjelmat, annamme käyttäjille erilaisia vaihto ehtoja, jotka auttavat toipumis prosessissa.
+Jos poistat, korvaat, OneDrive tai SharePoint useita tiedostoja, annat käyttäjille erilaisia palautusprosessia auttavan vaihtoehtojen avulla, jos poistat, korvaat, vioittut tai haittaohjelmia.
 
-Lisä tietoja on Ohje aiheessa [puuttuvien, poistettujen tai viallisten kohteiden palauttaminen SharePoint Onlinessa ja OneDrive for Businessissa](https://go.microsoft.com/fwlink/?linkid=2110774).
+Lisätietoja on kohdassa Puuttuvien, poistettujen tai vioittuneiden kohteiden palauttaminen [SharePoint Onlinessa ja OneDrive for Business.](https://go.microsoft.com/fwlink/?linkid=2110774)

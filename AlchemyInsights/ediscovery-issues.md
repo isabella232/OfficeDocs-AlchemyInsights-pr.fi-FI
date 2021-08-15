@@ -1,5 +1,5 @@
 ---
-title: 1829-eDiscoveryn-ongelmat
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030422"
 ---
-# <a name="ediscovery-issues"></a>eDiscoveryn ongelmat
+# <a name="ediscovery-issues"></a>eDiscovery-ongelmat
 
-Etsitkö eDiscoveryn vaihto ehtoja? Kun uudelleensuunniteltu siirtyminen on käytössä tieto turva & yhteensopivuus keskuksessa, eDiscoveryn asetukset on ehkä siirretty jo.  Voit etsiä eDiscoveryn asetukset seuraavista tieto turva & yhteensopivuus keskuksen sijainneista sen perusteella, mitä yrität tehdä:
+Etsitkö eDiscovery-vaihtoehtoja? Tietoturva- ja yhteensopivuuskeskuksen uudelleen suunnitellun & siirtymisen avulla eDiscovery-vaihtoehdot on ehkä jo siirretty.  eDiscovery-vaihtoehdot ovat tietoturva- ja yhteensopivuuskeskuksen & seuraavilla paikoilla sen mukaan, mitä yrität tehdä:
 
-- Sisältö haun avulla voit etsiä organisaatiostasi sähkö postin, asia kirjojen, Skype for Business-keskustelujen sisältöä ja viedä tiedot-Siirry **haku > sisältö hakuun**
+- Sisältöhaun avulla voit hakea organisaatiossasi sisältöä sähköpostista, asiakirjoista, Skype for Business keskusteluista ja viedä sitten tiedot – Siirry > **sisältöhakuun**
 
-- Luo etsimis tapa, jos haluat etsiä sisältöä ja sijoittaa sisällön sijainnit pitoon-Siirry **ediscoveryn > eDiscoveryyn**
+- eDiscovery-tapauksen luominen sisällön hakemista ja sisältösijaintien pitoon asetamista varten – **eDiscovery-> eDiscovery**
 
-- Uuden end-to-end Advanced Ediscovertin avulla voit tunnistaa ja viestiä huoltajien kanssa, säilyttää tapa ukseen liittyvät säilytys tiedot, kerätä tietoja ja lisätä sen tarkistus joukkoon sekä vähentää tietojen määrää ottamalla käyttöön analyysin, jonka avulla voit teurastaa tarpeettomia tietoja ja keskittyä siihen, mitä asian kannalta parhaiten soveltuu-Siirry **ediscovertin > Advanced ediscoveriin** .
+- Uuden end-to-end-Advanced eDiscovery-ratkaisun avulla voit tunnistaa ja viestiä apukäyttäjien kanssa, säilyttää tapaukseen liittyvät varustustiedot, kerätä tietoja ja lisätä niitä tarkistusjoukkoon sekä vähentää tietojen määrää lisäämällä analytiikkaa tarpeettomien tietojen keräämiseen ja keskittymällä tapaukseen kaikkein olennaisiin tietoihin – Siirry **eDiscovery-> Advanced eDiscovery**
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [Sisältö haku](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Sisältöhaku](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [eDiscoveryn tapa ukset tieto turva & yhteensopivuus keskuksessa](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [eDiscovery-tapaukset tietoturva- & yhteensopivuuskeskuksessa](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Advanced eDiscoveryn ratkaisu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery ratkaisu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

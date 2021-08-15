@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013745"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Applen automaattisen laitteen rekisteröinnin synkronointivirheet
 
-"Olemme havainneet, että sinulla on yksi tai useampi ADE/DEP-tunnus, joka on virhetilassa. Ennen kuin virhetila on ratkaistu kunkin tunnuksen osalta, ADE-toiminto ei toimi odotetulla tavalla."
+"Olemme havainneet, että sinulla on yksi tai useampi ADE/DEP-tunnus, joiden virhetila on. Ennen kuin kunkin tunnuksen virhetila on ratkaistu, ADE-toiminto ei toimi odotetulla tavalla.".
 
 Tämä virhe voi ilmetä monin eri tavoin, kuten:
 
@@ -29,15 +29,15 @@ Tämä virhe voi ilmetä monin eri tavoin, kuten:
 2. Rekisteröintiprofiilimääritykset saattavat epäonnistua
 3. Laitteet eivät ehkä suorita ADE-rekisteröintiä onnistuneesti
 
-Tarkista Intune-konsolissa ilmoitettu synkronointivirhe Laitteet-kohdassa, > rekisteröi laitteet **> Apple-rekisteröinti>-ohjelman tunnukset.**
+Tarkista Intune-konsolissa ilmoitettu synkronointivirhe kohdassa Laitteet > laitteen rekisteröinti **> Apple-> rekisteröintiohjelman tunnuksia.**
 
-Yksi yleisimmistä synkronointivirheen syistä on nykyisen tunnuksen vanheneminen. Monissa tapauksissa ongelma ratkeaa, jos kyseinen tunnus uusitaan.
+Yksi synkronointivirheen yleisimpiä syitä on nykyisen tunnuksen vanheneminen. Monissa tapauksissa ongelma ratkeaa, jos tunnus on uusittava.
 
-Jos vähintään yksi tunnuksesi on vanhentunut, tutustu seuraaviin ohjeisiin, joiden avulla voit uusia ne tarpeen mukaan:
+Jos vähintään yksi tunnuksistasi on vanhentunut, tutustu seuraaviin ohjeisiin, joiden avulla voit uusia ne tarpeen mukaan:
 
 [Automaattisen laitteen rekisteröintitunnuksen uusiminen](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Lisäksi seuraavista ohjeista näet mahdolliset korjaaminen muista virheistä, jotka aiheuttavat tunnusten synkronointivirheitä:
+Seuraavista ohjeista näet myös muut tunnuksen synkronointivirheitä aiheuttavat virheet:
 
 [ABM-/ASM-synkronointivirheet iOS-/iPadOS- ja macOS-laitteiden automaattisen rekisteröinnin tunnuksille](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 

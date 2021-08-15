@@ -1,5 +1,5 @@
 ---
-title: MCA-suositeltuihin vaihe isiin liittyvän myynti-ja laskutus osoitteen päivittäminen
+title: McA-tiliisi liittyvän myyty- ja laskutusosoitteen päivittäminen – suositellut vaiheet
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001505"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>MCA-suositeltuihin vaihe isiin liittyvän myynti-ja laskutus osoitteen päivittäminen
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>McA-tiliisi liittyvän myyty- ja laskutusosoitteen päivittäminen – suositellut vaiheet
 
-Voit päivittää Microsoftin asiakas sopimukseen (MCA) liittyvän myydyn ja laskutus osoitteen. 
+Voit päivittää Microsoftin asiakassopimukseen (MCA) liittyvän myyty- ja laskutusosoitteen. 
 
 > [!NOTE]
-> Vain käyttäjän järjestelmänvalvojat voivat tehdä muutoksia Azure Active Directory-käyttäjä profiilin tietoihin. Jos et ole määrittänyt käyttäjien järjestelmänvalvojaroolia, ota yhteyttä käyttäjien järjestelmänvalvojaan. Lisä tietoja käyttäjän profiilin muutoksista on kohdassa [käyttäjän profiili tietojen lisääminen tai päivittäminen Azure Active Directory-hakemisto toiminnolla](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Vain käyttäjä järjestelmänvalvoja voi tehdä muutoksia Azure Active Directory käyttäjäprofiilin tietoihin. Jos sinulle ei ole määritetty järjestelmänvalvojan roolia, ota yhteyttä käyttäjän järjestelmänvalvojaan. Lisätietoja käyttäjän profiilin muuttamisesta on kohdassa [Käyttäjän profiilitietojen](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)lisääminen tai päivittäminen Azure Active Directory.
 
-**Myynti osoite** – myynti osoite on sen organisaation tai henkilön osoite ja yhteys tiedot, joka on vastuussa laskutus tilistä. Se näkyy kaikissa laskutuksessa, jotka on luotu laskutus tilille.
+**Myyty-osoite** – Myyty-osoite on laskutustilistä vastuussa olevan organisaation tai henkilön osoite ja yhteystiedot. Se näkyy kaikissa laskuissa, jotka on luotu laskutustilille.
 
-Laskutus **Osoite** – laskutus osoite on sen organisaation tai henkilön osoite ja yhteys tiedot, joka on vastuussa laskutuksesta, joka on luotu laskutuksen tilille. Jos kyseessä on MCA-tili, laskutus profiilille on saatavilla laskutus osoite, joka näkyy laskutuksessa.
+**Laskutusosoite** – Laskutusosoite on organisaation tai henkilön osoite ja yhteystiedot, jotka vastaavat laskutustilille luoduista laskuista. MCA:n laskutustilillä on laskutusosoite jokaista laskutusprofiilia varten ja se näkyy laskutusprofiilille luodussa laskussa.
 
-**MCA-laskutus tilin päivittäminen myynti osoitteeseen**:
+**Päivitä MCA-laskutustili, joka on myyty osoitteeseen:**
 
-1. Kirjaudu sisään Azure-portaaliin käyttämällä Sähkö posti osoitetta, jolla on MCA-tilin omistajan tai osallistujan rooli.
-1. Hae **kustannusten hallinnan**  +  **laskutusta**.
-1. Valitse **ominaisuuksien**  >  **päivitys loppuunmyyty**.
+1. Kirjaudu sisään Azure-portaaliin sähköpostiosoitteella, jolla on omistaja- tai avustajarooli MCA:n laskutustilillä.
+1. Hae kustannusten **hallinnan**  +  **laskutusta.**
+1. Valitse **Ominaisuudet**  >  **Päivitä myyty kohteeseen**.
 1. Kirjoita uusi osoite ja valitse **Tallenna**.
 
-Joihinkin tileissä tarvitaan lisä vahvistusta, ennen kuin niiden myynti osoite voidaan päivittää. Jos tilisi edellyttää manuaalista hyväksyntää, sinua pyydetään ottamaan yhteyttä Azure-tukeen.
+Jotkin tilit edellyttävät lisävahvistusta, ennen kuin niiden myyntiosoite voidaan päivittää. Jos tilisi edellyttää manuaalista hyväksyntää, sinua pyydetään ottamaan yhteyttä Azure-tukeen.
 
-**MCA-laskutus tilin osoitteen päivittäminen**: 
+**MCA-laskutustilin osoitteen päivittäminen:** 
 
-1. Kirjaudu sisään Azure-portaaliin käyttämällä Sähkö posti osoitetta, jolla on omistajan tai osallistujan rooli laskutus tilillä tai MCA-tilin laskutus profiilissa.
-1. Hae **kustannusten hallinnan**  +  **laskutusta**.
-1. Valitse Laskutus- **Profiilit** ja valitse sitten Laskutus osoite valitsemalla Laskutus profiili.
-1. Valitse **ominaisuuksien**  >  **päivitys osoite**.
-1. Kirjoita uusi osoite ja valitse sitten **Tallenna**.
+1. Kirjaudu sisään Azure-portaaliin sähköpostiosoitteella, jolla on omistaja- tai osallistujarooli laskutustilillä tai MCA:n laskutusprofiilissa.
+1. Hae kustannusten **hallinnan**  +  **laskutusta.**
+1. Valitse **Laskutusprofiilit** ja valitse laskutusprofiili, jotta voit päivittää laskutusosoitteen.
+1. Valitse **Ominaisuudet Päivitä**  >  **osoite.**
+1. Kirjoita uusi osoite ja valitse **sitten Tallenna**.
 
-**Suositellut asia kirjat**
+**Suositellut asiakirjat**
 
-[Azure-laskutus tilin yhteys tietojen muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Laskutus tilin asetusten päivittäminen](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Tietoja Microsoftin asiakas sopimuksen järjestelmänvalvojan rooleista Azuressa](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Azure-laskutustilin yhteystietojen muuttaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Päivitä laskutustilin asetukset](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Microsoftin asiakassopimuksen järjestelmänvalvojan roolien ymmärtäminen Azuressa](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
