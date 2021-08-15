@@ -1,5 +1,5 @@
 ---
-title: IOS-kauhan rekisteröinnin perussääntö
+title: iOS- bucketin rekisteröintikantasääntö
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030053"
 ---
 # <a name="intune-device-enrollment"></a>Intune-laitteen rekisteröinti
 
-[Lisä tietoja laitteiden rekisteröinnistä Intunella](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Tietoja laitteen rekisteröinnistä Intunen avulla](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[IOS-laite rekisteröinnin määrittäminen Intunella](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[iOS-laitteen rekisteröinnin rekisteröiminen Intunen avulla](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Android-laitteen rekisteröinnin määrittäminen Intunella](https://docs.microsoft.com/intune/android-enroll)
+[Android-laitteen rekisteröinnin rekisteröiminen Intunen avulla](https://docs.microsoft.com/intune/android-enroll)
 
-[Windows-laitteiden rekisteröinnin määrittäminen Intunella](https://docs.microsoft.com/intune/windows-enroll)
+[Laitteen Windows intunella](https://docs.microsoft.com/intune/windows-enroll)
 
-Laitteen rekisteröinnin vian määritys
+Laitteen rekisteröinnin vianmääritys
 
-1. Käytä [Intune-vian määritys portaalia](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   yleisten rekisteröinti virheiden diagnosointiin ja ratkaisemiseen. Katso lisä tietoja [tästä asia kirjasta](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Käytä [Intunen vianmääritysportaalia, kun](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) haluat tehdä vianmäärityksen ja ratkaista yleisiä rekisteröintivirheitä. Katso [lisätietoja](https://docs.microsoft.com/intune/help-desk-operators) tästä asiakirjasta.
 
-2. Tarkista seuraavat asia kirjat, jos haluat luettelon yleisistä virheistä, jotka estävät rekisteröinnin ja tarkkuudet:
-    - [Vian määritys opas](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Vian määritys tiedosto](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Tarkastelemalla näitä asiakirjoja saat luettelon yleisistä virheistä, jotka estävät rekisteröinnin ja ratkaisut:
+    - [Vianmääritysopas](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Doc-tiedoston vianmääritys.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

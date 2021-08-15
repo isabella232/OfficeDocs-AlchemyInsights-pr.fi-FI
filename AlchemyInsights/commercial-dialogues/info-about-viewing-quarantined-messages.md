@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978914"
 ---
 # <a name="info-about-viewing-quarantined-messages"></a>Tietoja karanteeniin asetettujen viestien tarkastelemista varten
 
-Jos haluat tarkastella kaikkia organisaation karanteeniin asetettuja viestejä, käytä Microsoft 365 -hallintakeskusta. Seuraavassa on muutamia vinkkejä:
+Jos haluat tarkastella kaikkia organisaation karanteeniin asetettuja viestejä, käytä Microsoft 365 -hallintakeskus. Seuraavassa on muutamia vinkkejä:
 
-- Et voi saada päivittäistä tai viikoittaista raporttia kaikista postilaatikkoosi lähetetyistä karanteeniin asetettuista viesteistä.
-- Voit kuitenkin määrittää Microsoft 365:n lähettämään käyttäjille digest-viestin siitä, mitkä heidän sähköpostinsa ovat karanteenissa.
-- Roskaposti-, joukko- ja tietojenkalasteluviestit ovat oletusarvoisesti karanteenissa 15 päivän ajan. Postinkulkusääntöä vastaavat viestit karanteeniin 7 päivän ajan (tätä ei voi mukauttaa). Kun Microsoft 365 poistaa viestin karanteenista, et saa sitä takaisin.
+- Kaikkien postilaatikkoon karanteeniin asetettujen viestien päivittäisestä tai viikoittaisesta raportista ei voi saada raporttia.
+- Voit kuitenkin määrittää, Microsoft 365 haluat lähettää käyttäjille digest-viestin siitä, mitkä heidän sähköpostiviestit ovat karanteenissa.
+- Roskapostit, joukkoviestit ja tietojen kalasteluviestit ovat oletusarvoisesti karanteenissa 15 päivän ajan. Postinkulkusääntöä vastaavat viestit karanteeniin 7 päivän ajan (tätä ei voi mukauttaa). Kun Microsoft 365 poistaa viestin karanteenista, et saa sitä takaisin.

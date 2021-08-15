@@ -1,5 +1,5 @@
 ---
-title: Vihjeitä sisältöhaun raportin viemiseen
+title: Vinkit viemiseen sisältöhaun raportin avulla
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978878"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Vihjeitä sisältöhaun raportin viemiseen
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Vinkit viemiseen sisältöhaun raportin avulla
 
-Sinun on ehkä tarkastelettava sisältöhaun raporttia sen sijaan, että viesit kaikki hakutulokset. Jos näin on, voit viedä vain raportin hakutuloksista. Seuraavassa on joitakin vinkkejä:
+Sinun on ehkä nähtävä sisältöhaun raportti sen sijaan, että viesit kaikki hakutulokset. Jos näin on, voit viedä vain raportin hakutuloksista. Seuraavassa on joitain vinkkejä:
 
-- Varmista, että tilillesi on määritetty yhteensopivuushaun hallintarooli.
-- Varmista, että tietokoneesi täyttää [kaikki edellytykset.](https://go.microsoft.com/fwlink/?linkid=2102407) Kaikkia selaimia, kuten Chromea, ei tueta.
-- Rajaa vientitulokset alle 20 Tt:n kokoon, jotta vienti ei epäonnistu. Kokeile käyttää pienempää päivämääräaluetta tai vähemmän hakusijainteja.
-- Raportin vieminen lasketaan yhtä aikaa suorituksen aikana kertovien raporttien enimmäismäärän perusteella.
+- Varmista, että tilillesi määritetään yhteensopivuushaun hallintarooli.
+- Varmista, että tietokone täyttää kaikki [edellytykset.](https://go.microsoft.com/fwlink/?linkid=2102407) Kaikkia selaimia ei tueta, kuten Chromea.
+- Voit rajata viennin tulokset alle 20 Tt:n kokoon, jotta vienti ei epäonnistu. Kokeile käyttää pienempää päivämääräaluetta tai vähemmän hakusijainteja.
+- Raportin vieminen lasketaan sen mukaan, kuinka monta raporttia voidaan suorittaa yhtä aikaa.
 
 Lisätietoja on kohdassa [Sisältöhakuraportin vieminen](https://go.microsoft.com/fwlink/?linkid=2102409)

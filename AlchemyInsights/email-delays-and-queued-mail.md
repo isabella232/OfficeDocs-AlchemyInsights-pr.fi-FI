@@ -1,5 +1,5 @@
 ---
-title: Näetkö Sähkö posti viiveitä tai jonossa olevaa sähkö postia?
+title: Näetkö sähköpostiviiveitä tai jonossa olevat sähköpostiviestit?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030161"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Näetkö Sähkö posti viiveitä tai jonossa olevaa sähkö postia?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Näetkö sähköpostiviiveitä tai jonossa olevat sähköpostiviestit?
 
-Aloitimme hiljattain deprecating. Nämä kohde arvot olivat käytettävissä MX-tietueissa ja Smart hosts-kohteissa ennen 2012. Jos käytät edelleen jotakin näistä vanhemmista arvoista, sinun on päivitettävä pääte piste tuetulle arvolle. Lisä tietoja on tämän tuki tieto [kannan](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)ohjeessa.
+Aloimme hiljattain lopettaa vanhojen SMTP-päätepisteiden käytön. Nämä kohdearvot olivat käytettävissä MX-tietueissa ja älykkäissä isännässä ennen vuotta 2012. Jos käytät edelleen jotain näistä vanhemmista arvoista, sinun on päivitettävä päätepiste tuettuun arvoon. Lisätietoja on tässä tuki knowledge base [-tukisivustossa.](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)

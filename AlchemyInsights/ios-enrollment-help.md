@@ -1,5 +1,5 @@
 ---
-title: iOS:n rekisteröinti ohje
+title: iOS-rekisteröinnin ohje
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001397"
 ---
-# <a name="ios-enrollment-help"></a>iOS:n rekisteröinti ohje
+# <a name="ios-enrollment-help"></a>iOS-rekisteröinnin ohje
 
-Olemme havainneet, että iOS:n rekisteröinnissä saattaa olla ongelma. Seuraavassa on joitakin artikkeleita, jotka voivat olla avuksi: 
+Olemme huomanneet, että iOS-rekisteröinnissä voi olla ongelmia. Tässä on joitakin artikkeleita, joista voi olla apua: 
 
-[IOS:n yleiset rekisteröinti virheet ja-ratkaisut](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Yleisiä iOS-rekisteröintivirheitä ja -ratkaisuja](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Intune-ja iOS-käytön aloittaminen](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Intunen ja iOS:n käytön aloittaminen](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Yleisten rekisteröinti ongelmien vian määritys](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Yleinen rekisteröinnin vianmääritys](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Intune-vian määritys portaalin käyttäminen yleisten rekisteröinti virheiden diagnosointiin ja ratkaisemiseen](https://docs.microsoft.com/intune/help-desk-operators)
+[Intunen vianmääritysportaalin käyttäminen yleisien rekisteröintivirheiden vianmääritykseen ja korjaamiseen](https://docs.microsoft.com/intune/help-desk-operators)
