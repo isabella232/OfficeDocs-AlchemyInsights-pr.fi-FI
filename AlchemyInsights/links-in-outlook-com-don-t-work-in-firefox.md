@@ -13,16 +13,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 68266d51be07f48ea896cf83b147bdeaaf73574d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfb8161f5f3c2a6812ad5f10e6910e5296a3b60bd5494f41cac6d883dc821d1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963064"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Outlook.com-linkit eivät toimi Firefoxissa
 
-Outlook.com-Sähkö posti viestien linkit eivät toimi, kun niitä tarkastellaan Firefox-selaimissa. Mozilla käsittelee Firefoxin [korjausta](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) , mutta siihen asti:
+Outlook.com-sähköpostiviestien linkit eivät toimi, kun niitä katsellaan Firefox-selaimissa. Mozilla korjaa [Firefoxia,](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) mutta siihen asti:
   
-- Käytä [Microsoft edgiä](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) tai jotakin muuta selainta.
-- Tarkastele Sähkö posti viestejä luku ruudussa. Lisä tietoja on artikkelissa [Outlook.com-posti laatikon ulkoasun muuttaminen](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+- Käytä [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) tai muuta selainta.
+- Tarkastele sähköpostia lukuruudussa. Lisätietoja on kohdassa [Outlook.com-postilaatikon ulkoasun muuttaminen.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)
