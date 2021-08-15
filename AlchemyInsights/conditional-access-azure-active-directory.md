@@ -1,5 +1,5 @@
 ---
-title: Ehdollinen käyttäminen Intunella
+title: Ehdollinen käyttöoikeus Intunen avulla
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,18 +8,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f691e626b9deabb59b909e75221d684a2d133ac6c8949deb148b5646c0d117c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966214"
 ---
-# <a name="conditional-access"></a>Ehdollinen käyttäminen
+# <a name="conditional-access"></a>Ehdollinen käyttöoikeus
 
-Ehdollinen käyttäminen on Azure Active Directory-ominaisuus. Ehdollisen käyttö oikeuden avulla voit ottaa käyttöön automatisoituja käytön valvonta päätöksiä, jotka koskevat ehtoihin perustuvien pilvi sovellusten käyttöä. Katso lisä tietoja [sijaintiin perustuvien käytäntöjen määrittämisestä](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Ehdollinen käyttöoikeus on Azure Active Directory. Ehdollisen käyttöoikeuden avulla voit ottaa käyttöön automaattiset käytönvalvontapäätökset, joilla voit käyttää pilvisovelluksia, jotka perustuvat ehtoihin. Lisätietoja on kohdassa Location-Based [määrittäminen.](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-IT-järjestelmänvalvojana voit myös hallita SharePointin ja OneDriven resurssien käyttöä määritettyjen verkko sijaintien tai luotettavien laitteiden perusteella. Lisätietoja saat alla olevista linkeistä.
+IT-järjestelmänvalvojana voit myös hallita resurssien SharePoint OneDrive määritettyjen verkkosijaintien tai -laitteiden perusteella. Lisätietoja saat alla olevista linkeistä.
 
 - [SharePoint Onlinen ja OneDriven tietojen käytön hallitseminen verkkosijainnin perusteella](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

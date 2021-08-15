@@ -1,5 +1,5 @@
 ---
-title: Tiedostojen lataaminen OneDrivesta tai SharePointista tai sen estäminen
+title: Lataa tai estä tiedostojen lataaminen OneDrive SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,20 +14,20 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3666d3caa81ff321b1f4e9f641dcf22caae3e37e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b5e7b9b73d6824d54eeb2576a3edda8be12af1e8e38f710c2ab4077482dff9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022979"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Tiedostojen lataaminen OneDrivesta tai SharePointista tai sen estäminen
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Lataa tai estä tiedostojen lataaminen OneDrive SharePoint
 
-Voit ladata tiedostoja ja kansioita OneDrivesta tai SharePoint Onlinesta tieto koneeseesi muutamalla napsautuksella. Lisä tietoja tiedostojen lataamisesta, nopeudesta ja lataamisesta löydät alla olevista linkeistä.
+Voit ladata tiedostoja ja kansioita OneDrive Onlinesta tai SharePoint Onlinesta tietokoneeseen vain muutamalla napsautuksella. Lisätietoja tiedostojen lataamisesta, nopeudesta ja latausten rajoittamisesta on alla olevista linkeistä.
 
-- [Tiedostojen ja kansioiden lataaminen OneDrivesta tai SharePointista](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Estä tiedoston lataaminen Azure AD:n ehdollisen käytön avulla](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
-- Etsi ladatut tiedostot- [tapahtumat valvonta lokeista](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#file-and-page-activities) , jotta tunnistat tiedostojen lataamisen
-- [Latauksen ja lataus nopeuden suurentaminen](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
-- [OneDrive-synkronointi ongelmien korjaaminen](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
-- [OneDrive for Businessin lataaminen](https://onedrive.live.com/about/download/)
+- [Tiedostojen ja kansioiden lataaminen OneDrive SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [Tiedoston lataamisen estäminen Azure AD:n ehdollisella käyttöoikeudella](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Ladatun tiedoston hakutapahtumat valvontalokeja ladatuissa](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#file-and-page-activities) tiedostoissa
+- [Lataamisnopeuden maksimoiminen](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Synkronointiongelmien OneDrive korjaukset](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [Lataa OneDrive for Business](https://onedrive.live.com/about/download/)

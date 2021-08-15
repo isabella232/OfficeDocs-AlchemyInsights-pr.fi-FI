@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029801"
 ---
 # <a name="file-open-read-only"></a>Tiedosto avoinna vain luku -tiedostotunnisteena
 
@@ -38,18 +38,18 @@ Internetistä ja muista mahdollisesti epäluotettamattomista paikoista tulevat t
   
  **Onko OneDrive täynnä?**
   
-Jos tiedosto on tallennettu OneDriveen ja OneDrive-tallennustilasi on täynnä, et voi tallentaa tiedostoa, ennen kuin olet määritetyn tilan alla. Voit tarkistaa OneDriven vapaan tilan napsauttamalla ilmoituskeskuksen OneDrive-kuvaketta ja valitsemalla Tallennustilan hallinta. Voit myös valita , kirjautua sisään ja nähdä käytetyn tilan määrän näytön vasemmassa [https://onedrive.live.com](https://onedrive.live.com) alakulmassa.
+Jos tiedosto on tallennettu OneDrive ja OneDrive tallennustila on täynnä, et voi tallentaa tiedostoa, ennen kuin olet varattuun tilaan. Voit tarkistaa OneDrive:n vapaan tilan napsauttamalla OneDrive-kuvaketta ilmoituskeskuksessa ja valitsemalla Tallennustilan hallinta. Voit myös valita , kirjautua sisään ja nähdä käytetyn tilan määrän näytön vasemmassa [https://onedrive.live.com](https://onedrive.live.com) alakulmassa.
   
  **Onko Office aktivoitu?**
   
-Jos Officea ei ole aktivoitu tai jos tilauksesi on päättynyt, voit olla rajoitetun toiminnan vain luku -tilassa. Lisätietoja Officen aktivoimisesta on kohdassa: [Ei käyttöomista -virheet ja aktivointivirheet Officessa.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Jos Office ole aktivoitu tai jos tilauksesi on vanhentunut, voit olla rajoitetun toiminnan vain luku -tilassa. Lisätietoja aktivoinnista on [Office:](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)Ei käyttöomista -virhe ja aktivointivirheet Office.
   
  **Jos kaikki muu epäonnistuu...**
   
 - Yritä käynnistää tietokone uudelleen
     
-- Office-päivitysten asentaminen
+- Asenna Office-päivitykset
     
-- Officen Online-korjauksen korjaaminen
+- Suorita korjauksen Office
     
 

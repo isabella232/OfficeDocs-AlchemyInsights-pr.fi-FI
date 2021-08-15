@@ -1,5 +1,5 @@
 ---
-title: Edustajan lisääminen tai poistaminen Outlookin verkko versiossa (OWA)
+title: Edustajan lisääminen tai poistaminen Outlook verkkosovelluksessa (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993422"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Edustajan lisääminen tai poistaminen Outlookin verkko versiossa (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Edustajan lisääminen tai poistaminen Outlook verkkosovelluksessa (OWA)
 
-Voit määrittää editorin tai edustajakäyttöoikeuden kalenteriin seuraavasti:
+Muokkaaja- tai Edustajakäyttö-oikeuden määrittäminen kalenteriin:
 
-1. Valitse Outlookin verkko versiossa kalenteri-kuvake sivun alareunasta.
-2. Valitse sivun ylälaidassa **jaa > kalenteri**.
-3. Kirjoita **jakaminen ja käyttö oikeudet** -sivulla sen henkilön nimi tai sähkö posti osoite, jonka kanssa haluat jakaa kalenterisi. Voit jakaa kalenterisi useammalla kuin yhdellä henkilöllä, mutta voit lisätä vain yhden henkilön kerrallaan Outlookin verkko versiosta.
-4. Kun olet lisännyt henkilön, jonka haluat hallitsevan kalenteriasi, valitse hänen nimensä vieressä oleva avattava luettelo ja valitse sitten haluamasi oikeus taso.
+1. Valitse Outlookin verkkoversio-kohdassa Kalenteri-kuvake sivun alareunassa.
+2. Valitse sivun yläreunassa Jaa **kalenteri > .**
+3. Kirjoita **Jakaminen ja käyttöoikeudet -sivulle** sen henkilön nimi tai sähköpostiosoite, jonka kanssa haluat jakaa kalenterisi. Vaikka voit jakaa kalenterisi useamman kuin yhden henkilön kanssa, voit lisätä kerrallaan vain yhden Outlookin verkkoversio.
+4. Kun olet lisännyt henkilön, jonka haluat hallita kalenteriasi, valitse hänen nimensä vieressä olevasta avattavasta luettelosta käyttöoikeustaso, jonka haluat hänen saattavan.
 
-    - Valitse **voi muokata** , jos haluat antaa hänelle oikeuden tehdä muutoksia kalenteriisi.
-    - Valitse **edustaja** , jos haluat antaa hänelle samat käyttö oikeudet kuin muokkaaja, ja he saavat Kokous pyyntöjä ja vasta uksia puolestasi.
+    - Valitse **Voi muokata,** jos haluat antaa hänelle oikeuden tehdä muutoksia kalenteriin.
+    - Valitse **Edustaja,** jos haluat antaa hänelle muokkausoikeudet ja lisäksi he saavat kokouspyynnöt ja -vastaukset puolestasi.
     > [!NOTE]
-    > Kun edustaja vastaa Kokous kutsuun puolestasi, et näe vastausta kutsussa Saapuneet-kansiostasi, kun käytät Outlookin verkko versiota. Hyväksytyt tai alustavasti hyväksytyt kokous näkyy kalenterissa ja näyttää, että edustaja on hyväksynyt ne.
-    - Asetukset **voivat tarkastella, milloin olen varattu**, **tarkastella otsikoita ja sijainteja** ja tarkastella **kaikkia tietoja** , jotta muut voivat tarkastella kalenteriasi, mutta tehdä siihen muutoksia. Organisaation ulkopuolisten henkilöiden käyttäminen on rajoitettu näihin asetuksiin.
+    > Kun edustaja vastaa kokouskutsuun puolestasi, et näe vastausta Saapuneet-kansion kutsussa, kun käytät Outlookin verkkoversio. Kokoukset, jotka hyväksytään tai hyväksytään alustavasti, näkyvät kalenterissasi ja näyttävät, että edustaja on hyväksynyt ne.
+    - **Vaihtoehdoilla Voi tarkastella,** milloin olen **varattu,** Voi tarkastella  otsikoita ja sijainteja ja Voi tarkastella kaikkia tietoja muut voivat tarkastella kalenteriasi, mutta he eivät voi tehdä siihen muutoksia. Organisaation ulkopuolisten ihmisten käyttöoikeudet on rajoitettu näihin asetuksiin.
 
-5. Kun olet lisännyt henkilön, jonka kanssa haluat jakaa kalenterisi, ja valinnut haluamasi käyttö oikeudet, valitse **Jaa**. Jos päätät, ettet jaa kalenteriasi juuri nyt, valitse **Poista**.
+5. Kun olet lisännyt henkilön, jonka kanssa haluat jakaa kalenterisi, ja valinnut hänelle annettavat käyttöoikeudet, valitse **Jaa**. Jos et halua jakaa kalenteriasi juuri nyt, valitse **Poista**.
 
-Henkilö, jonka kanssa olet jakanut kalenterisi, saa Sähkö posti viestin, jossa kerrotaan siitä. Kun he valitsevat kutsun **Hyväksy** -painikkeen, se lisää kalenterisi kalenteriluetteloonsa.
+Henkilö, jonka kanssa olet jakanut kalenterisi, saa tästä sähköpostiviestin. Kun hän valitsee **kutsun** Hyväksy-painikkeen, kalenterisi lisätään hänen kalenteriluetteloonsa.
 
 > [!NOTE]
-> **Yksityisiksi** merkityt kalenteri kohteet suojataan. Useimmat ihmiset, joiden kanssa jaat kalenterisi, näkevät vain **yksityisiksi** merkittyjen kohteiden kellon ajan, eivät aihetta, sijaintia tai muita tietoja. Poikkeuksena on, jos valitset **Salli edustajan tarkastella yksityisiä tapahtumia** -valinta ruudun.
+> Yksityisiksi **merkityt kalenterikohteet** ovat suojattuja. Useimmat henkilöt, joiden kanssa jaat kalenterisi, näkevät yksityisiksi merkityistä kohteista vain **ajan,** eivät aihetta, sijaintia tai muita tietoja. Poikkeuksena tähän on se, jos valitset Salli edustajan **tarkastella yksityisiä tapahtumia** -valintaruudun.
 
-Edustajan poistaminen Outlookin verkko versiossa (OWA):
+Edustajan poistaminen Outlook verkkosovelluksessa:
 
-1. Valitse Outlookin verkko versiossa kalenteri-kuvake sivun alareunasta.
-2. Valitse sivun ylälaidassa **Jaa** ja valitse kalenteri, jonka jakamisen haluat lopettaa.
-3. Valitse **Poista** sen henkilön vierestä, jonka kanssa haluat lopettaa kalenterin jakamisen.
+1. Valitse Outlookin verkkoversio-kohdassa Kalenteri-kuvake sivun alareunassa.
+2. Valitse sivun yläreunassa **Jaa** ja valitse kalenteri, jonka jakamisen haluat lopettaa.
+3. Valitse **Poista** sen henkilön vieressä, jonka kanssa haluat lopettaa kalenterin jakamisen.

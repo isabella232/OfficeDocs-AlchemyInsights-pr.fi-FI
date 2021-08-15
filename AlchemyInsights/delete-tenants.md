@@ -1,5 +1,5 @@
 ---
-title: Vuokra ajan poistaminen
+title: Poista vuokraaja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993890"
 ---
-# <a name="delete-tenant"></a>Vuokra ajan poistaminen
+# <a name="delete-tenant"></a>Poista vuokraaja
 
-Jos haluat poistaa Azure-mainoksen, varmista seuraavat:
-- Olet hakemiston yleinen hallinnoija.
-- Et ole kirjautunut tilillä, joka sisältää oletus hakemiston, kuten contoso.onmicrosoft.com, kirjautuneen tilin, kuten admin@contoso.onmicrosoft.com.
-- Poista kaikki kansiossa olevat aktiiviset sovellukset ennen niiden poistamista. Jos haluat poistaa aktiivisia sovelluksia, siirry sovellusten rekisteröinteihin ja poista olemassa olevat sovellukset.
-- Minkään Microsoft Online-palvelun, kuten Microsoft Azuren, Office 365 tai Azuren AD Premiumin, käytössä ei ole aktiivisia paketteja. Siirrä tilauksesi tai nopeuta aktiivisten pakettien peruutusta Azure-tuen ja laskutuksen kautta. Lue lisää siitä, miten voit peruuttaa Office 365-ja Azure-tila uksia. Lisä tietoja olemassa olevan tila uksen liittämisestä vuokraajaan on Ohje aiheessa Azure- [tila uksen liittäminen tai lisääminen Azure AD-vuokraajaan](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-- Aktiivista käyttö oikeutta ei ole. Lisä tietoja käyttö oikeuksien poistamisesta on Ohje aiheessa [tila uksen poistaminen käyttö oikeuden poistamiseksi](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
-- Hakemistossa ei ole muita aktiivisia käyttäjiä paitsi itseäsi yleisenä järjestelmänvalvojana, kun yrität poistaa Azure AD:n. Poista kaikki muut aktiiviset käyttäjät, ja mukautetun toimi alue nimen riippuvuudet on myös poistettava, kuten admin@contoso.com-sovelluksessa luodut käyttäjät.
+Jos haluat poistaa Azure AD:n, varmista:
+- Olet hakemiston yleinen järjestelmänvalvoja.
+- ET ole kirjautunut sisään tilillä, jossa on oletushakemisto contoso.onmicrosoft.com, kuten admin@contoso.onmicrosoft.com.
+- Poista kaikki aktiiviset sovellukset hakemistosta ennen poistamista. Jos haluat poistaa aktiivisia sovelluksia, siirry kohtaan Sovelluksen rekisteröinnit ja poista olemassa olevat sovellukset.
+- Hakemistoon liitetyille Microsoft Online Services -palveluille ei ole aktiivisia Microsoft Azure, Office 365 tai Azure AD Premium tilauksia. Siirrä tilauksesi tai nopeuttaa aktiivisten tilausten peruuttamista Azure-tuen ja laskutuksen kautta. Lisätietoja tilauksen peruuttamista Office 365 Azure-tilauksia varten. Ohjeet olemassa olevan tilauksen liittämistä tai lisäämistä vuokraajaan ovat kohdassa Azure-tilauksen liittäminen tai lisääminen [Azure AD -vuokraajaan.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+- Aktiivista käyttöoikeutta ei ole. Lisätietoja käyttöoikeuksien poistamisesta [on kohdassa Käyttöoikeuden poistotilauksen poistaminen.](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription)
+- Itsesi lisäksi hakemistossa ei ole muita aktiivisia käyttäjiä yleisenä järjestelmänvalvojana, kun yrität poistaa Azure AD:tä. Poista muut aktiiviset käyttäjät ja kaikki riippuvuudet vuokraajan mukautetusta toimialuenimestä on myös poistettava, kuten käyttäjät, jotka on luotu admin@contoso.com.
 
-Lisä tietoja:
-- Poista Azure Active Directory tai tilaus, Katso lisä tietoja artikkelista [Azure Active Directoryn poistaminen](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
-- Sovellusten poistaminen hakemistosta on kohdassa [sovellusten poistaminen](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
+Saat lisätietoja siitä, miten voit:
+- Poista "Azure Active Directory" tai "tilaus", katso [lisätietoja Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)
+- Jos poistat sovelluksia hakemistosta, katso [Sovellusten poistaminen.](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app) 
