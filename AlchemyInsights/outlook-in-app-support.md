@@ -1,5 +1,5 @@
 ---
-title: Vuokraaja on luotsaus sovelluksen tuki Outlookiin
+title: Vuokraaja pilotoi sovelluksensisaista tukea Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991892"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>Sovelluksen sisäinen tuki Outlook for Windowsissa
+# <a name="in-app-support-in-outlook-for-windows"></a>Sovelluskohtaisia tuki Outlook for Windows
 
-Vuokra ajan järjestelmänvalvojana voit saada Sovelluskohtaisen tuen Outlook for Windowsin ongelmiin. Valitse Outlookissa **Ohje**  >  **Ota yhteyttä tukeen**. Kirjoita kysymyksesi ja Windowsin Outlook for Windows-tuki ryhmän jäsen vastaa viestiisi.
+Vuokraajan järjestelmänvalvojana voit saada sovelluskohtaisia tukiongelmia Outlook for Windows. Valitse Outlook ota **yhteyttä**  >  **tukeen**. Kirjoita kysymyksesi, ja Outlook Windows tukitiimi vastaa viestiisi.

@@ -1,5 +1,5 @@
 ---
-title: Tee välittömiä maksuja-Suositellut vaiheet
+title: Maksa välittömästi – suositellut vaiheet
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976754"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Tee välittömiä maksuja-Suositellut vaiheet
+# <a name="make-immediate-payment---recommended-steps"></a>Maksa välittömästi – suositellut vaiheet
 
-Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
+Ongelman kuvauksen perusteella olemme löytäneet sinulle ratkaisun. Useimmat asiakkaat pystyivät ratkaisemaan ongelmansa itse käyttöohjeiden jälkeen.
 
-Jos haluat suorittaa välittömän maksun, varmista, että erääntyneen saldon ratkaisee. Jos maksusi ei ole vastaanotettu tai jos maksu ei onnistu, voit saada Sähkö posti viestin tai nähdä erääntyneen saldon ilmoitus ilmoituksen tili keskuksessa tai Azure-portaalissa. 
+Jos haluat tehdä maksun heti, varmista, että ratkaiset erääntyneitä saldoja. Jos maksuasi ei vastaanoteta tai jos emme voi käsitellä maksuasi, saatat saada sähköpostiviestin tai nähdä Erääntyneen maksun ilmoitus -ilmoituksen Tilikeskuksessa tai Azure-portaalissa. 
 
-Maksua ei ehkä voitu käsitellä, jos tiedoston luotto kortti on vanhentunut tai pankki on hylännyt veloituksen. Tilin järjestelmänvalvoja voi tarkastella ja päivittää luotto korttia tili keskuksessa. 
+Maksun käsittely voi epäonnistua, jos tiedoston luottokortti on vanhentunut tai pankkisi on hylännyt maksun. Tilin järjestelmänvalvoja voi tarkastella ja päivittää luottokorttia tilikeskuksessa. 
 
-Azure-pakettiisi voi olla poistettu käytöstä, koska saldosi on vanhentunut, olet saavuttanut käyttö rajan, sinulla on erääntynyt vekseli, osut luotto korttisi rajaan tai koska tilin järjestelmänvalvoja on peruuttanut tila uksen.  
+Azure-tilauksesi on ehkä poistettu käytöstä, koska saldosi on päättynyt, olet saavuttanut käyttörajasi, sinulla on myöhässä lasku, luottokorttirajasi ylittynyt tai koska tilin järjestelmänvalvoja on peruuttanut tilauksen.  
 
-Jos kortissa on odottava maksu, sillä rahoitus laitos on hylännyt kortin, ota yhteyttä rahoitus laitokseen ongelman ratkaisemiseksi.  
+Jos kortilla on odottava maksu sen jälkeen, kun rahoituslaitos on estänyt kortin, ota yhteyttä rahoituslaitostasi ongelman ratkaisemiseksi.  
 
-Sinun on ehkä tarkistettava pankin kanssa:
+Sinun on ehkä tarkistamaan pankki, jotta näet seuraavat:
 
 - Jos kansainvälinen tapahtuma sijoitetaan korttiin. 
-- Jos kortilla on luotto raja saldon tilittämiseen 
-- Jos kortilla on käytössä toistuva maksu 
+- Jos kortissa on luottoraja saldon selvittäminen 
+- Onko kortilla käytössä toistuva maksu 
 
-Jos maksusi hylätään, tarkista, mikä maksu väline (PI) on hylätty, jos tila ukseen liittyy useita PIs-kirjaimia. Muuta tai poista pii tila uksesta tarvittaessa. 
+Jos maksusi hylätään, tarkista, mikä maksuväline (PII) hylätään, jos sinulla on useita tilaukseen liittyviä PIS-tiedostotunnisteita. Vaihda tai poista PII-liittymä tilauksesta tarvittaessa. 
 
-**Suositellut asia kirjat** 
+**Suositellut asiakirjat** 
 
-- [Azure-laskutus tietojen käytön hallinta](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Laskun tai käyttö tietojen lataaminen Azure Account Centeristä](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Tila uksen Akti voiminen uudelleen](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure-laskujen maksaminen](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Azuren laskutustietojen hallittava käyttö](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Laskun tai käyttötietojen lataaminen Azure-tilikeskuksesta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Tilauksen uudelleenaktivoiminen](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azuren maksaminen laskulla](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 

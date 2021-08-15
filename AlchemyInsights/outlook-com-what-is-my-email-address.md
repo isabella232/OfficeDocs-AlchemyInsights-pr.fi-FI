@@ -1,5 +1,5 @@
 ---
-title: Mikä on oma Outlook.com-Sähkö posti osoitteeni?
+title: Mikä on Outlook.com-sähköpostiosoitteeni?
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 0282d565d4fb05f22f41e227d280ddeee23e4b8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb714428b29cde80ac379d59a1ca4a46f07cfbebbdc459c73ef100b7a17a72b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992000"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Oman Outlook.com-Sähkö posti osoitteen tarkasteleminen
+# <a name="see-your-own-outlookcom-email-address"></a>Oman sähköpostiosoitteen Outlook.com
 
-Jos haluat nähdä sähkö postin lähetyksessä käyttämäsi oletusarvoisen Sähkö posti osoitteen, siirry sähkö postin [synkronointi asetuksiin](https://outlook.live.com/mail/options/mail/accounts) ja Katso kohdassa **Määritä oletus osoite**.
+Jos haluat nähdä oletussähköpostiosoitteen, jonka käytät sähköpostin lähettämiseen, siirry [kohtaan](https://outlook.live.com/mail/options/mail/accounts) Sähköpostin synkronoinnin asetukset ja katso Aseta **oletusosoite**.
 
-Jos olet liittänyt toisen Sähkö posti tilin Outlook.com-tiliisi, voit halutessasi lähettää sähkö postia kyseisestä osoitteesta.
+Jos olet muodostanut yhteyden toiseen sähköpostitiliin Outlook.com-tiliisi, voit halutessasi lähettää sähköpostia tästä osoitteesta.
 
-1. Valitse kolme pistettä <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- Kirjoita teksti-ikkunan alareunaan ja valitse **Näytä kohteesta**   , jos haluat nähdä Lähettäjä-rivin.
-2.  **Valitse haluamasi**   Sähkö posti osoite-kohdan yläpuolella.
+1. Valitse kolme painiketta <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ kirjoitusikkunan alareunassa ja valitse Näytä kohteesta, **niin** näet Mistä-rivin.
+2. Valitse Vastaanottaja-rivin yläpuolella **Mistä** ja valitse, mitä sähköpostiosoitetta haluat käyttää.
 
-Lisä tietoja [sähkö postin lähettämisestä eri osoitteesta Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja sähköpostin [lähettämisestä eri osoitteesta Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

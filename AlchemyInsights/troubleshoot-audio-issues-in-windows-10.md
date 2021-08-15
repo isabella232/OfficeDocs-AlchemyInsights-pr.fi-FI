@@ -1,5 +1,5 @@
 ---
-title: Ääniongelmien vianmääritys Windows 10:ssä
+title: Ääniongelmien vianmääritys Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039423"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Ääniongelmien vianmääritys Windows 10:ssä
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Ääniongelmien vianmääritys Windows 10
 
 **Äänen vianmäärityksen käynnistäminen**
 
@@ -55,12 +55,12 @@ Voit varmistaa, että ohjaimet ovat ajan tasalla:
 
 2. Valitse **Ääni-, video- ja peliohjaimet**-kohdassa äänikortti, avaa se, valitse **Ohjain-välilehti** ja valitse **Päivitä ohjain**.
 
-**Huomautus:** Jos Windows ei löydä uutta ohjainta, etsi ohjain laitteen valmistajan sivustosta ja noudata ohjeita.
+**Huomautus:** Windows ei löydä uutta ohjainta, etsi ohjain laitteen valmistajan sivustosta ja noudata ohjeita.
 
 **Asenna ohjain uudelleen**
 
 Jos et voi päivittää laitehallinnan kautta tai etsiä uutta ohjainta valmistajan sivustosta, toimi seuraavasti:
 
-1. Napsauta Laitehallinnassa ääniohjainta hiiren kakkospainikkeella (tai paina sitä pitkään) ja valitse **Poista asennus**. Käynnistä laite uudelleen, niin Windows yrittää asentaa ohjaimen uudelleen.
+1. Napsauta Laitehallinnassa ääniohjainta hiiren kakkospainikkeella (tai paina sitä pitkään) ja valitse **Poista asennus**. Käynnistä laite uudelleen Windows laite yrittää asentaa ohjaimen uudelleen.
 
-2. Jos ohjaimen uudelleenasentaminen ei toimi, kokeile Windowsin mukana toimitetaan yleistä ääniohjainta. Napsauta laitehallinnassa ääniohjainta hiiren kakkospainikkeella (tai paina sitä pitkään) > Päivitä ohjainohjelmisto Selaa tietokoneeni ohjainohjelmistoa Valitsen laiteohjaimen tietokoneen luettelosta , valitse  >    >   **Teräväpiirtoäänilaite**, valitse **Seuraava** ja asenna se noudattamalla ohjeita.
+2. Jos ohjaimen uudelleenasentaminen ei toimi, kokeile yleisen ääniohjaimen Windows. Napsauta laitehallinnassa ääniohjainta hiiren kakkospainikkeella (tai paina sitä pitkään) > Päivitä ohjainohjelmisto Selaa tietokoneeni ohjainohjelmistoa Valitsen laiteohjaimen tietokoneen luettelosta , valitse  >    >   **Teräväpiirtoäänilaite**, valitse **Seuraava** ja asenna se noudattamalla ohjeita.

@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023519"
 ---
 # <a name="turn-on-ndi-technology"></a>NDI-tekniikan käyttöönottaaminen
 
-NDI-tekniikka edellyttää, että käyttäjä ottaa käyttöön kaksi vaihetta:
+NDI-tekniikka edellyttää, että käyttäjällä on kaksi vaihetta:
 
-1. Vuokraajan järjestelmänvalvojan on otettava AllowNDIStreaming-ominaisuus käyttöön CsTeamsMeetingPolicyssa.
+1. Vuokraajan järjestelmänvalvojan on otettava käyttöön AllowNDIStreaming-ominaisuus CsTeamsMeetingPolicyssa.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Kun tämä muutos on täytetty, käyttäjän on otettava NDI®-tekniikka käyttöön tietyssä asiakasohjelmassa **Asetukset-> käyttöoikeudet -kohdassa.**
+2. Kun tämä muutos on täytetty, käyttäjän on otettava NDI®-tekniikka käyttöön tietyssä asiakasohjelmassa **Asetukset > käyttöoikeudet.**
 
-Lisätietoja on kohdassa [NDI-tekniikan käyttö Microsoft Teamsissa.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)
+Lisätietoja on kohdassa [NDI-tekniikan käyttö Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)

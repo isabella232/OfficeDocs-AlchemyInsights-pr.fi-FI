@@ -1,5 +1,5 @@
 ---
-title: Suosikkien tuominen muista selaimista kuin Internet Explorerista, Google Chromesta tai Mozilla Firefoxista
+title: Suosikkien tuominen selaimesta, joka ei ole Internet Explorer, Google Chrome tai Mozilla Firefox
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014933"
 ---
-# <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Suosikkien tuominen muista selaimista kuin Internet Explorerista, Google Chromesta tai Mozilla Firefoxista
+# <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Suosikkien tuominen selaimesta, joka ei ole Internet Explorer, Google Chrome tai Mozilla Firefox
 
-1. Tallenna suosikit HTML-tiedostoon selaimessa, josta haluat tuoda suosikit.
+1. Tallenna suosikit HTML-tiedostoon selaimessa, josta haluat tuoda suosikkisi.
 
-1. Avaa Microsoft Edge ja valitse sitten **Asetukset ja muuta...**  >  **Asetukset**  >  **Tuo selaimen tiedot.**
+1. Avaa Microsoft Edge ja valitse sitten **Asetukset ja muuta ...**  >  **Asetukset**  >  **Tuo selaimen tiedot.**
 
-1. Valitse Tuo **kohteesta -valikosta** **Suosikit** tai kirjanmerkit HTML-tiedosto Valitse tiedosto ja valitse  >  sitten suosikkeihin haluamasi HTML-tiedosto.
+1. Valitse Tuo **kohteesta -valikosta** Suosikit tai **kirjanmerkit HTML-tiedosto** Valitse tiedosto ja valitse sitten  >  SUOSIKIT-tiedosto, joka sisältää suosikkejasi.
 
-1. Kaikki **on valmista!** -valintaikkunassa **Valmis.**
+1. Kaikki **on valmista!** -valintaikkunassa **Valmis**.
 
-Tuotujen suosikkien pitäisi olla kansiossa, kuten Tuodut tai Muut suosikit, Suosikit-palkissa. Voit pitää ne missä ne ovat tai siirtää ne toiseen kansioon.
+Tuotujen suosikkien pitäisi olla Suosikit-palkkiin tuodussa kansiossa tai Muut suosikit -kansiossa. Voit pitää ne missä ne ovat tai siirtää ne toiseen kansioon.

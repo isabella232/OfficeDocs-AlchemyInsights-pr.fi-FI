@@ -1,5 +1,5 @@
 ---
-title: Haun sanastojen hallinta SharePoint Onlinessa
+title: Hakusanasarjojen hallinta SharePoint Onlinessa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff6764bd770bbb74e857c6264cddceecee9c96c888bb983292398522f5e90a5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976610"
 ---
-# <a name="manage-search-dictionaries"></a>Haku sanastojen hallinta
+# <a name="manage-search-dictionaries"></a>Hakusanasten hallinta
 
-SharePoint Onlinen sanastoja on hallinnoitu SharePoint Onlinen termi kaupassa, joka sijaitsee uudessa SharePoint-hallinta keskuksessa. Lisä tietoja hakujen sanastojen lisäämisestä ja muokkaamisesta on Ohje aiheessa [haku sanastojen hallinta](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+online-SharePoint hakusanasteja hallitaan SharePoint online-termisäilössä, joka sijaitsee uudessa SharePoint hallintakeskuksessa. Lisätietoja haun sanastojen lisäämisen ja muokkaamisen oppaasta on kohdassa [Hakusanasarjojen hallinta.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)
   
-Jos et näe haku sanaston termi joukkoa, joka näkyy termi säilössä, odota 24 tuntia. Jos sanasto ei edelleenkään näy 24 tunnin kuluttua, kirjaudu tuki lipulla.
+Jos et näe hakusanastotermijoukkoa termisäilössä, odota 24 tuntia. Jos sanastoa ei näy 24 tunnin jälkeenkään, kirjaa tukipalvelupyynnön.
   
