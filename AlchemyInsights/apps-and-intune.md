@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 63b5c49522fc2fb7a1044b1f6779d55729c0b01e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f1e9f829645591f63bb73ea5ba10899ca84af7f78054bbf3c285cb1f24866ca3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969418"
 ---
 # <a name="apps-and-intune"></a>Sovellukset ja Intune
 
-Jos haluat yleiskatsauksen siitä, miten Intune voi auttaa hallitsemaan sovelluksia, aloita mikä  [on Microsoft Intune -sovelluksen hallinta?](https://docs.microsoft.com/mem/intune/apps/app-management).
+Saat yleiskatsauksen siitä, miten Intune voi auttaa hallitsemaan sovelluksia, Microsoft Intune [sovellusten hallinta?](https://docs.microsoft.com/mem/intune/apps/app-management).
 
 Lisätietoja sovellusten lataamiseen Intuneen ja niiden käyttöönotosta laitteissa on kohdassa  [Pika-aloitustoiminto: Asiakassovelluksen](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app)lisääminen ja määrittäminen.
 
