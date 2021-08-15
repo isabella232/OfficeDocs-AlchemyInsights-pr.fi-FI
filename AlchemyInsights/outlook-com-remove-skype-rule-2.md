@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Poista Skype
+title: Outlook.com-Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
-ms.openlocfilehash: a8a85a8b65c381b26a97b4460fa5b8d4081f883e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19b6a105da74ef9dd6b1265ebfdea6ddd830b35fbfc0d52f39b05cf23498fc69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961948"
 ---
-# <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Miten poistan Skypen käytöstä Outlook.com?
+# <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Miten voin poistaa Skype käytöstä Outlook.comissa?
 
-Et voi poistaa Skypeä Outlook.com, mutta voit poistaa ilmoitukset käytöstä:
+Et voi poistaa Skype osoitteesta Outlook.com, mutta voit poistaa ilmoitukset käytöstä:
 
 1. Avaa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Asetukset**  >  **Yleiset asetukset**  >  **[Ilmoitukset](https://outlook.live.com/mail/options/general/notifications)**. 
-2. Poista **keskustelu-ja puhelu**-kohdissa käytöstä ne ilmoitus tyypit, joita et enää halua.
+ **Asetukset**  >  **Yleiset**  >  **[Ilmoitukset](https://outlook.live.com/mail/options/general/notifications)**. 
+2. Poista **Keskustelu ja puhelu -kohdassa** käytöstä ilmoitukset, jotka eivät enää ole halua.
 
-Lisä tietoja Skypen käytöstä on artikkelissa [Juttele perheen ja ystävien kanssa skypessä Outlook.com](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja tietojen käyttämisestä on Skype perheen ja ystävien [kanssa Skype Outlook.comissa.](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy)
