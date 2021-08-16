@@ -1,5 +1,5 @@
 ---
-title: Lisä tietoja progressiivisista verkko sovelluksista (PWAs) Microsoft Edgessä (kromi)
+title: Lisätietoja progressiivisista verkkosovelluksista (PWA) Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101443"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Lisä tietoja progressiivisista verkko sovelluksista (PWAs) Microsoft Edgessä (kromi)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Lisätietoja progressiivisista verkkosovelluksista (PWA) Microsoft Edge (Chromium)
 
-PWAs on verkko sivustoja, jotka on asteittain parannettu toimi, kuten alkuperäiset sovellukset niitä tukeviin ympäristöihin. PWAs yhdistää verkko-ja alkuperäisten sovellusten parhaat ominaisuudet.
+PwA ovat sivustoja, joita on parannettu asteittain toimimaan, kuten niiden alkuperäiset sovellukset ympäristöissä, jotka tukevat niitä. PWA yhdistää verkko- ja alkuperäissovellusten parhaat ominaisuudet.
 
-[Microsoft Edge (kromi)](https://go.microsoft.com/fwlink/?linkid=2135193) -versio perustuu verkko ympäristön näkö kulmasta standardeihin. Käyttäjät voivat asentaa sovelluksia suoraan selaimessa, eivätkä ne edellytä Microsoft Storen käyttöön perustuvaa käyttöönottoa tai rekisteröintiä. Desktop PWAs on yhteensopiva kaikissa ympäristöissä, joissa on saatavilla Microsoft Edge (kromi)-versio.
+Verkkoalustan näkökulmasta [PwA on Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) perustuvat standardeihin. Niiden avulla käyttäjät voivat asentaa sovelluksia suoraan selaimessa, ja he eivät edellytä Microsoft Store-pohjaista käyttöönottoa tai rekisteröintiä. PwA-työpöytäversioita tuetaan kaikissa ympäristöissa, joissa Microsoft Edge (Chromium) on saatavilla.

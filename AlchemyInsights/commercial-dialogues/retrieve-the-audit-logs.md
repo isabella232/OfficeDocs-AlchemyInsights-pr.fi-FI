@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 47b83d482a1deb6add5c6283d7e2e0f6035e2c13cf7e1cd78ffc4ff7c9ffc85b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033995"
 ---
 # <a name="retrieve-the-audit-logs"></a>Valvontalokien noutaminen
 
 Kun avaat valvontalokin ensimmäisen kerran, se on tyhjä. Sinun on tehtävä haku, jotta näet, mitä siinä on. Voit tehdä yleishaun kaikista toiminnoista näin:
 
-1. Siirry valvontalokin [hakusivulle](https://protection.office.com/#/unifiedauditlog) (tai siirry hallintakeskuksen   >  **tietoturva- & yhteensopivuuskeskuksen**  >  **hakuun &**  >  **valvontalokihakuun).**
-1. Hyväksy **Toiminnot-ruudussa** oletusasetus **Näytä kaikkien toimintojen tulokset.**
-1. Määritä päivämääräalue ja hyväksy  Käyttäjät-ruudussa oletusarvo, joka palauttaa kaikkien käyttäjien tulokset, tai valitse sen käyttäjän käyttäjänimi, jonka haluat tutkia.
-1. Valitse **Hae.** Toiminnot näkyvät **Tulokset-kohdassa.**
-1. Jos haluat tarkastella tietoja, napsauta aktiviteettia ja valitse **sitten Lisätietoja.** Näet lisätietoja, kuten Asiakkaan, toiminnon suorittaneet käyttäjät jne.
+1. Siirry  [Valvontalokihaku-sivulle](https://protection.office.com/#/unifiedauditlog) (tai siirry hallintakeskuksen tietoturva-  >  **&-hakuun**  >  **&**  >  **valvontalokihaku**).
+1. Hyväksy **Toiminnot-ruudussa** oletusarvo Näytä **kaikkien toimintojen tulokset**.
+1. Määritä päivämääräalue ja hyväksy **Käyttäjät-ruudussa** oletusarvo, joka palauttaa kaikkien käyttäjien tulokset, tai valitse tutkittavan käyttäjän käyttäjänimi.
+1. Valitse **Hae**. Toiminnot näkyvät **Tulokset-kohdassa.**
+1. Jos haluat tarkastella tietoja, napsauta aktiviteettia ja valitse **sitten Lisätietoja**. Näet lisätietoja, kuten asiakkaan tai toiminnon suorittavien käyttäjien tiedot.
