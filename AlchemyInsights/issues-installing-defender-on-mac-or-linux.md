@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 39f180852fd0438597fa1ce665b2703fbc7b1aa4
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 6646ca4792ac4d9fb8bfb7433d53ecf4aeba8da0aca797225c16c02b28499889
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013241"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Ongelmia Microsoft Defenderin asentamisessa Mac- tai Linux-tietokoneeseen
 
 **Mac**
 
-- Varmista, että järjestelmävaatimukset täyttyvät ennen Microsoft Defender ATP for Macin asentamista. Lisätietoja on kohdassa [Mac-tietokoneen Microsoft Defender ATP asennus.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
+- Varmista, että järjestelmävaatimukset täyttyvät, ennen kuin asennat Microsoft Defender ATP for Macin. Lisätietoja on kohdassa [Microsoft Defender ATP for Macin asentaminen.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
 - Tarkista tiedoston tiedot: "/Kirjasto/Lokit/Microsoft/mdatp/install.log".
 
 **Linux**
 
-- Varmista, että järjestelmävaatimukset täyttyvät, ennen kuin asennat Microsoft Defender ATP Linuxille. Lisätietoja on kohdassa [Linux-MDATP asentaminen.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements) 
-- Jos haluat tarkistaa, MDATP on käynnissä, katso asennus [epäonnistui.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
+- Varmista, että järjestelmävaatimukset täyttyvät, ennen kuin asennat Microsoft Defender ATP for Linuxin. Lisätietoja on kohdassa [MDATP:n asentaminen Linuxille.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements) 
+- Jos haluat varmistaa, että MDATP-palvelu on käynnissä, katso Asennus [epäonnistui.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
     Tietoja vianmäärityksestä ja ongelmien ratkaisemisesta, jos palvelu ei ole käynnissä, on kohdassa [Mdatp-palvelun vianmäärityksen vaiheet.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
 - Ohjeet asiakkaan määrityksen tarkistamiseen, tuotteen kuntoa todentaen ja EICAR-tekstitiedoston tunnistustestin suorittamiseen ovat kohdassa [Asiakasmääritys.](/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)  
 

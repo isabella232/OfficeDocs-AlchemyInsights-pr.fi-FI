@@ -1,5 +1,5 @@
 ---
-title: Ongelmia Exchange Server -päivitysten asentamisessa
+title: Ongelmia asennettaessa Exchange Server päivityksiä
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013025"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Ongelmia Exchange Server -päivitysten asentamisessa
+# <a name="issues-when-installing-exchange-server-updates"></a>Ongelmia asennettaessa Exchange Server päivityksiä
 
-Jos haluat päivittää Exchange Serverin uusimpaan cumulative update (CU) -päivitykseen, voit saada yksityiskohtaiset ohjeet, jotka päivittyvät nykyisestä cu:sta [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) kohdeyksiköksi.
+Jos sinun on päivitettävä uusimpaan kumulatiiviseen päivitykseen (CU) Exchange Server, voit saada yksityiskohtaiset ohjeet, joiden avulla voit päivittää nykyisestä cu:sta [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) kohdeyksiköksi.
 
-Jos Exchange Server -päivitysten asentamisen aikana tai sen jälkeen ilmenee virheitä, tutustu artikkelin Exchangen päivittäminen uusimpaan kumulatiivisen päivityksen [käytännöt -osaan.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) On erittäin tärkeää asentaa suojauspäivitykset järjestelmänvalvojan oikeuksin asennetun CMD-kehotteen avulla (jos päivityksiä ei ole asennettu Microsoft Updaten kautta).
+Jos päivitysten asentamisen aikana tai Exchange Server jälkeen ilmenee virheitä, katso artikkelin Päivitys uusimpaan kumulatiivisen päivityksen Exchange parhaiden käytäntöjen [osioon.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) On erittäin tärkeää asentaa suojauspäivitykset järjestelmänvalvojan oikeuksin asennetun CMD-kehotteen avulla (jos päivityksiä ei ole asennettu Microsoft Updaten kautta).
 
-Jos saat virheilmoituksia suojauspäivityksiä asennettaessa tai päivityksen asentamisen jälkeen, katso artikkelia Exchangen kumulatiivisten ja suojauspäivitysten korjaaminen [epäonnistunneita asennuksia.](https://aka.ms/exupdatefaq)
+Jos suojauspäivityksiä asennettaessa tai päivityksen asentamisen jälkeen ilmenee virheitä, katso artikkelia Kumulatiivisten ja suojauspäivitysten [kumulatiivisten Exchange epäonnistuneet asennukset.](https://aka.ms/exupdatefaq)
