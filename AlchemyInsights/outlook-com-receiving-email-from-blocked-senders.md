@@ -1,5 +1,5 @@
 ---
-title: Estettyjen lähettäjien sähkö postien vastaanottaminen Outlook.com
+title: Sähköpostiviestien vastaanottaminen estetyt lähettäjät Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,21 +14,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cf6ab817a49a058635eee1721f4605f29a01df088b6400d8c90f5137efd30c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063841"
 ---
-# <a name="receiving-email-from-blocked-senders"></a>Estettyjen lähettäjien sähkö postien vastaanottaminen
+# <a name="receiving-email-from-blocked-senders"></a>Sähköpostiviestien vastaanottaminen estetyille lähettäjille
 
-Jos torjuttujen lähettäjien Sähkö posti viestit näkyvät edelleen Outlook.com Saapuneet-kansiossa, Lähettäjä saattaa piilottaa oikean Sähkö posti osoitteensa. Lähettäjän oikean Sähkö posti osoitteen tarkistaminen:
+Jos estetyltä lähettäjältä peräisin oleva sähköpostiviesti näkyy edelleen Outlook.comin Saapuneet-kansiossa, lähettäjä saattaa piilottaa todellisen sähköpostiosoitteensa. Lähettäjän todellisen sähköpostiosoitteen tarkastaminen:
   
-1. Valitse kolme pistettä <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- viesti-ikkunan yläosassa ja valitse **Näytä viestin lähde**.
-2. Vieritä **viestin lähde** -ikkunassa alaspäin, kunnes löydät **Lähettäjä** -kentän.
-3. Korosta Sähkö posti osoite, jonka \< \> haluat **kopioida** , ja napsauta sitä hiiren kakkos painikkeella
-4. Käytä osoitetta, jonka kopioit lähettäjän estääksesi. Lisä tietoja lähettäjien estämisestä on artikkelissa [sähkö postin merkitseminen roska postiksi tai torjuttujen lähettäjien Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. Valitse kolme painiketta <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ viesti-ikkunan yläreunassa ja valitse **Näytä viestin lähde**.
+2. Vieritä **Viestin lähde -ikkunassa** alaspäin, kunnes löydät **Mistä-kentän.**
+3. Korosta sähköpostiosoite, joka on \< \> kopioitaessa ja napsauta sitä hiiren **kakkospainikkeella**
+4. Voit estää lähettäjän käyttämällä kopioituta osoitetta. Lisätietoja lähettäjien estämisestä on kohdassa Sähköpostiviestien [merkitseminen roskapostiksi tai lähettäjien estäminen Outlook.comissa.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Lisä tietoja on Ohje aiheessa [estettyjen lähettäjien sähkö postien vastaanottaminen Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on kohdassa Sähköpostiviestien [vastaanottaminen estetyille lähettäjille Outlook.comissa.](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)

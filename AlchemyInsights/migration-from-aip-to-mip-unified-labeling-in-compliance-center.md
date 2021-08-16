@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000353"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Siirtyminen AIP:stä MIP:ksi tai yhdistetyksi osoitetarrojen siirroksi yhteensopivuuskeskuksessa
 
@@ -25,11 +25,11 @@ Jos haluat siirtyä AIP-selitteet yhdistettyyn osoitetarraan tietoturva- ja yhte
 
 **Suojauksen aktivoiminen Azure-portaalista**
 
-1. Jos et ole vielä tehnyt niin, avaa uusi selainikkuna ja kirjaudu [sisään Azure-portaaliin.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Siirry **Azure Information Protection -teriin.** Valitse esimerkiksi keskusvalikossa Kaikki palvelut **ja ala** kirjoittaa Tiedot Suodatin-ruutuun.  Valitse **Azure Information Protection**. Jos et ole ennen käynyt Azure Information Protection -osaa, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) katso ohjeet tämän terien lisäämiseksi portaaliin kertakäyttöisillä lisävaiheilla. Jotta voit avata Azure Information Protection -laikan, sinulla on oltava [joko Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) -palvelupaketti tai Office 365 -palvelupaketti, joka sisältää oikeuksien hallinnan. Jos sinulla on jokin näistä tilauksia, mutta näet viestin, jonka mukaan kelvollista tilausta ei löydy, ota yhteyttä [Microsoft-tukeen](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) tai käytä vakiotukikanaviasi.
+1. Jos et ole vielä tehnyt niin, avaa uusi selainikkuna ja kirjaudu [sisään Azure-portaaliin.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Siirry **Azure Information Protection -teriin.** Valitse esimerkiksi keskusvalikossa Kaikki palvelut **ja ala** kirjoittaa Tiedot Suodatin-ruutuun.  Valitse **Azure Information Protection**. Jos et ole ennen käynyt Azure Information Protection -osaa, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) katso ohjeet tämän terien lisäämiseksi portaaliin kertakäyttöisillä lisävaiheilla. Jotta voit avata Azure Information Protection -laikan, sinulla on oltava [joko Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) tai Office 365, joka sisältää oikeuksien hallinnan. Jos sinulla on jokin näistä tilauksia, mutta näet viestin, jonka mukaan kelvollista tilausta ei löydy, ota yhteyttä [Microsoft-tukeen](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) tai käytä vakiotukikanaviasi.
 
 2. Etsi **Hallinta-valikkovaihtoehdot** ja valitse **Suojausaktivointi**. Valitse **Aktivoi** ja vahvista sitten toiminto. Kun aktivointi on valmis, tietopalkissa näkyy teksti Aktivointi **suoritettu.**
 
-**Azure Information Protection -tunnisteiden siirtäminen Office 365:n & yhteensopivuuskeskukseen**
+**Azure Information Protection -tunnisteiden siirtäminen Office 365 tietoturva- & yhteensopivuuskeskukseen**
 
 1. Varmista, että olet kirjautunut sisään käyttäjänä yleisenä järjestelmänvalvojana.
 

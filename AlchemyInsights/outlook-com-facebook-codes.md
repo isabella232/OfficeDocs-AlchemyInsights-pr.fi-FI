@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063949"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ei vastaanota Facebook-koodeja käyttämällä Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Facebook-koodien vastaanottaminen ei Outlook.com
 
-Jos pyysit uuden Sala sanan Facebookista, mutta et saanut Sala sanan vaihto viestiä:
+Jos pyysit uutta salasanaa Facebookista, mutta et saanut salasanan palautussähköpostiasi:
 
-- Tarkista [roska posti kansiosi](https://outlook.live.com/mail/junkemail).
-- Yritä [palauttaa Facebook-Sala sanasi uudelleen](https://aka.ms/facebook-password-reset).
+- Tarkista [roskapostikansio.](https://outlook.live.com/mail/junkemail)
+- Yritä palauttaa [Facebook-salasanasi uudelleen.](https://aka.ms/facebook-password-reset)
 
-Jos et voi vaihtaa Sala sanaasi, koska et voi käyttää tililläsi olevaa Sähkö posti osoitetta tai matka Puhelin numeroa, kokeile [Facebookin Sala sanan palautus vihjeitä](https://aka.ms/facebook-password-help).
+Jos et voi vaihtaa salasanaasi, koska et voi käyttää tilisi sähköpostiosoitetta tai matkapuhelinnumeroa, kokeile [Facebookin](https://aka.ms/facebook-password-help)salasanan Vinkit.
