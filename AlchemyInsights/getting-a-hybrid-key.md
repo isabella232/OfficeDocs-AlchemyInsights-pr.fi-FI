@@ -1,5 +1,5 @@
 ---
-title: Yhdistelmä avaimen hankkiminen
+title: Yhdistelmäavaimen saaminen
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056523"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Exchange-yhdistelmä avaimen hankkiminen
+# <a name="getting-an-exchange-hybrid-key"></a>Yhdistelmäavaimen Exchange saaminen
 
-Jos haluat yhdistää paikallisen organisaation Exchange Onlineen Microsoft 365-sovelluksessa, sinun on määritettävä vähintään yksi Exchange-palvelin paikallisessa organisaatiossa. Tätä palvelinta käytetään yhdistelmä ympäristön luomiseen, joka yhdistää paikallisen Exchange-organisaation Exchange Onlineen. Jos haluat saada yhdistelmä avaimen tälle palvelimelle, noudata [ohjatun Exchange-yhdistelmä tuote avaimen jakaminen-toiminnon](https://aka.ms/hybridkey)ohjeita.
+Jos haluat yhdistää paikallisen organisaation Exchange Online Microsoft 365, sinun on määritettävä vähintään yksi Exchange-palvelin paikalliseen organisaatioosi. Tätä palvelinta käytetään yhdistelmäympäristön luomiseen, joka yhdistää paikallisen organisaation Exchange ja Exchange Online. Saat tämän palvelimen yhdistelmäavaimen noudattamalla ohjeita, jotka ovat Exchange [-yhdistelmätuoteavaimen ohjatussa jakelutoiminnossa.](https://aka.ms/hybridkey)
   

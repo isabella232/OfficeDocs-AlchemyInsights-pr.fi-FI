@@ -1,5 +1,5 @@
 ---
-title: Live-tekstitysten hallinta oppi laitoksille
+title: Opetusalan organisaatioiden live-tekstitysten hallinta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066689"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Live-tekstitysten hallinta oppi laitoksille
+# <a name="managing-live-captions-for-education-organizations"></a>Opetusalan organisaatioiden live-tekstitysten hallinta
 
-Suosittelemme, että oppilaitos organisaatioiden järjestelmänvalvojat harkitsevat opiskelijoiden ja kouluttajien turvallisuus-ja koulutus käytäntöjen käyttöä. Lisätietoja:   
+Suosittelemme opetusalan organisaatioiden järjestelmänvalvojia harkitsemaan käytäntöpakettien käyttämisen opiskelijoiden ja opettajien turvallisuus- ja kouluttajille. Lisätietoja:   
 
-- [Microsoft teamsin käytäntöjen paketit](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Käytäntöpaketit Microsoft Teams.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
     
-- [Käytännöt, jotka pitäisi määrittää opiskelijan turvallisuudelle](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Käytännöt, jotka tulisi määrittää opiskelijan turvallisuussyille.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Opettajille määritettyinä olevat käytännöt](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Opettajalle annettavat käytännöt.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Jos haluat hallita vain Live-kuva tekstien ottamista käyttöön, Katso lisä tietoja artikkelista [Live-kuva tekstien ottaminen käyttöön](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Lisä tietoja on Ohje aiheessa [Kokous käytäntöjen hallinta tiimeissä](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Jos haluat hallita vain live-tekstityksen mahdollistamismahdollista, katso [Live-tekstityksen ottaminen käyttöön.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) Lisätietoja on kohdassa [Kokouskäytäntöjen hallinta Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

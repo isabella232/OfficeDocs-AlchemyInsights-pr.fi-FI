@@ -1,5 +1,5 @@
 ---
-title: DLP saattaa tarvita mukautetun tyypin
+title: DLP voi tarvita mukautettua tyyppiä
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -13,31 +13,31 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030791"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP saattaa tarvita mukautetun tyypin
+# <a name="dlp-might-need-a-custom-type"></a>DLP voi tarvita mukautettua tyyppiä
 
 **Tärkeää**: Näinä ennennäkemättöminä aikoina pyrimme varmistamaan, että SharePoint Online -ja OneDrive-palvelujen käytettävyys on hyvä. Lisätietoja on artikkelissa [SharePoint Onlinen tilapäiset ominaisuusmuutokset](https://aka.ms/ODSPAdjustments).
 
-**DLP saattaa edellyttää mukautettua tieto tyyppiä**
+**DLP saattaa edellyttää mukautettua tietotyyppiä**
 
-Tietojen menetyksen estämisen (DLP) käytäntöjen avulla voit tunnistaa ja suojata organisaatiosi luottamukselliset tiedot. Joissakin tilanteissa sinun on ehkä luotava oma **Mukautettu** luottamukselliset tiedot-tyyppi, jotta voit suojata organisaatiosi tiedot.
+Tietojen menetyksen estämisen (DLP) käytännön avulla voit tunnistaa ja suojata luottamuksellisia tietoja organisaatiossasi. Joissakin tilanteissa sinun on ehkä luotava  oma mukautettu luottamuksellisten tietojen tyyppi organisaatiosi tietojen suojaamiseksi.
 
-Organisaation on ehkä tunnistettava ja suojattava esimerkiksi työntekijä tunnukset tai muut tiedot jossain tietyssä organisaatiossa. Katso lisä tietoja seuraavista artikkeleista.
+Organisaatiosi on esimerkiksi ehkä tunnistettava ja suojattava työntekijöiden tunnukset tai muut tiedot tietyssä organisaatiosi muodossa. Jos näin on, katso lisätietoja seuraavista artikkeleista.
   
- **Sisäisen arkaluonteisen tieto tyypin mukauttaminen**
+ **Valmiin luottamuksellisen tietotyypin mukauttaminen**
   
-Jos sisäinen arkaluonteiset tieto tyypit vastaavat tarpeitasi vain muutamalla hienosäädön avulla, voit [mukauttaa valmista arkaluonteista tieto tyyppiä](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Voit esimerkiksi lisätä tai poistaa avain sanoja tai lisätä tai poistaa niitä tukevia todisteita, kuten päivä määrän tai osoitteen.
+Jos sisäinen luottamuksellisten tietojen tyyppi vastaa tarpeitasi muutamalla hienosäädöllä, voit mukauttaa sisäistä [luottamuksellista tietotyyppiä](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Voit esimerkiksi lisätä tai poistaa avainsanoja tai lisätä tai poistaa tukiaineistoa, kuten päivämäärän tai osoitteen.
   
- **Mukautetun luottamuksellisen tieto tyypin luominen**
+ **Mukautetun luottamuksellisen tietotyypin luominen**
   
-Jos sinun on tunnistettava ja suojattava erityyppiset luottamukselliset tiedot kokonaan, voit [luoda mukautetun arkaluonteisen tieto tyypin](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) tieto turva & yhteensopivuus keskuksen käyttö liittymässä.
+Jos sinun on kuitenkin tunnistettava ja suojattava erityyppisiä [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) luottamuksellisia tietoja, voit luoda mukautetun luottamuksellisen tietotyypin Tietoturva- ja & -keskuksen käyttöliittymässä.
   
-**Mukautetun luottamuksellisen tieto tyypin luominen tieto turva & yhteensopivuus keskus PowerShellin avulla**
+**Mukautetun luottamuksellisen tietotyypin luominen & yhteensopivuuskeskuksen PowerShellissä**
 
-Jos käyttö liittymässä ei ole kaikkia tarvitsemasi vaihto ehtoja, voit [luoda mukautetun arkaluonteisen tieto tyypin tieto turva & yhteensopivuus keskus PowerShellin](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)avulla. Kun aloitat XML-tiedoston avulla, voit käyttää kaikkia käytettävissä olevia vaihto ehtoja.
+Jos käyttöliittymässä ei ole kaikkia tarvitsemiasi asetuksia, voit luoda mukautetun luottamuksellisen tietotyypin Tietoturva- & [PowerShellissä.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) Kun aloitat XML-tiedostosta, voit käyttää kaikkia käytettävissä olevia vaihtoehtoja.

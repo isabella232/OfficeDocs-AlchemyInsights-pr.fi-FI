@@ -1,5 +1,5 @@
 ---
-title: Minulla on ongelmia sovelluksen välityspalvelimen agenttiyhdistimen kanssa
+title: Minulla on ongelmia sovelluksen välityspalvelimen yhdistimen kanssa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039711"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Minulla on ongelmia sovelluksen välityspalvelimen agenttiyhdistimen kanssa
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Minulla on ongelmia sovelluksen välityspalvelimen yhdistimen kanssa
 
-1. Microsoft Azure Active Directory -sovelluksen välityspalvelinyhdistin on sisäinen toimialuekomponentti, joka muodostaa lähtevien yhteyksien avulla yhteyden pilvessä olevan päätepisteen ja sisäisen toimialueen väliltä.
-1. Jos sinulla on ongelmia sovelluksen välityspalvelimen agenttiyhdistimen asentamisessa, tee vianmääritys [noudattamalla](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) seuraavia ohjeita.
-1. Jos käytät sovelluksen välityspalvelinpalvelua paikallisen verkkosovelluksen etäkäyttöön, mutta sinulla on ongelmia yhteyden muodostamisessa sovellukseen, käytä tätä artikkelia Azure Active Directory (Azure AD) -sovelluksen välityspalvelimen yhdistimien vianmääritykseen. [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
+1. Microsoft Azure Active Directory Sovelluksen välityspalvelin on sisäinen toimialuekomponentti, joka muodostaa lähtevien yhteyksien avulla yhteyden pilvestä käytettävissä olevan päätepisteen ja sisäisen toimialueen väliltä.
+1. Jos sinulla on ongelmia sovelluksen välityspalvelinagentin yhdistimen asentamisessa, [tee](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) vianmääritys seuraavasti.
+1. Jos käytät sovelluksen välityspalvelinpalvelua paikallisen verkkosovelluksen etäkäyttöön, mutta sinulla on ongelmia yhteyden muodostamisessa sovellukseen, tämän artikkelin avulla voit tehdä vianmäärityksen Azure Active Directory (Azure AD) -sovelluksen välityspalvelimen yhdistimiin. [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
