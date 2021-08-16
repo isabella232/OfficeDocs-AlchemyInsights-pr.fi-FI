@@ -1,5 +1,5 @@
 ---
-title: Tiedostojen ja kansioiden lataaminen OneDrivesta tai SharePointista
+title: Tiedostojen ja kansioiden lataaminen OneDrive SharePoint
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017381"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Tiedostojen ja kansioiden lataaminen OneDrivesta tai SharePointista
+# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Tiedostojen ja kansioiden lataaminen OneDrive SharePoint
 
-Voit ladata tiedostoja ja kansioita Microsoft OneDrivesta tai Microsoft 365:n tai SharePoint Server 2019:n SharePointista tietokoneeseen vain muutamalla napsautuksella. Lisätietoja on kohdassa Tiedostojen ja [kansioiden lataaminen OneDrivesta tai SharePointista.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+Voit ladata tiedostoja ja kansioita Microsoft OneDrive tai SharePoint Microsoft 365 SharePoint Server 2019 tietokoneesta vain muutamalla napsautuksella. Lisätietoja on kohdassa Tiedostojen [ja kansioiden lataaminen OneDrive SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)

@@ -1,5 +1,5 @@
 ---
-title: Asiakkaan todennus varmenteen käyttöönoton vian määritys
+title: Asiakastodennusvarmenteen käyttöönoton vianmääritys
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020801"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Asiakkaan todennus varmenteen käyttöönoton vian määritys
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Asiakastodennusvarmenteen käyttöönoton vianmääritys
 
-Intune NDES/SCEP-ja PKCS/PFX-asiakas sertifikaattien profiileja käytetään yleisesti yhdessä muiden profiilien kanssa, kuten WiFi, VPN ja Sähkö posti, jotta käyttäjät voivat todentaa yrityksen resurssit. Kun nämä profiili tyypit on linkitetty asiakas sertifikaatti profiiliin, ne määräytyvät kyseisen profiilin onnistuneen käyttöönoton mukaan.
+Intune NDES/SCEP- ja PKCS/PFX Client -varmenteiden profiileja käytetään yleisesti muiden profiilityyppien, kuten WiFi-, VPN- ja sähköpostiprofiilien, kanssa, jotta käyttäjät voivat todentaa tiedot yrityksen resursseihin. Kun nämä profiilityypit on linkitetty asiakasvarmenneprofiiliin, riippuu profiilin onnistuneesta käyttöönotosta.
 
-Alkuperäisen infrastruktuurin määrittäminen ja siihen liittyvät asiakas sertifikaatti profiilin määritykset vaativat usein vian määritystä. Vaiheittaiset ohjeet NDES-yhdistimen onnistuneeseen määrittämiseen ja vian määritys ohjeisiin varmenteen käyttöönottoon liittyvien ongelmien eristämiseksi on kohdassa: 
+Alkuinfrastruktuurimääritys ja siihen liittyvä asiakasvarmenneprofiilin määritys edellyttävät usein vianmääritystä. Vaiheittaiset ohjeet NDES-yhdistimen onnistuneeseen määritykseen ja vianmääritysohjeet varmenteen käyttöönottoongelmien eristämiseen ovat seuraavassa: 
 
-- [Infrastruktuurin määrittäminen tuke, jos haluat, että SCEP on Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Yleistä SP-varmenne profiilien vian määrityksestä Microsoft Intunella](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Infrastruktuurin määrittäminen SCEP:n tueksi Intunen avulla](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Yleistä SCEP-varmenneprofiilien vianmäärityksestä Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Käytä viitattua PowerShell-komento sarjoja määritysten vahvistamiseen. Lisä tietoja on kohdassa [Intune-varmenne liittimen tarkistus komento sarjat](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Käytä viitattuja PowerShell-komentosarjoja kokoonpanon vahvistamiseen. Lisätietoja on kohdassa [Intune-varmenteen yhdistimen vahvistuskomentosarjat.](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority)
 
   
 **Muita yleisiä ongelmia**
 
-**Kun yritän asentaa Intune-varmenne yhdistimen NDES Connector Server-palvelimeen, näyttöön tulee sanoma "varmenne pyynnön Sala sanaa ei voi vahvistaa. Sitä on ehkä jo käytetty. Hanki uusi sala sana, jotta voit lähettää pyynnön tällä pyynnöllä. "**  
+**Kun yritän asentaa Intune-varmenteen yhdistimen NDES-yhdistinpalvelimeen, näyttöön tulee sanoma "Varmennepyynnön salasanaa ei voida vahvistaa. Sitä on ehkä jo käytetty. Hanki uusi salasana tämän pyynnön lähettämistä varten."**  
 
-Tämä viesti tarkoittaa, että sinun on suoritettava varmenne liittimen asennus järjestelmänvalvojana.
+Tämä sanoma tarkoittaa, että varmenneyhdistimen asennus on suoritettava järjestelmänvalvojana.
 
-Joissain ympäristöissä palvelinten, joissa Intune-varmenne suoritetaan, tulee käyttää välitys palvelinta yhteyden muodostamiseen Intuneen, joten varmenne yhdistimen on käytettävä välitys palvelinta. Joissakin tapa uksissa NDES-yhdistin ohittaa määritetyt välitys palvelimen asetukset ja saattaa olla tarpeen määrittää välitys palvelimen asetukset, kun ne suoritetaan LocalSystem-tieto turva kontekstissa. 
+Joissakin ympäristöissä palvelimissa, joissa Intune-varmenne suoritetaan, on muodostettava yhteys Intuneen välityspalvelimen avulla, joten varmenteen yhdistimen on käytettävä välityspalvelinta. Joissakin tilanteissa NDES-yhdistin ohittaa määritetyt välityspalvelimen asetukset, ja välityspalvelimen asetukset on ehkä määritettävä, kun ne suoritetaan LocalSystemin suojauskontekstissa. 
  
-Ratkaisu on käyttää Internet Exploreria JÄRJESTELMÄNÄ ja määrittää välitys palvelimen IE:Ä. Kun Intune Connector-palvelu käynnistetään uudelleen, NDES-yhdistin muodostaa yhteyden Intuneen.
+Ratkaisuna on suorittaa Internet Explorer SYSTEM -palvelimeksi ja määrittää välityspalvelin IE:ssä. Intune-yhdistinpalvelun uudelleenkäynnistyksen jälkeen NDES-yhdistin muodostaa yhteyden Intuneen.
 
-**Käyttäjä laitteet eivät enää saa SCEP-varmenteita NDESIN kautta.**
+**Käyttäjälaitteet eivät enää saa SCEP-varmenteita NDES-palvelusta.**
 
-On mahdollista, että NDES-palvelimelle myönnetty asiakkaan todennus varmenne, joka on määritetty NDES Connector-asennuksen aikana, on vanhentunut tai puuttuu. Voit korjata ongelman seuraavasti: 
+On mahdollista, että NDES-palvelimelle myönnetty asiakkaan todennusvarmenne, joka on määritetty NDES-yhdistimen asennuksen aikana, on vanhentunut tai puuttuu. Ratkaiseminen: 
  
 1. Poista NDES-yhdistimen asennus.  
-2. Näiden tietojen avulla voit pyytää uutta asiakas todentamista tai palvelimen todennus varmennetta: 
+2. Näiden tietojen avulla voit pyytää uutta asiakkaan todennusta tai palvelimen todennusvarmennetta: 
  
-    - Aiheen nimi: CN = External täydellinen  
-    - Aihe Vaihtoehtoinen nimi (molemmat ovat pakollisia): DNS = External täydellinen, DNS = Internal täydellinen 
+    - Aiheen nimi: CN=external fqdn  
+    - Aiheen vaihtoehtoinen nimi (molemmat ovat pakollisia): DNS=external fqdn, DNS=internal fqdn 
  
-3. Asenna NDES-yhdistin uudelleen uuteen sertifikaattiin.
+3. Asenna NDES-yhdistin uudelleen uudella varmenteella.
