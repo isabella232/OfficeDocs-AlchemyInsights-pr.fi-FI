@@ -1,5 +1,5 @@
 ---
-title: Suorituskyky ongelmat-SharePoint tai OneDrive
+title: Suorituskykyongelmat SharePoint tai OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028433"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Sisäinen palvelin virhe siirryttäessä SharePointiin tai OneDrive-sivustoon
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Sisäisen palvelimen virhe Siirry SharePointiin tai OneDrive sivustoihin
 
-Käyttäjät saattavat saada 500 sisäisen palvelin virheen yrittäessään siirtyä SharePoint-tai OneDrive-sivustoihin. 
+Käyttäjät saattavat saada 500 sisäisen palvelimen virheilmoituksen, kun he yrittävät siirtyä SharePoint tai OneDrive sivustoihin. 
 
-Yritä tyhjentää selaimen väli muisti ennen sivustoon siirtymistä.
+Yritä tyhjentää selaimen välimuisti, ennen kuin siirryt sivustoon.
 
 
-1. Valitse Microsoft Edge-selaimessa lisää... > asetukset
+1. Valitse Microsoft Edge Lisää...> Asetukset
 
-2. Valitse Tyhjennä selaus tiedot-kohdassa Valitse, **mitä haluat tyhjentää**
+2. Valitse Tyhjennä selaustiedot -kohdassa **Valitse, mitä haluat poistaa**
 
-3. Valitse eväs teet ja tallennetut sivuston tiedot-valinta ruutu ja valitse **Tyhjennä**.
+3. Valitse Evästeet ja tallennetut verkkosivuston tiedot -valintaruutu ja valitse **Tyhjennä**.
 
-Huomautus: nämä vaiheet voivat vaihdella, kun käytät muita selaimia, kuten Firefoxia tai Chromea.
+Huomautus: Nämä vaiheet saattavat poiketa, kun käytät muita selaimia, kuten Firefoxia tai Chromea.
 
-Jos tämä ei ratkaise ongelmaa, voit tarkistaa, onko vuokra ajalla käytössä aktiivista kunnossapitoa, siirtymällä [viesti keskukseen](https://portal.office.com/adminportal/home#/MessageCenter).
+Jos tämä ei ratkaise ongelmaa, voit tarkistaa, onko vuokraajassasi olemassa aktiivista ylläpitoa siirtymällä [viestikeskukseen.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Varmista lopuksi, että vierailet [palvelun kunto](https://portal.office.com/adminportal/home#/servicehealth) -sivulla, jotta voit tarkistaa kaikki mahdollisesti tapahtuvat varoitukset ja häiriöt.
+Varmista lopuksi, että [käyt Palvelun kunto](https://portal.office.com/adminportal/home#/servicehealth) -sivulla ja tarkistat mahdollisesti ilmenevät tiedotteet ja tapaukset.
 

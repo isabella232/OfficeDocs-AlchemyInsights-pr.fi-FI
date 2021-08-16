@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045725"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Työpöydän taustan ja värien muuttaminen
 
-Jos haluat muuttaa väriasetusta, siirry **kohtaan**  >  **Aloitusasetukset** Mukauttaminen Värit ja valitse sitten oma värisi tai anna Windowsin ottaa  >    >  korostusväri taustastasi.
+Jos haluat muuttaa väriasetusta,   >  **siirry aloitusnäyttöön Asetukset** mukauttamisvärit ja valitse sitten oma värisi tai anna Windows käyttää korostusväriä  >    >  taustastasi.
 
-![Mukauta värejä Windowsissa.](media/windows-personalization-colors.png)
+![Mukauta värit Windows.](media/windows-personalization-colors.png)
 
-Jos haluat muuttaa työpöydän taustaa, siirry  >  **aloitusasetuksiin** Mukauttaminen Tausta ja valitse sitten  >    >  kuva, tasainen väri tai luo diaesitys kuvista. 
+Jos haluat muuttaa työpöydän taustaa, siirry  >  **aloitusnäyttöön Asetukset** Mukauttaminen Tausta ja valitse sitten  >    >  kuva, tasainen väri tai luo diaesitys kuvista. 
 
-![Muuta Windowsin työpöydän taustaa.](media/windows-desktop-background.png)
+![Muuta Windows työpöydän taustaa.](media/windows-desktop-background.png)
 
-Haluatko lisää työpöydän taustoja ja värejä? Voit [valita Microsoft Storesta](https://www.microsoft.com/store/collections/windowsthemes) kymmenittäin ilmaisia teemoja.
+Haluatko lisää työpöydän taustoja ja värejä? Siirry [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) ja valitse kymmenittäin ilmaisia teemoja.

@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994178"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Intune-käytännön ja -profiilien luominen
 
 Intunessa voit luoda käytäntöjä ja profiileja, jotka tekevät erilaisia asioita.
 
-- **Ilmoittautumisprofiilit:** Esimääritä laitteet käyttöympäristön mukaan, ota käyttöön käyttäjien affiniteetti, käytä monimenetelmäistä todentamista ja paljon muuta.
+- **Rekisteröintiprofiilit:** Esimääritä laitteet alustan mukaan, salli käyttäjien affiniteetti, käytä monimenetelmäistä todentamista ja paljon muuta.
 
-  [Mikä on laitteen rekisteröinti ja](https://docs.microsoft.com/intune/device-enrollment)luoda rekisteröintiprofiileja [Androidille,](https://docs.microsoft.com/intune/android-enroll) [iOS:lle,](https://docs.microsoft.com/intune/ios-enroll) [macOS:lle](https://docs.microsoft.com/intune/macos-enroll)ja [Windowsille,](https://docs.microsoft.com/intune/windows-enrollment-methods) ovat hyviä resursseja.
+  [Mikä on laitteen rekisteröinti ja](https://docs.microsoft.com/intune/device-enrollment)luoda rekisteröintiprofiileja [Androidille,](https://docs.microsoft.com/intune/android-enroll) [iOS:lle,](https://docs.microsoft.com/intune/ios-enroll) [macOS:lle](https://docs.microsoft.com/intune/macos-enroll) [ja Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) ovat hyviä resursseja.
 
 - **Yhteensopivuuskäytännöt:** Määritä säännöt ja asetukset, joita laitteiden on noudatettava, jotta ne ovat yhteensopivia. Yhteensopivuuskäytäntöjen avulla voit myös valvoa laitteita ja ilmoittaa käyttäjille yhteensopivuudesta.
 
-  Laitteen [yhteensopivuuskäytäntöjen käytön aloittaminen.](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **Ehdolliset käyttöoikeuskäytännöt:** Auttaa suojaamaan organisaation resursseja syötetyjen ehtojen mukaan. Esimerkiksi laitteissa, jotka eivät ole yhteensopivia, rajoita sähköpostin ja SharePointin käyttöä ehdollisen käyttöoikeuden avulla.
+  Aloita laitteen [yhteensopivuuskäytäntöjen käyttö.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Ehdolliset käyttöoikeuskäytännöt:** Auttaa suojaamaan organisaation resursseja syötetyista ehdoista riippuen. Esimerkiksi laitteissa, jotka eivät ole yhteensopivia, voit rajoittaa sähköpostin ja sähköpostin SharePoint.
 
-  [Ehdollinen käyttöoikeus ja](https://docs.microsoft.com/intune/conditional-access) [yleiset ehdollisen](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) käyttöoikeuden käyttötavat ovat hyviä resursseja, joilla pääset alkuun.
+  [Ehdollinen käyttöoikeus ja](https://docs.microsoft.com/intune/conditional-access) [ehdollisen käyttöoikeuden yleiset käyttötavat](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) ovat hyviä resursseja, joilla pääset alkuun.
 
 - **Määritysprofiilit:** Hallitse laitteiden ominaisuuksia ja asetuksia, kuten sähköpostiasetuksia, lisää WiFi-verkko, käytä sisäänrakennettuja malleja, hallitse iOS- ja macOS-laiteominaisuuksia ja paljon muuta.
 

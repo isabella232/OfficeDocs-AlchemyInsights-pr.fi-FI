@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006311"
 ---
 # <a name="about-audit-logs-retention-periods"></a>Tietoja valvontalokien säilytysjaksoista
 
-Valvontalokien säilytysaika määräytyy organisaatiosi Office 365 -tilauksen mukaan.
+Valvontalokien säilytysaika riippuu organisaatiosi Office 365 tilauksesta.
 
 - **Office 365 E3:** 90 päivää.
 - **Office 365 E5:** 365 päivää. Yhden vuoden säilytys on tällä hetkellä esikatselussa.
-- **E3- ja Office 365 Advanced Compliance -lisäosa:** 365 päivää. Yhden vuoden säilytys on tällä hetkellä esikatselussa.
-- Jos haluat rekisteröityä esiversio-ohjelmaan, pyydä Microsoftin tukipyyntöä ja sisällytä seuraava kuvaus siitä, mihin tarvitset apua: Pitkän aikavälin **Office 365:n valvontalokin yksityinen esikatselu.**
+- **E3 Office 365 Advanced Compliance lisäosa:** 365 päivää. Yhden vuoden säilytys on tällä hetkellä esikatselussa.
+- Jos haluat rekisteröityä esiversio-ohjelmaan, tiedostoon Microsoftin tukipyyntö ja sisällytä ohjeen kuvaus seuraavasti: Pitkän aikavälin **Office 365 valvontalokin yksityinen esikatselu.**
 > [!NOTE]
-> Säilytysaika perustuu käyttäjäkohtainen käyttöoikeus. Jos käyttäjällä organisaatiossasi on esimerkiksi E3-käyttöoikeus, käyttäjän toimintojen valvontatietueet säilytetään 90 päivän ajan. Jos eri käyttäjällä on E5-käyttöoikeus, hänen valvontatietueet säilytetään vuoden ajan.
+> Säilytysaika perustuu käyttäjäkohtainen käyttöoikeus. Jos esimerkiksi organisaation käyttäjällä on E3-käyttöoikeus, tämän käyttäjän toimintojen valvontatietueet säilytetään 90 päivän ajan. Jos käyttäjällä on E5-käyttöoikeus, hänen valvontatietueet säilytetään vuoden ajan.
 
-Lisätietoja on tämän usein kysytyissä [kysymyksissä.](https://go.microsoft.com/fwlink/?linkid=2115336)
+Lisätietoja on usein kysytyissä [kysymyksissä.](https://go.microsoft.com/fwlink/?linkid=2115336)

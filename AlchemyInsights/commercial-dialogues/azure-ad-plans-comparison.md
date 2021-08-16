@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045633"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory -palvelusuunnitelmien vertailu
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory vertailu
 
-Azure Active Directory on saatavilla neljässä versiossa: maksuttomat, Office 365 -sovellukset, Premium P1 ja Premium P2.
+Azure Active Directory on saatavilla neljässä versiossa: maksuttomat, Office 365 sovellukset, Premium P1 ja Premium P2.
 
-Maksuton versio sisältyy Azure-tilaukseen. Premium-versiot ovat käytettävissä Microsoft-edustajan, [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)-ohjelman ja pilviratkaisun tarjoajien ohjelmien [kautta.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+Maksuton versio sisältyy Azure-tilaukseen. Premium-versiot ovat saatavilla Microsoft-edustajasi, [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)-ohjelman ja pilviratkaisujen [palveluntarjoajien ohjelmien kautta.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Azure- ja Office 365 -tilaajat voivat myös ostaa Azure Active Directory Premium P1:n ja P2:n verkossa. Lisätietoja on Azure [Active Directoryn ominaisuuksissa ja hinnoittelussa.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Azure ja Office 365 tilaajat voivat myös ostaa Azure Active Directory Premium P1: n ja P2:n verkossa. Lisätietoja on kohdassa Azure Active Directory [ja hinnoittelu.](https://go.microsoft.com/fwlink/?linkid=2081447)

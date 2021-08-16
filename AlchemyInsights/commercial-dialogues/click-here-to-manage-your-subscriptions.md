@@ -1,5 +1,5 @@
 ---
-title: Hallitse tilauksiasi napsauttamalla tätä
+title: Hallitse tilauksia napsauttamalla tätä
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9ff59a49120c2f363710c5b3f63cd8aaaba9d3ca
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 67a9a8abdf4a4bd0b6fd302eeec593cc4babda58a81294042a4644eeb2a0b2aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968230"
 ---
-# <a name="click-here-to-manage-your-subscriptions"></a>Hallitse tilauksiasi napsauttamalla tätä
+# <a name="click-here-to-manage-your-subscriptions"></a>Hallitse tilauksia napsauttamalla tätä
 
-Jos haluat muuttaa maksutapaa, päivittää automaattisen uusimisen asetukset tai vaihtaa palvelupaketteja, voit [hallita tilauksia napsauttamalla tätä.](https://portal.office.com/AdminPortal/Home#/subscriptions)
+Jos haluat vaihtaa maksutapaa, päivittää automaattisen uusimisen asetukset tai vaihtaa palvelupaketteja, valitse Hallitse [tilauksiasi napsauttamalla tätä](https://portal.office.com/AdminPortal/Home#/subscriptions).

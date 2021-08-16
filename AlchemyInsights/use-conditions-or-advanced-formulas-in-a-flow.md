@@ -1,5 +1,5 @@
 ---
-title: Ehtojen tai tarkennetun kaavan käyttäminen työn kulussa
+title: Ehtojen tai lisäkaavojen käyttö työnkulussa
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: e025535333bb66f0adc52fc9849f015ddf301cb3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79f60fae01e3bc5dd72575ffe4e2b779b0474ffd1ea6d11d632365cd63c5bf81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990560"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Ehtojen tai tarkennetun kaavan käyttäminen työn kulussa
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Ehtojen tai lisäkaavojen käyttö työnkulussa
 
-Microsoft Flow'ssa voit mukauttaa työn kulkua niin, että se suorittaa tehtäviä vain, jos ehto on tosi. Lisä tietoja on kohdassa [ehdon lisääminen työn kulkuun](https://go.microsoft.com/fwlink/?linkid=872112).
+Voit Microsoft Flow työnkulun siten, että se suorittaa tehtäviä vain, jos ehto on tosi. Lisätietoja on kohdassa [Ehdon lisääminen työnkulkuun](https://go.microsoft.com/fwlink/?linkid=872112).
   
-Lisä tietoja kaavan luomisesta on kohdassa [Azure Logic-sovellusten työn kulun määritys kielen rakenne](https://aka.ms/logicexpressions).
+Jos haluat luoda lisäkaavan, katso [työnkulun määritelmän kielirakenne Azure-logiikkasovelluksia varten.](https://aka.ms/logicexpressions)
   
 
