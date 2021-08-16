@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974450"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027893"
 ---
 # <a name="issues-with-certificates"></a>Varmenteisiin liittyvät ongelmat
 
 Ohjeita varmenteisiin liittyvien ongelmien vianmääritykseen on seuraavissa artikkeleissa:
 
-- [Varmennepohjaisen todennuksen](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  käytön aloittaminen Azure Active Directoryssa – ohjeet varmennepohjaisen todennuksen määrittämiseen ja käyttöön Office 365 Enterprise-, Business-, Education- ja Us Government -palvelusuunnitelmien vuokralaisten käyttäjille.
+- [Varmennepohjaisen todennuksen](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) käytön aloittaminen Azure Active Directory – varmennepohjaisen todennuksen määritys- ja käyttövaiheet Office 365 Enterprise-, Business-, Education- ja Us Government -palvelupaketteja käyttäjille.
 
-- [Azure AD:n Certificate-Based todennusongelmien](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  vianmääritys – tietoja varmennepohjaisen todentamisen ongelmien vianmääritykseen.
+- [Azure AD Certificate-Based todennusongelmien vianmääritys](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – Tietoja varmennepohjaisen todentamisen ongelmien vianmäärityksestä.
 
-- Hallitse liitettyjen kertakirjautumisten varmenteita [Azure Active Directoryssa](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) – Yleisiä kysymyksiä ja tietoja varmenteista, jotka Azure Active Directory (Azure AD) luo organisaation ulkopuolisia kertakirjautumisia (SSO) varten ohjelmistolle palveluna (SaaS).
+- [Varmenteiden](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) hallinta liitetyn kertakirjautumisen Azure Active Directory – yleisiä kysymyksiä ja tietoja, jotka liittyvät Azure Active Directory (Azure AD) luomiin varmenteisiin, jotta ohjelmiston liitetty kertakirjautuminen (SSO) voidaan muodostaa palveluna (SaaS).
 
-- [Advanced certificate signing options in the SAML token for gallery apps in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  - Learn about Azure AD's three certificate-signing options.
+- [Lisävarmenteen allekirjoitusasetukset valikoimasovellusten SAML-tunnuksessa Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) – Lue lisää Azure AD:n kolmesta varmenteen allekirjoitusvaihtoehdosta.

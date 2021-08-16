@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036237"
 ---
 # <a name="assigning-groups-to-azure-ad-role"></a>Ryhmien määrittäminen Azure AD -rooliin
 
-Voit määrittää Azure AD -ryhmän, jonka myöntäjä on Azure AD:ssä Azure AD -rooliin, toimimalla seuraavasti:
+Jos haluat määrittää Azure AD -ryhmän, jonka myöntäjänä on Azure AD, Azure AD -rooliin, toimi seuraavasti:
 
-1. Uuden ryhmän luominen – Uuden ryhmän luominen:
+1. Luo uusi ryhmä – Luo uusi ryhmä:
 
-    a. Kirjaudu Azure AD -hallintakeskukseen järjestelmänvalvojan **tai** yleisen **järjestelmänvalvojan** käyttöoikeuksilla.
-    b. Valitse **Azure Active Directory > ryhmät > Kaikki ryhmät > uusi ryhmä**.
+    a. Kirjaudu Azure AD -hallintakeskukseen järjestelmänvalvojan **tai** yleisen **järjestelmänvalvojan käyttöoikeuksilla.**
+    b. Valitse **Azure Active Directory > ryhmät > Kaikki ryhmät -> Uusi ryhmä**.
     c. Luo ryhmä.
 
-2. Määritä ryhmälle rooli joko ryhmän luomisen tai sen luomisen jälkeen.
+2. Määritä ryhmälle rooli joko ryhmän luomisen aikana tai sen luomisen jälkeen.
 
     a. Jos haluat määrittää ryhmälle roolin ryhmän luomisen yhteydessä, voit määrittää ryhmälle **azure AD** -roolien vaihtopainikkeen ja luoda ryhmän.
-    b. Jos haluat määrittää roolin ryhmälle sen luomisen  jälkeen, siirry juuri luodun ryhmän Määritetyt roolit -välilehteen ja määritä rooli ryhmälle.  
+    b. Jos haluat määrittää ryhmälle roolin sen luomisen  jälkeen, siirry uuden luodun ryhmän Määritetyt roolit -välilehteen ja määritä ryhmälle rooli.  
 
 **Azure AD -rooliin määritetyn ryhmän jäsenyyden hallinta**
 
-Oletusarvoisesti vain järjestelmänvalvojat ja yleiset järjestelmänvalvojat voivat estää oikeuksien laajentamisen muokkaamalla rooliin määritetyn ryhmän jäsenyyttä. He voivat kuitenkin määrittää omistajalle tällaisen ryhmän ja delegoida tämän tehtävän.
+Oletusarvoisesti vain järjestelmänvalvojat ja yleiset järjestelmänvalvojat voivat estää oikeuksien laajentamisen muokkaamalla rooliin määritetyn ryhmän jäsenyyttä. He voivat kuitenkin määrittää omistajan tälle ryhmälle ja delegoida tämän tehtävän.
 
-Lisätietoja pilviryhmien määrittämisestä Azure AD -rooleille on kohdassa AD-roolien [määrittäminen pilviryhmälle.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Lisätietoja pilviryhmille määritettyjen roolien vianmäärityksestä on kohdassa [Pilviryhmille määritettyjen roolien vianmääritys.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
+Lisätietoja pilviryhmien määrittämisestä Azure AD -rooleille on kohdassa [AD-roolien määrittäminen pilviryhmälle.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Lisätietoja pilviryhmille määritettyjen roolien vianmäärityksestä on kohdassa [Pilviryhmille määritettyjen roolien vianmääritys.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 
