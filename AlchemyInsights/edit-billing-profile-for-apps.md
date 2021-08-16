@@ -1,5 +1,5 @@
 ---
-title: Sovellusten laskutus profiilin muokkaaminen
+title: Sovellusten laskutusprofiilin muokkaaminen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100831"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Sovellusten laskutus profiilin muokkaaminen
+# <a name="edit-billing-profile-for-apps"></a>Sovellusten laskutusprofiilin muokkaaminen
 
-**Laskutus profiilien muokkaaminen**
+**Muokkaa laskutusprofiileja**
 
-1. Siirry **laskutuslaskut**  >  **[& maksut](https://go.microsoft.com/fwlink/p/?linkid=848039)** -sivulle ja valitse **laskutus profiilit**.
+1. Siirry   >  **[Laskutuslaskut-& maksut -sivulle](https://go.microsoft.com/fwlink/p/?linkid=848039)** ja valitse **Laskutusprofiilit.**
 
-2. Valitse Laskutus profiilien luettelosta se laskutus profiili, jota haluat muokata.
+2. Valitse laskutusprofiilien luettelosta laskutusprofiili, jota haluat muokata.
 
-**Sovellusten laskutus profiilin muuttaminen**
+**Sovellusten laskutusprofiilin muuttaminen**
 
-1. Siirry **laskutus**  >  **[Omat tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054)** -sivulle ja valitse sitten **sovellukset** -väli lehti.
+1. Siirry Laskutus   >  **[tuotteesi -sivulle](https://go.microsoft.com/fwlink/p/?linkid=842054)** ja valitse **Sovellukset-välilehti.**
 
 2. Etsi ja valitse sovellus, jota haluat hallita.  
 
-3. Valitse **laskutus profiili**-kohdan vierestä **Muokkaa** ja valitse Laskutus profiili, jonka haluat liittää sovellukseen.
+3. Valitse **Laskutusprofiili-kohdan** **vieressä** Muokkaa ja valitse laskutusprofiili, jonka haluat liittää sovellukseen.

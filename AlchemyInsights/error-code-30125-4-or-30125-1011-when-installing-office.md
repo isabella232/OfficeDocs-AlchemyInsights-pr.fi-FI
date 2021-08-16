@@ -1,5 +1,5 @@
 ---
-title: Virhe koodi 30125-4 tai 30125-1011 asennettaessa Officea
+title: Virhekoodi 30125-4 tai 30125-1011 asennettaessa Office
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100687"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Virhe koodi 30125-4 tai 30125-1011 asennettaessa Officea
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Virhekoodi 30125-4 tai 30125-1011 asennettaessa Office
 
-Saatat nähdä tämän virheen, jos virustentorjuntaohjelma, palo muuri, välitys palvelimen asetukset tai yhteys estävät Officen asentamisen. Voit yrittää korjata ongelman seuraavilla tavoilla:
+Saatat nähdä tämän virheen, jos virustentorjuntaohjelmisto, palomuuri, välityspalvelimen asetukset tai yhteys estävät sinua asentamasta Office. Voit yrittää korjata ongelman joillakin ratkaisulla:
   
-- Käynnistä tieto kone uudelleen ja asenna Office uudelleen
+- Käynnistä tietokone uudelleen ja asenna Office
 
-- Officen asentaminen [offline-asennus ohjelman](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) avulla
+- Asenna Office [offline Office asennusohjelman avulla](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Välitys palvelimen asetusten poistaminen käytöstä tilapäisesti
+- Välityspalvelimen asetusten käytöstä väliaikaisesti pois käytöstä
 
 - Virustentorjuntaohjelman poistaminen käytöstä tilapäisesti
 
-- Palo muurin poistaminen käytöstä tilapäisesti
+- Palomuurin poistaminen käytöstä tilapäisesti
 
-Lisä tietoja on kohdassa [virhe koodi 30125-4 tai 30125-1011 asennettaessa Officea](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Lisätietoja on kohdassa [Virhekoodi 30125-4 tai 30125-1011 asennettaessa Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   
