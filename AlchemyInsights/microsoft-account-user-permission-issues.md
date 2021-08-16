@@ -1,5 +1,5 @@
 ---
-title: Ongelman vian määritys-käyttäjää ei löydy hakemistosta
+title: Vianmääritysongelma – käyttäjää ei löydy hakemistosta
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79429f8e9523ad6b08cd2cd2b19dd221bac797d00de142cbb18826b86fb5ae4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098167"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Ongelman vian määritys-käyttäjää ei löydy hakemistosta
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Vianmääritysongelma – käyttäjää ei löydy hakemistosta
 
-Jos käyttäjät saavat virhe ilmoituksen "käyttäjää ei löydy" hakemistosta, yritä uudelleen, kun ongelma tyyppi on käyttäjä, joka ei ole hakemistossa.
+Jos käyttäjät saavat hakemistosta virheilmoituksen "käyttäjää ei löydy", yritä uudelleen kohtaa, jossa Ongelman tyyppi on Käyttäjä ei ole hakemistossa.
 
-Voit suorittaa ongelman vian määrityksen suorittamalla seuraavat vaiheet.
+Voit suorittaa ongelman vianmäärityksen seuraavien vaiheiden avulla.
 
-- Varmista, että sähkö posti kutsun hyväksynyt tili on sama tili, jota käytetään kirjautumiseen myöhemmin. Varmista, että käyttäjä käyttää samaa tiliä, jotta voit hyväksyä kutsun ja kirja utua sivustoon. 
+- Varmista, että sähköpostikutsun hyväksynnyllä tilillä on sama tili, jota käytetään myöhemmin kirjautumaan sisään. Varmista, että käyttäjä hyväksyy kutsun ja kirjautuu sivustoon käyttämällä samaa tiliä. 
 
-Lisä tietoja on Ohje aiheessa Microsoft- [Tilin aliaksien hallinta </a> Microsoft 365-kirjautumisen hallintaa](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)varten. 
+Lisätietoja on kohdassa [Microsoft-tilin aliaksien hallinta kirjautumisen </a> Microsoft 365.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- Selaa jokaiseen sivustoon, jossa käyttäjä saa virhe ilmoituksen. 
+- Siirry kaikkiin sivustoihin, joissa käyttäjä saa virheilmoituksen. 
 
-Lisää "/_layouts/15/People.aspx/membershipgroupid = 0" (lainaus merkkien sisällä) sivuston URL-osoitteen loppuun. 
+Lisää "/_layouts/15/people.aspx/membershipgroupid=0" (lainausmerkeissä) sivuston URL-osoitteen loppuun. 
 
-Esimerkki: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Esimerkki: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Valitse käyttäjä luettelosta.
 
-- Valitse valinta nauhasta **Poista käyttö oikeudet** . 
--  Lisää käyttäjä takaisin ja Lähetä kutsu käyttäjälle uudelleen.
+- Valitse **valintanauhasta Poista** käyttöoikeudet. 
+-  Lisää takaisin käyttäjä ja lähetä kutsu uudelleen käyttäjälle.
 

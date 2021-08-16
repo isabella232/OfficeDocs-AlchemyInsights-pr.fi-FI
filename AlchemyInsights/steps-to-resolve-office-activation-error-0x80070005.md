@@ -1,5 +1,5 @@
 ---
-title: Vaiheet Office-aktivointi virheen 0x80070005 ratkaisemiseksi
+title: Officen aktivointivirheiden ratkaisuvaiheet 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021413"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Vaiheet Office-aktivointi virheen 0x80070005 ratkaisemiseksi
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Officen aktivointivirheiden ratkaisuvaiheet 0x80070005
 
-Jos 0x80070005-virhe ilmeni Windowsin päivittämisen jälkeen, voit korjata ongelman päivittämällä rekisterin.
+Jos 0x80070005 käynnistyi päivityksen Windows päivittämisen jälkeen, voit korjata ongelman päivittämällä rekisterin.
   
-Lataa ja asenna [tuki-ja palautus avustaja](https://aka.ms/SARA-OfficeActivation-Alchemy) ja suorita **Akti voinnin vian määritys**.
+Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeActivation-Alchemy) ja suorita **aktivoinnin vianmääritys**.
   
-Lisä tietoja on: [Officen virhe koodi 0x80070005 Officen Akti voinnin yhteydessä](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Lisätietoja on ohjeaiheessa: [Office aktivoinnin 0x80070005 virhekoodi Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   
