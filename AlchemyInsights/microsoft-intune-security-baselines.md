@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 88525fccd6dcde0cb3949e348d1f2a7df3ee7ce7
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52793698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098059"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Perusaikataulujen Microsoft Intune määrittäminen laitteiden Windows 10 perusaikataulujen avulla
 
 Intune-suojauksen perusaikataulut auttavat suojaamaan käyttäjiä ja laitteita. Suojauksen perusaikataulut Windows ovat valmiiksi määritettyjä ryhmiä, joiden avulla sovelletaan tunnettuja asetuksia ja oletusarvoja, joita asianomaiset suojausryhmät suosittelevat. Luomalla suojauksen perusaikataulun profiilin Intunessa voit luoda mallin, joka koostuu useista laitemääritysprofiileista.
 
-Kun otat käyttöön suojauksen perusaikataulut käyttäjä- tai laiteryhmissä, asetukset otetaan käyttöön laitteissa, jotka suoritetaan Windows 10 uudemmassa. Esimerkiksi Microsoftin mobiililaitteiden hallinnan suojauksen perusaikataulu mahdollistaa siirrettävien BitLocker automaattisen suojauksen, vaatii salasanan laitteen lukituksen poistamiseen ja poistaa perustodennuksen käytöstä. Jos oletusarvo ei toimi ympäristössäsi, voit mukauttaa perusaikataulua tarvitsemallasi asetuksilla.
+Kun otat käyttöön suojauksen perusaikataulut käyttäjä- tai laiteryhmissä, asetukset otetaan käyttöön laitteissa, jotka suoritetaan Windows 10 uudemmassa. Esimerkiksi Microsoftin mobiililaitteiden hallinnan perussuojaus ottaa BitLockerin automaattisesti käyttöön siirrettävissä asemissa, vaatii salasanan laitteen lukituksen poistamiseen ja poistaa perustodennuksen käytöstä. Jos oletusarvo ei toimi ympäristössäsi, voit mukauttaa perusaikataulua tarvitsemallasi asetuksilla.
 
 Suojauksen perusaikataulut auttavat myös luomaan lopusta loppuun suojatun työnkulun Microsoft 365. Suojauksen perusaikataulu sisältää parhaat käytännöt ja suojausta koskevat asetukset. Intune kumppanit Windows kanssa, joka luo perusaikatauluja ryhmäkäytäntöjä varten, joten nämä suositukset perustuvat vankkaan ohjeeseen ja laajaan käyttökokemukseen.
 
