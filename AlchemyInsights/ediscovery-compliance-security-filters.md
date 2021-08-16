@@ -1,5 +1,5 @@
 ---
-title: Sisältö haun/viennin aikana ei palautettu tuloksia
+title: Tuloksia ei palauteta sisältöhaun/viennin aikana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101263"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Sisältö haun/viennin aikana ei palautettu tuloksia
+# <a name="no-results-returned-during-content-searchexport"></a>Tuloksia ei palauteta sisältöhaun/viennin aikana
 
-Jos kohtaat ongelmia seuraavissa eDiscoveryn skenaarioissa:
+Jos sinulla on ongelmia seuraavien eDiscovery-skenaarioiden kanssa:
 
-- Sisältö haku/vienti palauttaa tietoja tai odottamattomia tietoja
-- eDiscoveryn haku tai vienti epäonnistuu
+- Sisältöhaku ja -vienti ei tuo mitään tietoja tai odottamattomia tietoja
+- eDiscovery-haku tai vienti epäonnistuu
 
-Tämä voi johtua joistakin vaatimustenmukaisuutta koskevista tieto turva suodattimista, jotka on määritetty tietyn järjestelmänvalvojan toimesta ja joita ei ole toimitettu kaikille järjestelmänvalvojille.
+Tämä voi johtua tietyistä yhteensopivuuden suojaussuodattimista, jotka tietty järjestelmänvalvoja on ottanut käyttöön, ja joista ei ole ilmoitettu kaikille järjestelmänvalvojille.
 
-Jos haluat korjata ongelman, tarkista, että seuraavat ongelmat voivat aiheuttaa yhteensopivuus suojausta:
+Voit ratkaista ongelman tarkistamaan, aiheuttavatko yhteensopivuuden suojaussuodattimet seuraavia ongelmia:
 
-1. Yhteyden muodostaminen tieto turva-ja yhteensopivuus keskuksen PowerShellin avulla
-2. Suorita seuraavat komentosovelmat:
+1. Näyttöyhteys powershellin tietoturva- ja yhteensopivuuskeskukseen
+2. Suorita seuraavat komennot:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Lisä tietoja yhteensopivuuden suojaus suodattimista on Ohje aiheessa [sisältö haun käyttö oikeuksien suodattaminen](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Lisätietoja yhteensopivuuden suojaussuodattimista on kohdassa [Sisältöhaun käyttöoikeuksien suodatus](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

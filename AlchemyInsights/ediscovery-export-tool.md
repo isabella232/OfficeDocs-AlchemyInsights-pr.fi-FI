@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101299"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Eikö eDiscovery-vientityökalua voi asentaa tai suorittaa?
 
@@ -28,7 +28,7 @@ Jos et voi asentaa tai suorittaa eDiscovery-vientityökalua hakutulosten lataami
   
 - Käytössäsi on tietokone, joka täyttää seuraavat vaatimukset:
 
-  - Windows 7:n ja uudempien versioiden 32- tai 64-bittiset versiot
+  - 32- tai 64-bittinen versio Windows 7 tai uudempi versio
 
   - Microsoft .NET Framework 4.7
 
@@ -44,7 +44,7 @@ Jos et voi asentaa tai suorittaa eDiscovery-vientityökalua hakutulosten lataami
 
 - Organisaatiosi voi muodostaa yhteyden Azuren päätepisteeseen, joka on **\* .blob.core.windows.net** (yleismerkki edustaa vientityön yksilöllistä tunnistetta).
 
-- Sinulle määritetään vientirooli Microsoft 365:n tietoturvan &amp; yhteensopivuuskeskuksessa. Tämä rooli määritetään oletusarvoisesti vain eDiscovery Manager -rooliryhmään. Katso [eDiscovery-oikeuksien määrittäminen.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Sinulle määritetään vientirooli tietoturva Microsoft 365 &amp; yhteensopivuuskeskuksessa. Tämä rooli määritetään oletusarvoisesti vain eDiscovery Manager -rooliryhmään. Katso [eDiscovery-oikeuksien määrittäminen.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
