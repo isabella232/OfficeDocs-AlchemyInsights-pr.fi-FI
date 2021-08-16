@@ -1,5 +1,5 @@
 ---
-title: 204 puuttuvan tai kadonneen Outlook-sähkö postin, kalenterin tai yhteys tietojen etsiminen
+title: 204 Puuttuvien tai puuttuvien sähköpostien, Outlook yhteystietojen etsiminen tai palauttaminen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029153"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Puuttuvien viestien, yhteys tietojen ja kalenteri kohteiden etsiminen ja palauttaminen Outlookissa
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Puuttuvien viestien, yhteystietojen tai kalenterin kohteiden etsiminen ja Outlook
 
-1. Siirry Outlookin Sähkö posti kansio luetteloon ja valitse sitten **Poistetut kohteet**. **Tärkeää**: Jos **Poistetut** -kansio ei ole näkyvissä, mutta sen sijaan näet **roska kori** -kansion, tili ei tue kohdetta, joka ei ole enää **Poistetut** -kansiossa.
+1. Siirry Outlook-kansioluettelossa ja valitse **Poistetut**. **Tärkeää:** Jos et näe  Poistetut-kansiota, mutta  näet sen sijaan Roskakori-kansion, tilisi ei tue sellaisen kohteen palauttamista, joka ei ole enää **Poistetut-kansiossa.**
 
-2. Valitse **Aloitus** -valikosta **Palauta poistetut kohteet palvelimesta**. **Tärkeää**: Jos valikossa ei ole **Palauta poistettuja kohteita palvelimelta** -komento, tili ei tue kohdetta, joka ei ole enää **Poistetut** -kansiossa.
+2. Valitse **Aloitus-valikossa** Palauta **poistetut kohteet palvelimelta**. **Tärkeää:** Jos valikossa ei **ole** Palauta poistetut kohteet palvelimelta -komentoa, tilisi ei tue sellaisen kohteen palauttamista, joka ei ole enää **Poistetut-kansiossa.**
 
-3. Valitse kohteet, jotka haluat palauttaa, valitse **Palauta valitut kohteet**ja valitse sitten **OK**.
+3. Valitse palautettavat kohteet, valitse **Palauta valitut kohteet** ja valitse sitten **OK**.
 
-**Minne palautetut kohteet siirtyvät?** Kun palautat kohteita palautettavat-kansiosta, ne siirretään **Poistetut** -kansioon. Kun olet palauttanut kohteen, voit etsiä sen **Poistetut** -kansiosta ja siirtää sen toiseen kansioon.
+**Mihin palautetut kohteet menevät?** Kun palautat kohteita Palautettavat-kansiosta, ne siirretään **Poistetut-kansioon.** Kun olet palauttanut kohteen, löydät sen **Poistetut-kansiosta** ja voit siirtää sen toiseen kansioon.
 
-Voit myös käyttää [Sähkö posti viestien lähettämisen, vastaanottamisen tai etsimisen ongelmia](https://aka.ms/SaRA-OutlookSendReceive) **haavoittuvuuden sisältävissä tieto koneessa**. Tämä työkalu tarkistaa useita ongelmia ja ehdottaa mahdollisia ratkaisuja.
+Voit käyttää myös minulla [on ongelmia sähköpostiviestien lähettämisessä,](https://aka.ms/SaRA-OutlookSendReceive) vastaanottamisessa ja etsiminen -työkalussa, jota **ongelma** koskee. Tämä työkalu tarkistaa useita ongelmia ja ehdottaa mahdollisia ratkaisuja.

@@ -1,5 +1,5 @@
 ---
-title: Office-tuotteet, jotka eivät ole saatavilla Mac-käyttöympäristöön
+title: Office ei ole saatavilla Mac-käyttöympäristöön
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 7ea579188d8b28f4af47e03e09e9767d9d84e5e7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d8de790de60a3d656f46248a73e56fbd195018bbec9bc234a39bca5a162e9b21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076234"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Office-tuotteet, jotka eivät ole saatavilla Mac-käyttöympäristöön
+# <a name="office-products-not-available-for-the-mac-platform"></a>Office ei ole saatavilla Mac-käyttöympäristöön
 
 Visio, Project, Publisher ja Access eivät ole käytettävissä Mac-ympäristössä, mutta Visio Online ja Project Online ovat käytettävissä ja toimivat kaikissa ympäristöissä.
   
