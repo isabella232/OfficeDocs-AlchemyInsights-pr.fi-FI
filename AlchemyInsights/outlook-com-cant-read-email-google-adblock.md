@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-sähkö postia ei voi lukea Google Chromessa AdBlock-sovelluksessa
+title: Ei voi lukea Outlook.com-sähköpostia Google Chromessa AdBlockin avulla
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984710"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Sähkö postin lukeminen ei onnistu Google Chromessa AdBlock-sovelluksessa
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Sähköpostia ei voi lukea Google Chromessa AdBlockin avulla
 
-Jos et voi lukea tai kirjoittaa sähkö postia, kun käytät Google Chromea AdBlock-laajennuksella:
+Jos et voi lukea tai kirjoittaa sähköpostia, kun käytät Google Chromea AdBlock-laajennuksen kanssa:
 
-- Käytä [Microsoft edgiä](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) tai jotakin muuta selainta.
-- Jätä Outlook.com pois AdBlock-asetuksista. Valitse Google Chromen oikeassa yläkulmassa **Adblock** ja valitse sitten **Älä suorita tällä toimi alueella oleville sivuille**. Lataa Outlook.com uudelleen päivittämällä selain.
+- Käytä [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) selainta tai muuta selainta.
+- Jätä Outlook.com pois AdBlock-asetuksista. Valitse Google Chromen oikeassa yläkulmassa **AdBlock** ja valitse sitten Älä suorita tämän toimialueen **sivuilla.** Päivitä selain ladataksesi Outlook.com uudelleen.

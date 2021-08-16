@@ -1,5 +1,5 @@
 ---
-title: Esimerkki Microsoft Defender for Office 365:n tietojenkalastelun estokäytännöstä
+title: Esimerkki Microsoft Defender for Office 365 tietojenkalastelun torjuntakäytännöstä
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035003"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Esimerkki Microsoft Defender for Office 365:n tietojenkalastelun estokäytännöstä
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Esimerkki Microsoft Defender for Office 365 tietojenkalastelun torjuntakäytännöstä
 
-Nämä asetukset mahdollistavat käytännön nimeltä Toimialue *ja toimitusjohtaja.* Tämä käytäntö tarjoaa sekä käyttäjä- että toimialuesuojauksen tekeytymisviestiltä, ja sen jälkeen käytäntöä sovelletaan kaikkiin sähköpostiviesteihin, jotka käyttäjät ovat vastaanottaneet toimialueella. Luo ensin käytäntö lisäämällä seuraavat tiedot:
+Nämä asetukset mahdollistavat käytännön nimeltä Toimialue *ja toimitusjohtaja.* Tämä käytäntö tarjoaa sekä käyttäjän että toimialueen tekeytymisen, ja sen jälkeen käytäntöä sovelletaan kaikkiin sähköpostiviesteihin, jotka käyttäjät vastaanotetaan toimialueella. Lisää ensin seuraavat tiedot käytännön luomiseen:
 
-- **Nimi:** Toimialueen ja **toimitusjohtajan kuvaus:** Varmistaa, että toimitusjohtaja ja toimialueesi eivät tekeyty.
-  **Käytössä:** Valitse **vastaanottajan toimialue on**. Valitse **jokin näistä** ja **valitse** sitten toimialue. Valitse **+ Lisää.** Valitse luettelossa toimialueen nimen vieressä olevaa valintaruutua (esimerkiksi *contoso.com)* ja valitse **sitten Lisää.** Valitse **Valmis.**
-- Kun käytäntö on luotu, voit hienosäätää käytäntöä seuraavilla asetuksilla:
-  - **Käyttäjien lisääminen suojattavaksi:** Lisää tässä esimerkissä vähintään toimitusjohtajan sähköpostiosoite.
+- **Nimi:** Toimialueen ja **toimitusjohtajan kuvaus:** Varmistaa, että toimitusjohtaja ja toimialueesi eivät tekeyy tekeytymään.
+  **Käytössä:** Valitse **Vastaanottajan toimialue on**. Valitse **Mikä tahansa näistä** **-kohdassa Valitse** ja valitse sitten toimialue. Valitse **+ Lisää**. Valitse luettelossa toimialueen nimen vieressä olevaa valintaruutua (esimerkiksi contoso.com *)* ja valitse sitten **Lisää**. Valitse **Valmis**.
+- Kun käytäntö on luotu, voit hienosäätää sitä seuraavilla asetuksilla:
+  - **Käyttäjien lisääminen suojattavaksi:** Lisää tässä esimerkissä toimitusjohtajan sähköpostiosoite vähintään.
   - **Suojaa lisäämällä toimialueita:** Lisää organisaatiotoimialue, joka sisältää toimitusjohtajan toimiston.
-  - **Toimintojen valinta:** **Jos** sähköpostin on lähettänyt tekeytynyt käyttäjä, valitse Ohjaa viesti toiseen sähköpostiosoitteeseen ja kirjoita sitten suojauksenvalvojan sähköpostiosoite (esimerkiksi *securityadmin@contoso.com).*  Jos **sähköpostin lähettää tekeytynyt toimialue,** valitse **Aseta viesti karanteeniin.**
-  - **Postilaatikkotiedot:** Tämä asetus on valittuna oletusarvoisesti, kun luot uuden tietojenkalastelukäytännön. Jätä tämä asetus **käyttöön,** niin saat parhaan tuloksen.
-  - **Luotettujen lähettäjien ja toimialueiden lisääminen:** Älä määritä tässä esimerkissä ohitusta.
-- Kun olet tarkistanut asetukset, valitse Luo **tämä käytäntö tai** **Tallenna.**
+  - **Valitse toiminnot:** **Jos** sähköpostin lähettänyt tekeytynyt käyttäjä , valitse Ohjaa viesti toiseen sähköpostiosoitteeseen ja kirjoita sitten suojauksenvalvojan sähköpostiosoite (esimerkiksi *securityadmin@contoso.com).* Jos **sähköpostin lähettänyt toimialue on tekeytynyt,** valitse Aseta viesti **karanteeniin**.
+  - **Postilaatikkotiedot:** Tämä asetus on valittuna oletusarvoisesti, kun luot uuden tietojenkalastelun torjuntakäytännön. Jätä tämä asetus **käytössä,** niin saat parhaan tuloksen.
+  - **Luotettujen lähettäjien ja toimialueiden lisääminen:** Älä tässä esimerkissä määritä ohitusta.
+- Kun olet tarkistanut asetukset, valitse **Luo tämä käytäntö tai** **Tallenna**.
 
-Lisätietoja on Microsoft [365:n](https://go.microsoft.com/fwlink/?linkid=2092235)tietojenkalastelun torjunnan käytännöt -kohdassa.
+Lisätietoja on kohdassa Tietojen [kalastelun estokäytännöt Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)

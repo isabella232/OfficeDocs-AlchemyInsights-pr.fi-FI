@@ -1,5 +1,5 @@
 ---
-title: Vuokraajan käytännön korjauksen (toiminnon ohittaminen)
+title: Korjaa vuokraajakäytäntö (toiminnon ohittaminen)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c0b88c1ca2120acccd9cd75eb918a81bde52ec3919f6148922f077f07899da7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034931"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Vuokraajan käytännön korjauksen (toiminnon ohittaminen)
+# <a name="fix-tenant-policy-action-override"></a>Korjaa vuokraajakäytäntö (toiminnon ohittaminen)
 
-Tämä sanoma vaikuttaa vuokraajan roskapostin estokäytäntöön. Voit tarkistaa käytännön seuraavasti:
+Viesti vaikuttaa vuokraajan roskapostin estokäytäntöön. Voit tarkistaa käytännön seuraavasti:
 
-1. Siirry [Office 365:n tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten **uhkien**  >  **hallintakäytäntöön**  >  [roskapostin estoon.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Tarkista, onko **käytäntölähde** ilmaise seuraavaa:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC message**
+1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten Threat Management Policy Anti-spam (Uhkien   >  **hallintakäytäntö**  >  [roskapostin esto) -keskukseen.](https://go.microsoft.com/fwlink/?linkid=2101518)
+2. Tarkista, onko **käytäntölähde** merkkinä seuraavasta:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC (Lisää-Xheader/ModifySubject/Redirect/Delete/No action/ BCC)**
 
-    Jos näin on, tarkista Mukautetut-välilehdessä sen käytännön asetukset, johon viesti vaikuttaa.  On mahdollista, että  kaikkiin Exchange Online Protection -asiakkaisiin sovellettiin vakioasetuksia, joihin viesti vaikuttaa.
+    Jos näin on, **tarkista Mukautettu-välilehdessä** sen käytännön asetukset, johon viesti vaikuttaa. On mahdollista, että **vakioasetuksia sovelletaan kaikkiin** Exchange Online Protection vaikuttaa viestiin.
 
-Lisätietoja roskapostin suodatuskäytäntöjen määrittämisestä on kohdassa [Roskapostisuodatinkäytäntöjen määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2101431)
+Lisätietoja roskapostin suodatuskäytäntöjen määrittämisestä on kohdassa [Roskapostin suodatuskäytäntöjen määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2101431)

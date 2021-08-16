@@ -1,5 +1,5 @@
 ---
-title: OneDrive-ja. pst-tiedostot
+title: OneDrive- ja .pst-tiedostot
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de6de2c7483280143b8bed51d0af1048d39137a5c72a22c09131d32326b8e447
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984854"
 ---
-# <a name="onedrive-and-pst-files"></a>OneDrive-ja. pst-tiedostot 
+# <a name="onedrive-and-pst-files"></a>OneDrive- ja .pst-tiedostot 
 
-OneDrive tukee Outlookin. pst-tiedostoja, mutta ne synkronoidaan harvemmin muihin tiedosto tyyppeihin verrattuna, jotta verkko liikennettä voidaan vähentää. Lisä tietoja OneDrive-synkronointi sovelluksen lataamisesta. pst-tiedostoista on kohdassa [tiettyjen tiedosto tyyppien synkronoinnin estäminen](https://docs.microsoft.com/onedrive/block-file-types). 
+OneDrive tukee Outlook .pst-tiedostoja, mutta niitä synkronoidaan harvemmin muihin tiedostotyyppeihin verrattuna verkkoliikenteen vähentämiseksi. Jos haluat estää OneDrive-synkronointisovellus -sovellusta lataamasta .pst-tiedostoja, katso [tiettyjen tiedostotyyppien synkronoinnin estäminen.](https://docs.microsoft.com/onedrive/block-file-types) 
 
-Lisä tietoja. pst-tiedostojen siirtämisestä OneDrivesta on Ohje aiheessa [Outlookin. pst-Data tiedoston poistaminen OneDrivesta](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e). 
+Jos haluat siirtää .pst-OneDrive pois, katso lisätietoja [Outlook .pst-datatiedoston OneDrive.](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) 
 
-Jos käyttäjät sallivat tieto koneen kansioiden varmuus kopioinnin manuaalisesti ilman ryhmä käytäntöä, tapahtuu virhe, jos heillä on. pst-tiedosto jossakin tunne tuista kansioista.
+Jos käyttäjät sallivat PC-kansioiden varmuuskopioinnin manuaalisesti ilman ryhmäkäytäntöä, ilmenee virhe, jos heidän tunnetuissa kansioissaan on .pst-tiedosto.
 
-Jos käytät OneDrivea työpaikan tai oppi laitoksen kanssa, organisaation SharePoint-sivuston järjestelmänvalvoja voi estää joidenkin tiedosto tyyppien käytön.
+Jos käytät OneDrive tai koulussa, organisaation järjestelmänvalvoja voi estää SharePoint tiedostotyypit.

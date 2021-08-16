@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058827"
 ---
 # <a name="enable-or-disable-a-journal-rule"></a>Päivyrisäännön ottaminen käyttöön tai poistaminen käytöstä
 
 Toimi seuraavasti:
 
-1. Siirry [Exchange-hallintakeskuksessa](https://go.microsoft.com/fwlink/p/?linkid=2059104)vaatimustenmukaisuuden **hallinnan päivyrisäännöihin.**  >  
-2. Ota säännöt käyttöön tai  poista sen valinta käytöstä valitsemalla luettelonäkymän säännön nimen vieressä olevasta ON-sarakkeesta valintaruutu.
+1. Valitse [Exchange hallintakeskuksessa](https://go.microsoft.com/fwlink/p/?linkid=2059104)yhteensopivuuden **hallinnan**  >  **päivyrisäännöt**.
+2. Valitse luettelonäkymän KÄYTÖSSÄ-sarakkeessa säännön nimen vieressä valintaruutu, jos haluat ottaa säännöt käyttöön, tai poista sen valinta, jos haluat poistaa säännön käytöstä. 

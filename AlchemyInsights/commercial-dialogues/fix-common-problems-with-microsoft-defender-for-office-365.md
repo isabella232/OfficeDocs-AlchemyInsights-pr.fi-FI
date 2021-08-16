@@ -1,5 +1,5 @@
 ---
-title: Office 365:n Microsoft Defenderin yleisimmät ongelmat
+title: Microsoft Defender for Windowsin yleisimmät Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034967"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Office 365:n Microsoft Defenderin yleisimmät ongelmat
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Microsoft Defender for Windowsin yleisimmät Office 365
 
-Seuraavassa on joitakin ratkaisuja yleisiin Office 365:n Microsoft Defenderin ongelmiin:
+Seuraavassa on joitakin ratkaisuja Microsoft Defender for Office 365:
 
-- **Viestin viive:** Jos sinulla on ongelmia, joissa viestin toimitus viivästyy,  sinun on käytettävä Turvallisten liitteiden käytännön Dynaaminen toimitus -asetuksia. Lisätietoja on kohdassa Dynaaminen [toimitus turvallisten liitteiden käytännöistä.](https://go.microsoft.com/fwlink/?linkid=2094106)
-- **Virheellisten positiivisten tai negatiivisten tulosten raportoiminen:** Ilmoita viestistä Microsoftille tämän linkin avulla: [Microsoft Defender Response Portal.](https://go.microsoft.com/fwlink/?linkid=2092835)
-- **Ota turvallinen linkkisuojaus käyttöön:**
-    1. Kirjaudu Office [365:n tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Siirry **uhkien**  >  **hallintakäytännön**  >  **turvallisten linkkien ohjeisiin.**
-    3. Avaa **määritetty käytäntö tiettyihin vastaanottajiin** sovellettavassa käytännöt-kohdassa.
-    4. Valitse **Asetukset-kohdassa** **Käytä turvallisia linkkejä organisaatiossa lähetetyissä viesteissä.**
+- **Viestin viive:** Jos sinulla on ongelmia, joissa viestin toimitus viivästyy,  sinun on käytettävä oman Lokero-käytännön Dynaaminen toimitus -asetuksia. Lisätietoja on kohdassa [Dynaaminen toimitus Lokero käytännöt.](https://go.microsoft.com/fwlink/?linkid=2094106)
+- **Virheellisten positiivisten tai negatiivisten tulosten raportoiminen:** Ilmoita viestistä Microsoftille tämän linkin avulla: [Microsoft Defender Response Portal](https://go.microsoft.com/fwlink/?linkid=2092835).
+- **Ota Lokero-suojaus käyttöön:**
+    1. Kirjaudu sisään [Office 365 tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+    2. Siirry Threat Management Policy   >  **(Uhkien**  >  **hallintakäytäntö) -Lokero linkkeihin.**
+    3. Avaa **määritetty käytäntö kohdassa Käytännöt,** jotka koskevat tiettyjä vastaanottajia.
+    4. Valitse **Asetukset**-kohdassa **Käytä turvallisia linkkejä organisaation sisällä lähetetyissä viesteissä**.
