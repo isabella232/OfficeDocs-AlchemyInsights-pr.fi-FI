@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002291"
 ---
 # <a name="get-started-with-yammer"></a>Yammerin käytön aloittaminen
 
-Yammer on luokkansa paras, turvallinen ja yksityinen yrityksen sosiaalinen verkosto. Yammer tarjoaa innostavan ja helppokäyttöisen käyttö kokemuksen verkossa ja Yammer-sovelluksessa Android-ja iOS-laitteissa. Yammer voidaan integroida Microsoft Teamsiin ja Outlookiin. Yammer tarjoaa myös päivitetyn integrointi kokemuksen SharePoint Onlinessa.
+Yammer on luokkansa paras, turvallinen ja yksityinen yrityksen sosiaalinen verkosto. Yammer tarjoaa kiinnostavan ja helppokäyttöisen käyttökokemuksen verkossa ja Android- Yammer iOS-laitteiden Yammer sovelluksessa. Yammer voidaan integroida Microsoft Teams ja Outlook. Yammer tarjoaa myös päivitetyn integrointikokemuksen SharePoint Onlinessa.
 
-Yammer Deployment Advisor-toiminnon avulla voit valmistella Yammer-verkoston lisäämällä toimi alueita, määrittämällä järjestelmänvalvojia ja yhdistämällä Yammer-verkostot. Ota Yammer käyttöön ja mukauta sitten ulkoasua, määritä tieto turva ja yhteensopivuus ja Muokkaa asetuksia.
+Käytä Yammer käyttöönottoneuvojaa valmistelemaan Yammer verkostosi lisäämällä toimialueita, määrittämällä järjestelmänvalvojille ja yhdistämällä Yammer verkostoja. Ota Yammer ja mukauta ulkoasua, määritä tietoturva ja yhteensopivuus ja muokkaa asetuksia.

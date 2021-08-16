@@ -1,5 +1,5 @@
 ---
-title: 8000090 Outlook.com Valitse kaikki
+title: 8000090 Outlook.com valitse kaikki
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010793"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Valitse kaikki-vaihto Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>"Valitse kaikki" Outlook.comissa
 
-Voit valita vain kaikki, jos kaikki viestit ovat näkyvissä. Tämä estää vahingossa tapahtuvia toimintoja viesteistä, joita et näe.
+Voit valita kaikki vain, jos kaikki viestit ovat näkyvissä. Tällä estetään tahattomana toimiminen viesteille, joita et näe.
 
-**CTRL + napsautus** valitsee useita yksittäisiä viestejä.
+**Ctrl-näppäinyhdistelmä** valitsee useita yksittäisiä viestejä.
 
-**Vaihto + napsautus** valitsee kaikki viestit ensimmäisen ja viimeisen valitsemasi viestin väliltä.
+**VAIHTO+ napsautukset** valitsee kaikki ensimmäisen ja viimeisen valitseman viestin väliset viestit.
