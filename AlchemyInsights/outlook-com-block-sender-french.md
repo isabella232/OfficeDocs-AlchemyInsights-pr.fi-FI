@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Block lähettäjän-Ranska
+title: Outlook.com estä lähettäjä - RANSKA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: c3a8cb3bb8ab550d9270135d2abf89fe32210ea1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 860854242574a0d8235d09c4b409b1f3e5e8dc7dc80c5e392f5fdc3521e3431c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011225"
 ---
-# <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
+# <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou déquerquer expéditeurs dans Outlook.com
 
-Si Vous recevez du Courrier indésidable, Vous pouvez bloquer Les ADRESSES de messaerie et des Domaines que Vous ne Voulez Pas recevoir des viestejä. Ajouter une osoite de messageriou un Domaine à votre Liste des expéditeurs bloqués pour déplacer CES viestit directement vers votre asia kirja.
+Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et dessähköpostiviestis que vous ne voulez pas recevoir des messages. Ajouter une adresse de messagerie ou un blo à votre liste des expéditeurs bloqués pour déplacer ces messages directement vers votre courrier indésirable.
 
-1. Accédez à **paramétres**Afficher Tous  >  **Les parambètres d'outlook**  >  **Courrier indésidable**.
-1. Sous **Domaines et expéditeurs bloqués** sélectionnez **ajauter**.
-1. Entrez L'Adresse de messagerie-sélectionnez **Enregistroer**.
+1. Accédez à **Paramètres**  >  **Afficher tous les paramètres d'Outlook**  >  **Courrier indésirable.**
+1. Sous **Babs et expéditeurs bloqués** sélectionnez **Ajouter.**
+1. Sähköpostiviesti l'adresse de messagerie et sélectionnez **Enregistrer**.
 
-Pour Plus d'informations, lisez [bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d'informations, lisez [Bloquer ou déquerquer expéditeurs dans Outlook.com.](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)

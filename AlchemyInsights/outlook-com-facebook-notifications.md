@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebook-ilmoitukset
+title: Outlook.com-ilmoitukset
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010973"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook-ilmoitukset käyttäen Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook-ilmoitukset Outlook.com
 
-Jos et halua saada ilmoituksia Facebookista, voit muuttaa [Facebook-asetuksiasi](https://aka.ms/facebook-notifications-settings) tai määrittää Saapuneet-kansion säännön.
+Jos et halua saada ilmoituksia Facebookista, voit muuttaa [Facebook-asetuksia](https://aka.ms/facebook-notifications-settings) tai määrittää Saapuneet-kansion säännön.
 
-1. Siirry [säännöt-asetuksiin](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Valitse [Sääntöjen asetukset](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Valitse **Lisää uusi sääntö**.
-1. Nimeä sääntö "Facebook".
-1. Lisää "Lähettäjä"-ehto ja kirjoita "notification@facebookmail.com"
-1. Lisää "Delete"-toiminto. Poista-vaihto ehdon valitseminen tarkoittaa, että viestit säilyvät poistetut-kohdassa ja että ne voidaan palauttaa. Jos valitset merkitse roska postiksi, viestit poistetaan automaattisesti, eikä niitä voi palauttaa.
+1. Anna säännölle nimeksi Facebook.
+1. Lisää ehto "Mistä" ja kirjoita "notification@facebookmail.com"
+1. Lisää toiminto "Poista". Poista-vaihtoehdon valitseminen tarkoittaa, että viestit säilyvät Poistetut-kansiossa ja ne voidaan palauttaa. Jos valitset Merkitse roskapostiksi, viestit poistetaan automaattisesti eikä viestejä voi palauttaa.
 1. Valitse **Tallenna**.

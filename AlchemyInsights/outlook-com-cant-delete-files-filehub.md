@@ -1,5 +1,5 @@
 ---
-title: Valo kuvia tai tiedostoja ei voi poistaa tiedostoista Outlook.com
+title: Valokuvia tai tiedostoja ei voi poistaa Outlook.com-sivustolta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064309"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Tiedostoja tai valo kuvia ei voi poistaa tiedostoista
+# <a name="cant-delete-files-or-photos-from-files"></a>Tiedostoja tai valokuvia ei voi poistaa Tiedostoista
 
-Outlook.com-sovelluksessa **tiedostot** -kohdassa näytetään posti laatikon viesteihin liitetyt tiedostot ja valo kuvat. Jos haluat poistaa tiedostoja ja valo kuvia tiedostoista, sinun on poistettava Sähkö posti viestit, joihin ne on liitetty. Kun olet poistanut viestit, sinun on myös poistettava ne Poistetut-kansiosta.
+Outlook.comissa **Tiedostot-kentässä** näkyvät postilaatikon viesteihin liitetyt tiedostot ja valokuvat. Jos haluat poistaa tiedostoja ja valokuvia Tiedostoista, sinun on poistettava sähköpostiviestit, jotka ne on liitetty. Kun olet poistanut viestit, ne on myös poistettava Poistetut-kansiosta.
 
-Lisä tietoja on artikkelissa [tiedostojen tai valo kuvien poistaminen Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)-sovelluksessa.
+Lisätietoja on osoitteessa [Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)

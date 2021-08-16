@@ -1,5 +1,5 @@
 ---
-title: OneDrive-PUID-risti riita
+title: OneDrive PUID-ristiriita
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096727"
 ---
-# <a name="onedrive-puid-mismatch"></a>OneDrive-PUID-risti riita
+# <a name="onedrive-puid-mismatch"></a>OneDrive PUID-ristiriita
 
-Näkyviin tulee se, että OneDrive for Business-palvelussa on [tunniste ristiriita](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) . Jos haluat, että voimme auttaa sinua mahdollisimman pian, toimi seuraavasti:
+Näyttää siltä, että [tunnuksen vastaavuus](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive for Business. Voit auttaa sinua aikaisintaan toimimalla seuraavasti:
 
-1. Valitse  **Ota yhteyttä tukeen** ja sitten  **Uusi palvelu pyyntö**.
-2. Jätä otsikko ja kuvaus OneDrive-  **sivuston käyttäjä tunnukseksi**.
-3. Kun lippu on lähetetty, päivitä se seuraavilla tiedoilla:
-    - OneDrive-sivuston URL-osoite, johon ongelma vaikuttaa.
-    - Haavoittuvuuden sisältävän käyttäjän täydellinen käyttäjä tunnus (UPN).
+1. Valitse  **Ota yhteyttä tukeen** ja valitse sitten Uusi  **palvelupyyntö**.
+2. Jätä otsikko ja kuvaus OneDrive **tunnuksen ristiriita .**
+3. Kun lippu on lähetetty, päivitä siihen seuraavat tiedot:
+    - OneDrive URL-osoite, johon tämä vaikuttaa.
+    - Käyttäjän käyttäjätunnus (UPN).
