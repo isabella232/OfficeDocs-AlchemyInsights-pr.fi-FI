@@ -1,5 +1,5 @@
 ---
-title: Kehittäjätilan ottaminen käyttöön Windows 10:ssä
+title: Kehittäjätilan ottaminen käyttöön Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002955"
 - "5657"
-ms.openlocfilehash: b4d1a2242a7c4e6c8f61de022103118827710d62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5678cdc4898b7a5806e42627c97c95546835b3a578f2719af791da062ba0e2ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003422"
 ---
-# <a name="enable-developer-mode-in-windows-10"></a>Kehittäjätilan ottaminen käyttöön Windows 10:ssä
+# <a name="enable-developer-mode-in-windows-10"></a>Kehittäjätilan ottaminen käyttöön Windows 10
 
-Kehittäjätila on käyttäjille, jotka kehittävät sovelluksia ja joiden on pystyttävä sivuun lataamaan sovelluksia ja käyttämään muita kehittäjäominaisuuksia, kuten sovelluksen ajamista virheenkorjaustilassa Visual Studiossa.
+Kehittäjätila on käyttäjille, jotka kehittävät sovelluksia ja joiden on pystyttävä sivuun lataamaan sovelluksia ja käyttämään muita kehittäjäominaisuuksia, kuten sovelluksen Visual Studio.
 
-Ota kehittäjätila käyttöön valitsemalla Asetukset > päivitä **[& suojausasetus > kehittäjille](ms-settings:developers?activationSource=GetHelp)**. Käytössäsi olevasta Windows 10:n koontiversiosta riippuen näet joko valintaluettelon, joka sisältää mahdollisuuden ottaa käyttöön sivulataus- tai kehittäjätilan, tai vain vaihtopainikkeen kehittäjätilan **käyttöönottajalle.**
+Jos haluat ottaa kehittäjätilan käyttöön, **[Asetukset > Päivitä & -> Kehittäjille](ms-settings:developers?activationSource=GetHelp)**. Käytössäsi olevien Windows 10 koontiversiosta riippuen näet joko valintaluettelon, joka sisältää mahdollisuuden ottaa käyttöön sivulataus- tai kehittäjätilan, tai vain vaihtopainikkeen kehittäjätilan **käyttöönottajalle.**
 
 Lisätietoja kehittäjätilasta on kohdassa [Laitteen käyttöönotto kehitystyössä.](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development)

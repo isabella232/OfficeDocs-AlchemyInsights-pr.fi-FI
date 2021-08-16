@@ -1,5 +1,5 @@
 ---
-title: Torjuttujen lähettäjien Outlook.com-Espanja
+title: Lähettäjien estäminen Outlook.com - ESPANJA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4339c5b9af181505877bfca689e7585dfe78a8cc65fdad48176dd64b6c728543
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064597"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o des bloquear remitentes en Outlook.com
 
-Puede bloquear Los Mensajes de Las direcciones de correo electónico específica o Dominio llegue a la bandeja de entrada. Cuando agrega UNA Dirección General de correo electroónico o un Dominio a la lista de remitentes bloqueados, Outlook.com Mueve automáticamente Los Mensajes de ESE remitente a la carpeta correo electroónico ei deseado.
+Puede bloquear los mensajes de las direcciones de correoónico específica o dominio llegue a la Bandeja de entrada. Cuando agrega una direcrec de correo senónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correoónico no deseado.
 
-Para aprender más Leer [ayudar mantener El correo ei deseado y El correo ei deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para aprender mender leer [Adardar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

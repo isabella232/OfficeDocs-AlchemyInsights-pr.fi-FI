@@ -1,5 +1,5 @@
 ---
-title: . Pst-tiedoston tuominen Outlook for Macista Outlookin Windows-tieto koneesta
+title: .pst-tiedoston tuominen Outlook for Mac Outlook -Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,103 +13,103 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987392"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>. Pst-tiedoston tuominen Outlook for Windowsista Outlook for Maciin 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Tuo .pst-tiedosto Outlook for Windows Outlook for Mac 
 
-Jos haluat siirtää viestit ja muut kohteet Windows-tieto koneesta Maciin, Outlook for Mac voi tuoda Outlook for Windowsissa luotuja Outlookin Data tiedostoja (. pst).
+Jos haluat siirtää viestejä ja muita kohteita Windows-tietokoneesta Mac-tietokoneeseen, Outlook for Mac voi tuoda Outlook Datatiedostoja (.pst), jotka on luotu Outlook for Windows.
 
-**Uudemmissa versioissa – tuo. pst-tiedosto Windowsista Maciin**
+**Uudempia versioita: tuo .pst-tiedosto Windows Maciin**
 
-1. Valitse Outlook for Macin **tiedosto-** valikosta **tuo**.
+1. Valitse **Outlook for Mac-valikosta** **Tuo**.
 
-2. Valitse **Outlook for Windows-Arkisto tiedosto (. pst)** ja valitse sitten **Jatka**.
+2. Valitse **Outlook tiedostolle Windows (.pst)** ja valitse sitten **Jatka**.
 
-3. Etsi Data tiedosto tieto koneesta ja valitse sitten **tuo**.
+3. Etsi datatiedosto tietokoneestasi ja valitse sitten **Tuo**.
 
-4. Kun tuonti prosessi on valmis, valitse **valmis**.
+4. Kun tuonti on valmis, valitse **Valmis**.
 
-   Tuodut kohteet näkyvät siirtymis ruudussa **oma tieto kone**-kohdassa.
+   Tuodut kohteet näkyvät siirtymisruudussa Oman **tietokoneen kohdassa.**
 
 
-**Office 2011:. pst-tiedoston tuominen Outlook for Windowsista**
+**In Office 2011 - import a .pst file from Outlook for Windows**
 
-1. Siirrä. pst-tiedosto Macintosh-tieto koneeseen.
+1. Siirrä .pst-tiedosto Macintosh-tietokoneeseen.
 
-2. Valitse Outlook for Macin **tiedosto-** valikosta **tuo**.
+2. Valitse **Outlook for Mac-valikosta** **Tuo**.
 
-3. Valitse **Outlookin Data tiedosto** ja napsauta sitten oikealle osoittavaa nuolta.
+3. Valitse **Outlook datatiedosto** ja napsauta sitten oikealle osoittavaa nuolta.
 
-4. Valitse **Outlook for Windows-Data tiedosto** ja napsauta sitten oikealle osoittavaa nuolta.
+4. Valitse **Outlook valitse Windows datatiedosto ja** napsauta sitten oikealle osoittavaa nuolta.
 
-5. Etsi Data tiedosto tieto koneesta ja valitse sitten **tuo**.
+5. Etsi datatiedosto tietokoneestasi ja valitse sitten **Tuo**.
 
-6. Kun tuonti prosessi on valmis, valitse **valmis**.
+6. Kun tuonti on valmis, valitse **Valmis**.
 
-   Tuodut kohteet näkyvät siirtymis ruudussa **oma tieto kone**-kohdassa.
-
-> [!NOTE]
-> Outlook for Mac voi tuoda vain Unicode-pohjaisia. pst-tiedostoja, jotka ovat Outlookin omat kansiot-tiedostojen vakio muoto (Windows) 2003 ja uudemmat versiot. ANSI-muotoiset. pst-tiedostot, jotka tunnetaan myös nimellä Outlook 97-2002 Omat kansiot-tiedostot, olivat Outlookin Windows-97-2002 versioissa tietojen tallentamista varten oma kansio muoto. Tätä tiedosto muotoa ei voi tuoda Outlook for Maciin. Jos sinulla on aiempi ANSI-muotoisen. pst-tiedoston versio, tiedoston muuntamiseen uudempaan tiedosto muotoon ei ole automaattista menetelmää. Voit kuitenkin luoda uuden Outlook-Data tiedoston (. pst) Microsoft Outlook for Windows 2003 tai sitä uudemmissa versioissa ja tuoda sitten kohteita vanhasta tiedostosta uuteen tiedostoon. Voit tuoda uuden. pst-tiedoston Outlook for Maciin. Lisä tietoja. pst-tiedostojen luomisesta ja kohteiden tuomisesta on Outlook for Windows-versiosi **Ohjeessa** .
-
-**Outlookin Data tiedoston (. pst tai. Olm) avaaminen**
-
-Voit tuoda Outlook for Windows-Data tiedoston (. pst) tai Outlook for Mac-Data tiedoston (. Olm). Näissä Data tiedostoissa voi olla suuria tieto määriä useista alkio tyypeistä. Outlookin Data tiedostoja käytetään usein arkistona tai tietojen siirtämiseen tieto koneiden välillä.
-
-1. Valitse Outlook for Macin tiedosto-valikossa **tuo**.
-
-2. Valitse **Outlookin Data tiedosto** ja napsauta sitten oikealle osoittavaa nuolta.
-
-3. Valitse Data tiedoston tyyppi ja napsauta sitten oikealle osoittavaa nuolta.
-
-4. Etsi Data tiedosto tieto koneesta ja valitse sitten **tuo**.
-
-5. Kun tuonti prosessi on valmis, valitse **valmis**.
-
-Tuodut kohteet näkyvät siirtymis ruudussa **oma tieto kone**-kohdassa.
+   Tuodut kohteet näkyvät siirtymisruudussa Oman **tietokoneen kohdassa.**
 
 > [!NOTE]
-> Outlook for Mac voi tuoda vain Unicode-pohjaisia. pst-tiedostoja, jotka ovat Outlookin omat kansiot-tiedostojen vakio muoto (Windows) 2003 ja uudemmat versiot. ANSI-muotoisia. pst-tiedostoja, joita kutsutaan myös Outlook 97-2002 Omat kansiot-tiedostoiksi, ei voi tuoda Outlook for Maciin. Jos sinulla on aiempi ANSI-muotoisen. pst-tiedoston versio, tiedoston muuntamiseen uudempaan tiedosto muotoon ei ole automaattista menetelmää. Voit kuitenkin luoda uuden Outlook-Data tiedoston (. pst) Microsoft Outlook for Windows 2003-sovelluksessa tai uudemmassa ja tuoda sitten kohteet vanhasta tiedostosta uuteen tiedostoon. Voit tuoda uuden. pst-tiedoston Outlook for Maciin. Lisä tietoja. pst-tiedostojen luomisesta ja kohteiden tuomisesta on Outlook for Windows-versiosi ohjeessa. 
+> Outlook for Mac voi tuoda vain Unicode-pohjaisia .pst-tiedostoja, jotka ovat Omat kansiot -tiedostojen vakiomuoto Outlook (Windows) 2003-versiossa ja sitä uudemmissa versioissa. ANSI-muotoinen .pst-tiedosto (tunnetaan myös nimillä Outlook 97–2002 Omat kansiot -tiedostot) oli oman kansion vakiomuoto tietojen tallentamiseen Outlook for Windows-versioissa 97–2002. Tätä tiedostomuotoa ei voi tuoda Outlook for Mac. Jos sinulla on vanhempi ANSI-muotoinen .pst-tiedosto, tiedostoa ei muunneta automaattisesti uuteen tiedostomuotoon. Voit kuitenkin luoda uuden Outlook datatiedoston (.pst) Microsoft Outlook for Windows 2003:ssa tai sitä uudemmassa versiossa ja tuoda sitten kohteita vanhasta tiedostosta uuteen tiedostoon. Sen jälkeen voit tuoda uuden .pst-tiedoston Outlook for Mac. Lisätietoja .pst-tiedostojen luomisista ja kohteiden tuomiseen on oman versiosi ohjeessa, Outlook for Windows. 
 
-**Entourage-kohteiden avaaminen arkistosta tai aiemmasta versiosta**
+**Avaa Outlook (.pst tai .olm)**
 
-Voit tuoda kohteita, kuten sähkö posti viestejä, yhteys tietoja ja tapahtumia, Entourage 2004, Entourage 2008 tai Entourage 2008, Web Services Edition. Voit tuoda nämä kohteet myös Entourage-arkistosta, jonka tunniste on. RGE.
+Voit tuoda Outlook-Windows (.pst) tai Outlook for Mac datatiedoston (.olm). Nämä datatiedostot voivat sisältää suuria tietomääriä, jotka sisältävät useita kohdetyyppejä. Outlook Datatiedostoja käytetään usein arkistoina tai tietojen siirtämiseen tietokoneiden välillä.
 
-1. Valitse Outlook for Macin **tiedosto-** valikosta **tuo**.
+1. Valitse Outlook for Mac-valikossa **Tuo**.
 
-2. Valitse **Entourage-tiedot arkistosta tai aiemmasta versiosta**, napsauta oikeaa nuolta ja noudata sitten ohjeita.
+2. Valitse **Outlook datatiedosto** ja napsauta sitten oikealle osoittavaa nuolta.
+
+3. Valitse datatiedoston tyyppi ja napsauta sitten oikealle osoittavaa nuolta.
+
+4. Etsi datatiedosto tietokoneestasi ja valitse sitten **Tuo**.
+
+5. Kun tuonti on valmis, valitse **Valmis**.
+
+Tuodut kohteet näkyvät siirtymisruudussa Oman **tietokoneen kohdassa.**
 
 > [!NOTE]
-- Jos käytit Entourage-sovelluksessa Microsoft Exchange-tiliä, kaikki Exchange-tilin kohteet ladataan Exchange-palvelimesta, kun tuonti prosessi on valmis. Exchange-tiliin liittyvät säännöt tai aika taulut on määritettävä uudelleen Outlookissa.
+> Outlook for Mac tuoda vain Unicode-pohjaisia .pst-tiedostoja, jotka ovat Omat kansiot -tiedostojen vakiomuoto Outlook (Windows) 2003-versiossa ja sitä uudemmissa versioissa. ANSI-muotoiltuja .pst-tiedostoja, jotka tunnetaan myös nimellä Outlook 97–2002 Omat kansiot -tiedostoja, ei voi tuoda Outlook for Mac. Jos sinulla on vanhempi ANSI-muotoinen .pst-tiedosto, tiedostoa ei muunneta automaattisesti uuteen tiedostomuotoon. Voit kuitenkin luoda uuden Outlook-datatiedoston (.pst) Microsoft Outlook for Windows 2003:ssa tai sitä uudemmassa versiossa ja tuoda sitten vanhemman tiedoston kohteet uuteen tiedostoon. Sen jälkeen voit tuoda uuden .pst-tiedoston Outlook for Mac. Lisätietoja .pst-tiedostojen luomisista ja kohteiden tuomiseen on oman versiosi ohjeessa Outlook for Windows. 
 
-- Jos tuot kohteita Entourage 2004 tai Entourage 2008, Exchange-tilin kohteiden luokka tietoja ei tuoda Outlookiin. Entourage 2008-, Web Services Edition-ja luokka tiedot ladataan kuitenkin Exchange-palvelimesta.
+**Entourage-kohteiden avaaminen arkistosta tai aimmassa versiossa**
 
-- Outlook ei sisällä projekti keskusta. Jos käytit projekti keskusta Entourage-ohjelmassa ja tuot Entourage-tiedot Outlookiin, Project Center-kytkennät muunnetaan luokiksi. Jos esimerkiksi olet lisännyt kohteita projektiin, jonka nimi on "tutkimus paperi" Entourage-sovelluksessa, nämä kohteet määritetään Outlookissa "tutkimus paperi"-nimiseen luokkaan.
+Voit tuoda Entourage 2004-, Entourage 2008- tai Entourage 2008 Web Services Edition -versiosta kohteita, kuten sähköpostiviestejä, yhteystietoja ja tapahtumia. Voit myös tuoda nämä kohteet Entourage-arkistosta, jonka tunniste on .rge.
 
-- Mukautetut näkymät, haku asetukset ja tapahtuman matka-ajan tiedot Entourage-tietoja ei tuoda Outlookiin. Outlook-tapahtumat eivät sisällä matka-ajan tietoja.
+1. Valitse **Outlook for Mac-valikosta** **Tuo**.
 
-**Kohteen siirtäminen Arkisto kansiosta toiseen Outlookin kansioon**
+2. Valitse **Entourage-tiedot arkistosta tai aimmassa versiossa,** napsauta oikeaa nuolta ja noudata ohjeita.
+
+> [!NOTE]
+- Jos käytit Microsoft Exchange -tiliä Entouragen kanssa, kaikki Exchange-tilin kohteet ladataan Exchange-palvelimesta, kun tuonti on valmis. Kaikki tiliin liittyvät säännöt Exchange aikataulut on määritettävä uudelleen Outlook.
+
+- Jos tuot kohteita Entourage 2004: stä tai Entourage 2008:sta, Exchange-tilin kohteiden luokkatietoja ei tuoda Outlook. Entourage 2008 Web Services Editionissa luokkatiedot ladataan kuitenkin Exchange palvelimesta.
+
+- Outlook ei sisällä Project keskusta. Jos olet käyttänyt Project Entouragessa ja tuot sitten Entourage-tiedot Outlook, Project keskuksen kytkennät muunnetaan luokiksi. Jos olet esimerkiksi lisännyt Entouragessa Projektiin kohteita, joiden nimi on Entourage, näille kohteelle määritetään luokka, jonka nimi on Tutkimusasiakirja, Outlook.
+
+- Mukautettuja näkymiä, hakuasetuksia ja tapahtuman matka-aikatietoja Entouragesta ei tuoda Outlook. Outlook eivät sisällä matka-aikatietoja.
+
+**Kohteen siirtäminen arkistokansiosta toiseen kansion Outlook**
 
 1. Valitse kohde, jonka haluat siirtää.
 
-2. Valitse **Aloitus** -väli lehdessä **Siirrä** ja valitse sitten **Valitse kansio**.
+2. Valitse **Aloitus-välilehdessä** **Siirrä** ja valitse sitten **Valitse kansio**.
 
-3. Kirjoita haku ruutuun sen kansion nimi, jonka haluat siirtää, ja valitse **Siirrä**.
+3. Kirjoita hakuruutuun sen kansion nimi, jonka haluat siirtää, ja valitse **Siirrä**.
 
 > [!TIP]
-> Jos haluat kopioida kohteen Arkisto kansiosta toiseen Outlookin kansioon, vedä kohde kansioon, johon haluat sijoittaa kopion.
+> Jos haluat kopioida kohteen arkistokansiosta toiseen Outlook, vedä kohde kansioon, johon haluat sijoittaa kopion.
 
-**Katso myös**
+**Tutustu myös seuraaviin ohjeartikkeleihin:**
 
-- [Tietojen tuominen Outlookiin] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
+- [Tuo tiedot Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
-- [ICal-tai osoitteisto kohteiden tuominen Outlookiin](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
+- [iCal- tai Osoitteisto-kohteiden tuominen Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 
 
-- [Outlook-kohteiden vieminen tai manuaalinen arkistointi](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
+- [Kohteiden vieminen tai Outlook arkistointi](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
 
-- [Outlook-kohteiden automaattinen arkistointi tai varmuus kopiointi](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Kohteiden automaattinen arkistoiminen Outlook varmuuskopioiminen](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

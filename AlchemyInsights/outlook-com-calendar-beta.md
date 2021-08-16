@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064561"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Uusi kalenteri kokemus tulossa Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.comiin tulevat uudet kalenterikokemukset
 
-Uusi ulkoasu tuo parhaat mallit ja tietojen välittämisen-toiminnon sähkö Posti kokemuksesta kalenteriin.
+Uusi ulkoasu tuo parhaat ulkoasut ja opiskelut sähköpostikokemuksesta kalenteriin.
 
-Voit nauttia modernista muotoilusta, joka vähentää visuaalista sotkua ja tarjoaa nopeita tapoja siirtyä kalenterissa. Myös suosikkitoimintoihisi on helppo löytää kiinnostavia kalentereita – TV-esityksistä urheilu tiimeihin ja tapahtumiin.
+Voit käyttää modernia rakennetta, joka vähentää visuaalista sekasotkua ja nopeuttaa kalenterissa liikkumista. On myös helpompaa löytää mielenkiintoisia kalentereita suosikkiaktiviteettejasi varten – TV-esityksistä urheilujoukkueisiin ja tapahtumiin.
 
-Laajensimme tapahtuma kuvakkeiden kokoelmaa ja Päivitimme olemassa olevien tapahtumien ulkoasun ja nyt lisäät tapahtumiin automaattisesti osuvat kuvakkeet, jotta näet helposti, mitä yhdellä silmäyksellä tapahtuu.
+Laajensimme tapahtumakuvakkeiden kokoelmaa ja päivitimme aiemmin luotujen kuvakkeiden ulkoasua– ja lisäämme nyt tapahtumaasi automaattisesti merkityksellisiä kuvakkeita, jotta näet helposti, mitä tapahtuu yhdellä silmäyksellä.
 
-Voit antaa palautetta uusista ominaisuuksista [Outlook.com-kalenterin UserVoice-kanavan](https://go.microsoft.com/fwlink/?linkid=2103075)kautta.
+Voit antaa palautetta uusista ominaisuuksista [Outlook.com-kalenterin UserVoice-kanavan kautta.](https://go.microsoft.com/fwlink/?linkid=2103075)
