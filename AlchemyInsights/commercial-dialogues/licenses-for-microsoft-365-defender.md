@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Defenderin käyttöoikeudet
+title: Käyttöoikeus Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967978"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Microsoft 365 Defenderin käyttöoikeudet
+# <a name="licenses-for-microsoft-365-defender"></a>Käyttöoikeus Microsoft 365 Defender
 
-Seuraavat käyttöoikeudet tarjoavat maksuttoman käyttöoikeuden Microsoft 365 Defenderin ominaisuuksiin Microsoft 365 :n tietoturvakeskuksessa:
+Seuraavat käyttöoikeudet tarjoavat maksuttoman pääsyn Microsoft 365 Defender tietoturvakeskuksen Microsoft 365 ominaisuuksiin:
 
 - Microsoft 365 E5 tai A5
-- Microsoft 365 E5 Security tai A5 Security
+- Microsoft 365 E5 Security tai A5-suojaus
 - Windows 10 Enterprise E5 tai A5
 - Enterprise Mobility + Security (EMS) E5 tai A5
 - Office 365 E5 tai A5
 - Microsoft Defender for Endpoint
-- Microsoft Defenderin käyttäjätiedot
-- Microsoftin pilvisovellusten suojaus
+- Microsoft Defender for Identity
+- Microsoft Cloud App Security
 - Microsoft Defender for Office 365 (palvelupaketti 2)
 
     > [!NOTE]
-    > Tällä hetkellä Office 365:n kokeiluversion käyttöoikeudet eivät tarjoa käyttöoikeutta Microsoft 365 Defenderiin.
+    > Tällä hetkellä käyttöoikeussopimuksen Office 365 eivät tarjoa käyttöoikeuksia Microsoft 365 Defender.
 
-Lisätietoja on Microsoft [365 Enterprise -palvelupaketit -vertailussa.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Lisätietoja on Microsoft 365 Enterprise [vertailussa.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Eikö sinulla ole vielä käyttöoikeutta? [Kokeile Microsoft 365 -tilausta tai osta se.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Eikö sinulla ole vielä käyttöoikeutta? [Kokeile tilausta tai Microsoft 365 tilausta](https://go.microsoft.com/fwlink/?linkid=2143625).

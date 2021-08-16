@@ -1,5 +1,5 @@
 ---
-title: Julkisten kansioiden käytön hallinta Outlookin avulla
+title: Hallitse julkisten kansioiden Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032555"
 ---
-# <a name="control-access-to-public-folders-using-outlook"></a>Julkisten kansioiden käytön hallinta Outlookin avulla
+# <a name="control-access-to-public-folders-using-outlook"></a>Hallitse julkisten kansioiden Outlook
 
-Voit määrittää, k voivatko käyttäjät käyttää julkisia kansioita Outlookin avulla:
+Voit hallita sitä, k voivatko käyttäjät käyttää julkisia kansioita Outlook:
 
 1. Käytä `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false`
 
-$true: Salli käyttäjien käyttää julkisia kansioita Outlookissa  
-$false: Estä käyttäjien pääsy Yleisiin kansioihin Outlookissa. Tämä on oletusarvo.  
+$true: Salli käyttäjien käyttää Outlook  
+$false: Voit estää Outlook:n julkisten kansioiden Outlook. Tämä on oletusarvo.  
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-Huomautus: Tässä menettelyssä voidaan hallita ainoastaan yhteyksiä Outlookin työpöytäversioon Windows-asiakassovellohjelmia varten. Käyttäjät voivat edelleen käyttää julkisia kansioita OWA:n tai Outlook for Macin avulla.
+Huomautus: Tämä toimintosarja voi hallita vain Outlook työpöytäsovelluksen Windows kanssa. Käyttäjät voivat edelleen käyttää julkisia kansioita OWA:n tai Outlook for Mac.
 
-Lisätietoja on kohdassa [Hallitut yhteydet yleisiin kansioihin Outlookissa.](https://aka.ms/controlpf)
+Lisätietoja on kohdassa [Hallitut yhteydet](https://aka.ms/controlpf) Outlook kansioihin.

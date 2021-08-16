@@ -1,5 +1,5 @@
 ---
-title: 8000087 Outlook.com pikanäppäimet
+title: 8000087 Outlook.comin pikanäppäimet
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 875363cc21eb62ecd77c460991e3fe9773e4ec85268eb813da3dbd13bb6bb079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041439"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>Keyboard shortcuts in Outlook.com
+# <a name="keyboard-shortcuts-in-outlookcom"></a>Outlook.comin pikanäppäimet
 
-In Outlook.com you can use the same keyboard shortcuts as the email service you're used to working with, such as Gmail, Yahoo Mail, or Outlook.com.
+Outlook.comissa voit käyttää samoja pikanäppäimiä kuin sähköpostipalvelussa, jota olet tottunut käyttämään, kuten Gmailia, Yahoo Mailia tai Outlook.comia.
 
-Siirry [helppokäyttöasetusten asetuksiin](https://go.microsoft.com/fwlink/?linkid=2080840)  
- > **Näytä kaikki Outlookin asetukset**  >  **Yleiset**  >  **Helppokäyttöisyys**) ja valitse, mitä pikanäppäimiä haluat käyttää.
+Siirry [Helppokäyttötoimintojen asetukset -Asetukset](https://go.microsoft.com/fwlink/?linkid=2080840)  
+ > **Kaikkien Outlook asetusten tarkasteleminen**  >  **Yleiset**  >  **Helppokäyttötoiminnot**) ja valitse, mitä pikanäppäimiä haluat käyttää.
 
-Täydellinen luettelo pikanäppäimistä on Outlook.com [näppäinoikoteiden luettelossa.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
+Täydellinen luettelo pikanäppäimistä on kohdassa [Outlook.com.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
