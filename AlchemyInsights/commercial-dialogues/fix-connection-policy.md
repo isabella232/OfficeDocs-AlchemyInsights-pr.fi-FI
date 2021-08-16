@@ -1,5 +1,5 @@
 ---
-title: Yhteyskäytännön ratkaiseminen
+title: Yhteyskäytännön korjaus
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0b6286350e706e493f6d30b7978aacedc02daff5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988098"
 ---
-# <a name="fix-connection-policy"></a>Yhteyskäytännön ratkaiseminen
+# <a name="fix-connection-policy"></a>Yhteyskäytännön korjaus
 
-Sähköposti on merkitty turvalliseksi ja toimitettu käyttäjän Saapuneet-kansioon, koska lähettävä IP-osoite on merkitty turvalliseksi Yhteyssuodatin-käytännön avulla. Voit tarkistaa käytännön seuraavasti:
+Sähköpostiviesti merkittiin turvallisiksi ja toimitettiin käyttäjän Saapuneet-kansioon, koska lähettävä IP-osoite oli merkitty turvalliseksi Yhteyssuodatin-käytännön avulla. Voit tarkistaa käytännön seuraavasti:
 
-1. Siirry [Office 365:n tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten **uhkien**  >  **hallintakäytäntöön**  >  [roskapostin estoon.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Valitse **Mukautettu-välilehdessä** **Yhteyssuodatin-käytäntö** ja valitse sitten **Muokkaa käytäntöä.**
-3. Tarkista **SALLITTUJEN IP-osoitteiden** luettelo. Katso, **onko turvallinen luettelo** käytössä.
+1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten Threat Management Policy Anti-spam (Uhkien   >  **hallintakäytäntö**  >  [roskapostin esto) -keskukseen.](https://go.microsoft.com/fwlink/?linkid=2101518)
+2. Valitse **Mukautettu-välilehdessä** **Yhteyssuodatinkäytäntö** ja valitse sitten **Muokkaa käytäntöä**.
+3. Tarkista **SALLITTUJEN IP-osoitteiden** luettelo. Katso, **onko Lokero otettu** käyttöön.
 
     > [!NOTE]
-    > Microsoft tilaa luotettavien lähettäjien kolmannen osapuolen lähteitä. Jos **turvallinen luettelo** on käytössä, näitä luotettavia lähettäjiä ei merkitä vahingossa roskapostiksi. Suosittelemme tämän asetuksen valitsemista, koska se vähentää vastaanottamiasi virheellisiä positiivisia viestejä (roskapostiksi luokiteltuja hyviä viestejä).
+    > Microsoft tilaa luotettavien lähettäjien kolmannen osapuolen lähteitä. Jos **Lokero** on otettu käyttöön, näitä luotettavia lähettäjiä ei merkitä vahingossa roskapostiksi. Suosittelemme tämän asetuksen valitsemista, koska se vähentää vastaanottattamiasi virheellisiä positiivisia viestejä (roskapostiksi luokiteltuja hyviä viestejä).

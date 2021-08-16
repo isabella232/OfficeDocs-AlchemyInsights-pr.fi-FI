@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988096"
 ---
 # <a name="export-ediscoverycontent-search-results"></a>eDiscovery-/sisältöhaun tulosten vieminen
 
-Sinun on ehkä vietävä hakutulokset PST-tiedostoon (sähköpostista) tai alkuperäisiin Office-tiedostoihin (SharePoint- ja OneDrive for Business -sivustoista). Jos näin on, tee näin:
+Sinun on ehkä vietävä hakutulokset PST-tiedostoon (sähköpostista) tai alkuperäisiin Office (SharePoint ja OneDrive for Business sivustoihin). Jos näin on, tee näin:
 
-- Varmista, että tilillesi on määritetty asianmukaiset vientioikeudet. Lisätietoja on kohdassa [eDiscovery-käyttöoikeuksien määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2102406)
-- Varmista, että tietokoneesi täyttää [kaikki edellytykset.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Kaikkia selaimia, kuten Chromea, ei tueta.
-- Vieminen sisältöhaun avulla: a. Siirry [tietoturva- & yhteensopivuuskeskukseen,](https://protection.office.com/contentsearch) valitse **Hae** ja valitse sitten **Sisältöhaku.** Valitse **tallennettu haku** Sisältö-hakusivulla.
-    b. Valitse Tiedot-ruudun Vie **tulokset tietokoneeseen -kohdassa** Aloita **vienti.** Jos viet yli 100 000 postilaatikkoa, sinun on ladattava vientitulokset PowerShellin avulla. Lisätietoja on kohdassa Yli [100 000 000 postilaatikon tulosten vieminen.](https://go.microsoft.com/fwlink/?linkid=2143861)
+- Varmista, että tilillesi on määritetty vientiin tarvittavat käyttöoikeudet. Lisätietoja on kohdassa [eDiscovery-oikeuksien määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Varmista, että tietokone täyttää kaikki [edellytykset](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Kaikkia selaimia ei tueta, kuten Chromea.
+- Vieminen sisältöhaun avulla: a. Siirry [tietoturva- & yhteensopivuuskeskukseen,](https://protection.office.com/contentsearch) valitse **Hae** ja valitse sitten **Sisältöhaku**. Valitse **sisältöhakusivulla** tallennettu haku.
+    b. Valitse Tiedot-ruudun **Vie tulokset tietokoneeseen -kohdassa** **Aloita vienti.** Jos viet yli 100 000 000 postilaatikkoa, sinun on ladattava vientitulokset PowerShellin avulla. Lisätietoja on kohdassa Yli [100 000 000](https://go.microsoft.com/fwlink/?linkid=2143861)postilaatikon tulosten vieminen.
 
-Lisätietoja on kohdassa [Sisällön hakutulosten vieminen.](https://go.microsoft.com/fwlink/?linkid=2102118)
+Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen.](https://go.microsoft.com/fwlink/?linkid=2102118)

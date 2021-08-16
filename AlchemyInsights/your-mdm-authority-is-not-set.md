@@ -1,5 +1,5 @@
 ---
-title: MDM-myöntäjältä ei ole valittu
+title: MDM-myöntäjää ei ole määritetty
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046677"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>MDM-myöntäjältä ei ole valittu
+# <a name="your-mdm-authority-is-not-set"></a>MDM-myöntäjää ei ole määritetty
 
-Tämän vuokra ajan mobiililaitteiden hallinnan (MDM) valtuuksia ei ole vahvistettu. Sinun on määritettävä MDM-myöntäjä ennen laitteiden rekisteröimää ja hallintaa Intune MDM-sovelluksen kautta. Määrittämättä MDM-auktoriteettia et voi käyttää Intusen MDM-ominaisuuksia. MDM-myöntäjän asetus määrittää, miten hallitset laitteita.
+Tämän vuokraajan mobiililaitteiden hallinnan myöntäjää ei ole määritetty. MDM-myöntäjä on määritettävä ennen laitteiden rekisteröintiä ja hallintaa Intunen mobiililaitteiden hallinnan kautta. Jos et määritä MDM-hallintaa, et voi käyttää Intunen MDM-ominaisuuksia. MDM-myöntäjän asetus määrittää, miten hallitset laitteitasi.
 
 Suositellut vaiheet:
-1. Voit asettaa MDM-viran omaisen siirtymällä Intune-rekisteröinnin yleistä-terään.
-2. Valitse sopiva viran omainen järjestelmänvalvojan tarpeiden mukaan. Lisä tietoja on [artikkelissa mobiililaitteiden hallinta viranomaisen artikkelin määrittäminen](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Määritä MDM-myöntäjä siirtymällä Intune Enrollment Overview (Intune-rekisteröinnin yleiskatsaus) -kohtaan.
+2. Valitse asianmukainen hallintotarpeisiisi perustuva valtuus. Lisätietoja on artikkelissa [Mobiililaitteiden hallinnan myöntäjän tietojen hallintaartikkeli](https://docs.microsoft.com/intune/mdm-authority-set).

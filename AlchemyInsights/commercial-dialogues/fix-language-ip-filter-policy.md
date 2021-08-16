@@ -1,5 +1,5 @@
 ---
-title: Kieli- ja IP-suodatinkäytännön korjaukset
+title: Kieli- ja IP-suodatuskäytännön korjaukset
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017093"
 ---
-# <a name="fix-languageip-filter-policy"></a>Kieli- ja IP-suodatinkäytännön korjaukset
+# <a name="fix-languageip-filter-policy"></a>Kieli- ja IP-suodatuskäytännön korjaukset
 
-Tämä sanoma koskee vuokraajan mukautettua roskapostin estokäytäntöä. Voit tarkistaa käytännön seuraavasti:
+Tämä sanoma vaikuttaa vuokraajasi mukautettuun roskapostin estokäytäntöön. Voit tarkistaa käytännön seuraavasti:
 
-1. Siirry [Office 365:n tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten **uhkien**  >  **hallintakäytäntöön**  >  [roskapostin estoon.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Valitse **Mukautettu-välilehdessä** roskapostin **oletussuodatinkäytäntö** tai mikä tahansa muu mukautettu käytäntö, jonka olet mahdollisesti luonut, ja valitse sitten **Muokkaa käytäntöä.**
+1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten Threat Management Policy Anti-spam (Uhkien   >  **hallintakäytäntö**  >  [roskapostin esto) -keskukseen.](https://go.microsoft.com/fwlink/?linkid=2101518)
+2. Valitse **Mukautettu-välilehdessä** **Roskapostin oletussuodatuskäytäntö** tai mikä tahansa muu luomasi mukautettu käytäntö ja valitse sitten **Muokkaa käytäntöä**.
 3. Laajenna Kansainvälinen **roskaposti -vaihtoehto** ja tarkista asetukset.
 
-Lisätietoja roskapostin suodatuskäytäntöjen määrittämisestä on kohdassa [Mukautettujen roskapostisuodatinkäytäntöasetusten määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2101054)
+Lisätietoja roskapostin suodatuskäytäntöjen määrittämisestä on kohdassa [Roskapostin suodatuskäytäntöjen mukautettujen asetusten määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2101054)

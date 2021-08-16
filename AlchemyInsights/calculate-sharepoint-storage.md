@@ -1,5 +1,5 @@
 ---
-title: SharePoint-tallennustilan laskeminen
+title: Tallennustilan SharePoint laskeminen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046425"
 ---
-# <a name="calculate-sharepoint-storage"></a>SharePoint-tallennustilan laskeminen
+# <a name="calculate-sharepoint-storage"></a>Tallennustilan SharePoint laskeminen
 
-**Tallennustilakaava:** 1 Tt ja 10 Gt per käyttöoikeus, joka on ostettu, sekä mikä tahansa **[Office 365:n](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** lisätallennustilan lisäosa ostettu. [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
+**Tallennus:** 1 Tt plus 10 Gt per [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) kelpoisuussopimus, sekä **[Office 365 -lisätallennustila](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** lisäosa ostettu.
 
-Lisätietoja on kohdassa [SharePoint-tallennustilarajat palvelupakettien mukaan.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Lisätietoja on kohdassa SharePoint [tallennustilarajat suunnitelman mukaan.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)

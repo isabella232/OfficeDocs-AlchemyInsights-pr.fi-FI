@@ -1,5 +1,5 @@
 ---
-title: Katso, miten Microsoft Edge tukee Windowsin tieto suojausta (KET)
+title: Lue, Microsoft Edge tukee Windows tietojen suojausta
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054315"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Katso, miten Microsoft Edge tukee Windowsin tieto suojausta (KET)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Lue, Microsoft Edge tukee Windows tietojen suojausta
 
-Kun etätyöntekijät lisääntyvät, myös yritys laitteissa olevien henkilökohtaisten ja työtoimintojen määrä kasvaa. Tämä puolestaan lisää riskiä siitä, että yritys tiedot voivat tulla jaetuksi työpaikan ulkopuolella. Tämän riskin lieventämiseksi Microsoft Edge (versio 81 tai uudempi) tukee Windows Information Protectionin (WIP): Windows-10-ominaisuutta, joka auttaa suojaamaan yritys tietoja luvattomalta ja vahingossa esitettävistä tiedoista.
+Kun etätyöntekijöiden määrä kasvaa, myös yrityksen laitteissa tapahtuu henkilökohtaisia ja työtoimia. Tämä puolestaan lisää riskiä, että yritystiedot voidaan jakaa työpaikan ulkopuolelle. Riskien lieventämiseksi Microsoft Edge (versio 81 tai uudempi) tukee Windows Information Protection (WIP) -ominaisuutta: Windows–10 -ominaisuus, joka suojaa yritystietoja luvattomilta ja tahattomien paljastumisilta.
