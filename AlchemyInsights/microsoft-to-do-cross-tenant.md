@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012161"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoftin tehtävä ristiinvuokraajajakaminen
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do jakaminen vuokraajasta
 
-Microsoft to do tukee luettelon jakamista henkilökohtaisten ja työtunnusten välillä. Tämä mahdollistaa organisaation käyttäjien
+Microsoft To Do tukee luettelon jakamista henkilökohtaisten ja työtilien välillä. Näin organisaatiosi käyttäjät voivat
 
-Voit liittyä, tarkastella, muokata ja lisätä tietoja omien Microsoft-tiliesi omistamiin luetteloihin.
+liittyä, tarkastella, muokata ja lisätä tietoja henkilökohtaisten Microsoft-tilien omistamien luetteloiden tietoihin.
 
-Järjestelmänvalvojien käytettävissä on uusi järjestelmänvalvoja-asetus, joka poistaa tämän ominaisuuden käytöstä poistamalla vaihto ehdon valinnan.
+Järjestelmänvalvojille on uusi järjestelmänvalvojan asetus, jonka avulla he voivat poistaa tämän ominaisuuden käytöstä poistamalla asetuksen valinnan.
 
-Järjestelmänvalvoja voi löytää tämän asetuksen hallinta portaalissa kohdasta **Asetukset**  >  **org-asetukset**  >  **Palvelut**  >  **Microsoft to do** .  
+Järjestelmänvalvoja voi etsiä tämän asetuksen hallintaportaalissa kohdassa Asetukset  >  **Org Asetukset**  >  **Services**  >  **Microsoft To Do.**  
 
 [Miksi en voi liittyä jaettuun luetteloon?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

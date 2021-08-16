@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058035"
 ---
 # <a name="turn-on-mailbox-auditing"></a>Postilaatikon valvonnan käyttöönottaaminen
 
@@ -27,4 +27,4 @@ Jos haluat ottaa postilaatikon valvonnan käyttöön yksittäiselle käyttäjäl
 - **Yksittäinen** käyttäjä: Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
 - **Organisaatio:** Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled-$true
 
-Lisätietoja on ohjeaiheessa [Postilaatikon valvonnan hallinta.](https://go.microsoft.com/fwlink/?linkid=2103668)
+Lisätietoja on kohdassa [Postilaatikon valvonnan hallinta.](https://go.microsoft.com/fwlink/?linkid=2103668)

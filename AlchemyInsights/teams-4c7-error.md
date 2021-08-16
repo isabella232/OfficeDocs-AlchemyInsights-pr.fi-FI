@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049305"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c7-virhe Microsoft Teamsissa
+# <a name="4c7-error-in-microsoft-teams"></a>4c7-virhe Microsoft Teams
 
-Tämä virhe ilmenee, koska Microsoft Teams edellyttää Forms-todennusta. Kun otat Active Directory Federation Servicesin (AD FS) käyttöön, lomakkeiden todennus ei ole oletusarvoisesti käytössä intranetissä. Jos Windows Integrated Authentication epäonnistuu, sinua pyydetään kirjautumaan sisään käyttämällä Forms-todennusta.
+Tämä virhe ilmenee, koska Microsoft Teams edellyttää lomakkeiden todennusta. Kun otat Active Directory Federation Servicesin (AD FS) käyttöön, lomakkeiden todennus ei ole oletusarvoisesti käytössä intranetissä. Jos Windows integroitu todennus epäonnistuu, sinua pyydetään kirjautumaan sisään käyttämällä Forms-todennusta.
 
 Voit ratkaista tämän ongelman käyttäen AD FS Microsoft Management Console (MMC) -laajennusta tietokoneessa, jossa on paikallinen Active Directory -versio, käyttäen lomakkeiden todennusta. Voit tehdä tämän seuraavasti: 
 

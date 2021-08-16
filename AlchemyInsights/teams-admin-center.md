@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049341"
 ---
 # <a name="teams-admin-center"></a>Teams-hallintakeskus
 
@@ -32,5 +32,5 @@ Jos käyttäjiä ei näy Teams-hallintakeskuksessa, varmista seuraavat asiat:
 
 - Oletko luonut käyttäjiä tai määrittänyt käyttöoikeuksia viimeksi kuluneiden 24 tunnin aikana? Varmista, että odotat vähintään 24 tuntia ennen tukipyynnön avaamista.
 - Varmista, että olet määrittänyt oikeat käyttöoikeudet.
-- Jos käytössäsi on paikallinen Active Directory, varmista, että [paikallisen Active Directoryn ProxyAddresses-kentän msRTCSIP-PrimaryUserAddress-](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) tai SIP-osoite on yksilöllinen ja muoto vastaa muotoa **sip:** Käyttäjän käyttäjänimi [Microsoft 365 -hallintakeskuksesta.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
-- Jos aiot pitää Skype for Business Serverin käyttöönoton ja määrittää käyttäjät kotikäyttöön paikallisesti ja verkossa: seuraa Skype for Business Serverin Ohjauspaneelissa **olevaa "Set up hybrid with Teams and Skype for Business Online"** (Teamsin ja Skype for Business Onlinen yhdistelmäympäristön määrittäminen) -ohjetta ja siirrä käyttäjiä verkossa.
+- Jos käytössäsi on paikallinen Active Directory, varmista, että [paikallisen Active Directoryn ProxyAddresses-kentän msRTCSIP-PrimaryUserAddress-](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) tai SIP-osoite on yksilöllinen ja muoto vastaa muotoa **sip:** [käyttäjän käyttäjänimi Microsoft 365 -hallintakeskus.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Jos aiot pitää Skype for Business Server-käyttöönoton ja määrittää käyttäjiä kotikäyttöön paikallisesti ja verkossa: noudata Skype for Business Server-ohjauspaneelissa olevaa "Set **up hybrid with Teams and Skype for Business Online"** (Määritä yhdistelmäympäristö Teams:n ja Skype for Business Onlinen kanssa) -ohjetta ja siirrä käyttäjiä verkossa.
