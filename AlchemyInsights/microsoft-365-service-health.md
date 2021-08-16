@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 -palvelun kunto
+title: Microsoft 365 Palvelun kunto
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098455"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 -palvelun kunto
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Palvelun kunto
 
 
 Tarkista minkä tahansa palvelun kunto Palvelun kunto [-koontinäytöstä.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Valitsemalla **oikeassa yläkulmassa Uusi** hallintakeskus näet uudet Palvelun kunto -vaihtoehdot.
@@ -30,4 +30,4 @@ Tarkista minkä tahansa palvelun kunto Palvelun kunto [-koontinäytöstä.](http
 
 - Valitse **Historia,** jos haluat tarkastella organisaatiosi palvelun kuntohistoriaa. 
 
-Lisätietoja on kohdassa [Microsoft 365 -palvelun kuntotietojen tarkastaminen.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+Lisätietoja on kohdassa Palvelun [kuntotietojen Microsoft 365 tarkistaminen.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
