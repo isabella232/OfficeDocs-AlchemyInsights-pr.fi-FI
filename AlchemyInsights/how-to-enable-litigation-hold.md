@@ -1,5 +1,5 @@
 ---
-title: 976-käyttö oikeus-käyttöön-oikeuden käynnit-pito
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067513"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Posti laatikon asettaminen oikeudelliseen pitoon
+# <a name="place-a-mailbox-on-legal-hold"></a>Postilaatikon siirtäminen juridista pitoon
 
-- Jos haluat sijoittaa posti laatikon oikeus toimiin liittyvään pitoon tai pitoon, Exchange Online-paketin 2 käyttö oikeuden [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) -käyttö oikeus sopimus 2 on pakollinen. Jos posti laatikolle on määritetty sopimus 1-käyttö oikeus, voit määrittää erillisen Exchange Online-arkistointi-apuohjelman käyttö oikeuden [Exchange Online-arkistointi-apuohjelman käyttö](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)oikeus.
+- Jos haluat sijoittaa postilaatikon oikeus pitoon tai In-Place pitoon, Exchange Online on oltava Exchange Online käyttöoikeussopimus [2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Jos postilaatikolle on määritetty Plan 1 -käyttöoikeus, voit määrittää erillisen Exchange Online Archiving lisäosan [Exchange Online Archiving lisäkäyttöoikeus .](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Jos haluat ottaa käyttöön oikeus toimiin liittyvän pidon yksittäiselle käyttäjälle, [toimi](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)seuraavasti. Kun oikeus toimiin liittyvään pitoon on otettu käyttöön, kaikki posti laatikon sisältö säilytetään.
+- Jos haluat ottaa oikeustoimia varten pitooikeuden käyttöön yksittäiselle käyttäjälle, [toimi seuraavasti.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) Kun oikeus oikeus tehdä pito on käytössä, postilaatikon kaikki sisältö säilytetään.
 
-- Jos haluat säilyttää organisaation kaikkien posti laatikoiden sisällön tai luoda muuntyyppisiä säilytys käytäntöjä, käytä säilytys käytäntöä tai-otsikoita. Huomaa, että Organisaatiokohtaiset säilytys käytännöt: uudet käyttäjät määritetään automaattisesti käytäntöön. Lisä tietoja on Ohje aiheessa [lisä tietoja säilytys käytännöistä ja säilytys merkinnöistä](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
+- Säilytyskäytäntöä tai selitteet voivat säilyttää organisaation kaikkien postilaatikoiden sisällön tai luoda muuntyyppisiä säilytys pitoja. Huomaa, että koko organisaation laajuiset säilytyskäytännöt määritetään automaattisesti uusille käyttäjille. Lisätietoja on kohdassa Tietoja [säilytyskäytännöistä ja säilytysmerkinnöistä.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) 

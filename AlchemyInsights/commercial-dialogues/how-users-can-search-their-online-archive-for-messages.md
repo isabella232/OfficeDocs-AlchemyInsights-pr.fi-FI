@@ -1,5 +1,5 @@
 ---
-title: Miten käyttäjät voivat etsiä viestejä online-arkistostaan?
+title: Miten käyttäjät voivat hakea viestejä online-arkistostaan?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034499"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Miten käyttäjät voivat etsiä viestejä online-arkistostaan?
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Miten käyttäjät voivat hakea viestejä online-arkistostaan?
 
-Online-arkisto on ominaisuus Office 365 -yritysasiakkaille, joilla on epätavallisesti suuria postilaatikoita. Käyttäjän online-arkisto toimii jonkin verran kuin toinen Outlook-tili, jolla on oma kansiorakenne. Sähköpostin etsiminen online-arkistosta:
+Online-arkisto on toiminto yritysasiakkaille Office 365 joilla on epätavallisesti suuria postilaatikoita. Käyttäjän online-arkisto toimii jonkin verran kuin toinen tili Outlook kansiorakennetta. Sähköpostin etsiminen online-arkistosta:
 
-1. Online-arkistoa ei sisällytetä Saapuneet-kansiosta tehtyihin hakuihin. Sinun on siirryttävä online-arkistoon ja suoritettava haku.
-2. Outlookin verkkosovelluksessa arkistoa kutsutaan paikallaan *arkistoksi.* Siirry In-Place arkistopostilaatikkoon ja suorita sitten haku.
-3. Outlook 2016:ssa sen nimi on *Online-arkisto `name` > – <.* Siirry Online-arkisto-postilaatikkoon ja suorita sitten haku.
+1. Online-arkistoa ei sisällytetä Saapuneet-kansiossa tehtyihin hakuihin. Sinun on siirryttävä online-arkistoon ja suoritettava haku.
+2. Tämän Outlookin verkkoversio arkiston nimi on *Paikallaan arkisto.* Siirry In-Place arkistopostilaatikkoon ja suorita sitten haku.
+3. Outlook 2016 online-arkiston nimi *on <. `name` >* Siirry Online-arkisto-postilaatikkoon ja suorita haku.
 
 > [!TIP]
-> Käyttäjät eivät voi käyttää online-arkistopostilaatikkoaan mobiililaitteen, kuten älypuhelimen, Outlookin avulla.
+> Käyttäjät eivät voi käyttää online-arkistopostilaatikkoaan Outlook käyttää mobiililaitetta, kuten älypuhelinta.

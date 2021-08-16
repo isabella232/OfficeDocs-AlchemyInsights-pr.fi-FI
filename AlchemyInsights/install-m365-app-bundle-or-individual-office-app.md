@@ -1,5 +1,5 @@
 ---
-title: Asenna Microsoft 365-sovellus paketti tai yksittäinen Office-sovellus
+title: Asenna Microsoft 365-sovelluspaketti tai yksittäinen Office-sovellus
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067405"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Asenna Microsoft 365-sovellus paketti tai yksittäinen Office-sovellus
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Asenna Microsoft 365-sovelluspaketti tai yksittäinen Office-sovellus
 
-Microsoft 365-sovellus paketti sisältää Wordin, Excelin ja PowerPointin. Paketti on saatavilla iPhonelle, ja se on käytettävissä iPadissa tulevaisuudessa. Yksittäiset sovellukset ovat saatavilla sekä iPhonelle että iPadille.
+Microsoft 365-sovelluspaketti sisältää Wordin, Excel ja PowerPoint. Paketti on saatavilla iPhone, ja se on iPad myöhemmin. Yksittäiset sovellukset ovat iPhone sekä iPad.
 
-1. [Asenna sovellus paketti](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [Asenna sovelluspaketti](https://go.microsoft.com/fwlink/?linkid=2136762)
 1. [Wordin asentaminen](https://go.microsoft.com/fwlink/?linkid=2136974)
-1. [Excelin asentaminen](https://go.microsoft.com/fwlink/?linkid=2136975)
-1. [PowerPointin asentaminen](https://go.microsoft.com/fwlink/?linkid=2136882)
+1. [Asenna Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
+1. [Asenna PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
 1. [Asenna OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-Lisä tietoja on artikkelissa [Officen asentaminen ja määrittäminen iPhoneen tai iPadiin](https://go.microsoft.com/fwlink/?linkid=2135560).
+Lisätietoja on kohdassa [Asennukset ja Office iPhone iPad.](https://go.microsoft.com/fwlink/?linkid=2135560)

@@ -1,5 +1,5 @@
 ---
-title: Käytön rajoittaminen SharePointissa tai OneDrivessa
+title: Käytön rajoittaminen SharePoint OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7b68df2ae24b09fe9b01bd67c31a89e37f284a512bc1ecb097ef52fae5ae7d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075037"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Käytön rajoittaminen SharePointissa tai OneDrivessa
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Käytön rajoittaminen SharePoint OneDrive
 
-SharePointin ja OneDriven avulla voit rajoittaa tiedostojen, kansioiden ja luetteloiden kaltaisia kohteita myöntämällä vain ryhmille tai henkilöille, joille haluat käyttää Accessia. SharePointin käyttö oikeudet periytyvät oletusarvoisesti ylemmäksi hierarkiassa. Tiedosto perii sen käyttö oikeudet kansiosta, jolloin sen käyttö oikeudet periytyvät kirjastosta, jolloin sen käyttö oikeudet periytyvät sivustosta.
+Voit SharePoint OneDrive ja luetteloissa kohteita, kuten tiedostoja, kansioita ja luetteloita, myöntämällä käyttöoikeudet vain ryhmille tai henkilöille, joiden haluat voi käyttää. Oletusarvoisesti käyttöoikeudet periytyvät SharePoint hierarkiassa ylempään tasoon. Tiedosto perii siis käyttöoikeutensa kansiosta, joka perii sen käyttöoikeudet kirjastosta, joka perii sen käyttöoikeudet sivustolta.
   
-Voit jakaa sen korkeamman tason (esimerkiksi jakamalla koko sivuston) ja katkaista periytymisen, jos et halua jakaa kaikkia sivuston kohteita. Emme kuitenkaan suosittele tätä, koska se tekee käyttö oikeuksien säilyttämisestä monimutkaisemman ja sekavan tulevaisuudessa. Voit tehdä sen sen sijaan seuraavasti:
+Voit jakaa tiedoston ylemmällä tasolla (esimerkiksi jakamalla koko sivuston) ja katkaista periytymisen, jos et halua jakaa kaikkia sivuston kohteita. Emme kuitenkaan suosittele tätä, koska se tekee käyttöoikeuksien säilyttämisestä myöhemmin monimutkaisempaa ja sekavampaa. Voit tehdä sen sijaan näin:
   
-- Jos haluat esimerkiksi jakaa koko kansion sisällön paitsi yhden tiedoston, siirrä tiedosto uuteen sijaintiin, jota ei jaeta.
+- Jos esimerkiksi haluat jakaa kansion kaiken sisällön yhtä tiedostoa lukuun ottamatta, siirrä tiedosto uuteen sijaintiin, jota ei ole jaettu.
     
-- Jos sinulla on kaksi alikansiota kansiossa ja haluat jakaa yhden alikansion ryhmien A ja B kanssa ja sallia vain ryhmän toisen alikansion käytön, Jaa pääkansio ryhmän A kanssa ja lisää ryhmä B ensimmäiseen alikansioon.
+- Jos kansiossa on kaksi alikansiota ja haluat jakaa yhden alikansion ryhmien A ja B kanssa ja sallia vain ryhmän A pääsyn toiseen alikansioon, jaa pääkansio ryhmän A kanssa ja lisää ryhmä B ensimmäiseen alikansioon.
     
-[Tiedoston tai kansion jakamisen lopettaminen ](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Tiedoston tai kansion jakamisen pysäyttäminen ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

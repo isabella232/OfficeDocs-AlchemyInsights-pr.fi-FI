@@ -1,5 +1,5 @@
 ---
-title: Officen Akti voiminen
+title: Office
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: a3dcb4e87965ad655164c100f43b2355675c620b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73c57123c2d1405de90c41ab13b752cf3ccd7201d3d17bb8e6f6ae25a2e0e7ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067549"
 ---
-# <a name="how-to-activate-office"></a>Officen Akti voiminen
+# <a name="how-to-activate-office"></a>Office
 
-Jotta Office voidaan asentaa ja aktivoida, järjestelmänvalvojan on täytynyt määrittää [Office-käyttö oikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) käyttäjän työpaikan tai oppi laitoksen tilille.
+Järjestelmänvalvojan on Office asentaa ja aktivoida Office käyttöoikeus [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) käyttäjän työ- tai koulutilille.
   
-Kun Office on asennettu, sovellukset käynnistyvät useissa tapa uksissa automaattisesti, ja jos käyttäjää ei kehoteta Akti voimaan, hän voi aloittaa Officen käytön heti.
+Kun Office, sovellukset aktivoituvat usein automaattisesti. Jos käyttäjää ei kehoteta aktivoimaan, hän voi aloittaa Office heti.
   
-Jos käyttäjää pyydetään **Kirjautu maan Officen määrittämiseen**, hänen on kirjauduttava sisään työpaikan tai oppi laitoksen tilillä, jolla on jo oltava [määritetty Office-käyttö oikeus](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Jos käyttäjää kuitenkin pyydetään kirjautumaan sisään **Office**- kirjautumista varten, hänen on kirjauduttava sisään työ- tai koulutilillä, jolle on jo määritetty [Office käyttöoikeus.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
   
-Lisä tietoja on kohdassa [Officen Akti voiminen PC-tieto koneeseen](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) tai [Officen Akti voiminen Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA)-koneessa.
+Lisätietoja on tavassa [Aktivoi Office PC:ssä](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) tai [Aktivoi Office Macissa.](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA)
   

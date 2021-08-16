@@ -1,5 +1,5 @@
 ---
-title: 8000006 muuta profiilin nimi Outlook.com
+title: 8000006 profiilin nimen muuttaminen Outlook.comissa
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: b0fe9d7f62738b96c9887f7b18fc29c90436ee71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29383f8b4c943871cdf12c2056d946f4ad841de0260a13fc824031daa78c0e6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082507"
 ---
-# <a name="change-your-profile-name"></a>Profiilin nimen vaihtaminen
+# <a name="change-your-profile-name"></a>Profiilin nimen muuttaminen
 
-1. Siirry [Microsoft-tilisi tietoihin](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Siirry [Microsoft-tilitietosi -kohdassa.](https://go.microsoft.com/fwlink/p/?linkid=860841)
     
-2. Valitse **Muokkaa nimeä**. 
+2. Valitse **Muokkaa nimeä.** 
     
-3. Kirjoita etu-ja suku nimi ja valitse **Tallenna**. 
+3. Kirjoita etunimi ja sukunimi ja valitse **Tallenna**. 
     
-Odota 24 tuntia, ennen kuin profiili nimesi muutokset tulevat voimaan.
+Salli jopa 24 tuntia, että profiilin nimen muutokset tulevat voimaan.
   
-Lisä tietoja on artikkelissa [profiili kuvan tai nimen vaihtaminen Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
+Lisätietoja on ohjeaiheessa [Profiilikuvan tai nimen muuttaminen Outlook.com.](https://go.microsoft.com/fwlink/?linkid=873110)
   
 

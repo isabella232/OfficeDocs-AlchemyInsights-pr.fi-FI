@@ -15,24 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 07ad754a927be92ece07f91c5a64d8084c96d0344925467a195033bdd3f445ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075073"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Poistetun postilaatikon palauttaminen
 
-Kun käyttäjä menettää Exchange Online -käyttöoikeuden, hänen postilaatikkoaan säilytetään 30 päivän ajan, ja se voidaan palauttaa määrittämällä käyttöoikeus uudelleen käyttäjälle.
+Kun käyttäjä menettää Exchange Online käyttöoikeuden, hänen postilaatikkoaan säilytetään 30 päivää, ja se voidaan palauttaa määrittämällä käyttöoikeus uudelleen käyttäjälle.
   
-1. Siirry Microsoft 365 -hallintakeskuksessa  Käyttäjien \> **aktiiviset käyttäjät -sivulle.** Valitse haluamasi käyttäjä.
+1. Siirry Microsoft 365 -hallintakeskus aktiiviset käyttäjät  \> **-sivulle.** Valitse haluamasi käyttäjä.
 
-2. Määritä Käyttöoikeudet **ja sovellukset -välilehdessä** Exchange Online -käyttöoikeus ja valitse **Tallenna muutokset.**
+2. Määritä Käyttöoikeudet **ja sovellukset -välilehdessä** Exchange Online käyttöoikeus ja valitse **Tallenna muutokset**.
 
-Jos yrität palauttaa jaettua postilaatikkoa tai poistettua käyttäjää, se on myös palautettavissa 30 päivän ajan. Löydät ne käyttäjät poistetut **käyttäjät** \> **-kohdasta;** jaetut postilaatikot eivät edellytä käyttöoikeutta. Lisätietoja on [kohdassa Käyttäjän palauttaminen.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+Jos yrität palauttaa jaettua postilaatikkoa tai poistettua käyttäjää, se on myös palautettavissa 30 päivän ajan. Löydät heidät kohdasta Käyttäjät **poistetut** \> **käyttäjät**; jaetut postilaatikot eivät vaadi käyttöoikeutta. Lisätietoja on [kohdassa Käyttäjän palauttaminen.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
 
-Järjestelmänvalvojat voivat tehdä sähköpostin palauttamisen käyttäjän postilaatikosta uuteen [Exchange-hallintakeskukseen.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
+Järjestelmänvalvojat voivat tehdä sähköpostin palauttamisen käyttäjän postilaatikosta uuteen Exchange [hallintakeskukseen.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
 
-Jos yrität palauttaa passiivista postilaatikkoa, noudata seuraavia [ohjeita.](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)
+Jos yrität palauttaa passiivista postilaatikkoa, [noudata tässä annettuja ohjeita.](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)
   

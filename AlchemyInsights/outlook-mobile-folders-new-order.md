@@ -1,5 +1,5 @@
 ---
-title: Outlookin mobiilikäytön kansiot uudessa järjestyksessä
+title: Outlook Mobiilikansiot uudessa järjestyksessä
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000245"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Omat kansiot ovat uudessa järjestyksessä
 
-Kun lisäät suosikki kansiot ja-ryhmät Outlookin iOS-ja Android-laitteeseen, saatat huomata, että kansiosi ovat uudessa järjestyksessä. Jos sinulla on suosikkeja, näet Suosikit-osion sivu palkin yläreunassa. Voit lisätä suosikkeja käyttämällä kynä kuvaketta, joka on lähellä sivu palkin yläreunaa. Tämä säilyttää kaikki tärkeimmät kansiot ja ryhmät yläreunassa, jossa voit käyttää niitä helposti.
+IOS- ja Android-Outlook suosikkikansioiden ja -ryhmien lisäksi kansiot ovat ehkä uudessa järjestyksessä. Jos sinulla on suosikkeja, näet suosikit-osion sivupalkin yläosassa. Voit lisätä suosikkeja sivupalkin yläosassa olevan kynäkuvakkeen avulla. Tämä pitää kaikki tärkeimmät kansiosi ja ryhmäsi yläreunassa, jossa voit helposti käyttää niitä.
