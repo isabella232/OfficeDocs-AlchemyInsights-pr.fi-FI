@@ -1,5 +1,5 @@
 ---
-title: 9000234 Outlook.com Internal Server-virhe
+title: 9000234 Outlook.comin sisäisen palvelimen virhe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024527"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Sisäiset palvelin virheet Outlook.com-sovelluksessa
+# <a name="internal-server-errors-in-outlookcom"></a>Sisäiset palvelinvirheet Outlook.comissa
 
-Voi ei! Jos näet viestin "virhe 500" tai "sisäinen palvelin virhe", se on meitä eikä sinua-pahoillani.
+Oho! Jos näet virhesanoman "Virhe 500" tai "Sisäinen palvelinvirhe" -viestin, se on meidän eikä sinun – pahoittelemme sitä.
 
-Tutustu Office- [palvelun tila-sivulle](https://portal.office.com/servicestatus) ja varmista, että mitään muuta ei tapahdu, mutta paras ratkaisu on ottaa muutama minuutti tauko ja sitten päivittää selaimesi painamalla **CTRL** -ja **F5**-näppäimiä.
+Tarkista [Office](https://portal.office.com/servicestatus) Palvelun tila -sivulta, ettei mitään muuta tule, mutta paras ratkaisu on pitää tauko muutaman minuutin ajan ja päivittää selain painamalla **CTRL-** ja **F5-näppäimiä.**

@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69d039e67a29dd11c1f9a3a8388420836808c447b4670768abd3dae36d80f8a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022097"
 ---
 # <a name="site-is-not-available"></a>Sivusto ei ole käytettävissä
 
-Jos SharePoint-tai OneDrive-sivusto ei ole useiden käyttäjien käytettävissä, kyseessä voi olla väliaikainen palvelu ongelma. Tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko vuokraajaasi vaikuttanut. 
+Jos SharePoint tai OneDrive ei ole useiden käyttäjien käytettävissä, palvelussa voi olla väliaikainen ongelma. Tarkista Palvelun [kunto -koontinäytöstä,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vaikuttaako vuokraajasi. 
   
 

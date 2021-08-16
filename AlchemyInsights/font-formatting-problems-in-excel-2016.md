@@ -1,5 +1,5 @@
 ---
-title: Fonttien muotoilu ongelmat Excel 2016-sovelluksessa
+title: Fontin muotoiluongelmat Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068197"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Fonttien muotoilu ongelmat Excelissä
+# <a name="font-formatting-problems-in-excel"></a>Fontin muotoiluongelmat Excel
 
-Excel 2016-sovelluksessa fontin muotoilu ei ehkä näy solussa oikein. Näin voi käydä, jos solu sisältää enemmän kuin yhdenlaisen fontti muotoilun. Jos esimerkiksi merkkejä on lihavoitu ja toisia ei ole lihavoitu, liha vointi-muoto ei ehkä näy. Jos samassa solussa on erivärisiä merkkejä, värit eivät ehkä näy oikein. Suunnittelu tiimimme on tietoinen tästä ongelmasta, ja se työstää parhaillaan korjausta. Kokeile sillä välin eri fonttia. Voit myös yrittää välttää useiden erilaisten muotoilujen käyttämisen samassa solussa, kunnes ongelma on korjattu.
+Excel 2016 muotoilu ei ehkä näy solussa oikein. Näin voi käydä, jos solussa on useita fonttimuotoiluja. Jos esimerkiksi jotkin merkit ovat lihavoituja ja toiset eivät ole lihavoituja, lihavointimuoto ei ehkä näy. Jos samassa solussa on erivärisiä merkkejä, värit eivät ehkä näy oikein. Tekninen tiimi on tietoinen ongelmasta ja korjaa ongelmaa parhaillaan. Kokeile sillä välin toista fonttia. Yritä myös välttää useiden erityyppisten muotoilujen käyttöä samassa solussa, kunnes tämä ongelma on korjattu.
   

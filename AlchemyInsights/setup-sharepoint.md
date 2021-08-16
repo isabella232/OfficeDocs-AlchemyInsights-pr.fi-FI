@@ -1,5 +1,5 @@
 ---
-title: SharePointin määrittäminen
+title: Määritä SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023447"
 ---
-# <a name="set-up-sharepoint"></a>SharePointin määrittäminen
+# <a name="set-up-sharepoint"></a>Määritä SharePoint
 
-[SharePointin asennus oppaan](https://go.microsoft.com/fwlink/?linkid=2071425) avulla voit määrittää SharePoint-tiedostojen tallentamisen ja sisällön hallinnan, luoda sivustot, määrittää ulkoista jakamista, siirtää tietoja ja määrittää lisä asetuksia sekä ajaa käyttäjien sitoutumista ja viestintää organisaation sisällä.
+SharePoint [](https://go.microsoft.com/fwlink/?linkid=2071425) -määritysoppaan avulla voit määrittää SharePoint tiedostojen tallennuksen ja sisällön hallinnan, luoda sivustoja, määrittää ulkoisen jakamisen, siirtää tietoja ja määrittää lisäasetuksia sekä edistää käyttäjien osallistumista ja viestintää organisaatiossasi.
 
-Ohjeiden avulla voit määrittää sisällön jakamisen käyttö oikeus käytännöt, valita siirron synkronointi työkalut sekä ottaa käyttöön SharePoint-ympäristön tieto turva-asetukset.
+Noudata sisällön jakamiskäyttöoikeuskäytäntöjen määrittämisohjeita, valitse siirtosynkronointityökalut ja ota käyttöön SharePoint suojausasetukset.
