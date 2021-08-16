@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: c5d23ac050d92c1d6b8c188707255de0abf0b95c
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: MT
+ms.openlocfilehash: 5845258aeccc700e865ab109be8662ccc61ffc15c0a4fc7439449af22c73b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016229"
 ---
 # <a name="create-a-private-channel"></a>Yksityisen kanavan luominen
 
 Oletusarvoisesti kuka tahansa tiimin omistaja tai tiimin jäsen voi luoda yksityisen kanavan. Vieraat eivät voi luoda yksityistä kanavaa. 
 
-Yksityisten kanavien luontia voidaan hallita tiimitasolla ja organisaatiotasolla. Käytä käytäntöjä hallitaksesi sitä, kuka organisaation käyttäjillä on oikeus luoda yksityisiä kanavia. Kun olet määrittänyt käytännöt, tiimin omistajat voivat poistaa jäsenten oikeuden luoda yksityisiä kanavia **Asetukset-välilehdessä** tai ottaa sen käyttöön.
+Yksityisten kanavien luontia voi hallita tiimitasolla ja organisaatiotasolla. Käytä käytäntöjä hallitaksesi sitä, millä organisaation käyttäjillä on oikeus luoda yksityisiä kanavia. Kun olet määrittänyt käytännöt, tiimin omistajat voivat poistaa käytöstä tai ottaa käyttöön oikeuden, jonka jäsenet voivat luoda yksityisiä **kanavia Asetukset välilehdelle.**
 
 > [!NOTE]
 > Kussakin tiimissä voi olla enintään 30 yksityistä kanavaa, ja jokaisella yksityisellä kanavalla voi olla enintään 250 jäsentä.
 
-Lisätietoja on kohdassa [Yksityisen kanavan luominen.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation)
+Lisätietoja on kohdassa Yksityisen [kanavan luominen.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation)
 
 

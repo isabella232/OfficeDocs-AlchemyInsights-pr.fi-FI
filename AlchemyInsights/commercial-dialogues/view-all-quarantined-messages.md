@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2fe193cebfb00b22eda54f2dc0b264db7b9b84cb
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745068"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045129"
 ---
 # <a name="view-all-quarantined-messages"></a>Kaikkien karanteeniin asetettujen viestien tarkasteleminen
 
 1. Siirry hallintakeskuksessa Tietoturva- & [yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Siirry **uhkien hallinnan**  >  **tarkistamaan**  >  **karanteeniin.**
-3. Viestit lajitellaan oletusarvoisesti uusimmasta vanhimpaan viestin vastaanottamispäivämäärän mukaan. Voit lajitella kentän mukaan napsauttamalla ylätunnistetta.
+2. Siirry Threat Management Review Quarantine **(Uhkien hallinnan**  >  **tarkistaminen**  >  **karanteeniin) -kohteeseen.**
+3. Viestit lajitellaan oletusarvoisesti uusimmasta vanhimpaan viestin vastaanottamispäivämäärän mukaan. Voit lajitella kentän mukaan napsauttamalla otsikkoa.
 4. Voit tehdä joukkotoimintoja vain enintään 100 kohteelle, joten suodattaminen voi myös vähentää tulosjoukkoa, jos kohteita on yli 100.

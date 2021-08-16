@@ -1,5 +1,5 @@
 ---
-title: Microsoft-sovelluksiin liittyvät ongelmat
+title: Microsoft-sovellusten ongelmat
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7844"
-ms.openlocfilehash: 377312674f586cec4a710e429f069627fb5aacf7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: 725738e5a00493aaea07b7a018a08f47c3ae996cfe768a1719f38e8557370348
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054759"
 ---
-# <a name="issues-with-microsoft-applications"></a>Microsoft-sovelluksiin liittyvät ongelmat
+# <a name="issues-with-microsoft-applications"></a>Microsoft-sovellusten ongelmat
 
-Microsoft-sovelluksiin kirjautumisongelmat:
+Microsoft-sovelluksiin kirjautumista koskevat ongelmat:
 
 - [I am seeing trouble signing in to application(s) using Chrome browser only](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
-- [En pysty kirjautumaan Microsoft-sovellukseen](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-first-party-microsoft/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_MicrosoftApp)
+- [En voi kirjautua Microsoft-sovellukseen](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-first-party-microsoft/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_MicrosoftApp)

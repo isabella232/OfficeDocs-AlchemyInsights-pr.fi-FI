@@ -1,5 +1,5 @@
 ---
-title: Intune-laitteen luettelointi
+title: Intune Device Inventory
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014069"
 ---
-# <a name="intune-device-inventory"></a>Intune-laitteen luettelointi
+# <a name="intune-device-inventory"></a>Intune Device Inventory
 
-Laitteet-Blade tarjoaa hallinnoijan käsityksen laitteista, jotka ovat hallinta-kohdassa Intunella laitekohtaisesti. Näytetyt tiedot sisältävät: laitteisto, löydetyt sovellukset, laitteen yhteensopivuus tila ja laitteen määritys tila.
+Laitteet-teristä saat järjestelmänvalvojan tiedot Intunen hallinnassa olelluista laitteista laitekohtaisesti. Näkyvissä ovat seuraavat tiedot: Laitteisto, Löydetyt sovellukset, Laitteen yhteensopivuustila ja Laitteen määritykset -tila.
 
-Laitteiston ja löydettyjen sovellusten varasto tiedot kerätään seitsemän päivän jaksolle. Sovellusten ja laitteiden tietyt ominaisuudet on ilmoitettu eri tavalla laitteen käyttö järjestelmän mukaan ja sen mukaan, onko laite henkilökohtaisesti vai yrityksen omistama.
+Laitteiston ja löydettyjen sovellusten varastotiedot kerätään seitsemän päivän jaksolla. Raportoidut sovellukset ja laitekohtaiset elementit vaihtelevat laitteen käyttöjärjestelmän mukaan ja sen mukaan, onko laite henkilökohtainen vai yrityksen omistama.
 
-Lisä tietoja on kohdassa [laitteen tietojen tarkasteleminen Intunella](https://docs.microsoft.com/intune/device-inventory).
+Lisätietoja on kohdassa Laitteen [tietojen katsominen Intunessa.](https://docs.microsoft.com/intune/device-inventory)
 
 **Usein kysytyt kysymykset**
 
-K: en saa täyttä luetteloa sovelluksista, jotka esiintyvät Intune-kirjoilla Windows-laitteissa. Miksi ei?
+K: En saa täyttä sovellusluetteloa Intune-rekisteröityjen sovellusten Windows laitteista. Miksi ei?
 
-A: tällä hetkellä vain nykyaikaisia sovelluksia on lueteltu Windows 10-tieto koneissa, jotka tunnistetaan yritys laitteiksi. Intune ei kerää tietoja näihin laitteisiin asenne tuista Win32-sovelluksista.
+A: Tällä hetkellä vain nykyaikaiset sovellukset on lueteltu Windows 10 tietokoneissa, jotka on tunnistettu yrityksen laitteisiin. Intune ei kerää tietoja näihin laitteisiin asennetuista Win32-sovelluksista.
 
-K: Miksi Puhelin numeroita ei ole kerätty kaikista laitteista?
+K: Miksi puhelinnumeroita ei kerätä kaikista laitteista?
 
-A: Intunen yritys käyttöön luokiteltuja puhelimia ei ole tunnistettu koko Puhelin numeroksi, kun suoritat esimerkiksi mobiililaitteiden inventaario raportin. Tuo sinulle-laitteen Puhelin numerot on aina osittain peitetty tähdellä (* * * *) ja näyttää vain viimeiset neljä numeroa.
+A: Intunessa yrityksen laitteisiin luokiteltuja puhelimia ei tunnisteta niiden koko puhelinnumerolla esimerkiksi silloin, kun suoritat mobiililaitevarastoraportin. Tuo oman laitteen puhelinnumerot on aina osittain peitetty tähdellä (****) ja näytetään vain neljä viimeistä numeroa.

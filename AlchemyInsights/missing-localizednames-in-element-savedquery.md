@@ -1,5 +1,5 @@
 ---
-title: Puuttuva LocalizedNames elementissä ' savedquery '
+title: Savedquery-elementistä puuttuu Lokalisoidut nimet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065605"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Puuttuva LocalizedNames elementissä ' savedquery '
+# <a name="missing-localizednames-in-element-savedquery"></a>Savedquery-elementistä puuttuu Lokalisoidut nimet
 
-Jos tarvitset apua puuttuvien LocalizedNames-nimien käyttöön, Katso lisä tietoja artikkelista ["savedquery" on epätäydellinen sisältö. Mahdollisesti odotetut ominaisuudet: "LocalizedNames" "-virhe ilmenee, kun tuot Dynamics 365-ratkaisun](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Lisätietoja puuttuvista lokalisoiduista nimistä on [kohdassa "Tallennetun kyselyn elementti" sisältää puutteellista sisältöä. Odotettujen elementtien luettelo: Lokalisoidut Nimet -virhe tapahtuu, kun tuodaan Dynamics 365 -ratkaisua.](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
-Etsi erikoismerkit näkymän nimestä, joka voi aiheuttaa ongelman. Poista kaikki erikoismerkit näkymän nimestä ja vie ratkaisu uudelleen.
+Etsi näkymän nimestä erikoismerkkejä, jotka voivat aiheuttaa ongelman. Poista näkymän nimestä kaikki erikoismerkit ja vie ratkaisu uudelleen.

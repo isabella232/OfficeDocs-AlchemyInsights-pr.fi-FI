@@ -1,5 +1,5 @@
 ---
-title: Salli pääte pisteiden luettelon luominen Microsoft Edgessä
+title: Sallittujen päätepisteiden luettelon luominen Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032087"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Salli pääte pisteiden luettelon luominen Microsoft Edgessä
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Sallittujen päätepisteiden luettelon luominen Microsoft Edge
 
-Jos haluat käyttää täydellistä Microsoft Edge-ominaisuuksien ominaisuutta, sinulla on oltava yhteys Internetiin. Lisäksi jotta selain voi kommunikoida Inter netin palo muurien ja muiden tieto turva mekanismien kautta, sinun on lisättävä joukko toimi alueen URL-osoitteita sen [sallittujen pääte pisteiden luetteloon](https://go.microsoft.com/fwlink/?linkid=2135054).
+Jotta voit käyttää Microsoft Edge ominaisuuksia, sinulla on oltava Internet-yhteys. Jotta selain voi viestiä palomuurien ja muiden Internetissä olevien suojausmekanismien kautta, sinun on lisättävä toimialueiden URL-osoitteet sallittujen päätepisteiden [luetteloon.](https://go.microsoft.com/fwlink/?linkid=2135054)
