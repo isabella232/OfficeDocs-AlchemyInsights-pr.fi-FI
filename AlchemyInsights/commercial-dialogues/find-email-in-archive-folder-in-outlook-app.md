@@ -1,5 +1,5 @@
 ---
-title: Sähköpostin etsiminen Outlook-sovelluksen Arkisto-kansiosta
+title: Sähköpostin etsiminen Arkisto-kansiosta Outlook sovelluksessa
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: fd13949e477c40801874bfd1a235f8c477e686c4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968014"
 ---
-# <a name="find-email-in-archive-folder-in-outlook-app"></a>Sähköpostin etsiminen Outlook-sovelluksen Arkisto-kansiosta
+# <a name="find-email-in-archive-folder-in-outlook-app"></a>Sähköpostin etsiminen Arkisto-kansiosta Outlook sovelluksessa
 
-Outlook 2016:ssa Arkisto-kansio on yksi Outlookin oletuskansioista, kuten Saapuneet, Lähetetyt ja Poistetut-kansio. Arkisto-kansiota ei voi poistaa. Jos käytät Outlookia Office 365 -tilin kanssa, arkistokansioon sovelletaan kansiokäytäntöjä, kuten säilytyskäytäntöjä.
+In Outlook 2016, the Archive folder is one of Outlook's default folders, like Inbox, Sent Items, and the Deleted Items folder. Arkisto-kansiota ei voi poistaa. Jos käytät Outlook-Office 365, Arkisto-kansioon sovelletaan kansiokäytäntöjä, kuten säilytyskäytäntöjä.
 
 Arkistokansion etsiminen:
 
-1. Valitse Outlookissa **Näytä-välilehti** **>-kansioruudusta**  >  **Normaali.**
+1. Valitse Outlook-välilehdessä  kansioruudun >   >  **Normaali**.
 2. Arkisto-kansio on kansioluettelossasi.
-3. Kun haet Outlook-kohteita kansioluettelon yläreunassa olevan Hae nykyisestä postilaatikosta -toiminnon avulla, Outlook hakee oletusarvoisesti koko postilaatikosta, mukaan lukien Arkisto-kansiosta.
+3. Kun haet kohteita Outlook-kohteita kansioluettelon yläreunassa olevan Hae nykyisestä postilaatikosta -toiminnolla, haku Outlook koko postilaatikosta arkistokansio mukaan lukien.

@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 24c5fdd23482c96c7f7c901881e9bfa2c1b61ea8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d597fa0020beedd481e017ab707a5a4f5192219ac87609a894d8ba7345ce3110
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005699"
 ---
 # <a name="shared-mailboxes-cant-open-encrypted-messages"></a>Jaetut postilaatikot eivät voi avata salattuja viestejä
 
-- Jaetut postilaatikot eivät voi avata salattuja viestejä riippumatta siitä, mitä asiakassovellusta käytät (esimerkiksi Outlook 2016 tai Outlookin verkkosovellus).
-- Voit lähettää salattuja viestejä jaetulla postilaatikolla. Määritä osoite salausta varten, kuten minkä tahansa organisaation toisen käyttäjän postilaatikossa. Jos olet esimerkiksi määrittänyt viestin salauksen kaikille organisaatiosi lähetetyille sähköposteihin, jaettu postilaatikko sisällytetään oletusarvoisesti.
+- Jaetut postilaatikot eivät voi avata salattuja viestejä riippumatta siitä, mitä asiakassovellusta käytät (esimerkiksi Outlook 2016 tai Outlookin verkkoversio).
+- Voit lähettää salattuja viestejä jaetusta postilaatikosta. Määritä osoite salausta varten, kuten minkä tahansa organisaation toisen käyttäjän postilaatikossa. Jos olet esimerkiksi määrittänyt kaikkien organisaatiostasi lähetettyjen sähköpostiviestien salauksen, jaettu postilaatikko sisällytetään oletusarvoisesti.
