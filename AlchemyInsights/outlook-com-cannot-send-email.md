@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ei voi lähettää sähkö postia
+title: Outlook.com ei voi lähettää sähköpostia
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,22 +13,22 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: adb6dd3cc5a6a526b87dc74a6552759cc8db46ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0852df594e4c87d2fb2c766c52ec0aa41d3fc1e89029c1ee4417cfffebbe7352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064453"
 ---
-# <a name="unable-to-send-email-in-outlookcom"></a>Sähkö postin lähettäminen ei onnistu Outlook.com-sovelluksessa
+# <a name="unable-to-send-email-in-outlookcom"></a>Sähköpostia ei voi lähettää Outlook.comissa
 
-Jos sinulla on ongelmia viestien lähettämisessä Outlook.com-sovelluksessa, kokeile näitä ratkaisuja.
+Jos sinulla on ongelmia viestien lähettämisessä Outlook.comissa, kokeile näitä ratkaisuja.
 
-1. Tarkista [palvelun tila](https://go.microsoft.com/fwlink/p/?linkid=837482). 
-2. Tarkista, että [Peruuta lähetys](https://outlook.live.com/mail/options/mail/messageContent/undoSend) -toiminto ei ole käytössä.
-3. Jos Saapuneet-kansiosi on täynnä, et voi lähettää tai ottaa vastaan uusia viestejä. Tyhjennä [roska posti](https://outlook.live.com/mail/junkemail) napsauttamalla **roska posti**-kohtaa hiiren kakkos painikkeella,  >  **Poista kaikki**.
-4. Varmista, että niiden henkilöiden Sähkö posti osoitteet, joiden haluat lähettää, muotoillaan oikein.
-5. Jos sinulla on yli 20 yhdistettyä tiliä, et voi lähettää tai saada sähkö postia.
-6. Tilisi on ehkä estetty tilapäisesti, koska olemme havainneet epätavallisia kirjautumistapahtumia. Lisä tietoja on kohdassa [oman Outlook.com-tilin eston poistaminen](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Tarkista [palvelun tila.](https://go.microsoft.com/fwlink/p/?linkid=837482) 
+2. Tarkista, [että Kumoa](https://outlook.live.com/mail/options/mail/messageContent/undoSend) lähetys -valintaa ei ole käytössä.
+3. Jos Saapuneet-kansiosi on täynnä, et voi lähettää tai vastaanottaa uusia viestejä. Tyhjennä [roskaposti napsauttamalla](https://outlook.live.com/mail/junkemail) hiiren kakkospainikkeella **roskapostia, joka poistaa**  >  **kaikki**.
+4. Varmista, että niiden henkilöiden sähköpostiosoitteet, joiden kanssa yrität lähettää sähköpostia, on muotoiltu oikein.
+5. Jos sinulla on yli 20 yhdistettyä tiliä, et voi lähettää tai vastaanottaa sähköpostia.
+6. Tilisi on ehkä tilapäisesti estetty epätavallisen kirjautumistoiminnan vuoksi. Lisätietoja [on kohdassa Outlook.com-tilin eston poistaminen.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
 
-Lisä tietoja [Outlook.com-sähkö postin synkronointi ongelmien korjaamisesta](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Lisätietoja sähköpostin [synkronointivirheen korjaamisesta Outlook.com.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams-vieras käyttö
+title: Microsoft Teams - Vieraskäyttö
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012305"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft teams-vieras käyttö
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Vieraskäyttö
 
-Jos tarvitset apua organisaation ulkopuolisten käyttäjien kanssa tiimeissä, sinun on päätettävä, käytetäänkö [vieras käyttö-tai ulkoista käyttöä (federaatio)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)vai molempia.
+Jos tarvitset apua viestinnässä organisaation ulkopuolisten käyttäjien kanssa Teams, sinun on päätettävä, käytetäänkö vieraskäyttöä vai ulkoista käyttöä [(liittoumiseen)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)vai kumpaakin.
 
-Tarkista [erot](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , jotta ymmärrät kunkin käytettävissä olevat ominaisuudet.  Esimerkiksi ulkoinen yhteys (federaatio) mahdollistaa 1:1-viestinnän, kuten keskustelun ja tavoitettavuuden.  Liitetyt käyttäjät eivät kuitenkaan voi osallistua teamsin yhteistyöhön.  Jos haluat, että ulkoinen käyttäjä voi liittyä ja osallistua teamsin kanava keskusteluihin tai jakaa tiedostoja, sinun on otettava vieras käyttö käyttöön.
+Tutustu [eroavaisyyksiin,](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) jotta ymmärrät niiden ominaisuudet.  Esimerkiksi Ulkoinen käyttö (liittous) mahdollistaa 1:1-viestinnän, kuten Keskustelu ja tavoitettavuus.  Organisaation liitetyt käyttäjät eivät kuitenkaan voi Teams tehdä yhteistyötä.  Jos haluat, että ulkoinen käyttäjä voi liittyä kanavakeskusteluihin Teams tai jakaa tiedostoja, sinun täytyy ottaa vieraskäyttö käyttöön.
 
-**Vaihto ehto 1: Ota vieras käyttö käyttöön** Valitse teamsin hallinta keskuksessa [organisaation laajuiset asetukset > vieras käyttö](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ja ota käyttöön Salli vieras käyttö-toiminto tiimeissä.  Jos kyseessä on vuokra ajan kaikki muut oletus asetukset, sinun on tehtävä kaikki.  Jos haluat mukauttaa vieras käytön määritystä, varmista, että noudatat kaikki [vieras käytön tarkistus luettelon](https://docs.microsoft.com/microsoftteams/guest-access-checklist)vaiheet. Kun olet tehnyt sen kokonaan, sinun on [odotettava jopa 24 tuntia](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , ennen kuin asetukset tulevat voimaan.
+**Vaihtoehto 1: Vieraskäyttö käyttöön** Valitse Teams hallintakeskuksessa Organisaation laajuinen [vieraskäyttö Asetukset >](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ja ota käyttöön Salli vieraskäyttö Teams.  Jos olet vuokraajassa, jossa on kaikki muut oletusasetukset, sinun ei tarvitse tehdä tätä.  Jos haluat mukauttaa Vieraskäyttö-määritystä, varmista, että noudatat Vieraskäyttö-tarkistusluettelon [ohjeita.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Kun olet valmis, sinun on [odotettava 24 tuntia,](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) että asetukset tulevat voimaan.
 
-Jos olet varma, että olet suorittanut kaikki tarkistus luettelon vaiheet ja että se on ollut yli 24 tuntia, siirry eteenpäin ja yritä [lisätä vieras tiimiisi](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Jos olet varma, että olet suorittanut kaikki tarkistusluettelon vaiheet ja se on ollut yli 24 tuntia, yritä lisätä vieras [tiimiisi](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Lisä tietoja, kuten ohje videoita, on kohdassa [vieras käyttö Microsoft teamsissa](https://docs.microsoft.com/microsoftteams/guest-access).
+Lisätietoja, kuten toimintavideoita, on kohdassa [Vieraskäyttö Microsoft Teams.](https://docs.microsoft.com/microsoftteams/guest-access)
 
-**Vaihto ehto 2: Ota käyttöön ulkoinen yhteys (federaatio)** Jos haluat ottaa käyttöön myös ulkoiset käyttö oikeudet (federaatio), valitse teamsin hallinta keskuksessa Organisaatiokohtaiset [Asetukset > ulkoiset käyttö oikeudet](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ja ota käyttöön "käyttäjät voivat kommunikoida Skype for Businessin ja teamsin käyttäjien kanssa", ja noudata sitten ohjeita, joiden avulla [teamsin käyttäjät saavat jutella ja kommunikoida toisen organisaation käyttäjien kanssa](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Vaihtoehto 2: Ulkoisen käytön (liittouminen) käyttöön** Jos haluat ottaa käyttöön myös ulkoisen käytön (liittouksesi), siirry Teams-hallintakeskuksessa organisaation laajuiseen [Asetukset >:n ulkoiseen](https://admin.teams.microsoft.com/company-wide-settings/external-communications) käyttöön, ota käyttöön "Käyttäjät voivat viestiä Skype for Business: n ja Teams:n käyttäjien kanssa", ja noudata sitten ohjeita kohdassa Anna Teams-käyttäjien keskustella ja viestiä toisen organisaation käyttäjien [kanssa.](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)

@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966970"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296048"
 ---
 # <a name="release-quarantined-messages"></a>Karanteeniin asetettujen viestien vapauttaminen
 
-Voit vapauttaa karanteeniin asetettua viestiä (tai viestijoukkoa) kaikille vastaanottajille tai vapauttaa viestin vain tietyille vastaanottajille, jotka valitset kaikkien vastaanottajien luettelosta.
+Voit vapauttaa karanteeniin asetettua viestiä (tai viestijoukkoa) kaikille vastaanottajille tai vapauttaa viestin vain tietyille vastaanottajille, jotka valitset kaikkien vastaanottajien luettelosta. Toimi seuraavasti:
 
-1. Siirry [tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Siirry Threat Management Review Quarantine **(Uhkien hallinnan**  >  **tarkistaminen**  >  **karanteeniin) -kohteeseen.**
-3. Valitse viestit, jotka haluat julkaista.
-4. Kun olet vapauttanut **viestin,** päivitä tiedot valitsemalla Päivitä ja kaksoisnapsauta sitten viestiä. Sinun pitäisi nähdä, että viesti on julkaistu vastaanottajille.
+1. Siirry Microsoft 365 Defender -portaalissa <https://security.microsoft.com> **sähköposti-** ja & tarkista \>  \> **karanteeniin.**
+
+   Jos haluat siirtyä suoraan **Karanteeni-sivulle,** käytä <https://security.microsoft.com/quarantine> -
+
+2. Varmista **Karanteeni-sivulla,** että **sähköpostivälilehti** on valittuna, ja toimi sitten seuraavasti:
+   - **Yksittäinen** viesti: Valitse viesti. Valitse näkyviin tulevassa tietojen pikaikkunassa **Vapauta sähköposti**, määritä haluamasi asetukset ja valitse sitten **Vapauta viesti**.
+   - **Useita viestejä:** Valitse enintään 100 viestiä, jos haluat julkaista viestin kaikille vastaanottajille (yksittäisiä alkuperäisiä vastaanottajia ei voi määrittää). Valitse näkyviin **tulevasta** avattavasta Joukkotoiminnot-luettelosta Vapauta **viestit**, määritä haluamasi asetukset ja valitse sitten **Vapauta viesti**.
+
+Lisätietoja on seuraavissa artikkeleissa:
+
+- [Karanteeniin asetettujen viestien etsiminen ja vapauttaminen käyttäjänä](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karanteeniin asetettujen viestien ja tiedostojen hallinta järjestelmänvalvojana](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
