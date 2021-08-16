@@ -1,5 +1,5 @@
 ---
-title: Perinteisen aloitus sivun nykyaikaistaminen
+title: Perinteisen aloitussivun modernisoiminen
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026075"
 ---
-# <a name="modernize-the-classic-home-page"></a>Perinteisen aloitus sivun nykyaikaistaminen
+# <a name="modernize-the-classic-home-page"></a>Perinteisen aloitussivun modernisoiminen
 
-Perinteisen SharePoint-ryhmäsivuston aloitus sivuille hiljattain tehty päivitys vaikuttaa perinteisten ryhmä sivustojen aloitus sivuun (STS # 0), kun aloitus sivu sisältää *vain valmiit oletusarvoiset verkko-osat* , kuten aloittaminen, tiedosto kirjasto ja uutis syöte.
+Hiljattain perinteisen SharePoint -ryhmäsivuston aloitussivujen päivitys vaikuttaa perinteisen ryhmäsivuston (STS#0) aloitussivuun, kun aloitussivu sisältää vain oletusarvoisia *verkko-osia,* kuten käytön aloittaminen, tiedostokirjasto ja uutissyöte.
 
-Voit tarkastella muutosta [täällä](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Katso muutoksen vaihe [lta.](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
-**Huomautus: mukautettuja sisältöä sisältäviä klassisia ryhmä sivuja ei päivitetä automaattisesti.**
+**Huomautus: mukautettuja sisältöä sisältäviä perinteiset ryhmäsivustot eivät päivity automaattisesti.**
 
-* Lisä tietoja päivitys ehdoista on artikkelissa [perinteisen aloitus sivun nykyaikaistaminen](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Lisätietoja päivitysehdoista on [perinteisen aloitussivun modernisoinnissa.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Päivitä muut aloitus sivut, jotka eivät olleet osa automaattista nykyaikaistamista](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Päivitä muut aloitussivut, jotka eivät olleet osa automaattista modernisointia](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* Poista tämä päivitys käytöstä tietyissä sivustossa [SharePoint-mallien ja-käytäntöjen (PnP) PowerShell-cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)-komennolla.
+* Poista päivitys käytöstä tietyissä sivustoissa [PowerShellin SharePoint-cmdlet-komennolla.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)

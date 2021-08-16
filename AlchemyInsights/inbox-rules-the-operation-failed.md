@@ -1,5 +1,5 @@
 ---
-title: 'Saapuneet-kansion säännöt: toiminto epäonnistui'
+title: 'Saapuneet-kansion säännöt: Toiminto epäonnistui'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af465979d881e98cbffaaa9fa20729dc6d0cd0d607c0d075311b19c8960b2f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099679"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>Säännöt ja ilmoitukset-virhe: "toiminto epäonnistui"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>Sääntöjen ja ilmoitusten virhe: "Toiminto epäonnistui"
 
-Saapuneet-kansion säännöt-virhe saattaa tulla näkyviin seuraavien päivitysten asentamisen jälkeen:
+Saatat nähdä Saapuneet-kansion säännöt -virheen seuraavien päivitysten asentamisen jälkeen:
 
-- [Outlook 2016: marraskuun turva päivityksen KB](https://support.microsoft.com/help/4461506)
-- [Outlook 2013: marraskuun turva päivityksen KB](https://support.microsoft.com/help/4461486)
-- [Outlook 2010: marraskuun turva päivityksen KB](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: marraskuun suojauspäivitys KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2013: marraskuun suojauspäivitys KB](https://support.microsoft.com/help/4461486)
+- [Outlook 2010: marraskuun suojauspäivitys KB](https://support.microsoft.com/help/4461585)
 
-Näet tämän tunnetun ongelman uusimman tilan käymällä [Outlook-virhe: "toiminto epäonnistui..." Kun valitset sääntöjen hallinta & ilmoitukset](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
+Näet tämän tunnetun ongelman uusimman tilan valitsemalla [Outlook: "Toiminto epäonnistui..." , kun valitset Sääntöjen hallinta & ilmoitukset](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).

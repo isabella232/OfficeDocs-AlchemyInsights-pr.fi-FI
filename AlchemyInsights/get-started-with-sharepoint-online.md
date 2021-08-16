@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48142ab68f3478c9becd51e658bd07255803f47f00611e0f1f8ab1757fdc984d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029477"
 ---
 # <a name="get-started-with-sharepoint-online"></a>SharePoint Onlinen käytön aloittaminen
 
-Tutustu [SharePoint Online-Video koulutukseen](https://go.microsoft.com/fwlink/?linkid=866438) ja- [pikaoppaaseen](https://go.microsoft.com/fwlink/?linkid=866437). Jos haluat kattavan vaiheittaisen oppaan, noudata [SharePoint Onlinen käyttöönoton valvonnan ohjeita.](https://portal.office.com/onboarding/sharepointonline#/)
+Aloita käyttö SharePoint [Online -videokoulutus- ja](https://go.microsoft.com/fwlink/?linkid=866438) [pika-aloitusoppaan avulla.](https://go.microsoft.com/fwlink/?linkid=866437) Jos etsit kattavampaa, vaiheittaista opasta, noudata SharePoint [online-käyttöönottoneuvojan ohjeita.](https://portal.office.com/onboarding/sharepointonline#/)
   
 

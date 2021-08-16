@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068917"
 ---
 # <a name="find-missing-applications"></a>Puuttuvien sovellusten etsiminen
 
-- [Pika-aloitus: Tarkastele azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) -vuokraajaasi käyttäen käyttäjätietojen hallintaa varten määritettyjen sovellusten luetteloa. Näet, miten voit tarkastella sovelluksia, jotka on jo määritetty käyttämään Azure AD -vuokraajaasi tunnistetietojen toimittajana (IdP).
-- Jos haluat etsiä tiettyä sovellusta, siirry Sovelluksen **tyyppi** -valikkoon, valitse **Kaikki sovellukset ja** valitse **Käytä.**
-  - Kirjoita sen sovelluksen nimi, jonka haluat etsiä. Jos sovellus on lisätty Azure AD -vuokraajaan, se näkyy hakutuloksissa. Voit myös kirjoittaa sovelluksen nimen pari ensimmäistä kirjainta.
-- [Sovelluksen Azure Active Directoryyn lisäämisen tai poistamisen](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) yleisimmät ongelmat auttavat ymmärtämään yleisiä ongelmia, joita sovellusten tarkasteleminen Azure Active Directoryssa aiheuttaa.
+- [Pika-aloitusopas: Tarkastele Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) -vuokraajaasi käyttäjätietojen hallintaa varten sovelluksista, jotka on jo määritetty käyttämään Azure AD -vuokraajaasi tunnistetietojen toimittajana (IdP).
+- Jos haluat etsiä tiettyä sovellusta, siirry Sovelluksen **tyyppi -valikkoon,** valitse **Kaikki sovellukset** ja valitse **Käytä**.
+  - Kirjoita etsimisen sovelluksen nimi. Jos sovellus on lisätty Azure AD -vuokraajaan, se näkyy hakutuloksissa. Voit myös kirjoittaa sovelluksen nimen pari ensimmäistä kirjainta.
+- [Sovelluksen lisäämiseen tai poistamiseen liittyviä yleisiä](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) ongelmia Azure Active Directory auttaa ymmärtämään yleisiä ongelmia, joita sovellusten tarkastelemiseen Azure Active Directory.
