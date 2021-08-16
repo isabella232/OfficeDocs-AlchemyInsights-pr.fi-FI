@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978842"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874536"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Sähköpostiviestin lähettäminen viestin jäljityksen avulla
 
-1. Siirry [tietoturva- Office 365-& ja](https://go.microsoft.com/fwlink/p/?linkid=2077143)valitse sitten PostinkulkuViestin   >  [seuranta](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. Siirry Exchange hallintakeskukseen (EAC) <https://admin.exchange.microsoft.com> \> **Postinkulkuviestin** \> **seuranta -kohdassa.**
+
+   Jos haluat siirtyä suoraan Viestin **jäljitys -sivulle,** käytä <https://admin.exchange.microsoft.com/#/messagetrace> -
+
 2. Valitse **+ Aloita seuranta.**
 3. Käy läpi esitetyt vaihtoehdot. Valitse vastaanottajat ja lähettäjät ja säädä sitten päivämääräväliä tarpeen mukaan. Voit jättää jäljellä olevien asetusten oletusasetukset.
 4. Valitse **Hae**. Hakuehtoihin perustuva sähköpostiviestien luettelo tulee näkyviin. Kaksoisnapsauta viestiä, jonka haluat lähettää, ja valitse sitten **Lähetä viesti**.
-5. Lisätietoja on tietoturva- ja [yhteensopivuuskeskuksen & jäljityskeskuksessa.](https://go.microsoft.com/fwlink/?linkid=2101557)
+
+Lisätietoja on kohdassa Viestin [jäljitys modernissa EAC:ssä.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)

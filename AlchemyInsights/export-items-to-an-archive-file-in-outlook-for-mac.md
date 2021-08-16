@@ -1,5 +1,5 @@
 ---
-title: Kohteiden vieminen Arkisto tiedostoon Outlook for Macissa
+title: Kohteiden vieminen arkistotiedostoon Outlook for Mac
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100399"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Kohteiden vieminen Arkisto tiedostoon Outlook for Macissa
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Kohteiden vieminen arkistotiedostoon Outlook for Mac
 
-Voit pienentää Saapuneet-kansion kokoa arkistoimalla Sähkö posti viestit, yhteys tiedot ja muut kohteet manuaalisesti Outlook for Mac-Data tiedostoon (. Olm). Voit tallentaa. Olm-tiedoston mihin tahansa Mac-tieto koneen sijaintiin tai toiseen tieto koneeseen.
+Jos haluat pienentää Saapuneet-kansion kokoa, arkistoi sähköpostiviestit, yhteystiedot ja muut kohteet manuaalisesti Outlook for Mac datatiedostoon (.olm). Voit tallentaa .olm-tiedoston mihin tahansa sijaintiin Macissa tai toiseen laitteeseen turvallista säilytystä varten.
 
-1. Valitse **Työkalut** -väli lehdessä **Vie**.
+1. Valitse **Työkalut-välilehdessä** **Vie**.
 
 > [!NOTE]
-> Etkö näe **Vie** -painiketta? Varmista, että käytössäsi on uusin Outlook-versio. Valitse Outlookin **Ohje** -valikossa **Tarkista päivitykset**. Jos kaikki Outlook-päivitykset ovat käytössä etkä edelleenkään näe **Vie** -painiketta, Etsi **Vie** Outlookin **tiedosto-** valikosta.
+> Etkö näe **Vie-painiketta?** Varmista, että käytössäsi on uusin Outlook. Valitse **Outlook-valikossa** **Tarkista päivitykset**. Jos Outlook kaikki päivitykset ovat käytössä etkä silti  näe Vie-painiketta, etsi Vie-kohta  Tiedosto Outlook valikosta. 
 
-2. Valitse **Vie arkistoitava tiedosto (. Olm)** -ruudussa kohteet, jotka haluat viedä, ja napsauta **Jatka**.
+2. Valitse **Vie arkistotiedostoon (.olm)** -ruudussa vietävät kohteet ja valitse **Jatka.**
 
-3. Valitse **Tallenna nimellä** -ruudun **Suosikit**-kohdassa **lataukset** -kansio ja valitse sitten **Tallenna**.
+3. Valitse Tallenna **nimellä -ruudun** **Suosikit-kohdassa** Lataukset-kansio ja valitse **Tallenna.** 
 
-4. Kun tiedot on viety ja saat ilmoituksen, valitse **Suorita**.
+4. Kun tiedot on viety ja saat ilmoituksen, valitse **Valmis**.
 
-Lisä tietoja Outlook for Mac-Data tiedostoon (. Olm) tallennettujen tietojen käyttämisestä on Ohje aiheessa [Sähkö posti viestien, yhteys tietojen ja muiden kohteiden tuominen outlook 2016 for Maciin](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Lisätietoja Outlook for Mac datatiedostoon (.olm) tallennettujen tietojen käytöstä on kohdassa Sähköpostiviestien, yhteystietojen ja muiden kohteiden tuominen [Outlook 2016 for Mac.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 
-**Haluan viedä iCloudiin tai muuntyyppiseen Arkisto tiedostoon**
+**I want to export to iCloud or to some other type of archive file**
 
-Ainoa tällä hetkellä käytettävissä oleva vienti vaihtoehto on. Olm-Arkisto tiedosto. Jos haluat pyytää lisää vienti asetuksia, Jätä palautetta [Outlookin ehdotus-ruutuun](https://outlook.uservoice.com/) . Outlook-tiimi tarkkailee tätä foorumia aktiivisesti.
+Tällä hetkellä ainoa käytettävissä oleva vientivaihtoehto on .olm-arkistotiedosto. Jos haluat pyytää lisää vientivaihtoehtoja, [Outlook ehdotusruutuun](https://outlook.uservoice.com/) ja anna palautetta. Työryhmä Outlook aktiivisesti tätä keskustelupalstaa.
 
-**Katso myös**
+**Tutustu myös seuraaviin ohjeartikkeleihin:**
 
-- [. Pst-tiedoston tuominen Outlook 2016 for Maciin Outlook for Windowsista](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [.pst-tiedoston tuominen Outlook 2016 for Mac Outlook -Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Kohteiden automaattinen arkistointi tai varmuus kopiointi Time Machinen avulla Outlook 2016 for Macissa](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Time Machinen avulla voit automaattisesti arkistoida tai varmuuskopioida Outlook 2016 for Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

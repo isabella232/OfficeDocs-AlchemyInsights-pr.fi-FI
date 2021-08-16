@@ -1,5 +1,5 @@
 ---
-title: Keskustelu historian vieminen tiimeissä
+title: Keskusteluhistorian vieminen Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: afce8ac024a03d51473cfdad0131be0556915cdb
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: dfa1d13f863a913e2c6de6111a2946b0a95ad8038b7b4ab15091ca3e1271e7a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100471"
 ---
-# <a name="export-chat-history-in-teams"></a>Keskustelu historian vieminen tiimeissä
+# <a name="export-chat-history-in-teams"></a>Keskusteluhistorian vieminen Teams
 
-- Keskustelu historian vieminen, varmuus kopiointi, tulostaminen ja arkistointi ei tällä hetkellä ole käyttäjien käytettävissä suoraan Microsoft Teamsista. Ole hyvä ja äänestä tätä ominaisuutta [uservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)-sovelluksessa.
-- Järjestelmänvalvojana tai eDiscoveryn hallinnoijana voit luoda [sisältö haun](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide)  Microsoft 365-yhteensopivuus keskuksessa ja hakea ja viedä sitten pikaviestikeskusteluja organisaatiossasi. Lisä tietoja on kohdassa [sisältö haun tulosten vieminen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+- Keskusteluhistorian vieminen, varmuuskopioiminen, tulostaminen ja arkistointi ei ole tällä hetkellä käyttäjien käytettävissä suoraan Microsoft Teams. Äänestä tätä ominaisuutta [UserVoicessa.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)
+- Järjestelmänvalvojana tai eDiscovery-valvojana [](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide) voit luoda sisältöhaun Microsoft 365 -yhteensopivuuskeskus ja viedä sitten pikaviestikeskustelut organisaatiossasi. Lisätietoja on kohdassa [Sisältöhaun tulosten vieminen.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)

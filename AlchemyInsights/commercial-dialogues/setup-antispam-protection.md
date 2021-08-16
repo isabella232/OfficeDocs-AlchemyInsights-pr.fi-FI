@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058503"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874572"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Roskapostisuojauksen esto
 
-Voit tehdä tämän näin:
+1. Siirry Microsoft 365 Defender -portaalissa kohtaan <https://security.microsoft.com/> **Sähköposti- &-&** \> **Käytännöt-osassa** Sääntöjen uhkien käytännöt \>  \>  roskapostin esto . 
 
-1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Siirry Threat Management Policy   >  **(Uhkien** hallintakäytäntö) -kohtaan ja valitse **[Anti-spam (Roskapostin esto).](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Ota **Mukautettu-välilehdessä** käyttöön **Mukautetut** asetukset.
-1. Laajenna **Roskapostin oletussuodatuskäytäntö**- **valitse Muokkaa käytäntöä** ja määritä sitten seuraavat asetukset:
-    1. Määritä **Roskaposti ja joukkotoiminnot** -osassa raja-arvoksi 5 tai 6.
-1. Valitse **Tallenna**.
+   Jos haluat siirtyä suoraan **Roskapostin käytännöt -sivulle,** käytä <https://security.microsoft.com/antispam> -
 
-Lisätietoja roskapostin estokäytäntövaihtoehdoista on kohdassa [Roskapostin estokäytäntöjen määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Toimi **Roskapostin käytännöt** -sivulla seuraavasti:
+   - Lisää uusi käytäntö valitsemalla **+ Luo saapuva** \> **.** Ohjattu toiminto käynnistyy, jotta voit määrittää käytäntöasetukset.
+   - Jos haluat muokata aiemmin luotua käytäntöä, valitse käytäntö napsauttamalla  käytännön nimeä **(**  Tyyppi on Mukautettu roskapostin estokäytäntö tai Nimi roskapostin estokäytäntö **(oletus).** Valitse näyttöön tulevassa tietojen  pikaikkunassa Muokkaa siinä osassa, joka sisältää määritettävät asetukset.
+
+3. Kun olet tarkistanut asetukset, valitse **Lähetä** (uusi) tai **Tallenna** (muokkaa).
+
+Lisätietoja on kohdassa [Roskapostin estokäytäntöjen määrittäminen EOP:ssä.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
