@@ -1,5 +1,5 @@
 ---
-title: Yammer-käyttö oikeus ongelmat
+title: Yammer käyttöoikeusongelmat
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ec764ece9cb7be933e9e2cd002379898522790528b0fa586ab501424b00cd7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989726"
 ---
-# <a name="yammer-licensing-issues"></a>Yammer-käyttö oikeus ongelmat
+# <a name="yammer-licensing-issues"></a>Yammer käyttöoikeusongelmat
 
-Kaikilla käyttäjillä on oltava käyttö oikeus Yammer Enterprise-palvelun käyttöön, mutta oletusarvoisesti Yammer ei edellytä, että käyttäjillä on oikeus käyttää palvelua. Kun järjestelmänvalvoja muuttaa asetusta niin, että se estää Microsoft 365-käyttäjät, joilla ei ole Yammer-käyttö oikeuksia, Yammer Enterprise-käyttö oikeutta ei voi käyttää. Lisä tietoja on Ohje aiheessa [Yammer-käyttö oikeuksien hallinta Office 365-](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) sovelluksessa 
+Kaikilla käyttäjillä on oltava Yammer Enterprise käyttöoikeus, mutta Yammer ei edellytä, että käyttäjillä on käyttöoikeus käyttää palvelua. Kun järjestelmänvalvoja estää käyttäjät, joilla Microsoft 365 ei Yammer käyttöoikeuksia, Yammer Enterprise eivät voi käyttää Yammer-palvelua. Lisätietoja on kohdassa [Käyttöoikeuksien Yammer hallinta Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
 
-Kun käyttö oikeuksia poistetaan käyttäjiltä, Yammer-ruutu ei ole enää näkyvissä ja muut palvelut voivat piilottaa ominaisuuksia käyttö oikeuksien poistamisen avulla. Muissa tapa uksissa ominaisuudet voivat edelleen näkyä, mutta ne edellyttävät, että käyttö oikeus määritystä käytetään.  
+Kun käyttöoikeudet poistetaan käyttäjiltä, Yammer-ruutu ei enää näy ja muut palvelut voivat käyttää käyttöoikeuden poistoa ominaisuuksien piilottaessa. Joissakin tapauksissa ominaisuudet voivat edelleen näkyä, mutta ne saattavat edellyttää lisenssien määritystä.  
 
-**Käyttäjä ei saa päivitettyä käyttö oikeutta**  
+**Käyttöoikeutta ei päivitetä käyttäjälle**  
 
-Toisinaan käyttäjälle määritetään käyttö oikeus, mutta se ei edelleenkään pysty käyttämään Yammeria. Viiveet tapahtuvat todennäköisemmin, kun massa käyttö oikeuden määritys on käynnissä. Yammer-käyttäjiä ei ehkä päivitetä samassa järjestyksessä kuin käyttö oikeuksia muutetaan Azure AD:ssä, koska järjestelmä suoritetaan asynkronisesti. Odota 24 tuntia, ennen kuin avaat tuki tapauksen ja ilmoitat käyttö oikeuksien synkronoinnin ongelmista.  
+Joskus käyttäjälle määritetään käyttöoikeus, mutta hän ei voi käyttää Yammer. Viiveitä ilmenee todennäköisemmin, kun joukkokäyttöoikeusmääritys on käynnissä. Yammer käyttäjiä ei ehkä päivitetä samaan järjestykseen, jossa käyttöoikeuksia muutetaan Azure AD:ssä, koska järjestelmä toimii asynkronisesti. Ilmoita käyttöoikeuksien synkronointiongelmista 24 tuntia ennen tukitapauksen avaamista.  
 
-**Bulk todistus-määritys**  
+**Joukkolisenssien määritys**  
 
-Käyttö oikeudet voidaan määrittää hallinta keskuksen tai PowerShell-komento sarjojen kautta. Lisä tietoja on Ohje aiheissa [käyttö oikeuksien määrittäminen käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) ja käyttö [oikeuksien määrittäminen käyttäjä tileille Office 365 PowerShellin avulla](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
+Käyttöoikeudet voidaan määrittää hallintakeskuksen tai PowerShell-komentosarjan kautta. Lisätietoja on tiedoissa [Käyttöoikeuksien](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) määrittäminen käyttäjille ja Käyttöoikeuksien määrittäminen [käyttäjätileille PowerShellin Office 365 avulla.](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell) 
 
-Microsoft-tuki ei anna ohjeita komento sarjojen luomiseen, mutta ohjeet ovat käytettävissä Yammer-käyttö oikeuksien määritystä varten. Lisä tietoja on Ohje aiheessa [Yammer-käyttö oikeuksien hallinta Windows PowerShellin avulla](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
+Microsoft-tuki ei tarjoa apua komentosarjojen luomisessa, mutta käyttöoikeuksien Yammer ohjeet ovat käytettävissä. Lisätietoja on kohdassa [Käyttöoikeuksien Yammer hallinta Windows PowerShell.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell)

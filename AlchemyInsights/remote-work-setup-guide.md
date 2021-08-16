@@ -1,5 +1,5 @@
 ---
-title: Etätyön määritys opas
+title: Etätyösykin määritysopas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023987"
 ---
-# <a name="remote-work-setup-guide"></a>Etätyön määritys opas
+# <a name="remote-work-setup-guide"></a>Etätyösykin määritysopas
 
-Etätyötä tehdään enemmän ja enemmän. Organisaatiosi on varustettava, jotta voit hallita etätyön lisääntyvää kysyntää.
+Etäkäynnille tehdään yhä enemmän työtä. Organisaatiollasi on oltava hallittava etätyösän kasvanutta kysynnänhallintaa.
 
-Käytä [etätyön määritys opasta](https://go.microsoft.com/fwlink/?linkid=2142062) tärkeiden tieto turva ominaisuuksien käyttöönottoon ja tarkista muita tieto turva suosituksia. Saat ohjeita, joiden avulla voit vähentää VPN-infrastruktuurisi rasitusta ja määrittää etäkäyttöön työasemat ja sovellukset. Tämän jälkeen tarkistat Microsoft teamsin ja Office-sovellusten käyttöönotto vaihtoehdot.
+[Etätyösyistä -oppaan avulla voit](https://go.microsoft.com/fwlink/?linkid=2142062) ottaa käyttöön tärkeitä suojausominaisuuksia ja tarkastella muita suojaussuosituksia. Saat ohjeita VPN-infrastruktuurin rasituksen vähentämiseksi ja etäkäytön asentaminen työpöytiä ja sovelluksia varten. Sen jälkeen tarkastelet asetuksia, joiden avulla voit ottaa Microsoft Teams ja Office käyttöön.

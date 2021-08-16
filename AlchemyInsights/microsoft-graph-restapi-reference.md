@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph REST-ohjelmointi raja pinta-ohje
+title: Microsoft Graph REST -ohjelmointirajapinnan viiteopas
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012521"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph REST-ohjelmointi raja pinta-ohje
+# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph REST -ohjelmointirajapinnan viittaus
 
-V 1.0-pääte pisteen Graph-ohjelmointi raja pinta on yleinen käytettävyys (GA)-tila, ja se on käynyt läpi tiukan tarkistus-ja palaute prosessin, jossa asiakkaat voivat tavata käytännöllisiä ja tuotannollisia tarpeita.
+v1.0-päätepisteen Graph-ohjelmointirajapinnan tila on yleisesti saatavilla ja ne ovat käyneet läpi tarkkaan arviointi- ja palauteprosessin asiakkaiden kanssa käytännöllisiä tuotantotarpeita varten.
 
-- Lisä tietoja Graph API 1.0:sta on kohdassa [Microsoft Graph REST API v 1.0 viite](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Lisä tietoja Graph API:N beetaversiosta on kohdassa [Microsoft Graph beta-pääte piste viittaus](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Lisätietoja ohjelmointirajapinnan Graph v1.0 on kohdassa [Microsoft Graph REST API v1.0 -viittaus.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Lisätietoja Graph API -beetaversiosta on [kohdassa Microsoft Graph beetapäätepisteviittaus.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Lisä tietoja Microsoft Graphin käyttämisestä on [Microsoft Graphin ohjeissa](https://docs.microsoft.com/graph/).
+Lisätietoja Microsoft Graph Microsoft Graph [ohjeista.](https://docs.microsoft.com/graph/)
 
-Unified-ja Premier-tuki asiakkaat voivat nostaa tuki lippua tätä portaalia käyttäen. Jos sinulla ei ole yhtenäistä tai Premier-tukea, voit käyttää Microsoft Graphin maksutonta kehittäjä tukea Microsoft Q&A. Lähetä kysymyksesi tästä: https://aka.ms/AskGraph
+Yhdistetyt ja Premier-tukiasiakkaat voivat tehdä tukipyynnön tämän portaalin avulla. Jos sinulla ei ole Unified- tai Premier-tukea, voit käyttää Microsoft Graph:n maksutonta kehittäjien tukea Microsoft Q&A:ssa. Lähetä kysymyksesi täällä: https://aka.ms/AskGraph
