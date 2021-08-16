@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025103"
 ---
 # <a name="bitlocker-recovery"></a>BitLocker-palautus
 
-Näytä BitLocker-palautus avaimesi siirtymällä [laitteet](https://account.microsoft.com/devices/recoverykey) -kohtaan.
+Siirry [Laitteet-näkymään](https://account.microsoft.com/devices/recoverykey) BitLocker-palautusavainten tarkastelemista varten.
 
-Lisä tietoja on kohdassa [BitLocker-palautus avaimen etsiminen](https://support.microsoft.com/help/4026181)   .
+Lisätietoja [on kohdassa BitLocker-palautusavaimen](https://support.microsoft.com/help/4026181) etsiminen.

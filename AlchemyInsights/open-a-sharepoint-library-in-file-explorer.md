@@ -1,5 +1,5 @@
 ---
-title: SharePoint-kirjaston avaaminen Resurssienhallinnassa
+title: Avaa SharePoint Resurssienhallinnassa
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025247"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>SharePoint-kirjaston avaaminen Resurssienhallinnassa
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Avaa SharePoint Resurssienhallinnassa
 
-1. Siirry kirjastoon Internet Explorer 10: ssä tai Internet Explorer 11: ssä. 
+1. Siirry Kirjasto-kansioon Internet Explorer 10 Internet Explorer 11:ssä. 
     
-2. Napsauta oikeassa yläkulmassa olevaa Näytä-kuvaketta ja valitse sitten **Näytä Resurssienhallinnassa**.
+2. Napsauta Näytä-kuvaketta oikeassa yläkulmassa ja valitse sitten **Näytä Resurssienhallinnassa**.
     
 > [!NOTE]
-> Kirjaston avaaminen Resurssienhallinnassa on kätevää, jos sinun täytyy kopioida tai siirtää useita tiedostoja ja kansioita kerran, mutta jos haluat työskennellä kirjastossa säännöllisesti, suosittelemme sen synkronointia. Lisä tietoja Resurssienhallinnan avaamis ongelmien vian määrityksestä on kohdassa [Avaa Resurssienhallinnassa](https://go.microsoft.com/fwlink/?linkid=871665). Lisä tietoja synkronoinnin määrittämisestä on Ohje aiheessa [SharePoint-tiedostojen synkronointi uuden OneDrive-synkronointi sovelluksen avulla](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Kirjaston avaaminen Resurssienhallinnassa on kätevää, jos haluat kopioida tai siirtää useita tiedostoja ja kansioita kerran, mutta jos haluat käyttää kirjastoa säännöllisesti, on suositeltavaa synkronoida se. Lisätietoja Resurssienhallinnassa avaamisen vianmäärityksestä on kohdassa [Avaa Resurssienhallinnassa.](https://go.microsoft.com/fwlink/?linkid=871665) Lisätietoja synkronoinnin määrittämisestä on kohdassa [tiedostojen SharePoint synkronointi uuden OneDrive-synkronointisovellus kanssa.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 
