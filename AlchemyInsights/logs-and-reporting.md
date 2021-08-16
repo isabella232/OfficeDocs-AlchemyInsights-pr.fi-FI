@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004331"
 - "7727"
-ms.openlocfilehash: 7349efb02f8d6ac5d73f6d6cd06eef6308ffe9be
-ms.sourcegitcommit: 117c64e1fbcb5eec04f94eadad71423b974e7b14
+ms.openlocfilehash: 03d77c17622a1aac5ecb035bb5b73efdbbfe5e6b141e6b266eef8783f612c8b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067009"
 ---
 # <a name="logs-and-reporting"></a>Lokit ja raportointi
 
-[Azure Active Directory -raportoinnin usein kysytyissä](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) kysymyksissä vastataan usein kysyttyihin kysymyksiin Azure Active Directory (Azure AD) -raportoinnista. Lisätietoja on Azure [Active Directory -raportoinnissa.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+[Azure Active Directory usein kysytyissä kysymyksissä](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) on vastauksia usein kysyttyihin kysymyksiin Azure Active Directory (Azure AD) -raportoinnista. Lisätietoja on kohdassa Azure Active Directory [raportointi.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 
-**Valvontaongelmien vianmääritys**
+**Valvonnan ongelmien vianmääritys**
 
-1. Jos sinulla on ongelmia joidenkin valvontaaktiviteettien kanssa ja jos puuttuvia toimintoja on [luettelossa,](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities)lähetä tukipalvelupyynnön.
-2. Jos sinulla on ongelmia vuokraajan valvontalokien kanssa, lähetä tukipalvelupyynnön.
-3. Jos valvontatoiminnot eivät näy heti Azure-portaalissa, [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) tarkista viivetiedot ja tee tukipyynnön, jos viive ylittää dokumentoidyn viiveen.
+1. Jos sinulla on ongelmia joidenkin valvontaaktiviteettien näkemissä ja puuttuva toiminta on [luettelossa](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities), lähetä tukipalvelupyynnön.
+2. Jos sinulla on ongelmia vuokraajan valvontalokien näkemissä, lähetä tukipalvelupyynnön.
+3. Jos valvontatoimet eivät näy heti Azure-portaalissa, [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) tutustu viivetietoomme ja tee tukipyynnön, jos viive ylittää dokumentoidyn viiveen.
 4. [Azure AD :n toimintalokien säilytys](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
-5. Jos et näe kaikkia valitsemiasi päivämäärävälin valvontoja, voit ladata enintään 250 000 riviä (uusimman) kirjautumisen mukaan Azure-portaalista. Lisätietoja on kohdassa [Valvonta-toimintojen lataaminen.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report)
+5. Jos et näe kaikkia valitsemiasi päivämäärävälin valvontoja, voit ladata enintään 250 000 kirjautumisen riviä (uusimman mukaan lajiteltuna) Azure-portaalista. Lisätietoja on kohdassa [Valvontatoimet-lataus.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report)
 
 **Kirjautumisongelmien vianmääritys**
 
-1. Näet viimeisen 30 päivän tiedot vain, jos sinulla on Azure AD Premium (P1 tai P2) -käyttöoikeus vuokraajassasi.
-2. Kirjautumiset ovat käytettävissä vain Azure AD Premium -vuokralaisille. Se ei ole käytettävissä ilmaisille tai peruskäyttöomistajille.
-3. Jos vuokraajallasi on Premium P1 -käyttöoikeus etkä näe kirjautumisia, [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) tutustu viivetietoomme ja anna tukipyynnön, jos viive ylittää dokumentoidyn viiveen.
-4. Jos et näe kaikkia valitsemasi päivämääräalueen kirjautumisia, huomaa, että voit ladata enintään 250 000 riviä (uusimman) kirjautumisen mukaan Azure-portaalista. Lisätietoja on [ladattavassa kirjautumisaktiviteetissa.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities)
+1. Näet viimeisen 30 päivän tiedot vain, jos sinulla on Azure AD Premium (P1 tai P2) -käyttöoikeus.
+2. Kirjautumiset ovat vain Azure AD Premium käytettävissä. Se ei ole käytettävissä free- tai basic-lisensoituihin vuokralaisille.
+3. Jos vuokraajassasi on Premium P1 -käyttöoikeus etkä näe kirjautumistietoja, tutustu viivetietoomme ja tee tukipyynnön, jos viive ylittää dokumentoidyn viiveen. [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies)
+4. Jos et näe kaikkia valitsemasi päivämääräalueen kirjautumisia, huomaa, että voit ladata enintään 250 000 riviä (uusimman mukaan lajiteltuna) kirjautumisista Azure-portaalista. Lisätietoja on kohdassa [Kirjautumisaktiviteetit -lataus.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities)
 
-**Suojausraporttien vianmääritys (riskialttiille käyttäjille, riskialttiille kirjautumisille)**
+**Suojausraporttien vianmääritys (käyttäjillä, jotka on merkitty riskein mukaan, riskialtista kirjautumista)**
 
 1. [Riskiturvaraporttiin merkityt käyttäjät](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
-2. [Riskialtista kirjautumisraporttia Azure Active Directory -portaalissa](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
-3. [Azure Active Directoryn riskitapahtumat](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)
+2. [Riskialttiiden kirjautumisten raportti Azure Active Directory portaalissa](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
+3. [Azure Active Directory riskitapahtumat](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)

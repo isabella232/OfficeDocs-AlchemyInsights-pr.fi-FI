@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph-yhdistimet
+title: Microsoft Graph -yhdistimiä
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027299"
 ---
-# <a name="microsoft-graph-connectors"></a>Microsoft Graph-yhdistimet
+# <a name="microsoft-graph-connectors"></a>Microsoft Graph -yhdistimiä
 
-Microsoft Graph-yhdistimien avulla organisaatio voi indeksoida kolmannen osapuolen tietoja, jotka näkyvät Microsoft-haku tuloksissa.
+Microsoft Graph -yhdistimien avulla organisaatiosi voi indeksoida kolmannen osapuolen tietoja näkymään Microsoft Search tuloksissa.
 
-- [Microsoftin yhdistimet](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Kumppanien yhdistimet](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Microsoftin yhdistimiä](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Kumppanien yhdistimiä](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Lisä tietoja on Ohje aiheessa  [yleistä Microsoft Graph-yhdistimistä](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Lisätietoja on kohdassa Yleistä [Microsoft Graph yhdistimistä](https://docs.microsoft.com/microsoftsearch/connectors-overview).

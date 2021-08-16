@@ -1,5 +1,5 @@
 ---
-title: Kohteita ei voi poistaa SharePointissa tai OneDrivessa
+title: Kohteita ei voi poistaa SharePoint OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038514"
 ---
-# <a name="unable-to-delete-items"></a>Kohteiden poistaminen ei onnistu
+# <a name="unable-to-delete-items"></a>Kohteita ei voi poistaa
 
-- Säilytys käytännöt voivat aiheuttaa tämän ongelman, sinun on joko poistettava käytöstä tai jätettävä tämä ongelma huomiotta. Kun säilytys käytännön tai pito on poistettu, muutoksen voimaan jääminen voi kestää jopa 24 tuntia. Varmista, että kohteessa ei ole [säilytys käytännön](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) määritystä.
+- Säilytyskäytännöt voivat aiheuttaa tämän, sinun on joko poistettava käytöstä tai poistettava pito, joka aiheuttaa tämän ongelman. Kun säilytyskäytäntö tai pito on poistettu, voi kestää jopa 24 tuntia, ennen kuin muutos tulee voimaan. Varmista, että kohteessa [ei ole säilytyskäytännön](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) asetuksia.
 
-- Sivuston tallennus tila on ehkä ylitetty, kasvata [sivuston kiintiötä](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) ja Poista kohde.
+- Sivusto on ehkä ylittänyt tallennustilarajan, [suurentanut sivuston kiintiötä](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) ja poistanut kohteen.
 
-- Varmista, ettei kohdetta ole [kuitattu ulos](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) toiselle käyttäjälle.
+- Varmista, että kohdetta ei [ole kuitattu ulos](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) toiselle käyttäjälle.
 
-- Lopuksi järjestelmänvalvojat voivat käyttää [SharePoint-malleja ja-käytäntöjä](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), jotka sisältävät PowerShell-komentoja, joiden avulla voit suorittaa monimutkaisia hallinta toimintoja, kuten pakottaa poistamaan itsepäisiä kohteita.
+- Järjestelmänvalvojat voivat lisäksi käyttää SharePoint Patterns [and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), joka sisältää PowerShell-komentokirjaston, jonka avulla voit suorittaa monimutkaisia hallintatoimintoja, kuten pakottaa poistamaan tarpeettomia kohteita.
 - [PNP-tiedoston poistaminen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [PNP-kansion poistaminen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [PNP-luettelon kohteen poistaminen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [PNP-luettelon poistaminen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [PNP-kentän (sarakkeen) poistaminen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- [Poista PNP-kansio](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [Poista PNP-luettelokohde](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [Poista PNP-luettelo](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [Poista PNP-kenttä (sarake)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

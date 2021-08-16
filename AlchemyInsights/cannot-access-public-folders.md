@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996627"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ei voi muodostaa yhteyttä yleisiin kansioihin
 
 Jos yleinen kansion käyttö ei toimi joillakin käyttäjillä, kokeile seuraavaa:
 
-Muodosta yhteys EXO PowerShelliin ja määritä ongelmakäyttäjätilin DefaultPublicFolderMailbox-parametri vastaamaan toimivan käyttäjätilin parametria.
+Näyttöyhteys EXO PowerShelliin ja määritä ongelmakäyttäjätilin DefaultPublicFolderMailbox-parametri vastaamaan toimivan käyttäjätilin parametria.
 
 Esimerkki:
 
@@ -33,18 +33,18 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Odota vähintään yksi tunti, jotta muutos tulee voimaan.
 
-Jos ongelma ei muutu, noudata [näitä ohjeita](https://aka.ms/pfcte) yleisen kansion käytön ongelmien vianmääritykseen Outlookin avulla.
+Jos ongelma ei muutu, noudata [näitä ohjeita](https://aka.ms/pfcte) yleisen kansion käytön ongelmien vianmääritykseen Outlook.
  
-**Voit määrittää, k voivatko käyttäjät käyttää julkisia kansioita Outlookin avulla:**
+**Voit määrittää, k voivatko käyttäjät käyttää julkisia kansioita Outlook:**
 
 1.  Käytä Set-CASMailbox <mailboxname> -PublicFolderClientAccess -$true tai $false  
       
-    $true: Salli käyttäjien käyttää julkisia kansioita Outlookissa  
+    $true: Salli käyttäjien käyttää Outlook  
       
-    $false: Estä käyttäjien pääsy Yleisiin kansioihin Outlookissa. Tämä on oletusarvo.  
+    $false: Voit estää Outlook:n julkisten kansioiden Outlook. Tämä on oletusarvo.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Huomautus** Tämä toimenpide voi hallita yhteyksiä vain Outlookin työpöytäsovelluksella Windows-asiakassovellohjelmia varten. Käyttäjä voi edelleen käyttää julkisia kansioita OWA:n tai Outlook for Macin avulla.
+**Huomautus** Tämä toimenpide voi hallita yhteyksiä vain Outlook työpöytäsovelluksessa Windows kanssa. Käyttäjä voi edelleen käyttää julkisia kansioita OWA:n tai Outlook for Mac.
  
-Lisätietoja on kohdassa [Valvotuille yhteyksille Outlookin](https://aka.ms/controlpf)yleisiin kansioihin -tuen ilmoittaminen.
+Lisätietoja on kohdassa [Valvotuille yhteyksille yleisille](https://aka.ms/controlpf)kansioille ilmoittava tuki Outlook.

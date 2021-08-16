@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graphin yleiset ongelmat ja ratkaisut
+title: Microsoft Graph yleisimmät ongelmat ja ratkaisut
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027263"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graphin yleiset ongelmat ja ratkaisut
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph yleisimmät ongelmat ja ratkaisut
 
-Täydellinen luettelo Microsoft Graphin tunne tuista ongelmista on kohdassa [Microsoft Graphin tunnetut ongelmat](https://docs.microsoft.com/graph/known-issues). Muita kysymyksiä ja resursseja on [Microsoft Graph-Ohje](https://docs.microsoft.com/graph/) sivulla.
+Täydellinen luettelo Microsoft Graph:n tunnetuista ongelmista on kohdassa [Microsoft Graph.](https://docs.microsoft.com/graph/known-issues) Lisätietoja muista kysymyksistä ja resursseista on [Microsoft Graph -pääsivulla.](https://docs.microsoft.com/graph/)
 
-- [Microsoft Graph REST API v 1.0-viittaus](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Katso, mitä muutoksia Microsoft Graph APISSA on muuttunut [muutos lokista](https://docs.microsoft.com/graph/changelog). 
-- [Esitä kysymys tai anna palautetta graafin ohjelmointi raja pinnoista ja asia kirjat](https://aka.ms/GraphDeveloperSupport) kehittäjien tuki tiimiltä.
+- [Microsoft Graph REST API v1.0 -viittaus](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- Selvitä Microsoft Graph API:n muutokset [Changelogista.](https://docs.microsoft.com/graph/changelog) 
+- [Kysy tai anna palautetta ohjelmointirajapintojen Graph kehittäjien](https://aka.ms/GraphDeveloperSupport) tukitiimin kanssa.
 
-Unified support ja Premier-asiakkaat voivat nostaa tuki lippua tätä portaalia käyttäen. Muut voivat käyttää Microsoft Graphin maksutonta kehittäjä tukea [Microsoft Q&A](https://aka.ms/AskGraph).
+Kattava tuki Premier-asiakkaat voivat tehdä tukipyynnön tässä portaalissa. Muut voivat käyttää Microsoft Graph:n maksutonta kehittäjien [&A:ssa.](https://aka.ms/AskGraph)
