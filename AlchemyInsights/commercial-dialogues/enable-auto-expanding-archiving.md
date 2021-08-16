@@ -1,5 +1,5 @@
 ---
-title: Arkistoinnin automaattisen laajentamisen ottaminen käyttöön
+title: Automaattisen arkistoinnin ottaminen käyttöön
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: cbc856a76d811c09aefcada962376ae4e9469c3b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 85a494918d65cc026a85bdfd6348d5c3c190ef919fa88a15ffcd4e7e790b8737
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035147"
 ---
-# <a name="enable-auto-expanding-archiving"></a>Arkistoinnin automaattisen laajentamisen ottaminen käyttöön
+# <a name="enable-auto-expanding-archiving"></a>Automaattisen arkistoinnin ottaminen käyttöön
 
 Jos arkistopostilaatikko on täynnä (kiintiö on saavutettu) tai haluat suurentaa arkiston kokoa, voit ottaa rajoittamattoman arkistoinnin käyttöön käyttäjille.
 
@@ -29,5 +29,5 @@ Jos arkistopostilaatikko on täynnä (kiintiö on saavutettu) tai haluat suurent
 > [!TIP]
 >
 > - Kun otat automaattisen laajentamisen käyttöön, lisätallennustilan valmistelu voi kestää jopa 30 päivää.
-> - Jos postilaatikko on pitossa tai määritetty Office 365 -säilytyskäytäntöön, arkistopostilaatikon tallennuskiintiö kasvaa **yhteensä 110 Gigatavuun,** kun rajoittamaton arkistointi on käytössä.
-> - Jos arkistopostilaatikossa ei ole tilaa, käyttäjät voivat viedä arkistopostilaatikon kohteet PST-tiedostoon [Outlookin](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) avulla tai poistaa arkistopostilaatikon tarpeettomat kohteet.
+> - Jos postilaatikko on pitossa tai määritetty Office 365 säilytyskäytäntöön, arkistopostilaatikon tallennuskiintiö kasvaa **yhteensä 110** Gt: kun arkistot ovat käytössä.
+> - Jos arkistopostilaatikossa ei ole tilaa, käyttäjät voivat [](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) viedä arkistopostilaatikon kohteita PST-tiedostoon Outlook tai poistaa tarpeettomat kohteet arkistopostilaatikosta.

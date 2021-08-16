@@ -1,5 +1,5 @@
 ---
-title: Valvontakäytäntöjen siirtäminen viestintä yhteensopivuuskäytäntöihin
+title: Valvontakäytäntöjen siirtäminen viestinnän yhteensopivuuskäytäntöihin
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c488a4b3c5881909aa5b3c1a4afb6c0054989d02
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: dbb29c59dca7d0cb901df7e828736b2458f7345e86400a7ea823cf654cd0891e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034247"
 ---
-# <a name="migrate-supervision-policies-to-communication-compliance-policies"></a>Valvontakäytäntöjen siirtäminen viestintä yhteensopivuuskäytäntöihin
+# <a name="migrate-supervision-policies-to-communication-compliance-policies"></a>Valvontakäytäntöjen siirtäminen viestinnän yhteensopivuuskäytäntöihin
 
-Valvontatoiminto on korvattu viestinnän yhteensopivuudella. Jos tietoturva- ja yhteensopivuuskeskuksessa on tällä hetkellä & valvontakäytäntöjä, ne on siirtymässä Microsoft 365:n viestintäkäytäntöihin. Näitä käytäntöjä ei voi siirtää siirtotyökalulla. sen sijaan sinun on luotava uusia viestintä yhteensopivuuskäytäntöjä olemassa olevien valvontakäytäntöjen korvaamiseksi.
+Valvonta-ominaisuus on korvattu viestinnän yhteensopivuudella. Jos tietoturva- ja yhteensopivuuskeskuksessa on määritetty valvontakäytäntöjä&, ne on Microsoft 365 viestintäkäytäntöihin. Näitä käytäntöjä ei voi siirtää siirtotyökalulla. Sinun on sen sijaan luotava uusia viestintä yhteensopivuuskäytäntöjä olemassa olevien valvontakäytäntöjen korvaamiseksi.
 
-Lisätietoja siirtymisestä Valvonta-ominaisuudesta on kohdassa [Siirtyminen valvonnasta.](https://go.microsoft.com/fwlink/?linkid=2128750)
+Lisätietoja valvontaominaisuudesta siirtymisestä on kohdassa [Siirtyminen valvonta -ominaisuudesta.](https://go.microsoft.com/fwlink/?linkid=2128750)
