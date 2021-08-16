@@ -1,5 +1,5 @@
 ---
-title: Julkiset SharePoint Online-sivustot lopetetaan
+title: SharePoint Julkisten online-sivustojen käyttö lopetetaan
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051267"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Julkiset SharePoint Online-sivustot lopetetaan
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Julkisten online-sivustojen käyttö lopetetaan
 
-Jos olet luonut julkisen SharePoint Online-sivuston, voit jatkaa sen käyttöä vasta 31. maaliskuuta 2018. Jos haluat jatkaa julkisen sivuston luomista, sinun on luotava uusi palveluntarjoaja. Julkisen SharePoint Online-sivuston sisältö poistetaan, joten sinun on kopioitava sisältö, jonka haluat säilyttää.
+Jos loit julkisen SharePoint-sivuston, voit jatkaa sen käyttöä 31.3.2018 asti. Jos haluat jatkaa julkisen sivuston käyttöä, sinun on luotava uusi sivusto uuden palveluntarjoajan kanssa. Julkisen SharePoint online -sivuston sisältö poistetaan, joten sinun on kopioitettava kaikki säilytettävä sisältö.
   
-Julkisen SharePoint Online-sivuston yläreunassa näkyvä banneri näkyy ilmoituksena siitä, että sivusto poistetaan. Et voi poistaa tätä banneria käytöstä. Lisä tietoja sisällön tallentamisesta ja kopioimisesta kumppanien verkkosivustoon on kohdassa lisä tietoja [ominaisuuden lopettamisen prosessista](https://go.microsoft.com/fwlink/?linkid=866980).
+Julkisen SharePoint online -sivuston yläreunaan tulee nyt ilmoitus siitä, että sivusto poistetaan. Tätä banneria ei voi poistaa käytöstä. Lisätietoja sisällön tallentamisesta ja kopioimisesta kumppanisivustoon on kohdassa Tietoja [toiminnon lopettamisesta.](https://go.microsoft.com/fwlink/?linkid=866980)
   

@@ -1,5 +1,5 @@
 ---
-title: Käyttäjäkäytännön/postilaatikon asetusten ratkaiseminen
+title: Käyttäjäkäytännön tai postilaatikon asetusten korjaukset
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034715"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Käyttäjäkäytännön/postilaatikon asetusten ratkaiseminen
+# <a name="fix-user-policymailbox-settings"></a>Käyttäjäkäytännön tai postilaatikon asetusten korjaukset
 
-Tämä viesti vaikuttaa postilaatikon roskapostiasetuksiin. Voit tarkistaa asetukset seuraavasti:
+Postilaatikon roskapostiasetukset vaikuttavat tähän viestiin. Voit tarkistaa asetukset seuraavasti:
 
-1. Käynnistä Exchange-hallintaliittymä. Lisätietoja on ohjeaiheessa [Exchange-hallintaliittymän avaaminen.](https://go.microsoft.com/fwlink/?linkid=2101432)
-2. Suorita tämä komento (käyttäjän sähköpostiosoitteella):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
-3. Tarkista, onko lähettäjän sähköpostiosoite osa **TrustedSendersAndDomains-** tai **BlockedSendersAndDomains-toimialueita.** Jos sähköpostiosoite on jossakin luettelossa, se on ehkä poistettava. Lisätietoja on kohdassa [Set-MailboxJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)
+1. Käynnistä Exchange hallintaliittymä. Lisätietoja on kohdassa [Exchange hallintaliittymän avaaminen.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Suorita tämä komento (käyttämällä käyttäjän sähköpostiosoitetta):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Tarkista, onko lähettäjän sähköpostiosoite osa luotettuja **lähettäjiäAndDomains** tai **BlockedSendersAndDomains.** Jos sähköpostiosoite on jossakin luettelossa, se on ehkä poistettava. Lisätietoja on kohdassa [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).

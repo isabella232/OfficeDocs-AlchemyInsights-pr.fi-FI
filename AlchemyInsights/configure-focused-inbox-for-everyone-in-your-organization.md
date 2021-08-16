@@ -1,5 +1,5 @@
 ---
-title: 912 Määritä kohdennettu Saapuneet-kansio kaikille organisaatiosi käyttäjille
+title: 912 Focused Inboxin määrittäminen kaikille organisaation käyttäjille
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: c4cfd92d233f186de43ff9761b28b6d01a040e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43b8b478fac3c077520cf3f36193efd241598174b00eea27f13861de1a140954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044589"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Kohdistetun Saapuneet-kansion ottaminen käyttöön tai poistaminen käytöstä kaikille
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Focused Inboxin käyttöönotettu saapuneet-kansio kaikille
 
-Lisä tietoja on artikkelissa lajitellut [Saapuneet-kansion määrittäminen kaikille organisaation käyttäjille](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Ohjeet ovat kohdassa [Focused Inboxin määrittäminen kaikille organisaation käyttäjille.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)
 
-**Huomautus**: Tämä toiminto edellyttää Exchange Online PowerShelliä. Haluatko tehdä sen sen sijaan Microsoft 365-hallinta keskuksessa? [Äänestä täällä!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Huomautus:** Tämä toimenpide vaatii Exchange Online PowerShellin. Haluatko tehdä tämän Microsoft 365 -hallintakeskus? [Äänestä täällä!](https://go.microsoft.com/fwlink/p/?linkid=862489)

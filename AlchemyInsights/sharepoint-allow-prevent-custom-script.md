@@ -1,5 +1,5 @@
 ---
-title: Salli mukautettu komento sarja ominaisuuksien käyttöönottoa varten
+title: Salli mukautetun komentosarjan ottaa ominaisuudet käyttöön
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd75d37b20ad2b624ee9944c9c7e62b93277dcd5e2669e3748647636d99e1b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051447"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Salli mukautettu komento sarja ominaisuuksien käyttöönottoa varten
+# <a name="allow-custom-script-to-enable-features"></a>Salli mukautetun komentosarjan ottaa ominaisuudet käyttöön
 
-Järjestelmänvalvojien on ehkä sallittava tiettyjen ominaisuuksien ottaminen käyttöön **mukautetulla komento sarjalla** . Käyttäjät voivat esimerkiksi saada virhe 403, kun muodostat yhteyden SharePointiin SharePoint Designerilla. Yksityiskohtaisia ohjeita, esimerkkejä ja Huomioitavaa on artikkelissa [mukautetun komento sarjan salliminen tai estäminen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Järjestelmänvalvojien on ehkä **sallittava mukautettu komentosarja tiettyjen** ominaisuuksien käyttöönottoon. Käyttäjät voivat esimerkiksi saada virheilmoituksen 403, kun he SharePoint SharePoint suunnittelutyökalulla. Yksityiskohtaiset ohjeet, esimerkit ja huomioon otettavia seikkoja ovat kohdassa [Mukautetun komentosarjan salliminen tai estäminen.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Jos käyttäjät kokevat **virheen 403** SharePoint-tai OneDrive-palvelussa, voit tarkistaa [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko kyseessä ratkaisu, joka on käynnissä, ennen kuin soitat tukeen tai vietät aikaa vian määrityksessä. Ongelma voi olla hyvin väliaikainen ja se on jo Microsoftin tunnistama, mutta ongelman tunnistaminen ja palvelun kunnon koonti näyttöön saattaa olla kulunut aika. Jatka palvelun kunnon koonti näytön päivittämistä.
+Jos käyttäjillä on virhe **403** SharePoint- tai OneDrive-sovelluksella, voit tarkistaa Palvelun kunto -koontinäytöstä, onko kyseessä tunnettu ongelma, jonka ratkaisu on käynnissä, ennen kuin soitat tukeen tai käytät aikaa vianmääritykseen. [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Ongelma voi olla hyvin tilapäinen ja Microsoft on jo tunnistanut sen, mutta ongelman tunnistamisen ja palvelun kunto -koontinäyttöön julkaisemisen välillä voi olla viive. Jatka palvelun kunto -koontinäytön tarkistamista, jotta saat lisää päivityksiä.
 

@@ -1,5 +1,5 @@
 ---
-title: Ulkopuolisten ryhmien poistaminen käytöstä
+title: Ulkoisten ryhmien poistaminen käytöstä
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 30495253bdabbe618817cce45790dbf5d565b2db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7c020aa02a9ffbc10e4e52717e0005a3bbbe2b721380183a3a0c90387b1dd4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015653"
 ---
-# <a name="how-to-give-access-to-external-users-in-yammer"></a>Ulkopuolisten käyttäjien käyttö oikeuden antaminen Yammerissa
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Ulkoisten käyttäjien käyttöoikeudet Yammer
 
-Ulkoiset käyttäjät voivat käyttää verkkoa neljällä tavalla Yammerissa.
+Ulkoiset käyttäjät voivat käyttää verkostoasi neljällä eri Yammer.
   
-1. **Vieras käyttäjät** -Yammer-järjestelmänvalvojat voivat kutsua yhteyshenkilöitä ulkoisista toimi alueista koti verkon käyttäjinä. Nämä käyttäjät näkevät kaikki yrityksen syötteen ja voivat liittyä myös muihin ryhmiin verkoissa.
+1. **Vieraskäyttäjät** – Yammer järjestelmänvalvojat voivat kutsua ulkoisten toimialueiden yhteystietoja kotiverkoston käyttäjiksi. Nämä käyttäjät näkevät Koko yritys -syötteen ja voivat liittyä verkostojen muihin ryhmiin.
 
-2. Ulkoiset käyttäjät ulkoisen **ryhmän** ulkoiset ryhmät sallivat ulkoiset käyttäjät. Ulkoisen käyttäjän käyttö oikeuden laajuus rajoittuu ulkoiseen ryhmään. Ulkoiset ryhmät-kohdassa voit kutsua vain yhteyshenkilöitä Yammer-verkostoista, joiden avulla käyttäjät voivat osallistua ulkoisiin keskusteluihin.
+2. **Ulkoisen ryhmän ulkoiset käyttäjät – Ulkoiset** ryhmät sallivat ulkoiset käyttäjät. Ulkoisen käyttäjän käyttöoikeus on rajoitettu ulkoiseen ryhmään. Ulkoisia ryhmiä voi kutsua ulkoisiin keskusteluihin vain Yammer verkostoista, joiden avulla käyttäjät voivat osallistua ulkoisiin keskusteluihin.
 
-3. **Ulkoinen käyttäjä Yammer-keskustelussa sisäisessä ryhmässä** – tämä asetus sallii ulkopuolisten osallistujien lisäämisen tiettyyn keskusteluun. Ulkoiset osallistujat voivat osallistua keskusteluihin, joihin he ovat nimenomaisesti kutsuneet ja joihin kaikki kyseisen keskustelun liitteet on pyydetty. He käyttävät näitä keskusteluja Yammer-saapuneet-kansionsa kautta (verkossaansa). He eivät voi käyttää muita verkostosi.
+3. **Ulkoiset käyttäjät Yammer sisäisessä ryhmässä** – Tämän vaihtoehdon avulla ulkoisia osallistujia voidaan lisätä tiettyyn keskusteluun. Ulkoiset osallistujat voivat osallistua vain niihin keskusteluihin, jotka heidät on nimenomaisesti kutsuttu, sekä kaikkiin tämän keskustelun liitteiseen. He voivat käyttää keskusteluja Saapuneet Yammer (verkostossa) saapuneet-kansion kautta. He eivät voi käyttää muuta verkostoasi.
 
-4. **Ulkoiset verkot** – tämän asetuksen avulla voit kutsua ulkoisia käyttäjiä ulkoiseen verkkoon, jonka järjestelmänvalvojat voivat luoda verkossasi. Tämä asetus sopii parhaiten ulkoisiin yhteisöihin isännöintiin.
+4. **Ulkoiset** verkostot – Tämän asetuksen avulla voit kutsua ulkoisia käyttäjiä ulkoiseen verkostoon, jonka varmennetut järjestelmänvalvojat voivat luoda verkostoon. Tämä vaihtoehto sopii parhaiten ulkoisten yhteisöjen isännöinnille.
 
-Lisä tietoja on kohdassa [ulkoiset viestit-osallistujien lisääminen Yammer-keskusteluihin](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) ja [ulkoisiin viesteihin liittyvät usein kysytyt kysymykset (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
+Lisätietoja on kohdassa Ulkoisten [viestintäosallistymien lisääminen Yammer ja](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) ulkoisen viestinnän usein [kysytyt kysymykset (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

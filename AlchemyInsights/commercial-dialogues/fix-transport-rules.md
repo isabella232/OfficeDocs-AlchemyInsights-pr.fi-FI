@@ -1,5 +1,5 @@
 ---
-title: Siirtosääntöjen ratkaiseminen
+title: Siirtosääntöjen korjaukset
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034751"
 ---
-# <a name="fix-transport-rules"></a>Siirtosääntöjen ratkaiseminen
+# <a name="fix-transport-rules"></a>Siirtosääntöjen korjaukset
 
-Tämä sanoma vaikuttaa mukautettuun postinkulkusääntöön. Voit tarkistaa täsmällisen säännön seuraavasti:
+Mukautettu postinkulkusääntö vaikuttaa tähän viestiin. Voit tarkistaa täsmällisen säännön seuraavasti:
 
 1. Huomaa lähetyksen tuloksissa **Lisätietoja-kohdassa** **GUID-tunnus** tai **käytännön nimi.**
-2. Käynnistä Exchange-hallintaliittymä. Lisätietoja on ohjeaiheessa [Exchange-hallintaliittymän avaaminen.](https://go.microsoft.com/fwlink/?linkid=2101432)
-3. Suorita tämä komento (käyttämällä lähetyksen  **GUID-tunnusta): Get-TransportRule -identity "GUID" | fl * Description***
+2. Käynnistä Exchange hallintaliittymä. Lisätietoja on kohdassa [Exchange hallintaliittymän avaaminen.](https://go.microsoft.com/fwlink/?linkid=2101432)
+3. Suorita tämä komento (käyttämällä lähetyksesi  **GUID-tunnusta): Get-TransportRule -identity "GUID" | fl * Description***
 4. Tarkista kuvaus, jotta näet määritetyt ehdot, joihin viesti vaikuttaa.
 
-Lisätietoja on kohdassa [Get-TransportRule.](https://go.microsoft.com/fwlink/?linkid=2101523)
+Lisätietoja on kohdassa [Get-TransportRule](https://go.microsoft.com/fwlink/?linkid=2101523).

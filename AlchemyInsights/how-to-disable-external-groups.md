@@ -1,5 +1,5 @@
 ---
-title: Ulkopuolisten ryhmien poistaminen käytöstä
+title: Ulkoisten ryhmien poistaminen käytöstä
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015617"
 ---
-# <a name="how-to-disable-external-groups"></a>Ulkopuolisten ryhmien poistaminen käytöstä
+# <a name="how-to-disable-external-groups"></a>Ulkoisten ryhmien poistaminen käytöstä
 
-Yammerin ulkoiset viestit käyttää Exchange-siirto sääntöjä (Etbs), jotka estävät yritys tietojen jakamisen. Jos haluat estää käyttäjiä luomasta ulkoisia ryhmiä, sinun on määritettävä Exchange-siirto sääntö (ETR) ja määritettävä sitten Yammer käyttämään Exchangen siirto sääntöä ulkoisen viestinnän estämiseen.
+Yammer ulkoinen viestintä koskee Exchange (ETRs) -siirtosääntöjä, jotka sisältävät ennakoivia ohjausobjekteja yrityksen tietojen jakamisen estämiseksi. Jotta voit rajoittaa ulkoisten ryhmien luomista käyttäjiä, sinun on määritettävä Exchange (ETR) ja määritettävä sitten Yammer käyttämään Exchange-siirtosääntöä ulkoisen viestinnän estämiseen.
   
-Kun olet luonut säännön Exchange Online-hallinta keskuksessa, voit määrittää ETR:N käyttämään Yammerissa seuraavia vaiheita:
+Kun olet luonut säännön Exchange Online hallintakeskuksessa, määritä Etr-asetus sovellettavaksi Yammer:
   
-- Kirjaudu Yammeriin todennettuna järjestelmänvalvojana ja siirry **Yammer-hallinta keskuksessa**C- **sisältö-ja tieto turva- \> asetuksiin.**
+- Kirjaudu sisään Yammer järjestelmänvalvojana ja valitse **Yammer hallintakeskuksessa** C Content and **Security \> Asetukset.**
 
-- Valitse **ulkoiset viestit**-kohdassa **Pakota Exchange Onlinen Exchange-siirto säännöt Yammerissa.**
+- Valitse **Ulkoinen viestintä -kohdassa** **Pakota Exchange Online Exchange siirtosäännöt (ETRs) Yammer.**
 
 - Valitse **Tallenna**.
 
-Lisä tietoja on Ohje aiheessa [ulkoiset viestit-toiminnon poistaminen käytöstä Yammer-verkostossa](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Lisätietoja on kohdassa Ulkoisen [viestinnän poistaminen käytöstä Yammer verkostossa.](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)
   

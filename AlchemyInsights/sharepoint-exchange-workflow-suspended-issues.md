@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051411"
 ---
-# <a name="workflows-in-sharepoint"></a>Työn kulut SharePointissa
+# <a name="workflows-in-sharepoint"></a>Työnkulut SharePoint
 
-Jos SharePoint-työn kulut eivät lähetä Sähkö posti viestejä, organisaatiosi on saattanut kohdata Exchange Online-lähettäjän rajoitukset.
+Jos SharePoint eivät lähetä sähköpostiviestejä, organisaatiosi on voinut kohdata Exchange Online lähettäjän rajoitukset.
 
-Työn kulku on pysäytetty-virhe sanoma voi ilmetä, jos sinulla on jokin seuraavista kohteista:
+"Työnkulku keskeytetään" -virhesanoma voi ilmetä, jos sinulla on jokin seuraavista kohteista:
 
-- Sinulla on SharePoint Onlinen työn kulku, joka käyttää SharePoint 2010-tai SharePoint 2013-työn kulku ympäristön tyyppiä.
+- SharePoint Onlinessa on työnkulku, joka käyttää SharePoint 2010- tai SharePoint 2013 -työnkulkuympäristön tyyppiä.
 
-- Työn kulku on määritetty lähettämään mukautettu Sähkö posti viesti useammalle kuin 200-käyttäjälle kerralla, yli 10 000 käyttäjää päivässä tai yli 30 viestiä minuutissa.
+- Työnkulku on määritetty lähettämään mukautettu sähköpostiviesti yli 200 käyttäjälle kerrallaan, yli 10 000 vastaanottajaa päivässä tai yli 30 viestiä minuutissa.
 
-Kun suoritat työn kulun, sähkö posti viestiä ei lähetetä, ja huomaat virhe sanoman, jonka mukaan sisäinen tila on pysäytetty tai vastaanottaja ei voi lähettää vastaanottajalle-ilmoitus tulee näkyviin.
+Kun suoritat työnkulun, sähköpostiviestiä ei lähetetä ja näyttöön tulee virhesanoma Sisäinen tila -asetuksena On keskeytetty tai Vastaanottajalle ei voi lähettää.
 
-Katso lisä tietoja seuraavasta [artikkelista](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
+Lisätietoja on seuraavassa [artikkelissa.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
 

@@ -1,5 +1,5 @@
 ---
-title: Sähköpostin siirtäminen Microsoft 365:lle
+title: Sähköpostin siirtäminen Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 4ace759a6cfe6e161c5572472b7459f8fd4c6021
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94c762cb8fbca608b06464f79f04d0a81fa37ca1fa10204b405a18bd79f4bade
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986294"
 ---
-# <a name="move-email-to-microsoft-365"></a>Sähköpostin siirtäminen Microsoft 365:lle
+# <a name="move-email-to-microsoft-365"></a>Sähköpostin siirtäminen Microsoft 365
 
-Voit lähettää sähköpostia Microsoft 365:lle monella eri vaihtoehdolla. [Microsoft 365:n sähköpostin](https://aka.ms/alchemyinsight-mailmigrationadvisor) siirtoneuvojan avulla voit valita ympäristöllesi parhaiten haluamasi advisorin ja opastaa sinua myös postinsiirrossa.
+Voit valita useista eri vaihtoehdoista sähköpostin Microsoft 365. Sähköpostin [Microsoft 365 neuvonantajan](https://aka.ms/alchemyinsight-mailmigrationadvisor) avulla voit valita ympäristöllesi parhaiten haluamasi ja opastaa sinua myös sähköpostin siirrossa.
   
 Jos haluat lukea vaihtoehdoista aloittamatta siirtoa, katso [siirtopolun päätäminen.](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-Katso myös Microsoft [365:n käyttöönotettu FastTrack-palvelu](https://www.microsoft.com/fasttrack/microsoft-365/office-365) -sivulta apua siirtymiseen, jos se on oikeutettu tähän.
+Tarkista myös Ota käyttöön [Microsoft 365 FastTrackin](https://www.microsoft.com/fasttrack/microsoft-365/office-365) avulla -sivulta apua siirtymiseen, jos se on oikeutettu.
   
