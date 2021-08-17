@@ -1,5 +1,5 @@
 ---
-title: Saumattoman kertakirjautumisen (SSO) selainongelmien vianmääritys
+title: Saumattoman kertakirjautumisen selainongelmien vianmääritys
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074281"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Saumattoman kertakirjautumisen (SSO) selainongelmien vianmääritys
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Saumattoman kertakirjautumisen selainongelmien vianmääritys
 
 Useimmat käyttäjät voivat ratkaista Seamless SSO -selainongelmansa alla olevia ohjeita noudattamalla:
 
@@ -27,15 +27,15 @@ Useimmat käyttäjät voivat ratkaista Seamless SSO -selainongelmansa alla olevi
 2. Poista evästeet selaimesta, jos haluat poistaa virheellisen SSO-istunnon ja yrittää kirjautua sisään uudelleen.
 3. Yritä kirjautua sisään eri selaimella.
 
-**Tunnetut selainongelmat**
+**Tunnetun selaimen ongelmat**
 
-- Saumaton SSO ei toimi firefoxin yksityisessä selaustilassa.
-- Saumaton SSO ei toimi Internet Explorerissa, kun laajennettu suojattu tila on käytössä.
-- Saumaton SSO ei toimi yksityisessä selaustilassa Microsoft Edgessä (vanha).
-- Saumaton SSO ei toimi mobiiliselaimissa iOS: ssä ja Androidissa.
+- Saumaton SSO ei toimi Firefoxin yksityisessä selaustilassa.
+- Saumaton SSO ei toimi Internet Explorerissa, kun Laajennettu suojattu tila on käytössä.
+- Saumaton SSO ei toimi yksityisessä selaustilassa Microsoft Edge (vanha).
+- Saumaton SSO ei toimi iOS: n ja Androidin mobiiliselaimissa.
 
-Saumaton SSO tukee seuraavaa Chromium-pohjaista Microsoft Edge -versiota, ja se toimii inprivate- ja vierastilassa suunnittelussa.
+Saumaton SSO tukee seuraavaa Microsoft Edge, joka perustuu Chromium ja toimii InPrivate- ja Vieras-tilassa suunnittelussa.
 
 **Tiedote**
 
-Jos haluat esittää ominaisuuspyyntöjä tai esittää teknisiä kysymyksiä Seamless SSO:stä, tutustu [Microsoftin kysymysten ja&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Jos haluat esittää ominaisuuspyyntöjä tai esittää teknisiä kysymyksiä Saumattomasta SSO:sta, tutustu [Microsoftin kysymysten ja&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
