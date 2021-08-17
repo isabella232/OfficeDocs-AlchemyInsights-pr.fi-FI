@@ -1,5 +1,5 @@
 ---
-title: SharePoint-sivuston seuraaminen tai seuraaminen
+title: Seuraa sivustoa tai poista SharePoint seuraaminen
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116977"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint-sivuston seuraaminen tai seuraaminen
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Seuraa sivustoa tai poista SharePoint seuraaminen
 
-Jos SharePoint-resurssit ovat seuraavat tai seuraavat:
+Jos käyttäjillä on ongelmia resurssien SharePoint seuraamiseen tai SharePoint, toimi seuraavasti:
 
-* Pyydä käyttäjää Kirjautu maan sisään ja palaamaan SharePointiin ja kokeilemaan samoja vaiheita, jotta voit seurata/lopettaa SharePoint-resurssin seuraamisen.
-* Tarkista, onko ongelma tietyssä sivustossa tai kaikissa sivustokohteissa. Jos ongelma ilmenee tiettyjen sivustojen kanssa, varmista, että sivuston seuraava sisältö-ominaisuus on aktiivisena sivustossa sivuston **Asetukset-> sivuston ominaisuuksien hallinta > sisällön**mukaan. Jos ominaisuuden asetukseksi on valittu aktiivinen, Poista toiminto käytöstä ja aktivoi se uudelleen sivustolle.
-* Pyydä käyttäjää kokeilemaan toista Internet-selainta ja näkemään, onko ongelma käyttäjän selaimessa.
-* Jos kaikki käyttäjät ja kaikki sivustot kokevat saman ongelman, tarkista [palvelun kunnon koonti näytöstä](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , onko organisaatiosi vaikuttanut siihen.
+* Pyydä käyttäjää kirjautumaan ulos ja kirjautumaan takaisin SharePoint ja kokeilemaan samoja ohjeita, jotta hän voi seurata resurssia tai SharePoint seuraamalla.
+* Määritä, liittyykö ongelma tiettyyn sivustoon vai kaikkiin sivustoihin. Jos ongelma ilmenee tietyissä sivustoissa, varmista, että Sivuston sisältö -ominaisuus on aktiivinen, valitsemalla Sivusto Asetukset > Sivuston ominaisuuksien hallinta **> seuraaminen.** Jos ominaisuuden arvoksi on määritetty Aktiivinen, yritä poistaa toiminnon aktivointi ja aktivointi uudelleen sivustossa.
+* Pyydä käyttäjää kokeilemaan toista Internet-selainta ja kysymään, koskeeko ongelma käyttäjän selainta.
+* Jos kaikissa käyttäjissä ja kaikissa sivustoissa [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ilmenee sama ongelma, tarkista Palvelun kunto -koontinäytöstä, vaikuttaako ongelma organisaatioon.

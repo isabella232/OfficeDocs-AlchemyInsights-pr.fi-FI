@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972272"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899241"
 ---
 # <a name="unlocking-an-account"></a>Tilin lukituksen avaaminen
 
@@ -25,7 +25,7 @@ On mahdollista, että käyttäjän Microsoft 365 -tili on lukittu virheellisten 
 
 **Sähköposti rajoitettu**
 
-Jos jonkun käyttäjän sähköpostin lähettäminen on estetty, järjestelmänvalvojana voit [poistaa tilin eston itse](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Käyttäjä voi lähettää sähköpostia tunnin kuluessa eston poistamisen jälkeen.
+Jos jonkun käyttäjän sähköpostin lähettäminen on estetty, järjestelmänvalvojana voit [poistaa tilin eston itse](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Käyttäjä voi lähettää sähköpostia tunnin kuluessa eston poistamisen jälkeen.
 
 **Käyttäjän salasanan vaihtaminen**
 
@@ -39,6 +39,6 @@ Jos jonkun käyttäjän sähköpostin lähettäminen on estetty, järjestelmänv
 
 2. Valitse käyttäjä ja napsauta kolmea kohtaa (lisää toimintoja) ja valitse sitten **Muokkaa kirjautumistilaa**.
 
-Jos haluat lisätietoja salasanan vaihtamisesta, mukaan lukien omatoimisesta salasanan palautuksesta, lue [Microsoft 365 Businessin salasanojen vaihtaminen](/microsoft-365/admin/add-users/reset-passwords).
+Jos haluat lisätietoja salasanan vaihtamisesta, mukaan lukien omatoimisesta salasanan palautuksesta, lue [Microsoft 365 Businessin salasanojen vaihtaminen](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords).
 
-Palvelu estää käyttäjää lähettämästä sähköpostia sen jälkeen, kun se on havainnut vaarantuneen tilin ja/tai lähtevän roskapostin. Noudata varotoimenpiteenä käyttäjää koskevia ohjeita artikkelissa [Vaarantuneen sähköpostitilin kanssa toimiminen Microsoft 365:ssä](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Palvelu estää käyttäjää lähettämästä sähköpostia sen jälkeen, kun se on havainnut vaarantuneen tilin ja/tai lähtevän roskapostin. Noudata varotoimenpiteenä käyttäjää koskevia ohjeita artikkelissa [Vaarantuneen sähköpostitilin kanssa toimiminen Microsoft 365:ssä](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).

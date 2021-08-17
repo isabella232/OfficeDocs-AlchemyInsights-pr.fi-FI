@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: c0223511c321a3be441863e72021f67e765748264c60944266ac1bdccdc78896
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 55b98c3d34b1b4bce5cef746e18bc2933902624547d2020118579593ca5c6f77
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889887"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Ryhmäkäytännöt Microsoft Edge
 
-Voit määrittää, miten selain toimii organisaatiossa Microsoft Edge (versio 77 tai uudempi), käytettävissä olevien ryhmäkäytäntöjen avulla. Lisätietoja on kohdassa Microsoft Edge - Policies ( [Käytännöt).](/deployedge/microsoft-edge-policies#available-policies)
+Voit määrittää, miten selain toimii organisaatiossa Microsoft Edge (versio 77 tai uudempi), käytettävissä olevien ryhmäkäytäntöjen avulla. Lisätietoja on kohdassa Microsoft Edge - Policies ( [Käytännöt).](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies)

@@ -1,5 +1,5 @@
 ---
-title: Officen asentaminen Terminal Serveriin-käyttöoikeudeton
+title: Officen asentaminen päätepalvelimeen – Ei käyttöomme
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,47 +11,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 1d862f60e7a8a4c90c83f4538e57972b0c0547da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055155"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Officen asentaminen pääte palvelimeen
+# <a name="installing-office-on-a-terminal-server"></a>Office asentaminen päätepalvelimeen
 
-Jos haluat ottaa käyttöön Microsoft 365-sovelluksia yritys käyttöön Windows-palvelimessa käyttämällä Etätyöpöytäpalveluja (RDS), aiemmin nimettyjä pääte palveluja:
+Jos haluat ottaa Microsoft 365 -sovellukset suuryrityksille etätyöpöytäpalveluja (RDS) Windows palvelimessa, jonka nimi oli aiemmin Päätepalvelut:
   
-- Sinulla on oltava Microsoft 365-tilaus, joka sisältää Microsoft 365-sovellukset yritykselle, kuten Office 365 Enterprise E3 tai Enterprise E5. Yritys käyttöön tarkoitettuja Microsoft 365-sovelluksia ja Microsoft 365-sovellukset eivät sisällä Microsoft 365-sovelluksia yritys käyttöön.
+- Sinulla on oltava Microsoft 365, joka sisältää Microsoft 365 -sovellukset suuryrityksille, kuten Office 365 Enterprise E3 tai Enterprise E5. Palvelupaketit Microsoft 365 -sovellukset yrityksille ja Microsoft 365 -sovellukset yrityksille Premium eivät sisällä Microsoft 365 -sovellukset suuryrityksille.
 
-- Sinun on otettava käyttöön [jaettujen tieto koneiden Akti vointi](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- Sinun on otettava käyttöön [jaetun tietokoneen aktivointi](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-Jos haluat asentaa Microsoft 365-sovelluksia Enterprise on RDS-sovellukseen Microsoft 365-hallinta keskuksesta, ***jossa käytetään oletusarvoisia asennus asetuksia***, noudata seuraavia ohjeita.
+Jos haluat asentaa Microsoft 365 -sovellukset suuryrityksille RDS-Microsoft 365 -hallintakeskus, jossa käytetään ***oletusasennusasetuksia***, toimi seuraavasti.
 
 > [!TIP]
-> Voit myös ladata ja suorittaa [Microsoftin tuki-ja palautus avustajan](https://aka.ms/SaRA_OfficeSCA_M365Portal) ja asentaa Microsoft 365-sovelluksia yritys käyttöön jaetussa tieto koneen aktivointi tilassa.
+> Voit myös ladata ja suorittaa [Microsoft tuki- ja palautusavustaja](https://aka.ms/SaRA_OfficeSCA_M365Portal) ja asentaa Microsoft 365 -sovellukset suuryrityksille jaetussa tietokoneen aktivointitilassa.
   
-1. Tarkista, mikä Microsoft 365-tilaus sinulla on. [Lisä tietoja](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+1. Tarkista Microsoft 365 tilaus. [Lisätietoja](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Vaihda tarvittaessa toiseen Microsoft 365-tila ukseen. [Lisä tietoja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+2. Vaihda tarvittaessa toiseen Microsoft 365 tilaukseen. [Lisätietoja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Jos Office on jo asennettu RDS-palvelimeen käyttämällä muita Microsoft 365-paketteja, poista sen asennus. Esimerkiksi siirtymällä ohjaus paneeliin voit \> poistaa ohjelman asennuksen. Poista asennus [Microsoftin tuki-ja palautus avustajan avulla,](https://aka.ms/SARA-OfficeUninstall-Alchemy) jos käytät ongelmia.
+3. Jos Office on jo asennettu RDS-palvelimeen käyttämällä muita Microsoft 365 tilauksia, poista sen asennus. Voit esimerkiksi valita Ohjauspaneelista Poista \> ohjelman asennus. Poista [asennus Microsoft tuki- ja palautusavustaja-ohjelman](https://aka.ms/SARA-OfficeUninstall-Alchemy) avulla, jos sinulla on ongelmia.
 
-4. Kirjaudu RDS-palvelimessa Microsoft 365-hallinta keskukseen järjestelmänvalvojan tilillä ja [Asenna microsoft 365-sovellukset](https://portal.office.com/OLS/MySoftware.aspx)yrityksille.
+4. Kirjaudu RDS-palvelimessa Microsoft 365 -hallintakeskus järjestelmänvalvojan tilillä ja asenna [Microsoft 365 -sovellukset suuryrityksille.](https://portal.office.com/OLS/MySoftware.aspx)
 
-5. Kun Office on asennettu, ***Älä avaa tai Kirjaudu sisään*** mihinkään Office-sovelluksiin.
+5. Kun Office on asennettu, ***älä avaa*** tai kirjaudu sisään Office sovelluksiin.
 
-6. Ota RDS-palvelimessa käyttöön tieto koneen yhteinen Akti vointi muokkaamalla rekisteriä noudattamalla seuraavia ohjeita:
+6. Ota RDS-palvelimessa käyttöön jaetun tietokoneen aktivointi muokkaamalla rekisteriä seuraavasti:
 
-1. Napsauta näytön vasemmassa alakulmassa olevaa Windows-painiketta hiiren kakkos painikkeella ja valitse Suorita. Kirjoita Avaa-ruutuun **regedit**ja valitse sitten OK.
+1. Napsauta näytön Windows oikeassa alakulmassa olevaa Windows-painiketta hiiren kakkospainikkeella ja valitse Suorita. Kirjoita Avaa-ruutuun **regedit** ja valitse sitten OK.
 
-2. Valitse Kyllä, kun ohjelma kysyy, sallitaanko rekisteri editorin tehdä muutoksia laitteeseesi.
+2. Valitse pyydettäessä Kyllä, jos haluat, että Rekisterieditori voi tehdä muutoksia laitteeseesi.
 
-3. Lisää rekisteri editorissa **Sharedcomputerlicensing** -arvo, jonka asetus on 1, HKEY_LOCAL_MACHINE \Microsoft\microsoft \Office\ClickToRun\Configuration.
+3. Lisää Rekisterieditorissa **SharedComputerLicensing-merkkijonoarvo,** jonka asetus on 1 kohdassa HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Kirjaudu sisään RDS-palvelimessa ***loppu käyttäjänä*** ja [Varmista, että Microsoft 365-sovellukset on otettu käyttöön jaetussa tieto koneessa](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+7. Kirjaudu RDS-palvelimessa ***sisään käyttäjänä*** ja varmista, että jaetun tietokoneen aktivointi [on otettu käyttöön Microsoft 365 -sovellukset suuryrityksille.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 
-Lisä tietoja Office-käyttöönotto työkalun käyttö edellytyksistä, määritys ohjeista ja mukautetuista asennuksista on artikkelissa [Microsoft 365-sovellusten käyttöönotto yritys käyttöön tarkoitettuja Etätyöpöytäpalveluja](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)käyttämällä.
+Lisätietoja edellytyksistä, asennusohjeista ja mukautetuista asennuksista Office-käyttöönottotyökalun avulla on kohdassa [Microsoft 365 -sovellukset suuryrityksille käyttöönotto etätyöpöytäpalveluja käyttämällä.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
   
-Jos haluat korjata jaettuihin tieto koneen Akti vointiin liittyviä ongelmia, Katso lisä tietoja artikkelista ongelmien [vian määritys jaetussa tieto koneessa Microsoft 365-sovellusten Akti vointi yrityksessä](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+Lisätietoja jaetun tietokoneen aktivointiin liittyvien virheiden korjaamisesta on kohdassa Jaetun tietokoneen aktivointiongelmien [vianmääritys Microsoft 365 -sovellukset suuryrityksille.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
   

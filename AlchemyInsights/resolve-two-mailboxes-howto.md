@@ -1,5 +1,5 @@
 ---
-title: 1374 kahden posti laatikon HOWTO-ongelman ratkaiseminen
+title: 1374 Kahden postilaatikon ohjeiden ratkaiseminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110065"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Käyttäjällä on kaksi posti laatikkoa
+# <a name="a-user-has-two-mailboxes"></a>Käyttäjällä on kaksi postilaatikkoa
 
-Azure Active Directory Connect (AAD Connect)-tai DirSync-sovelluksessa käytettävät yhdistelmä ympäristöt saattavat vahingossa aiheuttaa käyttäjälle kaksi posti laatikkoa: yhden paikallisen ja yhden pilvi palvelussa. Päällekkäinen posti laatikko voidaan luoda kummassakin paikassa.
+Azure Active Directory Näyttöyhteys (AAD Näyttöyhteys) tai DirSynciä käyttävät yhdistelmäympäristöt voivat vahingossa aiheuttaa sen, että käyttäjällä on kaksi postilaatikkoa: yksi paikallisesti ja toinen pilvipalvelussa. Voit luoda postilaatikon kaksoiskappaleen missä tahansa paikassa.
 
-Jos haluat korjata ongelman, Lue [ohjeet siihen, miten voit palauttaa, kun posti laatikko on olemassa sekä Exchange Onlinessa että paikallisessa sijainnissa](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Jos haluat lisä tietoja siitä, miten voit välttää tämän jatkossa, Katso, onko [käyttäjäni posti laatikko sekä paikallinen että Exchange Onlinessa. Apua!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Katso ohjeet tämän ongelman korjaamiseen, kun postilaatikko on sekä [Exchange Online että paikallisesti.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Jos haluat lisätietoja siitä, miten voit jatkossa välttää tämän, katso käyttäjän postilaatikko sekä paikallisesti että [Exchange Online. Ohje!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
