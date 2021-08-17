@@ -1,5 +1,5 @@
 ---
-title: Windowsin Autopilot ja Surface X Pro-laitteet
+title: Windows Autopilot ja Surface X Pro laitteet
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047397"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windowsin Autopilot ja Surface X Pro-laitteet
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot ja Surface X Pro laitteet
 
-Windowsin Autopilot on pilvipohjainen käyttöönotto tekniikka Windows 10: ssä. Voit käyttää Windowsin Autopilotia laitteiden etäkäyttöönottoon ja määrittämiseen heti kättelyssä. Windowsin Autopilot-rekisteröityneet laitteet tunnistetaan Inter netin kautta ensimmäisellä käynnistys kerralla yksilöllisen laite allekirjoituksen kautta, jota kutsutaan laitteiston hajautus algoritmin kautta. Ne on määritetty käyttäen nykyaikaisia hallinta ratkaisuja, kuten Azure Active Directorya (Azure AD) ja Microsoft Intunea.
+Windows Autopilot on pilvipohjainen käyttöönottotekniikka Windows 10. Voit käyttää Windows Autopilotia laitteiden etäkäyttöön ja määrittämiseen suoraan ruudusta. Windows Autopilotilla rekisteröidyt laitteet tunnistetaan Internetin kautta ensimmäisen käynnistyksen yhteydessä yksilöllisellä laiteallekirjoituksella, jota kutsutaan laitteiston hash-tunnukseksi. Ne on määritetty nykyaikaisilla hallintaratkaisuilla, kuten Azure Active Directory (Azure AD) ja Microsoft Intune.
 
-Laitteet voidaan lähettää suoraan käyttäjille. Tämä prosessi eliminoi uudelleensijoittamisen käyttöönoton aikana, ja sen avulla voit ottaa käyttöön uusia, joustavia menetelmiä laitteiden hallintaan ja jakeluun.
+Laitteet voidaan toimittaa suoraan käyttäjille. Tämä prosessi poistaa uudelleeninimoinnin käyttöönoton aikana, jolloin voit ottaa käyttöön uusia, agile-laitehallinta- ja -jakelumenetelmiä.
 
-Lisä tietoja on artikkelissa [Windowsin Autopilot ja Surface-laitteet](https://go.microsoft.com/fwlink/?linkid=2135712).
+Lisätietoja on kohdassa [autopilotin Windows Surface-laitteet.](https://go.microsoft.com/fwlink/?linkid=2135712)

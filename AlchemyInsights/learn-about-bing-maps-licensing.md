@@ -1,5 +1,5 @@
 ---
-title: Lisätietoja Bing Maps -käyttöoikeuksista
+title: Lisätietoja Bing Maps käyttöoikeuksista
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9213"
-ms.openlocfilehash: 466d922699ba1a0c1978fd0dbd38e126dc025db3
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: a38a66bb70939a1b520e7133e3dc4d4d661ece7a7512a8a6f263bcc365c71165
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077935"
 ---
-# <a name="learn-about-bing-maps-licensing"></a>Lisätietoja Bing Maps -käyttöoikeuksista
+# <a name="learn-about-bing-maps-licensing"></a>Lisätietoja Bing Maps käyttöoikeuksista
 
-Bing Maps -palvelu tarjoaa useita joustavia käyttöoikeusvaihtoehtoja, jotka tukevat organisaatiosi tarpeita ja teknisiä vaatimuksia. Maksuttoman tason avulla voit myös aloittaa Bing Maps -karttojen lisäämisen jo tänään.
+The Bing Maps service offers several flexible licensing options that will support your organization's needs and technical requirements. Maksuttoman tason avulla voit myös aloittaa Bing Maps kanssa.
 
-Lisätietoja on [Bing Maps -käyttöoikeudet -kohdassa.](https://go.microsoft.com/fwlink/?linkid=2150203)
+Lisätietoja on kohdassa [Bing Maps.](https://go.microsoft.com/fwlink/?linkid=2150203)

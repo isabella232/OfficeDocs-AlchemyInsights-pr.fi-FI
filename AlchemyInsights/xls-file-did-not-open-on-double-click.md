@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047145"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-tiedosto ei avaudu
+# <a name="excel-file-doesnt-open"></a>Excel ei avaudu
 
 Kokeile jotain seuraavista ehdotuksista:
 
-**Excelin valinta oletukseksi**
+**Valitse Excel oletusasetus**
 
-* Napsauta laskentataulukkoa hiiren kakkospainikkeella, **valitse Avaa ja** valitse sitten **Excel**
+* Napsauta laskentataulukkoa hiiren kakkospainikkeella, **valitse Avaa kohteessa** ja valitse **Excel**
 
 **Pikakorjauksen suorittamisen**
 
 1. Siirry **Ohjauspaneeliin kohdassa > ohjelmat > ominaisuudet.**
 
-2. Valitse korjattava Office-tuote ja valitse sitten **Muuta**.
+2. Valitse Office tuote, jonka haluat korjata, ja valitse sitten **Muuta**.
 
 3. Valitse **Pikakorjaus-vaihtoehto** ja valitse sitten **Korjaa**.
 
-**Poista niiden Office-versioiden asennus, jotka eivät ole käytössä**
+**Poista niiden Office, joissa et käytä**
 
-1. Siirry **Ohjauspaneeliin > valitse Poista asennettu** ohjelma ja valitse sitten Office-versio, jonka haluat poistaa.
+1. Siirry **Ohjauspaneeliin > poista asennettu ohjelma** ja valitse sitten Office poistettava versio.
 
 2. Valitse **Poista asennus**.
 
 3. Käynnistä tietokone uudelleen.
 
-**Määritä Office-tiedostotunnisteiden aukeaminen Officessa tämän vianmäärityksen avulla**
+**Määritä tämän vianmäärityksen Office-tiedostotunnisteet aukeamaan Office**
 
 1. Suorita tämä vianmääritys: https://aka.ms/diag_officefile .
 

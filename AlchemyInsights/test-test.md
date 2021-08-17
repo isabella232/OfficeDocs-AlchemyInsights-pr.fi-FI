@@ -1,5 +1,5 @@
 ---
-title: SharePoint Onlinen termi säilöstä puuttuvat ehdot
+title: Termit puuttuvat SharePoint termisäilöstä
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106423"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-Sala uksen ottaminen käyttöön Intunella
+# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-salauksen ottaminen käyttöön Intunen avulla
 
-Intune-pääte pisteen suoja uksen avulla voit määrittää Boitlocker-salaus asetukset Windows-laitteille kohdassa: Windows10 (ja uudemmat) asetukset, jotka suojaavat laitteita Intunea käyttäen
+Intune Endpoint Protection-käytännön avulla voidaan määrittää Boitlocker-salausasetukset Windows-laitteille seuraavassa kuvatulla tavalla: Windows10:n (ja uudemman) laitteen suojaaminen Intunen avulla
 
-Huomaa, että monet Windows 10: tä käyttävät uudet laitteet tukevat automaattista BitLocker-salausta, joka käynnistyy ilman MDM-käytäntöä. Tämä voi vaikuttaa käytäntöjen soveltamiseen, jos muut kuin oletus asetukset on määritetty. Katso lisä tietoja usein kysytyistä kysymyksistä.
-
-
-Usein kysytyt kysymykset   k: mitkä Windows-versiot tukevat laitteen salausta pääte pisteen suojaus käytäntöä käyttäen?
- A: asetukset Intune-pääte pisteen suojaus käytännössä on toteutettu BitLocker-salaus menetelmän avulla.Kaikki versiot eivät tue BitLocker-salaus menetelmän tarjoajaa. 
-      Tällä hetkellä Windows-versiot: Enterprise; Koulutus, matka Puhelin, mobiilisovellus ja Professional (koonti versio 1809 alkaen) ovat tuettuja.
+Muista, että monet uudempia laitteita, joissa Windows 10, tukevat automaattista bitlocker-salausta, joka käynnistyy ilman MDM-käytännön sovellusta. Tämä voi vaikuttaa käytännön sovellukseen, jos oletusasetuksia ei ole määritetty. Lisätietoja on usein kysytyissä kysymyksissä.
 
 
-
-
-K: Jos laite on jo salattu BitLocker-Sala uksella käyttämällä käyttö järjestelmän oletus asetuksia salaus menetelmässä ja Sala kirjoituksen voimakkuus (XTS-AES-128), käytetään käytäntöä, jossa on eri asetukset, jotka automaattisesti käyttävät aseman uudelleensalausta uusilla asetuksilla?
-
-V: Ei. Uuden salaus asetuksen käyttäminen edellyttää, että aseman salaus on ensin purettava.
-
-Huomautus OOBE-toiminnon aikana käyttöön otetuista laitteista ei käynnistetä automaattista salausta, ennen kuin Intune-käytäntöä arvioidaan, jolloin käytäntöpohjaisia asetuksia voidaan käyttää käyttö järjestelmän oletus asetusten sijasta.
+Usein kysytyt kysymykset: Mitkä Windows tukevat laitesalausta Endpoint Protection käytäntöä?
+V: Intune-Endpoint Protection asetukset on otettu käyttöön Bitlocker-CSP:n avulla.  Kaikki versiot tai koontiversiot eivät Windows Bitlocker-asiakastukipalvelua. Tällä hetkellä Windows Versiot: Enterprise; Education, Mobile, Mobile Enterprise ja Professional (koontiversiosta 1809 alkaen) ovat tuettuja.
 
 
 
 
-K jos laite salataan Intune-käytäntöjen soveltamisen seura uksena, salaus puretaan, kun tämä menettely tapa poistetaan?
+K: Jos laite on jo salattu BitLockerilla käyttämällä käyttöjärjestelmän salausmenetelmän ja salauksen oletusasetuksia (XTS-AES-128), käytännön käyttäminen eri asetuksilla käynnistää aseman uudelleensalauksen automaattisesti uusilla asetuksilla?
 
-A: Sala ukseen liittyvän käytäntöjen poistaminen ei johda määritettyjen asemien Sala uksen purkamiseen.
+V: Ei. Jotta uudet salauksen asetukset voidaan ottaa käyttöön, aseman salaus on ensin purettava.
+
+Huomautus Autopilotiin rekisteröidyissä laitteissa OOBE:n aikana suoritetaan automaattinen salaus vasta, kun Intune-käytäntö arvioidaan, jolloin käytäntöpohjaisia asetuksia voidaan käyttää käyttöjärjestelmän oletusasetusten asennuksilla
 
 
 
 
-K: Miksi Intune-yhteensopivuus käytännöt osoittavat, että laitteessani ei ole "BitLocker käytössä", mutta se on?
+K Jos laite on salattu Intune-käytännön sovelluksen vuoksi, salauksen purkaminen poistetaan, kun tämä käytäntö poistetaan?
 
-A: "BitLocker Enabled"-asetus Intune-yhteensopivuus käytännössä hyödyntää Windows Device Health-tieto asema (DHA)-asiakas ohjelmaa. Tämä asiakas mittaa vain laitteen tilan käynnistyksen aikana. Jos laitetta ei ole käynnistetty uudelleen, koska BitLocker-salaus on valmis, DHA-asiakas palvelu ei ilmoita BitLocker-salausta aktiivi seksi.
+A: Salauskäytäntöjen poistaminen EI poista määritettyjen asemien salausta.
+
+
+
+
+K: Miksi Intune-yhteensopivuuskäytäntö näyttää, että laitteessani ei ole BitLocker käytössä, mutta se on?
+
+A: "Bitlocker käytössä" -asetus intunessa yhteensopivuuskäytäntö hyödyntää Windows Device Health Attestation (STATION) -asiakasohjelmaa. Tämä asiakas mittaa vain laitteen tilan käynnistyksen yhteydessä. Jos siis laitetta ei ole käynnistetty uudelleen bitlocker-salauksen jälkeen, SOVELLUKSE-asiakaspalvelu ei ilmoita bitlockerista aktiiviseksi.

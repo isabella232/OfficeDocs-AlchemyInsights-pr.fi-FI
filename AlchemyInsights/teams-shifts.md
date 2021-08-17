@@ -1,5 +1,5 @@
 ---
-title: Teams siirtyy
+title: Teams Vuorot
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106480"
 ---
-# <a name="using-teams-shifts"></a>Teams-vuorojen käyttäminen
+# <a name="using-teams-shifts"></a>Vuorot Teams käyttäminen
 
-Lisä tietoja työvuorot-sovelluksen Hallin nasta, kuten työvuorojen määrittämisestä, käyttäjien työvuorojen ottamisesta käyttöön ja työvuorojen hallinta sovelluksesta, on kohdassa:
+Lisätietoja Vuorot-sovelluksen hallinnasta, mukaan lukien vuorojen asentaminen, vuorojen ottaminen käyttöön käyttäjille ja Vuorot-sovelluksen hallinta, on seuraavassa ohjeaiheessa:
  
-- [Hallitse organisaatiosi työvuorot-sovellusta Microsoft teamsissa](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- Voit [ottaa käyttöön tai poistaa käytöstä muutoksia organisaation tietyille käyttäjille](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Hallitse organisaatiosi Vuorot-sovellusta Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Ota työvuorot käyttöön tai poista ne käytöstä organisaatiosi tietyille käyttäjille.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Jos haluat lisä tietoja tiimien muutoksista, kuten Vuorotyövuorojen Hallin nasta, katso [tiimien muutokset](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Lisätietoja Työvuorot-Teams, mukaan lukien Vuorot-aikataulun hallinta, on kohdassa [Työvuorot Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**Voimassa 30. kesä kuuta 2020**Microsoft Staffhub on poistettu käytöstä. Lisä tietoja [on kohdassa Microsoft StaffHub on poistettu](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)käytöstä.
+**Voimassa 30. kesäkuuta 2020**, Microsoft Staffhub on poistettu käytöstä. Lisätietoja on kohdassa [Microsoft StaffHub on poistettu käytöstä.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

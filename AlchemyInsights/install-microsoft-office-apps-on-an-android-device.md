@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office-sovellusten asentaminen Android-laitteeseen
+title: Microsoft Office asentaminen Android-laitteeseen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078043"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Microsoft Office-sovellusten asentaminen Android-laitteeseen
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Microsoft Office asentaminen Android-laitteeseen
 
-Chromebookilla tai Android-puhelimella tai-tabletilla voit asentaa Microsoft Office-sovellukset erillisinä sovelluksena tai pakettina.
+Chromebookissa, Android-puhelimessa tai -tabletissa voit asentaa Microsoft Office sovellukset erillisinä sovelluksina tai pakettina.
 
-- [Office-sovelluksen (paketin) asentaminen Google Play-kaupasta](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Office-sovelluksen (paketin) asentaminen Chrome Web Storesta](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Asenna Microsoft Word Google Play Storesta](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Asenna Microsoft Excel Google Play Storesta](https://go.microsoft.com/fwlink/?linkid=2137120)
-- [Microsoft PowerPointin asentaminen Google Play-kaupasta](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Asenna Microsoft OneNote Google Play Storesta](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Asenna Office-sovellus (paketti) Google Play -kaupasta](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Asenna Office-sovellus (paketti) Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Asenna Microsoft Word Google Play -kaupasta](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Asenna Microsoft Excel Google Play -kaupasta](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Asenna Microsoft PowerPoint Google Play -kaupasta](https://go.microsoft.com/fwlink/?linkid=2137121)
+- [Asenna Microsoft OneNote Google Play -kaupasta](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-Lisä tietoja on artikkelissa [Officen asentaminen ja määrittäminen Androidiin](https://go.microsoft.com/fwlink/?linkid=2135287).
+Lisätietoja on kohdassa Laitteen [asentaminen ja Office Android-laitteeseen.](https://go.microsoft.com/fwlink/?linkid=2135287)

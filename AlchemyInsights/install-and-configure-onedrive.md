@@ -1,5 +1,5 @@
 ---
-title: OneDriven asentaminen ja määrittäminen
+title: Asentaminen ja OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078115"
 ---
-# <a name="install-and-configure-onedrive"></a>OneDriven asentaminen ja määrittäminen
+# <a name="install-and-configure-onedrive"></a>Asentaminen ja OneDrive
 
-OneDrive-synkronointi sovellus on esiasennettu Windows 10: een. Jos haluat asentaa Windows 7-tai Mac-tieto koneen OneDrive-sovelluksen tai hakea mobiilisovelluksen puhelimeen tai tablettiin, siirry [https://onedrive.com/download](https://onedrive.com/download) .
+Asiakas OneDrive-synkronointisovellus sovellus on esiasennettu Windows 10. Jos haluat OneDrive for Windows 7:n tai Macin mobiilisovelluksen tai puhelimen tai tabletin mobiilisovelluksen, siirry kohteeseen [https://onedrive.com/download](https://onedrive.com/download) .
   
-Jos haluat määrittää OneDrive-synkronointi sovelluksen Windowsissa, Katso:
+Jos haluat määrittää OneDrive-synkronointisovellus-asiakasohjelman Windows:
   
-- [OneDriven määrittäminen-oppaan](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) avulla voit aloittaa OneDrive-tiedostojen tallennus-, jakamis-, yhteiskäyttö-ja synkronointi ominaisuuksien käytön.
+- [OneDrive tiedostojen tallennus-,](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) OneDrive, yhteiskäyttö- ja synkronointiominaisuuksien käytön aloittamista varten.
 
-- [Tieto koneen määrittäminen synkronoimaan OneDrive for Business-tiedostot](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Tietokoneen OneDrive for Business synkronointi](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [SharePoint-tiedostojen synkronointi OneDrive-synkronointisovelluksen avulla](https://go.microsoft.com/fwlink/?linkid=871666)

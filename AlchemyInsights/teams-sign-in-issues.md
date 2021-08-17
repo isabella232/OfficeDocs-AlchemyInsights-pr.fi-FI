@@ -1,5 +1,5 @@
 ---
-title: Teamsin kirjautumisongelmat
+title: Teams kirjautumisongelmat
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 20941c2b369d075ee11ba02bbad5bdf84a67c33615e7e5624ce790bb04cb808c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106394"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>Teams-kirjautumisen vianmääritys 
+# <a name="troubleshooting-teams-sign-in"></a>Sisäänkirjautumisongelmien Teams vianmääritys 
 
-Onko sinulla ongelmia Microsoft Teamsiin kirjautumisessa? Lisätietoja on seuraavissa artikkeleissa.
+Onko sinulla ongelmia kirjautumisessa Microsoft Teams? Lisätietoja on seuraavissa artikkeleissa.
 
-- [Miksi minulla on ongelmia Microsoft Teamsien kirjautumisessa?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [Miksi minulla on ongelmia kirjautumisessa Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
 - [Microsoft Teams on jumissa kirjautumissilmukassa Edgessä tai Internet Explorerissa](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [Tilakoodisi on 4c7-virhe Microsoft Teamsissa](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [Miten saan Microsoft Teamsin käyttöomme?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
+- [Tilakoodisi on 4c7-virhe Microsoft Teams](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [Miten voin käyttää Microsoft Teams?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
