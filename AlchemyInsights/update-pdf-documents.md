@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: b0ef6d9e777fdcde3555f4197ce5791f1ad1050badb54b267129d2b1febe0e7c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a6efa496e2489e765acf74e03f0486a2dd7b943fe0d933bd0eda4d50883aa2c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990848"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891828"
 ---
 # <a name="update-pdf-documents"></a>PDF-tiedostojen päivittäminen
 
-PDF-muokkausten, kuten parametrien, muuttujien ja tehtävien poikkeusten, muokkausopas on [PDF-muodossa.](/power-automate/desktop-flows/actions-reference/pdf)
+Pdf-tiedostojen muokkausten, kuten parametrien, muuttujien ja tehtävien poikkeusten, muokkausopas on [PDF-muodossa.](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf)
 
 Lisätietoja on ohjeaiheessa:
 
-- [Kuvan poimiminen](/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
-- [Tekstin poimiminen](/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
-- [YHDISTÄ PDF-tiedostot](/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
-- [Uuden PDF-tiedoston luominen pura sivuja](/power-automate/desktop-flows/actions-reference/pdf#extractpages)
+- [Kuvan poimiminen](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
+- [Tekstin poimiminen](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
+- [YHDISTÄ PDF-tiedostot](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
+- [Uuden PDF-tiedoston luominen pura sivuja](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extractpages)

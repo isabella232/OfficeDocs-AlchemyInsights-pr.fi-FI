@@ -1,5 +1,5 @@
 ---
-title: 1554 WINSOCK-virhe 10061
+title: 1554 Winsock-virhe 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083227"
 ---
-# <a name="winsock-error-10061"></a>WINSOCK-virhe 10061
+# <a name="winsock-error-10061"></a>Winsock-virhe 10061
 
-Tämä virhe koodi tarkoittaa, että Microsoft ei pystynyt muodostamaan TCP-vastaketta (yhteyttä) kohde isäntään. Todennäköisin syy tähän virheeseen on palo muurin määrityksessä oleva ongelma. Jos haluat korjata ongelman, valitse seuraavat asetukset:
+Tämä virhekoodi tarkoittaa, että Microsoft ei pystynyt muodostamaan TCP-vastaketta (yhteyttä) kohde isäntään. Tämän virheen todennäköisin syy on ongelma palomuurin määrityksessä. Voit korjata ongelman tarkistamalla seuraavat asetukset:
 
-- Palo muurin määritysten tarkistaminen [Microsoft 365-URL-osoitteiden ja IP-osoite alueiden](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) tiedoilla
+- Vahvista palomuurin määritykset [URL-Microsoft 365 ja IP-osoitealueiden tietojen avulla](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Jos virhe on määritetty Exchange Online Protection (ESIP)-palvelussa, sinun olisi pitänyt olla aiemmin ilmoitettu [Exchange Online Protection-IP-osoitteiden](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)muutokseen.
+- Jos virhe koskee Exchange Online Protection (EOP), sinulle olisi pitänyt aiemmin ilmoittaa ip-osoitteiden [Exchange Online Protection muutoksista.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-- Varmista, ettei Internet-palveluntarjoajasi estä porttia.
+- Varmista, että Internet-palveluntarjoajasi (ISP) ei estä porttia.
 
-- Varmista, että yhdistimessä on älykäs isäntä-ja kohde palvelin-asetukset.
+- Vahvista yhdistimien älykkään isännän ja kohdepalvelimen asetukset.
 
-Huomaa, että Microsoft 365 ei estä *saapuvia* yhteyksiä tällä tavalla.
+Huomaa, Microsoft 365 ei estä *saapuvia* yhteyksiä tällä tavalla.

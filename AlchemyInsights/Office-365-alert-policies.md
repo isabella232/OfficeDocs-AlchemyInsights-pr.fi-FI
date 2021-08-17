@@ -13,27 +13,28 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918356"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891676"
 ---
 # <a name="alert-policies"></a>Ilmoituskäytännöt
 
-Tietoturva Microsoft 365 keskuksessa & on oletusilmoituskäytäntöjä, jotka käynnistävät ilmoitukset organisaatioille, joilla on Office 365 Enterprise tai Office 365 US Government E1/G1-, E3/G3- tai E5/G5-tilaus. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Tästä syystä järjestelmänvalvojat voivat saada Office365Alerts@microsoft.com ilmoituksen, jossa on aiherivi, kuten "Pieni vakavuusilmoitus: ilmoituskäytännön nimi". Ilmoitusilmoitukset lähetetään, kun yleisistä toiminnoista, kuten käyttäjistä, lähetetään ilmoituksia:
+Microsoft 365 sisältää oletusilmoituskäytäntöjä, jotka käynnistävät ilmoituksia organisaatioille, joilla on Microsoft 365 Enterprise tai Microsoft 365 US Government E1/G1-, E3/G3- tai E5/G5-tilaus. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Tästä syystä järjestelmänvalvojat voivat saada Office365Alerts@microsoft.com ilmoituksen, jossa on aiherivi, kuten "Pieni vakavuusilmoitus: *ilmoituskäytännön* nimi". Ilmoitusilmoitukset lähetetään, kun yleisistä toiminnoista, kuten käyttäjistä, lähetetään ilmoituksia:
 
-- Luo Saapuneet-kansion säännöt, jotka välittämään sähköpostia.
+- Luo Saapuneet-kansion sääntöjä, jotka välittämään sähköpostia.
 - Määrittää postilaatikon käyttöoikeudet.
-- Voit jakaa tai poistaa suuren määrän tiedostoja SharePoint jakamisen avulla.
+- Jaa tai poista suuri määrä tiedostoja SharePoint jakamisen avulla.
 - Luo eDiscovery-hakuja ja vie hakutuloksia.
 
 Ilmoituksen tarkistaminen ja sen perusteella toimiminen:
 
-1. Siirry [Tietoturva- &-keskukseen ja](https://protection.office.com) kirjaudu sisään.
-2. Valitse **Ilmoitukset**  >  **Näytä ilmoitukset**.
-3. Napsauttamalla ilmoitusta saat näkyviin pikaikkunasivun, jossa on tietoja hälytyksestä.
+1. Tee jokin seuraavista toimista:
+   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> -ssa **Ilmoitukset**. Jos haluat siirtyä suoraan **Ilmoitukset-sivulle,** valitse <https://compliance.microsoft.com/compliancealerts> .
+   - Valitse Microsoft 365 Defender -portaalissa <https://security.microsoft.com> Tapaukset **&** \> **ilmoitukset**. Jos haluat siirtyä suoraan **Ilmoitukset-sivulle,** valitse <https://security.microsoft.com/alerts> .
+2. Napsauttamalla ilmoitusta saat näkyviin pikaikkunasivun, jossa on tietoja hälytyksestä.
 
 Voit tehdä ilmoituksen toimia, kuten poistaa [epäilyttävän Saapuneet-kansion säännön](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Voit myös sulkea ilmoituksen valitsemalla Ratkaisu **ilmoituksen** pikaikkunasivulla.
 
@@ -45,4 +46,4 @@ Lisätietoja ilmoituskäytäntöjen määrittämisestä ja hallinnasta on [täss
 - Tarkista tilisi suojaustiedot
 - Todenna itsesi uudelleen
 
-Jos saat tämän sähköpostiviesti, Microsoft ei ole lähettänyt sitä, ja sen pitäisi olla tietojenkalasteluhuijaus. Jos näin käy, ilmoita [siitä Microsoftille.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+Jos saat sähköpostiviestin, jossa on tällaisia pyyntöjä, Microsoft ei ole lähettänyt sitä, ja sen pitäisi olla tietojenkalasteluhuijaus. Jos saat tämäntyyppisiä pyyntöjä, ilmoita [viestistä Microsoftille.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)

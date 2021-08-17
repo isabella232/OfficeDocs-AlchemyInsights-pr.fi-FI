@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a841db70c238bdae58edfca634fe49a04ddce78a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923641"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320706"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Milloin profiilini vaihtuu synkronoiduksi SharePoint profiilisovellukseksi?
 
@@ -24,8 +24,7 @@ SharePoint Online tuo käyttäjät ja ryhmät käyttäjäprofiilisovellukseen Ac
     
 2. Ajastintehtävä suoritetaan, kunnes muutokset on synkronoitu.
     
-> [!NOTE]
-> Työn suorittamiseen kuluu aika määräytyy prosessin muutosten määrän mukaan. Suuri määrä muutoksia kestää kauemmin. Palvelutasosopimus (SLA) tarkoittaa, että SharePoint Online -hakemistossa olevan käyttäjän muutos näkyy käyttäjäprofiilisovelluksessa 24 tunnin kuluttua. 
+**Huomautus:** työn suorittamiseen kuluu aika määräytyy prosessin muutosten määrän mukaan. Suuri määrä muutoksia kestää kauemmin. Palvelutasosopimus (SLA) tarkoittaa, että SharePoint Online -hakemistossa käyttäjälle tehty muutos näkyy käyttäjäprofiilisovelluksessa 24 tunnin kuluttua. 
   
 [Lisätietoja käyttäjäprofiilin synkronoinnista SharePoint Onlinessa](https://go.microsoft.com/fwlink/?linkid=875671)
   

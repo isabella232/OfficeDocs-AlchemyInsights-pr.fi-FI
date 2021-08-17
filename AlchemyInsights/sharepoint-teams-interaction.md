@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898353"
 ---
 # <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Ohjeita SharePoint Microsoft Teams kanssa
 
-Kullakin Microsoft Teams on ryhmäsivusto SharePoint, ja jokainen tiimin vakiokanava saa kansion ryhmäsivuston oletustiedostokirjastossa. Jokainen yksityinen kanava saa oman, erillisen SharePoint kanavan. Lisätietoja:
+Kullakin Microsoft Teams on ryhmäsivusto SharePoint, ja jokainen tiimin vakiokanava saa kansion ryhmäsivuston oletustiedostokirjastoon. Jokaisella yksityisellä kanavalla on oma, erillinen SharePoint sivusto. Lisätietoja:
 
-- Lisätietoja yksityisen kanavan vuorovaikutuksesta on kohdassa Yksityisen [kanavan Microsoft Teams.](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+- Lisätietoja yksityisen kanavan vuorovaikutuksesta on kohdassa Yksityisen [kanavan Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-- Lisätietoja rajoituksista ja siitä, SharePoint tallennustilaan vaikuttaa, on kohdassa Tallennustilan [rajoitukset ja Microsoft Teams.](/microsoftteams/limits-specifications-teams#storage) 
+- Lisätietoja rajoituksista ja SharePoint vaikutuksesta on ohjeaiheessa Tallennustilan rajoitukset [ja Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage) 

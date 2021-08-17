@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967942"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898317"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Tietyn karanteeniin asetettujen viestien etsiminen
 
-1. Siirry [tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Siirry Threat Management Review Quarantine **(Uhkien hallinnan**  >  **tarkistaminen**  >  **karanteeniin) -kohteeseen.**
-3. Valitse **Hae**.
-4. Valitse mikä tahansa ehtoyhdistelmä valitsemalla niiden vieressä olevat valintaruudut (et voi käyttää yleismerkkejä tällä hetkellä).
+1. Siirry Microsoft 365 Defender -portaalissa sähköposti- ja & <https://security.microsoft.com> **tarkista** \>  \> **karanteeniin.**
+
+   Jos haluat siirtyä suoraan **Karanteeni-sivulle,** käytä <https://security.microsoft.com/quarantine> -
+
+2. Varmista **Karanteeni-sivulla,** että **sähköpostivälilehti** on valittuna, ja valitse sitten **Suodata**.
+3. Suodata ja etsi viesti valitsemalla jokin ominaisuuksien yhdistelmä.
+
+Lisätietoja on seuraavissa artikkeleissa:
+
+- [Karanteeniin asetettujen viestien etsiminen ja vapauttaminen käyttäjänä](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karanteeniin asetettujen viestien ja tiedostojen hallinta järjestelmänvalvojana](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
