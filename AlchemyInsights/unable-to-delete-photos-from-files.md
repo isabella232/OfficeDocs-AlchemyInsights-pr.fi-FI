@@ -1,5 +1,5 @@
 ---
-title: 8000031 ei voi poistaa kuvia tiedostoista
+title: 8000031 valokuvien poistaminen tiedostoista ei onnistu
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104953"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Kuvia ei voi poistaa tiedostoista
+# <a name="unable-to-delete-photos-from-files"></a>Valokuvien poistaminen tiedostoista ei onnistu
 
-Valo kuvien poistaminen Outlook.com-tiedostoista:
+Valokuvien poistaminen Tiedostot-kansiosta Outlook.com:
   
-1. Siirry **Saapuneet** -tai **Lähetetyt** -kansioon ja poista Sähkö posti viesti, johon ne on liitetty.
+1. Siirry **Saapuneet- tai** **Lähetetyt-kansioon** ja poista sähköpostiviesti, johon ne on liitetty.
 
-2. Poistaa **kohteet poistetuista kohteista**.
+2. Poista kohteet **Poistetut-kohteista.**
 
-Lisä tietoja on artikkelissa [tiedostojen tai valo kuvien poistaminen Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)-sovelluksessa.
+Lisätietoja on kohdassa [Tiedostojen tai valokuvien poistaminen Outlook.comissa.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   

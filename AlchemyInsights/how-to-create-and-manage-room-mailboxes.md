@@ -1,5 +1,5 @@
 ---
-title: 614 Kokous tilan posti laatikoiden luominen ja hallinta
+title: 614 Postilaatikoiden luominen ja hallinta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: a691361dd3025fc207d555629fbb6f9f10cb3cf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76c4ec598acfd81e7aef7485429b0d325fe14a5a454ac4349ed3c8f90f930a89
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704234"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043500"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Kokous tilan posti laatikoiden luominen ja hallinta
+# <a name="how-to-create-and-manage-room-mailboxes"></a>Huonepostilaatikoiden luominen ja hallinta
 
-Lisä tietoja Kokous tilan posti laatikoiden luomisesta ja muokkaamisesta on Ohje aiheessa [Kokous tilan posti laatikoiden luominen ja hallinta](https://technet.microsoft.com/library/jj215781.aspx).
+Lisätietoja huoneen postilaatikoiden luomista ja muokkaamista on kohdassa [Huonepostilaatikoiden luominen ja hallinta.](https://technet.microsoft.com/library/jj215781.aspx)
 
-Lisä tietoja huone-ja laite posti laatikoista (tunnetaan myös nimellä resurssi posti laatikot) on kohdassa [huone-ja laite posti laatikot](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Lisätietoja huone- ja laitepostilaatikoista (eli resurssipostilaatikoista) on kohdassa Huone- ja [laitepostilaatikot.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

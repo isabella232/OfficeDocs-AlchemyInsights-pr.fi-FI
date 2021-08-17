@@ -1,5 +1,5 @@
 ---
-title: Virhe koodi 550 5.7.501 käyttö estetty, roska postin väärinkäyttö havaittu
+title: Virhekoodi 550 5.7.501 Käyttö estetty, roskaposti väärinkäytöksiä havaittu
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,17 +12,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 6542450ca4d03daef4a7f63783d431d2091bc5e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3eebe4e9d69e100a750e74a6d34ec67dc0566df5dd6eb59809adb07ed8a682f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044265"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 käyttö estetty, roska postin väärinkäyttö havaittu
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Käyttö estetty, roskaposti väärinkäytöksiä havaittu
 
-Tämä sanoma tulee yleensä näkyviin, kun käyttäjät lähettävät Sähkö posti viestejä IP-osoitteista käyttäen alkuperäistä *. onmicrosoft.com* -toimi aluetta, joka on määritetty uusille vuokralaisille Microsoft 365-palvelussa. Helpoin ratkaisu ongelmaan on:
+Yleensä tämä sanoma tulee näkyviin, kun käyttäjät lähettävät  sähköpostiviestejä IP-osoitteista käyttämällä alkuperäistä .onmicrosoft.com-toimialuetta, joka on määritetty uusille Microsoft 365. Helpoin tapa ratkaista tämä ongelma on:
 
-1. [Lisää toimi alue vuokra](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)ajalle.
+1. [Lisää toimialue vuokraajaan.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
 
-2. [Vaihda käyttäjien ensisijaisena Sähkö posti osoitteena](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) juuri lisäämääsi uutta mukautettua toimi aluetta.
+2. [Muuta käyttäjien ensisijainen sähköpostiosoite juuri](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) lisäädyksi uudelle mukautetulle toimialueelle.
