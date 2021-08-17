@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9acde72f82a27c9f2faa2cf4d0417374aa5a294234da96080dc0498d07639248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085225"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Käyttö estettyjen viestien vianmääritys SharePoint- tai OneDrive-hallintakeskuksessa
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Käyttö estetty -viestien vianmääritys SharePoint- OneDrive hallintakeskuksessa
 
-Jos näyttöön tulee käyttö estetty -sanoma, kun yrität selata SharePoint- tai OneDrive-hallintakeskukseen, varmista, että määrität [käyttäjälle käyttöoikeuden.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) Jos käyttäjällä on käyttöoikeus, varmista myös, [](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) että käyttäjälle on määritetty järjestelmänvalvojan rooli, joka voi käyttää hallintakeskuksia.
+Jos saat käyttö estetty -viestin, kun yrität selata Sharepoint/ OneDrive-hallintakeskukseen, varmista, että määrität käyttäjälle [käyttöoikeuden.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) Jos käyttäjällä on käyttöoikeus, varmista myös, että käyttäjälle on määritetty järjestelmänvalvojan rooli, [joka](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) voi käyttää hallintakeskuksia.
 
-Tämä ongelma voi ilmetä myös silloin, kun käyttäjä poistetaan ja luodaan uudelleen samalla käyttäjätunnuksilla (UPN). Uusi tili luodaan käyttämällä eri PUID (Passport Unique ID) -arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai OneDrivea, käyttäjällä on virheellinen PUID. Toinen skenaario koskee hakemistosynkronointia Active Directory -organisaatioyksikön (OU) kanssa. Jos käyttäjät ovat jo kirjautuneet SharePointiin ja heidät siirretään toiseen ou:han ja synkronoidaan uudelleen SharePointin kanssa, he saattavat kokea tämän ongelman.
+Tämä ongelma voi ilmetä myös silloin, kun käyttäjä poistetaan ja luodaan uudelleen samalla käyttäjätunnuksilla (UPN). Uusi tili luodaan käyttämällä eri PUID (Passport Unique ID) -arvoa. Kun käyttäjä yrittää käyttää sivustokokoelmaa tai hänen OneDrive, käyttäjällä on virheellinen PUID. Toiseen skenaarioon liittyy hakemistosynkronointi Active Directory -organisaatioyksikön (OU) kanssa. Jos käyttäjät ovat jo kirjautuneet SharePoint ja sitten siirretään toiseen OU:han ja synkronoitu SharePoint, he saattavat kokea tämän ongelman.
 
-Voit ratkaista tämän ongelman palauttaen alkuperäisen käyttäjätunnuksen artikkelin Palauta käyttäjä [Microsoft 365:ssä ohjeiden mukaisesti.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+Voit ratkaista ongelman palauttamista varten alkuperäisen upnimen artikkelin Käyttäjän palauttaminen [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
 
-Huomautus: Jos OneDrive- tai SharePoint-hallintakeskus ei ole käytettävissä useille käyttäjille, joilla oli aiemmin käyttöoikeus, voi olla tilapäinen palveluongelma.  [Tarkista palvelun kunto -koontinäyttö.](https://portal.office.com/adminportal/home#/servicehealth)
+Huomautus: Jos OneDrive tai SharePoint ei ole useiden käyttäjien käytettävissä, joilla oli aiemmin käyttöoikeus, palvelu voi olla tilapäinen.  [Tarkista palvelun kunto -koontinäyttö](https://portal.office.com/adminportal/home#/servicehealth).
 
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893052"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314913"
 ---
 # <a name="billing-and-payment"></a>Laskutus ja maksaminen
 
@@ -46,8 +46,7 @@ Jos olet lisännyt uuden kortin ja saat edelleen hylkäävän ilmoituksen vanhaa
 
 4. Jos haluat käyttää olemassa olevaa maksutapaa, valitse yksi avattavasta luettelosta ja valitse sitten **Korvaa**.
 
-    > [!NOTE]
-    > Jos sinulla on laskutusprofiiliin liitettyjä tilauksia, voit maksaa ne vain luotto- tai pankkikortilla. Jos sinulla on pankkitili listattuna **Maksutavat**-sivulla, niitä ei voi valita avattavasta luettelosta.
+    **Huomautus:** Jos sinulla on laskutusprofiiliin liitettyjä tilauksia, voit maksaa ne vain luotto- tai debit-kortilla. Jos sinulla on pankkitili listattuna **Maksutavat**-sivulla, niitä ei voi valita avattavasta luettelosta.
 
 5. Jos haluat lisätä uuden maksutavan, valitse **Lisää maksutapa**.
 

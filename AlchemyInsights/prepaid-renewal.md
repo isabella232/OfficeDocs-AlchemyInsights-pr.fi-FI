@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502857"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314525"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Ennakkoon maksettu Microsoft 365 uusiminen
 
@@ -29,8 +29,7 @@ ms.locfileid: "54502857"
 3. Valitse tilauksen tiedot -sivun **Tilaus- ja maksuasetukset -osassa** **Pidennä päättymispäivää**.
 4. Valitse Uusi **tai lisää käyttöoikeuksia -sivulla** **Käytä uutta ja käyttämätöntä tuoteavainta** ja valitse sitten **Seuraava**.
 5. Anna tuoteavain ja valitse **Seuraava**.
-    > [!NOTE]
-    > Jos sinulla on useita tuoteavainta,  voit kirjoittaa ne valitsemalla Lisää toinen tuoteavain.
+    **Huomautus:** Jos sinulla on useampi kuin yksi tuoteavain, voit **kirjoittaa** ne valitsemalla Lisää toinen tuoteavain.
 6. Tarkista tilauksesi tiedot ja valitse sitten **Lunasta**.
 
-Lisätietoja on kohdassa Tuoteavaimella maksetun tilauksen käyttöoikeuksien lisääminen [tai pidentäminen.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Lisätietoja on kohdassa Tuoteavaimella maksetun tilauksen käyttöoikeuksien lisääminen [tai pidentäminen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

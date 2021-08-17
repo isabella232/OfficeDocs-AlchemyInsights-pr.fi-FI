@@ -1,5 +1,5 @@
 ---
-title: SharePoint Onlinen käyttö oikeus tasot
+title: SharePoint Online-käyttöoikeustasot
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 3657a3f01b362fbe8877c342ec59f10b9a1b63ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13f71d0eac4a1895061b75968437fe32e4f5f9109ab9c9f0edfe371d7d0c995c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085153"
 ---
-# <a name="sharepoint-online-permission-levels"></a>SharePoint Onlinen käyttö oikeus tasot
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Online-käyttöoikeustasot
 
-SharePointissa on käytettävissä joitakin oletusarvoisia käyttö oikeus tasoja, kuten osallistuja ja vain tarkastelu. Jos ne eivät vastaa tarpeitasi, voit luoda lisää käyttö oikeus tasoja. Käyttö oikeuksien seuraaminen on helpointa, jos et muokkaa tai Poista oletus tasoja, ja jos lisäät henkilöitä ryhmiin ja määrität näille ryhmille käyttö oikeus tasoja sen sijaan, että määrittäisivät käyttö oikeus tasoja yksittäisille käyttäjille.
+SharePoint sisältää oletusarvoisia käyttöoikeustasoja, kuten Osallistu ja Vain tarkasteleminen. Jos ne eivät vastaa tarpeitasi, voit luoda lisää käyttöoikeustasoja. Käyttöoikeuksia on helpointa seurata, jos et muokkaa tai poista oletustasoja, ja jos lisäät henkilöitä ryhmiin ja määrität käyttöoikeustasot kyseisille ryhmille sen sijaan, että määritit käyttöoikeustasot yksittäisille käyttäjille.
   
-- [Tietoja käyttö oikeus tasoista](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Tietoja käyttöoikeustasoista](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Käyttö oikeus tasojen luominen ja muokkaaminen](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Käyttöoikeustasojen luominen ja muokkaaminen](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

@@ -1,5 +1,5 @@
 ---
-title: Perinteisen SharePoint-käyttö kokemuksen nykyaikaistaminen
+title: Perinteisen käyttöliittymän SharePoint modernisoiminen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085441"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>Perinteisen SharePoint-käyttö kokemuksen nykyaikaistaminen
+# <a name="modernize-your-classic-sharepoint-experience"></a>Perinteisen käyttöliittymän SharePoint modernisoiminen
 
-Jos haluat vaihtaa moderniin käyttö liittymään, tarkista seuraavat resurssit:
+Jos haluat siirtyä moderniin käyttöliittymään, tutustu seuraaviin resursseihin:
 
-- [Luo **nykyaikaisia sivustoja** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (ryhmäsivusto tai viestintäsivusto). SharePoint- [Look-kirjan](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) avulla voit luoda kauniin ja tehokkaan intranetin, joka yhdistää työpaikan. Katso [esimerkkejä](https://lookbook.microsoft.com/) ja Hanki [suunnittelu ohjeita](https://spdesign.azurewebsites.net/).
-- [Yhdistä sivustosi **Microsoft 365-ryhmään** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , jotta voit lisätä yhteistyötä Microsoft 365-sovelluksen kautta.
-- Muunna **moderniin luettelo-ja kirjasto** kokemukseen ottamalla [käyttöön luettelot ja kirjastot, jotka näkyvät nykyaikaisessa käyttö liittymässä](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Muunna **sivuston sivut** klassisesta **wikistä**, **Verkko-osasta**ja **Koti** sivuista [nykyaikaisiksi asiakas puolen sivuille](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). [SharePointin modernisointi skanneri](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) tarjoaa sivun käyttö tietoja nykyisestä wikistä ja verkko-osa-sivuista, joiden avulla voit priorisoida sivun muunnoksen.
+- [Luo **nykyaikaisia sivustoja**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (ryhmäsivusto tai viestintäsivusto). Käytä [SharePoint luodaksesi](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) kaunis ja tehokas intranet, joka yhdistää työpaikan. Tutustu [esimerkkeihin](https://lookbook.microsoft.com/) ja [hanki suunnitteluohjeita](https://spdesign.azurewebsites.net/).
+- [Näyttöyhteys sivustosi Microsoft 365 **ryhmään yhteistyön**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) lisäämiseksi Microsoft 365.
+- Muunna **moderniin luettelo- ja kirjastokokemukseen** ottamalla luettelot ja kirjastot [näkyviin nykyaikaisessa käyttöliittymässä.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- Muunna **sivuston sivut**  **perinteisestä wikistä,** verkko-osasta **ja aloitussivuista** [moderneilta asiakaspuolen sivuilta.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) Modernin [SharePoint skanneri tarjoaa](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) sivujen käyttötietoja nykyisestä wikistä ja verkko-osasivuista, joiden avulla voit priorisoida sivun muunnoksen.
 
-Lisä tietoja:
+Lisätietoja:
 
-- Vaiheittaiset ohjeet perinteisen SharePoint-käyttö kokemuksen modernisoimiseksi moderniin käyttöön ovat kohdassa [perinteisen SharePoint-käyttö kokemuksen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)nykyaikaistaminen.
-- Tutustu [modernin käyttö kokemuksen](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)oppaaseen.
-- Tutustu [SharePoint Classiciin ja moderneihin kokemuksiin](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- Vaiheittaiset ohjeet perinteisen käyttöliittymän moderniin SharePoint moderniin versioon on ohjeaiheessa Perinteisen käyttöliittymän [SharePoint modernisoiminen.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Tutustu nykyaikaisen [käyttökokemuksen oppaaseen.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
+- Tutustu [SharePoint perinteiseen ja moderniin käyttökokemukseen.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)

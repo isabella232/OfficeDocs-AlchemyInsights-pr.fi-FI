@@ -1,5 +1,5 @@
 ---
-title: Poistetut-kansion tyhjentäminen Outlook.com-sovelluksessa
+title: Poistetut-kansion tyhjentäminen Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111793"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Poistetut-kansion tyhjentäminen
 
 1. Avaa Poistetut-kansio ja valitse **Tyhjennä kansio**.
-2. Valitse **palautettavat kohteet** sivun yläreunassa ja valitse sitten **Tyhjennä kansio** uudelleen.
+2. Valitse **sivun yläreunassa** Palautettavat kohteet ja valitse Tyhjennä **kansio** uudelleen.
 
-**Poistetut-kansiota ei voi tyhjentää**
+**Poistetut-kansion tyhjentäminen ei onnistu**
 
-- Jos olet poistanut paljon Sähkö posti viestejä, kohteiden siirtäminen tai poistaminen Poistetut-kansiosta saattaa kestää jonkin aikaa. Jätä selain ikkuna auki, kun poistaminen tapahtuu.
-- Jos Sähkö posti viestin poistaminen ei edelleenkään onnistu, valitse poistettava pieni erä.
-- Jos poistetut sähkö postit tulevat takaisin, se voi johtua siitä, että olet äskettäin poistanut paljon sähkö postia. Yritä myöhemmin uudelleen.
+- Jos olet poistanut useita sähköpostiviestejä, voi kestää jonkin aikaa, ennen kuin kyseiset kohteet voidaan siirtää Poistetut-kansioon tai ne poistetaan Poistetut-kansiosta. Jätä selainikkuna auki poistamisen aikana.
+- Jos sähköpostiviestin poistaminen ei onnistu vieläkään oikein, valitse poistettava pienempi erä.
+- Jos poistettu sähköpostiviesti palaa takaisin, se voi johtua siitä, että olet poistanut paljon sähköpostia äskettäin. Yritä myöhemmin uudelleen.
