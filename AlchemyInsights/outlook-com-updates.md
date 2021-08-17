@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053499"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com-päivitykset
 
 **Uusimmat päivitykset**
 
-- Saat enemmän irti sähkö postista uudella Outlook.com. Haku on selkeytetty, jotta löydät etsimäsi helpommin kuin koskaan aiemmin. Uudet ominaisuudet, kuten valo kuvat ja liitteiden esikatselut, antavat sinun nähdä kuvasi ja tiedostosi poistumatta Saapuneet-kansiosta. Nyt voit lisätä viesteihisi emojeja ja GIF-viestejä. Lisä  [tietoja uudesta Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Voit käyttää sähköpostia tehokkaammin uudella Outlook.com-sivustolla. Hakutoimintoa on virtaviivaistettu, jotta löydät etsimäsi helpommin kuin koskaan aiemmin. Uusien ominaisuuksien, kuten Valokuvien ja liitteiden esikatselun, avulla voit tarkastella kuvia ja tiedostoja poistumatta Saapuneet-kansiosta. Nyt voit lisätä viesteihin emojeja ja GIF-kuvia. [Lisätietoja uudesta Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**Sähkö posti päivitykset**
+**Sähköpostipäivitykset**
 
-- Jos Outlook.com-posti laatikkosi ei ole päivittämässä, Katso lisä tietoja artikkelista [Outlook.com-sähkö postin synkronointi ongelmien korjaaminen](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Jos Outlook.com-postilaatikkosi ei päivity, katso [lisätietoja Outlook.com-sähköpostin synkronointiongelman ratkaiseminen.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

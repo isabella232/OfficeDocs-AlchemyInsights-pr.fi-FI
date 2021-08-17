@@ -1,5 +1,5 @@
 ---
-title: Kohdistetun Saapuneet-kansion poistaminen käytöstä
+title: Focused Inbox -kansion käytöstäottaaminen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1199"
 - "105"
 - "8000001"
-ms.openlocfilehash: fc9117b3575181641a246f7978caaba5feac163d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c38b8e1fabf17b99339a56ade535053d7b7993ab681560e254ef16dd62b10415
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053571"
 ---
-# <a name="turn-off-focused-inbox"></a>Kohdistetun Saapuneet-kansion poistaminen käytöstä
+# <a name="turn-off-focused-inbox"></a>Focused Inbox -kansion käytöstäottaaminen
 
-1. Valitse sivun ylälaidassa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> Avaa asetukset-ruutu.
-2. Siirrä asetukset-ruudussa **kohdistettu Saapuneet** -kansio-vaihto painike ei käytössä-asentoon.
+1. Valitse sivun yläreunassa <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> avataksesi Asetukset ruudun.
+2. Siirrä Asetukset Saapuneet-kansio **-vaihtopainike** pois käytöstä.
 
-Lisä tietoja on Ohje aiheessa lajitellut [Saapuneet-kansion poistaminen käytöstä](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).
+Lisätietoja on kohdassa Focused [Inbox -kansion käytöstä vaihtoehdot.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom)

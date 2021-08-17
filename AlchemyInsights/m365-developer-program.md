@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: 8e403532b60c439e3f589ef89d3de857a6db6230
-ms.sourcegitcommit: ea5b3217c8d8cacc31c6250921d0dcdd8385e863
+ms.openlocfilehash: a6f36ebff88efee00c0fc9256250cf570a04e614af936b8f907d564e0e82398f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53460024"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887385"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365 Kehittäjäohjelma
 
-Kehittäjä Microsoft 365 ohjelma sisältää Microsoft 365 E5-kehittäjätilauksen, jonka avulla voit luoda oman erisnyksesi ja kehittää tuotantoympäristöstä riippumattomia ratkaisuja. Lisätietoja ja usein kysyttyjä kysymyksiä Microsoft 365 Developer Program -ohjelmasta ja Visual Studio tilauksia on Microsoft 365 [kehittäjäohjelmassa.](/office/developer-program/microsoft-365-developer-program)
+Kehittäjä Microsoft 365 ohjelmassa on Microsoft 365 E5 -tilaus, jonka avulla voit luoda oman erisnyksesi ja kehittää tuotantoympäristöstä riippumattomia ratkaisuja. Lisätietoja ja usein kysyttyjä kysymyksiä Microsoft 365 Developer Program -ohjelmasta ja Visual Studio tilauksia on Microsoft 365 [kehittäjäohjelmassa.](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program)
 
-Jos tarvitset Microsoft 365 Developer Program - tai Visual Studio -tilauksia, lähetä tukipyyntö Visual Studio [tilaustuet.](https://visualstudio.microsoft.com/subscriptions/support/)
+Jos tarvitset Microsoft 365 Developer Program - tai Visual Studio -tilauksia, lähetä tukipyyntö [Visual Studio tilaustuet.](https://visualstudio.microsoft.com/subscriptions/support/)

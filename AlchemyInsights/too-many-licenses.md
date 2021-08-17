@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499545"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886288"
 ---
 # <a name="too-many-licenses"></a>Liian monta käyttöoikeutta?
 
@@ -36,4 +36,4 @@ Jos sinua laskutetaan mielestäsi liian useista käyttöoikeuksista, tämä joht
 4. Kirjoita **Poista käyttöoikeudet -ruudun** **Uusi** määrä  Käyttöoikeuksia yhteensä -ruutuun tämän tilauksen käyttöoikeuksien kokonaismäärä. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat poistaa niistä 25, kirjoita 75.
 5. Valitse **Tallenna**.
 
-Lisätietoja on kohdassa [Käyttöoikeuksien ostaminen tai poistaminen.](/microsoft-365/commerce/licenses/buy-licenses)
+Lisätietoja on kohdassa [Käyttöoikeuksien ostaminen tai poistaminen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

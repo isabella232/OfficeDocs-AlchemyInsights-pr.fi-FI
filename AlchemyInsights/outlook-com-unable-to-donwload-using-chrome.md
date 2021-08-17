@@ -1,5 +1,5 @@
 ---
-title: '8000085: Outlook.com: tiedostoja ei voi ladata Chromessa'
+title: '8000085: Outlook.com: Tiedostoja ei voi ladata Chromessa'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1a4f5029322682dee3ab2799998b8c02dfd1a3da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08eb26cb64d1ea7d544bd1e1531afc4d57124ff17bd2afb471686d066098ce8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053535"
 ---
 # <a name="cant-download-files-in-chrome"></a>Tiedostoja ei voi ladata Chromessa
 
-**Ongelma** Olemme tietoisia ongelmasta, joka estää joitakin asiakkaita lataamasta tiedostoja, kun käytät Google Chrome-selainta. 
+**Ongelma** Microsoft on tietoinen ongelmasta, joka estää joitakin asiakkaita lataamasta tiedostoja Google Chrome -selainta käytettäessä. 
 
-**Vaihtoehtoinen** menetelmä Käytä [Microsoft edgiä](https://www.microsoft.com/windows/microsoft-edge) tai jotakin muuta selainta.
-Lisä tietoja [tiedostojen ja Outlook.com-liitteiden lataamisesta](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+**Vaihtoehtoinen menetelmä** Käytä [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) selainta tai muuta selainta.
+Lue lisää tiedostojen ja [Outlook.com-liitteiden lataamiseen.](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)
 
