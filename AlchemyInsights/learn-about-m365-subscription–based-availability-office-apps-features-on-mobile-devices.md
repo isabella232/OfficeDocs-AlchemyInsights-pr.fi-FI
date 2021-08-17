@@ -1,5 +1,5 @@
 ---
-title: Lisä tietoja Microsoft 365-tila uksesta – perustuu Office-sovellusten ominaisuuksien saatavuuteen mobiililaitteissa
+title: Lisätietoja Microsoft 365 sovellusten ominaisuuksien Office tilaukseen perustuvasta saatavuudesta mobiililaitteissa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087421"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Lisä tietoja Microsoft 365-tila uksesta – perustuu Office-sovellusten ominaisuuksien saatavuuteen mobiililaitteissa
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Lisätietoja Microsoft 365 sovellusten ominaisuuksien Office tilaukseen perustuvasta saatavuudesta mobiililaitteissa
 
-Kaikissa Microsoft 365-palvelu paketeissa voit tarkastella Word-, Excel-, PowerPoint-ja OneNote-tiedostoja iOS:ssä, Androidissa ja Windows Mobile-laitteissa. Näiden sovellusten ominaisuuksien ja tiedostojen käytettävyys riippuu kuitenkin tila uksesta, joka on Microsoft 365-palvelu paketti tai ei-hyväksyttävä palvelu paketti tai kerta ostoksena hankittu Office sekä mobiililaitteen näyttö koko.
+Kaikissa Microsoft 365-palvelupaketteja voit tarkastella asiakirjoja Word-, Excel-, PowerPoint- OneNote-, Android- ja Windows-mobiililaitteilla. Näiden sovellusten ominaisuuksien ja tiedostojen saatavuus riippuu kuitenkin tilauksestasi ( Microsoft 365 ehdot täyttävästä palvelupakettista tai ei-ehdot täyttävästä palvelupakettista tai kertaostos Office – ja mobiililaitteen näytön koosta.
 
-Lisä tietoja on artikkelissa [mitä voit tehdä Office-sovelluksissa mobiililaitteissa Microsoft 365-tila uksella](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Lisätietoja on ohjeaiheessa Mitä [voit tehdä Office-sovelluksissa mobiililaitteissa, joissa on Microsoft 365 tilaus.](https://go.microsoft.com/fwlink/?linkid=2135575) 

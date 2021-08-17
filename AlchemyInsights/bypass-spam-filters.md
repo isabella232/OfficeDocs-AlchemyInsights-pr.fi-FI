@@ -1,5 +1,5 @@
 ---
-title: 2637 ohittaa roska posti suodatuksen, jos haluat sallia tietyt viestit?
+title: 2637 Ohita roskapostisuodatus, jotta tietyt viestit sallitaan?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059557"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ohitettiko roska posti suodatus, jotta tietyt viestit sallitaan?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ohitetaanko roskapostisuodatus, jotta tietyt viestit sallitaan?
 
-Suosittelemme [varovaisuutta](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) , kun luot sallittujen luettelon. Jos esimerkiksi annat oman toimi alueesi, pahantahtoiset lähettäjät voivat väärentää ja lähettää toimi alueenaan.  Sen sijaan suosittelemme tätä [väärien positiivisten virheiden vian määritys opasta](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), jonka avulla voit selvittää, miksi kelvollinen viesti on merkitty roska postiksi, ja miten voit sallia viestin lähettämisen turvallisesti.
+Suosittelemme [varoitusta,](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) kun luot sallittujen luettelon. Jos esimerkiksi sallit oman toimialueesi, haitalliset lähettäjät voivat teon ja lähettää toimialueenasi.  Suosittelemme sen sijaan tätä vianmäärityksen vianmäärityksen ohjetta [,](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)jonka avulla voit selvittää, miksi aito viesti on merkitty roskapostiksi ja miten voit sallia viestin toimituksen turvallisesti.

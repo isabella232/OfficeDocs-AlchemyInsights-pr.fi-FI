@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500013"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895488"
 ---
 # <a name="change-payment-method"></a>Maksutavan muuttaminen
 
@@ -36,6 +36,6 @@ Voit muuttaa maksutapaa **Microsoft 365 -hallintakeskus.**
 6. Kirjoita **Lisää maksutapa** -ruutuun tilin tiedot ja valitse sitten **Tallenna**. Sinun on käytettävä maksutapaa, joka on samasta maasta kuin vuokraajasi.
 7. Uusi maksutapa on jo valittuna avattavassa luettelossa. Valitse **Korvaa**.
 
-Lisätietoja maksutapojen lisäämis-, päivitys-, korvaus- ja poistotavoista on kohdassa [Maksutapojen hallinta.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Lisätietoja maksutapojen lisäämis-, päivitys-, korvaus- ja poistotavoista on kohdassa [Maksutapojen hallinta.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Lisätietoja maksutapojen välillä vaihtamisesta on [kohdassa Tilauksen maksaminen.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Lisätietoja maksutapojen välillä vaihtamisesta on [kohdassa Tilauksen maksaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

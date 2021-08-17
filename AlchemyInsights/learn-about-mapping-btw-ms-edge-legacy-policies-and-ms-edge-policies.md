@@ -1,5 +1,5 @@
 ---
-title: Lisä tietoja Microsoft Edge-aiempien käytäntöjen ja Microsoft Edge-käytäntöjen välisestä vastaamisesta
+title: Lisätietoja yhdistämismäärityksistä vanha Microsoft Edge ja Microsoft Edge välille
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087385"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Lisä tietoja Microsoft Edge-aiempien käytäntöjen ja Microsoft Edge-käytäntöjen välisestä vastaamisesta
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Lisätietoja yhdistämismäärityksistä vanha Microsoft Edge ja Microsoft Edge välille
 
-Microsoft Edge aiempien versioiden ryhmä käytännöt (versiot 45 ja aiemmat) ja mobiililaitteiden hallinta (MDM)-asetukset vastaavat Microsoft Edge version 80-käytännöt. Lisä tietoja on artikkelissa [Microsoft Edge-aiempi Microsoft Edge-käytäntöjen kartoitus](https://go.microsoft.com/fwlink/?linkid=2141665).
+Ryhmän käytännöt (vanha Microsoft Edge (versiot 45 ja aiemmat) ja mobiililaitteiden hallinnan asetukset liittyvät Microsoft Edge versioon 80. Lisätietoja on kohdassa käytännön [vanha Microsoft Edge Microsoft Edge määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2141665)

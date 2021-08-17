@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059593"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Hallita aula-asetuksia ja osallistumisen tasoa Teamsissa
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Hallita aula-asetuksia ja osallistumistasoa Teams
 
 Jos haluat, että kaikki, kuten puhelinneuvottelut, ulkoiset ja anonyymit käyttäjät, voivat ohittaa aulan **,** käytä PowerShelliä tämän tehtävän suorittamiseen. Seuraavassa on esimerkki organisaation yleisen kokouskäytännön muokkaamisesta.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Tämä cmdlet-komento edellyttää tällä hetkellä Skype for Business PowerShell -moduulin käyttöä. Jos haluat määrittää tämän cmdlet-komennon käyttöön, lue kohta Policies [via PowerShell (Hallitse käytäntöjä PowerShellin kautta).](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
+Tämä cmdlet-komento edellyttää tällä hetkellä PowerShell Skype for Business moduulin käyttöä. Jos haluat määrittää tämän cmdlet-komennon käyttöön, lue kohta Policies [via PowerShell (Hallitse käytäntöjä PowerShellin kautta).](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
 Kun olet määrittänyt käytännön, sinun on sovellettava sitä käyttäjiin. tai jos olet muokannut global-käytäntöä, se koskee automaattisesti käyttäjiä. Jos käytäntö muuttuu, sinun on odotettava vähintään 4 tuntia **ja 24** tuntia, ennen kuin käytännöt tulevat voimaan. 
 
 Muista tarkistaa alla olevat ohjeet ennen muutosten tekeminen, jotta ymmärrät tarkalleen, mitä tämä sallii.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Teamsin kokouksen aulakäytännön hallinta
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Kokouksen Teams hallintakäytäntöjen hallinta
 
-Näillä asetuksilla voit määrittää, mitkä kokouksen osallistujat odottavat odotustilassa, ennen kuin heidät hyväksytään kokoukseen, ja osallistujat voivat osallistua kokoukseen. PowerShellin avulla voit päivittää kokouskäytäntöasetuksia, joita ei ole vielä otettu käyttöön (tulossa pian) Teams-hallintakeskuksessa. Alla on esimerkki PowerShell-cmdlet-komennosta, jonka avulla kaikki käyttäjät voivat ohittaa aulan.
+Näillä asetuksilla voit määrittää, mitkä kokouksen osallistujat odottavat odotustilassa, ennen kuin heidät hyväksytään kokoukseen, ja osallistujat voivat osallistua kokoukseen. PowerShellin avulla voit päivittää kokouskäytäntöasetuksia, joita ei ole vielä otettu käyttöön (tulossa pian) Teams hallintakeskuksessa. Alla on esimerkki PowerShell-cmdlet-komennosta, jonka avulla kaikki käyttäjät voivat ohittaa aulan.
 
 - [Hyväksy henkilöt automaattisesti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) järjestäjän mukaan -käytäntö, joka määrittää, liittyvätkö henkilöt kokoukseen suoraan vai odottavat odotustilassa, kunnes todennettu käyttäjä on myöntänyt heidät sisään.
 
@@ -44,4 +44,4 @@ Näillä asetuksilla voit määrittää, mitkä kokouksen osallistujat odottavat
 
 - [Salli järjestäjien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) ohittaa aula-asetukset **(tulossa** pian) on järjestäjäkohtainen käytäntö, joka määrittää, voiko  kokouksen järjestäjä  ohittaa aula-asetukset, jotka järjestelmänvalvoja on määrittänyt asetuksissa Hyväksy käyttäjät automaattisesti ja Salli puhelinkäyttäjien ohittaa aula, kun he ajoittavat uuden kokouksen.
 
-**Huomautus:** Lue [kokouskäytäntöjen hallinta Teamsissa,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) niin saat täydellisen yleiskatsauksen Microsoft Teams -kokouskäytännöistä.
+**Huomautus:** Saat [kattavan yleiskatsauksen Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kokouskäytäntöjen hallinta Microsoft Teams hallinta -vaihtoehdot.

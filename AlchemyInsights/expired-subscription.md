@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029729"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895884"
 ---
 # <a name="expired-subscription"></a>Päättynyt tilaus
 
@@ -35,13 +35,13 @@ Näyttää siltä, että sinulla on vähintään yksi vanhentunut tilaus. Jos ha
 3. Valitse **Aktivoi tämä tilaus uudelleen** -ruudun avattavasta luettelosta maksutapa tai valitse **Lisää maksutapa**.
 4. Valitse **Tallenna**.
 
-Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Tee uusi ostos**
   
 1. Siirry hallintakeskuksessa Laskutuksen **hankintapalvelut** \> [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Valitse tilaus, jonka haluat ostaa, ja valitse sitten **Osta**.
 3. Anna haluamasi käyttöoikeuksien määrä ja valitse maksutapa (kuukausittain tai vuosittain). Valitse, haluatko määrittää automaattisesti käyttöoikeudet kaikille käyttäjille, joilla ei ole tällä hetkellä käyttöoikeuksia. Valitse sitten **Tutustu nyt**.
-4. Viimeistele ulos kassalle tuleminen noudattamalla seuraavia ohjeita.
+4. Suorita ulos kassalle noudattamalla jäljellä olevia ohjeita.
 
-Lisätietoja on ohjeaiheessa Toisen [tilauksen ostaminen.](/microsoft-365/commerce/buy-another-subscription)
+Lisätietoja on ohjeaiheessa Toisen [tilauksen ostaminen.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)
