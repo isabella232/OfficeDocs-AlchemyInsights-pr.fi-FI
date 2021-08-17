@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300012"
 - "7420"
-ms.openlocfilehash: a304504f7483036884878639dfa6ebfc3cdfcac8
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: c4059364cd8aba920dba833c88a69413bad95a2c3b895599d9f6895b50ff73d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079627"
 ---
 # <a name="deploy-ad-fs"></a>AD FS:n käyttöönotto
 
-Active Directory Federation Services (AD FS) -käyttöönotto todentaa käyttäjät Office 365 -palvelujen käyttäjille paikallisen infrastruktuurin avulla. Kun käytät liitettyä kirjautumista, voit antaa käyttäjien kirjautua Office 365 -palveluihin ja -ohjelmistoihin palveluna (SAAS), jotka on integroitu Azure Active Directoryyn (Azure AD). Liittoutettu kirjautuminen todentaa käyttäjät paikalliseen Active Directoryyn AD FS:n kautta. Yritysverkossa käyttäjien ei myöskään tarvitse antaa salasanojaan uudelleen.
+Active Directory Federation Services (AD FS) -käyttöönotto todentaa käyttäjät Office 365 avulla. Organisaation liitetyn kirjautumisen avulla voit antaa käyttäjien kirjautua Office 365-palveluihin ja ohjelmisto palveluna (SAAS) -sovelluksiin, jotka on integroitu Azure Active Directory :n (Azure AD) kanssa. Liittoutettu kirjautuminen todentaa käyttäjät paikalliseen Active Directoryyn AD FS:n kautta. Yritysverkossa käyttäjien ei myöskään tarvitse antaa salasanojaan uudelleen.
 
-AD FS -käyttöönottoneuvoja antaa vaiheittaiset ohjeet paikallisen [AD FS](https://go.microsoft.com/fwlink/?linkid=2071178) -infrastruktuurin käyttöönottoon, joka todentaa microsoft 365- ja Office 365 -palvelujen käyttäjät. Tämän oppaan avulla organisaatiosi voi tarkastella AD FS:n osia ja vaatimuksia, hankkia ja asentaa käyttöönottoon tarvittavia SSL-varmenteita sekä asentaa vaaditun verkkosovelluksen välityspalvelimen.
+AD FS -käyttöönottoneuvoja antaa vaiheittaiset ohjeet paikallisen [AD FS](https://go.microsoft.com/fwlink/?linkid=2071178) -infrastruktuurin käyttöönottoon, joka todentaa käyttäjät Microsoft 365- ja Office 365 palveluille. Tämän oppaan avulla organisaatiosi voi tarkastella AD FS:n komponentteja ja vaatimuksia, hankkia ja asentaa SSL-varmenteita, jotka tarvitaan käyttöönottoon, ja asentaa tarvittavan verkkosovelluksen välityspalvelimen.

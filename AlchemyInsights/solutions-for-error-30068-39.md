@@ -14,12 +14,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050223"
 ---
 # <a name="solutions-for-error-30068-39"></a>Ratkaisut virheeseen 30068-39
 
@@ -31,10 +31,10 @@ Kokeile seuraavia ratkaisuja virheen [30068-39 korjaamiseksi:](https://support.o
 
 - Lataa ja asenna [tuki- ja palautusavustaja](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kun se avautuu, valitse **Poista Office-tuotteiden** asennus -kohdasta versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
+1. Kun se avautuu, valitse **poista Office-tuotteista** versio, jonka asennuksen haluat poistaa, ja valitse **Seuraava**.
 
 2. Seuraa näytön ohjeita ja käynnistä tietokone uudelleen pyydettäessä.
 
-    Uudelleenkäynnistyksen jälkeen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistoprosessin viimeistelemiseksi.
+    Uudelleenkäynnistyksen tuki- ja palautusavustaja avautuu automaattisesti uudelleen asennuksen poistoprosessin viimeistelemiseksi.
 
-3. Noudata muita kehotteita ja asenna [Office uudelleen](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.
+3. Noudata kehotteita ja asenna [Office](https://portal.office.com/OLS/MySoftware.aspx) tai sulje avustaja.

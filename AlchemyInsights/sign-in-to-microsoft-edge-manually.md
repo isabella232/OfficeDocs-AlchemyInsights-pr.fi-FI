@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgeen kirjautuminen manuaalisesti
+title: Kirjautuminen Microsoft Edge sisään
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050763"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Microsoft Edgeen kirjautuminen manuaalisesti
+# <a name="sign-in-to-microsoft-edge-manually"></a>Kirjautuminen Microsoft Edge sisään
 
 Jos käyttäjä ei ole kirjautuneena automaattisesti ensimmäisen käyttökokemuksen aikana, käyttäjä voi kirjautua sisään manuaalisesti selaimen asetusten tai käyttäjätietojen pikaikkunan kautta. Jos haluat hallita kirjautumista, käytä seuraavia käytäntöjä:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Voit varmistaa, että käyttäjällä on aina työprofiili Microsoft Edgessä.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Voit varmistaa, että käyttäjällä on aina työprofiili Microsoft Edge.
 2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – Voit rajoittaa kirjautumisen luotettujen tilien joukkoon.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Jos haluat poistaa kirjautumisen käytöstä tai pakottaa käyttäjät kirjautumaan sisään.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Voit poistaa kirjautumisen käytöstä tai pakottaa käyttäjät kirjautumaan sisään.
 

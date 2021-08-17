@@ -1,5 +1,5 @@
 ---
-title: DLP-käytäntövihjeet eivät toimi
+title: DLP-Vinkit ei toimi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079663"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP-käytäntövihjeen ongelmat
 
@@ -30,6 +30,6 @@ Voit määrittää DLP-käytännön käytäntövihjeet tietoturva- &-yhteensopiv
 
 - Varmista, että sisältö vastaa sitä, mitä vaaditaan, jotta luottamuksellisten tietotyypin määritysten sääntö [voidaan ottaa käyttöön.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Käytäntövihjeet näkyvät sekä OWA:ssa että Outlookissa. Outlook 2013:a tai uudempaa versiota käytettäessä käytäntövihjeet näytetään kuitenkin vain tietyissä tilanteissa. Jos haluat nähdä tietyn ehdon luettelon, katso käytäntövihjeiden näyttäminen [Outlook 2013:n tai uudemman sovelluksen tukemat ehdot.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Käytäntövihjeet näkyvät sekä OWA:ssa että Outlook. Jos kuitenkin käytät Outlook 2013:a tai uudempaa, käytäntövihjeet näytetään vain tietyissä tilanteissa. Jos haluat nähdä tietyn ehdon luettelon, katso [käytäntöluettelon näyttäminen Outlook 2013:ssa](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)tai sitä uudemmassa Vinkit.
 
-Lisätietoja DLP-käytäntövihjeistä on [DLP-käytäntövihjeiden](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) ohjeissa ja [tukimatriisissa.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+Lisätietoja DLP-käytäntövihjeistä on DLP-käytäntövihjeiden [Vinkit ja](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) tukimatriisissa. [](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

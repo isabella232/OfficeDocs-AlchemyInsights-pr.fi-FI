@@ -1,5 +1,5 @@
 ---
-title: Älä pakota minua päivittämään. Miten voin palata edelliseen Office-versioon?
+title: Älä pakota minua päivittämään. Miten palaan edelliseen versioon Office versioon?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079591"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Älä pakota minua päivittämään. Miten voin palata edelliseen Office-versioon?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Älä pakota minua päivittämään. Miten palaan edelliseen versioon Office versioon?
 
-Kun avaat Office-tiedoston, Office-sovelluksen koeversio saattaa avautua toisen version sijaan. Tämä tapahtuu, jos sinulla on Microsoft 365-koekäyttö.
+Kun avaat Office, tiedoston kokeiluversio Office-sovellus voi avautua toisen version sijaan. Näin tapahtuu, jos sinulla on Microsoft 365 kokeiluversio.
   
-Kun asennat Microsoft 365-kokeilun, sovellusten 2016-koeversio on asennettu. Nämä koeversiot muuttuvat oletusarvoisesti Word-, Excel-ja PowerPoint-tiedostojen avaamiseen. Jos sinulla on esimerkiksi Excel 2013 asennettuna ja olet myös asentanut Microsoft 365-kokeilun, työkirjat avautuvat Excel 2016-version beetaversiossa.
+Kun asennat Microsoft 365, sovellusten 2016-kokeiluversio asennetaan. Näistä kokeiluversioista tulee word-, Excel- ja PowerPoint oletusversio. Jos sinulla on asennettuna Excel 2013 ja olet asentanut myös Microsoft 365-kokeiluversion, työkirjat avataan Excel 2016.
   
-Jos sinulla on tämä ongelma, voit poistaa 2016-sovellusten [asennuksen](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) ja käyttää niiden sovellusten vanhempia versioita, jotka olet jo asentanut. Voit myös poistaa sovellusten aiempien versioiden [asennuksen](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) ja päivittää Microsoft 365-versioon sisältyviin uudempiin versioihin.
+Jos sinulla on tämä ongelma, [voit](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) poistaa 2016-sovellusten asennuksen ja käyttää jo asennettujen sovellusten vanhempia versioita. Voit myös poistaa [sovellusten aiempien](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) versioiden asennuksen ja päivittää sovelluksen mukana toimitettuihin Microsoft 365.

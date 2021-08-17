@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 62ec3e9861270afd79d5c585ed3cc2993590e556fc3cc509bfda3e5d28850f0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050295"
 ---
 # <a name="credit-request-due-to-a-service-outage"></a>Käyttörajan vuoksi pyydettävä saldopyyntö
 
 Jos haluat käyttää käyttörajan vuoksi maksettavaa luottopyyntöä, avaa palvelupyyntö.
 
-Varmista, että saat tapahtumatunnuksen Microsoft [](https://docs.microsoft.com/office365/enterprise/view-service-health) 365 -hallintakeskuksen Palvelun kunto -sivulta.
+Varmista, että saat tapahtumatunnuksen, joka on Palvelun [kunto -sivun](https://docs.microsoft.com/office365/enterprise/view-service-health) Microsoft 365 -hallintakeskus.
 
 Kun pyyntöäsi käsitellään, sitä on varmistettu havaitsemaan, miten se vaikuttaa uloskäyntiin.
