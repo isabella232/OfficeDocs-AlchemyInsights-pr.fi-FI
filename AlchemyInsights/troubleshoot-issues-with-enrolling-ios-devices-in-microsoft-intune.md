@@ -1,5 +1,5 @@
 ---
-title: iOS-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intunessa
+title: iOS-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047973"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>iOS-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intunessa
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>iOS-laitteiden rekisteröintiongelmien vianmääritys Microsoft Intune
 
 Ratkaise ongelma nyt alla lueteltujen resurssien avulla. 
   
@@ -27,7 +27,7 @@ Yleisiä virhesanomia ja ratkaisuvaiheita:
     
 - **Tätä palvelua ei tueta. Ei rekisteröintikäytäntöä:** Apple Push Notification Service (APNS) on määritettävä tai uusittava. Katso [ohjeet](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) tästä asiakirjasta. 
     
-- **Käyttäjäkäyttöoikeustyyppi Virheellinen tai käyttäjänimi ei tunnistettu:** Käyttäjälle on oltava määritetty Intune- tai EMS-käyttöoikeus. Tarkista nämä asiakirjat ja määritä käyttöoikeus [Office-hallintakeskuksen tai](https://docs.microsoft.com/intune/licenses-assign) [Azure-portaalin kautta.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Käyttäjäkäyttöoikeustyyppi Virheellinen tai käyttäjänimi ei tunnistettu:** Käyttäjälle on oltava määritetty Intune- tai EMS-käyttöoikeus. Tarkista nämä asiakirjat ja määritä käyttöoikeus seuraavasti: [Office hallintakeskus tai](https://docs.microsoft.com/intune/licenses-assign) [Azure-portaali.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Lisäresursseja ongelman ratkaisemiseksi:
   
@@ -35,6 +35,6 @@ Lisäresursseja ongelman ratkaisemiseksi:
     
 2. Tarkistamalla nämä asiakirjat saat luettelon yleisistä virheistä, jotka estävät kunkin tiedoston rekisteröinnin ja ratkaisut: [Vianmääritysopas](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) ja [Tiedoston vianmääritys.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
     
-3. [Lue, miten voit rekisteröidä iOS-laitteet Microsoft Intunessa.](https://docs.microsoft.com/intune/ios-enroll)
+3. [Opi rekisteröimaan iOS-laitteet Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
     
 
