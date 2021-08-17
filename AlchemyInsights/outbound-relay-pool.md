@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041583"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883128"
 ---
 # <a name="outbound-relay-pool"></a>Lähtevien välitysen välitysalue
 
-Microsoft tekee joitakin muutoksia sähköpostien välityksen tai edelleenlähetysmäärityksen Microsoft 365. Tietyissä tilanteissa viestit välitetään tai välitetään Microsoft 365 erityisen välitystilan avulla. Välityksen avulla lähetetyt viestit voivat päätyä vastaanottajan roskapostikansioon. Lisätietoja on kohdassa Lähtevät [toimituslähteet](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft tekee joitakin muutoksia sähköpostiviestien välityksen tai edelleenlähetysmäärityksen Microsoft 365. Tietyissä tilanteissa viestit välitetään tai välitetään Microsoft 365 erityisen välitystilan avulla. Välityksen avulla lähetetyt viestit voivat päätyä vastaanottajan roskapostikansioon. Lisätietoja on kohdassa Lähtevät [toimituslähteet](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
-Voit välttää skenaarion käyttämällä välityksen välitysä varmistamalla, että välitettyjen/välitettyjen viestien on täytettävä jokin seuraavista ehdoista:
+Jos haluat välttää skenaarion käyttää välityksen välitysä, varmista, että edelleen lähetetyt/välitetut viestit täyttävät yhden seuraavista ehdoista:
 
 - Lähtevä lähettäjä on vuokraajan hyväksytty toimialue.
 - SPF (Sender Policy Framework) välittää viestin, kun viesti Microsoft 365.
@@ -36,5 +36,5 @@ Jos toimialueesi MX-tietue osoittaa kolmannen osapuolen tai paikallisen palvelim
 
 **Miten voimme tietää, vaikuttaako välitysalue meitä?**
 
-Jos välitetyissä tai välitetyissä sähköpostiviesteissä käytetään jotain edellä mainituista ehdoista, viestejä ei välitetä välityksen kautta. Jos viesti lähetetään välityspalvelimen kautta, lähtevän palvelimen IP-osoite on 40.95.0.0/16-alueella ja lähtevän postin palvelimen nimi **näkyy nimenä rly.**
+Jos välitetyissä tai välitetyissä sähköpostiviesteissä käytetään jotain yllä mainituista ehdoista, viestejä ei välitetä välityksen kautta. Jos viesti lähetetään välitysalueen kautta, lähtevän postin palvelimen IP-osoite on 40.95.0.0/16-alueella ja lähtevän postin palvelimen nimi **näkyy nimenä rly.**
 

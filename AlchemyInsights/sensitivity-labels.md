@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 22878bdff6b987d0a1dc7f7c4aee74f8b22a58f3
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052419"
 ---
 # <a name="sensitivity-labels"></a>Luottamuksellisuusmerkinnät
 
-Jos et näe luottamuksellisuusmerkintää, jota odotat näkeväni käyttäjältä, tarkista luottamuksellisuusmerkintäkäytäntöjen prioriteettijärjestys. Katso: [Otsikon prioriteetti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+Jos et näe luottamuksellisuusmerkintää, jonka odotat näkevän käyttäjälle, tarkista luottamuksellisuusmerkintäkäytäntöjen prioriteettijärjestys. Katso: [Otsikon prioriteetti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 Lisätietoja luottamuksellisuusmerkinnöistä on kohdassa:
 
-- Lisätietoja luottamuksellisuusmerkinnöistä: [Lisätietoja luottamuksellisuusmerkinnöistä – Microsoft 365 :n | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- **Käyttöoikeustiedot:** [Microsoft 365 :n käyttöoikeusohjeet tietoturvan & - Palvelukuvaukset | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
-- Luottamuksellisuusmerkkien käyttäminen Office-sovelluksissa: [Luottamuksellisuustarrojen käyttäminen Office-sovelluksissa – Microsoft 365 :n | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
-- Ota luottamuksellisuusmerkinnät käyttöön Office-tiedostoissa **SharePointissa** ja OneDrivessa: Ota luottamuksellisuusmerkinnät käyttöön Office-tiedostoissa [SharePointissa ja OneDrivessa – Microsoft 365 :n yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
-- Luottamuksellisuusmerkkien käyttö Microsoft **Teamsissa:** Luottamuksellisuusmerkkien käyttö [Microsoft Teamsissa, Microsoft 365 -ryhmissä ja SharePoint-sivustoissa – Microsoft 365 :n yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
-- **Automaattinen käytä** Luottamuksellisuusmerkinnät: [Lisää luottamuksellisuusmerkintä automaattisesti sisältöön Microsoft 365:ssä – Microsoft 365:n yhteensopivuusmerkinnät | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-- Luottamuksellisuustarroihin liittyvät tunnetut ongelmat: Luottamuksellisuustarroihin liittyvät tunnetut [ongelmat Officessa – Office-tuki (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- Lisätietoja luottamuksellisuusmerkinnöistä: [Lisätietoja luottamuksellisuusmerkinnöistä – Microsoft 365 yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Käyttöoikeustiedot:** [Microsoft 365 tietoturvan ja yhteensopivuuden & - Palvelukuvaukset | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
+- Luottamuksellisuusotsikoiden käyttäminen Office sovelluksissa: Luottamuksellisuusmerkkien [käyttäminen Office sovelluksissa – Microsoft 365 yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- Luottamuksellisuusotsikoiden ottaminen käyttöön Office-tiedostoissa **SharePoint- ja** OneDrive:ssa: luottamuksellisuusotsikoiden ottaminen käyttöön Office-tiedostoissa SharePoint ja [OneDrive – Microsoft 365 yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
+- Luottamuksellisuusotsikoiden käyttö Microsoft **Teams:** Luottamuksellisuusotsikoiden Microsoft Teams, Microsoft 365 ryhmien ja SharePoint sivustojen kanssa [– Microsoft 365 yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
+- **Automaattinen käytä** Luottamuksellisuusmerkinnät: [Lisää luottamuksellisuusmerkintä automaattisesti sisältöihin kohteessa Microsoft 365 – Microsoft 365 yhteensopivuus | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- Luottamuksellisuusotsikoiden tunnetut ongelmat: luottamuksellisuusotsikoiden tunnetut ongelmat [Office – Office tuki (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
 
-Lisätietoja Azure Information Protection -tarroista on [Azure Information Protection (AIP) -osoitetarroissa, luokitteluissa ja suojausohjeissa| Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Lisätietoja Azure Information Protection -otsikoista on [kohdassa Azure Information Protection (AIP) -otsikot, -luokittelu ja -suojaus | Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)

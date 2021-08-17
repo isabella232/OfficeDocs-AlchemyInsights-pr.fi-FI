@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403236"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883352"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
-Voit tehdä ympäristöstäsi turvallisen Käyttämällä Microsoft Secure Scorea. Se on kuin arvopaperin luottotieto. Se kertoo, mitä toimintoja voit tehdä, mikä voi parantaa organisaatiosi suojausta.
+Voit tehdä ympäristöstäsi turvallisen käyttämällä Microsoft Secure Scorea. Se on kuin arvopaperin luottotieto. Se kertoo, mitä toimintoja voit tehdä, mikä voi parantaa organisaatiosi suojausta.
 
-1. Siirry [Office 365:n tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valitse Microsoft Secure Score -kortti tai siirry [Microsoft Secure Scoreen.](https://go.microsoft.com/fwlink/?linkid=2099589)
-    > [!TIP]
-    >  Valitse Microsoft Secure Scoren yleiskatsaus -sivulla Kehitystoiminnot, jotta saat suosituksia organisaatiosi suojaamisesta. Valitsemalla taulukossa Suodata tai Ryhmittelyn mukaan voit nopeasti tunnistaa toiminnot, jotka voivat olla parempia, jos viimeistelet ne järjestyksessä.
-1. Valitse parannustoiminto luettelosta. Näkyviin tulee pikaikkuna, joka antaa toiminnon lyhyen kuvauksen.
-1. Valitse **Näytä asetukset** ja noudata seuraavien vaiheiden **ohjeita.**
+1. Valitse Microsoft 365 Defender -portaalissa <https://security.microsoft.com> **Secure score**.
+
+   Jos haluat siirtyä suoraan **Secure score (Turvallinen pistemäärä) -sivulle,** käytä <https://security.microsoft.com/securescore>
+
+2. Ota huomioon **kaikki** organisaatiosi **suojaamista koskevat** suositukset Yleiskatsaus-välilehden Toiminnot tarkistettavaksi- ja Parhaat parannustoiminnot -osioissa. 
+
+3. Ota huomioon **Parannustoiminnot-välilehden** **Sijoituksen** **parannus** -toiminnon merkinnät, joiden Tila-arvona on **Vastaanottaja-osoite** tai **Regressed.**  Voit käyttää **suodatusta** tai **ryhmittelyä** taulukossa ja tunnistaa nopeasti toiminnot, jotka voivat olla parempia, jos viimeistelet ne järjestyksessä.
+
+4. Valitse **Kohdeosoite tai** **Regressed-kohde** Kehitystoiminnot-välilehden luettelosta.  Uusi sivu avautuu, ja siinä on täydellinen kuvaus ja **Hallinta-painike** ongelman korjaamista varten.
+
     > [!NOTE]
-    > Saat pisteitä suositeltujen suojausominaisuuksien määrittämisestä, mutta muista, että joidenkin toimintojen nimi on **[Ei pisteytetty].** Tämä tarkoittaa sitä, että vaikka toteuttat kehitystoimet, et saa pistemäärääsi pisteitä. Muussa tapauksessa *pistemäärän päivittäminen voi* kestää jopa 24 tuntia.
+    > Saat pisteitä suositeltujen suojausominaisuuksien määrittämisestä, mutta muista, että joidenkin toimintojen otsikoksi on merkitty **[Ei pistemäärää].** Tämä tarkoittaa sitä, että vaikka olisitkin soveltanut parannustoimintoa, et saa pisteitä pistemäärästäsi. Muussa *tapauksessa pistemäärän päivittäminen voi* kestää jopa 24 tuntia.
 
-Lisätietoja Microsoft Secure Scoresta on [Kohdassa Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2103077)
+Lisätietoja Microsoft Secure Scoresta on kohdassa [Microsoft Secure Score.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)
