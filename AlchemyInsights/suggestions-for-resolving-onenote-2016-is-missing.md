@@ -1,5 +1,5 @@
 ---
-title: Ehdotuksia OneNote 2016:n ratkaisemiseksi puuttuu
+title: Ehdotuksia ongelmien ratkaisuun OneNote 2016 puuttuu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: c900a64ab51ee97dd3e725a5aca172378d0cf4b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8532cbe37a5d45276b6b716ddac7c3a4f9b830b6089a3f08477150e449a0c92f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049494"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Ehdotuksia OneNote 2016:n ratkaisemiseksi puuttuu
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Ehdotuksia ongelmien ratkaisuun OneNote 2016 puuttuu
 
-Kun asennat Office 365:n tai Office 2019:n maaliskuusta 2020 alkaen, OneNote-työpöytäsovellus asennetaan Wordin, PowerPointin ja Excelin työpöytäsovellusten rinnalle.
+Kun asennat Office 365:n tai Office 2019:n maaliskuusta 2020 alkaen, OneNote-työpöytäsovellus asennetaan Wordin, PowerPoint:n ja Excel työpöytäsovellusten rinnalle.
 
-Kun olet asentanut Microsoft Office 2019:n tai Office 365:n mihin tahansa Windows 10 -versioon, OneNote 2016 näyttää puuttuvan asennettujen työpöytäsovellusten luettelosta.
+Kun olet asentanut Microsoft Office 2019:n tai Office 365:n tietokoneessa, jossa on mikä tahansa Windows 10-versio, OneNote 2016 näyttää puuttuvan asennettujen työpöytäsovellusten luettelosta.
 
-Näiden [ohjeiden avulla](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) saat lisätietoja OneNote 2016 for Windowsin 32-bittisen tai 64-bittisen version lataamista varten.
+Näiden [ohjeiden avulla](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) saat lisätietoja 32-bittisen tai 64-bittisen OneNote 2016 for Windows.

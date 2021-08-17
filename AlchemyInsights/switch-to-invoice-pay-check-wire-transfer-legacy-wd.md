@@ -1,5 +1,5 @@
 ---
-title: Maksu laskulla (sekki/pankki siirto)
+title: Vaihda maksettavaksi laskulla (sekki/tilisiirto)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: ebdb65c76837b4a31c8f6cff89223481dec1ef804275608cfd60986a4f089204
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049530"
 ---
-# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Maksu laskulla (sekki/pankki siirto)
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Vaihda maksettavaksi laskulla (sekki/tilisiirto)
 
-Ongelman kuva uksen perusteella olemme löytäneet ratkaisun. Useimmat Asiakkaat pystyivät ratkaisemaan ongelmaansa sen jälkeen, kun he ovat seuraavat asia kirjojamme.
+Ongelman kuvauksen perusteella olemme löytäneet sinulle ratkaisun. Useimmat asiakkaat pystyivät ratkaisemaan ongelmansa itse käyttöohjeiden jälkeen.
 
-Jos vaihdat maksa maan laskulla, maksat laskun 30 päivän kuluessa laskun päivä määrästä. Jos haluat, että olet oikeutettu maksa maan Azure-tilauksestasi laskulla, Lähetä pyyntö Azure-tukeen. Kun pyyntösi on hyväksytty, voit vaihtaa tila uksen lasku maksuun [Azure-portaalissa](https://portal.azure.com/).
+Jos vaihdat laskulla maksettavaksi, maksat laskun 30 päivän kuluessa laskun päivämäärästä. Jos haluat saada azure-tilauksen laskulla maksettavan maksun, lähetä pyyntö Azure-tukeen. Kun pyyntösi on hyväksytty, voit vaihtaa laskumaksun tilauksen [Azure-portaalissa.](https://portal.azure.com/)
 
-**Ennen kuin jatkat, tarkista seuraavat ehdot/rajoitukset, jotka koskevat laskun maksu tapaa:**
+**Ennen kuin jatkat eteenpäin, tarkista seuraavat laskumaksutavan pyytämisen vaatimukset/rajoitukset:**
 
-- Kirjaudu sisään [Azure Portaliin](https://portal.azure.com/) ja siirry maksu tapoihin. Tarkista, onko laskutus maksussa jo valmiiksi hyväksytty.
-- Laskun maksu on käytettävissä vain yritys tileillä, ei henkilökohtaisissa tileissä.
-- Sinun on maksettava kaikki erääntyneet maksut ennen laskun maksuun siirtymistä.
-- Tuki tiimi tarkistaa tilin määrittääkseen, onko se oikeutettu laskun maksu tilaan.
-- Laskun maksu tapaa ei voi käyttää Marketplace 3rd Party-palveluissa; Jos aiot vaihtaa nykyisen tila uksen laskuun, joka sisältää Marketplace-tai 3rd party-palveluja, nämä palvelut on poistettava ennen vaihtamista. Jos kyseessä on tuleva Marketplace-palvelu, Osta ensin erillinen tilaus luotto kortilta ja Osta tai ota Marketplacen kolmannen osapuolen palvelut.
-- Kun siirryt lasku maksuun, et voi siirtyä takaisin luotto-tai maksu kortti maksuun.
+- Kirjaudu [Azure-portaaliin](https://portal.azure.com/) ja siirry maksumenetelmiin. Tarkista, oletko jo hyväksynyt laskumaksun.
+- Laskumaksu on käytettävissä vain yritystileille, ei henkilökohtaisille tileille.
+- Sinun on maksettava kaikki avoimet maksut, ennen kuin siirryt laskumaksuun.
+- Tukitiimi tarkistaa tilistä, onko se oikeutettu maksutavaan laskulla.
+- Laskutilaa ei tueta Marketplacen kolmannen osapuolen palveluissa; jos aiot vaihtaa nykyisen tilauksen laskuksi, joka sisältää Marketplacen tai kolmansien osapuolten palveluja, nämä palvelut on poistettava ennen vaihtoa. Tulevissa Marketplace-palveluissa sinun on ensin hankittava erillinen tilaus luottokortilla ja sitten hankittava tai otettava käyttöön Marketplacen kolmannen osapuolen palvelut.
+- Kun siirryt laskumaksuun, et voi siirtyä takaisin luotto- tai debit-korttimaksuun.
 
-*Kun olet hyväksynyt maksu laskun*, voit vaihtaa Azure-tila uksen laskun maksetuksi sekillä tai pankki siirrolla  [Azure-portaalissa](https://portal.azure.com/).
-Voit tehdä sen seuraavasti:
+*Kun olet hyväksynyt laskulla maksettavan* maksun, voit vaihtaa Azure-tilauksen laskumaksuun sekin tai tilisiirron kautta  [Azure-portaalissa.](https://portal.azure.com/)
+Voit tehdä tämän näin:
 
-1. Kirjaudu sisään Azure- [portaaliin](https://portal.azure.com/)   tilin järjestelmänvalvojana. Hae ja valitse **kustannusten hallinta + laskutus**.
-2. Valitse tilaus, jonka haluat vaihtaa laskun maksuun. Valitse **Maksu tavat**.
-3. Napsauta komento palkissa **maksu laskulla** -painiketta.
+1. Kirjaudu [Azure-portaaliin](https://portal.azure.com/)   tilin järjestelmänvalvojana. Etsi ja valitse **Kustannusten hallinta + Laskutus.**
+2. Valitse tilaus, jonka haluat vaihtaa laskumaksuun. Valitse **Maksutavat.**
+3. Napsauta komentopalkissa Maksa **laskulla -painiketta.**
 
 **Suositellut asiakirjat**
 
-- [Pyydä/Lataa/Näytä Azure-laskutus lasku ja käyttö tiedot](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Azure-laskujen lähettäminen suoraan Saapuneet-kansioon](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Azure-laskutuslaskun ja käyttötietojen pyytäminen, lataaminen tai tarkasteleminen](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Azure-laskujen lähettäminen sähköpostitse suoraan Saapuneet-kansioon](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Maksaminen laskulla](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Yksityiskohtaisten käyttö maksujen ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill)
-- [Laskun termien ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Yksityiskohtaisten käyttömaksujen ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill)
+- [Laskun ehtojen ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
 - [Omistajuuden siirtäminen](https://docs.microsoft.com/azure/billing/billing-subscription-transfer)
