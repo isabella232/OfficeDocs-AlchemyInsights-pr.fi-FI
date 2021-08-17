@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070357"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882564"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Linkkikäytäntöjen Lokero Microsoft Defender for Office 365
 
-Sinulle on jo luotu Lokero Microsoft Defender for Office 365 -ohjelman linkkien oletuskäytäntö. Määritysten muuttaminen:
+1. Siirry Microsoft 365 Defender-portaalissa kohtaan <https://security.microsoft.com/> **Sähköposti- &-&** \> **sääntöjen** \> uhkien Lokero  \> **Käytännöt-osassa.** 
 
-1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Valitse **Uhkien**  >  **hallintakäytäntö**. Valitse **Käytäntö-sivulla** [Microsoft Defender for Office 365 Lokero linkit](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Valitse **Koko organisaatiota koskevat käytännöt -osassa** **Oletus** ja valitse sitten **Muokkaa-kuvake.**
-4. Määritä **Estä seuraavat URL-osoitteet -osassa** url-osoitteet, joiden avulla haluat estää organisaation käyttäjiä vierailemasta. Lisätietoja on ohjeaiheessa ["Estä seuraavat URL-osoitteet" -luettelo Lokero linkkejä.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. Valitse **Asetukset paitsi sähköpostia** koskevat asetukset -osassa (tai poista) haluamasi asetukset. (On suositeltavaa valita kaikki vaihtoehdot.)
-6. Valitse **Tallenna**.
+   Jos haluat siirtyä suoraan **Lokero-sivulle,** valitse <https://security.microsoft.com/safelinksv2> .
+
+2. Tee **Lokero-sivulla** jokin seuraavista toimista:
+   - Jos haluat lisätä uuden käytännön, valitse **+ Luo**. Ohjattu toiminto käynnistyy, jotta voit määrittää käytäntöasetukset.
+   - Jos haluat muokata aiemmin luotua käytäntöä, valitse käytäntö napsauttamalla käytännön nimeä. Valitse näyttöön tulevassa tietojen  pikaikkunassa Muokkaa siinä osassa, joka sisältää määritettävät asetukset.
+   - Jos haluat estää Lokero-osoitteita tai määrittää Lokero-sovellusten Office 365-sovellusten asetukset, valitse **Yleiset** asetukset , määritä asetukset ja valitse **sitten Tallenna**.
+
+3. Kun olet tarkistanut asetukset, valitse **Lähetä** (uusi) tai **Tallenna** (muokkaa).
+
+Lisätietoja on seuraavissa artikkeleissa:
+
+- [Linkkikäytäntöjen Lokero Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Lokero-linkkien yleisasetusten määrittäminen Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

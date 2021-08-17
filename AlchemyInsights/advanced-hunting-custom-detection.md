@@ -1,5 +1,5 @@
 ---
-title: 9001220 kehittyneen metsästämisen mukautetut tunnistimet
+title: 9001220 mukautettujen ja kehittyneen haun tunnistuksen avulla
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17bee943a0a8e607758bafa0c42bf6580b858952c447c403207bebfba9d8d243
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952282"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882792"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Kehittyneen metsästämisen mukautetut tunnistimet
 
 Opit luomaan ja hallitsemaan mukautettuja tunnistussääntöjä tarkennetun kyselyn perusteella. Mukautettujen tunnistuksen avulla voit ennakoivasti seurata eri tapahtumia ja järjestelmätapahtumia ja -toja, kuten epäiltyjä rikkomuksia ja väärin määritettyjä laitteita. Voit tehdä tämän mukautettavilla tunnistussäännöillä, jotka käynnistävät ilmoitukset ja vastaustoiminnot automaattisesti
   
 Jos käytät Microsoft Defender ATP:tä, katso lisätietoja seuraavista ohjeaiheista: 
-- [Mukautettujen tunnistuksen yleiskatsaus](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Mukautettujen tunnistussääntöjen luominen](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Mukautettujen tunnistussääntöjen tarkasteleminen ja hallinta](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+- [Mukautettujen tunnistuksen yleiskatsaus](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Mukautettujen tunnistussääntöjen luominen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Mukautettujen tunnistussääntöjen tarkasteleminen ja hallinta](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
 Jos käytät Microsoft 365 Defender, katso lisätietoja seuraavista ohjeaiheista: 
-- [Mukautettujen tunnistuksen yleiskatsaus](/microsoft-365/security/mtp/custom-detections-overview)
-- [Mukautettujen tunnistussääntöjen luominen ja hallinta](/microsoft-365/security/mtp/custom-detection-rules)
+- [Mukautettujen tunnistuksen yleiskatsaus](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
+- [Mukautettujen tunnistussääntöjen luominen ja hallinta](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

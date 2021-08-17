@@ -1,5 +1,5 @@
 ---
-title: Windowsin Näennäistyöpöytä-palvelun diagnostiikka työkalu
+title: Palvelun vianmääritystyökalu Windows virtuaalityöpöydälle
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052383"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Windowsin Näennäistyöpöytä-palvelun diagnostiikka työkalu
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Palvelun vianmääritystyökalu Windows virtuaalityöpöydälle
 
-Windowsin Näennäistyöpöytä (WVD) tarjoaa diagnostiikka työkalun, jonka avulla järjestelmänvalvojat tunnistavat virheet yksittäisen liittymän kautta. Tämä työkalu kirjaa diagnostiikkaan liittyviä tietoja aina, kun WVD käyttää WVD-roolia. Jokainen loki sisältää tietoja toiminnon WVD-roolista, istunnon aikana ilmestymis virhe sanomista sekä vuokra ajan ja käyttäjän tiedoista. Azure log Analyticsin voi määrittää tallentamaan diagnostiikka työkalun luoman toiminta loki tiedot. Toimi seuraavasti:
+Windows Virtual Desktop (WVD) on diagnostiikkatyökalu, jonka avulla järjestelmänvalvojat voivat tunnistaa virheitä yhden liittymän kautta. Tämä työkalu kirjaa diagnostiikkaan liittyvät tiedot aina, kun WVD:lle on määritetty WVD-rooli. Jokainen loki sisältää tietoja toiminnon WVD-roolista, istunnon aikana näkyviin tulemista virhesanomista sekä vuokraajan ja käyttäjän tiedot. Azure Log Analytics voidaan määrittää sieppaamaan vianmääritystyökalun luoma toimintaloki. Toimi seuraavasti:
 
-1. Luo loki analytiikka-työtila [Azure-portaalissa](https://go.microsoft.com/fwlink/?linkid=2129500) tai [Azure PowerShellissä](https://go.microsoft.com/fwlink/?linkid=2129501).
-1. [Yhdistä Windows-tieto koneet Azure Monitoreen](https://go.microsoft.com/fwlink/?linkid=2129913). Hanki työtilan tunnus ja työtilan perusavain. Ohjattu määritys toiminto tarvitsee näitä tietoja, jotta agentti voidaan määrittää oikein ja jotta se voi kommunikoida Azure monitorissa.
-1. [Paina diagnostiikan tiedot työtilaan](https://go.microsoft.com/fwlink/?linkid=2128284). Voit siirtää diagnostiikan tietoja WVD-vuokra ajasta työtilan loki analytiikkaan.
-1. [Tunnista ja diagnosoimaan ongelmia](https://go.microsoft.com/fwlink/?linkid=2128338) , jotka ovat sisäisiä tai ulkoisia suhteessa WVD.
+1. Luo Lokianalyysi-työtila [Azure-portaalin tai](https://go.microsoft.com/fwlink/?linkid=2129500) [Azure PowerShellin avulla.](https://go.microsoft.com/fwlink/?linkid=2129501)
+1. [Näyttöyhteys Windows Azure Monitoriin.](https://go.microsoft.com/fwlink/?linkid=2129913) Hanki työtilan tunnus ja perusavain. Ohjattu määritystoiminto tarvitsee näitä tietoja, jotta agentti voidaan määrittää oikein ja jotta se voi viestiä Azure Monitorin kanssa.
+1. [Push diagnostiikkatiedot työtilaan.](https://go.microsoft.com/fwlink/?linkid=2128284) Voit käyttää diagnostiikkatietoja WVD-vuokraajassa työtilan lokianalyysiin.
+1. [Tunnista ja diagnosoi](https://go.microsoft.com/fwlink/?linkid=2128338) ongelmia, jotka ovat sisäisiä tai ulkoisia WVD:tä varten.
 
-Lisä tietoja WVD-palvelun vian määritys työkalun määrittämisestä on artikkelissa [loki analyysin käyttäminen Diagnostiikka-toimintoa varten](https://go.microsoft.com/fwlink/?linkid=2128084).
+Lisätietoja WVD:n palvelun diagnostiikkatyökalun määrittämisestä on kohdassa [Lokianalyysin käyttäminen vianmääritystoimintoa varten.](https://go.microsoft.com/fwlink/?linkid=2128084)

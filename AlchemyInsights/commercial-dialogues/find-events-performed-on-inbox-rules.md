@@ -1,5 +1,5 @@
 ---
-title: Saapuneet-kansion säännöille suoritettujen tapahtumien etsiminen
+title: Saapuneet-kansion sääntöjen tapahtumien etsiminen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: deb83d278a2b398b4ea6fc31b043c33309b736e3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481718"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882632"
 ---
-# <a name="find-events-performed-on-inbox-rules"></a>Saapuneet-kansion säännöille suoritettujen tapahtumien etsiminen
+# <a name="find-events-performed-on-inbox-rules"></a>Saapuneet-kansion sääntöjen tapahtumien etsiminen
 
-Kun Saapuneet-kansion sääntöjä luodaan, muutetaan tai poistetaan, tapahtumat tallennetaan valvontalokiin. Voit tarkistaa ne näin:
+Kun Saapuneet-kansion sääntöjä luodaan, muutetaan tai poistetaan, tapahtumat tallennetaan valvontalokiin. Voit tarkastella niitä näin:
 
-1. Siirry [Office 365:n tietoturva- & yhteensopivuuskeskukseen.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Valitse > valvontalokihaku.
+1. Tee jokin seuraavista:
+   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> :ssä Ratkaisujen  \> **valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://compliance.microsoft.com/auditlogsearch> -
+   - Valitse Microsoft 365 Defender -portaalissa <https://security.microsoft.com> **Valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://security.microsoft.com/auditlogsearch> -
 
     > [!NOTE]
-    > Jos näet ilmoituksen, että valvonta on syytä ottaa käyttöön, ota se käyttöön nyt. Jos tätä ominaisuutta ei ole otettu käyttöön, hakutulokset eivät voi hakea tietoja aiemmista päivämääristä.
-1. Valitse Toiminnot-kenttä, etsi Exchange-postilaatikon toiminnot ja valitse sitten New-InboxRule luo Saapuneet-kansion sääntö Outlook Web Appista. Kun olet valmis, pienennä Toiminnot-ruutu napsauttamalla ruudun ulkopuolella.
-1. Määritä päivämääräalue ja valitse sitten Käyttäjät-kentässä sen käyttäjän käyttäjänimi, jonka haluat tutkia. Voit valita useamman kuin yhden käyttäjän kerrallaan.
-1. Valitse Hae. Toiminnot näkyvät Tulokset-kohdassa.
-1. Voit tarkastella tietoja valitsemalla aktiviteetin ja valitsemalla sitten Lisätietoja. Parametrit-osassa näet säännön nimen, ehdot ja säännön toiminnot.
+    > Jos huomaat, että valvonta on syytä ottaa käyttöön, ota se käyttöön nyt. Jos tämä toiminto ei ole käytössä, hakutulokset eivät voi hakea tietoja aiemmista päivämääristä.
 
-Lisätietoja on ohjeaiheessa Office 365:n valvontalokista etsiminen yleisimpiä skenaarioita varten.
+2. Määritä **Valvonta-sivun** **Haku-välilehdessä** seuraavat asetukset:
+   - **Päivämäärä- ja aikaalue:** Valitse päivämäärä-/aika-alue Aloitus- ja **Lopetus-ruuduista.** 
+   - **Toiminnot:** Valitse **Uusi Saapuneet-kansioRule Luo Saapuneet-kansion sääntö Outlook Web App**
+
+3. Kun olet valmis, valitse **Hae**. Toiminnot näkyvät uudella **Valvontahaku-sivulla.**
+
+4. Avaa tietojen pikaikkuna valitsemalla toiminto tuloksista. **Parametrit-osassa** näet säännön nimen, ehdot ja säännön toiminnot.
+
+Lisätietoja on kohdassa [Valvontalokista etsiminen ja yleisimmät tukiongelmat.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
