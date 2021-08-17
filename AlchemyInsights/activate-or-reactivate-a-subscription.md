@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 0fd0eab942a07fdf4e01eb5b4a45dd1035b490bb4ef265e57c28701e93eb3c11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937890"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889379"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Tilauksen aktivoiminen tai uudelleenaktivoiminen
 
 **Tilauksen aktivointi**
 
-- Jos haluat antaa käyttäjille käyttöoikeuden palveluun, määritä heille käyttöoikeus. Lisätietoja on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille.](/microsoft-365/admin/manage/assign-licenses-to-users)
+- Jos haluat antaa käyttäjille käyttöoikeuden palveluun, määritä heille käyttöoikeus. Lisätietoja on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Jos sinulle on jo määritetty käyttöoikeus, voit etsiä sovelluksia, jotka voit ladata Oma tili [-sivulta.](https://portal.office.com/account/#installs) Tällä sivulla on luettelo ladattavissa olevista sovelluksista määritettyjen käyttöoikeuksien perusteella.
-- Jos olet jo ladannut Office sovellukset, sinun on ehkä kirjauduttava sisään sovelluksiin työ- tai koulutililläsi. Voit tehdä tämän missä tahansa Office (Word, Excel jne.) valitsemalla Tiedosto   >  **Office tili** (alareunassa). Valitse **Käyttäjätiedot-kohdassa** **Vaihda tiliä**. Lisätietoja on kohdassa Office [asentaminen.](/microsoft-365/admin/setup/install-applications)
+- Jos olet jo ladannut Office, sinun on ehkä kirjauduttava sovelluksiin työ- tai koulutililläsi. Voit tehdä tämän missä tahansa Office (Word, Excel jne.) valitsemalla Tiedosto   >  **Office tili** (alareunassa). Valitse **Käyttäjätiedot-kohdassa** **Vaihda tiliä**. Lisätietoja on kohdassa Office [asentaminen.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Tilauksen uudelleenaktivointi**
 
@@ -41,9 +41,9 @@ Jos tilauksesi päättyy, Microsoft on poistanut sen käytöstä tai olet peruut
 4. Valitse **Aktivoi tämä tilaus uudelleen** -ruudussa olemassa oleva maksutapa tai valitse **Lisää maksutapa**.
 5. Valitse **Aktivoi uudelleen**.
 
-Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Uuden tilauksen aktivoiminen tuoteavaimen avulla**
 
-1. Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso [Office tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
-2. Anna Microsoft 365 -tuoteavain ja aktivoi tilaus seuraamalla ohjeita. Jos aktivoinnissa ilmenee ongelmia, katso lisätietoja tästä tuoteavainvirheiden ja -ratkaisujen [luettelosta.](/microsoft-365/commerce/product-key-errors-and-solutions)
+1. Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso Office [tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+2. Anna Microsoft 365 -tuoteavain ja aktivoi tilaus seuraamalla ohjeita. Jos aktivoinnissa ilmenee ongelmia, katso lisätietoja tästä tuoteavainvirheiden ja -ratkaisujen [luettelosta.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

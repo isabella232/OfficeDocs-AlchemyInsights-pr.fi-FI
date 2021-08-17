@@ -1,5 +1,5 @@
 ---
-title: Jaetun postilaatikon tai kalenterin ongelma Outlook for Macissa?
+title: Jaetun postilaatikon tai kalenterin ongelma Outlook for Mac?
 ms.author: supravee
 author: supravee
 manager: jackiesm
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: a53a79a2da13c9c3f9c2a8509d157e4b244a068d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 520137fe1e7de1c7da3be1684006c4211baebf76786dc2e1dea7acc91f82cc7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108193"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Jaetun postilaatikon tai kalenterin ongelma Outlook for Macissa?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Jaetun postilaatikon tai kalenterin ongelma Outlook for Mac?
 
-Voimme auttaa sinua nopeammin, jos otat meihin yhteyttä suoraan sovelluksesta. **Siirry käyttäjän Mac-tietokoneeseen, avaa Outlook ja valitse Ohje \> Ota yhteyttä tukeen.** 
+Voimme auttaa sinua nopeammin, jos otat meihin yhteyttä suoraan sovelluksesta. **Siirry käyttäjän Mac-tietokoneelle, avaa Outlook ja valitse Ohje \> Ota yhteyttä tukeen.** 
   
-Lisätietoja Outlook for Macin sovellustuen käyttämisestä on tässä artikkelissa: [Outlook 2016 for Macin](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517) uusi ota yhteyttä tukeen -toiminto
+Lisätietoja sovelluksen Outlook for Mac käyttämisestä on tässä artikkelissa: Uusi Ota yhteyttä tukeen [-ominaisuus Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

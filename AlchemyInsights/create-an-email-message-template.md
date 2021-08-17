@@ -1,5 +1,5 @@
 ---
-title: Sähkö posti viestin mallin luominen
+title: Sähköpostiviestin mallin luominen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080563"
 ---
-# <a name="create-an-email-message-template"></a>Sähkö posti viestin mallin luominen
+# <a name="create-an-email-message-template"></a>Sähköpostiviestin mallin luominen
 
-Sähkö posti viesti mallin luominen:
+Sähköpostiviestin mallin luominen:
 
-1. Valitse Outlookin työpöydän **Aloitus** -väli lehden **Uusi-ryhmästä** **Uusi Sähkö posti viesti**.
+1. Valitse **aloitussivun** Outlook-välilehden **Uusi ryhmä**-kohdassa **Uusi sähköpostiviesti**.
 
-    Voit luoda sähkö posti viestin näppäin yhdistelmällä CTRL + VAIHTO + M.
+    Sähköpostiviestin luominen näppäinoikotienä on CTRL+VAIHTO+M.
 
-2. Kirjoita haluamasi sisältö viestin teksti osaan.
-3. Valitse viesti-ikkunassa **tiedosto** -väli lehti.
-4. Valitse **Tallenna nimellä**.
-5. Valitse **Tallenna nimellä** -valinta ikkunan **tallennus muoto** -luettelosta **Outlook-malli**.
-6. Kirjoita **tiedoston nimi-** ruutuun mallin nimi ja valitse sitten **Tallenna**.
+2. Kirjoita viestin tekstiosaan haluamasi sisältö.
+3. Valitse viesti-ikkunassa **Tiedosto-välilehti.**
+4. Valitse **Tallenna nimellä.**
+5. Valitse **Tallenna nimellä** -valintaikkunan **Tallennustyyppi-luettelosta** Tallenna **Outlook malli**.
+6. Kirjoita **Mallin nimi** Tiedostonimi-ruutuun ja valitse **Tallenna.**
 
-Oletus mallit tallennetaan seuraavaan sijaintiin:
+Mallit tallennetaan oletusarvoisesti seuraavaan sijaintiin:
 
-**c: Users \ käyttäjänimi \ AppData \ roaming\microsoft\templates**
+**c:\users\käyttäjänimi\appdata\roaming\microsoft\templates**

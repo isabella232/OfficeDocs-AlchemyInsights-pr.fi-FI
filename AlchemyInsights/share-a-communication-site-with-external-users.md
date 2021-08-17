@@ -1,5 +1,5 @@
 ---
-title: Viestintä sivuston jakaminen ulkoisille käyttäjille
+title: Viestintäsivuston jakaminen ulkoisten käyttäjien kanssa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108301"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Viestintä sivuston jakaminen ulkoisille käyttäjille
+# <a name="share-a-communication-site-with-external-users"></a>Viestintäsivuston jakaminen ulkoisten käyttäjien kanssa
 
-Jos haluat ottaa käyttöön ulkoiseen käyttäjä jakoon liittyvät viestintä sivustot, toimi seuraavasti: 
+Voit ottaa ulkoisen käyttäjän jakamisen käyttöön viestintäsivustoissa seuraavasti: 
   
-1. Avaa **moderni hallinta keskus** -jos olet perinteisessä hallinta keskuksessa, **kokeile sitä nyt** tai * * kokeile Esikatselu * *-painiketta oikeassa yläkulmassa. Tämä vie sinut moderniin hallinta keskukseen. 
+1. Avaa **moderni hallintakeskus** – Jos olet perinteisessä hallintakeskuksessa,  näet Kokeile nyt -painikkeet tai ** Kokeile esikatselupainiketta ** oikeassa yläkulmassa. Tämä vie sinut moderniin hallintakeskukseen. 
   
 2. Valitse **Aktiiviset sivustot.**
   
-3. Valitse sivusto, jossa on **viestintäsivustomalli**. 
+3. Valitse sivusto, jossa on **Viestintäsivusto-malli**. 
   
-4. Valitse **jakamis** painike ylävalikosta. 
+4. Valitse **Yläreunan** valikosta Jakaminen-painike. 
   
- **Huomautus:** Jos useampi kuin yksi sivusto on valittuna, **jakamis** painike näkyy poissa käytöstä. Valitse vain yksi sivusto. 
+ **Huomautus:** Jos olet valinnut useamman kuin yhden sivuston, **Jakaminen-painike näkyy** poissa käytöstä. Valitse vain yksi sivusto. 
   
 
