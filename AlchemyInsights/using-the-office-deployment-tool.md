@@ -1,5 +1,5 @@
 ---
-title: Officen käyttöönotto työkalun käyttäminen
+title: Käyttöönottotyökalun Office käyttäminen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083767"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Officen käyttöönotto työkalun (ODT) käyttäminen
+# <a name="using-the-office-deployment-tool-odt"></a>Office käyttöönottotyökalun (ODT) käyttäminen
 
-Käytät Officen käyttöönotto työkalua (ODT) Office 365-versioiden käyttöönottoon. Officen käyttöönotto työkalu (setupodt.exe) suoritetaan komento riviltä, ja sen avulla määritetään, mitkä asetukset otetaan käyttöön Officen käyttöönoton yhteydessä.
+Voit ottaa Office (ODT) -työkalulla käyttöön Office 365 versioista Office. Office käyttöönottotyökalu (setup.exe) suoritetaan komentoriviltä ja sen avulla määritetään XML-määritystiedostoa ottamalla käyttöön Office.
   
-1. Lataa Officen käyttöönotto työkalun uusin versio [Microsoft Download Centeristä](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Lataa Office-käyttöönottotyökalun uusin versio Microsoft [Download Centeristä.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. Voit valita käyttöönoton asetukset ja luoda määrityksen XML-tiedoston [Officen mukautus työkalun (OCT)](https://config.office.com) avulla. Vie määritys tiedosto ja sijoita se paikallisesti samaan kansioon, jossa setupodt.exe sijaitsee.
+2. Valitse [käyttöönottoasetukset Office mukauttamistyökalun (OCT)](https://config.office.com) avulla ja luo xml-määritystiedosto. Vie määritystiedosto ja sijoita se paikallisesti samaan kansioon, jossa setup.exe sijaitsee.
 
-    **Huomautus:** Officen asennus ongelmat tapahtuvat yleensä väärin käytettyjen määritys tiedostojen vuoksi. Jos haluat välttää tällaiset ongelmat, suosittelemme, että luot määritys tiedoston Officen mukautus työkalun avulla. Voit myös tuoda aiemmin luotuja määritys tiedostoja Officen mukautus työkaluun.
+    **Huomautus:** Office asennusongelmia ilmenee yleisesti virheellisesti määritettyjen tai väärin muotoiltujen määritystiedostojen vuoksi. Tällaisten ongelmien välttämiseksi suosittelemme, että luot määritystiedoston Office mukautustyökalulla. Voit myös tuoda aiemmin luotuja määritystiedostoja Office mukauttamistyökaluun.
 
-3. Siirry laajennetussa komento kehotteessa sijaintiin, jossa setupodt.exe sijaitsee, ja suorita Officen käyttöönotto työkalu lataus tilassa ja määritä juuri tallentamasi määritys tiedosto. Tässä esimerkissä määritys tiedoston nimi on Configuration.xml:
+3. Siirry järjestelmänvalvojan oikeuksin suoritettavasta komentokehotteesta sijaintiin, jossa setup.exe sijaitsee, suorita Office-käyttöönottotyökalu lataustilassa ja määritä juuri tallennettu määritystiedosto. Tässä esimerkissä määritystiedoston nimi on Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. Suorita Officen käyttöönotto työkalu Määritä-tilassa ja määritä määritys tiedosto.
+4.Suorita Office-käyttöönottotyökalu määritystilassa ja määritä määritystiedosto.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Huomautus:** Sinun on suoritettava tämä vaihe asiakas tieto koneesta, johon haluat asentaa Officen, ja sinulla on oltava paikallisen Järjestelmänvalvoja-oikeudet kyseisessä tieto koneessa.
+**Huomautus:** Tämä vaihe on suoritettava sen asiakastietokoneen kautta, johon haluat asentaa Office ja sinulla on oltava paikallisen järjestelmänvalvojan oikeudet tähän tietokoneeseen.
 
-Lisä tietoja Officen käyttöönotto työkalun käyttämisestä Microsoft 365-sovelluksissa yritys käyttöönoton skenaarioissa on artikkelissa [yleistä Office-käyttöönotto työkalusta](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Lisä tietoja Officen mukautus työkalun käyttämisestä on Ohje aiheessa [Officen mukautus työkalun yleiskatsaus](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Lisätietoja Office käyttöönottotyökalun käyttämisestä Microsoft 365 -sovellukset suuryrityksille käyttöönottoskenaarioissa on ohjeaiheessa Yleistä [Office käyttöönottotyökalusta.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Lisätietoja mukautustyökalun Office on kohdassa Office [yleiskatsaus.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

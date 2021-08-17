@@ -13,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891676"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312684"
 ---
 # <a name="alert-policies"></a>Ilmoituskäytännöt
 
@@ -26,13 +26,13 @@ Microsoft 365 sisältää oletusilmoituskäytäntöjä, jotka käynnistävät il
 
 - Luo Saapuneet-kansion sääntöjä, jotka välittämään sähköpostia.
 - Määrittää postilaatikon käyttöoikeudet.
-- Jaa tai poista suuri määrä tiedostoja SharePoint jakamisen avulla.
+- Voit jakaa tai poistaa suuren määrän tiedostoja SharePoint jakamisen avulla.
 - Luo eDiscovery-hakuja ja vie hakutuloksia.
 
 Ilmoituksen tarkistaminen ja sen perusteella toimiminen:
 
 1. Tee jokin seuraavista toimista:
-   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> -ssa **Ilmoitukset**. Jos haluat siirtyä suoraan **Ilmoitukset-sivulle,** valitse <https://compliance.microsoft.com/compliancealerts> .
+   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> -ssa . Jos haluat siirtyä suoraan **Ilmoitukset-sivulle,** valitse <https://compliance.microsoft.com/compliancealerts> .
    - Valitse Microsoft 365 Defender -portaalissa <https://security.microsoft.com> Tapaukset **&** \> **ilmoitukset**. Jos haluat siirtyä suoraan **Ilmoitukset-sivulle,** valitse <https://security.microsoft.com/alerts> .
 2. Napsauttamalla ilmoitusta saat näkyviin pikaikkunasivun, jossa on tietoja hälytyksestä.
 

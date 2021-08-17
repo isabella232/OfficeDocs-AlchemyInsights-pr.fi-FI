@@ -1,5 +1,5 @@
 ---
-title: '1800019: n keskitetty Saapuneet-kansio Outlookissa'
+title: 1800019 Saapuneet-kansio Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117013"
 ---
-# <a name="focused-inbox-in-outlook"></a>Outlookin kohdennettu Saapuneet-kansio
+# <a name="focused-inbox-in-outlook"></a>Focused Inbox in Outlook
 
-Kohdennettu Saapuneet-kansio erottaa Saapuneet-kansion kahteen väli lehteen, jotka ovat keskittyneet ja muut. Tärkeimmät viestisi ovat keskittyneet-väli lehdessä, kun taas loput ovat helposti käytettävissä – mutta poissa tieltä – toisella väli lehdellä.
+Saapuneet-kansio on jaettu kahteen välilehteen – Focused ja Other. Tärkeimmät viestit ovat Tärkeät-välilehdessä, ja muut ovat helposti käytettävissä – mutta poissa tieltä – Muut-välilehdessä.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlookin verkko](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  versio [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Windows 10-Sähkö posti](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlookin verkkoversio](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Sähköpostin Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-Opi lisää:
+Lisätietoja:
   
-- [Näytä kohdennettu Saapuneet-kansio toiminnossa](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Katso Keskitetty Saapuneet-kansio toiminnassa](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Kaikkien organisaation käyttäjien Kohdenneten Saapuneet-kansion määrittäminen PowerShellin avulla](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Focused Inboxin määrittäminen kaikille organisaation käyttäjille PowerShellin avulla](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

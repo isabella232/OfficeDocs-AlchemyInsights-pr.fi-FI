@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 1fbde50cc77b4ef05c19c8557e3a41b561d1a73043c239eadb0f18a34af5d639
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950257"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893952"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Peruutetaanko Microsoft 365 tilaus?
 
@@ -33,4 +33,4 @@ Organisaatiosi tietojen perusteella uskomme, että kaikilla nykyisillä tilauksi
 
 **Hyvitys:** Kaikki jaetut hyvitykset palautetaan sinulle seuraavalla laskutusjaksolla.
 
-Lisätietoja on kohdassa [Tilauksen peruuttaminen.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Lisätietoja on kohdassa [Tilauksen peruuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

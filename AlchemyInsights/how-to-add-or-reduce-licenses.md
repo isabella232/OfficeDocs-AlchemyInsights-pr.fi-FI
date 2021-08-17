@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501813"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892192"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Tilauksen käyttöoikeuksien lisääminen tai poistaminen
 
@@ -29,13 +29,13 @@ ms.locfileid: "54501813"
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Etsi **Tuotteet-välilehdessä** tilaus, jonka käyttöoikeuksia haluat ostaa tai poistaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Osta käyttöoikeuksia**.
 3. Jos haluat vähentää käyttöoikeuksien määrää, valitse Osta  käyttöoikeuksia -ruudun yläreunassa **Poista käyttöoikeudet**.
-4. Osta tai poista käyttöoikeuksia  kirjoittamalla  Uusi määrä Käyttöoikeuksia yhteensä -ruutuun tämän tilauksen käyttöoikeuksien kokonaismäärä. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat lisätä vielä 25 lisää, kirjoita 125. Jos haluat poistaa 25 käyttöoikeutta, kirjoita 75.
+4. Osta tai poista käyttöoikeuksia  kirjoittamalla  Uusi määrä Käyttöoikeuksia yhteensä -ruutuun tämän tilauksen käyttöoikeuksien kokonaismäärä. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat lisätä vielä 25 käyttöoikeutta, kirjoita 125. Jos haluat poistaa 25 käyttöoikeutta, kirjoita 75.
 5. Valitse **Tallenna**.
 
-Lisätietoja käyttöoikeuksien määrittämisestä on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Lisätietoja käyttöoikeuksien määrittämisestä on kohdassa [Käyttöoikeuksien määrittäminen käyttäjille.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Resurssit**
   
-- [Käyttöoikeuksien ostaminen tai poistaminen](/microsoft-365/commerce/licenses/buy-licenses)
-- [Yritys Microsoft 365 peruuttaminen](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Microsoft 365 for Business -tilauksen kokeileminen tai ostaminen](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Käyttöoikeuksien ostaminen tai poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Business Microsoft 365 n tilauksen peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Microsoft 365 for Business -tilauksen kokeileminen tai ostaminen](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

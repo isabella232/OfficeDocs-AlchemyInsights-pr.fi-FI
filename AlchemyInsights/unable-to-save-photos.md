@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 6583ea94b1169249571f57051c569ad3371edd72
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 53cb5b223536cee2fbd5c896f38ed8d1938d615200f9151170070422da229448
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52897291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091698"
 ---
 # <a name="unable-to-save-user-photos"></a>Käyttäjän valokuvien tallentaminen ei onnistu
 
-Järjestelmänvalvojat eivät voi ladata ja tallentaa käyttäjien valokuvia Microsoft 365 hallintakeskuksessa.
+Järjestelmänvalvojat eivät voi ladata ja tallentaa käyttäjän valokuvia Microsoft 365 -hallintakeskus.
 
 Lisätietoja on kohdassa [M0260481 -palvelun kuntotiedote.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth/advisories/:/alerts/MO260481)
