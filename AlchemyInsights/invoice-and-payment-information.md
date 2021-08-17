@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502605"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892124"
 ---
 # <a name="invoice-and-payment-information"></a>Lasku- ja maksutiedot
 
 **Maksaminen**
 
-Kun ostat Microsoft 365 for Business -tilauksen suoraan Microsoftilta, voit maksaa sen luotto- tai debit-kortilla.  Joissakin maissa tai joillakin alueilla voit maksaa myös pankkitilillä.  Voit opetella hallitsemaan ja vianmääritykseen liittyviä maksutapoja [maksutapojen hallinta -ohjeilla.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Tämä sisältää ongelmien ratkaisemisen luottokortin hylkäämisen yhteydessä ja maksutietojen päivittämisen.
+Kun ostat Microsoft 365 for Business -tilauksen suoraan Microsoftilta, voit maksaa sen luotto- tai debit-kortilla.  Joissakin maissa tai joillakin alueilla voit maksaa myös pankkitilillä.  Voit opetella hallitsemaan ja vianmääritykseen liittyviä maksutapoja [maksutapojen hallinta -ohjeilla.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Tämä sisältää ongelmien ratkaisemisen, kun luottokorttisi on hylätty, ja päivittämällä maksutiedot.
 
 **Lasku/lasku**
 
@@ -37,4 +37,4 @@ Voit etsiä ja ladata laskusi   >  [Laskutuslaskut-& maksusivulta.](https://go.m
 
 Laskut luodaan kuukausittain tai vuosittain oston yhteydessä valitun laskutusvälin mukaan.  Jos maksat vuosittain, saatat saada laskun kesken maksuvälin, kun lisäät tai poistat käyttöoikeuksia tilauksesta.
 
-- Lisätietoja on kohdassa [Yritysasiamiesi laskun Microsoft 365.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Lisätietoja on kohdassa [Yritysasiamiesi Microsoft 365 ymmärtäminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
