@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: e14be7908c5b44302ab3e90149c2027f77c5873ad610cb42cdff4e022c4409c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce6ef3c408456cdcd2a8627294508c703212d33d5fd97631e1529e3f05e91bdc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500337"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894736"
 ---
 # <a name="assign-power-bi-to-users"></a>Power BI -määritys käyttäjille
 
@@ -33,4 +33,4 @@ Power BI voidaan määrittää käyttäjille **Microsoft 365 -hallintakeskuksess
 5. Napsauta **Sovellusten ja palveluiden käyttöönotto tai poistaminen käytöstä** määritystä tai poistamista varten.
 6. Valitse **Määritä** ja **Sulje**.
 
-Jos haluat ostaa lisää tai poistaa käyttöoikeuksia, katso [Käyttöoikeuksien ostaminen ja poistaminen](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Jos haluat ostaa lisää tai poistaa käyttöoikeuksia, katso [Käyttöoikeuksien ostaminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

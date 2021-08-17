@@ -1,5 +1,5 @@
 ---
-title: Roska postin ja roska posti viestien käsitteleminen Outlook.com
+title: Roskapostin käsittely Outlook.comissa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,35 +12,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: c894da50d74f6d238be65ce74094257f9bd631de5ce579d1aaa511292c2523e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111361"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Roska postin ja roska postin Outlook.com
+# <a name="spam-and-junk-email-in-outlookcom"></a>Roskaposti Outlook.com
 
-Jos saat liian paljon roska postia, kokeile seuraavia menetelmiä:
+Jos saat liikaa roskapostia, kokeile seuraavia keinoja:
 
-1. **Sähkö posti viestin merkitseminen roska postiksi**
+1. **Sähköpostiviestin merkitseminen roskapostiksi**
     1. Valitse viesti.
-    1. **Junk**  >  **Junk** Siirrä viesti roska posti-kansioon valitsemalla roska postit.
-    1. [Lue lisää siitä, miten roska posti viestit ja roska postit säilytetään Saapuneet-kansiostasi.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Siirrä   >  **viesti** Roskaposti-kansioon valitsemalla Roskaposti.
+    1. [Lue lisää siitä, miten voit pitää roskapostin poissa Saapuneet-kansiosta.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Lähettäjän estäminen Saapuneet-kansiosta**
     1. Valitse viesti.
-    1. Valitse **roska posti**  >  **lohko**  >  **OK**.
-    1. [Lisä tietoja lähettäjien estämisestä tai eston poistamisesta.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Valitse   >  **Roskapostilohko**  >  **OK.**
+    1. [Lue lisää lähettäjien estämisestä ja eston purkasta.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Lähettäjän lisääminen estettyjen lähettäjien luetteloon**
-    1. Avaa [roska posti asetukset](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. Valitse **estettyjen lähettäjien ja toimi alueiden**kohdalla **Lisää**.
-    1. Kirjoita Sähkö posti osoite tai toimi alue, jonka haluat estää, ja paina ENTER-näppäintä.
-    1. Valitse **suodattimissa**jos haluat luottaa sähkö postiin osoitteista, jotka ovat Turvalliset lähettäjät-ja toimi alueet-ja turvalliset postitus luettelot-kohdissa.
+    1. Avaa [roskapostiasetukset](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. Valitse **Estetyt lähettäjät ja toimialueet**-kohdassa **Lisää**.
+    1. Kirjoita sähköpostiosoite tai toimialue, jonka haluat estää, ja paina Enter-näppäintä.
+    1. Valitse **Suodattimet-kohdassa,** haluatko luottaa sähköpostiosoitteista, jotka ovat peräisin Lokero ja toimialueista Lokero postitusluetteloista.
     1. Valitse **Tallenna**.
 
 1. **Saapuneet-kansion säännön luominen**
-    1. Napsauta viesti luettelossa olevaa viestiä hiiren kakkos painikkeella ja valitse **Luo sääntö**.
-    1. Valitse kansio, johon haluat siirtää kaikki kyseisen lähettäjän viestit, ja valitse **OK**  >  **OK**.
-    1. [Lisä tietoja Saapuneet-kansion säännöistä on osoitteessa Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Napsauta viestiä viestiluettelossa hiiren kakkospainikkeella ja valitse **Luo sääntö**.
+    1. Valitse kansio, johon haluat siirtää kaikki lähettäjän viestit, ja valitse **OK**  >  **OK.**
+    1. [Lisätietoja Saapuneet-kansion säännöistä Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
