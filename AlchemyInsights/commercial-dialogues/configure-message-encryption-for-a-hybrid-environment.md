@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745403"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035219"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>Viestin salauksen määrittäminen yhdistelmäympäristössä
 
-Exchange-yhdistelmäympäristöissä paikallinen käyttäjä voi lähettää salattua sähköpostia Office Message Encryption (OME) -salauksella vain, jos sähköposti reititetaan Exchange Onlinen kautta.
+Yhdistelmäympäristöissä Exchange käyttäjät voivat lähettää salattua sähköpostia Office-salauksella (OME) vain, jos sähköposti reititetaan Exchange Online.
 
-Voit salata sähköpostiviestit OME:n avulla seuraavasti:
+Jos haluat salata sähköpostiviestit OME:n avulla, toimi seuraavasti:
 
 1. Määritä [yhdistelmäympäristö ohjatun](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) yhdistelmäympäristön määritystoiminnon avulla. Salauksen määrittämiseen ei tarvita erityisiä vaiheita.
 2. [Määritä postinkulkusäännöt salausta](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) varten normaaliin tapaan.
