@@ -1,5 +1,5 @@
 ---
-title: Kirjautuminen sisään tai ulos Outlook.com
+title: Kirjautuminen sisään tai ulos Outlook.comista
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042915"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Kirjautuminen sisään tai ulos Outlook.com
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Kirjautuminen sisään tai ulos Outlook.comista
 
-Jos et voi kirja utua sisään Outlook.com-, Hotmail-, Live-tai MSN-Sähkö posti tiliin tai et ole varma, miten kirja udut sisään tai ulos, [tässä on joitakin ratkaisuja](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Jos et voi kirjautua Outlook.com-, Hotmail-, Live- tai MSN-sähköpostitiliisi tai et ole varma, miten voit kirjautua sisään tai ulos, seuraavassa on joitakin [ratkaisuja.](https://go.microsoft.com/fwlink/p/?linkid=2005840)
   
-Jos sisäänkirjautumisessa ilmenee edelleen ongelmia, Katso lisä tietoja artikkelista [kun kirjautuminen Microsoft-tiliin ei onnistu](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Jos sinulla on edelleen kirjautumisongelmia, katso [lisätietoja ohjeesta Kun et voi kirjautua Microsoft-tiliisi.](https://go.microsoft.com/fwlink/p/?linkid=837479)

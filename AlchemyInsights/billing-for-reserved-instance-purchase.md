@@ -1,5 +1,5 @@
 ---
-title: Varatun esiintymän oston laskutus
+title: Laskutus varatun esiintymän ostosta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,64 +12,64 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104017"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Varatun esiintymän oston laskutus
+# <a name="billing-for-reserved-instance-purchase"></a>Laskutus varatun esiintymän ostosta
 
-Varatun esiintymän osto veloitetaan maksutavalla, joka on sidottu ostohetkellä valitsemaani tilaukseen. Tilaustyypin on oltava enterprise agreement (offer number: MS-AZR-0017P), Pay-As-You-Go (offer number: MS-AZR-0003P), Microsoft Customer Agreement tai CSP.
+Varatun esiintymän hankinta veloitetaan tilaukseen sidottuna olevalla maksutavalla, jonka valitsit ostohetkellä. Tilaustyypin on oltava Enterprise Agreement (tarjousnumero: MS-AZR-0017P), käytön mukaan laskutettava tilaus (tarjousnumero: MS-AZR-0003P), Microsoftin asiakassopimus tai CSP.
 
-- Enterprise-tilauksen maksut vähennetään rekisteröinnin rahamääräinen sitoumussaldo tai veloitetaan ylimaksuna
-- Pay-As-You-Go -tilauksen maksut laskutetaan tilauksen luottokortti- tai laskumaksutavalla.
+- Enterprise-tilauksen maksut veloitetaan rahallisen sitoumuksen saldosta tai ylimaksuna
+- Käytön mukaan laskutettavassa tilauksessa maksut laskutetaan tilauksen luottokortti- tai laskumaksulla.
 
-**Varauksen peruuttaminen**
+**Varauksen peruminen**
 
-- **Omatoiminen:** Voit peruuttaa tai vaihtaa varatun esiintymän itse [Azure-portaalin avulla.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Valitse varaus ja napsauta hyvitystä tai vaihtoa. Huomaa, että sinulla on oltava varaustilauksen omistajan käyttöoikeudet, jotta voit vaihtaa tai hyvittää tilauksen. Vain varauksen käyttö ei anna sinun jatkaa hyvitystä tai vaihtoa. Pyydä varauksen omistajaa antamaan sinulle varaustilauksen omistajan käyttöoikeudet
-- **Exchange-käytäntö:** Voit vaihtaa varaukseen toisen samantyyppisen varauksen – **varauksesta** ei seuraa seuraamuksia. Uuden varauksen kokonaissitoumusten on oltava suurempi kuin vaihdettu varauksesi hyvityssumma ja tulevat kuukausierät (tarvittaessa)
-- **Hyvityskäytäntö:** Hyvityksen ja peruutetut tulevat maksut eivät voi ylittää 50 000 Yhdysvaltain dollaria 12 kuukauden juoksevassa ikkunassa. Emme tällä **hetkellä veloita hyvityksistä mitään,** mutta voimme veloittaa sen tulevista hyvityksistä
+- **Itsepalvelu:** Voit peruuttaa tai vaihtaa varatun tapauksen itse käyttämällä [Azure-portaalia](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Valitse varaus ja sitten hyvitä tai vaihda. Huomaa, että sinulla on oltava omistajan oikeudet varaustilauksessa, jotta voit vaihtaa tai hyvittää varauksen. Pääsy vain varaukseen ei anna sinun jatkaa hyvitystä tai vaihtoa. Pyydä varaustilauksen omistajaa antamaan sinulle omistajan oikeudet varaustilaukseen.
+- **Vaihtokäytäntö:** Voit vaihtaa varauksen toiseen samantyyppiseen varaukseen – varauksen voi vaihtaa **seuraamuksetta**. Uuden varauksen kokonaissitoumuksen on oltava suurempi kuin vaihdetun varauksen hyvitysmäärän ja tulevien kuukausimaksujen summa (jos käytössä)
+- **Hyvityskäytäntö:** Hyvityksen ja peruuntuneiden tulevien maksujen summa voi olla enintään 50 000 Yhdysvaltain dollaria 12 kuukauden aikana. Tällä hetkellä **emme peri sakkoa** hyvityksistä, mutta voimme periä sitä tulevista palautuksista
 
-**Poikkeukset:** Omatoiminen vaihto ja peruutusominaisuus eivät ole saatavilla US Government Enterprise Agreement -asiakkaille
+**Poikkeukset:** Itsepalveluna tehty vaihto- ja peruutusmahdollisuus ei ole saatavilla Yhdysvaltain hallituksen yrityssopimusasiakkaille.
 
-- **API / PS / CLI -tuki** ei ole käytettävissä peruutusta ja hyvitystä varten Omatoiminen vaihto ja [Azure-varauksista hyvitystä](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Omatoiminen vaihto ja peruutusominaisuus eivät ole saatavilla US Government Enterprise Agreement -asiakkaille. Muita Yhdysvaltain julkishallinnon tilaustyyppejä, kuten Pay-As-You-Go- ja CSP-tilaustyyppejä, tuetaan
+- **API- / PS- / CLI**-tuki ei ole saatavilla peruutuksiin ja palautuksiin [Azure-varauksien itsepalveluvaihto ja -palautus](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Itsepalveluna tehty vaihto- ja peruutusmahdollisuus ei ole saatavilla Yhdysvaltain hallituksen yrityssopimusasiakkaille. Muut Yhdysvaltain hallituksen tilaustyypit ovat tuettuja, mukaan lukien Pay-As-You-Go ja CSP.
 
-Lisätietoja: [Palautus- ja](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) vaihtotapahtumien käsitteleminen Lisätietoja : [Exchange-](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) ja Hyvityskäytännöt Muut kysymykset: [Tutustu varattuihin esiintymä-docs-tiedostoihin](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Lisätietoja: [Palautus- ja vaihtotapahtumien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) käsitteleminen Lisätietoja: Exchange [ja](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) hyvityskäytännöt Muut kysymykset: [Tutustu varattuihin esiintymä-tiedostoihin](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Aiemmin varatun esiintymän exchange(omatoiminen)**
+**Olemassa olevan varatun tapahtuman vaihtaminen (Itsepalvelu)**
 
-Voit vaihtaa varauksen toisen samantyyppistä varausta varten. Voit myös hyvittää varauksen, joka on enintään 50 000 Yhdysvaltain dollaria vuodessa, jos et enää tarvitse sitä. Omatoiminen vaihto ja peruutusominaisuus eivät ole saatavilla US Government Enterprise Agreement -asiakkaille. Muita Yhdysvaltain valtionhallinnon tilaustyyppejä, kuten Pay-As-You-Go- ja CSP-palvelu, tuetaan. Sinulla on oltava varaustilauksen omistajan käyttöoikeudet, jotta voit vaihtaa tai hyvittää olemassa olevan varauksen.
+Voit vaihtaa varauksen toiseen samantyyppiseen varaukseen. Voit myös hyvittää varauksen, joka on enintään 50 000 Yhdysvaltain dollaria vuodessa, jos et enää tarvitse sitä. Itsepalveluna tehty vaihto- ja peruutusmahdollisuus ei ole saatavilla Yhdysvaltain hallituksen yrityssopimusasiakkaille. Muut Yhdysvaltain hallituksen tilaustyypit ovat tuettuja, mukaan lukien Pay-As-You-Go ja CSP. Huomaa, että sinulla on oltava omistajan oikeudet varaustilauksessa, jotta voit vaihtaa tai hyvittää varauksen.
 
-Seuraavien vaiheiden avulla voit suorittaa tapahtuman loppuun.
+Seuraavat vaiheet opastavat toimenpiteen loppuunsaattamisessa
 
-1.Kirjaudu [Azure-portaaliin.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Valitse varaukset, jotka haluat hyvittää, ja valitse **Exchange** 2.Valitse virtuaalikonetuote, jonka haluat ostaa, ja kirjoita määrä. Varmista, että uusi ostosumma on suurempi kuin palautussumma Määritä oikea [koko ennen ostamista.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+1.Kirjaudu [Azure-portaaliin.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Valitse varaukset, jotka haluat hyvittää, **Exchange** 2.Valitse virtuaalikonetuote, jonka haluat ostaa, ja kirjoita määrä. Varmista, että uusi ostosumma on suurempi kuin palautussumma Määritä oikea [koko ennen ostamista.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 3.Tapahtuman tarkistaminen ja viimeisteleminen
 
-**Varatun esiintymän hyvitys**
+**Varatun tapauksen hyvittäminen**
 
-Jos haluat hyvittää varauksen, siirry **Varauksen tiedot -ruudulle** ja valitse **Hyvitys.**
+Jos haluat hyvittää varauksen, siirry kohtaan **Varaustiedot** ja valitse **Hyvitys**
 
-**Hyvitetty hyvitys:**
+**Suhteutettu tuki**
 
-**Hyvitystä ja vaihtoa koskevat pro-ration- ja vähimmäisvaatimusesimerkkejä** Esimerkki etukäteen varauksesta:
+**Pro ja vähimmäisvaatimusesimerkkejä hyvitystä ja vaihtoa varten** Esimerkki etukäteen varauksesta:
 
-- Ostat yhden vuoden RI-termin hintaan 120 $, kun 1. tammikuuta
-- 7. huhtikuuta, haluat hyvittää tai vaihtaa tämän varauksen
-- Koska varaus on ollut live-tilassa 97 päivää, saat (1-97/365) * 120 $ takaisin. (88,1 $). Hyvityksistä ei tällä hetkellä ole hyvitystä
-- Jos vaihdat, uuden ostoksen pitäisi olla suurempi kuin 88,1 $.
-- Tällä hetkellä hyvityksistä ei ole olemassa hyvitystä
+- Ostat yhden vuoden RI:n 120 $:lla tammikuun 1. päivänä
+- Huhtikuun 7. päivänä haluat hyvittää tai vaihtaa tämän varauksen
+- Koska varaus on ollut voimassa 97 päivää, saat (1-97/365) * 120 $:a takaisin. (eli 88,1 $) Hyvityksistä ei tällä hetkellä peritä sakkoa
+- Jos vaihdat, uuden ostoksesi on oltava suurempi kuin 88,1 $:a
+- Hyvityksistä ei tällä hetkellä peritä sakkoa
 
-**Esimerkki laskutussuunnitelman varauksen varauksesta:**
+**Esimerkki laskutussuunnitelmalla tehdystä varauksesta:**
 
-- Ostat yhden vuoden RI-termin hintaan 10 $ kuukaudessa
-- 7. huhtikuuta, haluat hyvittää tai vaihtaa tämän varauksen
-- Koska viimeinen maksu on tapahtunut 7 päivää, saat (1-7/31) * 10 $ takaisin. (7,74 $)
-- Peruutetut tulevat maksut ovat 80 $. Hyvityksistä ei tällä hetkellä ole hyvitystä
-- Tämä peruutus vähentää 87,74 $ hyvitysrajasta, joka on 50 000 $.
-- Jos vaihdat, uuden ostoksen kokonaisarvon pitäisi olla suurempi kuin 87,74 $.
+- Ostat yhden vuoden RI:n 10 $:lla joka kuukausi
+- Huhtikuun 7. päivänä haluat hyvittää tai vaihtaa tämän varauksen
+- Koska viimeinen maksu tapahtui 7 päivää sitten, saat (1-7/31) * 10 $:a takaisin. (eli 7,74 $)
+- Tulevat peruutetut maksut ovat 80 $:a. Hyvityksistä ei tällä hetkellä peritä sakkoa
+- Tämä hyvitys vähentää 87,74 $:a 50 000 $ hyvitysrajasta
+- Jos vaihdat, uuden ostoksesi kokonaismäärä on oltava suurempi kuin 87,74 $:a
 
 **Edellisen laskutusjakson laskua ei voi nähdä**
 
@@ -80,11 +80,11 @@ Joitakin mahdollisia syitä, joiden vuoksi et ehkä näe laskua:
 - Laskua ei ole vielä luotu. Odota laskutusjakson loppuun asti
 - Jos et ole tilin järjestelmänvalvoja, vanhemmat laskut eivät ehkä ole käytettävissäsi
 
-**Laskun lataaminen Azure-portaalista (.pdf)**
+**Lataa laskuSi Azure-portaalista (.pdf)**
 
 - Valitse tilauksesi [Azure-portaalin](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Tilaukset-sivulta [käyttäjänä, jolla on pääsy laskuihin](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Valitse **laskut**
-- Valitse **Lataa lasku,** jos haluat tarkastella PDF-laskun kopiota. Jos siinä lukee **Ei käytettävissä,** katso miksi [en näe laskua viimeiseksi laskutusjaksoksi?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Valitse **Lataa lasku**, jos haluat nähdä kopion PDF-laskusta. Jos näet **Ei saatavilla** -ilmoituksen, tutustu artikkeliin [Miksi en näe laskua viimeiseltä laskutuskaudelta?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
 **Laskun vastaanottaminen sähköpostitse (.pdf)**
 
@@ -101,7 +101,7 @@ Huomautus: Jos et saa sähköpostiviestiä vaiheiden jälkeen, varmista, että s
 - Valitsemalla **Näytä nykyinen lauseke** näet arvion kuluistasi arvion luomisen yhteydessä.
 - Lataa **päivittäiset** käyttötiedot CSV-tiedostona valitsemalla Lataa käyttö. Jos näet kaksi versiota saatavilla, lataa versio 2
 
-Muita kysymyksiä: [Tutustu varattuihin esiintymien tiedostoihin](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Muita kysymyksiä: [Katso varattujen tapausten asiakirja](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Suositellut asiakirjat**
 
@@ -111,5 +111,5 @@ Muita kysymyksiä: [Tutustu varattuihin esiintymien tiedostoihin](https://docs.m
 - [Tietoja varatun esiintymän alennuksen alennuksesta](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Tietoja Pay-As-You-Go -tilauksesi varatun esiintymän käytöstä](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Enterprise-rekisteröinnin varatun esiintymän käytön ymmärtäminen](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Windows-ohjelmiston kustannukset, jotka eivät sisälly varattuihin esiintymään](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Varatut esiintymät Partner Central Cloud Solution Provider (CSP) -ohjelmassa](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows ohjelmistokustannukset, jotka eivät sisälly varattuihin esiintymään](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Varatut esiintymät Partner Central Pilviratkaisujen toimittaja (CSP) -ohjelmassa](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

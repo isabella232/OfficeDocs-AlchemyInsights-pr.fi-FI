@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d2846a1102e4d6441f6fe288a338190a98ad568e0204835f0c1e1f4ea634cf56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043023"
 ---
-# <a name="how-to-move-a-onenote-notebook"></a>OneNote-muistikirjan siirtäminen
+# <a name="how-to-move-a-onenote-notebook"></a>Muistikirjan OneNote siirtäminen
 
-* Jos haluat siirtää OneNote-muistikirjan OneDriveen, siirry  >    >   OneNote 2016:n Siirrä muistikirjoja -kansioon. Lisätietoja [on kohdassa OneNote-muistikirjan](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) siirtäminen OneDriveen.
+* Jos haluat OneNote muistikirjan OneDrive, siirry   >    >   OneNote 2016. Lisätietoja [on OneNote muistikirjan OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) muistikirjaan.
 
-* Lisätietoja parhaista käytännöistä muistikirjojen siirron aikana on kohdassa [OneNoten synkronointia koskevat parhaat käytännöt.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
+* Lisätietoja parhaista käytännöistä muistikirjojen siirron aikana on ohjeaiheessa OneNote [synkronointikäytännöt.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
 
-* [Muiden kanssa jaetun OneNote for Windows](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) -muistikirjan siirtäminen antaa lisätietoja jaettujen muistikirjojen siirtämisestä.
+* [Siirrä OneNote muistikirjan Windows, jonka](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) olet jakanut muiden kanssa, antaa lisätietoja jaettujen muistikirjojen siirtämisestä.

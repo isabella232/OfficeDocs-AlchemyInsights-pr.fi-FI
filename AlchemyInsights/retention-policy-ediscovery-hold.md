@@ -1,5 +1,5 @@
 ---
-title: 2609-säilytys-tai-etsimis toiminto-pito
+title: 2609-retention-or-ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074821"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Kohteita ei voi poistaa SharePoint Onlinessa tai OneDrive for Businessissa
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Kohteita ei voi poistaa SharePoint Onlinessa tai OneDrive for Business
 
-Sinä tai käyttäjäsi ette ehkä voi poistaa kohteita SharePoint Onlinessa tai OneDrive for Businessissa, koska säilytys käytäntöä, säilytys tarraa tai eDiscoveryn pitoa käytetään OneDrive-sivuston SharePointissa tai tiettyyn kohteeseen. Tämä tarkoittaa, että et voi poistaa asia kirjaa, asia kirjan versiota, kansiota, tiedosto kirjastoa, luetteloa, sovellusta, sivustoa tai sivustokokoelmaa. 
+Käyttäjät eivät ehkä voi poistaa kohteita SharePoint Onlinessa tai OneDrive for Business:ssä, koska säilytyskäytäntöä, säilytysotsikota tai eDiscovery-pitoa sovelletaan SharePoint OneDrive -sivustoon tai tiettyyn kohteeseen. Tähän sisältyy tiedoston, tiedostoversion, kansion, tiedostokirjaston, luettelon, sovelluksen, sivuston tai sivustokokoelman poistaminen ei onnistu. 
 
-Jos haluat poistaa kohteita jostakin näistä skenaarioista, säilytys käytännön, säilytys otsikon tai eDiscoveryn pito on poistettava (tai sivusto on jätettävä säilytys käytännön ulkopuolelle). Sinun on joko poistettava käytöstä tai jätettävä tämä ongelma huomiotta. Kun säilytys käytännön tai pito on poistettu, muutoksen voimaan jääminen voi kestää jopa 24 tuntia. 
+Jos haluat poistaa kohteita jossakin näistä skenaarioista, säilytyskäytäntö, säilytysotsikot tai eDiscovery-pito on poistettava (tai sivusto on jätettävä säilytyskäytännön ulkopuolelle). Sinun on joko poistettava käytöstä tai poistettava pito, joka aiheuttaa tämän ongelman. Kun säilytyskäytäntö tai pito on poistettu, voi kestää jopa 24 tuntia, ennen kuin muutos tulee voimaan. 
 
-Lisä tietoja eri säilytys-ja pito toiminnoista, joita voidaan käyttää SharePoint-ja OneDrive-tileissä, on seuraavissa ohje aiheissa:
+Lisätietoja eri säilytys- ja pitoominaisuuksista, joita voidaan käyttää SharePoint- ja OneDrive-tileissä, on seuraavissa ohjeaiheissa.
 
-- [Yleistä säilytys käytännöistä](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [Yleistä säilytys merkinnöistä](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Lisä asetusten hallinta](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [eDiscoveryn lasti ruumat](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Aiemmat sivuston sulkemisen ja poistamisen käytännöt](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Säilytyskäytäntöjen yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Säilytystarrojen yleiskatsaus](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [Pitojen hallinta Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [eDiscovery-pito](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Vanhan sivuston sulkemis- ja poistokäytännöt](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

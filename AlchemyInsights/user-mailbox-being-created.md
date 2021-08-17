@@ -1,5 +1,5 @@
 ---
-title: Käyttäjän posti laatikko luodaan
+title: Käyttäjän postilaatikkoa luodaan
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: 45cf6841641a75ea1d8ca8442c68a7fe778c37c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2157a468bf579e74a71f6b13eb66b075ea64fd0194e04055aadbea365eb2525b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104245"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Käyttäjän posti laatikkoa luodaan
+# <a name="your-users-mailbox-is-being-created"></a>Käyttäjän postilaatikkoa luodaan
 
-Se voi kestää jopa tunnin, ennen kuin uusi posti laatikko on valmis käytettäväksi.
+Voi kestää tunnin, ennen kuin uusi postilaatikko on käyttövalmis.
   
-Jos käyttäjän posti laatikko on "valmisteltu" yli tunnin ajan, voit yrittää poistaa käyttäjän ja luoda sen uudelleen tai käyttää "Anna meidän soittaa sinulle"-vaihto ehtoa, jos haluat keskustella tuki henkilön kanssa.
+Jos käyttäjän postilaatikko on valmisteltava yli tunnin, voit yrittää poistaa käyttäjän ja luoda hänet uudelleen tai jutella tukihenkilön kanssa Anna meidän soittaa sinulle -vaihtoehdon avulla.
   
 
