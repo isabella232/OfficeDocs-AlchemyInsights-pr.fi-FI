@@ -1,5 +1,5 @@
 ---
-title: Windows 10 Homen päivittäminen Windows 10 Proksi
+title: Päivitä Windows 10 Home Windows 10 Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d760314d17888ac4fdc3d85b0a2511437953d9b9126845169acd3fe486e55b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073525"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Päivittäminen tuoteavaimen tai digitaalisen käyttöoikeuden avulla
 
-**Päivittäminen Windows 10 Pro -versioon tuoteavaimen avulla**
+**Päivitä Windows 10 Pro tuoteavaimen avulla**
 
-1. Valitse **Start**  >  **Settings**  >  **Update (& suojausaktivointi).**  >  
-2. Valitse **Vaihda tuoteavain** ja kirjoita sitten 25-merkkinen Windows 10 Pro -tuoteavain.
-3. Aloita **Windows** 10 Pro -päivitys valitsemalla Seuraava.
+1. Valitse **Start**  >  **Asetukset** Update & security Activation  >  **(Päivitä &**  >  **aktivointi).**
+2. Valitse **Vaihda tuoteavain** ja kirjoita sitten 25 merkkiä Windows 10 Pro tuoteavain.
+3. Aloita **päivitys** Windows 10 Pro.
 
-**Päivittäminen Windows 10 Pro -versioon käyttämällä digitaalista käyttöoikeutta**
+**Päivitä Windows 10 Pro digitaalista käyttöoikeutta käyttäen**
 
-Jos olet jo asentanut ja aktivoinut Windows 10 Pron laitteeseen, sinulla on digitaalinen käyttöoikeus, jonka avulla voit päivittää Windows 10 Homesta Windows 10 Pro -versioon ilman tuoteavainta.
+Jos olet jo asentanut ja aktivoinut Windows 10 Pro, sinulla on digitaalinen käyttöoikeus, jonka avulla voit päivittää Windows 10 Home:stä Windows 10 Pro ilman tuoteavainta.
 
-Valitse **Start**  >  **Settings**  >  **Update (& suojausaktivointi).**  >  
+Valitse **Start**  >  **Asetukset** Update & security Activation  >  **(Päivitä &**  >  **aktivointi).**
 
-- Jos sinulla on Windows 10 Pron digitaalinen käyttöoikeus ja Windows 10 Home on tällä hetkellä aktivoituna laitteessasi, valitse Siirry **Microsoft Storeen,** niin sinua pyydetään päivittämään Windows 10 Pro -versioon maksutta.
-- Jos sinulla on Windows 10 Pron digitaalinen käyttöoikeus eikä Windows 10 Homea ole aktivoitu laitteessasi, valitse Vianmääritys ja päivitä sitten Windows 10 Pro -versio noudattamalla ohjeita.
+- Jos sinulla on digitaalinen Windows 10 Pro -käyttöoikeus ja Windows 10 Home on tällä hetkellä Microsoft Store, valitse Siirry **Microsoft Store** niin sinua pyydetään päivittämään Windows 10 Pro maksutta.
+- Jos sinulla on digitaalinen Windows 10 Pro -käyttöoikeus eikä Windows 10 Home ole aktivoitu laitteessasi, valitse Vianmääritys ja päivitä sitten Windows 10 Pro.
 
-[Lisätietoja aktivoinnista Windows 10:ssä](https://support.microsoft.com/help/12440)
+[Lisätietoja aktivoinnista Windows 10](https://support.microsoft.com/help/12440)

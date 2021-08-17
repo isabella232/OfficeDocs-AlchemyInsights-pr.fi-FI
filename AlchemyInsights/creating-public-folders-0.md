@@ -1,5 +1,5 @@
 ---
-title: Yleisten kansioiden luominen
+title: Julkisten kansioiden luominen
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,24 +12,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f380ad158108e07c08d50daafd415a5847df730c1bf4715d70aab7c30860f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103297"
 ---
-# <a name="creating-public-folders"></a>Yleisten kansioiden luominen
+# <a name="creating-public-folders"></a>Julkisten kansioiden luominen
 
-Ennen kuin käyttäjät voivat käyttää yleisiä kansioita, sinun on luotava vähintään yksi yleisen kansion posti laatikko. Luo:
+Ennen kuin käyttäjät voivat käyttää julkisia kansioita, sinun on luotava vähintään yksi yleisen kansion postilaatikko. Luominen:
   
-1. Siirry Microsoft 365-hallinta keskuksessa kohtaan **hallinta keskusten** \> **Exchange**.
+1. Siirry Microsoft 365 -hallintakeskus **Hallintakeskukset-Exchange.** \> 
 
-2. Siirry **yleisten kansioiden** \> **julkiset**kansiot-kansioon ja valitse sitten **Lisää**.
+2. Siirry yleiset **kansiot** \> **Yleiset kansiot -postilaatikoihin** ja valitse **Lisää**.
 
-3. Kirjoita **yleisen kansion posti laatikko**-kohtaan yleisen kansion posti laatikon nimi.
+3. Kirjoita **Yleisen kansion postilaatikko**-ruudussa yleisen kansion postilaatikon nimi.
 
 4. Valitse **Tallenna**.
 
-Kun posti laatikko on luotu, voit alkaa luoda yksittäisiä kansioita tai käsketä käyttäjiä [aloittamaan yleisten kansioiden luomisen ja käyttämisen Outlookissa](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Kun postilaatikko on luotu, voit aloittaa yksittäisten kansioiden luomisen tai määrittää käyttäjien aloittamaan julkisten kansioiden luomisen ja käyttämisen [Outlook.](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
   
