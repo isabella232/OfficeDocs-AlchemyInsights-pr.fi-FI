@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891752"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312720"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Tuontipalvelu
 
@@ -27,11 +27,11 @@ Tuontipalvelun käyttö ja tuontiprosessin käynnistäminen:
 
 1. Siirry [M365-yhteensopivuuskeskukseen](https://compliance.microsoft.com/)ja kirjaudu sisään organisaation järjestelmänvalvojan tilin tunnistetiedoilla.
 
-1. Valitse M365-yhteensopivuuskeskuksen vasemmanpuoleisessa ruudussa **Ratkaisut-kohdassa** **Tietojen hallinnan**  >  **tuonti**.
+1. Valitse M365-yhteensopivuuskeskuksen vasemmanpuoleisessa ruudussa **Ratkaisut-kohdassa** Tietojen **hallinnan**  >  **tuonti**.
 
 1. Valitse **Tuo-sivulla** **Uusi tuontityö**. Kirjoita työn nimi ja valitse **Seuraava**.
 
-1. Valitse **Upload tiedot, jos** haluat käyttää Tuo työtyyppi -kohdassa verkon **latausvaihtoehtoa.** Lisätietoja on kohdassa [Organisaation PST-tiedostojen tuominen verkkoon lataamisen Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
+1. Valitse **Upload tiedot, jos** haluat käyttää Tuo työtyyppi -kohdassa verkon **latausvaihtoehtoa.** Yksityiskohtaiset ohjeet ovat kohdassa Organisaation PST-tiedostojen tuominen verkkoon [lataamisen Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
 
 Jos haluat **käyttää Tuo-sivua,** varmista, että sinulle on määritetty tarvittavat käyttöoikeudet. Lisätietoja on kohdassa [PST-tiedostojen tuominen verkkopalvelimen avulla.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

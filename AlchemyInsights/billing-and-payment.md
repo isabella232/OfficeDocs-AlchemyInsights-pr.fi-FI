@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502389"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893052"
 ---
 # <a name="billing-and-payment"></a>Laskutus ja maksaminen
 
@@ -30,7 +30,7 @@ Laskusi löytyvät Laskutuslaskut-   >  [& välilehdistä.](https://go.microsoft
 
   >  [Laskutusilmoitukset-sivulla](https://go.microsoft.com/fwlink/p/?linkid=853212) voit ottaa tämän  ominaisuuden käyttöön ja hallita käyttäjiä, jotka saavat laskun sähköpostin liitteenä. Lasku lähetetään ilmoituksen vastaanottajien luettelossa olevien käyttäjien sähköpostiosoitteisiin. Luettelo sisältää kaikki laskutus- ja yleiset järjestelmänvalvojat.  Voit hallita sitä, kuka saa laskuilmoitukset, muuttamalla roolia.  Yleisen tai laskutuksen järjestelmänvalvojan roolin poistaminen poistaa käyttäjän vastaanottajaluettelosta, ja yleisen tai laskutuksen järjestelmänvalvojan roolin lisääminen lisää käyttäjän vastaanottajaluetteloon.
 
-**Huomautus:** Saat kaksi erillistä sähköpostiviestiä: toisen, joka ilmoittaa laskusi valmiista, sekä ohjeet siihen, miten voit kirjautua hallintakeskukseen sen tarkastelemista varten, ja toinen sähköpostiviesti, joka sisältää laskutusotteen liitteenä.
+**Huomautus:** Saat kaksi erillistä sähköpostiviestiä: toisen, joka ilmoittaa laskusi valmiista, sekä ohjeet siihen, miten voit kirjautua hallintakeskukseen sen tarkastelemista varten, ja toinen sähköpostiviesti, joka sisältää laskutustiedot liitteenä.
 
 **Maksaminen**
 
@@ -55,10 +55,10 @@ Jos olet lisännyt uuden kortin ja saat edelleen hylkäävän ilmoituksen vanhaa
 
 7. Uusi maksutapa on jo valittuna avattavassa luettelossa. Valitse **Korvaa**.
 
-Lisätietoja on kohdassa [Maksutapojen hallinta](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Lisätietoja on kohdassa [Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Laskutuksen tiheys**
 
 Laskut luodaan kuukausittain tai vuosittain kassalla valitun laskutusvälin mukaan.  
 
-**Huomautus:** Vuosittaista laskutusta koskevat tilaukset voivat saada laskun kesken laskutusjakson, jos muutoksia on tehty esimerkiksi lisättäessä tai poistettaessa käyttöoikeuksia. [Muuta laskutusväliä.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Huomautus:** Vuosittaiseen laskutukseen liittyvät tilaukset voivat saada laskun kesken vuoden, jos muutoksia on tehty, kuten käyttöoikeuksien lisääminen tai poistaminen. [Muuta laskutusväliä.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

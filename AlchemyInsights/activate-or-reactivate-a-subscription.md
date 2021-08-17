@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889379"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314309"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Tilauksen aktivoiminen tai uudelleenaktivoiminen
 
@@ -36,8 +36,9 @@ Jos tilauksesi päättyy, Microsoft on poistanut sen käytöstä tai olet peruut
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat aktivoida uudelleen.
 3. Valitse kolme painiketta (lisää toimintoja) ja valitse **sitten Aktivoi tämä tilaus uudelleen**.
-    > [!IMPORTANT]
-    > Jos et näe Aktivoi tämä **tilaus uudelleen -toimintoa,** soita tukeen, jos haluat aktivoida tilauksesi uudelleen. [](https://go.microsoft.com/fwlink/p/?linkid=518322)
+
+    **Tärkeää:** Jos et näe Aktivoi **tämä** tilaus uudelleen -toimintoa, [](https://go.microsoft.com/fwlink/p/?linkid=518322) soita tukeen, jos haluat aktivoida tilauksesi uudelleen.
+
 4. Valitse **Aktivoi tämä tilaus uudelleen** -ruudussa olemassa oleva maksutapa tai valitse **Lisää maksutapa**.
 5. Valitse **Aktivoi uudelleen**.
 
@@ -45,5 +46,5 @@ Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.co
 
 **Uuden tilauksen aktivoiminen tuoteavaimen avulla**
 
-1. Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso Office [tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+1. Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso [Office tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 2. Anna Microsoft 365 -tuoteavain ja aktivoi tilaus seuraamalla ohjeita. Jos aktivoinnissa ilmenee ongelmia, katso lisätietoja tästä tuoteavainvirheiden ja -ratkaisujen [luettelosta.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

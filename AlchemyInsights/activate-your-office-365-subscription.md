@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314273"
 ---
 # <a name="activate-your-subscription"></a>Tilauksen aktivointi
 
@@ -40,5 +40,5 @@ Katso lisätietoja kohdasta [Aktivoi tilaus uudelleen](https://docs.microsoft.co
 
 **Uuden tilauksen aktivoiminen tuoteavaimen avulla**
 
-- Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso Office [tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Jos haluat aktivoida Microsoft 365 tilauksen tuoteavaimen avulla, katso [Office tuoteavaimen syötin.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Anna Microsoft 365 -tuoteavain ja aktivoi tilaus seuraamalla ohjeita. Jos aktivoinnissa ilmenee ongelmia, tutustu [tuoteavaimeen liittyviin yleisiin virheisiin sekä niiden ratkaisuihin](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

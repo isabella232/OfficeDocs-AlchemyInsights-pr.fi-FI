@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110724"
 ---
-# <a name="rename-a-sharepoint-site"></a>SharePoint-sivuston nimeäminen uudelleen
+# <a name="rename-a-sharepoint-site"></a>Sivuston nimeäminen SharePoint uudelleen
 
-Sivuston URL-osoitteen muuttamis-tai uudelleennimeämisohjeet on dokumentoitu kohdassa [Muuta sivuston osoitetta](https://docs.microsoft.com/sharepoint/change-site-address). Voit esimerkiksi vaihtaa-asetuksesi https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
+Sivuston URL-osoitteen muutos- ja uudelleennimeämisvaiheet on dokumentoitu Sivuston [osoitteen muuttaminen -ohjeissa.](https://docs.microsoft.com/sharepoint/change-site-address) Jos esimerkiksi haluat vaihtaa https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 sta.
 
-Jos tiedossa on virheitä, kun nimeät uudelleen, Tutustu virhe isiin, [Kun nimeät SharePoint-sivuston osoitteen uudelleen](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Lisätietoja tunnetuista virheistä uudelleennimeämisen aikana on kohdassa Virheet, [kun nimeät SharePoint osoitteen uudelleen.](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
 
-Jos haluat nähdä tunnetut tehosteet uudelleennimeämisen jälkeen, katso [sivuston osoitteen vaihtamisen vaikutukset](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Lisätietoja tunnetuista tehosteista uudelleennimeämisen jälkeen on [kohdassa Sivuston osoitteen muuttamisen vaikutukset.](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)
 
-**Huomautus:** Et voi muuttaa toimi alueen nimeä (URL-osoitteen contoso-osa) SharePoint Onlinen URL-osoitteessa. 
+**Huomautus:** Et voi muuttaa verkko-URL-osoitteen toimialuenimeä (edellä olevassa esimerkissä URL-osoitteen contoso-osaa) SharePoint url-osoitetta. 
 
 Lisätietoja on seuraavissa artikkeleissa:
 
-- [SharePoint-toimi alueen nimen muuttaminen](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Virheet, kun nimeät SharePoint-sivuston osoitteen uudelleen](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [Toimialueen SharePoint muuttaminen](https://go.microsoft.com/fwlink/?Linkid=2018696)
+- [Sivuston osoitteen uudelleennimeämisvirheet SharePoint uudelleen](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

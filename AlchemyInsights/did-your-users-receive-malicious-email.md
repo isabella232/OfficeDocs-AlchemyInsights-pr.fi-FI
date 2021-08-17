@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929194"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893400"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Ovatko käyttäjät saaneet haitallisia sähköpostiviestejä?
 
-- Voit nyt raportoida haitalliset sähköpostiviestit Microsoftille käyttämällä [järjestelmänvalvojan viestejä tietoturva- ja yhteensopivuuskeskukselle](https://sip.protection.office.com/reportsubmission).
+Voit nyt raportoida vahingollisen sähköpostin Microsoftille käyttämällä [lähetykset Microsoft 365 Defender portaalissa.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-Tiedot, jotka lähetetään [järjestelmänvalvojan viesteinä](https://sip.protection.office.com/reportsubmission) tarkistetaan, ja tulokset näkyvät pikaikkunassa **lisätiedot**:
+Järjestelmänvalvojien [ilmoituksiin lähetetyt](https://security.microsoft.com/reportsubmission?viewid=admin) viestit tarkistetaan ja yksityiskohtaisen pikaikkunan alla näkyvät tulokset:
 
 - Jos lähettäjän sähköpostin todennus epäonnistui toimituksen aikana.
 - Tietoja kaikista käytäntöosumista, jotka ovat voineet vaikuttaa viestin päätökseen tai ohittaa sen.
@@ -39,9 +39,9 @@ Lähetä viesti uudelleen vuorokauden kuluttua tarkistusta varten, jos olet eri 
 Tällä välin voit poistaa haitallisia sähköpostiviestejä käyttäjien Saapuneet-kansioista noudattamalla [tämän artikkelin ohjeita](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Office 365:n Microsoft Defenderin asiakkaat voivat:
-    - käyttää [Threat Exploreria epäilyttävien sähköpostiviestien etsimiseen ja poistamiseen](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [käyttää Turvallisia linkkejä estämään](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) haitallisten URL-osoitteiden käytön
-    - jäljittää käyttäjät, jotka napsauttivat haitallisia URL-osoitteita:[Tietojenkalastelun URL-osoitteet ja napsautustiedot](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Hanki URL-seuranta](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - aloittaa manuaalisesti [automatisoitu tutkimus](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Epäilyttävien [sähköpostiviestien etsiminen ja poistaminen Threat Explorerilla](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Haitallisen URL Lokero n käytön estäminen linkit-linkin](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) avulla
+  - Seuraa käyttäjiä, jotka napsauttit ja kävivät käsiksi haitallisiin URL-osoitteisiin: Tarkastele tietojen kalastelun URL-osoitetta ja valitse [verdict data](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-URLTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Automaattisen tutkimuksen [käynnistäminen manuaalisesti](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Voit myös suojautua haitallisia URL-osoitteita ja tiedostoja vastaan noudattamalla näitä ohjeita:[Suojaus haitallisilta URL-osoitteilta ja tiedostoilta](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).

@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 47b83d482a1deb6add5c6283d7e2e0f6035e2c13cf7e1cd78ffc4ff7c9ffc85b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033995"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893588"
 ---
 # <a name="retrieve-the-audit-logs"></a>Valvontalokien noutaminen
 
 Kun avaat valvontalokin ensimmäisen kerran, se on tyhjä. Sinun on tehtävä haku, jotta näet, mitä siinä on. Voit tehdä yleishaun kaikista toiminnoista näin:
 
-1. Siirry  [Valvontalokihaku-sivulle](https://protection.office.com/#/unifiedauditlog) (tai siirry hallintakeskuksen tietoturva-  >  **&-hakuun**  >  **&**  >  **valvontalokihaku**).
-1. Hyväksy **Toiminnot-ruudussa** oletusarvo Näytä **kaikkien toimintojen tulokset**.
-1. Määritä päivämääräalue ja hyväksy **Käyttäjät-ruudussa** oletusarvo, joka palauttaa kaikkien käyttäjien tulokset, tai valitse tutkittavan käyttäjän käyttäjänimi.
-1. Valitse **Hae**. Toiminnot näkyvät **Tulokset-kohdassa.**
-1. Jos haluat tarkastella tietoja, napsauta aktiviteettia ja valitse **sitten Lisätietoja**. Näet lisätietoja, kuten asiakkaan tai toiminnon suorittavien käyttäjien tiedot.
+1. Tee jokin seuraavista:
+   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> -palvelussa Ratkaisujen  \> **valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://compliance.microsoft.com/auditlogsearch> -
+   - Valitse Microsoft 365 Defender <https://security.microsoft.com> -hallintaportaalissa **Valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://security.microsoft.com/auditlogsearch> -
+
+2. Määritä **Valvonta-sivun** **Haku-välilehdessä** seuraavat asetukset:
+   - **Päivämäärä- ja aikaalue:** Valitse päivämäärä-/aika-alue Aloitus- ja **Lopetus-ruuduista.** 
+   - **Toiminnot:** **Tarkista, että Näytä kaikkien toimintojen tulokset** on valittuna.
+   - **Käyttäjät:** Voit palauttaa kaikkien käyttäjien tulokset hyväksymällä tyhjän oletusarvon tai kirjoittamalla yhden tai useamman käyttäjän.
+
+3. Kun olet valmis, valitse **Hae**. Toiminnot näkyvät uudella **Valvontahaku-sivulla.**
+
+4. Avaa tietojen pikaikkuna valitsemalla toiminto tuloksista. Näet lisätietoja, kuten asiakkaan tai toiminnon suorittavien käyttäjien tiedot.
+
+Lisätietoja on kohdassa [Valvontalokista etsiminen ja yleisimmät tukiongelmat.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

@@ -1,5 +1,5 @@
 ---
-title: Sovellusten Microsoft 365 aktivointi
+title: Sovellusten Microsoft 365 aktivoiminen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889251"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314237"
 ---
-# <a name="activating-microsoft-365-apps"></a>Sovellusten Microsoft 365 aktivointi
+# <a name="activating-microsoft-365-apps"></a>Sovellusten Microsoft 365 aktivoiminen
 
-**Huomautus:** Jos käytät vanhempaa Windows (esimerkiksi Windows 7), varmista, että TLS 1.2 on käytössä oletusversiona. Lisätietoja on päivityksessä [TLS 1.1: n ja TLS 1.2:n käyttöönottamiseksi WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392):n oletusarvoina suojattuina protokollina.
+**Huomautus:** Jos käytät Windows:n aiempaa versiota (esimerkiksi Windows 7 SP1: tä tai Windows Server 2008 R2:ta), ota TLS 1.2 käyttöön oletusarvoisesti helpon [korjauksen avulla.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Lisätietoja on päivityksessä [TLS 1.1: n ja TLS 1.2:n](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ottaminen käyttöön WinHTTP in Windows :n oletusarvoisen suojatun protokollan avulla.
 
 Lisätietoja Officen aktivoinnista on artikkeleissa:
 
@@ -38,7 +38,7 @@ Lisätietoja Officen aktivointiongelmien ratkaisemisesta on artikkeleissa:
 
 - [Toimintaohjeita tilanteeseen, jossa Office for Macin asennus tai aktivointi ei onnistu](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Vihje** Voimme diagnosoida ja korjata useita Windows-tietokoneiden Officen yleisiä sisäänkirjautumisongelmia puolestasi automaattisesti. Jos haluat käyttää automaattista työkaluamme, lataa ja suorita **[Microsoftin tuki- ja palautusavustaja](https://aka.ms/SaRA-OfficeSignInScenario)**.
+**Vinkki:** Windows koneissa voimme tehdä vianmäärityksen ja Office automaattisesti useita yleisiä kirjautumisongelmia. Jos haluat käyttää automaattista työkaluamme, lataa ja suorita **[Microsoftin tuki- ja palautusavustaja](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Jos et voi kirjautua sisään Microsoft 365, noudata seuraavia ohjeita:
 

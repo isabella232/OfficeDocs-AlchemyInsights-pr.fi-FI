@@ -1,5 +1,5 @@
 ---
-title: SAML-assertions (Tokens)
+title: SAML Assertions (Tokens)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109237"
 ---
-# <a name="saml-assertions-tokens"></a>SAML-assertions (Tokens)
+# <a name="saml-assertions-tokens"></a>SAML Assertions (Tokens)
 
-1. SAML (Security Assertions Markup Language) -tunnukset ovat vaateiden XML-esityksiä. Oletusarvon mukaan SAML-tunnukset, joita Windows Communication Foundation (WCF) käyttää liittouissa suojausskenaarioissa, myönnetään tunnuksia. Lisätietoja on [saml-tunnusten ja -vaateiden tunnuksissa.](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims)
-2. Microsoftin tunnistetietoympäristö lähettää erilaisia suojaustunnuksia kunkin todennusvirran käsittelyssä. [SAML-tunnuksen väiteviittaus](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) kuvaa SAML 2.0 -tunnusten muotoa, suojausominaisuuksia ja sisältöä.
-3. Noudata Microsoftin tunnistetietoympäristön [Määritettävissä](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) olevat tunnusten käyttöiät -kohdasta annettuja ohjeita, jotta ymmärrät, miten tunnusten elinkaari määritetään.
-4. Noudata tässä artikkelissa kuvattuja [ohjeita Azure](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) AD SAML -tunnuksen salauksen määrittämiseen.
-5. Azure AD:ssä voit määrittää varmenteen allekirjoitusasetukset ja varmenteen allekirjoitusalgoritmin. Lisätietoja on Azure Active Directoryn valikoimasovellusten [SAML-tunnuksen varmenteen lisäallekirjoitusvaihtoehdoissa.](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)
+1. SAML (Security Assertions Markup Language) -tunnukset ovat vaateiden XML-esityksiä. OLETUSARVON MUKAAN SAML-tunnukset Windows Communication Foundation (WCF) -tunnuksia käytetään liittouissa suojausskenaarioissa. Lisätietoja on kohdassa [SAML-tunnukset ja -vaateet.](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims)
+2. The Microsoftin käyttäjätietoympäristö emits several types of security tokens in the processing of each authentication flow. [SAML-tunnuksen](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) väiteviitteissä kuvataan SAML 2.0 -tunnusten muoto, suojausominaisuudet ja sisältö.
+3. Noudata tunnuksen [elinkaaren määritettävissä olevia](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) ohjeita Microsoftin käyttäjätietoympäristö tunnuksen elinkaaren määrittämiseen.
+4. Tässä artikkelissa kuvattujen ohjeiden [avulla voit määrittää](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) Azure AD SAML -tunnuksen salauksen.
+5. Azure AD:ssä voit määrittää varmenteen allekirjoitusasetukset ja varmenteen allekirjoitusalgoritmin. Lisätietoja on kohdassa SAML-tunnusten varmennekirjausasetusten lisäasetukset [valikoimasovelluksissa Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)

@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9667"
-ms.openlocfilehash: eb7db65b163bec39a5186bc3e2339ff8a2960deb
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 8329b94e6496b8ae408ec157446333b486e25496d4c83abaf62bd22b9f8a1f3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109309"
 ---
-# <a name="restrict-posting-to-all-company"></a>Julkaisemisen rajoittaminen koko yritykseen
+# <a name="restrict-posting-to-all-company"></a>Rajoita lähettämistä koko yritykseen
 
-On mahdollista rajoittaa [koko yrityksen julkaisuja Yammer](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) järjestelmänvalvojien käytettävissä olevan asetuksen avulla. Käyttäjät voivat edelleen vastata keskusteluketjuihin, jotka järjestelmänvalvojat ovat aloittaneet, ellei järjestelmänvalvoja [ole erikseen sulkenut keskusteluja.](https://support.microsoft.com/office/pin-close-and-report-conversations-in-yammer-62a5fbc2-ff1b-4418-9334-d2b4b17062cb) Tällä hetkellä ei ole mahdollista rajoittaa lähettämistä muissa Yammer yhteisöissä.
+On mahdollista rajoittaa [koko yrityksen julkaisuja Yammer](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) järjestelmänvalvojille saatavilla olevan asetuksen avulla. Käyttäjät voivat edelleen vastata keskusteluketjuihin, jotka järjestelmänvalvoja on aloittanut, ellei järjestelmänvalvoja ole erikseen [sulkenut keskusteluja.](https://support.microsoft.com/office/pin-close-and-report-conversations-in-yammer-62a5fbc2-ff1b-4418-9334-d2b4b17062cb) Tällä hetkellä ei ole mahdollista rajoittaa Yammer yhteisöissä lähettämistä.
