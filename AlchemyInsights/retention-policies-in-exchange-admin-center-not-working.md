@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074929"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Exchange-hallintakeskuksen säilytyskäytännöt
+# <a name="retention-policies-in-exchange-admin-center"></a>Exchange säilytyskäytännöt
 
 Jos haluat, että suoritamme automaattiset tarkistukset alla mainittujen asetusten varalta, valitse Sivun yläreunassa Takaisin-painike < ja kirjoita sitten sen käyttäjän sähköpostiosoite, jolla on ongelmia säilytyskäytäntöjen kanssa.
 
-Jos Exchange-hallintakeskuksessa on säilytyskäytäntöjä, jotka eivät koske postilaatikoita tai kohteita, jotka eivät siirry arkistopostilaatikkoon, tarkista seuraavat asiat:
+Jos sinulla on ongelmia Exchange-hallintakeskuksen säilytyskäytäntöjen kanssa, jotka eivät koske postilaatikoita tai kohteita, jotka eivät siirry arkistopostilaatikkoon, tarkista seuraavat asiat:
 
 **Perimmäinen syy:**
 
@@ -38,7 +38,7 @@ Jos Exchange-hallintakeskuksessa on säilytyskäytäntöjä, jotka eivät koske 
  
 **Huomautus:** Jos postilaatikon koko on alle 10 Mt, Kansion hallinta -avustaja ei käsittele postilaatikkoa automaattisesti.
  
-Lisätietoja Exchange-hallintakeskuksen säilytyskäytännöistä on kohdassa:
+Lisätietoja Exchange säilytyskäytännöistä:
 
 - [Säilytystunnisteet ja säilytyskäytännöt](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

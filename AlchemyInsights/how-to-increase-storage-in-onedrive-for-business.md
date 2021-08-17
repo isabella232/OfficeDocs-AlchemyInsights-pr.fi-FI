@@ -1,5 +1,5 @@
 ---
-title: OneDrive for Businessin tallennus tilan lisääminen
+title: Tallennustilan OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,25 +10,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 676b17d47ee5071ed45e8d6022eaa82b51fc4d51
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 5172f7072ec834be42e2dd35acacebcb2ad5aa5a306661c8ba5ff6ed888f63f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043167"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>OneDrive for Businessin tallennus tilan lisääminen
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Tallennustilan OneDrive for Business
 
-Uusien ja olemassa olevien OneDrive-käyttäjien oletus tallennus tilan muuttaminen:
+Uusien ja aiemmin luotujen käyttäjien oletustallennustilan OneDrive:
   
-- Siirry OneDrive- [hallinta keskuksen tallennus tila-sivulle](https://admin.onedrive.com/?v=StorageSettings), kirjoita uusi summa Giga tavuina ja valitse sitten **Tallenna**.
+- Siirry Tallennus [hallintakeskuksen OneDrive ,](https://admin.onedrive.com/?v=StorageSettings)kirjoita uusi summa gigatavuna ja valitse **Tallenna**.
 
-Tämä tallennus tilan asetus koskee kaikkia käyttäjiä, joille et ole määrittänyt tiettyjä tallennus rajoituksia. Jos haluat muuttaa tiettyjen käyttäjien tallennus tilaa, käytä Microsoft PowerShelliä. Lisä tietoja on Ohje aiheessa [käyttäjien OneDrive-tallennus tilan muuttaminen PowerShellin avulla](https://docs.microsoft.com/onedrive/change-user-storage).
+Tämä tallennustila-asetus koskee kaikkia käyttäjiä, joille ei ole määritetty tiettyjä tallennustilarajoituksia. Jos haluat muuttaa tiettyjen käyttäjien tallennustilaa, käytä Microsoft PowerShelliä. Lisätietoja tästä on kohdassa Käyttäjien [tallennustilan OneDrive PowerShellin avulla.](https://docs.microsoft.com/onedrive/change-user-storage)
 
-**Huomautus**: näyttää siltä, että sinulla ei ole rajoittamatonta tallennus tilaa sisältävää palvelu paketti. Lisä tietoja kunkin palvelu paketin tallennus tilasta on kohdassa [OneDrive for Business-palvelun kuvaus](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+**HUOMAUTUS:** Vaikuttaa siltä, ettei sinulla ole tallennustilaa, joka sisältää rajoittamatonta tallennustilaa. Lisätietoja kunkin palvelupakettiin liittyen tallennustilasta on OneDrive for Business [palvelukuvauksessa.](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)
   
-Jos haluat lisätä tallennus tilaasi OneDrive for Businessissa, valitse tilaus, joka sisältää joko **OneDrive for Business-palvelu paketin 2** tai **Office 365 E3**.
+Jos haluat lisätä tallennustilaasi OneDrive for Business, valitse tilaus, joka sisältää joko **OneDrive for Business palvelupaketti 2:n** **tai Office 365 E3.**
   
-Jos haluat vaihtaa palvelu pakettia, siirry hallinta keskuksen **laskutus** \> [tuotteet](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulle, valitse muutettava tilaus ja valitse sitten **organisaatiosi suosittelemat Näytä päivitykset**.
+Jos haluat muuttaa palvelupaketteja, siirry  hallintakeskuksessa Laskutustuotteesi-sivulle, valitse muutettava tilaus ja valitse sitten Näytä organisaatiollesi suositellut \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) **päivitykset**.
   
-Lisä tietoja palvelu pakettien ja OneDrive for Business-tallennus tilan muutoksista on kohdassa [päivittäminen eri palvelu paketiksi](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) ja [OneDrive for Business-palvelun kuvaus](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+Lisätietoja palvelupakettien ja tallennustilan OneDrive for Business on selostetussa kohdassa Päivittäminen toiseen [palvelupakettiin](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) [ja OneDrive for Business kuvaus.](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)

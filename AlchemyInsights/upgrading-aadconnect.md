@@ -1,5 +1,5 @@
 ---
-title: 932 päivitys AADConnect
+title: 932 AADConnectin päivittäminen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104809"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Azure AD Connect-päivitys
+# <a name="upgrade-azure-ad-connect"></a>Azure AD -Näyttöyhteys
 
-Oletusarvoisesti automaattinen päivitys on käytössä Azure AD Connectin avulla, mikä auttaa varmistamaan, että käytössäsi on uusin versio. Voit tarkistaa automaattiset päivitys asetukset käyttämällä **Get-ADSyncAutoUpgrade-cmdlet-** komennolla Azure AD PowerShellissä. Cmdlet-komento palauttaa jonkin seuraavista arvoista:
+Oletusarvoisesti automaattinen päivitys on käytössä Azure AD Näyttöyhteys, mikä varmistaa, että käytössäsi on uusin versio. Voit tarkistaa automaattisen päivityksen asetukset käyttämällä **Get-ADSyncAutoUpgrade-cmdlet-komentoa** Azure AD PowerShellissä. Cmdlet-komento palauttaa jonkin seuraavista arvoista:
 
-- **Käytössä**: Automaattinen päivitys on käytössä.
+- **Käytössä:** Automaattinen päivitys on käytössä.
 
-- Ei **käytössä**: Automaattinen päivitys on poistettu käytöstä.
+- **Poissa käytöstä:** Automaattinen päivitys on poistettu käytöstä.
 
-- **Keskeytys**: järjestelmä ei ole enää oikeutettu automaattisten päivitysten vastaanottoon. Et voi määrittää tätä arvoa. järjestelmä on asettanut sen.
+- **Keskeytetty:** Järjestelmä ei ole enää oikeutettu saamaan automaattisia päivityksiä. Tätä arvoa ei voi määrittää; se on järjestelmän asettama.
 
-Lisä tietoja on kohdassa [Automaattinen päivitys](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Lisätietoja on kohdassa [Automaattinen päivitys.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Jos haluat ladata uusimman Azure AD Connect-version, siirry [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Voit ladata Azure AD Näyttöyhteys uusimman version osoitteessa [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

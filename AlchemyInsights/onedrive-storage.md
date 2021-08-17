@@ -1,5 +1,5 @@
 ---
-title: OneDrive-tallennus tila
+title: OneDrive tallennus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075731"
 ---
-# <a name="manage-your-onedrive-storage"></a>OneDrive-tallennus tilan hallinta
+# <a name="manage-your-onedrive-storage"></a>Hallitse OneDrive hallintaa
 
-Voit hallita OneDrive for Businessia, jotta näet, kuinka paljon tilaa käytät ja vapauta tilaa.  Katso lisä tietoja alla olevista linkeistä.
+Voit hallita OneDrive for Business, kuinka paljon tilaa käytät ja vapauttaa tilaa.  Lisätietoja on alla olevien linkkien kautta.
 
-- [OneDrive for Business-tallennus tilan hallinta](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
-- [Tietyn käyttäjän OneDrive-tallennus tilan muuttaminen](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Hallitse OneDrive for Business tallennustilaa](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Käyttäjän tallennustilan OneDrive muuttaminen](https://docs.microsoft.com/onedrive/change-user-storage)
 - [Oletusarvoisen tallennustilan määrittäminen OneDrive-käyttäjille](https://docs.microsoft.com/onedrive/set-default-storage-space)

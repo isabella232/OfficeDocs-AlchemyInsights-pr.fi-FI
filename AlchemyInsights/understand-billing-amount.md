@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919636"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304330"
 ---
 # <a name="understand-billing-amount"></a>Laskutussumman ymmärtäminen
 
@@ -28,7 +28,7 @@ ms.locfileid: "53919636"
 - Azure-käyttömaksujen ehtojen ymmärtäminen: [Käyttöehdot selitetty](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Laskun PDF-tiedoston ja yksityiskohtaisen päivittäisen käyttötiedoston (.CSV hakeminen): [Laskun ja käyttötietojen hankkiminen](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Huomautus:** Jos peruutat tilauksen/resurssin kesken laskutusjakson, saatat silti nähdä veloitusmaksun, joka olisi mitä tahansa edeltävän kuukauden käyttöä varten. Jos esimerkiksi laskutusjaksosi oli joka kuukauden 26. päivä ja seuraavan kuukauden 25. päivä & keskeytit tilauksen 23.5. eli 28 päivän laskutusjaksosta kesäkuun aikana, saatat nähdä maksua 28 käyttöpäivältä. Jos näet veloitusmaksun tilauksen peruuttamisesta, varmista, ettei sinulla ole muita maksua aiheuttavia tukipaketteja. Jos teet niin, peruuta suunnitelma.
+**Huomautus:** Jos peruutat tilauksen/resurssin kesken laskutusjakson, saatat silti nähdä veloitusmaksun, joka olisi mitä tahansa edeltävän kuukauden käyttöä varten. Jos laskutusjaksosi oli joka kuukauden 26. päivä ja seuraavan kuukauden 25. päivä & keskeytit tilauksen 23.5. tilauksesta, joka on 28 päivää kesäkuun laskutusjaksoon, saatat nähdä maksua 28 käyttöpäivältä. Jos näet veloitusmaksun tilauksen peruuttamisesta, varmista, ettei sinulla ole muita maksua aiheuttavia tukipaketteja. Jos teet niin, peruuta suunnitelma.
 
 **Microsoftin asiakassopimus (MCA):**
 
@@ -46,7 +46,7 @@ ms.locfileid: "53919636"
 
 **Enterprise Agreement -sopimus (EA)**
 
-- Laskun tarkistaminen ja ymmärtäminen on seuraavissa tavassa: Azure Enterprise Agreement -sopimus [laskun ymmärtäminen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Laskun tarkistaminen ja ymmärtäminen on seuraavissa tavassa: [Azure Enterprise Agreement -sopimus laskun ymmärtäminen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Jos olet Azure-asiakas, jolla on Enterprise Agreement -sopimus (EA-asiakas), et voi ladata organisaatiosi laskuja. Laskut lähetetään kenelle tahansa, joka on määritetty vastaanottamaan rekisteröintilaskuja, voit ladata käytön [Azure-portaalissa.](https://portal.azure.com/)
 
 Tarkista palvelu ylikuormituslasku:
@@ -54,7 +54,7 @@ Tarkista palvelu ylikuormituslasku:
 - Kirjaudu **yritysportaaliin.** Valitse **Raportit**
 - Vaihda välilehden oikeassa yläkulmassa näkymä M:stä **C:ksi** ja vastaa laskussa olevaa ajanjaksoa. 
 - **Kokonaiskäyttösumman** pitäisi vastata  palveluyksien ylikuormituslaskun Kokonaisleveys-summaa
-- Saat **lisätietoja veloituksesta >** lataaminen -kohdassa Lataa lisäraportista **Huomautus:** Raportti ei sisällä veroja, varauksista perittyjä maksuja tai Marketplacen maksuja.
+- Lisätietoja **veloituksesta >** Lataa lisäraportista -kohdassa **Huomautus:** Raportti ei sisällä veroja, varauksista perittyjä maksuja eikä Marketplace-maksuja.
 
 **Azure Marketplace**
 
@@ -62,12 +62,14 @@ Tarkista palvelu ylikuormituslasku:
 
 Tarkista Marketplace-lasku:
 
-Vertaa Azure Marketplacen kokonaissummaa >-portaalin käyttöyhteenveto Marketplace-laskuun. Kauppapaikan lasku koskee vain Azure Marketplace -ostoja ja -käyttöä. Käyttöyhteenvedon summat eivät sisällä veroa.
+Vertaa Azure Marketplacen kokonaissummaa > yritysportaalin käyttöyhteenvedossa Marketplace-laskuun. Kauppapaikan lasku koskee vain Azure Marketplace -ostoja ja -käyttöä. Käyttöyhteenvedon summat eivät sisällä veroa.
 
 - Kirjaudu **yritysportaaliin.** Valitse **Raportit**
 - Vaihda välilehden oikeassa yläkulmassa näkymä M:stä **C:ksi** ja vastaa laskussa olevaa ajanjaksoa. 
 - Azure **Marketplace -summan** pitäisi vastata **Marketplace-laskun** Kokonaismyynti-summaa
-- Lataa **käyttö -kohdassa** on lisätietoja käyttöperusteisistasi veloitukset. Valitse **Marketplacen veloitukset** **-kohdassa** Lataa huomautus: Tämä raportti ei sisällä veroja tai näytä kertaostoksia
+- Lataa **käyttö -kohdassa** on lisätietoja käyttöperusteisistasi veloitukset. Valitse **Marketplace-veloitukset**-kohdassa **Lataa** 
+
+**Huomautus:** Raportti ei sisällä veroja eikä näytä kertaostoksia
 
 **Pilviratkaisujen toimittaja (CSP)**
 

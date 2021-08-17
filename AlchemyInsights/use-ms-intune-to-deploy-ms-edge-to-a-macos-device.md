@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen ottaminen käyttöön Mac OS-laitteessa Microsoft Intunella
+title: Microsoft Intune käyttöönotto macOS Microsoft Edge laitteessa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104377"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Microsoft Edgen ottaminen käyttöön Mac OS-laitteessa Microsoft Intunella
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Microsoft Intune käyttöönotto macOS Microsoft Edge laitteessa
 
-Jos haluat ottaa käyttöön, määrittää, valvoa ja suojata sovelluksen macOS-laitteessa, sinun on lisättävä sovellus Microsoft Intuneen. Sovelluksen tyypin on oltava Intune, ja Intune-järjestelmän hallinta vaihtoehdot riippuvat sovelluksen tyypistä. Intune-toiminnon käyttäminen tarkoittaa, että sinun ei tarvitse käyttää macOS-sovelluksen rivitys työkalua.
+Jos haluat ottaa käyttöön, määrittää, valvoa ja suojata sovelluksen macOS-laitteessa, sinun on lisättävä sovellus Microsoft Intune. Sovelluksen on oltava Intunen tukemaa tyyppiä, ja Intunessa käytettävissä olevat hallinta-asetukset määräytyvät sovelluksen tyypin mukaan. Intunen käyttö tarkoittaa myös sitä, että sinun ei tarvitse käyttää macOS-sovelluksen rivitystyökalua.
 
-Intune tukee Microsoft Edgtä. Lisä tietoja on artikkelissa [Microsoft Edgen lisääminen Mac-laitteisiin Microsoft Intunella](https://go.microsoft.com/fwlink/?linkid=2134949).
+Intune tukee Microsoft Edge. Lisätietoja on kohdassa Microsoft Edge [lisääminen MacOS-laitteisiin Microsoft Intune.](https://go.microsoft.com/fwlink/?linkid=2134949)
