@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819905"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046101"
 ---
 # <a name="calendar-permissions"></a>Kalenterin käyttöoikeudet
 
-Käyttäjät voivat muuttaa omia kalenterikäyttöoikeuksiaan Outlookin verkkosovelluksessa tai muissa asiakasasiakkaissa, mutta järjestelmänvalvojana sinun on ehkä myös tutkittava asiaa.  
-Exchange PowerShellin cmdlet-komennolla saat käyttöoikeutesi käyttäjän kalenteriin:
+Käyttäjät voivat muuttaa omia kalenterikäyttöoikeuksiaan Outlook verkko- tai muilla asiakasasiakkailla, mutta järjestelmänvalvojana sinun on ehkä myös tutkittava asiaa.  
+Kun Exchange PowerShellin cmdlet-komennolla, saat käyttöoikeutesi käyttäjän kalenteriin:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
@@ -34,9 +34,9 @@ Saat lisätietoja seuraavasti:
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Kalenterin käyttöoikeuksia käytetään kalenterien jakamisessa. Lisätietoja Outlook-kalenterin jakamisesta on näissä artikkeleissa:
+Kalenterin käyttöoikeuksia käytetään kalenterien jakamisessa, jotta saat lisätietoja kalenterin Outlook jakamisesta, on näissä artikkeleissa:
 
 - [Outlook-kalenterin jakaminen muiden kanssa](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Kalenterin jakaminen yrityksille 2010:ssä](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Kalenterin jakaminen Outlookin verkkoversio for Businessissa](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Kalenterin käyttöoikeuksien vianmäärityksessä voit käyttää [tuki- ja palautusavustajatyökalua.](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)
+Kalenterin käyttöoikeuksien vianmäärityksessä voit käyttää [tuki- ja palautusavustaja](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) avulla.

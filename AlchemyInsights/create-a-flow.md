@@ -1,5 +1,5 @@
 ---
-title: Työn kulun luominen
+title: Työnkulun luominen
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d519d7e61b886b327292b5b63fe0398451e991b4a7bd84e81c9fac5cdb47fc0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044373"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 
-Microsoft Flow'n avulla voit automatisoida tavallisia tehtäviä. Sen avulla voit määrittää luetteloiden ja kirjastojen työn kulut. Lisä tietoja työn kulun lisäämisestä luetteloon tai kirjastoon SharePoint Onlinessa tai OneDrivessa on artikkelissa [työn kulun luominen](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow avulla voit automatisoida yleisiä tehtäviä. Sen avulla voit määrittää luetteloiden ja kirjastojen työnkulkuja. Lisätietoja työnkulun lisäästä luetteloon tai kirjastoon SharePoint Onlinessa tai OneDrive on [kohdassa Työnkulun luominen.](https://go.microsoft.com/fwlink/?linkid=869408)
   
-[Videoita Microsoft flowsta](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoita Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
 [Microsoft Flow-sivusto](https://go.microsoft.com/fwlink/?linkid=864642)
   

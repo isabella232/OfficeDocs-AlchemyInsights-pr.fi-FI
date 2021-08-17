@@ -1,5 +1,5 @@
 ---
-title: Soita Puhelin numeroon Teamsissa
+title: Puhelinnumeroon soittaminen Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046029"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Soita Puhelin numeroon Teamsissa
+# <a name="call-a-phone-number-in-teams"></a>Puhelinnumeroon soittaminen Teams
 
-Siirry kohtaan  **puhelut**, valitse  **Soita numeroon**ja kirjoita numero valinta paneelin avulla. Valitse sitten  **Soita**.
+Valitse  **Puhelut**,  **valitse Valitse numero** ja anna numero valintapaneelin avulla. Valitse sitten  **Soita**.
 
-Jos et näe numeron valinta vaihtoehtoa, organisaatiosi ei ehkä ole ostanut puhelu sopimusta. Voit silti soittaa puhe luista muille teamsin henkilöille.  
+Jos et näe puhelinnumeron valintavaihtoehtoa, organisaatiosi ei ehkä ole ostanut puhelupakettia. Voit silti soittaa puheluita muille Teams.  
 
-Lisä tietoja on Ohje aiheessa [Puhelin numeron soittaminen tiimeistä](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
+Lisätietoja on kohdassa [Puhelinnumeroon soittaminen Teams.](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)

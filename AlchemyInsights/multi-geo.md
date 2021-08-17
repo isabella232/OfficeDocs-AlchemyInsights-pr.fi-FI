@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df2682a639366a824edbdb36afa49562b71eeae22d2644df41e7bc68490a4f75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077323"
 ---
 # <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Microsoft 365 Multi-Geon avulla organisaatiosi voi laajentaa Microsoft 365 -tavoitettavuustietonsa useille maantieteellisille alueille ja/tai nykyisen vuokraajasi alueille. Katso lisätietoja alla olevista linkeistä.
+Usean Microsoft 365 avulla organisaatiosi voi laajentaa tavoitettavuustietonsa Microsoft 365 maantieteellisille alueille ja/tai nykyisen vuokraajasi alueille. Katso lisätietoja alla olevista linkeistä.
 
 - [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Microsoft 365 Multi-Geo -palvelupaketti](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Usean Microsoft 365 suunnitteleminen](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
 - [Multi-Geo-asetusten määrittäminen](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

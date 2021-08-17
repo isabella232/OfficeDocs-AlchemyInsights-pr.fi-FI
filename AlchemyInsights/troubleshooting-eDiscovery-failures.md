@@ -1,5 +1,5 @@
 ---
-title: 1490-vian määritys-eDiscoveryn virheet
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105565"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Sisältö haun virheiden vian määritys
+# <a name="troubleshoot-content-search-errors"></a>Sisältöhaun virheiden vianmääritys
 
-Onko sinulla ongelmia sisältö haussa tai virheiden saamisessa haku tuloksia vietäessä?
+Onko sisältöhaun kanssa ongelmia tai ilmeneekö hakutuloksia vietäessä virheitä?
 
-Oletko esimerkiksi saanut seuraavat haut, kun suoritat hakuja?
+Saatko esimerkiksi seuraavat tiedot, kun hakuja suoritetaan?
 
-- CS008-tai CS012-virheet
+- CS008- tai CS012-virheet
 
-- Palvelin varattu/aika katkaisu virheet
+- Palvelimen varattu- ja aikakatkaisuvirheet
 
-- Sovellus virhe ilmeni
+- Sovellusvirhe
 
-Tai haettaessa tai vietäessä tuloksia suuresta määrästä posti laatikoita (yli 100 000 posti laatikkoa), Saatko vienti virheitä?
+Jos haet tai viet tuloksia useista postilaatikoista (yli 100 000 postilaatikosta), saatko vientivirheitä?
 
-Jos kyseessä on virhe, yritä etsiä uudelleen epäonnistuneita sisältö sijainteja. Katso lisä tietoja  [tästä artikkelista](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+Yritä tämäntyyppisten virheiden varalta etsiä uudelleen sisältösijainteja, jotka ovat epäonnistuneet. Lisätietoja  [on tässä](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) artikkelissa.
 
-Jos viet yli 100 000 posti laatikkoa, sinun on ladattava vienti tulokset seuraavan PowerShellin avulla: vie  [tulokset yli 100k posti laatikosta](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Jos viet yli 100 000 000 postilaatikkoa, sinun on ladattava vientitulokset seuraavan PowerShellin avulla: Tulosten vieminen yli [100 000 000 postilaatikosta.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

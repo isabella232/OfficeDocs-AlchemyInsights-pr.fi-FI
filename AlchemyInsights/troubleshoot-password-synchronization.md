@@ -1,5 +1,5 @@
 ---
-title: Sala sanan synkronoinnin vian määritys
+title: Salasanasynkronoinnin vianmääritys
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105746"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Sala sanan synkronoinnin vian määritys
+# <a name="troubleshoot-password-synchronization"></a>Salasanasynkronoinnin vianmääritys
 
-Voit määrittää Sala sanojen synkronointi ongelmien vian määrityksen käynnistämällä tämän AAD Connect-vian määritys tehtävän avulla, miksi Sala sanat eivät synkronoidu. Aloita siirtymällä kohtaan [suoran synkronoinnin hallinta](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Aloita salasanojen synkronointiongelmien vianmääritys käyttämällä tätä AAD Näyttöyhteys vianmääritystehtävää sen selvittämiseksi, miksi salasanat eivät synkronoidu. Aloita valitsemalla Suoran [synkronoinnin hallinta.](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)  
 
-1. Avaa uusi Windows PowerShell-istunto Azure AD Connect-palvelimessa ja valitse **Suorita järjestelmänvalvojana** -vaihto ehto.
+1. Avaa uusi Windows PowerShell Azure AD Näyttöyhteys -palvelimessa ja valitse **Suorita järjestelmänvalvojana -vaihtoehto.**
 
-2. Suorita sarja-ExecutionPolicy Remotsigned-tai ExecutionPolicy-käytäntönsä rajoittamattomat.
+2. Suorita Set-ExecutionPolicy RemoteSigned tai Set-ExecutionPolicy Unrestricted.
 
-3. Käynnistä ohjattu Azure AD Connect-toiminto.
+3. Käynnistä ohjattu Azure AD Näyttöyhteys toiminto.
 
-4. Siirry lisä tehtävät-sivulle > **vian määritys**  >  **Seuraava**.
+4. Siirry Lisätehtävät-sivulle > **Vianmääritys**  >  **Seuraava.**
 
-5. Avaa PowerShellin vian määritys-valikko valitsemalla **Käynnistä** .
+5. Avaa  PowerShellin vianmääritysvalikko valitsemalla Käynnistä.
 
-6. Valitse **Sala sanan synkronoinnin vian määritys**.
+6. Valitse **Salasanasynkronoinnin vianmääritys.**
 
-    Ongelma on yleensä se, että tietyn käyttäjä tilin Sala sanaa ei synkronoida.
+    Ongelma johtuu yleensä siitä, että tietyn käyttäjätilin salasanaa ei synkronoida.
 
-    **Huomautukset** Sala sanojen synkronointi epäonnistuu, jos viimeinen onnistunut sala sana synkronoidaan jonkin aikaa sitten.
+    **Huomautukset** Salasanasynkronointi epäonnistuu, jos viimeisin onnistunut salasanasynkronointi oli jokin aika sitten.
 
-Lisä tietoja Sala sanan synkronoinnin vian määrityksestä on Ohje aiheessa [Sala sanan hajautus synkronoinnin vian määritys Azure AD Connect-synkronoinnin avulla](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Lisätietoja salasanojen synkronoinnin vianmäärityksestä on ohjeaiheessa [Salasanojen hash-synkronoinnin vianmääritys Azure AD Näyttöyhteys synkronoinnin kanssa.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
