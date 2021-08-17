@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-sovellusten päivitysten vastaanottamisen viivyttäminen yritys käyttöön
+title: Päivitysten vastaanottamisen viivytys Microsoft 365 -sovellukset suuryrityksille
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102856"
 ---
-# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Microsoft 365-sovellusten päivitysten vastaanottamisen viivyttäminen yritys käyttöön
+# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Päivitysten vastaanottamisen viivytys Microsoft 365 -sovellukset suuryrityksille
 
-Jos sinulla on tietty yritys tarve viivyttää ominaisuuksien päivitysten vastaanottamista Semi-Annual-kanavalla, voit määrittää sovellukset vastaanottamaan nämä ominaisuus päivitykset, mutta saavat silti uusimmat tieto turva päivitykset.
+Jos yrityksesi tarvitsee viivästyttää ominaisuuspäivitysten vastaanottamista Semi-Annual-kanavalta, voit määrittää sovellukset vastaanottamaan näitä ominaisuuspäivityksiä, mutta saat silti uusimmat suojauspäivitykset.
 
-Lisä tietoja on artikkelissa [Microsoft 365-sovellusten yritys käyttöön tarkoitetun Semi-Annual-kanavan viive päivitysten vastaanottaminen](https://go.microsoft.com/fwlink/?linkid=2109533).
+Lisätietoja on kohdassa [Ominaisuuspäivitysten vastaanottamisen viivytys Semi-Annual kanavalta Microsoft 365 -sovellukset suuryrityksille.](https://go.microsoft.com/fwlink/?linkid=2109533)
