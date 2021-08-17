@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge Synciin tarvittava tilaus, joka toimii Azure Active Directory-tileillä
+title: Tilaus tarvitaan Microsoft Edge synkronointia varten, jotta Azure Active Directory kanssa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049602"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Microsoft Edge Synciin tarvittava tilaus, joka toimii Azure Active Directory-tileillä
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Tilaus tarvitaan Microsoft Edge synkronointia varten, jotta Azure Active Directory kanssa
 
-Synkronointi toimii yhdessä seuraavien pakettien kanssa:
+Synkronointi toimii seuraavien tilausten kanssa:
 
 1. Azure Active Directory Premium (P1 ja P2)
 1. Microsoft 365 Business Premium
 1. Office 365 E3 tai uudempi
-1. Azure Information Protectionin (P1 ja P2)
-1. Kaikki Office 365 Education-paketit:
-    - Microsoft-sovellukset opiskelijoille tai opettajille
-    - Opiskelijoiden tai opettajien Exchange Online
-    - Office 365 a1 tai uudempi
-    - Microsoft 365 a1 tai uudempi
-    - Azure Information Protectionin P1 tai P2 opiskelijoille tai opettajille
+1. Azure Information Protection (P1 ja P2)
+1. Kaikki Office 365 Education tilaukset:
+    - Microsoft-sovellukset opiskelijoille tai oppilaille
+    - Exchange Online opiskelijoille tai henkilökunnille
+    - Office 365 A1 tai uudempi
+    - Microsoft 365 A1 tai uudempi
+    - Azure Information Protection P1 tai P2 opiskelijoille tai oppilaille

@@ -1,5 +1,5 @@
 ---
-title: Virheen 30174-4 ratkaisut
+title: Ratkaisut virheeseen 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050151"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Virhe koodi 30174-4 asennettaessa Officea
+# <a name="error-code-30174-4-when-installing-office"></a>Virhekoodi 30174-4 Office
 
-Saatat nähdä tämän virheen, jos virustentorjuntaohjelma, palo muuri, välitys palvelimen asetukset tai yhteys estävät Officen asentamisen. Voit yrittää korjata ongelman seuraavilla tavoilla.
+Saatat nähdä tämän virheen, jos virustentorjuntaohjelmisto, palomuuri, välityspalvelimen asetukset tai yhteys estävät sinua asentamasta Office. Voit yrittää korjata ongelman joillakin ratkaisulla.
   
-- Langallisen yhteyden käyttäminen
+- Langallisen yhteyden käyttö
 
-- Välitys palvelimen asetusten poistaminen käytöstä tilapäisesti
+- Välityspalvelimen asetusten käytöstä väliaikaisesti pois käytöstä
 
 - Virustentorjuntaohjelman poistaminen käytöstä tilapäisesti
 
-[Virhe koodi 30174-4 asennettaessa Officea](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Virhekoodi 30174-4 Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
