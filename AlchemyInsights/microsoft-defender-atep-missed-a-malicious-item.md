@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 2b2e90367ff6875a5ce8affe0cfb973554e0f85a78f6a917f4c520640018ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2d86532f53dbbdd6957f52c855f242c9e994c8e236e69b3ac40800e4bce97d85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012773"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891071"
 ---
 # <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP on ohinnut vahingollisen kohteen
 
-- Lähetä haitallinen tiedosto Microsoftille Microsoft [DefenderIn vastausportaalin analysointia varten.](https://www.microsoft.com/wdsi/filesubmission/) 
+- Lähetä haitallinen tiedosto Microsoftille Microsoft [Defender Response Portalin analysointia varten.](https://www.microsoft.com/wdsi/filesubmission/) 
 - Jos olet kirjautunut sisään, etsi tiedoston lähetyshistoria [Microsoft Defenderin vastausportaalista.](https://www.microsoft.com/wdsi/submissionhistory)
-- Lisätietoja on kohdassa Tiedostojen [lähettäminen analyysia varten.](/windows/security/threat-protection/intelligence/submission-guide)
+- Lisätietoja on kohdassa Tiedostojen [lähettäminen analyysia varten.](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide)

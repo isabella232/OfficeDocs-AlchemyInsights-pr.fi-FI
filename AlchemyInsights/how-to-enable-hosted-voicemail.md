@@ -1,5 +1,5 @@
 ---
-title: Hosted Voicemailin käyttöönotto
+title: Isännöidyn vastaajan ottaminen käyttöön
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055551"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Hosted Voicemailin käyttöönotto
+# <a name="how-to-enable-hosted-voicemail"></a>Isännöidyn vastaajan ottaminen käyttöön
 
-Jos haluat ottaa vasta ajan käyttöön, **Hostedvoicemail** -asetuksena on oltava $TRUE.
+Jos haluat ottaa vastaajan käyttöön, **HostedVoicemail-asetuksena** on oltava $true.
 
-**Hostedvoicemail** -ominaisuus käyttäjän etäpowershellin (RPS) avulla.
+Käyttäjän **HostedVoicemail-ominaisuus,** joka käyttää Etä-PowerShelliä (RPS).
 
-Lisä tietoja yhteyden muodostamisesta RPS-palveluun on [Microsoft teamsin PowerShellin yleiskatsaus](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) -kohdassa, jossa on lisä tietoja yhteyden MUODOSTAMISESTA RPS-palveluun.
+Lisätietoja yhteyden muodostamisesta RPS-palveluntarjoajaan on [Microsoft Teams PowerShellin yleiskatsauksen](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) avulla.
 
-1. Teamsin järjestelmänvalvojan tulee olla kirjautuneena teamsin PowerShell-etäpalvelimeen.
-1. PowerShell-kehotteesta teamsin järjestelmänvalvoja voi suorittaa **joukko-csuser user@contoso.com-Hostedvoicemailin $True** , jossa SIP URI on kyseisessä käyttäjä.
+1. Järjestelmänvalvojan Teams oltava kirjautuneena PowerShell-etäistuntoon Teams.
+1. PowerShellin kehotteesta Teams Järjestelmänvalvoja voi suorittaa **set-csuser-user@contoso.com -HostedVoiceMail-$true** jossa sip uri on kyseiseltä käyttäjältä.
 
 > [!NOTE]
-> Käytäntöjen muutokset voivat kestää jopa 24 tuntia, ennen kuin ne replikoidaan.
+> Käytäntöihin tehdyt muutokset voivat replikoida jopa 24 tuntia.
