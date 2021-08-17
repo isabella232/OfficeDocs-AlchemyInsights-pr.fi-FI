@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988256"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898853"
 ---
 # <a name="fix-anti-spam-policy"></a>Roskapostin estokäytännön korjaus
 
-Tämä sanoma vaikuttaa vuokraajasi mukautettuun roskapostin estokäytäntöön. Voit tarkistaa käytännön seuraavasti:
+Jokin roskapostin estokäytännöistäsi vaikuttaa tähän viestiin. Voit tarkistaa käytännön seuraavasti:
 
-1. Siirry Office 365 [tietoturva- & yhteensopivuuskeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja siirry sitten Threat Management Policy Anti-spam (Uhkien   >  **hallintakäytäntö**  >  [roskapostin esto) -keskukseen.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Valitse **Mukautettu-välilehdessä** **Roskapostin oletussuodatuskäytäntö** tai mikä tahansa muu luomasi mukautettu käytäntö ja valitse sitten **Muokkaa käytäntöä**.
-3. Laajenna **Roskapostin ominaisuudet -vaihtoehto** ja tarkista **Merkitse roskapostiksi -asetukset.**
+1. Siirry Microsoft 365 Defender -portaalissa kohtaan <https://security.microsoft.com/> **Sähköposti- &-&** \> **Käytännöt-osiossa** Sääntöjen uhkien käytännöt \>  \>  roskapostin esto . 
 
-Lisätietoja roskapostin suodatuskäytäntöjen määrittämisestä on kohdassa [Roskapostin suodatuskäytäntöjen mukautettujen asetusten määrittäminen.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Jos haluat siirtyä suoraan **Roskapostin käytännöt -sivulle,** käytä <https://security.microsoft.com/antispam> -
+
+2. Valitse **roskapostikäytännöt** -sivulla käytäntö napsauttamalla käytännön nimeä ( Tyyppi on Mukautettu  roskapostin estokäytäntö tai Nimi roskapostin estokäytäntö **(oletus).** 
+
+3. Valitse näyttöön tulevassa tietojen  pikaikkunassa Muokkaa roskapostin raja-arvoa ja ominaisuuksia Roskapostin **&** -raja-osassa Muokkaa toimintoja **ja** tarkista Merkitse roskapostiksi **-asetukset.**
+
+Lisätietoja on kohdassa [Roskapostin estokäytäntöjen määrittäminen EOP:ssä.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

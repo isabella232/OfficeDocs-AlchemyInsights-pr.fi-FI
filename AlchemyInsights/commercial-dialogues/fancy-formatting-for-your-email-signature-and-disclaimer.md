@@ -1,5 +1,5 @@
 ---
-title: Sähköpostin allekirjoituksen ja vastuuvapauslausekkeen muotoilu
+title: Sähköpostiviestin allekirjoituksen ja vastuuvapauslausekkeen muotoilu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058683"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Sähköpostin allekirjoituksen ja vastuuvapauslausekkeen muotoilu
-Lisätietoja muotoiluista (kuten sosiaalisen median kuvakkeiden, kuvien ja linkkien lisäämiseen organisaatiosi vastuuvapauslausekkeeseen), tietoja yhteensopivuudesta mobiililaitteiden kanssa ja paljon muuta.
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Sähköpostiviestin allekirjoituksen ja vastuuvapauslausekkeen muotoilu
+Lisätietoja muotoiluista (kuten sosiaalisen median kuvakkeiden, kuvien ja linkkien lisäämiseen organisaatiosi vastuuvapausilmoitukseen), tietoja yhteensopivuudesta mobiililaitteiden kanssa ja paljon muuta.
 
-Hae Internetistä sähköpostin **allekirjoitusresursseja.** Useat yritykset, jotka tarjoavat tietoja ja työkaluja, ovat Microsoft Gold -kumppaneita.
+Hae Internetistä sähköpostin **allekirjoitusresursseja**. Useat yritykset, jotka tarjoavat tietoja ja työkaluja, ovat Microsoft Gold -kumppaneita.
