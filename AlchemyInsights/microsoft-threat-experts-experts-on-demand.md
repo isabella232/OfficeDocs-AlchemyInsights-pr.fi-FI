@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Experts - Experts on Demand
+title: Microsoftin uhka-asiantuntijat – asiantuntijoiden vaatimukset
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113917"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts - Experts on Demand
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoftin uhka-asiantuntijat – asiantuntijoiden vaatimukset
 
-Experts on Demand on toinen Microsoft Threat Experts -ominaisuus. Täältä voit ottaa meihin yhteyttä, kun tarvitset konsultaatioita oleellisia tunnistuksia ja adversaareja koskevista kysymyksistä.
+Experts on Demand on toinen Microsoftin uhka-asiantuntijat ominaisuus. Täältä voit ottaa meihin yhteyttä, kun haluat ottaa yhteyttä merkityksellisiä tunnistuksia ja adversaareja koskevista kysymyksistä.
 
-Jos olet jo Defender for Endpoint -asiakas, voit ottaa yhteyttä Microsoft-edustajaan ja tilata Microsoft Threat Experts - Experts on Demandin.
+Jos olet jo Defender for Endpoint -asiakas, voit ottaa yhteyttä Microsoft-edustajaan ja tilata Microsoftin uhka-asiantuntijat - Experts on Demand -palvelun.
 
-Konsultoi **uhkien** asiantuntijaa on saatavilla portaalin seuraavissa valikoissa, joissa voit olla yhteydessä asiantuntijoihin tutkimuksen aikana:
+**Uhkien asiantuntijan** konsultoiminen on käytettävissä portaalin seuraavissa valikoissa, joissa voit olla yhteydessä asiantuntijoihin tutkimuksen aikana:
 
-- Ohje- ja tukivalikko
-- Laitteen sivun toiminnot -valikko
+- Ohje ja tuki -valikko
+- Laitteen sivutoiminnot -valikko
 - Ilmoitussivun toiminnot -valikko
 - Tiedostosivun toiminnot -valikko
 
-Lisätietoja on kohdassa [Microsoft Threat Experts -ominaisuuksien määrittäminen ja hallinta.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Lisätietoja on kohdassa [Microsoftin uhka-asiantuntijat määrittäminen ja hallinta.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

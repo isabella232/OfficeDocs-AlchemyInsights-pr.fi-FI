@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "1500021"
 - "4689"
-ms.openlocfilehash: 696826bffab9e3206f5a32735a7fd41e264545a8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4ab89bacadea74ff3eba8d42ee1340164bded2816e274b8222dd48613c01e5ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316101"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901141"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Käyttöoikeuksien siirtäminen vuokraajien välillä
 
@@ -31,6 +31,6 @@ Käyttöoikeuksia **ei voi** siirtää kahden organisaation (vuokraajan) välill
 - Kummassakin tapauksessa haluat ehkä siirtää postilaatikot ja muut tiedot:
 
     - [Postilaatikoiden siirtäminen](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-    - [Siirrä SharePoint tiedot](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
+    - [Tietojen SharePoint siirtäminen](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
 Lisätietoja: [Käyttöoikeuksien ostaminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

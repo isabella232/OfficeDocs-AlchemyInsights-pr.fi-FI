@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020081"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317137"
 ---
 # <a name="understand-billing-amount"></a>Laskutussumman ymmärtäminen
 
@@ -70,7 +70,9 @@ Ei. Asiakkaat saavat kiinteän määrän maksuttoman tason palveluja ja 200 $ hy
 
 **Miten voin varmistaa, että maksuttomat palvelut ovat aktiivisia tai milloin ne vanhenevat?**
 
-Selaa Ibiza-portaalissa > Tilaus > Yleiskatsaus > vieritä alaspäin ilmaisiin palveluihin 12 kuukauden ajaksi ja napsauta Tiedot-kuvaketta. Tällöin näkyviin tulee päivämäärä, jolloin maksuttomat palvelut vanhentuvat **Huomautus**: V1-palvelut eivät kuulu Azuren ilmaisiin palveluihin. Ajan tasalla oleva maksuttomien palvelujen luettelo on saatavilla kohdassa [Mitkä tuotteet ovat saatavilla maksutta 12 kuukauden ajan](http://www.microsoftazuresponsorships.com/)
+Selaa Ibiza-portaalissa > Tilaus > Yleiskatsaus > vieritä alaspäin ilmaisiin palveluihin 12 kuukauden ajaksi ja napsauta Tiedot-kuvaketta. Tämä näyttää päivämäärän, jolloin maksuttomat palvelut vanhentuvat
+
+**Huomautus:** Ei V1-palveluita, jotka kuuluvat Azuren ilmaisiin palveluihin. Ajan tasalla oleva maksuttomien palvelujen luettelo on saatavilla kohdassa [Mitkä tuotteet ovat saatavilla maksutta 12 kuukauden ajan](http://www.microsoftazuresponsorships.com/)
 
 Muita usein kysyttyjä kysymyksiä: [Maksuttoman tilin usein kysytyt kysymykset](https://azure.microsoft.com/free/free-account-faq/)
 

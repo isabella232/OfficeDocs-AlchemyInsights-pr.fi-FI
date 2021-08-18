@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107014"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317341"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Tilauksen keskeyttäminen tai keskeyttäminen
 
@@ -27,6 +27,6 @@ Jos haluat keskeyttää tilauksen tilapäisesti tai keskeyttää sen, voit peruu
 
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat peruuttaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Peruuta tilaus**.
-3. Tilauksen tilaksi tulee **Ei käytössä** ja tilauksen peruutuksen päivämäärä. Tilaus on poissa käytöstä 90 päivän ajan, ja sen toiminnallisuutta on vähemmän, kunnes se poistetaan tai [aktivoidaan uudelleen.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Tilauksen tilana näkyy **Ei käytössä** ja tilauksen peruuttamispäivämäärä. Tilaus on poissa käytöstä 90 päivän ajan, ja sen toiminnallisuutta on vähemmän, kunnes se poistetaan tai [aktivoidaan uudelleen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Lisätietoja on ohjeissa [Mitä tapahtuu, kun peruutat tilauksen](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) ja [Tallenna tietosi](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Lisätietoja on ohjeissa [Mitä tapahtuu, kun peruutat tilauksen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) ja [Tallenna tietosi](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).

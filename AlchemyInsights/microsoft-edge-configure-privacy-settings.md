@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge tieto suoja-asetusten määrittäminen
+title: Microsoft Edge asetusten määrittäminen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114169"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge tieto suoja-asetusten määrittäminen
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge asetusten määrittäminen
 
-Oletusarvoisesti jos Microsoft Edge on käytössä muissa kuin Windows-ympäristöissä, diagnostiikka tietoja ja sivuston tietoja ei lähetetä Microsoftille. Jos Microsoft Edge on otettu käyttöön Windows 10: ssä, diagnostiikka tiedot ja sivuston tiedot lähetetään käyttäjän [Windows Diagnostic Data-asetusten](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)mukaisesti.
+Jos diagnostiikkatiedot Microsoft Edge oletusarvoisesti käytössä ei-Windows alustoilla, diagnostiikkatietoja ja sivuston tietoja ei lähetetä Microsoftille. Jos diagnostiikkatiedot Microsoft Edge käytössä Windows 10, diagnostiikkatiedot ja sivustotiedot lähetetään käyttäjien Windows [diagnostiikkatietojen asetusten mukaan.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Jos haluat määrittää, miten Microsoft Edge käsittelee organisaation tietojen keräämistä, käytä seuraavia ryhmä käytäntöjä:
-- [Metromicsportagenabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Tämä käytäntö mahdollistaa käytön ja kaatumis tietoihin liittyvien tietojen ilmoittamisen.
-- [Sendsiteinfotoimproveservices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Tämä toiminto lähettää sivuston tietoja, joita käytetään Microsoftin palveluiden parantamiseen.
+Voit määrittää Microsoft Edge miten organisaatiosi tietojen kerääminen käsittelee tietoja, käyttämällä seuraavia ryhmäkäytäntöjä:
+- [MetricsReportingEnabled:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled)Tämä käytäntö mahdollistaa käytön ja kaatumiseen liittyvien tietojen raportoinnin.
+- [SendSiteInfoToImproveServices:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices)Tämä käytäntö lähettää sivuston tietoja, joita käytetään Microsoft-palvelut.
 
-Lisä tietoja on Ohje aiheessa [käytäntöjen asetusten määrittäminen](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Lisätietoja on kohdassa [Käytäntöasetusten määrittäminen.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

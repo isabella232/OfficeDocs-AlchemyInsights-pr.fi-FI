@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967150"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317739"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Suojatun viestin tarkastelemiseen Outlook
 
@@ -28,8 +28,7 @@ Jos haluat avata salattuja viestejä, käyttäjien on tehtävä seuraavat toimet
 
 1. Valitse käytettävän sähköpostiohjelman mukaan **Lue viesti tai** vastaava kehote. Käyttäjät ohjataan sivulle, jossa he voivat kirjautua sisään ja saada kertakäyttökoodin.
 
-> [!NOTE]
-> Gmail-käyttäjiä pyydetään kirjautumaan Sisään Gmail-tilillä. Viesti avautuu uuteen välilehteen, kun valitset **Salli**.
+    **Huomautus:** Gmail-käyttäjiä pyydetään kirjautumaan sisään Gmail-tilillä. Viesti avautuu uuteen välilehteen, kun valitset **Salli**.
 
 2. Etsi kertakäyttökoodi sähköpostista ja kirjoita koodi selainikkunaan.
 

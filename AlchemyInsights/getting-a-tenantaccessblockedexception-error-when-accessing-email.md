@@ -1,5 +1,5 @@
 ---
-title: 127, kun käytät sähkö postia?
+title: 127 TenantAccessBlockedException-virheen saaminen sähköpostia käytettäessä?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089437"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Saatko TenantAccessBlockedException-virheen, kun käytät sähkö postia?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Saatko TenantAccessBlockedException-virheilmoituksen, kun sähköpostia käytetään?
 
-Saatat saada tämän virhe ilmoituksen muutamasta eri syystä. Esimerkiksi:
+Tämä virhe voi tulla näyttöön muutamasta eri syystä. Esimerkiksi:
 
-- Varmista, että tilauksesi on voimassa **Billing** \> Microsoft 365-hallinta keskuksen laskutus **[tuotteet](https://portal.office.com/adminportal/home#/subscriptions)** -sivulla.
+- Varmista, että tilauksesi  on voimassa \> **[Laskuta tuotteesi](https://portal.office.com/adminportal/home#/subscriptions)** -sivulla Microsoft 365 -hallintakeskus.
 
-- Tarkista, onko **Billing** \> Microsoft 365-hallinta keskuksen laskutus **[laskut-& maksut](https://portal.office.com/adminportal/home#/billoverview)** -sivulla erääntyvien ilmoitusten määrä.
+- Tarkista mahdolliset erääntyneiden  maksujen ilmoitukset & \> **[laskujen](https://portal.office.com/adminportal/home#/billoverview)** ja maksujen Microsoft 365 -hallintakeskus.
 
-- Jos tilisi Laskutus ja tila uksia on päivitetty äskettäin, muutosten levittäminen saattaa kestää kauan. Yritä uudelleen muutaman minuutin kuluttua, ja jos ongelma jatkuu, ota meihin yhteyttä.
+- Jos tilisi laskutus ja tilaukset on päivitetty äskettäin, muutosten välittyminen voi kestää jonkin aikaa. Yritä uudelleen muutaman minuutin kuluttua, ja jos ongelma jatkuu, ota meihin yhteyttä.
