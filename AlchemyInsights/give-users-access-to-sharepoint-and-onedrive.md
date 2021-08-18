@@ -1,5 +1,5 @@
 ---
-title: SharePointin ja OneDriven käyttö oikeuksien antaminen käyttäjille
+title: Anna käyttäjille SharePoint ja OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088897"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>SharePointin ja OneDriven käyttö oikeuksien antaminen käyttäjille
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Anna käyttäjille SharePoint ja OneDrive
 
 > [!NOTE]
-> Jos OneDrive-tai SharePoint-sivusto ei ole käytettävissä useille käyttäjille, joilla on aiemmin ollut käyttö oikeus, kyseessä saattaa olla väliaikainen palvelu ongelma. [Palvelun kunnon koonti näytön tarkistaminen](https://portal.office.com/adminportal/home#/servicehealth)
+> Jos OneDrive tai SharePoint ei ole useiden käyttäjien käytettävissä, joilla oli aiemmin käyttöoikeus, palvelu voi olla tilapäinen. [Palvelun kunto -koontinäytön tarkastaminen](https://portal.office.com/adminportal/home#/servicehealth)
   
-Jos haluat, että organisaation käyttäjät voivat kirja utua sisään ja käyttää SharePointia ja OneDrivea, sinun on lisättävä heidän tilejään ja varmistettava, että heillä on käyttö oikeus, jonka avulla he voivat käyttää SharePointia ja OneDrivea. Helpoin tapa lisätä käyttäjiä on Microsoft 365-hallinta keskuksessa.
+Jos haluat, että organisaatiosi käyttäjät voivat kirjautua sisään ja käyttää SharePoint- ja OneDrive-tilejä, sinun on lisättävä heille tilit ja varmistattava, että heillä on käyttöoikeus, jonka avulla he voivat käyttää SharePoint ja OneDrive. Helpoin tapa lisätä käyttäjiä on Microsoft 365 -hallintakeskus.
   
-1. Siirry [Microsoft 365-hallinta keskuksen aktiiviset käyttäjät-sivulle](https://portal.office.com/adminportal/home#/users)ja valitse sitten **Lisää käyttäjä**.
+1. Siirry [Aktiiviset käyttäjät -sivulle Microsoft 365 -hallintakeskus](https://portal.office.com/adminportal/home#/users)ja valitse **sitten Lisää käyttäjä**.
     
-2. Täytä käyttäjän tiedot ja varmista, että **tuotteen käyttö oikeudet**-kohdassa on määritetty käyttö oikeus ja että **SharePoint Online** on valittuna. 
+2. Täytä käyttäjän tiedot ja varmista, että Tuotteen käyttöoikeudet -kohdassa on määritetty käyttöoikeus ja **että SharePoint Online** on valittuna. 
     
-Huomaa, että jos sallit ulkoista jakamista organisaatiossasi, käyttäjät voivat jakaa SharePointin ja OneDriven sisältöä organisaation ulkopuolisten henkilöiden kanssa. Sinun ei tarvitse antaa näille ulkoisille käyttäjille käyttö oikeuksia. Sinun ei myöskään tarvitse lisätä tilejäsi, ellei jakamis asetukseksi ole valittu vain olemassa olevia ulkoisia käyttäjiä. Siinä tapa uksessa, jos henkilöt eivät ole organisaatiosi hakemistossa, sinun on lisättävä heidät vieras käyttäjiksi Azure AD-hallinta keskuksessa.
+Huomaa, että jos sallit ulkoisen jakamisen organisaatiossasi, käyttäjät voivat jakaa SharePoint ja OneDrive sisältöä organisaation ulkopuolisten käyttäjien kanssa. Näitä ulkoisia käyttäjiä ei tarvitse antaa käyttöoikeuksia. Sinun ei myöskään tarvitse lisätä heille tilejä, ellei jakamisen arvoksi ole määritetty Vain aiemmin luodut ulkoiset käyttäjät. Jos henkilöt eivät ole organisaatiosi hakemistossa, sinun on tällöin lisättävä heidät vieraskäyttäjiksi Azure AD -hallintakeskuksessa.
   
 

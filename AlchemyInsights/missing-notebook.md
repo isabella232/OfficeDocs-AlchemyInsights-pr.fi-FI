@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 641a65038520a42b3a62dc2a3ff6a989238ba422649a973adb6f42cf556e5a53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113557"
 ---
 # <a name="recover-missing-notebook"></a>Puuttuvien muistikirjojen palauttaminen
 
-Jos OneDrivessa olevan muistikirjan poistaminen on vahingossa poistettu, voit palauttaa sen noudattamalla ohjeita, jotka ovat ohjeissa Poistettujen tiedostojen tai [kansioiden palauttaminen OneDrivessa](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Jos muistikirja OneDrive vahingossa poistettu, voit palauttaa sen noudattamalla ohjeita, jotka ovat vaihtoehdot Poistettujen tiedostojen tai kansioiden [OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Voit palauttaa poistetun OneDrive-muistikirjan oletusarvoisesti 30 päivän kuluessa noudattamalla ohjeita, jotka on ohjeet poistetun [OneDriven palauttamiseen.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Voit palauttaa poistetun muistikirjan OneDrive oletusarvoisesti 30 päivän kuluessa noudattamalla ohjeita, jotka on ohjeet poistetun [muistikirjan OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote voi käyttää toista tiliä kuin oletit. Jos sinulla on henkilökohtaisen Microsoft-tilisi lisäksi myös työ- tai koulutili, sinun on lisättävä toinen tilisi, jotta voit tarkastella kaikkia muistikirjojasi (katso ohjeet tilin lisääminen [OneNotessa).](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
+OneNote saattavat käyttää toista tiliä kuin oletit. Jos sinulla on henkilökohtaisen Microsoft-tilisi lisäksi myös työ- tai koulutili, sinun on lisättävä toinen tilisi, jotta voit tarkastella kaikkia muistikirjojasi (katso ohjeet tilin lisääminen [OneNote:](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)

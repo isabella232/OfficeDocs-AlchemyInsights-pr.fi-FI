@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen muokkaaminen käyttämällä tieto hakemisto muuttujia kovakoodattu-polkujen sijaan
+title: Tietojen Microsoft Edge tietohakemiston muuttujien avulla koodaavien polkujen sijaan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113413"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Microsoft Edgen muokkaaminen käyttämällä tieto hakemisto muuttujia kovakoodattu-polkujen sijaan
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Tietojen Microsoft Edge tietohakemiston muuttujien avulla koodaavien polkujen sijaan
 
-Esimerkiksi Windowsissa voit tallentaa profiili tiedot käyttäjän paikallisten sovellus tietojen alle oletus sijainnin sijaan määrittämällä **Userdatadir** -käytännöksi **$ {local_app_data} \edge\profile**. 
+Jos esimerkiksi Windows tallentaa profiilitiedot käyttäjän paikallisiin sovellustietoihin oletussijainnin sijaan, määritä **UserDataDir-käytännön** arvoksi **${local_app_data}\Edge\Profile.** 
 
-Lisä tietoja on artikkelissa [Microsoft Edge User Data-hakemiston muuttujien luominen](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Lisätietoja on kohdassa [Käyttäjätietohakemiston Microsoft Edge luominen](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).

@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028731"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899881"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ulkoisen sähköpostin edelleenlähetysmäärityksen tunnistaminen postilaatikoissa
 
-Kun Microsoft 365 määrittää postilaatikon ulkoisen sähköpostin edelleenlähetystä, toiminta valvotaan osana **Set-Mailbox-cmdlet-komentoa.** Näet toiminnon valvontalokihaun avulla tietoturva- & yhteensopivuuskeskuksessa.
+Kun Microsoft 365 määrittää postilaatikon ulkoisen sähköpostin edelleenlähetystä, toiminta valvotaan osana **Set-Mailbox-cmdlet-komentoa.** Näet toiminnon valvontalokihaun avulla. Voit tehdä sen näin.
 
-1. Kirjaudu Microsoft 365 [yhteensopivuuskeskukseen.](https://protection.office.com/)
+1. Tee jokin seuraavista toimista:
+   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> :ssä Ratkaisujen  \> **valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://compliance.microsoft.com/auditlogsearch> -
+   - Valitse Microsoft 365 Defender -portaalissa <https://security.microsoft.com> **Valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://sip.security.microsoft.com/auditlogsearch> -
 
-2. Siirry haun   >  **valvontalokihakusivulle.**
+2. Varmista **Valvonta-sivulla,** että **Haku-välilehti** on valittuna, ja määritä sitten seuraavat asetukset:
+   - Valitse päivämäärä- ja aikaalue Aloitus- ja **Loppu-ruuduissa.** 
+   - Tarkista, että Toiminnot-ruudussa **on Näytä kaikkien toimintojen tulokset**. 
 
-3. Valitse päivämääräalue Alkamispäivä- ja **Päättymispäivä-kentistä.**  Käyttäjänimeä ei tarvitse määrittää. Tarkista, **että Toiminnot-kentän** **arvoksi on määritetty Näytä kaikkien toimintojen tulokset**.
+3. Kun olet valmis, valitse **Hae**. Toiminnot näkyvät uudella **Valvontahaku-sivulla.**
 
-4. Valitse **Hae**.
+4. Valitse tuloksissa **Suodata tulokset** ja kirjoita **Toimintasuodatin-ruutuun Set-Mailbox.**
 
-Valitse tuloksissa **Suodata tulokset** ja kirjoita **Toimintasuodatin-ruutuun Set-Mailbox.** Valitse valvontatietue tuloksista. Valitse **Tiedot-pikaikkunassa** **Lisätietoja**. Sinun on tarkastettava kunkin valvontatietueen tiedot sen määrittämiseksi, liittyykö toiminto sähköpostin edelleenlähetystän.
+5. Valitse valvontatietue tuloksista. Valitse **Tiedot-pikaikkunassa** **Lisätietoja**. Sinun on tarkastettava kunkin valvontatietueen tiedot sen määrittämiseksi, liittyykö toiminto sähköpostin edelleenlähetystän.
 
-- **ObjectId:** Muokatun postilaatikon aliasarvo.
+   - **ObjectId:** Muokatun postilaatikon aliasarvo.
+   - **Parametrit:** _ForwardingSmtpAddress osoittaa_ kohdesähköpostiosoitteen.
+   - **UserId:** Käyttäjä, joka on määrittänyt sähköpostin edelleenlähetystä postilaatikossa **ObjectId-kentässä.**
 
-- **Parametrit:** _ForwardingSmtpAddress osoittaa_ kohdesähköpostiosoitteen.
-
-- **UserId:** Käyttäjä, joka määritti sähköpostin edelleenlähetystä postilaatikossa **ObjectId-kentässä.**
-
-Lisätietoja on kohdassa [Postilaatikon sähköpostin edelleenlähetysten määritysten selvittäminen.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Lisätietoja on kohdassa [Postilaatikon sähköpostin edelleenlähetysten määritysten selvittäminen.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

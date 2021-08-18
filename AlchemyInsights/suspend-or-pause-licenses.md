@@ -15,23 +15,23 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501309"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900105"
 ---
 # <a name="suspend-or-pause-licenses"></a>Käyttöoikeuksien keskeyttäminen tai keskeyttäminen
 
 **KATSO video,** jossa näytetään, miten voit tehdä tämän: [Olemassa olevien käyttöoikeuksien poistaminen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Jos haluat keskeyttää käyttöoikeuden käytön tilapäisesti tai keskeyttää sen, voit Microsoft 365 -hallintakeskus käyttöoikeuksia ja lisätä ne sitten uudelleen myöhemmin.
+Jos haluat keskeyttää käyttöoikeuden käytön tilapäisesti, voit poistaa käyttöoikeudet Microsoft 365 -hallintakeskus ja lisätä ne sitten uudelleen myöhemmin.
 
-1. Ennen kuin poistat käyttöoikeuksia tilauksesta, sinun on [ensin poistattava käyttöoikeuksien käyttöoikeuksien poistaminen käyttäjiltä.](/microsoft-365/admin/manage/remove-licenses-from-users)
+1. Ennen kuin poistat käyttöoikeuksia tilauksesta, sinun on [ensin poistattava käyttöoikeuksien käyttöoikeuksien poistaminen käyttäjiltä.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Siirry seuraavaksi   >  [Laskutustuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 3. Valitse **Tuotteet-välilehdessä** tilaus, jonka haluat päivittää.
 4. Valitse tilauksen tiedot -sivulla **Poista käyttöoikeuksia**.
-5. Kirjoita **Poista käyttöoikeuksia** -ruudun  Käyttöoikeuksia yhteensä -ruutuun tilaukseen haluamasi käyttöoikeuksien kokonaismäärä ja valitse **Tallenna**. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat keskeyttää 25 käyttöoikeutta tai keskeyttää sen, kirjoita tilauksen käyttöoikeuksiksi 75.
+5. Kirjoita **Poista käyttöoikeuksia** -ruudun **Käyttöoikeuksia** yhteensä -ruutuun tilaukseen haluamasi käyttöoikeuksien kokonaismäärä ja valitse **Tallenna**. Jos sinulla on esimerkiksi 100 käyttöoikeutta ja haluat keskeyttää 25 käyttöoikeutta tai keskeyttää sen, kirjoita tilauksen käyttöoikeuksiksi 75.
 
-Lisätietoja: [Käyttöoikeuksien ostaminen ja poistaminen](/microsoft-365/commerce/licenses/buy-licenses).
+Lisätietoja: [Käyttöoikeuksien ostaminen ja poistaminen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
