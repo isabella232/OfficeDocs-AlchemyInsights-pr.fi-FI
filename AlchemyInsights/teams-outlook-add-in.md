@@ -14,23 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956512"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901213"
 ---
-# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook -apuohjelma (Jaa Teams ,Kokous nyt, Uusi Teams kokous, Teams kokous)
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook -apuohjelma (Jaa Teams -, Teams-kokous, Teams kokous)
 
 ## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Puuttuvan apuohjelman Teams Outlook vianmääritys
 
-1. Suorita vianmääritys "Ryhmä-apuohjelma puuttuu Outlook", joka vahvistaa, että käyttäjällä on oikeat käytännöt Teams Outlook käyttöön. Voit käyttää vianmääritystä **kirjoittamalla hakuruutuun Teams apuohjelma puuttuu Outlook** apuohjelmasta.
+1. Suorita vianmääritystyökalu "Team Add-in is missing in Outlook", joka vahvistaa, että käyttäjällä on oikeat käytännöt Teams Outlook apuohjelman käyttöön. Käytä vianmääritystä kirjoittamalla **hakuruutuun Teams apuohjelma puuttuu Outlook Diag:**
 
-1. Jos palvelun vianmääritys tarkoittaa ongelmia, suorita Microsoft [tuki- ja palautusavustaja](https://aka.ms/SaRA-TeamsAddInScenario)Teams Outlook -apuohjelman lataaminen ja määrityksen avulla asiakaskoneiden  >  **asiakasongelmat.**
+1. Jos palvelun vianmääritys tarkoittaa ongelmia, suorita Microsoft [tuki- ja palautusavustaja](https://aka.ms/SaRA-TeamsAddInScenario)Teams Outlook -apuohjelman lataaminen ja määrityksen avulla kaikki asiakaskoneiden  >  **asiakasongelmat.**
 
-Jos haluat manuaalisesti tehdä Teams Outlook apuohjelman vianmäärityksen, lue luettelo mahdollisista tekijöistä, jotka saattavat aiheuttaa Teams, että apuohjelma ei näy luettelossa. Lisätietoja on kohdassa Teams -apuohjelman Outlook [Windows ei näy](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Jos haluat tehdä puuttuvien Teams Outlook vianmäärityksen manuaalisesti, lue luettelo mahdollisista tekijöistä, joiden vuoksi Teams ei näy luettelossa. Lisätietoja on kohdassa Teams -apuohjelman Outlook [Windows ei näy](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Kokouksen ajoittamisen Teams toisen puolesta (edustaja)
 
-Jos haluat Teams kokouksen toisen käyttäjän puolesta, katso lisätietoja ohjeista Microsoft Teams ja [Exchange Server vianmääritys.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Jos haluat Teams kokouksen toisen käyttäjän puolesta, katso lisätietoja ohjeista Microsoft Teams ja [Exchange Server ongelmien vianmääritys.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

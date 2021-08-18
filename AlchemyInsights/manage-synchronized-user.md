@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfa66492397adfd121fd3c9ddb2c190394cbc9a771a3e2c2db656ad438e404f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114775"
 ---
 # <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Ensisijaisen sähköpostiosoitteen määrittäminen, käyttäjän määritteiden muuttaminen tai synkronoidun käyttäjän poistaminen tai poistaminen ei onnistu
 
-Jos hakemistosynkronointi on käytössä ympäristössäsi, joitakin käyttäjä- tai objektimääritteitä ei voi muuttaa Microsoft 365 -hallintakeskuksen avulla.
+Jos ympäristön hakemistosynkronointi on käytössä, joitakin käyttäjä- tai objektimääritteitä ei voi muuttaa Microsoft 365 -hallintakeskus.
 
 Voit hallita synkronoituja käyttäjiä ja kaikkia niiden määritteitä täydellisesti paikallisilla Active Directory -käyttäjillä ja ryhmien hallintakonsolilla (adsiedit.msc).  
 

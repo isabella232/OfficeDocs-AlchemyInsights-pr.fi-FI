@@ -1,5 +1,5 @@
 ---
-title: 723 Sähkö posti tunnuksen määrittäminen käyttäjälle ensisijaisena Sähkö posti viestissä
+title: 723 Sähköpostitunnuksen tekeminen käyttäjälle ensisijaiseksi sähköpostiviestille
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 497eae2b73aef78d6e6782f4302e5c30b173139b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d63112808ceaf2cfa66006ca7d734a78831a8593242af0a9e5ad86787e67cf1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114889"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Sähkö posti tunnuksen määrittäminen käyttäjän ensisijaisena osoitteeksi
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Sähköpostialiaksen määrittäminen käyttäjän ensisijaiseksi osoitteeksi
 
-Lisä tietoja on artikkelissa [toisen Sähkö posti tunnuksen lisääminen käyttäjälle](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user).
+Ohjeet ovat kohdassa [Toisen sähköpostitunnuksen lisääminen käyttäjälle.](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
 
-**Huomautus**: Jos organisaatiosi on yhdistelmä tilassa, sinun on muutettava paikallista Exchange-organisaatiota koskevaa pääsähkö posti osoitetta. Lisä tietoja on Ohje aiheessa posti [laatikon Sähkö posti osoitteiden lisääminen tai poistaminen](https://technet.microsoft.com/library/bb123794.aspx).
+**Huomautus:** Jos organisaatiosi on yhdistelmätilassa, sinun on muutettava paikallisen organisaation Exchange. Lisätietoja on kohdassa [Postilaatikon sähköpostiosoitteiden lisääminen tai poistaminen.](https://technet.microsoft.com/library/bb123794.aspx)
