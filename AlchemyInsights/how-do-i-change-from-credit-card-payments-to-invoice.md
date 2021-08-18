@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868675"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323783"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Miten voin vaihtaa luottokorttimaksusta laskuun?
 
-> [!NOTE]
-> Voit muuttaa laskulla maksettavaa maksua vain, jos tilauksesi hinta on yli tietyn summan. Sinun on ensin maksettava kaikki avoimet saldot luotto- tai debit-kortilla tai pankkitilillä, ennen kuin voit muuttaa laskulla maksettavaksi maksuksi.
+**Huomautus:** Voit muuttaa maksua laskulla vain, jos tilauksesi hinta on tiettyä summaa suurempi. Sinun on ensin maksettava kaikki avoimet saldot luotto- tai debit-kortilla tai pankkitilillä, ennen kuin voit muuttaa laskulla maksettavaksi maksuksi.
 
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat maksaa vaihtoehtoisen maksutavan avulla.

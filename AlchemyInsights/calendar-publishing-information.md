@@ -1,5 +1,5 @@
 ---
-title: 613-kalenterin julkaisujen julkaisemista koskevat tiedot
+title: 613 Kalenterin julkaisutiedot
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaf3eb249c2de449ca4e31486eb19c760512f1d9f8be2d1f501e7cdf54de62ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119965"
 ---
-# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Kalenterin jakamisen ottaminen käyttöön Microsoft 365-hallinta keskuksen avulla
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Kalenterin jakamisen ottaminen käyttöön Microsoft 365 -hallintakeskus
 
-1. Siirry hallinta keskuksessa kohtaan **Asetukset**   >   **organisaatio asetukset**.
-2. Valitse  **Palvelut**  -väli lehdessä  **kalenteri**.
-3. Valitse avautuvassa  **kalenteri**  -sivulla, Haluatko antaa käyttäjien jakaa kalentereitaan organisaatiosi ulkopuolisille henkilöille, joilla on Microsoft 365 tai Exchange.
-4. Valitse, haluatko sallia anonyymien käyttäjien (käyttäjät, joilla ei ole kirjautumistietoja) käyttää kalentereita Sähkö posti kutsun kautta.
-5. Valitse, minkä tyyppisiä kalenteri tietoja käyttäjät voivat käyttää. Voit sallia kaikki tiedot tai rajoittaa ne vain ajan tai ajan, aiheen ja sijainnin mukaan.
+1. Siirry hallintakeskuksessa organisaatio- Asetukset   >   **Asetukset.**
+2. Valitse  **Palvelut-välilehdessä**  **Kalenteri**.
+3. Valitse **kalenterisivulla,** haluatko antaa käyttäjien jakaa kalenterinsa organisaatiosi ulkopuolisten käyttäjien kanssa, jotka ovat Microsoft 365 tai Exchange.
+4. Valitse, haluatko sallia anonyymien käyttäjien (käyttäjät, joilla ei ole kirjautumisen tunnistetietoja) käyttää kalentereita sähköpostikutsun kautta.
+5. Valitse, minkä tyyppisiä kalenteritietoja käyttäjät voivat käyttää. Voit sallia kaikki tiedot tai rajoittaa ne vain kellonaikaan, aikaan, aiheeseen ja sijaintiin.
 
-Lisä tietoja: [Kalenterien jakaminen ulkoisille käyttäjille](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
+Lisätietoja: [Kalenterien jakaminen ulkoisten käyttäjien kanssa](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)

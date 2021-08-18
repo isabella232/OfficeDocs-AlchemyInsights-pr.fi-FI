@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003566"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325460"
 ---
 # <a name="enable-cost-management"></a>Ota kustannusten hallinta käyttöön
 
 **Mitä organisaatiosi kustannukset on poistettu käytöstä?**
 
-Organisaatiot, jotka Enterprise Agreement -sopimus (EA) - tai Microsoft Customer Agreement (MCA) -tilejä, voivat poistaa kustannustietoja ja hinnoittelutietoja käytöstä.
+Organisaatiot, Enterprise Agreement -sopimus (EA)- tai Microsoft Customer Agreement (MCA) -tilit, voivat poistaa kustannustietoja ja hinnoittelutietoja käytöstä.
 
-Kun käyttäjä on kirjautunut Azure-portaaliin, hän voi laskutusrajapintojen avulla saada laskuja (kun olet valinnut) ja käyttötietoja ohjelmallisesti.
+Kun käyttäjä on kirjautunut Azure-portaaliin, hän voi laskutusrajapintojen avulla saada laskuja (kun käyttäjä on suostunut ohjelmaan) ja käyttötietoja ohjelmallisesti.
 
 **Lisäkäyttäjien laskujen käytön salliminen**
 
@@ -34,8 +34,7 @@ Kun käyttäjä on kirjautunut Azure-portaaliin, hän voi laskutusrajapintojen a
 2. Valitse **Laskut** ja sitten **Access to invoices (Käytä laskuja).**
 3. Ota käyttöoikeus käyttöön ja tallenna muutokset, jotta tilauksen laajuuden mukaan määritettyjen roolien käyttäjät voivat ladata laskuja.
 
-> [!NOTE]
-> Tilin järjestelmänvalvoja voi myös määrittää, että laskut lähetetään sähköpostitse. Lisätietoja on kohdassa [Laskun saaminen sähköpostitse.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Huomautus:** Tilin järjestelmänvalvoja voi myös määrittää, että laskut lähetetään sähköpostitse. Lisätietoja on kohdassa [Laskun saaminen sähköpostitse.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Käyttäjien lisääminen laskutuksen lukuohjelman rooliin**
 

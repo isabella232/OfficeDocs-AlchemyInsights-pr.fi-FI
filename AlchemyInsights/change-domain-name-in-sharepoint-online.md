@@ -1,5 +1,5 @@
 ---
-title: Toimi alueen nimen muuttaminen SharePoint Onlinessa
+title: Toimialueen nimen muuttaminen SharePoint Onlinessa
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119821"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Toimi alueen nimen muuttaminen SharePoint Onlinessa
+# <a name="change-domain-name-in-sharepoint-online"></a>Toimialueen nimen muuttaminen SharePoint Onlinessa
 
-Organisaation SharePoint Online-toimi alue nimeä ei valitettavasti voi muuttaa. Jos esimerkiksi organisaatiosi nimi muuttuu "contoso"-funktiolta "Fourth Coffee", et voi muuttaa contoso.sharepoint.com fourthcoffee.sharepoint.com.
+Valitettavasti organisaation SharePoint Online -toimialuenimeä ei voi muuttaa. Jos organisaation nimi vaihtuu esimerkiksi Contososta Fourth Coffeeksi, et voi muuttaa nimeä contoso.sharepoint.com fourthcoffee.sharepoint.com.
   
-Jos haluat käyttää toimi alue nimeä fourthcoffee.sharepoint.com, sinun on ostettava uusi tilaus ja siirrettävä kaikki sähkö postit, tiedostot ja muut tiedot, jotka haluat säilyttää uudessa tila uksessa.
+Jos haluat käyttää fourthcoffee.sharepoint.com, sinun on hankittävä uusi tilaus ja siirtämään kaikki sähköpostit, tiedostot ja muut tiedot, jotka haluat säilyttää uuteen tilaukseen.
   
- **Huomautus**: Jos haluat esimerkiksi muuttaa sivuston nimen- https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 [asetuksen, noudata tämän artikkelin](https://docs.microsoft.com/sharepoint/change-site-address)ohjeita. 
+ **Huomautus:** Jos esimerkiksi haluat muuttaa sivuston nimen ksi https://contoso.sharepoint.com/sites/sample1 , noudata tämän artikkelin https://contoso.sharepoint.com/sites/sample2 [ohjeita.](https://docs.microsoft.com/sharepoint/change-site-address) 
   
-Lisä tietoja kohteiden siirtämisestä tiedosto kirjastoissa [on kohdassa kohteiden siirtäminen tai kopioiminen SharePoint-tiedosto kirjastosta](https://go.microsoft.com/fwlink/?linkid=2025831).
+Lisätietoja kohteiden siirtämisestä tiedostokirjastoissa on kohdassa Kohteiden siirtäminen tai [kopioiminen SharePoint tiedostokirjastosta.](https://go.microsoft.com/fwlink/?linkid=2025831)
   

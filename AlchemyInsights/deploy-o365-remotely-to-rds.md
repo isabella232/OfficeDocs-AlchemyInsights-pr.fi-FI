@@ -1,5 +1,5 @@
 ---
-title: Rds Microsoft 365 -sovellukset suuryrityksille päätepalvelimen tai VDI:n jaetun käytön käyttöönotto
+title: Protokollan Microsoft 365 -sovellukset suuryrityksille rds-, päätepalvelin- tai VDI-jaettua käyttöä varten
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031475"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325600"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Rds Microsoft 365 -sovellukset suuryrityksille päätepalvelimen tai VDI:n jaetun käytön käyttöönotto
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Protokollan Microsoft 365 -sovellukset suuryrityksille rds-, päätepalvelin- tai VDI-jaettua käyttöä varten
 
-Jos haluat Microsoft 365 -sovellukset suuryrityksille etätyöpöytäpalveluja (RDS) käyttäen, joiden nimi oli aiemmin Päätepalvelut:
+Jos haluat Microsoft 365 -sovellukset suuryrityksille etätyöpöytäpalveluja (RDS), joiden nimi oli aiemmin Päätepalvelut:
 
-- Sinulla on oltava Microsoft 365 For Business -Office 365, joka sisältää Microsoft 365 -sovellukset suuryrityksille,, Office 365 Enterprise E3 tai Enterprise E5.
-   > [!NOTE]
-   > Palvelupaketit Microsoft 365 -sovellukset yrityksille ja Microsoft 365 Business Standard eivät sisällä Microsoft 365 -sovellukset suuryrityksille.
+- Sinulla on oltava Microsoft 365 For Business -Office 365, joka sisältää Microsoft 365 -sovellukset suuryrityksille,Office 365 Enterprise E3 tai Enterprise E5.
+   **Huomautus:** Microsoft 365 -sovellukset yrityksille ja Microsoft 365 Business Standard palvelupaketit eivät sisällä Microsoft 365 -sovellukset suuryrityksille.
 - Sinun on otettava käyttöön [jaetun tietokoneen aktivointi](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-> [!NOTE]
-> Voit myös ladata ja suorittaa [Microsoft tuki- ja palautusavustaja](https://aka.ms/SaRA_OfficeSCA_M365Portal) ja asentaa Microsoft 365 -sovellukset suuryrityksille jaetussa tietokoneen aktivointitilassa.
+**Huomautus:** Voit myös ladata ja suorittaa [Microsoft tuki- ja palautusavustaja](https://aka.ms/SaRA_OfficeSCA_M365Portal) ja asentaa Microsoft 365 -sovellukset suuryrityksille aktivointitilaan.
 
-Lisätietoja mukautettujen asennusten edellytyksistä, asennusohjeista ja Office-käyttöönottotyökalun avulla on kohdassa Microsoft 365 -sovellukset suuryrityksille käyttöönotto [etätyöpöytäpalvelujen avulla.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
+Lisätietoja edellytyksistä, asennusohjeista ja mukautetuista asennuksista Office-käyttöönottotyökalun avulla on kohdassa [Microsoft 365 -sovellukset suuryrityksille etätyöpöytäpalveluiden avulla.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 Jaetun tietokoneen aktivointiin liittyvien virheiden korjaaminen:
 
@@ -43,9 +41,9 @@ Jos haluat asentaa Microsoft 365 -sovellukset suuryrityksille RDS-Microsoft 365 
 
 1. Tarkista, mikä tilaus sinulla on. [Ohjeet](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
 2. Vaihda tarvittaessa toiseen tilaukseen. [Ohjeet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3. Jos Office RDS-palvelimeen käyttämällä muita Microsoft-tilauksia, poista sen asennus. Voit esimerkiksi valita **Ohjauspaneelista Poista**  >  **ohjelman asennus**. Poista [asennus Microsoft tuki- ja palautusavustaja-ohjelman](https://aka.ms/SARA-OfficeUninstall-Alchemy) avulla, jos sinulla on ongelmia.
-4. Kirjaudu RDS-palvelimessa Microsoft 365 -hallintakeskus järjestelmänvalvojan tilillä ja asenna [Microsoft 365 -sovellukset suuryrityksille.](https://portal.office.com/OLS/MySoftware.aspx)
-5. Kun Office on asennettu, ***älä avaa*** tai kirjaudu sisään Office sovelluksiin.
+3. Jos Office RDS-palvelimeen käyttämällä muita Microsoft-tilauksia, poista sen asennus. Voit esimerkiksi valita **Ohjauspaneelista Poista**  >  **asennettu ohjelma.** Poista [Microsoft tuki- ja palautusavustaja-asennuksen](https://aka.ms/SARA-OfficeUninstall-Alchemy) poistaminen, jos sinulla on ongelmia.
+4. Kirjaudu RDS-palvelimessa Microsoft 365 -hallintakeskus järjestelmänvalvojan tilillä ja [asenna](https://portal.office.com/OLS/MySoftware.aspx)Microsoft 365 -sovellukset suuryrityksille.
+5. Kun Office on asennettu, ***älä avaa tai kirjaudu*** sisään Office sovelluksiin.
 6. Ota RDS-palvelimessa käyttöön jaetun tietokoneen aktivointi muokkaamalla rekisteriä seuraavasti:
    1. Napsauta näytön Windows näytön vasemmassa alakulmassa olevaa Windows-painiketta hiiren kakkospainikkeella ja valitse **Suorita**. Kirjoita Avaa-ruutuun **regedit** ja napsauta sitten **OK**.
    2. Valitse **pyydettäessä** Kyllä, jos haluat, että Rekisterieditori voi tehdä muutoksia laitteeseesi.
