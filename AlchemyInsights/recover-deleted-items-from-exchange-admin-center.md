@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 6ef9cd8005ab8cbd2d69b09cc8192b6359b397e8d5c471d2f958ae1e751d7797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 72eefe436b3ad138add0cf4fd72f912b69298bd93e4b352d5802f015ec94cbc3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062185"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897897"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Poistettujen kohteiden palauttaminen Exchange-hallintakeskuksesta
 
@@ -29,4 +29,4 @@ Yksinkertaistetun ja [päivitetyn postilaatikon hallintakokemuksessa](https://ad
     - Sinun täytyy ehkä katsoa **… lisää**-avattavasta valikosta, jotta näet kohdan **Poistettujen kohteiden palauttaminen**.
 4. Voit etsiä palautettavat kohteet suodatusvaihtoehdoilla.
 
-Lisätietoja on kohdassa Poistettujen [viestien palauttaminen uuden EAC:n avulla.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)
+Lisätietoja on kohdassa Poistettujen [viestien palauttaminen uuden EAC:n avulla.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)

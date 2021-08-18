@@ -1,5 +1,5 @@
 ---
-title: OneDriven Kirjautumisvirhe AADSTS50011
+title: OneDrive kirjautumisvirhe AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112909"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>OneDriven Kirjautumisvirhe AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive kirjautumisvirhe AADSTS50011
 
-Jos näyttöön tulee virhe ilmoitus "AADSTS50011: Pyynnössä määritetty vasta uksen URL-osoite ei vastaa vastausta" kun kirja udut sisään OneDrive-sovellukseen, tarkista seuraavat asiat:
+Jos saat virhesanoman "AADSTS50011: Pyynnössä määritetty url-osoite ei vastaa vastausta", kun kirjaudut OneDrive-sovellukseen, tarkista seuraavat asiat:
 
-OneDrive-versiosi on oltava yhtä suuri tai suurempi kuin versio 20.052. XXXX. XXXX. Jos haluat tarkistaa versiosi, napsauta ilmaisin alueella olevaa sinistä OneDrive-kuvaketta ja valitse **ohje & asetukset > asetukset > tietoja**.
+Oman OneDrive on oltava vähintään 20.052.XXXX.XXXX-versiota suurempi. Voit tarkistaa versiosi napsauttamalla ilmaisinalueen OneDrive-kuvaketta ja valitsemalla **Ohje-& Asetukset > Asetukset > Tietoja**.
 
-Verkostosi voi estää liikennettä **g.live.com** ja **oneclient.SFX.MS**. Jos liikenne on estynyt, OneDrive ei voi päivittää itseään. Varmista verkonvalvojan kanssa, että sinulla on näiden URL-osoitteiden käyttäminen. [Näiden pääte pisteiden](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) pitäisi olla tavoitettavissa asiakkaille, jotka käyttävät Microsoft 365-palvelu pakettia.
+Verkko saattaa estää liikenteen g.live.com  **oneclient.sfx.ms.** Jos tämä liikenne on estetty, OneDrive ei voi päivittää itse. Varmista verkon järjestelmänvalvojan kanssa, että voit käyttää näitä URL-osoitteita. [Näiden päätepisteiden pitäisi](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) olla Microsoft 365.
 
-Jos haluat hankkia OneDriven nykyisen version manuaalisesti, käy [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Jos haluat manuaalisesti saada nykyisen OneDrive, siirry [https://aka.ms/getonedrive](https://aka.ms/getonedrive) kohteeseen.

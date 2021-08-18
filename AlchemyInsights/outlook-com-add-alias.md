@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com Lisää alias
+title: 9000238 Outlook.com lisää alias
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 178917a3d7aa5110fdaab9fb5210b3585180c37b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a708e150bb7c25baae64a79b5660d4febfef05796e246432df57e0ce5cfaa2bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112693"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Sähkö posti tunnuksen lisääminen Outlook.com-sovelluksessa
+# <a name="add-an-email-alias-in-outlookcom"></a>Sähköpostitunnuksen lisääminen Outlook.com
 
-Alias on toinen Sähkö posti osoite, joka käyttää samaa Saapuneet-kansion, yhteys tieto luettelon ja tili asetuksia ensisijaisena Sähkö posti osoitteena. Voit valita Sähkö posti osoitteen, josta haluat lähettää sähkö postia, ja voit kirja utua Outlook.com-tiliisi millä tahansa aliakset – kaikki käyttävät samaa Sala sanaa.
+Alias on lisäsähköpostiosoite, joka käyttää samaa Saapuneet-kansiota, yhteystietoluetteloa ja tiliasetuksia kuin ensisijainen sähköpostiosoitteesi. Voit valita, mistä sähköpostiosoitteella lähetät sähköpostia, ja voit kirjautua Outlook.com-tiliisi millä tahansa aliaksellasi – kaikki käyttävät samaa salasanaa.
 
-Sähkö posti osoitteen lisääminen:
+Sähköpostiosoitteen lisääminen:
 
-1. Siirry kohtaan [Lisää alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Kirjaudu pyydettäessä Microsoft-tilillesi.
-2. Valitse **Lisää alias**-kohdassa jompikumpi seuraavista:
-    1. Luo uusi Outlook.com-Sähkö posti osoite ja lisää se aliakseksi.
-    2. Lisää olemassa oleva sähkö posti osoite aliaksena.
+1. Siirry Lisää [alias -vaihtoehtoon.](https://go.microsoft.com/fwlink/p/?linkid=864833) Kirjaudu pyydettäessä Microsoft-tilillesi.
+2. Valitse **Lisää alias -kohdassa** jompikumpi seuraavista:
+    1. Luo uusi Outlook.com-sähköpostiosoite ja lisää se aliaksena.
+    2. Lisää olemassa oleva sähköpostiosoite aliaksena.
 3. Valitse **Lisää alias**.
 
-Lue lisää siitä, miten voit [lisätä tai poistaa Sähkö posti tunnuksen Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Lisätietoja sähköpostitunnuksen [lisäästä tai poistamisesta Outlook.comissa.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)  
 
-Lue [, miten voit yhdistää toisen Sähkö posti tilin](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com-tiliisi.
+Lue, [miten voit yhdistää toisen sähköpostitilin](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com-tiliisi.

@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085873"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897793"
 ---
 # <a name="set-up-exchange-online-protection"></a>Määritä Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) on pilvipohjainen sähköpostin suodatuspalvelu, joka suojaa roskapostilta ja haittaohjelmilta. Se sisältää ominaisuuksia, jotka suojaavat organisaatiotasi viestintäkäytäntörikkomuksista.
+Microsoft Exchange Online Protection (EOP) on pilvipohjainen sähköpostin suodatuspalvelu, joka suojaa roskapostilta, haittaohjelmilta ja väärentämiskäytännöltä. Se sisältää toimintoja, jotka suojaavat organisaatiotasi viestintäkäytäntörikkomuksista.
 
-Voit [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) EOP:n määritysoppaan avulla valitsemalla jonkin kolmesta käyttöönottoskenaariosta: paikallisesta postilaatikosta, yhdistelmäympäristöstä (sekä paikallisista ja pilvipalveluista) postilaatikoista tai kaikista pilvipohjaista postilaatikoista, jotka sopivat organisaatioosi. Oppaassa on tietoja ja resursseja EOP:n määrittämiseen ja käyttäjän käyttöoikeuksien tarkistamiseen, Microsoft 365 -hallintakeskus:n käyttöoikeuksien määrittämiseen sekä organisaation haittaohjelmien ja roskapostin torjuntakäytäntöjen määrittämiseen Tietoturva- ja & yhteensopivuuskeskuksessa.
+Voit [Exchange Online Protection](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) EOP:n määritysoppaan avulla valitsemalla kolmesta käyttöönottoskenaariosta, jotka sopivat parhaiten organisaatiollesi:
+
+- Kaikki paikallisiin postilaatikoihin.
+- Yhdistelmäympäristö (yhdistelmä paikallisista postilaatikoista ja pilvipohjaisia postilaatikoita)
+- Kaikki pilvipohjaiset postilaatikot, jotka sopivat organisaatioosi.
+
+Oppaassa on tietoja ja resursseja EOP:n määrittämiseen ja käyttäjän käyttöoikeuksien tarkistamiseen, käyttöoikeuksien määrittämiseen Microsoft 365 -hallintakeskus ja organisaation suojauskäytäntöjen määrittämiseen.

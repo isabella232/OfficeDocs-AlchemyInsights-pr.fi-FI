@@ -1,5 +1,5 @@
 ---
-title: Kokouksen taustan Teams muuttaminen
+title: Kokouksen taustan Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 340b197f21f48122ba1fdc60e1ce7cfb0f75f432
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082363"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315835"
 ---
-# <a name="change-your-background-for-a-teams-meeting"></a>Kokouksen taustan Teams muuttaminen
+# <a name="change-your-background-for-a-teams-meeting"></a>Kokouksen taustan Teams
 
 Jos haluat muuttaa sitä, mitä videon takana näkyy, voit joko sumentaa taustan tai korvata sen kokonaan haluallasi kuvalla.
 
 Lisätietoja taustan valitsemisesta ennen kokousta tai sen aikana on kohdassa Kokouksen taustan [Teams.](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
-> [!NOTE]
-> Linux-käyttäjät eivät tällä hetkellä voi käyttää tätä ominaisuutta. Taustatehosteet eivät myöskään ole käytettävissä, jos käytät Teams VDI:tä (Optimized Virtual Desktop Infrastructure).
+**Huomautus:** Linux-käyttäjät eivät tällä hetkellä voi käyttää tätä ominaisuutta. Taustatehosteet eivät myöskään ole käytettävissä, jos käytät Teams VDI:tä (Optimized Virtual Desktop Infrastructure).

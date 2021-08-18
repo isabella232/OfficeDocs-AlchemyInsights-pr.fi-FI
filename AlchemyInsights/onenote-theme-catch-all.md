@@ -1,5 +1,5 @@
 ---
-title: OneNote-teeman avulla kaikki
+title: OneNote teemasta kaikki
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d72693900cc2bf0824ae119b8d2ba48e7376765a621eb9f31eb0fe053735f0b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112873"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a>Yleisiä ongelmia ja ratkaisut OneNotessa
+# <a name="common-issues-and-resolutions-with-onenote"></a>Yleisiä ongelmia ja ratkaisut OneNote
 
-Seuraavassa on joitakin usein kysyttyjä OneNote-aiheita:
+Seuraavassa on joitakin usein kysyttyjä OneNote aiheita:
 
-- [Korjaa synkronointiongelmat](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – Voit ratkaista OneNoten synkronointiin liittyvät yleisimmät ongelmat noudattamalla ohjeita, jotka ovat aiheeseen Ongelmien korjauksessa, kun [OneNotea ei voi synkronoida.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
+- [Korjaa synkronointiongelmat](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – voit korjata yleisimmät synkronoinnissa OneNote liittyvät ongelmat noudattamalla ohjeita, jotka ovat aiheeseen Ongelmien korjauksessa, kun synkronointi [ei OneNote.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
 
-- [OneNoten käyttäminen Teamsissa](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
+- Käytä [OneNote Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
 
-- [Käytä luokan OneNote-muistikirjaa Teamsissa](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) ja vastaa kysymyksiin luokan muistikirjan määrittämisestä Teamsissa.
+- [Käytä OneNote muistikirjaa Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) vastauksia kysymyksiin luokan muistikirjan määrittämisestä Teams.
 
 - [Siirrä muistikirja pilvipalveluun.](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)
 
 - [Tee vianmääritys muistikirjojen siirtämisestä pilvipalveluun.](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)
 
-- [OneNote 2016:n](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) asentaminen – Maaliskuusta 2020 alkaen, kun asennat Office 365:n tai Office 2019:n, OneNote-työpöytäsovellus asennetaan Wordin, PowerPointin ja Excelin työpöytäsovellusten rinnalle.
+- [](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) OneNote 2016:n asentaminen – maaliskuusta 2020 alkaen Office 365:n tai Office 2019:n asentamisen jälkeen OneNote-työpöytäsovellus asennetaan Wordin, PowerPoint:n ja Excel:n työpöytäsovellusten rinnalle.
 
-- [Vie ja tuo OneNote-muistikirjoja.](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)
+- [Vie ja tuo OneNote muistikirjoja.](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)

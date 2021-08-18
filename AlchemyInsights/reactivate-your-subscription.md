@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959465"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897309"
 ---
 # <a name="reactivate-your-subscription"></a>Tilauksen uudelleenaktivointi
 
@@ -33,7 +33,7 @@ Jos tilauksesi päättyy tai jos Microsoft on poistanut tilauksesi käytöstä t
 3. Valitse **Aktivoi tämä tilaus uudelleen** -ruudun avattavasta luettelosta maksutapa tai valitse **Lisää maksutapa**.
 4. Valitse **Tallenna**.
 
-Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Katso lisätietoja artikkelista [Aktivoi tilaus uudelleen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Tilauksen uusimisen hallinnointi**
 
@@ -45,4 +45,4 @@ Kuukausittaisen tai vuosittaisen laskutuksen hallinta: voit asettaa **toistuvan 
 4. Valitse Muokkaa **toistuvia laskutusasetuksia** -ruudussa **Käytössä**, **Käytössä, mutta uusi kerran** tai **Poista käytöstä**.
 5. Valitse **Tallenna**.
 
-Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
