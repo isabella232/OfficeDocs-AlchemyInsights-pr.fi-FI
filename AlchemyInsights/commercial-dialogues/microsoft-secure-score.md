@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883352"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316973"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
 Voit tehdä ympäristöstäsi turvallisen käyttämällä Microsoft Secure Scorea. Se on kuin arvopaperin luottotieto. Se kertoo, mitä toimintoja voit tehdä, mikä voi parantaa organisaatiosi suojausta.
 
-1. Valitse Microsoft 365 Defender -portaalissa <https://security.microsoft.com> **Secure score**.
+1. Valitse Microsoft 365 Defender <https://security.microsoft.com> -portaalissa **Secure score**.
 
    Jos haluat siirtyä suoraan **Secure score (Turvallinen pistemäärä) -sivulle,** käytä <https://security.microsoft.com/securescore>
 
@@ -34,7 +34,6 @@ Voit tehdä ympäristöstäsi turvallisen käyttämällä Microsoft Secure Score
 
 4. Valitse **Kohdeosoite tai** **Regressed-kohde** Kehitystoiminnot-välilehden luettelosta.  Uusi sivu avautuu, ja siinä on täydellinen kuvaus ja **Hallinta-painike** ongelman korjaamista varten.
 
-    > [!NOTE]
-    > Saat pisteitä suositeltujen suojausominaisuuksien määrittämisestä, mutta muista, että joidenkin toimintojen otsikoksi on merkitty **[Ei pistemäärää].** Tämä tarkoittaa sitä, että vaikka olisitkin soveltanut parannustoimintoa, et saa pisteitä pistemäärästäsi. Muussa *tapauksessa pistemäärän päivittäminen voi* kestää jopa 24 tuntia.
+    **Huomautus:** Saat pisteitä suositeltujen suojausominaisuuksien määrittämisestä, mutta muista, että joidenkin toimintojen tunniste on **[Ei pisteytetty].** Tämä tarkoittaa sitä, että vaikka olisitkin soveltanut parannustoimintoa, et saa pisteitä pistemäärästäsi. Muussa *tapauksessa pistemäärän päivittäminen voi* kestää jopa 24 tuntia.
 
 Lisätietoja Microsoft Secure Scoresta on kohdassa [Microsoft Secure Score.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

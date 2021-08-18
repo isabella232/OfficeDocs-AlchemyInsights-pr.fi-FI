@@ -1,5 +1,5 @@
 ---
-title: Teamsin asentaminen VDI-ympäristöihin
+title: Asentaminen Teams VDI-ympäristöihin
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1843caac062824ee531abda8e443903b98d94b4948759a0f63741ae17062bf8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088141"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Teamsin asentaminen VDI-ympäristöihin
+# <a name="installing-teams-on-vdi-environments"></a>Asentaminen Teams VDI-ympäristöihin
 
-Lisätietoja Teamsin käyttöönotosta jaetuissa tietokoneissa, Etätyöpöytäpalveluissa (RDS) tai Virtual Desktop Infrastructureissa (VDI) on kohdassa Jaetut tietokone- ja [VDI-ympäristöt Microsoft Teamsissa.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+Lisätietoja Teams, Etätyöpöytäpalvelut (RDS) tai Virtual Desktop Infrastructure (VDI) ovat kohdassa Jaettu tietokone ja [VDI-ympäristöt,](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)joissa on Microsoft Teams.

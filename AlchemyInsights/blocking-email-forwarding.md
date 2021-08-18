@@ -14,12 +14,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897465"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315871"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Automaattisten sähköpostiviestien edelleenlähetysten estäminen tai eston poistaminen
 
@@ -29,4 +29,4 @@ Järjestelmänvalvojat voivat hallita organisaation ulkoista edelleenlähetystä
 
 Jos näyttöön tulee seuraava virhe: **"550 5.7.520 Käyttö estetty,** Organisaatiosi ei salli ulkoista edelleenlähetystä", varmista, että käytäntö on määritetty niin, että ulkoiset automaattisesti lähetetyt viestit otetaan käyttöön.
 
-**Huomautus:** Suositellaan oletusarvoa Automaattinen **–**  Järjestelmä, jota hallitaan lähtevän liikenteen roskapostin oletussuodatuskäytännön Automaattiset edelleenlähetyssäännöt -asetuksella (automaattinen ulkoinen edelleenlähetys on estetty; sisäinen automaattinen edelleenlähetys toimii edelleen). Luo mukautettuja lähtevien roskapostisuodatuskäytäntöjä ja käytä arvoa **Käytössä – edelleenlähetys on** käytössä vain käyttäjille, jotka tarvitsevat ulkoista automaattista edelleenlähetystä. Lisätietoja on kohdassa [Ulkoisen sähköpostiviestin edelleenlähetysten määrittäminen Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Huomautus:** Suositellaan oletusarvoa Automaattinen **–**  Järjestelmä, jota hallitaan lähtevän liikenteen roskapostin oletussuodatuskäytännön Automaattiset edelleenlähetyssäännöt -asetuksella (automaattinen ulkoinen edelleenlähetys on estetty; sisäinen automaattinen edelleenlähetys toimii edelleen). Luo mukautettuja lähtevien roskapostisuodatuskäytäntöjä ja käytä arvoa **Käytössä – edelleenlähetys on** käytössä vain käyttäjille, jotka tarvitsevat ulkoista automaattista edelleenlähetystä. Lisätietoja on kohdassa Ulkoisen [sähköpostiviestin edelleenlähetysten määrittäminen Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

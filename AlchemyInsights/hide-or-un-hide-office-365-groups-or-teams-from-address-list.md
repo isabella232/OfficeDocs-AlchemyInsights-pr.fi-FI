@@ -1,5 +1,5 @@
 ---
-title: Office 365 -ryhmien tai -tiimien piilottaminen osoiteluettelosta tai sen piilottaminen
+title: Ryhmien tai Office 365 piilottaminen tai piilottaminen osoiteluettelosta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: 12e221c69775f3dfeed1781b70d3061e1ca0ac3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e667e22cd81f38a1a2c1385bf42e5227cb641480f4b505110ee7349a13f13a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088393"
 ---
-# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Office 365 -ryhmien tai -tiimien piilottaminen osoiteluettelosta tai sen piilottaminen
+# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Ryhmien tai Office 365 piilottaminen tai piilottaminen osoiteluettelosta
 
-Seuraavan EXO PowerShell -komennon avulla voit piilottaa Office 365 -ryhmän tai -ryhmät Exchange-asiakasohjelmien osoiteluetteloista (Outlook, OWA):
+Seuraavan EXO PowerShell -komennon avulla voit piilottaa Office 365 tai poistaa sen Exchange asiakkaiden osoiteluetteloista (Outlook, OWA):
 
 `
     Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:<$true> or <$false>
 `
 
-Seuraavan EXO PowerShell -komennon avulla voit piilottaa tai poistaa Office365 -ryhmän/-tiimit Exchange-asiakasohjelmista (Outlook, OWA):
+Seuraavan EXO PowerShell -komennon avulla voit piilottaa tai poistaa Office365 -ryhmän tai -tiimit Exchange -asiakasohjelmista (Outlook, OWA):
 
 `
     Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:<$true> or <$false>
 `
 
-- Lisätietoja on kohdassa [Office 365 -ryhmien piilotminen GAL- ja Exchange-asiakasohjelmista.](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal)
+- Lisätietoja on kohdassa Ryhmien [piilo Office 365 gal:sta ja Exchange asiakkaat.](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal)
