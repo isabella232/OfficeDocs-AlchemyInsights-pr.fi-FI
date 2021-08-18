@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025499"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327554"
 ---
 # <a name="monitor-intune-conditional-access"></a>Intunen ehdollisen käyttöoikeuden valvonta
 
-Käyttäjät, joilla on ehdollinen käyttöoikeus, saavat sähköposti-ilmoituksen, jos he eivät täytä organisaatiosi käyttöoikeusvaatimuksia. Ratkaisua varten on suositeltavaa käyttää vähintään yhtä seuraavista ratkaisuista:
+Käyttäjät, joilla on ehdollinen käyttöoikeus, saavat sähköposti-ilmoituksen, jos he eivät täytä organisaatiosi käyttöoikeusvaatimuksia. Ratkaisua varten suosittelemme vähintään yhtä seuraavista ratkaisuista:
 
-1. Jos laitteen oletetaan olevan rekisteröity, kehota käyttäjää menemään Yritysportaali ja tarkistamaan, että se näkyy Yritysportaali. Jos näin ei ole, käyttäjän on rekisteröittävä laite.
+1. Jos laitteen oletetaan olevan rekisteröity, kehota käyttäjää menemään Yritysportaali-sovellukseen ja tarkistamaan, että se näkyy Yritysportaali. Jos näin ei ole, käyttäjän on rekisteröittävä laite.
 1. Valitse Azure-portaalissa **Intune** Device compliance  >  **(Intune-laitteen yhteensopivuus).** 
 1. Voit tarkistaa laitteen yhteensopivuusraportin ja varmistaa, että käyttäjän laite on merkitty yhteensopivaksi valitsemalla Näyttö **-kohdassa** **Laitteen yhteensopivuus**.
 1. Valitse Azure-portaalissa **Intune** Device compliance  >  **(Intune-laitteen yhteensopivuus).** Valitse **Hallinta-kohdassa** **Käytännöt**. Tarkista yhteensopivuuskäytäntöjen luettelosta, että profiili on määritetty käyttäjän laitteelle. Jos profiilia ei ole määritetty, Intune ei voi vahvistaa laitteen yhteensopivuustilaa.
@@ -39,5 +39,4 @@ Käyttäjät, joilla on ehdollinen käyttöoikeus, saavat sähköposti-ilmoituks
 - [Vianmäärityskäytäntö](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Intune-laitteen yhteensopivuuden valvonta](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> Nämä ohjeet ovat hyödyllisiä vain ehdollisen Azure Active Directory vianmäärityksessä. Sähköpostin käytön estävät laitteet voidaan asettaa karanteeniin myös Exchange mukaisesti. Lisätietoja laitteiden Exchange löydät [**täältä**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).
+**Huomautus:** Nämä vaiheet ovat hyödyllisiä vain ehdollisen Azure Active Directory vianmäärityksessä. Sähköpostin käytön estävät laitteet voidaan asettaa karanteeniin myös Exchange mukaisesti. Lisätietoja laitteiden Exchange löydät [**täältä**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).

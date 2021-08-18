@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874392"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326574"
 ---
 # <a name="domain-status---no-services-selected"></a>Toimialueen tila – Ei palveluita valittuna
 
-**Ei valittuja** palveluita tarkoittaa, että et ole valinnut mitään Microsoft 365-palveluita, kuten Exchange Online Skype for Business tai Intunea, Microsoft 365 mobiililaitteiden hallintaa mukautettua toimialuetta varten. Jos käytät Exchange yhdistelmäympäristöä (Exchange, jossa on Exchange Online) tai ulkoista roskapostisuodatusta Exchange eikä muita Microsoft-palvelut, voit ohittaa tämän viestin. Toimialueen kunto on käytettävissä vain toimialueissa, jotka on yhdistetty suoraan palveluun.
+**Ei valittuja** palveluita tarkoittaa, että et ole valinnut mitään Microsoft 365-palveluita, kuten Exchange Online-, Skype for Business- tai Intune-palvelua, Microsoft 365 mobiililaitteiden hallintaa mukautettua toimialuetta varten. Jos käytät Exchange yhdistelmäympäristöä (Exchange, jossa on Exchange Online) tai ulkoista roskapostisuodatusta Exchange eikä muita Microsoft-palvelut, voit ohittaa tämän viestin. Toimialueen kunto on käytettävissä vain toimialueissa, jotka on yhdistetty suoraan palveluun.
 
 Voit valita toimialueesi palvelut toimilla toimilla:
 
-1. Valitse **Asetukset**  >  [**Toimialueet**](https://admin.microsoft.com/Adminportal/Home)-kohdassa sen toimialueen vieressä olevaa valintaruutua, jossa **tilailmoituksena Ei palveluita on valittuna.**
+1. Valitse **Asetukset** Toimialueet -kohdassa valintaruutu sen toimialueen  >  [](https://admin.microsoft.com/Adminportal/Home)vieressä, jossa tilaviesti Ei palveluita **on valittuna.**
 1. Käynnistä **ohjattu toimialueen määritystoiminto** valitsemalla DNS-hallinta.
     - Jos valitset **Lisää omia DNS-tietueita**, muista valita palvelu pyydettäessä. Lisäasetukset-kohdassa voi olla **lisää palveluja.**
     - Jos valitset Anna **Microsoftin lisätä DNS-tietueet tai** **Lisää** asetuksia Määritä online-palvelut minulle kaikki käytettävissä olevat palvelut, ehdotetaan  >   ja valitaan automaattisesti.

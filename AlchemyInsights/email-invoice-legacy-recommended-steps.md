@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003613"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326502"
 ---
 # <a name="e-mail-invoice---legacy"></a>Sähköpostilasku – vanha
 
@@ -52,5 +52,4 @@ Jos haluat, että käyttäjät tai ryhmät, joilla on tilaustason käyttöoikeus
 4. Valitse Azure-tilauksesi ja sitten **Anna muiden ladata laskuja**.
 5. Valitse **Käytössä** ja sitten **Tallenna** sivun yläosassa.
 
-> [!NOTE]
-Jos et ole tilin järjestelmänvalvoja, ota yhteyttä tilin järjestelmänvalvojaan ja noudata yllä olevia ohjeita, jotta voit ottaa vastaanottajia käyttöön, lisätä vastaanottajia tai sallia muiden käyttäjien ladata lasku.
+**Huomautus:** Jos et ole tilin järjestelmänvalvoja, ota yhteyttä tilin järjestelmänvalvojaan ja noudata edellä olevia ohjeita ja ota vastaanottajia käyttöön tai salli muiden käyttäjien ladata lasku.
