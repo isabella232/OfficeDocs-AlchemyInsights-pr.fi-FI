@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054795"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321904"
 ---
 # <a name="issues-with-links-and-urls"></a>Linkkien ja URL-osoitteiden ongelmat
 
@@ -42,15 +42,13 @@ Jos haluat lisätä vastauksen URL-osoitteen, siirry Azure-portaalissa **sovellu
     - käyttöympäristöstä (iOS/Android/ANDREWP)
     - sovelluksen kehittämiseen käytetyistä tiedoista, kuten iOS:n nipputunnuksesta sekä paketin nimestä ja allekirjoituksen hajautuksesta Androidissa. Azure-portaalin sovelluksen rekisteröinti auttaa sinua. Lisätietoja on kohdassa [Käyttöympäristön määritys ja uudelleenohjauksen URI:t](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Web-ohjelmointirajapinnat ja jotkin hiljaiset tunnusten hankintatavat (IWA ja käyttäjänimi/salasana) eivät vaadi uudelleenohjauksen URI:ta.
+**Huomautus:** Verkkorajapintoja ja joitakin mykkään tapoja hankkia tunnuksia (IWA ja käyttäjänimi/salasana) eivät edellytä uudelleenohjauksen URI-tunnusta.
 
 **Olen kehittänyt oman verkkosovelluksen ja kun testaan käyttöönotettua sovellusta, saan vastauksen URL-osoitteen ristiriitaviestin**
 
 Lisää uudelleenohjauksen URI kaikkiin sijainteihin, joissa käytät verkkosovellustasi. Lisätietoja on kohdassa [Verkkosovellusten rekisteröiminen Azure-portaalilla](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Lisää uudelleenohjauksen URI sijaintiin heti, kun olet ottanut sovelluksen käyttöön tässä sijainnissa.
+**Huomautus:** Lisää uudelleenohjauksen URI sijaintiin heti, kun olet ottanut sovelluksen käyttöön sijainnissa.
 
 **En pysty rekisteröimään riittävästi vastauksen URL-osoitteita**
 

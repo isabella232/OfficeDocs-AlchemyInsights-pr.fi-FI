@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118381"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery Yammer Networksissa
 
 Voit nyt etsiä sisältöä eDiscovery Yammer avulla.  eDiscovery-hakujen suorittaminen tai vieminen Yammer edellyttää seuraavaa:
 
-1. Sinun on ensin siirrettävä Yammer Enterprise Network alkuperäiseen tilaan, jotta Yammer viestit ja tiedostot löydettävissä. Huomautus: jos olet uusi asiakas 9. tammikuuta 2020 ja Yammer on jo alkuperäisessä tilassa, tiedot ovat nyt löydettävissä **eDiscovery-haun avulla.**
+1. Sinun on ensin siirrettävä Yammer Enterprise verkko alkuperäiseen tilaan, jotta Yammer viestit ja tiedostot löydettävissä. Huomautus: jos olet uusi asiakas **tammikuun 9. päivänä 2020** ja Yammer on jo alkuperäisessä tilassa, tiedot ovat nyt löydettävissä eDiscoveryn avulla.
 
 2. Asiakkaiden poistumiseen eDiscovery for Yammer on käytettävissä, kun alkuperäinen tilan tasaustyökalu on julkaistu ja alkuperäisen tilan siirto Yammer vuokraajassa.
 
 Lisätietoja:
 
 - Alkuperäinen tila Yammer: Yleistä [alkuperäistilasta.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
-- eDiscovery Yammer Networksissa: Yleiskatsaus [eDiscoveryn käyttöön Yammer verkostoissa.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
-- Microsoft [365:n eDiscovery-haku on kohdassa Microsoft 365:n eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- eDiscovery Yammer-verkostoissa: [eDiscoveryn yleiskatsaus Yammer verkostoissa.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Microsoft 365:n [eDiscovery-haku on kohdassa eDiscovery Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

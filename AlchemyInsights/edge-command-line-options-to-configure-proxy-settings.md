@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen välityspalvelimen asetusten määrittäminen komentoriviasetusten avulla
+title: Määritä välityspalvelimen asetukset Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403416"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118411"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Microsoft Edgen välityspalvelimen asetusten määrittäminen komentoriviasetusten avulla
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Määritä välityspalvelimen asetukset Microsoft Edge
 
-Microsoft Edgen versioissa 77 ja sitä uudemmassa versiossa verkkopino käyttää oletusarvoisesti järjestelmän verkkoasetuksia. Yhdistelmäympäristöissä, joissa käyttäjät pyytävät vaihtoehtoista vaihtoehtoa, Microsoft Edge tukee komentoriviasetuksia mukautettujen välityspalvelimen asetusten määrittämiseen. Lisätietoja on kohdassa:
+Microsoft Edge versiossa 77 ja sitä uudemmassa versiossa verkkopino käyttää oletusarvoisesti järjestelmän verkkoasetuksia. Yhdistelmäympäristössä, jossa käyttäjät pyytävät vaihtoehtoista Microsoft Edge, tukee komentoriviasetuksia mukautettujen välityspalvelimen asetusten määrittämiseen. Lisätietoja on ohjeaiheessa:
 
 1. [Järjestelmän verkkoasetukset](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Välityspalvelimen asetusten komentoriviasetukset](https://go.microsoft.com/fwlink/?linkid=2134292)

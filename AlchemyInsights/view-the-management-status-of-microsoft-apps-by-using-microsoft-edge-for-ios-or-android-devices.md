@@ -15,16 +15,16 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3ce60388adbbee51cb008a1dc691f298e13d39e1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892380"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322526"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Microsoft-sovellusten hallintatilan tarkasteleminen iOS Microsoft Edge- tai Android-laitteissa
 
-Jos haluat käyttää sovelluslokeja, joita käytetään hallittujen iOS- tai Android-sovellusten vianmäärityksessä, avaa Microsoft Edge ja kirjoita **osoiteruutuun about:intunehelp.** Microsoft Edge käynnistyy vianmääritystilassa.
+Jos haluat käyttää sovelluslokeja hallittujen iOS- tai Android-sovellusten vianmäärityksessä, avaa Microsoft Edge ja kirjoita **osoiteruutuun about:intunehelp.** Microsoft Edge käynnistyy vianmääritystilassa.
 
 Luettelo sovelluslokeja varten tallennetuista asetuksista on kohdassa [Asiakassovelluksen suojauslokien tarkistaminen.](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)
 

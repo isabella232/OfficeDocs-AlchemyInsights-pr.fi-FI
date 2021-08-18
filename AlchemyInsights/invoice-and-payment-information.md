@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892124"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321960"
 ---
 # <a name="invoice-and-payment-information"></a>Lasku- ja maksutiedot
 
@@ -31,10 +31,10 @@ Kun ostat Microsoft 365 for Business -tilauksen suoraan Microsoftilta, voit maks
 
 **Lasku/lasku**
 
-Voit etsiä ja ladata laskusi   >  [Laskutuslaskut-& maksusivulta.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Voit etsiä ja ladata laskusi **Laskutuslaskut**  >  [ja & -sivulla.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **Huomautus:** Jos laskuja ei ole näkyvissä, sinun on ehkä säätämään päivämääräalueen suodatinta.  Laskujen viimeiset 3 kuukautta näytetään oletusarvoisesti.
 
-Laskut luodaan kuukausittain tai vuosittain oston yhteydessä valitun laskutusvälin mukaan.  Jos maksat vuosittain, saatat saada laskun kesken maksuvälin, kun lisäät tai poistat käyttöoikeuksia tilauksesta.
+Laskut luodaan kuukausittain tai vuosittain oston yhteydessä valitun laskutusvälin mukaan.  Jos maksat vuosittain, saat ehkä laskun kesken maksuvälin, kun lisäät tai poistat käyttöoikeuksia tilauksesta.
 
 - Lisätietoja on kohdassa [Yritysasiamiesi Microsoft 365 ymmärtäminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

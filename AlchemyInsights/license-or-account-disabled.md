@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893848"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323001"
 ---
 # <a name="license-or-account-disabled"></a>Käyttöoikeudet tai tili poissa käytöstä
 
@@ -29,8 +29,7 @@ Jos tilauksesi päättyy tai jos Microsoft on poistanut tilauksesi käytöstä t
 
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Etsi **Tuotteet-välilehdessä** tilaus, jonka haluat aktivoida uudelleen. Valitse kolme painiketta (lisää toimintoja) ja valitse **sitten Aktivoi tämä tilaus uudelleen**.
-    > [!NOTE]
-    > Jos et näe Aktivoi tämä tilaus **uudelleen -merkintää,** ota yhteyttä tukeen.
+    **Huomautus:** Jos et näe Aktivoi tämä tilaus uudelleen **-viestiä,** ota yhteyttä tukeen.
 3. Valitse **Aktivoi tämä tilaus uudelleen** -ruudun avattavasta luettelosta maksutapa tai valitse **Lisää maksutapa**.
 4. Valitse **Tallenna**.
 

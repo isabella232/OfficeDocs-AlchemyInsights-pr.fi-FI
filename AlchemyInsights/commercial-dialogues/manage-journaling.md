@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119281"
 ---
 # <a name="manage-journaling"></a>Päivyrien hallinta
 
-Kirjaaminen voi auttaa organisaatiotasi vastaamaan lakisääteisten, lakisääteisten ja organisaation vaatimustenmukaisuusvaatimuksiin kirjaamalla saapuvan ja lähtevän sähköpostiviestin. Muista:
+Kirjaamisen avulla organisaatiosi voi vastata lakisääteisten, lakisääteisten ja organisaation vaatimustenmukaisuusvaatimuksiin kirjaamalla saapuvan ja lähtevän sähköpostiliikenteen. Pidä mielessä:
 
-* Sinulla on oltava organisaation [hallinnan ja](https://go.microsoft.com/fwlink/?linkid=2115259) [tietueiden hallinnan](https://go.microsoft.com/fwlink/?linkid=2115469) käyttöoikeudet, ennen kuin voit hallita päivyriä.
-* Sinulla on oltava päivyripostilaatikko ja (valinnaisesti) vaihtoehtoinen päivyripostilaatikko määritettynä. Lisätietoja on ohjeaiheessa [Päivyrien määrittäminen Exchange Onlinessa.](https://go.microsoft.com/fwlink/?linkid=2115260)
-* Exchange Onlinessa voit luoda vain päivyrisääntöjä. Lisätietoja on [päiväkirjan, liikenteen ja Saapuneet-kansion säännön rajoissa.](https://go.microsoft.com/fwlink/?linkid=2115261)
-* Exchange Online ei tue päivyriraporttien toimittamista Exchange Online -postilaatikkoon. Sinun on määritettävä paikallisen arkistointijärjestelmän tai kolmannen osapuolen arkistointipalvelun sähköpostiosoite päivyripostilaatikoksi.
+* Sinulla on oltava organisaation hallinnan [ja tietueiden](https://go.microsoft.com/fwlink/?linkid=2115259) [hallinnan](https://go.microsoft.com/fwlink/?linkid=2115469) käyttöoikeudet, ennen kuin voit hallita kirjaamista.
+* Sinulla on oltava päivyripostilaatikko ja (valinnaisesti) vaihtoehtoinen päivyripostilaatikko määritettynä. Lisätietoja on kohdassa [Päivyrimääritykset Exchange Online.](https://go.microsoft.com/fwlink/?linkid=2115260)
+* Exchange Online päiväkirjassa voit luoda vain päiväkirjasääntöjä. Lisätietoja on kohdassa [Päivyri-, siirto- ja Saapuneet-kansion sääntörajoitukset.](https://go.microsoft.com/fwlink/?linkid=2115261)
+* Exchange Online ei tue päivyriraporttien toimittamista Exchange Online postilaatikkoon. Sinun on määritettävä paikallisen arkistointijärjestelmän tai kolmannen osapuolen arkistointipalvelun sähköpostiosoite päivyripostilaatikoksi.
