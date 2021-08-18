@@ -1,5 +1,5 @@
 ---
-title: Sähkö posti nimen muuttaminen Outlook.com-sovelluksessa
+title: Sähköpostin nimen muuttaminen Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112513"
 ---
-# <a name="change-your-email-name"></a>Sähkö posti nimen muuttaminen
+# <a name="change-your-email-name"></a>Sähköpostin nimen muuttaminen
 
-Jos sinulla on yksi Outlook.com-Sähkö posti osoite ja haluat muuttaa vastaanottajien nimiä, ne näkyvät viesteissä:
+Jos sinulla on Outlook.com-sähköpostiosoite ja haluat muuttaa nimeä, jonka vastaanottajat näkevät viesteissäsi:
   
-1. Valitse tili kuvasi sivun oikeassa yläkulmassa.
+1. Valitse tilisi kuva sivun oikeassa yläkulmassa.
 2. Valitse **Oma profiili**.
-3. Valitse **Muokkaa nimeä** , jos haluat tehdä muutoksia, ja valitse **Tallenna**.
+3. Tee **muutoksia valitsemalla** Muokkaa nimeä ja valitse **Tallenna**.
 
-Ota käyttöön jopa 24 tuntia, ennen kuin profiilisi nimen muutokset tulevat voimaan.
+Salli jopa 24 tuntia, että profiilin nimen muutokset tulevat voimaan.
   
-Jos sinulla on useampi kuin yksi Sähkö posti tunnus tai osoite, joka on yhdistetty Outlook.com-tiliisi, voit halutessasi lähettää sähkö postia mistä tahansa osoitteista.
+Jos Outlook.com-tiliisi on yhdistetty useampi kuin yksi sähköpostialias tai -osoite, voit lähettää sähköpostia mistä tahansa osoitteestasi.
   
-1. Kun kirjoitat viestiä, valitse "..." Luo-ikkunan alareunassa.
-1. Valitse **Näytä kohteesta** , jos haluat nähdä Lähettäjä-rivin.
-1. Valitse haluamasi Sähkö posti **Osoite-kohdan** yläpuolella.
+1. Kun kirjoitat viestiä, valitse "..." kirjoitusikkunan alareunassa.
+1. Valitse **Näytä kohteesta,** jos haluat nähdä Mistä-rivin.
+1. Valitse Vastaanottaja-rivin yläpuolella **Mistä** ja valitse, mitä sähköpostiosoitetta haluat käyttää.
 
-Lisä tietoja on Ohje aiheessa [sähkö postin lähettäminen eri osoitteesta Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lisätietoja on kohdassa Sähköpostin lähettäminen eri osoitteesta osoitteessa [Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

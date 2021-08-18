@@ -1,5 +1,5 @@
 ---
-title: Versio tiedot SharePointissa ja OneDrivessa
+title: Versioinnit SharePoint OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,33 +13,33 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 12207efc9822be6cf096fa4884a3cd244a286cbe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085837"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Versio tiedot SharePointissa ja OneDrivessa 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Versioinnit SharePoint OneDrive 
 
 
-Kun versio tietojen hallinta on otettu käyttöön SharePoint-luettelossa tai-kirjastossa, voit tallentaa, muokata ja palauttaa luettelon kohteita ja tiedostoja kirjastossa aina, kun ne muuttuvat. Versio tietojen ja muiden asetusten, kuten uloskuittauksen, avulla voit hallita sivustossa julkaistulla sisällöllä ja määrittää todellista arvoa, jos sinulla on joskus tarve tarkastella tai palauttaa kohteen tai tiedoston vanhaa versiota.
+Kun versiohallinta on käytössä SharePoint tai kirjastossa, voit tallentaa, seurata ja palauttaa luettelon kohteita ja kirjaston tiedostoja niiden muuttuessa. Versioiminen ja muut asetukset, kuten uloskuittää, antavat sinulle paljon hallintaa sivustossasi julkaistusta sisällöstä, ja ne voivat tarjota todellista arvoa, jos sinun on joskus tarpeen tarkastella tai palauttaa kohteen tai tiedoston vanhaa versiota.
 
-Jos haluat lisä tietoja versio tiedoista, tutustu alla oleviin artikkeleihin.
+Lisätietoja versiotietojen tarkistamiseen on alla olevassa artikkeleissa.
 
-- [Miten versio tietojen hallinta toimii SharePoint-luettelossa tai-kirjastossa](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [Versioiden hallinta SharePoint kirjastossa](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-- [Versio tietojen ottaminen käyttöön ja määrittäminen luettelossa tai kirjastossa](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
+- [Versioimisen ottaminen käyttöön ja määrittäminen luettelossa tai kirjastossa](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
-- [Versio historian tarkasteleminen](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
+- [Versiohistorian tarkasteleminen](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-- [Tiedoston aiemman version palauttaminen OneDrivessa](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
+- [Tiedoston aiemman version palauttaminen OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
 
 - [Office-tiedostojen aiempien versioiden tarkasteleminen](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-- [Versio tietojen rajoitukset](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [Versioimisen rajoitukset](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Jos olet Microsoft 365-asiakas, versiointi on nyt käytössä oletusarvoisesti, kun luot uusia OneDrive for Business-kirjastoja ja tallennat asia kirjan viimeiset 500-versiot automaattisesti. Tämä auttaa estämään tärkeiden asia kirjojen tai tietojen menettämisen. Jos sinulla on olemassa olevia kirjastoja OneDrive for Business-sivustossa tai ryhmäsivustossa, jossa versio tietojen hallinta ei ole käytössä, voit ottaa versio tiedot käyttöön milloin tahansa.
+>Jos olet Microsoft 365, versiotiedot ovat nyt oletusarvoisesti käytössä, kun luot uusia OneDrive for Business-kirjastoja, ja se tallentaa automaattisesti tiedoston viimeiset 500 versiota. Näin estät tärkeiten asiakirjojen tai tietojen menettämisen. Jos sinulla on kirjastoja OneDrive for Business sivustossa tai ryhmäsivustossa, jossa ei ole versiohallintaa käytössä, voit ottaa niiden versiot käyttöön milloin tahansa.
 
 

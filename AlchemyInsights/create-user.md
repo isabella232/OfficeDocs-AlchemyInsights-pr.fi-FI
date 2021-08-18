@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118741"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896712"
 ---
 # <a name="create-user"></a>Luo käyttäjä
 
 **ILMOITUS:**
 
-- [WebView-kirjautumistuen peruuttaminen Googlesta 4. tammikuuta 2021 alkaen.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testaa, vaikuttaako Googlen yhteensopivuuden testaamista koskevat ohjeet [sovelluksiin.](https://go.microsoft.com/fwlink/?linkid=2157323)
-- Varmista, että käytät järjestelmän verkkonäkymää tai järjestelmäselainta, kun kirjaudut sisään käyttäjiisi kuluttaja-Google-tileillä. Lisätietoja on kohdassa [Sovellukseen kirjautumisongelmat vain Chrome-selaimella.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [WebView-kirjautumistuen peruuttaminen Googlesta 4. tammikuuta 2021 alkaen.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testaa, vaikuttaako Googlen yhteensopivuuden testaamista koskevat ohjeet [sovelluksiin.](https://go.microsoft.com/fwlink/?linkid=2157323)
+- Varmista, että käytät järjestelmän verkkonäkymää tai järjestelmäselainta, kun kirjaudut sisään käyttäjiisi kuluttaja-Google-tileillä. Lisätietoja on kohdassa [Sovellukseen kirjautumisongelmat vain Chrome-selaimella.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **En voi luoda uutta käyttäjää Azure AD -hakemistoon**
 
 1. Varmista, että sinulla on oikeus luoda uusi peruskäyttäjä. Vain yleinen järjestelmänvalvoja tai käyttäjän järjestelmänvalvojan Azure Active Directory (AD) voi luoda uuden peruskäyttäjän. Jos et kuulu näihin rooleihin, pyydä järjestelmänvalvojaa lisäämään sinut näihin rooleihin tai luomaan uusi käyttäjätili.
 1. Varmista, että käyttäjänimi on Toimialueessa, joka on vahvistettu Azure AD:ssä. Jos Azure AD:ssä ei ole vahvistettuja mukautettuja toimialuenimiä, voit käyttää Azure AD:n alkuperäistä toimialuetta, jonka lopussa on *.onmicrosoft.com.
 1. Varmista, että käyttäjänimi on toimialueella, jota ei ole liitetty Azure AD:iin paikallisesta AD:stä. Käyttäjiä ei voi lisätä pilvipalveluun toimialuenimillä, jotka on liitetty paikallisesti.
-1. Varmista, että toisella käyttäjällä tai yhteyshenkilöllä ei ole vielä käyttäjänimiä, jonka haluat määrittää uudelle käyttäjälle. Käyttäjien nimien on oltava yksilöllisiä Azure AD:ssä.
+1. Varmista, että toisella käyttäjällä tai yhteyshenkilöllä ei ole vielä käyttäjänimiä, jonka haluat määrittää uudelle käyttäjälle. Käyttäjänimien on oltava yksilöllisiä Azure AD:ssä.
 1. Tutustu [Azure AD:n rooleihin ja järjestelmänvalvojiin](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD:ssä.
 1. Katso Azure [AD:n](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) toimialuenimet.
-1. Tarkista [valvontalokit,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) jos haluat nähdä yksityiskohtaisempia tietoja äskettäin luodusta tai poistetusta käyttäjästä, kuten toiminnon suorittavasta henkilöstä ja milloin.
-1. Lisätietoja uusien käyttäjien lisäämisestä on kohdassa Uuden käyttäjän luominen Azure AD:ssä [Azure-portaalin avulla.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Azure AD:n järjestelmänvalvojan roolit:](/azure/active-directory/active-directory-assign-admin-roles)järjestelmänvalvojan roolin Azure Active Directory
-1. Voit luoda uuden [käyttäjän myös Azure AD PowerShellin avulla.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Tarkista [valvontalokit,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) jos haluat nähdä tarkempia tietoja äskettäin luodusta tai poistetusta käyttäjästä, kuten toiminnon suorittavasta henkilöstä ja milloin.
+1. Lisätietoja uusien käyttäjien lisäämisestä on kohdassa Uuden käyttäjän luominen Azure AD:ssä Azure-portaalin [avulla.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Azure AD:n järjestelmänvalvojan roolit:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)järjestelmänvalvojan roolin Azure Active Directory
+1. Voit luoda uuden [käyttäjän myös Azure AD PowerShellin avulla.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

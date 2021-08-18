@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499031"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896928"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Oston Microsoft 365
 
@@ -30,7 +30,7 @@ Voit ostaa Microsoft 365 hallintakeskuksessa.
 - Jos haluat ostaa lisää käyttöoikeuksia, siirry Laskutus  \> **[tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Valitse tilaus, jota haluat muuttaa, ja valitse sitten **Osta käyttöoikeuksia**.\
 **KATSO video,** jossa näytetään, miten voit tehdä tämän: [Osta uusia käyttöoikeuksia](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Lisätietoja on kohdassa [Käyttöoikeuksien ostaminen tai poistaminen.](/microsoft-365/commerce/licenses/buy-licenses)
+Lisätietoja on kohdassa [Käyttöoikeuksien ostaminen tai poistaminen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Vianmääritys**
 
@@ -38,5 +38,5 @@ Jos sinulla on ongelmia sivun lataamisessa, yritä avata verkkosivu toisessa sel
 
 **Lisäresursseja**
   
-- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](/microsoft-365/admin/add-users/add-users)
-- [Business Microsoft 365 n peruuttaminen](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Käyttöoikeuksien määrittäminen käyttäjille Microsoft 365 for Businessissa](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Business Microsoft 365 n peruuttaminen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

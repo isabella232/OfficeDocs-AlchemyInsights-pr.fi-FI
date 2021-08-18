@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protectionin määritäminen
+title: Määritä Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085873"
 ---
-# <a name="set-up-exchange-online-protection"></a>Exchange Online Protectionin määritäminen
+# <a name="set-up-exchange-online-protection"></a>Määritä Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) on pilvipohjainen sähköpostin suodatuspalvelu roskapostilta ja haittaohjelmilta suojaamista varten. Se sisältää ominaisuuksia, joilla organisaatiota voidaan suojata viestintäkäytäntörikkomuksista.
+Microsoft Exchange Online Protection (EOP) on pilvipohjainen sähköpostin suodatuspalvelu, joka suojaa roskapostilta ja haittaohjelmilta. Se sisältää ominaisuuksia, jotka suojaavat organisaatiotasi viestintäkäytäntörikkomuksista.
 
-Exchange [Online Protectionin](https://go.microsoft.com/fwlink/?linkid=2071067) määritysoppaan avulla voit määrittää EOP:n valitsemalla kolmesta käyttöönottoskenaariosta: paikallisesta postilaatikosta, yhdistelmäympäristöstä (yhdistelmä paikallisista ja pilvipalveluista) postilaatikoista tai kaikista pilvipostilaatikoista, jotka sopivat organisaatioosi. Oppaassa on tietoja ja resursseja EOP:n määrittämiseen ja käyttäjän käyttöoikeuksien tarkistamiseen, käyttöoikeuksien määrittämiseen Microsoft 365 -hallintakeskuksessa sekä organisaation haittaohjelmien ja roskapostin torjuntakäytäntöjen määrittämiseen Tietoturva- ja & yhteensopivuuskeskuksessa.
+Voit [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) EOP:n määritysoppaan avulla valitsemalla jonkin kolmesta käyttöönottoskenaariosta: paikallisesta postilaatikosta, yhdistelmäympäristöstä (sekä paikallisista ja pilvipalveluista) postilaatikoista tai kaikista pilvipohjaista postilaatikoista, jotka sopivat organisaatioosi. Oppaassa on tietoja ja resursseja EOP:n määrittämiseen ja käyttäjän käyttöoikeuksien tarkistamiseen, Microsoft 365 -hallintakeskus:n käyttöoikeuksien määrittämiseen sekä organisaation haittaohjelmien ja roskapostin torjuntakäytäntöjen määrittämiseen Tietoturva- ja & yhteensopivuuskeskuksessa.

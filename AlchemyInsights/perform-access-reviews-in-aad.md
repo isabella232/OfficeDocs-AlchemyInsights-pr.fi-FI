@@ -1,5 +1,5 @@
 ---
-title: Suorita arvostelut Azure Active Directoryssa
+title: Käyttöoikeuskommenssien Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086773"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Suorita arvostelut Azure Active Directoryssa
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Käyttöoikeuskommenssien Azure Active Directory
 
-Nimetyt tarkistajat voivat suorittaa Azure Active Directory-käyttö oikeus arvioita ryhmien jäsenyyksistä, sovellusten käyttö oikeudet ja rooli määritykset. Nämä arvostelut vähentävät organisaation mahdollisesti kohtaamaa tieto turva riskiä, kun käyttäjillä on enemmän käyttö oikeuksia kuin he tarvitsevat. Voit suorittaa käyttö oikeus arvosteluja [Omat sovellukset](https://go.microsoft.com/fwlink/?linkid=2134605) -tai [oma käyttö](https://go.microsoft.com/fwlink/?linkid=2134505)-toiminnolla.
+Määritetyt tarkistajat Azure Active Directory tarkastella ryhmän jäsenyyksien, sovellusten käytön ja roolimäärityksen arvioita. Näiden arviointien avulla voit vähentää organisaatiosi tietoturvariskejä, kun käyttäjillä on enemmän pääsyä kuin he tarvitsevat. Voit käyttää arvioita Omat sovellukset- [tai](https://go.microsoft.com/fwlink/?linkid=2134605) [Oma käyttöoikeus -toiminnon avulla.](https://go.microsoft.com/fwlink/?linkid=2134505)
