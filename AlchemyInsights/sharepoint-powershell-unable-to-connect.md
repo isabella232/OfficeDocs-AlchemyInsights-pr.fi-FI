@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "11511"
 - "9000292"
-ms.openlocfilehash: 61829dc795cc94590743d83ad92920df896b95397c8672545b4894cd1d098e90
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8cfb6043af905cf50463f82e564058c74f794fd0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901841"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331692"
 ---
 # <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell ei voi muodostaa yhteyttä
 
-Jos sinulla on ongelmia yhteyden muodostamisessa SharePoint Online PowerShell -moduuliin, katso lisätietoja ohjeesta SharePoint [online-hallintaliittymään yhdistettäessä.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
+Jos sinulla on ongelmia yhteyden muodostamisessa SharePoint Online PowerShell -moduuliin, katso lisätietoja ohjeesta SharePoint [online -hallintaliittymään yhdistettäessä.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)

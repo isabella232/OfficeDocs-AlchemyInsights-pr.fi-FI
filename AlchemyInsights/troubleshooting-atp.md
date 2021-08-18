@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900649"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330813"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
@@ -28,8 +28,8 @@ ms.locfileid: "57900649"
 
   1. Siirry yleisen [https://protection.office.com](https://protection.office.com) järjestelmänvalvojan tai suojauksen järjestelmänvalvojan tiliin ja kirjaudu sisään.
 
-  2. Valitse vasemman siirtymisruudun **Uhkien hallinta**-kohdassa **Käytäntö Lokero** \> **linkit**.
+  2. Valitse vasemman siirtymisruudun **Uhkien hallinta**-kohdassa  \> **Käytäntö- Lokero linkit**.
 
   3. Valitse **käytäntö koko organisaatiota koskevat käytännöt** -osassa ja valitse **sitten Muokkaa**.
 
-  4. Ota **Asetukset** kohdassa Ota **käyttöön turvalliset linkit organisaation sisällä lähetetyissä viesteissä**.
+  4. Ota **Asetukset**-kohdassa **Ota käyttöön turvalliset linkit organisaation sisällä lähetetyissä viesteissä -asetus.**

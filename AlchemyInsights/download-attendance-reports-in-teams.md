@@ -12,17 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 99bbdff705fa0314c59d8750ecbd421e58dda739b11a0ac6298e15aa03fd8e47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7792f50c4949a21a2b31fb29b2af709be1febe1f
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004346"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339065"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Läsnäoloraporttien lataaminen Teams
 
-Kokouksen järjestäjät voivat ladata läsnäoloraportteja kokousten aikana. Järjestelmänvalvojana voit hallita sitä, voivatko kokouksen järjestäjät ladata kokoukseen osallistumista koskevat raportit Teams kokouskäytännön. Oletusarvoisesti mahdollisuus ladata raportti on poistettu käytöstä. Ohjeet tämän ominaisuuden käyttöönomiseen ovat kohdassa  [Kokouskäytäntöasetukset – Kokouksen läsnäoloraportti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Kokouksen järjestäjät voivat ladata läsnäoloraportteja kokousten aikana. Järjestelmänvalvojana voit hallita sitä, voivatko kokouksen järjestäjät ladata kokousten osallistumisraportteja Teams kokouskäytännön. 
 
-Kun tämä on otettu käyttöön, kokouksen järjestäjät voivat kokouksen aikana valita  **Näytä osallistujat**  ja valita  **Lataa osallistujaluettelo**. Lisätietoja on raporteissa [Läsnäoloraporttien lataaminen Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) [Microsoft Teams kokousten läsnäoloraportissa.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
+Oletusarvoisesti mahdollisuus ladata raportti on poistettu käytöstä. 
 
-**Tärkeää:** voit ladata läsnäoloraportin vain kokouksen ollessa käynnissä ja osallistujat ovat yhä paikalla.
+Osallistumisraporttien ottaminen käyttöön: 
+1.  Siirry [Teams hallintakeskukseen.](https://admin.teams.microsoft.com/policies/meetings)
+1.  Valitse **Yleinen (organisaation laajuinen oletus)** tai muu tietty käytäntö.
+1.  Siirry **Yleiset-kohdassa** Salli **hallittava raportti -asetukseen** ja valitse Sitten **Ota käyttöön**.
+
+Lisätietoja läsnäoloraporteista on kohdassa:
+
+- [Kokouskäytännön asetukset – Kokouksen osallistujat -raportti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
+- [Läsnäoloraporttien lataaminen Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) 
+- [Microsoft Teams läsnäoloraportin avulla](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)

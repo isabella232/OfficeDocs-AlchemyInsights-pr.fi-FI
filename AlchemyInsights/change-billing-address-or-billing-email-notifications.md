@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897413"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332478"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Laskutusosoitteen tai laskutuksen sähköposti-ilmoitusten muuttaminen
 
 **Muuta Bill-To osoite**
 
-1. Siirry hallintakeskuksessa Laskutus- ja **> [maksutavat -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. Siirry hallintakeskuksessa Laskutus- ja **> [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Valitse luottokortti tai pankkitili, jota haluat muuttaa.
 
@@ -45,4 +45,4 @@ ms.locfileid: "57897413"
 
 4. Kirjoita **Vaihtoehtoinen sähköpostiosoite** -ruutuun vaihtoehtoinen sähköpostiosoite, jota haluat käyttää, ja valitse sitten **Tallenna**.
 
-Lisätietoja osoitteen ja ilmoitusten muutoksista on kohdassa [Yritysasiamiesi Microsoft 365 muuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Lisätietoja osoitteiden ja ilmoitusten muutoksista on kohdassa Microsoft 365 [laskutusosoitteiden muuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)

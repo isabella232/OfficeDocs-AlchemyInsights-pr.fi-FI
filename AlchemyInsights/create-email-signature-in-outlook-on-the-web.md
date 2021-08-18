@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22155f87e9f604560ec74769e882d186e825a05e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965530"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332258"
 ---
 # <a name="create-email-signature-in-outlook-on-the-web"></a>Sähköpostin allekirjoituksen luominen Outlookin verkkoversio
 
@@ -26,8 +26,7 @@ ms.locfileid: "53965530"
 3. Valitse **Asetukset-paneelin** **Sähköposti-kohdassa** **Asettelu sähköpostin**  >  **allekirjoitus**.
 4. Kirjoita tekstiruutuun allekirjoituksesi ja muuta sen ulkoasua käytettävissä olevien muotoiluasetusten avulla.
 
-    > [!TIP]
-    > Kuvatiedoston (esimerkiksi .gif tai .jpg) lisääminen allekirjoitukseen ei ole tuettua, mutta voit kopioida kuvan verkkosivulta ja liittää sen allekirjoitusruutuun.
+    **Vihje:** Kuvatiedoston (esimerkiksi .gif- tai .jpg-muodossa) lisääminen allekirjoitukseen ei ole tuettua, mutta voit kopioida kuvan verkkosivulta ja liittää sen allekirjoitusruutuun.
 
 5. Jos haluat, että allekirjoituksesi näkyy kaikkien lähtevien sähköpostiviestien ( myös vastausten ja edelleenlähetysten) alalaidassa, valitse Sisällytä allekirjoitukseni automaattisesti uusiin **viesteihin.**
 6. Valitse **Tallenna**.

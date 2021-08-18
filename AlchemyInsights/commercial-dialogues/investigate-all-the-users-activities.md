@@ -13,27 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898793"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332340"
 ---
 # <a name="investigate-all-the-users-activities"></a>Kaikkien käyttäjien toimintojen tutkiminen
 
 Voit tehdä tämän näin:
 
 1. Tee jokin seuraavista:
-   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> -palvelussa Ratkaisujen  \> **valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://compliance.microsoft.com/auditlogsearch> -
-   - Valitse Microsoft 365 Defender <https://security.microsoft.com> -hallintaportaalissa **Valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://security.microsoft.com/auditlogsearch> -
+   - Valitse Microsoft 365 -yhteensopivuuskeskus <https://compliance.microsoft.com> -palvelussa **Ratkaisujen** \> **valvonta.** Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://compliance.microsoft.com/auditlogsearch> -
+   - Valitse Microsoft 365 Defender <https://security.microsoft.com> -portaalissa **Valvonta**. Jos haluat siirtyä suoraan **Valvonta-sivulle,** käytä <https://security.microsoft.com/auditlogsearch> -
 
-    > [!NOTE]
-    > Jos huomaat, että sinun on ottaa ominaisuus käyttöön, ota se käyttöön nyt. Jos ominaisuus ei ole käytössä, hakutulokset eivät voi hakea tietoja aiemmista päivämääristä.
+    **Huomautus:** Jos näet ilmoituksen, että sinun on ottaa ominaisuus käyttöön, ota se käyttöön nyt. Jos ominaisuus ei ole käytössä, hakutulokset eivät voi hakea tietoja aiemmista päivämääristä.
 
 2. Määritä **Valvonta-sivun** **Haku-välilehdessä** seuraavat asetukset:
    - **Päivämäärä- ja aikaalue:** Valitse päivämäärä-/aika-alue Aloitus- ja **Lopetus-ruuduista.** 
-   - **Toiminnot:** Jos olet kiinnostunut tietystä aktiviteetista, valitse se luettelosta; Muussa tapauksessa oletusarvo Näytä **kaikkien toimintojen tulokset palauttaa** kaikki toiminnot.
+   - **Toiminnot:** Jos olet kiinnostunut tietystä aktiviteetista, valitse se luettelosta; Muussa tapauksessa oletusarvo Näytä kaikkien **toimintojen tulokset palauttaa** kaikki toiminnot.
    - **Käyttäjät:** Voit palauttaa kaikkien käyttäjien tulokset hyväksymällä tyhjän oletusarvon tai kirjoittamalla yhden tai useamman käyttäjän.
 
 3. Kun olet valmis, valitse **Hae**. Toiminnot näkyvät uudella **Valvontahaku-sivulla.** Näet IP-osoitteen , **Käyttäjän** **ja** **aktiviteetin** nimen.

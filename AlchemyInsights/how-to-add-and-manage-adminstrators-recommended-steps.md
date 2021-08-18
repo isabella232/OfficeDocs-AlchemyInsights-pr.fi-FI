@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963784"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339029"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Järjestelmänvalvojien lisääminen ja hallinta – suositellut vaiheet
 
@@ -43,7 +43,7 @@ Palvelun järjestelmänvalvoja tai yhteisvalvoja voi käyttää tätä toimintoa
 
 1. Kirjaudu [Azure-portaaliin](https://ms.portal.azure.com/#home) palvelun järjestelmänvalvojana.
 2. Avaa [Tilaukset](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ja valitse tilaus. (Rinnakkaisvalvojat voidaan määrittää vain tilauksen laajuuden mukaan.)
-3. Siirry kohtaan **Access control (IAM)**  >  **classic**  >    >  administrators **Add Add co-administrator** (Lisää rinnakkaisomistaja) ja avaa Lisää toinen järjestelmänvalvoja **-ruutu** (Jos Lisää toinen järjestelmänvalvoja -vaihtoehto ei ole käytössä, se tarkoittaa, että sinulla ei ole käyttöoikeuksia).
+3. Siirry kohtaan **Access control (IAM)**  >  **Classic**  >    >  administrators **Add Add co-administrator** (Lisää yhteisjärjestelmänvalvoja) ja avaa Lisää toinen järjestelmänvalvoja **-ruutu** (Jos Lisää toinen järjestelmänvalvoja -vaihtoehto ei ole käytössä, se tarkoittaa, että sinulla ei ole käyttöoikeuksia).
 4. Valitse käyttäjä, jonka haluat lisätä, ja valitse **Lisää**.
 
 **Opi lisää:**
@@ -75,7 +75,7 @@ Voit lisätä uusia käyttäjiä tai poistaa aiemmin luotuja käyttäjiä Azure 
 - [Opetusohjelma: Käyttöoikeuden myöntäminen käyttäjälle, joka käyttää RBAC-menetelmää ja Azure-portaalia](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [RBAC:n vianmääritys Azuressa](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Resurssien järjestäminen Azure-hallintaryhmien avulla](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Azure-laskun kopion pyytäminen sähköpostitse](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Azure-laskun kopion pyytäminen sähköpostitse](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Luotto- tai debit-kortin lisääminen, päivittäminen tai poistaminen Azuresta](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Tilauksen hallinta (uudelleenaktivoiminen/peruuttaminen/vaihtaminen)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

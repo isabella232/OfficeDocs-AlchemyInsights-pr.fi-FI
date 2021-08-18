@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922215"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331038"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Tietojen ja laitteiden poistaminen Intunesta
 
@@ -32,8 +32,7 @@ Laitteen käytöstä poistaminen ja laitteen tietojen poistaminen ovat etätoimi
 4. Vahvista valitsemalla **Kyllä**. Kunnes tietojen poistaminen on valmis, laitteen toiminnon tila näyttää, että *Käytöstä poisto odottaa*.
     Kun toiminto on valmis, mobiililaite ei näy enää hallittujen laitteiden listassa.
 
-> [!NOTE]
-> Yritystietoja ei voi poistaa laitteista, jotka on LIITETTY Azure AD:hen. 
+**Huomautus:** Yritystietoja ei voi poistaa laitteista, JOTKA ON LIITETTY Azure AD:lle. 
 
 Lisätietoja laitteen käytöstä poistamisen ja laitteen tietojen poistamisen vaikutuksista, mukaan lukien siitä, mitä säilytetään ja mitä poistetaan, löytyy seuraavista ohjeista:
 
