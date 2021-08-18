@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898889"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330405"
 ---
 # <a name="change-your-billing-address"></a>Laskutusosoitteen muuttaminen
 
@@ -35,11 +35,11 @@ Laskussa on kolme osoitetta.
 3. Valitse **Maksutapatiedot-sivulla** **Muokkaa**.
 4. Päivitä laskutusosoite ja valitse sitten **Tallenna > valmis**.
 
-Lisätietoja osoitteen ja ilmoitusten muutoksista on kohdassa [Yritysasiamiesi Microsoft 365 muuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Lisätietoja osoitteiden ja ilmoitusten muutoksista on kohdassa Microsoft 365 [laskutusosoitteiden muuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Laskutustilin tietojen muuttaminen**
 
-1. Valitse hallintakeskuksessa Laskutus- > **[laskutustilit.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+1. Valitse hallintakeskuksessa Laskutus- ja **[> tilit.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Valitse **Muokkaa laskutustilin tietoja**.
 3. Päivitä laskutustilin tiedot ja valitse sitten **Tallenna > valmis**.
 

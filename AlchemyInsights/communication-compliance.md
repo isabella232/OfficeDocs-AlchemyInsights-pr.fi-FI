@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090733"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329915"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Viestinnän yhteensopivuus Microsoft 365
 
@@ -41,7 +41,6 @@ Käyttöoikeusvaatimukset: Viestintäkäytäntöjen valvonnalla käyttäjillä o
 - Office 365 Enterprise E3-käyttöoikeus Advanced Compliance -lisäosan avulla
 - Office 365 Enterprise E5-tilaus
 
-Jos sinulla ei ole yllä kuvattuja tietoja ja haluat kokeilla viestinnän vaatimustenmukaisuutta, **[rekisteröidy E5:n Office 365 Enterprise kokeiluversioksi.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Jos sinulla ei ole yllä kuvattuja tietoja ja haluat kokeilla viestinnän vaatimustenmukaisuutta, **[rekisteröidy E5-kokeiluversion Office 365 Enterprise varten.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Voi kestää jopa 24 tuntia, ennen kuin sähköpostiviestejä käsitellään täydellisesti käytännön mukaisesti. Viestintä Microsoft Teams Yammer ja kolmansien osapuolten ympäristöissä voi kestää jopa 48 tuntia, ennen kuin käytäntö käsitellään täydellisesti.
+**Huomautus:** sähköpostiviestien käsitteleminen täydellisesti käytännön sisällä voi kestää jopa 24 tuntia. Viestintä Microsoft Teams, Yammer ja kolmansien osapuolten ympäristöissä voi kestää jopa 48 tuntia, ennen kuin käytäntö käsitellään täydellisesti.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327843"
 ---
 # <a name="unable-to-activate-office"></a>Officen aktivointi epäonnistui
 
-**Huomautus:** Jos käytät vanhempaa Windows (esimerkiksi Windows 7), varmista, että TLS 1.2 on käytössä oletusversiona. Lisätietoja on päivityksessä [TLS 1.1: n ja TLS 1.2:n käyttöönottamiseksi WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392):n oletusarvoina suojattuina protokollina.
+**Huomautus:** Jos käytät vanhempaa Windows -versiota (esimerkiksi Windows 7), varmista, että TLS 1.2 on käytössä oletusarvoisesti. Lisätietoja on päivityksessä [TLS 1.1: n ja TLS 1.2:n](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ottaminen käyttöön WinHTTP in Windows :n oletusarvoisen suojatun protokollan avulla.
 
 - Tarkista, onko tilauksesi vanhentunut.
 - Varmista, että käyttöoikeutesi sallii asiakaskäyttöoikeudet, kuten Office 365 Businessin tai Business Premiumin, ja että [käyttäjälle on määritetty käyttöoikeus](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

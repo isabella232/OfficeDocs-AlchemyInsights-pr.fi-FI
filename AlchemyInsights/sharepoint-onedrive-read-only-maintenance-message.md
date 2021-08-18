@@ -13,16 +13,16 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910543"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329445"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only ylläpitoa varten -sanoma, kun yrität käyttää SharePoint tai OneDrive
 
-Käyttäjät voivat saada vain luku -tilan **ylläpitoa** varten -viestin, kun he yrittävät SharePoint tai OneDrive jossakin seuraavista skenaarioista. 
+Käyttäjät voivat saada Vain luku **ylläpitoa** varten -sanoman, kun he yrittävät SharePoint tai OneDrive jossakin seuraavista skenaarioista. 
 
 -   Suunniteltu tai aktiivinen ylläpitotoiminta.  Tarkista ne siirtymällä [viestikeskukseen](https://portal.office.com/adminportal/home#/messagecenter).
 -   Suuren prioriteetin aktiivinen palveluhäiriö, joka voi itapahtua. Tarkista mahdolliset tiedotteet/tapaukset siirtymällä palvelun [kuntoon.](https://portal.office.com/adminportal/home#/servicehealth)
@@ -34,12 +34,10 @@ Hyvin harvoin havaitsimme, että jokin edellä mainituista kolmesta skenaariosta
 
 Yritä tyhjentää selaimen välimuisti, ennen kuin siirryt sivustoon.
 
-1. Valitse Microsoft Edge-selaimessa **Asetukset** ja valitse sitten Tietosuoja **ja suojaus**.
+1. Valitse Microsoft Edge-selaimessa **Asetukset** ja valitse sitten **Tietosuoja ja suojaus**.
 2. Valitse **Tyhjennä selaus**-kohdassa **Valitse, mitä haluat tyhjentää**.
 3. Valitse **Evästeet ja tallennetut sivustotiedot** ja valitse **Tyhjennä**.
 
->[!Note] 
-> Nämä vaiheet saattavat poiketa, kun käytät muita selaimia, kuten Mozilla Firefoxia tai Google Chromea.
+**Huomautus:** Nämä vaiheet saattavat poiketa, kun käytät muita selaimia, kuten Mozilla Firefoxia tai Google Chromea.
 
->[!Note] 
-> Toinen vaihtoehto on avata SharePoint tai OneDrive InPrivate-ikkunassa.
+**Huomautus:** Toinen vaihtoehto on avata SharePoint tai OneDrive InPrivate-ikkunassa.

@@ -16,16 +16,16 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 859042d068da6410b6b46a90a14887949825567794361d262c190149530d708b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2e5f1a81aea51384a1e10a3b83f4cb59703c9ff0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898465"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328471"
 ---
 # <a name="reset-or-change-passwords"></a>Salasanojen vaihtaminen tai palauttaminen
 
-Käyttäjä voi vaihtaa oman salasanansa valitsemalla käyttäjän valokuvan tai nimikirjaimet > **Näytä tili**.
+Käyttäjä voi vaihtaa oman salasanansa valitsemalla käyttäjän valokuvan tai nimikirjaimet ja > **Näytä tili**.
   
 Jos käyttäjä on unohtanut salasanansa, järjestelmänvalvoja voi vaihtaa salasanan valitsemalla Käyttäjät aktiiviset käyttäjät , valitsemalla käyttäjät ja valitsemalla  >  [](https://portal.office.com/adminportal/home#/users)Palauta **salasana.**
   
