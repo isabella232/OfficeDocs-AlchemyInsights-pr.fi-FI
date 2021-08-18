@@ -12,26 +12,26 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 3f7cf748f309441372e7af7dbcaaa241b7cfcd3b365051a2630ca38fa4c1d11c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab1d8283bcd537cf666dd60b3a23459d4d1dfa8aa5167e2d6fb2a9b779b4b3e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115501"
 ---
 # <a name="information-about-gdpr"></a>Tietoja GDPR:stä
 
-- [Gdpr simplified: A guide for your small business](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [Gdpr simplified: A guide for your small business](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Aloitusopas Service Trust [Portalissa.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Aloitusopas Service [Trust Portalin avulla.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-- Jos haluat  lisätietoja TPA -sopimuksesta, tarkista:
+- Jos haluat  lisätietoja TPA-sopimuksesta, tarkista:
 
   - [Tietosuojaresurssit](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Valvontaraportit](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Tietoa **rekisteröidyn pyynnöistä** – etsi, käytä, korjaa, rajoita, poista, vie on [täällä.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Tietoa **rekisteröidyn pyynnöistä** – etsi, käytä, korjaa, rajoita, poista, vie on [täällä.](/microsoft-365/compliance/gdpr-dsr-office365)
 
 - **Tietomurtoilmoitusta koskevat tiedot** ovat [täällä.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

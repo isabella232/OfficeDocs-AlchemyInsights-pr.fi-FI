@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055551"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318645"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Isännöidyn vastaajan ottaminen käyttöön
 
@@ -26,10 +26,9 @@ Jos haluat ottaa vastaajan käyttöön, **HostedVoicemail-asetuksena** on oltava
 
 Käyttäjän **HostedVoicemail-ominaisuus,** joka käyttää Etä-PowerShelliä (RPS).
 
-Lisätietoja yhteyden muodostamisesta RPS-palveluntarjoajaan on [Microsoft Teams PowerShellin yleiskatsauksen](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) avulla.
+Lisätietoja yhteyden muodostamisesta RPS:iin on [Microsoft Teams PowerShellin](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) yleiskatsauksesta.
 
-1. Järjestelmänvalvojan Teams oltava kirjautuneena PowerShell-etäistuntoon Teams.
-1. PowerShellin kehotteesta Teams Järjestelmänvalvoja voi suorittaa **set-csuser-user@contoso.com -HostedVoiceMail-$true** jossa sip uri on kyseiseltä käyttäjältä.
+1. Järjestelmänvalvojan Teams kirjauduttava PowerShell-etäistuntoon Teams.
+1. PowerShellin kehotteesta Teams Järjestelmänvalvoja voi suorittaa **set-csuser-user@contoso.com -HostedVoiceMail$true** jossa sip uri on kyseiseltä käyttäjältä.
 
-> [!NOTE]
-> Käytäntöihin tehdyt muutokset voivat replikoida jopa 24 tuntia.
+**Huomautus:** toimintakäytäntöjen replikointi voi kestää jopa 24 tuntia.

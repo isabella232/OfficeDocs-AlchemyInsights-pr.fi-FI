@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115645"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Poistettujen sähköpostiviestien valvontalokit
 
@@ -32,8 +32,8 @@ Tammikuusta 2019 alkaen Microsoft on ottanut postilaatikoiden valvontalokit olet
 
 4. Valitse **Hae**.
 
-Valitse tuloksista valvontatietue. Valitse tiedot-pikaikkunassa **Lisätietoja**. Lisätietoja poistetusta kohteesta (esimerkiksi aiherivi ja kohteen sijainti, kun se poistettiin) näytetään **AffectedItems-kentässä.** **ClientInfoString-ominaisuus** näyttää, jos poisto on tapahtunut Outlook-, Outlookin verkkoversio (aiemmin Outlook Web App) tai missä tahansa muissa laitteessa.
+Valitse tuloksista valvontatietue. Valitse tiedot-pikaikkunassa **Lisätietoja**. Lisätietoja poistetusta kohteesta (esimerkiksi aiherivi ja kohteen sijainti, kun se poistettiin) näytetään **AffectedItems-kentässä.** **ClientInfoString-ominaisuus** näyttää, onko poisto tapahtunut Outlook, Outlookin verkkoversio (aiemmin Outlook Web App) vai missä tahansa muissa laitteessa.
 
-Lisätietoja on kohdassa [Postilaatikon sähköpostin edelleenlähetysten määritysten selvittäminen.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Lisätietoja on kohdassa [Postilaatikon sähköpostin edelleenlähetysten määritysten selvittäminen.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Huomautus:** Poistettuja kohteita ei voi noutaa valvontalokitoiminnolla. Lisätietoja poistettujen viestien Outlookin verkkoversio on kohdassa [Poistettujen kohteiden palauttaminen Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
+**Huomautus:** Poistettuja kohteita ei voi noutaa valvontalokitoiminnolla. Lisätietoja poistettujen viestien noutaminen Outlookin verkkoversio on kohdassa [Poistettujen kohteiden palauttaminen Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)

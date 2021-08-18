@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090933"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Prepare to provision users through directory synchronization to Office 365
 
 Käyttäjien valmistelu hakemistosynkronoinnin avulla edellyttää suunnittelua ja valmisteluja, noudata seuraavia ohjeita:
 
-Joitakin valmisteluun käyttäjiin sisällytetyt toimet:
-1. **Hakemiston uudelleenjärjestäminen.**
-1. **Hakemisto-objektin ja määritteen valmistelu.**
+Käyttäjien valmistelussa on otettava huomioon esimerkiksi seuraavat toimet:
+1. **Hakemiston uudelleenjärjestäminen**.
+1. **Hakemisto-objektin ja määritteen valmistelu**.
 1. **UpN-määritteiden valmistelu.**
-1. **Vaihtoehtoiset UPN-jälkiliitteet lisätään AD DS :lle.**
-1. **Paikallisen upnn-niän täsmääminen Office 365:n UPN-niin.**
+1. **Vaihtoehtoiset UPN-jälkiliitteet voidaan myös liittää AD DS :iin.**
+1. **Täsmää paikallisiin upnnihin ja Office 365 upnnihin.**
 1. **Hakemistointegrointityökalut.**
 
-Yksityiskohtaiset kuvaukset kustakin valmisteluvaiheesta on artikkelissa Käyttäjien valmistelu hakemistosynkronoinnin [kautta Office 365:ssä.](https://aka.ms/office365assistantprovisionuserstooffice365)
+Yksityiskohtaiset kuvaukset kustakin valmisteluvaiheesta on artikkelissa Käyttäjien valmistelu [hakemistosynkronoinnin](https://aka.ms/office365assistantprovisionuserstooffice365)avulla Office 365 artikkelista.

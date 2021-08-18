@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091025"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>MDATP-asennusongelmien vianmääritys Macissa
 
@@ -27,6 +27,6 @@ Jos manuaalinen asennus epäonnistuu, **ohjatun** asennuksen yhteenvetosivulla n
 
 MDM-käyttöönotoissa sivulla näkyy myös yleinen asennusvirhe.
 
-Vaikka emme näytä tarkkoja virheitä loppukäyttäjille, säilytämme lokitiedoston asennuksen edistymisen kanssa **kohteessa /Library/Logs/Microsoft/mdatp/install.log.** Jokainen asennusistunto liitetään tähän lokitiedostoon. Jos haluat tulostaa vain viimeisen asennusistunnon, käytä `sed` .
+Vaikka loppukäyttäjät eivät näytä tarkkoja virheitä, säilytämme asennuksen edistymisen lokitiedoston **kohteessa /Library/Logs/Microsoft/mdatp/install.log**. Jokainen asennusistunto liitetään tähän lokitiedostoon. Jos haluat käyttää vain viimeistä asennusistuntoa, käytä `sed` -
 
 Lisätietoja on kohdassa [Microsoft Defender ATP for Macin asennusongelmien vianmääritys.](https://go.microsoft.com/fwlink/?linkid=2144615)
