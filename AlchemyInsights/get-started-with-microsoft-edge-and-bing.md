@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edgen ja Bingin käytön aloittaminen
+title: Aloita Microsoft Edge + Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116401"
 ---
-# <a name="get-started-with-microsoft-edge--bing"></a>Microsoft Edgen ja Bingin käytön aloittaminen
+# <a name="get-started-with-microsoft-edge--bing"></a>Aloita Microsoft Edge + Bing
 
-Microsoft Edgen ja Bingin käytön aloittaminen ei tarvita lisäasetuksia. Voit etsiä työhön liittyviä tietoja kirjoittamalla kyselyn Microsoft Edgen osoiteri osoitteeseen.
+Lisäasetuksia ei tarvita, jotta voit aloittaa Microsoft Edge + Bing. Voit etsiä työhön liittyviä tietoja kirjoittamalla kyselyn hakuruudun osoiteri Microsoft Edge.
 
-Lisätietoja on ohjeaiheessa Microsoft [Edgen ja Bingin käyttö.](https://go.microsoft.com/fwlink/?linkid=2152963)
+Lisätietoja on ohjeaiheessa Microsoft Edge [+ Bing.](https://go.microsoft.com/fwlink/?linkid=2152963)

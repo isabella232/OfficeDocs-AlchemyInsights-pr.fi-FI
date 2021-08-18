@@ -1,5 +1,5 @@
 ---
-title: Apua Apple DEP-ohjelmasta
+title: Ohjeita Apple DEP:n kanssa
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116329"
 ---
-# <a name="help-with-apple-dep"></a>Apua Apple DEP-ohjelmasta
+# <a name="help-with-apple-dep"></a>Ohjeita Apple DEP:n kanssa
 
-Jos tietojen suorittamisen estäminen-laite ei pysty rekisteröimään ja MFA (Multi-Factor-todennus) on käytössä, Poista MFA käytöstä. Tietojen suorittamisen estämisen rekisteröinti ei tällä hetkellä tue MFA-toimintoa.
+Jos DEP-laite ei voi rekisteröityä ja monimenetelmäinen todentaminen (MFA) on käytössä, poista monimenetelmäinen todentamismenetelmä käytöstä. Tietojen suorittamisen estämiskäytäntöjen rekisteröinti ei tällä hetkellä tue MFA:ta.
 
-[Intune-sovelluksen ja Applen laite rekisteröinti ohjelman (DEP) käytön aloittaminen](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Intunen ja Applen laiterekisteröintiohjelman käytön aloittaminen](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[IOS:n yleiset rekisteröinti virheet ja-ratkaisut](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Yleisiä iOS-rekisteröintivirheitä ja -ratkaisuja](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Rekisteröityjen iOS/iPadOS-laitteiden varmuus kopiointi-ja palautus skenaariot](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Rekisteröityjen iOS- ja iPadOS-laitteiden varmuuskopiointi- ja palautusskenaariot](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Yleisten rekisteröinti ongelmien vian määritys](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Yleinen rekisteröinnin vianmääritys](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Yleisten rekisteröinti virheiden diagnosointi ja ratkaiseminen Intune-vian määritys portaalin avulla](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Intunen vianmääritysportaalin avulla voit diagnosoida ja ratkaista yleisiä rekisteröintivirheitä](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

@@ -1,5 +1,5 @@
 ---
-title: Intune-käytäntöjen ja-profiilien vian määritys
+title: Intune-käytännön ja -profiilien vianmääritys
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092411"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Intune-käytäntöjen ja-profiilien vian määritys
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Intune-käytännön ja -profiilien vianmääritys
 
-Jos haluat nähdä olemassa olevat käytännöt, ratkaista risti riitoja, tarkastella loki tietoja ja tarkastella yleisiä kysymyksiä ja ongelmia, seuraavat oppaat voivat auttaa.
+Seuraavista oppaista voi olla apua, jos haluat nähdä olemassa olevat käytännöt, tehdä ristiriitojen vianmäärityksen, tarkastella lokitietoja ja tarkastella yleisiä kysymyksiä ja ongelmia.
 
-- [Käytäntöjen ja profiilien vian määritys Intune-sovelluksessa](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Intunen käytännöt ja profiilit -sovelluksen vianmääritys](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Yleisiä kysymyksiä, ongelmia ja päätös lauselmia laite käytäntöjen ja-profiilien avulla Intunella](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Yleisiä kysymyksiä, ongelmia ja ratkaisuja Intunen laitekäytäntöjen ja -profiilien avulla](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Laitteen määritys profiilien ja näkymän risti riitojen valvonta Intune-sovelluksessa](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Laitteen määritysprofiilien valvonta ja ristiriitojen tarkasteleminen Intunessa](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Laitteen yhteensopivuuden ja ehdollisen käytön vian määritys Intunella](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Laitteen yhteensopivuuden ja ehdollisen käyttöoikeuden vianmääritys Intunessa](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Yhteensopivuus käytäntöjen valvonta ja risti riitojen tarkasteleminen Intunella](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Yhteensopivuuskäytäntöjen valvonta ja ristiriitojen tarkasteleminen Intunessa](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Lähetä Intune-loki tiedot Azure-tallennus tilaan, tapahtuma keskuksiin tai loki analytiikkaan](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Intune-lokitietojen lähettäminen Azure-tallennustilaan, tapahtumakeskuksiin tai lokianalyysiin](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Katso yleiskatsaus [laitteiden määrittämisestä](https://docs.microsoft.com/intune/device-profiles) tai [yhteensopivuus käytäntöjen käyttämisestä](https://docs.microsoft.com/intune/device-compliance-get-started).
+Lisätietoja laitteiden määrittämisestä [ja yhteensopivuuskäytäntöjen](https://docs.microsoft.com/intune/device-profiles) käytöstä on [yleiskatsauksessa.](https://docs.microsoft.com/intune/device-compliance-get-started)

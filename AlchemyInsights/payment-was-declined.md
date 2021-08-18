@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087205"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319889"
 ---
 # <a name="your-payment-was-declined"></a>Maksusi hylättiin
 
@@ -35,8 +35,7 @@ Microsoft yrittää veloittaa korttiasi useita kertoja 3-4 viikkoa laskun päiv�
 
 4. Jos haluat käyttää olemassa olevaa maksutapaa, valitse yksi avattavasta luettelosta ja valitse sitten **Korvaa**.
 
-    > [!NOTE]
-    > Jos sinulla on laskutusprofiiliin liitettyjä tilauksia, voit maksaa ne vain luotto- tai pankkikortilla. Jos sinulla on pankkitili listattuna **Maksutavat**-sivulla, niitä ei voi valita avattavasta luettelosta.
+    **Huomautus:** Jos sinulla on laskutusprofiiliin liitettyjä tilauksia, voit maksaa ne vain luotto- tai debit-kortilla. Jos sinulla on pankkitili listattuna **Maksutavat**-sivulla, niitä ei voi valita avattavasta luettelosta.
 
 5. Jos haluat lisätä uuden maksutavan, valitse **Lisää maksutapa**.
 

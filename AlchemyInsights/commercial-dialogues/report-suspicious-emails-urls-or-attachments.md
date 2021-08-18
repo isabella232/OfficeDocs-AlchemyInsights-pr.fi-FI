@@ -12,25 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091129"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Epäilyttävistä sähköpostiviestistä, URL-osoitteista tai liitteistä ilmoittaminen
 
-Ymmärrän, että tarvitset apua epäilyttävän sähköpostiviestin tai virheellisesti suodatteen tutkimista. Voin auttaa sinua antamaan ongelman analysointia varten Käyttämällä **Submissions (Lähetykset)** -portaalia, joka antaa sinulle välitöntä palautetta. Seuraavassa on yhteenveto vaiheista:
+Ymmärrän, että tarvitset apua epäilyttävän sähköpostiviestin tai virheellisesti suodatteen tutkimista. Voin auttaa sinua antamaan ongelman analysoinniksi Submissions Explorerilla, joka antaa sinulle välittömästi palautetta. Seuraavassa on yhteenveto vaiheista:
 
-1. Siirry Microsoft 365 Defender <https://security.microsoft.com> -portaalissa **sähköposti- &** \> **yhteiskäyttölähetykset**.
-
-   Siirry suoraan **Submissions (Lähetykset) -sivulle** käyttämällä <https://security.microsoft.com/reportsubmission> .
-
-2. Tarkista **Lähetykset-sivulla**  Lähetetty analyysia varten -välilehti on valittuna, ja valitse **sitten + Lähetä Microsoftille analyysia varten.**
-
-3. Näkyviin tulee pikaikkuna, jossa on mahdollisuus lähettää sähköposti, URL-osoite tai tiedosto.
-
-Lisätietoja on kohdassa Roskapostiksi [epäiltyjen roskapostien, tietojen,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)URL-osoitteiden ja tiedostojen lähettäminen Microsoftille järjestelmänvalvojan lähetyksen avulla.
-
-**Huomautus:** Ilmoita käyttäjille, että heidän tulee ilmoittaa kaikista epäilyttävistä viesteistä Saapuneet-kansiossa Ilmoita viestistä -apuohjelmalla tai [Report Phishing -apuohjelmalla.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+1. Siirry Office 365 [tietoturva- & -hallintakeskukseen](https://go.microsoft.com/fwlink/p/?linkid=2077143)ja valitse sitten **Uhkien hallinnan**  >  [lähetykset](https://go.microsoft.com/fwlink/?linkid=2101521).
+2. Valitse **+ Uusi lähetys**. Näkyviin tulee pikaikkuna, jossa on mahdollisuus lähettää joko sähköpostiviesti, URL-osoite tai tiedosto.
+    > [!NOTE]
+    > Ilmoita käyttäjille, että heidän tulisi ilmoittaa epäilyttävistä viesteistä Saapuneet-kansiossa Microsoftille [Ilmoita viestistä -apuohjelman avulla.](https://go.microsoft.com/fwlink/?linkid=2092385)
