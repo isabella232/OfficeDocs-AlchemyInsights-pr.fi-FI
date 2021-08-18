@@ -16,12 +16,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0148fdbf6a88d1a057aecef60277d20173d8573e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321714"
 ---
 # <a name="subscription-recurring-billing"></a>Tilauksen toistuva laskutus
 
@@ -30,7 +30,7 @@ Jos haluat tietää, milloin kuukausi- tai vuositilauksesi laskutetaan **(jos** 
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi** \> [-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Etsi **Tuotteet-välilehdessä** tilaus, jota haluat tietää enemmän. Tilauksen **tila -sarakkeessa** näkyy uusimis- tai vanhentumispäivä.
 3. Jos haluat tehdä muutoksen, valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Muokkaa toistuvaa laskutusta.**
-4. Valitse Muokkaa **toistuvaa laskutusta** -ruudussa **Käytössä,** **Käytössä, uusi kerran** tai **Ei käytössä.**
+4. Valitse Muokkaa **toistuvaa laskutusta** -ruudussa **Käytössä,** **Käytössä, Uusi kerran** tai **Ei käytössä.**
 5. Valitse **Tallenna**.
 
 Katso lisätietoja kohdasta [Toistuvan laskutuksen ottaminen käyttöön tai pois käytöstä](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

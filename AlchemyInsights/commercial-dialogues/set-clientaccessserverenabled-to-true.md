@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994862"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320353"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Aseta ClientAccessServerEnabled-arvoksi Tosi
 
@@ -26,11 +26,10 @@ Jos et voi avata salattua sähköpostiviestiä ja nähdä sen sijaan **rpmsg-lii
 
 1. Näyttöyhteys PowerShellin Exchange Online avulla.
 
-> [!NOTE]
-> Jos haluat muodostaa Exchange Online PowerShelliin, sinun on kirjauduttava sisään yleisen järjestelmänvalvojan tai Exchange järjestelmänvalvojan tilillä.
+    **Huomautus:** Jos haluat muodostaa Exchange Online PowerShelliin, sinun on kirjauduttava sisään yleisen järjestelmänvalvojan tai Exchange järjestelmänvalvojan tilillä.
 
    a. Avaa Windows PowerShell ja suorita sitten seuraava komento:`$UserCredential = Get-Credential`
-b. Kirjoita **Windows PowerShell tunnistetietopyyntö** -valintaikkunaan työ- tai koulutilisi ja salasanasi, c. Napsauta **OK**. 
+   b. Kirjoita **Windows PowerShell tunnistetietopyyntö** -valintaikkunaan työ- tai koulutilisi ja salasanasi, c. Napsauta **OK**. 
 
 2. Luo uusi istunto suoritamalla seuraava komento:
 
@@ -46,8 +45,7 @@ b. Kirjoita **Windows PowerShell tunnistetietopyyntö** -valintaikkunaan työ- t
 
     a. Jos **ClientAccessServerEnabled-asetuksena** on **Epätosi**, suorita seuraava cmdlet-komento: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Sulje PowerShell-istunto aina seuraavalla komennolla: `Remove-PSSession $Session`
+**Vihje:** Sulje PowerShell-istunto aina seuraavalla komennolla: `Remove-PSSession $Session`
 
-Lisätietoja on kohdassa Exchange Online [käyttäminen.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+Lisätietoja on kohdassa [PowerShellin Exchange Online.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 

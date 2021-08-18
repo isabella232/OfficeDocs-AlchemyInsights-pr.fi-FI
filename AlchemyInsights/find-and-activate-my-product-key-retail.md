@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068881"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320986"
 ---
 # <a name="retail-prepaid-card"></a>Jälleenmyyjän prepaid-kortti
 
-Jos ostit Microsoft 365 Business Standard jälleenmyyjältä, voit pidentää vanhentumispäivää tai lisätä käyttöoikeuden olemassa olevaan tilaukseen seuraavien ohjeiden mukaisesti.
+Jos ostit Microsoft 365 Business Standard jälleenmyyjältä, voit pidentää vanhentumispäivää tai lisätä käyttöoikeuden olemassa olevaan tilaukseen noudattamalla seuraavia ohjeita.
 
-> [!NOTE]
-> Jos haluat käyttää tuoteavainta vanhentumispäivän pidentämiseen tai käyttöoikeuksien lisäämiseen olemassa olevaan Microsoft 365 Business Standard tilaukseesi, tarvitset uuden ja käyttämättömän avaimen samalle Microsoft 365 tilaukselle. Alkuperäisen tuoteavaimen Microsoft 365 ei toimi, koska jo lunastettua avainta ei voi käyttää uudelleen.
+**Huomautus:** Jos haluat käyttää tuoteavainta vanhentumispäivän pidentämiseen tai käyttöoikeuden lisäämiseen olemassa olevaan Microsoft 365 Business Standard tilaukseesi, tarvitset uuden ja käyttämättömän avaimen samalle Microsoft 365 tilaukselle. Alkuperäisen tuoteavaimen Microsoft 365 ei toimi, koska jo lunastettua avainta ei voi käyttää uudelleen.
 
 1. Siirry hallintakeskuksessa Laskutus **tuotteesi**  >  **[-sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Etsi tilaus, johon haluat laajentaa tai johon haluat lisätä käyttöoikeuden. Valitse [pidennä päättymispäivää](https://go.microsoft.com/fwlink/p/?linkid=842054) [tai lisää käyttöoikeuksia](https://go.microsoft.com/fwlink/p/?linkid=842054).
