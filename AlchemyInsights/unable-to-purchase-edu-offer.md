@@ -1,26 +1,29 @@
 ---
 title: EDU-tarjousta ei voi ostaa
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088359"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451847"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>EDU-tarjousta ei voi ostaa
 
-Jos haluat määrittää, täyttääkö organisaatiosi akateemiset hinnat, sinun on [suoritettava vahvistusprosessi ja annettava toimialueesi](https://portal.office.com/Adminportal/Home#/Domains/SOWizard). Office 365 A1 tiedekunnalle -kokeiluversio ja Office 365 A1 for Students -kokeiluversio ovat käytettävissä odottaessasi organisaation kelpoisuustarkistusta.
+Voidaksemme määrittää, onko organisaatiosi oikeutettu oppilaitoshintoihin, sinun on [suoritettava tarkistusprosessi ja annettava toimialue](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). Office 365 A1 -kokeiluversio oppilaitosten henkilökunnalle ja Office 365 A1 -kokeiluversio opiskelijoille ovat käytössänne organisaation kelpoisuuden tarkistamisen ajan.
 
-Jos haluat ostaa Microsoft 365:n kaupallisesti, katso [saatavilla olevat tarjoukset](https://go.microsoft.com/fwlink/p/?linkid=868433).
+Jos haluat hankkia maksullisen Microsoft 365:n, tutustu [saatavilla oleviin tarjouksiin](https://go.microsoft.com/fwlink/p/?linkid=868433).
