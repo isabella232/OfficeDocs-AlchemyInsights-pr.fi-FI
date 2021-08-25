@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056487"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522351"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Saatko postilaatikon virhettä Outlookin verkkoversio?
 
-Jos käytät Outlookin verkkoversio mutta saat virheilmoituksen  postilaatikosta, tiliä, jota käytit yhteyden muodostamisessa Outlookin verkkoversio:han, ei ole Exchange Online-käyttöoikeutta eikä näin ollen postilaatikkoa ole liitetty tiliin. Järjestelmänvalvoja voi määrittää tilin käyttöoikeuden seuraavasti:
+Jos näyttöön tulee Outlook Web App (OWA) -virhe: "Postilaatikkoa ei löytynyt käyttäjälle .", kirjautuneella käyttäjällä ei ole Exchange Onlince -käyttöoikeutta eikä Exchange Online-postilaatikkoa ole liitetty tähän käyttäjätiliin. 
 
-1. Avaa [Microsoft 365 -hallintakeskus,](https://portal.office.com/adminportal/home#/homepage) siirry **Aktiiviset käyttäjät** -kohtaan Käyttäjät-osassa ja valitse käyttäjä, joka näkee virheen. 
+Organisaation järjestelmänvalvoja voi määrittää käyttäjälle Exchange käyttöoikeuden Microsoft 365 -hallintakeskus kautta seuraavasti:
 
-2. Siirry käyttäjäsivulla Käyttöoikeudet ja  sovellukset -osaan, valitse asianmukainen Sijainti-arvo ja määritä käyttöoikeus, joka sisältää Exchange Online (laajenna käyttöoikeus, jotta näet sen tiedot).  Kun olet valmis, valitse **Tallenna muutokset**.
-
-Joissakin tapauksissa, jos käyttöoikeus on jo määritetty käyttäjätilille, käyttöoikeuden poistaminen ja uudelleennimeäminen auttaa ratkaisemaan ongelman ja valmistella sen oikein järjestelmässä: 
-
-- Tarkista, ovatko M365 -tilauksesi Exchange Online (ja muut, jos sinulla on) tilaukset ovat ajan tasalla ja eivät ole hiljattain vanhentuneet.
-
-Kun olet varmistanut, että tilauksesi ei ole päättynyt ja että käyttäjätilille on määritetty voimassa oleva käyttöoikeus, käyttöoikeuden valmistelu voi kestää jopa 24 tuntia, joten sinun on ehkä odotettava ongelman ratkaisemista. Lisätietoja on kohdassa [Käyttöoikeuksien määrittäminen ja hallinta.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Siirry [Aktiiviset käyttäjät](https://portal.office.com/adminportal/home#/users)-valikkoon, valitse käyttäjä ja valitse **Tuotteen käyttöoikeudet**  >  **Muokkaa**. 
+1. Määritä tarvittava sijainti.
+1. Määritä käyttöoikeus, jolla on Exchange Online palvelupaketti.
