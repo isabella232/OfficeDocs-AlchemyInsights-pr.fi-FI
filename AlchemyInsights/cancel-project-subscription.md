@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 4b1b83f29d6ac91d3306792a405e531b174dd718
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 3f1e6e729d47bee0ff8c69b938883c32102d046c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330441"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841646"
 ---
 # <a name="cancel-project-subscription"></a>Tilauksen Project peruuttaminen
 
 Järjestelmänvalvojat voivat Project organisaationsa tilauksen Microsoft 365 -hallintakeskus.
 
 1. Siirry Laskutus  \> [tuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Etsi **Tuotteet-välilehdestä** Project tilaus, jonka haluat peruuttaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Peruuta tilaus**.
+2. Etsi **Tuotteet-välilehdessä** Project tilaus, jonka haluat peruuttaa. Valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Peruuta tilaus**.
 3. Valitse **Peruuta tilaus** -ruudussa peruutuksen syy. Voit halutessasi antaa palautetta.
 4. Valitse **Tallenna**.
 

@@ -3,7 +3,6 @@ title: Laskutusosoitteen tai laskutuksen sähköposti-ilmoitusten muuttaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332478"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842006"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Laskutusosoitteen tai laskutuksen sähköposti-ilmoitusten muuttaminen
 
@@ -33,7 +33,7 @@ ms.locfileid: "58332478"
 
 3. Valitse **Maksutapatiedot-sivulla** **Muokkaa**.
 
-4. Päivitä laskutusosoite ja valitse sitten **Tallenna > valmis**.
+4. Päivitä laskutusosoite ja valitse sitten **Tallenna > Valmis**.
 
 **Muuta vaihtoehtoista sähköpostiosoitetta, jonka laskutusilmoitukset lähetetään** 
 
@@ -45,4 +45,4 @@ ms.locfileid: "58332478"
 
 4. Kirjoita **Vaihtoehtoinen sähköpostiosoite** -ruutuun vaihtoehtoinen sähköpostiosoite, jota haluat käyttää, ja valitse sitten **Tallenna**.
 
-Lisätietoja osoitteiden ja ilmoitusten muutoksista on kohdassa Microsoft 365 [laskutusosoitteiden muuttaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Lisätietoja osoitteen ja ilmoitusten muutoksista on kohdassa [Yritysasiamiesi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)Microsoft 365 muuttaminen.
