@@ -3,7 +3,6 @@ title: Laskutus ja maksaminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314913"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844959"
 ---
 # <a name="billing-and-payment"></a>Laskutus ja maksaminen
 
-Laskusi löytyvät Laskutuslaskut-   >  [& välilehdistä.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Laskujen viimeiset 3 kuukautta näytetään oletusarvoisesti.  Jos haluat tarkastella vanhempia laskuja, muokkaa suodatinta.  Voit tarkastella **laskua napsauttamalla Lataa laskun PDF** -linkkiä.
+Laskusi löytyvät Laskutuslaskut ja  >  [& -välilehdestä.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Laskujen viimeiset 3 kuukautta näytetään oletusarvoisesti.  Jos haluat tarkastella vanhempia laskuja, muokkaa suodatinta.  Voit tarkastella **laskua napsauttamalla Lataa laskun PDF** -linkkiä.
 
 **Laskujen vastaanottaminen sähköpostitse**
 
@@ -60,4 +60,4 @@ Lisätietoja on kohdassa [Maksutapojen hallinta](https://docs.microsoft.com/micr
 
 Laskut luodaan kuukausittain tai vuosittain kassalla valitun laskutusvälin mukaan.  
 
-**Huomautus:** Vuosittaiseen laskutukseen liittyvät tilaukset voivat saada laskun kesken vuoden, jos muutoksia on tehty, kuten käyttöoikeuksien lisääminen tai poistaminen. [Muuta laskutusväliä.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Huomautus:** Vuosittaista laskutusta koskevat tilaukset voivat saada laskun kesken vuoden, jos muutoksia on tehty esimerkiksi lisättäessä tai poistettaessa käyttöoikeuksia. [Muuta laskutusväliä.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

@@ -3,7 +3,6 @@ title: Käyttöoikeuksien keskeyttäminen tai keskeyttäminen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 4c6c265ca3f06e4fe15cba5d6448f48c38341296
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321678"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844023"
 ---
 # <a name="suspend-or-pause-licenses"></a>Käyttöoikeuksien keskeyttäminen tai keskeyttäminen
 
 **KATSO video,** jossa näytetään, miten voit tehdä tämän: [Olemassa olevien käyttöoikeuksien poistaminen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Jos haluat keskeyttää käyttöoikeuden käytön tilapäisesti tai keskeyttää sen, voit Microsoft 365 -hallintakeskus käyttöoikeuksia ja lisätä ne sitten uudelleen myöhemmin.
+Voit keskeyttää käyttöoikeuden käytön tilapäisesti poistamalla käyttöoikeuksia Microsoft 365 -hallintakeskus ja lisäämällä ne sitten uudelleen myöhemmin.
 
 1. Ennen kuin poistat käyttöoikeuksia tilauksesta, sinun on [ensin poistattava käyttöoikeuksien käyttöoikeuksien poistaminen käyttäjiltä.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Siirry seuraavaksi   >  [Laskutustuotteesi -sivulle.](https://go.microsoft.com/fwlink/p/?linkid=842054)
