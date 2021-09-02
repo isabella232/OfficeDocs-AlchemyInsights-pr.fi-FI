@@ -1,8 +1,9 @@
 ---
-title: Avoimen saldon maksaminen manuaalisesti
+title: Maksa maksamaton saldo manuaalisesti
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001506"
 - "9147"
 - "1500012"
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: c2b9f6142772f4afa9146b79fb9797acba611cff
-ms.sourcegitcommit: 1e00da0b3665f54e377cbe28809b2d1e1db4bd4b
-ms.translationtype: MT
+ms.date: 08/10/2021
+ms.openlocfilehash: 65621eae4c201a07983853f589caa5169a85660f
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491796"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836678"
 ---
-# <a name="manually-pay-an-outstanding-balance"></a>Avoimen saldon maksaminen manuaalisesti
+# <a name="manually-pay-an-outstanding-balance"></a>Maksa maksamaton saldo manuaalisesti
 
-Pankkisäännösten viimeisimmät muutokset automaattisiin toistuviin tapahtumiin ovat saattaneet aiheuttaa sen, että pankkisi hylkää maksun. Maksa saldosi manuaalisesti noudattamalla alla olevia ohjeita.
+Pankkisäännösten viimeaikaiset muutokset koskien automaattisia toistuvia tapahtumia ovat saattaneet aiheuttaa sen, että pankkisi on hylännyt maksusi. Maksa saldosi manuaalisesti noudattamalla alla olevia ohjeita.
 
-1. Siirry hallintakeskuksessa Laskutuslaskut-& ja valitse Sitten  >  [](https://go.microsoft.com/fwlink/p/?linkid=2018806) **Maksutavat-välilehti.**
-2. Varoitussanoma ilmoittaa, mikä maksutapa on hylätty. Valitse Tilitä **saldo -linkki.**
-3. Valitse oikeanpuoleisessa ruudussa nykyinen maksutapasi, valitse toinen maksutapa tai lisää uusi maksutapa ja valitse sitten Ratkaise **saldo.**
-4. Jos pankkisi vaatii sitä, sinua pyydetään antamaan lisää suojaus- ja todennustietoja.
+1. Siirry hallintakeskuksessa kohtaan **Laskutus** > [Laskut ja maksut](https://go.microsoft.com/fwlink/p/?linkid=2018806) -sivulla ja valitse **Maksutavat**-välilehti.
+2. Varoitussanomassa kerrotaan, mikä maksutapa hylättiin. Valitse **Suorita maksu** -linkki.
+3. Valitse oikeanpuoleisessa ruudussa nykyinen maksutapasi, valitse toinen maksutapa tai lisää uusi maksutapa ja valitse sitten **Suorita maksu**.
+4. Jos pankkisi edellyttää sitä, sinua pyydetään antamaan muita suojaus- ja todennustietoja.
 
-Lisätietoja on kohdassa [Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) ja [tilauksen maksaminen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Lisätietoja on artikkelissa [Maksutapojen hallinta](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) ja [Tilauksen maksaminen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

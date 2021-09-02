@@ -1,31 +1,32 @@
 ---
 title: Exchange Online -palvelupakettien vaihtaminen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706860"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841970"
 ---
 # <a name="change-exchange-online-plans"></a>Exchange Online -palvelupakettien vaihtaminen
 
-Järjestelmänvalvojien on vaihdettava palvelupakettia manuaalisesti. Katso täydelliset ohjeet artikkelista [Microsoft 365:n vaihtaminen yrityspalvelupaketteihin manuaalisesti](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Järjestelmänvalvojien on muutettava palvelupaketteja manuaalisesti Microsoft 365 -hallintakeskuksessa. Katso ohjeet kohdasta [Palvelupakettien muuttaminen manuaalisesti](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. Osta uusi tilauspalvelupaketti. Siirry Microsoft 365 -hallintakeskuksessa kohtaan **Laskutus > [Osta palveluita](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Löydät palvelupaketit helpoimmin hakuruudun avulla.
-
-2. Tarkista uusi tilaus ja käyttöoikeudet. Siirry Microsoft 365 -hallintakeskuksessa kohtaan **Laskutus > [Tilaukset](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Jos uutta tilausta ei näy luettelossa tai se ei ole aktiivinen, katso [tämä](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Määritä käyttöoikeudet uudelleen käyttäjille. Siirry Microsoft 365 -hallintakeskuksessa kohtaan **Käyttäjät > [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822)** ja määritä käyttöoikeudet.
-
-4. [Poista tilaukset tai käyttöoikeudet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional), joita et enää tarvitse.
+1. **Osta uusi tilaussopimus.** Siirry kohtaan **Laskutus** > [Osta palveluita](https://go.microsoft.com/fwlink/p/?linkid=868433) -sivulla ja osta uusi tilaus.
+2. **Tarkista uusi tilauksesi ja käyttöoikeutesi.** Siirry kohtaan **Laskutus** > [Tuotteesi](https://go.microsoft.com/fwlink/p/?linkid=842054) -sivulla ja varmista, että uusi tilaus on luettelossa ja että siinä on oikea määrä käyttöoikeuksia.
+3. **Määritä käyttöoikeudet uudelleen käyttäjille.** Siirry kohtaan **Käyttäjät** > [Aktiiviset käyttäjät](https://go.microsoft.com/fwlink/p/?linkid=834822) -sivulla ja määritä käyttöoikeudet.
+4. [Peruuta tilauksesi](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) tai [poista tarpeettomia käyttöoikeuksia](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
