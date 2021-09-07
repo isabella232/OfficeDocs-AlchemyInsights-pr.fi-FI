@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978158"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923551"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPointin hallinta – Suojauksen perustasot
 
@@ -37,6 +37,8 @@ Jokainen perustaso päivitetään säännöllisesti ja julkaistaan asteittaisina
 Ohjeita siitä, miten voit tehokkaasti muuttaa sitä, mikä perustason versio on käytössä, on kohdassa [Suojauksen perustason profiilien hallinta Microsoft Intunessa](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Kun olet ottanut suojauksen perustasokäyttöön, voit valvoa käyttöönoton tilaa ja tarkastella asetuksia laitekohtaisesti.
+
+Koska suojauksen perusaikatauluissa on useita asetuksia, on tärkeää tarkistaa määritysmuutokset ja testata, että kaikki asetukset sopivat laitteisiisi ja liiketoimintatarpeisiisi.
 
 **Huomautus:** Perustasojen raportointitietojen tuleminen näkyviin ensimmäisen käyttöönoton jälkeen laitteeseen voi kestää jopa 24 tuntia ja lisäpäivityksiä varten enintään 6 tuntia. 
 
