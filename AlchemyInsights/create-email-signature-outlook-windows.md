@@ -1,5 +1,5 @@
 ---
-title: Sähköpostin allekirjoituksen luominen Outlook Windows
+title: Sähköpostin allekirjoituksen luominen Outlook for Windowsissa
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,28 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8a1f8d0b1bb0ab38c3facf63c01a5c2ed68ca96d
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016337"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923767"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>Sähköpostin allekirjoituksen luominen Outlook Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>Sähköpostin allekirjoituksen luominen Outlook for Windowsissa
 
-Voit luoda sähköpostin allekirjoituksen Outlook versioihin, kuten Outlook 2019:ssä, 2016:ssa tai 2013:ssa, seuraavasti:
+Voit luoda sähköpostin allekirjoituksen Windowsin Outlook 2019:ssä, 2016:ssa tai 2013:ssa seuraavasti:
 
-1. Valitse **Outlook-välilehdessä** **Uusi** sähköpostiviesti ja valitse sitten **Viesti-välilehti.**
+1. Avaa Outlook ja valitse **Tiedosto** > **Asetukset**.
+1. Valitse **Sähköposti** > **Allekirjoitukset...**.
+1. Valitse **Uusi**, kirjoita nimi ja valitse **OK**.
+1. Kirjoita allekirjoitus **Muokkaa allekirjoitusta** -ruudussa ja valitse **Tallenna**.
+1. Jos haluat sisällyttää uuden allekirjoituksesi uusiin viesteihin, vastauksiin tai edelleenlähetyksiin, valitse avattava ruutu **Valitse oletusallekirjoitus** ja valitse sitten uusi allekirjoitus.
+1. Valitse **OK**.
 
-1. Valitse **Sisällytä-ryhmässä** **Allekirjoitus** ja valitse sitten **Allekirjoitukset**.
-
-1. Valitse **Valitse muokattava allekirjoitus** **-kohdassa** Uusi  ja kirjoita allekirjoituksen nimi Uusi allekirjoitus -valintaikkunaan.
-
-1. Valitse **Valitse oletusallekirjoitus** **-kohdan Sähköpostitili-luettelosta** sähköpostitili, jonka haluat liittää allekirjoitukseen.
-
-1. Valitse **Valitse muokattava allekirjoitus**-kohdassa **Uusi** ja kirjoita allekirjoituksen nimi.
-
-1. Kirjoita **Muokkaa allekirjoitusta**-ruutuun allekirjoitus, jota haluat käyttää, ja valitse **OK**.
-
-Lisätietoja sähköpostin allekirjoituksen luosta vanhemmissa Outlook-versioissa, kuten Outlook 2010:ssä tai 2007:ssä, on kohdassa Allekirjoituksen luominen [ja lisääminen viesteihin.](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
-
+Lisätietoja sähköpostin allekirjoituksen luomisesta Outlookin vanhemmissa versioissa, kuten Outlook 2010:ssä, on artikkelissa [Allekirjoituksen luominen ja lisääminen viesteihin](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).
