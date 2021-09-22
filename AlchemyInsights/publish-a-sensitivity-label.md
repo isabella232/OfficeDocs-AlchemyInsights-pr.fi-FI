@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062869"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475214"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Luottamuksellisuusmerkinnän julkaiseminen
 
 1. Siirry Microsoft 365 -> **tietojensuojaustarrojen**  >  **käytäntöjä.**
 
-1. Käynnistä **ohjattu uusi luottamuksellisuusmerkintätoiminto** valitsemalla + Julkaise selite.
+1. Käynnistä **ohjattu uusi luottamuksellisuusmerkinnän** luominen valitsemalla + Julkaise selite.
 
-1. Valitse **Valitse julkaistavat luottamuksellisuusmerkinnät**. Valitse selitteet, jotka haluat ottaa käyttöön sovelluksissa ja palveluissa, ja valitse sitten **Lisää**.
+1. Valitse **Valitse julkaistavat luottamuksellisuusmerkinnät**. Valitse tarrat, jotka haluat ottaa käyttöön sovelluksissa ja palveluissa, ja valitse sitten **Lisää**.
 
     **Tärkeää:** Jos valitset alimerkin, varmista, että valitset myös sen pääotsikot.
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062869"
 1. Jos luot useamman kuin yhden selitekäytännön, joka voi aiheuttaa ristiriidan käyttäjälle tai sijainnille, tarkista käytäntöjärjestys ja siirrä niitä tarvittaessa ylös- tai alaspäin. Jos haluat muuttaa selitekäytännön järjestystä, valitse kolme painiketta (lisää toimintoja) ja valitse sitten **Siirrä ylös** tai **Siirrä alas.**
 
 Kun ohjattu toiminto suoritetaan loppuun, selitekäytäntö julkaistaan automaattisesti.
+
+Lisätietoja on kohdassa [Luottamuksellisuusotsikoiden ja niiden käytäntöjen luominen ja määrittäminen.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
